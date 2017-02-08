@@ -2,10 +2,24 @@
 
 A prototype app for browsing and searching Association for Diplomatic Studies and Training (ADST) Oral History Interviews.
 
+## About the sources
+
+From the [ADST Oral History](http://adst.org/oral-history/) homepage:
+
+> Since 1986, the Foreign Affairs Oral History Program of the Association for Diplomatic Studies and Training (ADST) has recorded more than 2500 interviews with former participants in the U.S. foreign affairs process. Collectively, these oral histories span over 80 years. About 60 new interviews are added annually. The series also contains some significant oral histories dealing with American diplomacy, which were provided by universities and presidential libraries.
+> 
+> The oral history collection has become one of the largest in the country on any subject and the most significant collection on foreign affairs.
+>
+> The Oral History Collection is a part of the Library of Congress American Memory collection. It is unclassified and available to the public and can be found at Library’s [Front Line Diplomacy](http://memory.loc.gov/ammem/collections/diplomacy/) website. It is also available on ADST’s site under [Oral History Interviews](http://adst.org/oral-history/oral-history-interviews/).
+
+The Library of Congress (LOC) hosts the ADST interview transcripts at https://www.loc.gov/collections/foreign-affairs-oral-history/about-this-collection/. ADST's site has these, as well as some newer interviews not yet posted on LOC's site, in PDF form, at http://adst.org/oral-history/oral-history-interviews/. Some of the ADST PDFs contain tables of contents not found in the LOC edition. The LOC edition is available in basic TEI (P4-era?) XML and PDF, and is enriched with subject headings available in JSON-encoded metadata.
+
+For example, the LOC makes the ADST [Interview with L. Bruce Laingen](https://www.loc.gov/item/mfdipbib000651) available in [TEI XML](https://cdn.loc.gov/service/mss/mfdip/2004/2004lai01/2004lai01.xml) and [JSON-encoded metadata](https://www.loc.gov/item/mfdipbib000651?fo=json). These were adapted and enriched from the [original ADST manuscript (PDF)](http://www.adst.org/OH%20TOCs/Laingen,%20L.%20Bruce%20.toc.pdf).
+
 ## Current status
 
-- [x] Obtain all 1,724 interviews (text and metadata) from https://www.loc.gov/collections/foreign-affairs-oral-history/about-this-collection/
-    - [x] Download source XML and JSON data. For example, for the [Interview with L. Bruce Laingen](https://www.loc.gov/item/mfdipbib000651), see its original [XML source data](https://cdn.loc.gov/service/mss/mfdip/2004/2004lai01/2004lai01.xml) and [JSON-encoded metadata](https://www.loc.gov/item/mfdipbib000651?fo=json). The XQuery scripts used to download the data are in the `import-scripts` directory)
+- [x] Obtain all 1,724 interviews (text and metadata) from LOC link above.
+    - [x] Download source XML and JSON data. The XQuery scripts used to download the data are in the `import-scripts` directory.
     - [x] Place JSON-encoded metadata in `data/metadata`
     - [x] Place full text XML-encoded interviews in `data/interviews`
     - [x] Convert LOC's P4(?)-era TEI XML to P5-conformant TEI XML (referencing American Memory DTD documentation at https://memory.loc.gov/ammem/amdtd.html; see XQuery scripts in `import-scripts`)
