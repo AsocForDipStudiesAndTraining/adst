@@ -1,0 +1,1732 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Weiss, M. L. &amp; Spencer, J. B. (1989) <cite>Interview with June Byrne Spencer</cite>. March 2. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001107/.", 
+    "mla": "Weiss, Mary Louise, and June Byrne Spencer. <cite>Interview with June Byrne Spencer</cite>. March 2, 1989. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001107/&gt;.", 
+    "chicago": "Weiss, Mary Louise, and June Byrne Spencer. <cite>Interview with June Byrne Spencer</cite>. March 2, 1989. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001107/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412060834,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.3213888888888885, 
+                    48.843055555555559
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Montparnasse (Paris, France)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Quartier du Montparnasse (Paris, France)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Paris. Montparnasse"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n82144259"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Fr. FRA French Republic", 
+                        "id": "83c7499f1fd87361", 
+                        "name": "France"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "c2630b5cd7ca7888", 
+                        "name": "\u00cele-de-France"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b2042e1effd4d1cc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.7035825, 
+                    40.416704699999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Madrid", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "be", 
+                        "name": "\u041c\u0430\u0434\u0440\u044b\u0434"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Madril"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05de\u05d3\u05e8\u05d9\u05d3"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30de\u30c9\u30ea\u30fc\u30c9"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Madryt"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041c\u0430\u0434\u0440\u0438\u0434"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u041c\u0430\u0434\u0440\u0438\u0434"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u041c\u0430\u0434\u0440\u0438\u0434"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u9a6c\u5fb7\u91cc"
+                    }, 
+                    {
+                        "lang": "zh_pinyin", 
+                        "name": "M\u01ced\u00e9l\u01d0"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/21068295"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Sp. ESP Kingdom of Spain", 
+                        "id": "2a870a05213fcc00", 
+                        "name": "Spain"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Madrid|Communaut\u00e9 de Madrid| Community of Madrid|Comunidad de Madrid |Comunidade de Madrid|Comunitat de Madrid", 
+                        "id": "9a865d5c4b105440", 
+                        "name": "Comunidad de Madrid"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cfaa0a0848134358", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.179722222222221, 
+                    36.802777777777777
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tunis (Tunisia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Tunez (Tunisia)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Tunis"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79065310"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Tounis|Tunis City|Tunus|T\u00fanez|T\u00fanis|Tunisi|Tunis", 
+                        "id": "c0c364eb2508d35c", 
+                        "name": "Tunis"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Tun. TUN Republic of Tunisia", 
+                        "id": "7df67b010b1562d5", 
+                        "name": "Tunisia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7059f28c294d38fb", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.48658, 
+                    46.931220000000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Muri", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Muri bei Bern"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Muri"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2659532"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Berna|Berne", 
+                        "id": "2f82a7e5e77501cc", 
+                        "name": "Bern"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Switz. CHE Swiss Confederation", 
+                        "id": "1d12dedc39c30928", 
+                        "name": "Switzerland"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ab7e310dde127a4e", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    38.761252499999998, 
+                    9.0107934000000007
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Addis Ababa", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "am", 
+                        "name": "\u12a0\u12f2\u1235 \u12a0\u1260\u1263"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d0\u05d3\u05d9\u05e1 \u05d0\u05d1\u05d1\u05d4"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Addis Ababa"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u0434\u0434\u0438\u0441-\u0410\u0431\u0435\u0431\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Addis Abeba"
+                    }, 
+                    {
+                        "lang": "orm", 
+                        "name": "Finfinne"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27565076"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Addis Ababa|Addis Abeba|Adis-Abeba|Adis Abeba", 
+                        "id": "935959fe39c9d5b5", 
+                        "name": "Addis Ababa"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Eth. ETH Federal Democratic Republic of Ethiopia", 
+                        "id": "f4885bdcb50f251b", 
+                        "name": "Ethiopia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "57e01b340ffb70d4", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000101/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 1, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "\"Nowadays most Paterson folks work out of town.\"", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.30285412, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000101/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000101/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02804", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02804/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02804/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000103/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 2, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Vision for the future of the historic district", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.30285412, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000103/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000103/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02806", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02806/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02806/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000104/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 3, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Most important thing to know about Paterson", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.30285412, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000104/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000104/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02807", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02807/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02807/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000105/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 4, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "The character of Paterson", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.30285412, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000105/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000105/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02808", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02808/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02808/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "id": "http://www.loc.gov/item/owi2001045681/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "farm security administration/office of war information black-and-white negatives", 
+            "american memory"
+        ], 
+        "subject": [
+            "africa", 
+            "ethiopia", 
+            "addis ababa", 
+            "safety film negatives"
+        ], 
+        "index": 5, 
+        "group": [
+            "fsa", 
+            "fsa-owi-black-and-white-negatives"
+        ], 
+        "title": "Addis Ababa, Ethiopia. Haile Selassie, Emperor of Ethiopia, in his study at the palace", 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.29677379999999998, 
+        "location": [
+            "ethiopia", 
+            "addis ababa", 
+            "africa"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : safety ; 4 x 5 inches or smaller."
+        ], 
+        "timestamp": "2016-07-06T18:01:50.142000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-06T16:41:25.004000Z", 
+        "date": "1942", 
+        "shelf_id": "LC-USW33- 019078-C [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1942-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/owi2001045681/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00800/8e00855_150px.jpg#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00800/8e00855t.gif#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00800/8e00855r.jpg#h=489&w=640", 
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00800/8e00855v.jpg#h=782&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/fsa/item/owi2001045681/pp/", 
+            "http://www.loc.gov/item/owi2001045681/pp/", 
+            "http://www.loc.gov/pictures/item/owi2001045681/pp/", 
+            "http://hdl.loc.gov/loc.pnp/fsa.8e00855", 
+            "http://www.loc.gov/resource/fsa.8e00855/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "latlong": "40.9166666667,-74.1719444444", 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000102/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 6, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Manufacturing in Paterson", 
+        "coordinates": [
+            "40.9166666667,-74.1719444444"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.28963727, 
+        "lonlat": [
+            -74.171944444399998, 
+            40.916666666700003
+        ], 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "paterson", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000102/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000102/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02805", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02805/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02805/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "weiss, mary louise", 
+            "fenzi, jewell"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000366/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "spouses", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Jewell Fenzi", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.1581225000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "mexico", 
+            "washington", 
+            "rabat", 
+            "united states", 
+            "san francisco", 
+            "trinidad", 
+            "brazil", 
+            "curacao", 
+            "tobago", 
+            "netherlands antilles", 
+            "rotterdam", 
+            "near east", 
+            "sierra leone", 
+            "eurasia", 
+            "washington d.c.", 
+            "arizona", 
+            "iowa", 
+            "africa", 
+            "california", 
+            "netherlands", 
+            "freetown", 
+            "hawaii", 
+            "morocco", 
+            "port of spain", 
+            "western hemisphere", 
+            "recife"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:14.181000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:14.455000Z", 
+        "date": "1988-03-18", 
+        "shelf_id": "Spouse Series", 
+        "other_title": [], 
+        "dates": [
+            "1988-03-18T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000366/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000366/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004fen02", 
+            "http://www.loc.gov/resource/mfdip.2004fen02/", 
+            "http://www.loc.gov/item/mfdip.2004fen02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "mahoney, michael", 
+            "bosworth, stephen c."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001521/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Stephen Bosworth", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.7732348, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "east asia", 
+            "eurasia", 
+            "paris", 
+            "madrid", 
+            "philippines", 
+            "washington", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "tunisia", 
+            "new york", 
+            "western hemisphere", 
+            "south", 
+            "\"korea", 
+            "panama city", 
+            "near east", 
+            "panama", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001521", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001521/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001521/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010bos01", 
+            "http://www.loc.gov/resource/mfdip.2010bos01/", 
+            "http://www.loc.gov/item/mfdip.2010bos01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "sullivan, margaret", 
+            "vance, jean c."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001215/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "spouses", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Jean C. Vance", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.7637350000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "brazil", 
+            "europe", 
+            "addis ababa", 
+            "chad", 
+            "eurasia", 
+            "n'djamena", 
+            "africa", 
+            "washington", 
+            "rio de janeiro", 
+            "france", 
+            "united states", 
+            "ethiopia", 
+            "western hemisphere", 
+            "martinique", 
+            "west indies", 
+            "zaire", 
+            "nice", 
+            "kinshasa"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1990-12-07", 
+        "shelf_id": "Spouse Series", 
+        "other_title": [], 
+        "dates": [
+            "1990-12-07T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001215/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001215/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004van05", 
+            "http://www.loc.gov/resource/mfdip.2004van05/", 
+            "http://www.loc.gov/item/mfdip.2004van05/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "krenn, michael l.", 
+            "todman, terence a."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001183/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Terence A. Todman", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.6830096000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "new delhi", 
+            "europe", 
+            "chad", 
+            "eurasia", 
+            "madrid", 
+            "washington", 
+            "central asia", 
+            "india", 
+            "costa rica", 
+            "united states", 
+            "tunisia", 
+            "tunis", 
+            "africa", 
+            "denmark", 
+            "western hemisphere", 
+            "argentina", 
+            "buenos aires", 
+            "near east", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1995-06-13", 
+        "shelf_id": "mfdipbib001183", 
+        "other_title": [], 
+        "dates": [
+            "1995-06-13T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001183/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001183/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004tod01", 
+            "http://www.loc.gov/resource/mfdip.2004tod01/", 
+            "http://www.loc.gov/item/mfdip.2004tod01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "fenzi, jewell", 
+            "bell, linda"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000067/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "spouses", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Linda Bell", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.6721780000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "tunisia", 
+            "washington", 
+            "abidjan", 
+            "wellington", 
+            "united states", 
+            "new zealand", 
+            "cote d'ivoire", 
+            "lusaka", 
+            "harare", 
+            "oslo", 
+            "near east", 
+            "washington d.c.", 
+            "africa", 
+            "zambia", 
+            "zimbabwe", 
+            "pacific", 
+            "east asia", 
+            "norway", 
+            "rabat", 
+            "morocco", 
+            "tunis"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1991-07-05", 
+        "shelf_id": "Spouse Series", 
+        "other_title": [], 
+        "dates": [
+            "1991-07-05T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000067/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000067/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004bel03", 
+            "http://www.loc.gov/resource/mfdip.2004bel03/", 
+            "http://www.loc.gov/item/mfdip.2004bel03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "weiss, mary louise", 
+            "weisz, yetta f."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001664/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with . Yetta F. Weisz", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.5525310000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "new delhi", 
+            "europe", 
+            "eurasia", 
+            "paris", 
+            "washington", 
+            "india", 
+            "france", 
+            "united states", 
+            "western hemisphere", 
+            "central asia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "Spouse Series", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001664/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001664/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010wei03", 
+            "http://www.loc.gov/resource/mfdip.2010wei03/", 
+            "http://www.loc.gov/item/mfdip.2010wei03/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "spencer, june byrne": "https://www.loc.gov/search/?fa=contributor%3Aspencer%2C+june+byrne&fo=json"
+        }, 
+        {
+            "weiss, mary louise": "https://www.loc.gov/search/?fa=contributor%3Aweiss%2C+mary+louise&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Spouses", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "France -- Paris", 
+        "Spain -- Madrid", 
+        "Tunisia -- Tunis", 
+        "Switzerland -- Bern", 
+        "Ethiopia -- Addis Ababa", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Africa"
+    ], 
+    "created_published": [
+        "March 2, 1989"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004spe04#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001107/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "spouses", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004spe04"
+    ], 
+    "call_number": [
+        "Spouse Series"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 9.0981749999999995, 
+    "title": "Interview with June Byrne Spencer ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "spouses": "https://www.loc.gov/search/?fa=subject%3Aspouses&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "addis ababa": "https://www.loc.gov/search/?fa=location%3Aaddis+ababa&fo=json"
+        }, 
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "bern": "https://www.loc.gov/search/?fa=location%3Abern&fo=json"
+        }, 
+        {
+            "ethiopia": "https://www.loc.gov/search/?fa=location%3Aethiopia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "france": "https://www.loc.gov/search/?fa=location%3Afrance&fo=json"
+        }, 
+        {
+            "madrid": "https://www.loc.gov/search/?fa=location%3Amadrid&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "paris": "https://www.loc.gov/search/?fa=location%3Aparis&fo=json"
+        }, 
+        {
+            "spain": "https://www.loc.gov/search/?fa=location%3Aspain&fo=json"
+        }, 
+        {
+            "switzerland": "https://www.loc.gov/search/?fa=location%3Aswitzerland&fo=json"
+        }, 
+        {
+            "tunis": "https://www.loc.gov/search/?fa=location%3Atunis&fo=json"
+        }, 
+        {
+            "tunisia": "https://www.loc.gov/search/?fa=location%3Atunisia&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }
+    ], 
+    "_version_": 1540399635968819200, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:46.263000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+    "date": "19890302", 
+    "shelf_id": "Spouse Series", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1989": "https://www.loc.gov/search/?dates=1989-1989&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001107/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001107/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004spe04", 
+        "http://www.loc.gov/resource/mfdip.2004spe04/", 
+        "http://www.loc.gov/item/mfdip.2004spe04/"
+    ], 
+    "contributor_names": [
+        "Weiss, Mary Louise (Interviewer)", 
+        "Spencer, June Byrne (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.27146601676940918, 
+    "default_count": 25, 
+    "id": "mfdipbib001107/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001107/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004spe04/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004spe04/2004spe04.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004spe04/2004spe04.pdf"
+    }
+]}

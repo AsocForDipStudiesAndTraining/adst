@@ -1,0 +1,1827 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Dieterich, W. J. (1999) <cite>Interview with William Jeffras Dieterich</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001343/.", 
+    "mla": "Kennedy, Charles Stuart, and William Jeffras Dieterich. <cite>Interview with William Jeffras Dieterich</cite>. 1999. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001343/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and William Jeffras Dieterich. <cite>Interview with William Jeffras Dieterich</cite>. 1999. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001343/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411870265,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.468611111111111, 
+                    41.829444444444448
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "EUR (Rome, Italy)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Universal Exhibition of Rome (Rome, Italy)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n00005753"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Lacio|Latium", 
+                        "id": "909febdf4dec8578", 
+                        "name": "Lazio"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "dd677eec5818a64b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -78.512091299999994, 
+                    -0.22016869999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Quito", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fr", 
+                        "name": "Quito"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Quito"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0438\u0442\u043e"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Quito"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/58950371"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "daa62f07fd58348a", 
+                        "name": "Pichincha"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ecu. ECU Republic of Ecuador", 
+                        "id": "ef7691f588bdd80c", 
+                        "name": "Ecuador"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "368fa7afd5c05cf2", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    34.766666666666666, 
+                    32.06666666666667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tel Aviv (Israel)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Tel Aviv-Yafo (Israel)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79066414"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Isr. ISR State of Israel", 
+                        "id": "58af19557b26c6ac", 
+                        "name": "Israel"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5371abbca6a7aed2", 
+                        "name": "Tel Aviv"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "34acdeccac39b8be", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -62.899999999999999, 
+                    -7.2333299999999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Sao Paulo", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Barraca"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Sao Paulo"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/3665091"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Brazil BRA Federative Republic of Brazil", 
+                        "id": "3556e87fc8d3b35a", 
+                        "name": "Brazil"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Amaz. Amazone", 
+                        "id": "9a322d36576e121f", 
+                        "name": "Amazonas"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "309bfebd1ddba03d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -99.138611111111118, 
+                    19.434166666666666
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mexico City (Mexico)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Ciudad de M\u00e9xico (Mexico)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Mexico (City)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79093328"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "37582d4c5d1e6bc0", 
+                        "name": "Distrito Federal"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mex. MEX United Mexican States", 
+                        "id": "3265f44c386c6478", 
+                        "name": "Mexico"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "51ff531c280252da", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.446081300000003, 
+                    -34.616986799999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Buenos Aires", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fr", 
+                        "name": "Buenos Aires"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d1\u05d5\u05d0\u05e0\u05d5\u05e1 \u05d0\u05d9\u05d9\u05e8\u05e1"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "B\u00faenos A\u00edres"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Buenos Aires"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Buenos Aires"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/81590481"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Arg. ARG Argentine Republic", 
+                        "id": "a158a9952a26caf3", 
+                        "name": "Argentina"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "BUENOS AIRES D.F.|Capital Federal|Distretto Federale|Distrito Federal|Federal Capital", 
+                        "id": "9a56c619939c145d", 
+                        "name": "Ciudad de Buenos Aires"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3565b13c6a823d95", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -89.192830099999995, 
+                    13.696972000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "San Salvador", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "San Salvador"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0421\u0430\u043d-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "San Salvador"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/197701710"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "0eebef2b864579fb", 
+                        "name": "San Salvador"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "El. S. SLV Republic of El Salvador", 
+                        "id": "9a99e4ee897dda0c", 
+                        "name": "El Salvador"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b339c43a8cb8bef1", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -67.150000000000006, 
+                    -17.983333333333331
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Oruro (Bolivia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Oruro, Bolivia (City)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Oruro, Bolivia (City)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80046143"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "3e16ce30f1503be7", 
+                        "name": "Oruro"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Bolivia BOL Plurinational State of Bolivia", 
+                        "id": "36ff520a1a99ad2f", 
+                        "name": "Bolivia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "fca71fbd31b685be", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -63.633330000000001, 
+                    -17.783329999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Santa Cruz y Surut\u00fa", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Santa Cruz Surut\u00fa"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Santa Cruz y Surut\u00fa"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/3904903"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "8b0c943d550251c1", 
+                        "name": "Santa Cruz"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Bolivia BOL Plurinational State of Bolivia", 
+                        "id": "36ff520a1a99ad2f", 
+                        "name": "Bolivia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "14389efef58bae71", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "silveira, mar\u00eda laura"
+        ], 
+        "latlong": "-34.6169868,-58.4460813", 
+        "id": "http://lccn.loc.gov/2016366143", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "central places", 
+            "argentina", 
+            "buenos aires", 
+            "s\u00e3o paulo", 
+            "buenos aires (argentina)", 
+            "economic conditions", 
+            "s\u00e3o paulo (brazil)", 
+            "city planning"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Circuitos de la econom\u00eda urbana : ensayos sobre Buenos Aires y S\u00e3o Paulo", 
+        "coordinates": [
+            "-34.6169868,-58.4460813"
+        ], 
+        "score": 0.45037440000000001, 
+        "lonlat": [
+            -58.446081300000003, 
+            -34.616986799999999
+        ], 
+        "location": [
+            "brazil", 
+            "s\u00e3o paulo", 
+            "argentina", 
+            "buenos aires"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references."
+        ], 
+        "timestamp": "2016-08-26T05:18:23.805000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-26T05:10:35.668000Z", 
+        "date": "2016", 
+        "shelf_id": "HT129 .C57 2016", 
+        "other_title": [], 
+        "dates": [
+            "2016-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish"
+        ], 
+        "url": "//lccn.loc.gov/2016366143", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2016366143/", 
+            "http://lccn.loc.gov/2016366143", 
+            "http://www.loc.gov/catdir/toc/gc01/9789873627149.pdf", 
+            "http://core.cambeiro.com.ar/0-181021-2.pdf"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-34.6169868,-58.4460813", 
+        "contributor": [
+            "jornadas buenos aires boliviana : migraci\u00f3n, construcciones identitarias y memoria", 
+            "maronese, leticia", 
+            "ameztoy, mar\u00eda virginia"
+        ], 
+        "id": "http://lccn.loc.gov/2011438763", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "bolivians", 
+            "argentina", 
+            "buenos aires", 
+            "congresses", 
+            "bolivia", 
+            "emigration and immigration", 
+            "history"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Buenos Aires boliviana : migraci\u00f3n, construcciones identitarias y memoria /", 
+        "coordinates": [
+            "-34.6169868,-58.4460813"
+        ], 
+        "score": 0.26386674999999998, 
+        "lonlat": [
+            -58.446081300000003, 
+            -34.616986799999999
+        ], 
+        "location": [
+            "argentina", 
+            "bolivia", 
+            "buenos aires"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references."
+        ], 
+        "timestamp": "2015-05-20T06:10:28.190000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-20T05:08:42.314000Z", 
+        "date": "2009", 
+        "shelf_id": "F3001.9.B65 J67 2008", 
+        "other_title": [], 
+        "dates": [
+            "2009-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish", 
+            "castilian"
+        ], 
+        "url": "//lccn.loc.gov/2011438763", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2011438763/", 
+            "http://lccn.loc.gov/2011438763", 
+            "http://www.loc.gov/catdir/toc/gc01/9789872511203.pdf", 
+            "http://core.cambeiro.com.ar/0-96680-21.pdf"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-17.9833333333,-67.15", 
+        "contributor": [
+            "geirola, gustavo"
+        ], 
+        "id": "http://lccn.loc.gov/2010423882", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "theater", 
+            "production and direction", 
+            "bolivia", 
+            "brazil", 
+            "ecuador", 
+            "theatrical producers and directors", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Arte y oficio del director teatral en Am\u00e9rica Latina : Bolivia, Brasil y Ecuador /", 
+        "coordinates": [
+            "-17.9833333333,-67.15"
+        ], 
+        "score": 0.24029629999999999, 
+        "lonlat": [
+            -67.150000000000006, 
+            -17.983333333299999
+        ], 
+        "location": [
+            "brazil", 
+            "bolivia", 
+            "ecuador"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-03-03T04:17:32.930000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T03:36:30.238000Z", 
+        "date": "2010", 
+        "shelf_id": "PN2053 .G455 2010", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish", 
+            "castilian"
+        ], 
+        "url": "//lccn.loc.gov/2010423882", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2010423882/", 
+            "http://core.cambeiro.com.ar/0-154305-3.pdf", 
+            "http://lccn.loc.gov/2010423882"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "5.12861,-75.85242", 
+        "id": "http://lccn.loc.gov/2012519880", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "argentina", 
+            "history", 
+            "20th century", 
+            "oral history", 
+            "brazil"
+        ], 
+        "index": 4, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Desde las profundidades de la historia oral /", 
+        "coordinates": [
+            "5.12861,-75.85242"
+        ], 
+        "score": 0.23250593, 
+        "lonlat": [
+            -75.852419999999995, 
+            5.1286100000000001
+        ], 
+        "location": [
+            "brazil", 
+            "argentina"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Texts chiefly in Spanish; several articles in Portuguese. Includes bibliographical references (p. [277]-289) and index."
+        ], 
+        "timestamp": "2015-03-03T07:42:47.561000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T04:51:44.413000Z", 
+        "date": "2013", 
+        "shelf_id": "F2849.2 .D47 2013", 
+        "other_title": [], 
+        "dates": [
+            "2013-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish", 
+            "castilian"
+        ], 
+        "url": "//lccn.loc.gov/2012519880", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2012519880/", 
+            "http://core.cambeiro.com.ar/0-152899-7.pdf", 
+            "http://lccn.loc.gov/2012519880"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "archain, alejandro"
+        ], 
+        "latlong": "19.4341666667,-99.1386111111", 
+        "id": "http://lccn.loc.gov/2014512372", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "orfila reynal, arnaldo", 
+            "publishers and publishing", 
+            "mexico", 
+            "history", 
+            "20th century", 
+            "argentina", 
+            "buenos aires"
+        ], 
+        "index": 5, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Un editor de tres siglos : la vida y los libros de Arnaldo Orfila Reynal /", 
+        "coordinates": [
+            "19.4341666667,-99.1386111111"
+        ], 
+        "score": 0.22484114999999999, 
+        "lonlat": [
+            -99.138611111100005, 
+            19.434166666700001
+        ], 
+        "location": [
+            "argentina", 
+            "buenos aires", 
+            "mexico"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references."
+        ], 
+        "timestamp": "2016-01-30T06:18:04.310000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-01-30T06:07:49.833000Z", 
+        "date": "2015", 
+        "shelf_id": "Z493.O74 E35 2015", 
+        "other_title": [], 
+        "dates": [
+            "2015-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish"
+        ], 
+        "url": "//lccn.loc.gov/2014512372", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://lccn.loc.gov/2014512372", 
+            "http://www.loc.gov/item/2014512372/", 
+            "http://core.cambeiro.com.ar/0-176851-3.pdf"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "13.696972,-89.1928301", 
+        "id": "http://www.loc.gov/item/2006683813/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "markets", 
+            "el salvador", 
+            "san salvador", 
+            "street vendors", 
+            "city & town life", 
+            "photographic prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Market at San Salvador, El Salvador]", 
+        "coordinates": [
+            "13.696972,-89.1928301"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.21178864999999999, 
+        "lonlat": [
+            -89.192830099999995, 
+            13.696972000000001
+        ], 
+        "location": [
+            "el salvador", 
+            "san salvador"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print. | Photograph shows street vendors selling grinding stones at the market."
+        ], 
+        "timestamp": "2016-07-19T23:33:01.010000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:59:34.214000Z", 
+        "date": "1930", 
+        "shelf_id": "FOREIGN GEOG FILE - El Salvador--San Salvador [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1930-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006683813/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/12300/12314_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/12300/12314_150px.jpg#h=150&w=149", 
+            "//cdn.loc.gov/service/pnp/ppmsca/12300/12314t.gif#h=150&w=149", 
+            "//cdn.loc.gov/service/pnp/ppmsca/12300/12314r.jpg#h=640&w=636", 
+            "//cdn.loc.gov/service/pnp/ppmsca/12300/12314v.jpg#h=1024&w=1017"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2006683813/", 
+            "http://www.loc.gov/item/2006683813/", 
+            "http://www.loc.gov/pictures/item/2006683813/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.12314", 
+            "http://www.loc.gov/resource/ppmsca.12314/", 
+            "http://lccn.loc.gov/2006683813"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "freeman, chas w., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000394/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "ambassadors", 
+            "united states. agency for international development", 
+            "politburo", 
+            "american republics", 
+            "camp david", 
+            "berlin wall, berlin, germany", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Chas W. Freeman Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.9873796000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "beijing", 
+            "chung", 
+            "riyadh", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "central asia", 
+            "taiwan", 
+            "sao paulo", 
+            "tai", 
+            "la paz", 
+            "brazil", 
+            "saudi arabia", 
+            "italy", 
+            "madras", 
+            "kuwait", 
+            "buenos aires", 
+            "valencia", 
+            "argentina", 
+            "bolivia", 
+            "near east", 
+            "washington d.c.", 
+            "europe", 
+            "eurasia", 
+            "india", 
+            "bangkok", 
+            "china", 
+            "thailand", 
+            "iraq", 
+            "spain", 
+            "east asia", 
+            "rome", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:14.181000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:14.455000Z", 
+        "date": "1995-04-14", 
+        "shelf_id": "mfdipbib000394", 
+        "other_title": [], 
+        "dates": [
+            "1995-04-14T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000394/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000394/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004fre01", 
+            "http://www.loc.gov/resource/mfdip.2004fre01/", 
+            "http://www.loc.gov/item/mfdip.2004fre01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "mack, james"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001509/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador James Mack", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.8098296999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "portugal", 
+            "eurasia", 
+            "san salvador", 
+            "pacific", 
+            "united states", 
+            "paraguay", 
+            "lima", 
+            "brazil", 
+            "sao paulo", 
+            "peru", 
+            "ecuador", 
+            "washington d.c.", 
+            "georgetown", 
+            "quito", 
+            "washington", 
+            "san jose", 
+            "costa rica", 
+            "ponta delgada", 
+            "asuncion", 
+            "east asia", 
+            "el salvador", 
+            "vietnam", 
+            "western hemisphere", 
+            "guyana"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2004-03-20", 
+        "shelf_id": "mfdipbib001509", 
+        "other_title": [], 
+        "dates": [
+            "2004-03-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001509/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001509/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007mac01", 
+            "http://www.loc.gov/resource/mfdip.2007mac01/", 
+            "http://www.loc.gov/item/mfdip.2007mac01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "weintraub, leon"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001663/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Leon Weintraub", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.6358142, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "israel", 
+            "quito", 
+            "geneva", 
+            "eurasia", 
+            "bogota", 
+            "africa", 
+            "washington", 
+            "united states", 
+            "lagos", 
+            "western hemisphere", 
+            "colombia", 
+            "switzerland", 
+            "tel aviv", 
+            "nigeria", 
+            "near east", 
+            "ecuador"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001663", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001663/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001663/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010wei02", 
+            "http://www.loc.gov/resource/mfdip.2010wei02/", 
+            "http://www.loc.gov/item/mfdip.2010wei02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "watson, douglas k."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001481/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "american republics", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Douglas K. Watson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.5303946000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "egypt", 
+            "cairo", 
+            "central asia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "greece", 
+            "saigon", 
+            "mexico", 
+            "athens", 
+            "madrid", 
+            "pakistan", 
+            "near east", 
+            "port au prince", 
+            "washington d.c.", 
+            "mexico city", 
+            "quito", 
+            "haiti", 
+            "spain", 
+            "east asia", 
+            "islamabad", 
+            "vietnam", 
+            "western hemisphere", 
+            "ecuador"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2000-01-10", 
+        "shelf_id": "mfdipbib001481", 
+        "other_title": [], 
+        "dates": [
+            "2000-01-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001481/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001481/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007wat01", 
+            "http://www.loc.gov/resource/mfdip.2007wat01/", 
+            "http://www.loc.gov/item/mfdip.2007wat01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "high, george"
+        ], 
+        "latlong": "19.4341666667,-99.1386111111", 
+        "id": "http://www.loc.gov/item/mfdipbib000511/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "north american free trade association", 
+            "united states. salt/arms control support group", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with George B. High", 
+        "coordinates": [
+            "19.4341666667,-99.1386111111"
+        ], 
+        "score": 2.3688939000000002, 
+        "lonlat": [
+            -99.138611111100005, 
+            19.434166666700001
+        ], 
+        "location": [
+            "brazil", 
+            "mexico city", 
+            "luanda", 
+            "angola", 
+            "mexico", 
+            "brasilia", 
+            "buenos aires", 
+            "western hemisphere", 
+            "africa", 
+            "argentina", 
+            "guayaquil", 
+            "ecuador"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1993-08-26", 
+        "shelf_id": "mfdipbib000511", 
+        "other_title": [], 
+        "dates": [
+            "1993-08-26T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000511/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000511/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004hig02", 
+            "http://www.loc.gov/resource/mfdip.2004hig02/", 
+            "http://www.loc.gov/item/mfdip.2004hig02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kienzle, don", 
+            "freeman, anthony g."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001352/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "labor", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Anthony G. Freeman", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.3623471, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "brazil", 
+            "europe", 
+            "bolivia", 
+            "italy", 
+            "eurasia", 
+            "buenos aires", 
+            "washington", 
+            "united states", 
+            "rome", 
+            "western hemisphere", 
+            "spain", 
+            "valencia", 
+            "argentina", 
+            "sao paulo", 
+            "la paz"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "1995-02-07", 
+        "shelf_id": "Labor Series", 
+        "other_title": [], 
+        "dates": [
+            "1995-02-07T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001352/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001352/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007fre01", 
+            "http://www.loc.gov/resource/mfdip.2007fre01/", 
+            "http://www.loc.gov/item/mfdip.2007fre01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "dieterich, william jeffras": "https://www.loc.gov/search/?fa=contributor%3Adieterich%2C+william+jeffras&fo=json"
+        }, 
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "American republics", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Italy -- Rome", 
+        "Ecuador -- Quito", 
+        "Israel -- Tel Aviv", 
+        "Brazil -- Sao Paulo", 
+        "Mexico -- Mexico City", 
+        "Argentina -- Buenos Aires", 
+        "El Salvador -- San Salvador", 
+        "Bolivia", 
+        "Bolivia -- Santa Cruz", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Western Hemisphere"
+    ], 
+    "created_published": [
+        "October 19, 1999"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2007die01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001343/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "american republics", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2007die01"
+    ], 
+    "call_number": [
+        "Information Series"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 7.5346849999999996, 
+    "title": "Interview with William Jeffras Dieterich", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "american republics": "https://www.loc.gov/search/?fa=subject%3Aamerican+republics&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "argentina": "https://www.loc.gov/search/?fa=location%3Aargentina&fo=json"
+        }, 
+        {
+            "bolivia": "https://www.loc.gov/search/?fa=location%3Abolivia&fo=json"
+        }, 
+        {
+            "brazil": "https://www.loc.gov/search/?fa=location%3Abrazil&fo=json"
+        }, 
+        {
+            "buenos aires": "https://www.loc.gov/search/?fa=location%3Abuenos+aires&fo=json"
+        }, 
+        {
+            "ecuador": "https://www.loc.gov/search/?fa=location%3Aecuador&fo=json"
+        }, 
+        {
+            "el salvador": "https://www.loc.gov/search/?fa=location%3Ael+salvador&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "israel": "https://www.loc.gov/search/?fa=location%3Aisrael&fo=json"
+        }, 
+        {
+            "italy": "https://www.loc.gov/search/?fa=location%3Aitaly&fo=json"
+        }, 
+        {
+            "mexico": "https://www.loc.gov/search/?fa=location%3Amexico&fo=json"
+        }, 
+        {
+            "mexico city": "https://www.loc.gov/search/?fa=location%3Amexico+city&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "quito": "https://www.loc.gov/search/?fa=location%3Aquito&fo=json"
+        }, 
+        {
+            "rome": "https://www.loc.gov/search/?fa=location%3Arome&fo=json"
+        }, 
+        {
+            "san salvador": "https://www.loc.gov/search/?fa=location%3Asan+salvador&fo=json"
+        }, 
+        {
+            "santa cruz": "https://www.loc.gov/search/?fa=location%3Asanta+cruz&fo=json"
+        }, 
+        {
+            "sao paulo": "https://www.loc.gov/search/?fa=location%3Asao+paulo&fo=json"
+        }, 
+        {
+            "tel aviv": "https://www.loc.gov/search/?fa=location%3Atel+aviv&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399705175883776, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:53.179000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+    "date": "19991019", 
+    "shelf_id": "Information Series", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1999": "https://www.loc.gov/search/?dates=1999-1999&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001343/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001343/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2007die01", 
+        "http://www.loc.gov/resource/mfdip.2007die01/", 
+        "http://www.loc.gov/item/mfdip.2007die01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Dieterich, William Jeffras (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.25018191337585449, 
+    "default_count": 25, 
+    "id": "mfdipbib001343/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001343/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2007die01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2007/2007die01/2007die01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2007/2007die01/2007die01.pdf"
+    }
+]}

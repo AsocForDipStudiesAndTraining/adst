@@ -1,0 +1,1712 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; McNamara, F. T. (1993) <cite>Interview with Francis Terry McNamara</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000800/.", 
+    "mla": "Kennedy, Charles Stuart, and Francis Terry McNamara. <cite>Interview with Francis Terry McNamara</cite>. 1993. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000800/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Francis Terry McNamara. <cite>Interview with Francis Terry McNamara</cite>. 1993. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000800/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412149152,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.509722222222223, 
+                    33.871944444444445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Beirut (Lebanon)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Balad\u012byat Bayr\u016bt"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Beirut"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83068103"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bayrut|Beirute|Beyrouth", 
+                        "id": "98cd7d2fea60ba96", 
+                        "name": "Beirut"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Leb. LBN Lebanese Republic", 
+                        "id": "be3dda2bad55ed18", 
+                        "name": "Lebanon"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad1ad676f4f4a656", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    45.55555555555555, 
+                    -7.75
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mazimba (Tanzania)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Mazimbu (Tanzania)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Mazimbo (Tanzania)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80121679"
+                ], 
+                "admin": [], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "8acd13ebef481d5e", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    10.35, 
+                    -0.80000000000000004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Ndendi Gabon", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/2397689"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "37125f6c64a73b3d", 
+                        "name": "Moyen-Ogoou\u00e9"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Gabon GAB Gabonese Republic", 
+                        "id": "904425fc4f6f53fb", 
+                        "name": "Gabon"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5774e64c6c9f9a3d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.234911400000001, 
+                    46.825737400000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Quebec", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Qu\u00e9bec"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0643\u0648\u064a\u0628\u0643 \u0633\u064a\u062a\u064a"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Quebec"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Qu\u00e9bec"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0432\u0435\u0431\u0435\u043a"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/30915641"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Que. Lower Canada", 
+                        "id": "c9bd4800c96c7a3d", 
+                        "name": "Qu\u00e9bec"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Can. CAN", 
+                        "id": "57a591ef0528b15c", 
+                        "name": "Canada"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "6e3b82408b1c8fd3", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -23.516666666666666, 
+                    14.916666666666666
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Praia (Cape Verde)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Praia, Cape Verde Islands"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Praia, Cape Verde Islands"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n82131898"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "C.Vd. CPV Republic of Cape Verde", 
+                        "id": "4b73a0d22209b145", 
+                        "name": "Cape Verde"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "10d686960d35333d", 
+                        "name": "CPV-00 (Cape Verde aggregation)"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "76696aa800392e23", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    105.01894, 
+                    21.118040000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "X\u00f3m Can", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "vi", 
+                        "name": "X\u00f3m Can"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/1561894"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Viet. VNM Socialist Republic of Vietnam", 
+                        "id": "be319f80cc507132", 
+                        "name": "Vietnam"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Phu Tho", 
+                        "id": "13840793fc4d9edc", 
+                        "name": "Ph\u00fa Th?"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "be51d8e8cfb50454", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/83693458/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "beirut (lebanon)", 
+            "maps", 
+            "lebanon", 
+            "beirut"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Beirut.", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.16807827, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "Beirut", 
+            "Lebanon", 
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"504450 3-80.\" Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:03:57.679000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:31.134000Z", 
+        "date": "1980", 
+        "shelf_id": "G7474.B4 1980 .U5", 
+        "other_title": [], 
+        "dates": [
+            "1980-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/83693458/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7474/g7474b/ct002729.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7474/g7474b/ct002729.gif#h=150&w=196", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:6.25/0/default.jpg#h=199&w=261", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:12.5/0/default.jpg#h=399&w=522", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:25/0/default.jpg#h=799&w=1045", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:50/0/default.jpg#h=1599&w=2090"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/83693458/", 
+            "http://www.loc.gov/resource/g7474b.ct002729/", 
+            "http://hdl.loc.gov/loc.gmd/g7474b.ct002729", 
+            "http://lccn.loc.gov/83693458"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "79.565,54.5927777778", 
+        "contributor": [
+            "darw\u012bsh, ma\u1e25m\u016bd."
+        ], 
+        "id": "http://lccn.loc.gov/94026351", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "lebanon", 
+            "history", 
+            "israeli intervention", 
+            "personal narratives, palestinian", 
+            "beirut (lebanon)", 
+            "darw\u012bsh, ma\u1e25m\u016bd"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Memory for forgetfulness : August, Beirut, 1982 /", 
+        "coordinates": [
+            "79.565,54.5927777778"
+        ], 
+        "score": 0.14856161000000001, 
+        "lonlat": [
+            54.592777777800002, 
+            79.564999999999998
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references. A digital reproduction is available from E-Editions, a collaboration of the University of California Press and the California Digital Library's eScholarship program."
+        ], 
+        "timestamp": "2015-03-03T06:03:59.814000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T20:12:13.314000Z", 
+        "date": "1995", 
+        "shelf_id": "DS87.53 .D36513 1995", 
+        "other_title": [], 
+        "dates": [
+            "1995-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/94026351", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/94026351/", 
+            "http://ark.cdlib.org/ark:/13030/ft1z09n7g7", 
+            "http://lccn.loc.gov/94026351"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "underwood & underwood"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/2006675878/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "lot 13743", 
+            "catalog"
+        ], 
+        "subject": [
+            "factories", 
+            "lebanon", 
+            "beirut", 
+            "textile machinery", 
+            "silk industry", 
+            "gelatin silver prints", 
+            "stereographs"
+        ], 
+        "index": 3, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Loosening cocoon fiber and winding on frames, silk mill, Beyrout, Syria", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14856161000000001, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph, gelatin silver."
+        ], 
+        "timestamp": "2015-05-16T17:05:02.839000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:16.332000Z", 
+        "date": "1913", 
+        "shelf_id": "LOT 13743-12, no. 5 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1913-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006675878/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717t.gif#h=76&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717r.jpg#h=323&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717v.jpg#h=517&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2006675878/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2006675878/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.10717", 
+            "http://www.loc.gov/item/2006675878/", 
+            "http://www.loc.gov/resource/ppmsca.10717/", 
+            "http://lccn.loc.gov/2006675878"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "graves, c. h. (carleton h.)", 
+            "graves, c. h."
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/2006679687/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "lot 13738", 
+            "catalog"
+        ], 
+        "subject": [
+            "pilgrims", 
+            "russian", 
+            "lebanon", 
+            "beirut", 
+            "pilgrimages", 
+            "gelatin silver prints", 
+            "stereographs"
+        ], 
+        "index": 4, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Russian pilgrims to Jerusalem aboard vessel in Beirut harbor", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14856161000000001, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph, gelatin silver."
+        ], 
+        "timestamp": "2015-05-16T17:06:25.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:19.938000Z", 
+        "date": "1903", 
+        "shelf_id": "LOT 13738-1, no. 99 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1903-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006679687/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687t.gif#h=76&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687r.jpg#h=324&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687v.jpg#h=518&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2006679687/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2006679687/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.10687", 
+            "http://www.loc.gov/item/2006679687/", 
+            "http://www.loc.gov/resource/ppmsca.10687/", 
+            "http://lccn.loc.gov/2006679687"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "oliphant, pat"
+        ], 
+        "id": "http://www.loc.gov/item/97520525/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "united states", 
+            "embassy (lebanon)", 
+            "bombings", 
+            "lebanon", 
+            "beirut", 
+            "embassies", 
+            "american", 
+            "ruins", 
+            "government officials", 
+            "editorial cartoons", 
+            "ink drawings"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "U.S. embassy business as usual", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14856161000000001, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 drawing on layered paper : ink over pencil. | Cartoon shows a wounded official of the U.S. Embassy in Beirut sitting at his desk, working, amidst rubble following a car-bomb explosion; a marine stands guard next him."
+        ], 
+        "timestamp": "2016-07-20T01:28:19.298000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:05:14.761000Z", 
+        "date": "1983", 
+        "shelf_id": "Unprocessed in PR 13 CN 1998:123.15 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1983-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/97520525/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsc/00700/00717_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/97520525/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c20045", 
+            "http://www.loc.gov/item/97520525/", 
+            "http://www.loc.gov/pictures/item/97520525/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsc.00717", 
+            "http://www.loc.gov/resource/ppmsc.00717/", 
+            "http://www.loc.gov/resource/cph.3c20045/", 
+            "http://lccn.loc.gov/97520525"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "dumas, tancr\u00e8de r."
+        ], 
+        "id": "http://www.loc.gov/item/2004670415/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13551", 
+            "catalog"
+        ], 
+        "subject": [
+            "turks", 
+            "clothing & dress", 
+            "lebanon", 
+            "beirut", 
+            "prayer", 
+            "albumen prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Beyrouth. Turc priant le matin", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14856161000000001, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print: albumen. | Turkish man at morning prayers."
+        ], 
+        "timestamp": "2016-07-19T22:57:00.474000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:06.924000Z", 
+        "date": "1860", 
+        "shelf_id": "LOT 13551, no. 12 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1860-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/2004670415/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/04400/04415_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/04400/04415_150px.jpg#h=150&w=101", 
+            "//cdn.loc.gov/service/pnp/ppmsca/04400/04415t.gif#h=150&w=101", 
+            "//cdn.loc.gov/service/pnp/ppmsca/04400/04415r.jpg#h=640&w=432", 
+            "//cdn.loc.gov/service/pnp/ppmsca/04400/04415v.jpg#h=1024&w=690"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004670415/", 
+            "http://www.loc.gov/item/2004670415/", 
+            "http://www.loc.gov/pictures/item/2004670415/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.04415", 
+            "http://www.loc.gov/resource/ppmsca.04415/", 
+            "http://lccn.loc.gov/2004670415"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "wilson, joseph c."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001486/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Joseph C. Wilson IV", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.1820957999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "washington", 
+            "bujumbura", 
+            "burundi", 
+            "niger", 
+            "western hemisphere", 
+            "south africa", 
+            "brazzaville", 
+            "gabon", 
+            "near east", 
+            "washington d.c.", 
+            "africa", 
+            "\"congo", 
+            "niamey", 
+            "baghdad", 
+            "germany", 
+            "iraq", 
+            "united states", 
+            "lome", 
+            "togo", 
+            "democratic republic of the", 
+            "stuttgart", 
+            "libreville", 
+            "pretoria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2001-01-08", 
+        "shelf_id": "mfdipbib001486", 
+        "other_title": [], 
+        "dates": [
+            "2001-01-08T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001486/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001486/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007wil04", 
+            "http://www.loc.gov/resource/mfdip.2007wil04/", 
+            "http://www.loc.gov/item/mfdip.2007wil04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "hoffacker, r. lewis (roscoe lewis)"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001363/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Lewis Hoffacker", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.6979803, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "africa", 
+            "united states", 
+            "elizabethville", 
+            "equatorial guinea", 
+            "paris", 
+            "france", 
+            "near east", 
+            "washington d.c.", 
+            "iran", 
+            "algeria", 
+            "washington", 
+            "virginia", 
+            "\"congo", 
+            "tehran", 
+            "algiers", 
+            "norfolk", 
+            "cameroon", 
+            "democratic republic of the", 
+            "leopolville", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "1989-07-17", 
+        "shelf_id": "mfdipbib001363", 
+        "other_title": [], 
+        "dates": [
+            "1989-07-17T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001363/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001363/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007hof01", 
+            "http://www.loc.gov/resource/mfdip.2007hof01/", 
+            "http://www.loc.gov/item/mfdip.2007hof01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "mayhew, philip r."
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib000774/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. arms control and disarmament agency", 
+            "nonproliferation, nuclear", 
+            "camp david", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Philip R. Mayhew", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 1.6342524, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "vientiane", 
+            "western hemisphere", 
+            "east asia", 
+            "africa", 
+            "laos", 
+            "bangkok", 
+            "democratic republic of the", 
+            "\"congo", 
+            "united states", 
+            "vietnam", 
+            "jordan", 
+            "stanleyville", 
+            "amman", 
+            "thailand", 
+            "near east", 
+            "pacific"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1995-05-26", 
+        "shelf_id": "mfdipbib000774", 
+        "other_title": [], 
+        "dates": [
+            "1995-05-26T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000774/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000774/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004may01", 
+            "http://www.loc.gov/resource/mfdip.2004may01/", 
+            "http://www.loc.gov/item/mfdip.2004may01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "miller, david c., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001416/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador David C. Miller Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.6173147000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "east asia", 
+            "africa", 
+            "tanzania", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "zimbabwe", 
+            "vietnam", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2003-01-06", 
+        "shelf_id": "mfdipbib001416", 
+        "other_title": [], 
+        "dates": [
+            "2003-01-06T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001416/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001416/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007mil01", 
+            "http://www.loc.gov/resource/mfdip.2007mil01/", 
+            "http://www.loc.gov/item/mfdip.2007mil01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "ransom, david m. (david michael)"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001435/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador David M. Ransom", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.5859562, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bahrain", 
+            "saudi arabia", 
+            "yemen", 
+            "iran", 
+            "washington", 
+            "abu dhabi", 
+            "lebanon", 
+            "united states", 
+            "damascus", 
+            "western hemisphere", 
+            "united arab emirates", 
+            "tehran", 
+            "syria", 
+            "beirut", 
+            "near east", 
+            "sana'a", 
+            "jeddah", 
+            "taiz"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "1999-11-02", 
+        "shelf_id": "mfdipbib001435", 
+        "other_title": [], 
+        "dates": [
+            "1999-11-02T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001435/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001435/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007ran01", 
+            "http://www.loc.gov/resource/mfdip.2007ran01/", 
+            "http://www.loc.gov/item/mfdip.2007ran01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "zuckerman, stanley"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001674/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Stanley Zuckerman", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.5428332, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "madison", 
+            "mexico", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "elizabethville", 
+            "canada", 
+            "brazil", 
+            "ontario", 
+            "\"korea", 
+            "eurasia", 
+            "washington d.c.", 
+            "mexico city", 
+            "wisconsin", 
+            "seoul", 
+            "africa", 
+            "\"congo", 
+            "belgium", 
+            "brussels", 
+            "east asia", 
+            "brasilia", 
+            "democratic republic of the", 
+            "ottawa", 
+            "western hemisphere", 
+            "south"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001674", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001674/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001674/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010zuc01", 
+            "http://www.loc.gov/resource/mfdip.2010zuc01/", 
+            "http://www.loc.gov/item/mfdip.2010zuc01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "mcnamara, francis terry": "https://www.loc.gov/search/?fa=contributor%3Amcnamara%2C+francis+terry&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "33.8719444444,35.5097222222", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Ambassadors", 
+        "Berlin Wall, Berlin, Germany, 1961-1989", 
+        "Interviews", 
+        "Lebanon -- Beirut", 
+        "Tanzania", 
+        "Gabon", 
+        "Canada -- Quebec", 
+        "Cape Verde", 
+        "\"Congo, Democratic Republic of the\" -- Elizabethville", 
+        "Dahomey -- Cotonu", 
+        "Vietnam -- Can-Tho", 
+        "Near East", 
+        "Western Hemisphere", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "March 18, 1993"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004mcn01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000800/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "ambassadors", 
+        "berlin wall, berlin, germany", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004mcn01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 7.5097339999999999, 
+    "title": "Interview with Francis Terry McNamara ", 
+    "coordinates": [
+        "33.8719444444,35.5097222222"
+    ], 
+    "subjects": [
+        {
+            "ambassadors": "https://www.loc.gov/search/?fa=subject%3Aambassadors&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "berlin wall, berlin, germany": "https://www.loc.gov/search/?fa=subject%3Aberlin+wall%2C+berlin%2C+germany&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        35.509722222199997, 
+        33.8719444444
+    ], 
+    "location": [
+        {
+            "\"congo": "https://www.loc.gov/search/?fa=location%3A%22congo&fo=json"
+        }, 
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "beirut": "https://www.loc.gov/search/?fa=location%3Abeirut&fo=json"
+        }, 
+        {
+            "can": "https://www.loc.gov/search/?fa=location%3Acan&fo=json"
+        }, 
+        {
+            "canada": "https://www.loc.gov/search/?fa=location%3Acanada&fo=json"
+        }, 
+        {
+            "cape verde": "https://www.loc.gov/search/?fa=location%3Acape+verde&fo=json"
+        }, 
+        {
+            "cotonu": "https://www.loc.gov/search/?fa=location%3Acotonu&fo=json"
+        }, 
+        {
+            "dahomey": "https://www.loc.gov/search/?fa=location%3Adahomey&fo=json"
+        }, 
+        {
+            "democratic republic of the": "https://www.loc.gov/search/?fa=location%3Ademocratic+republic+of+the&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "elizabethville": "https://www.loc.gov/search/?fa=location%3Aelizabethville&fo=json"
+        }, 
+        {
+            "gabon": "https://www.loc.gov/search/?fa=location%3Agabon&fo=json"
+        }, 
+        {
+            "lebanon": "https://www.loc.gov/search/?fa=location%3Alebanon&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "quebec": "https://www.loc.gov/search/?fa=location%3Aquebec&fo=json"
+        }, 
+        {
+            "tanzania": "https://www.loc.gov/search/?fa=location%3Atanzania&fo=json"
+        }, 
+        {
+            "tho": "https://www.loc.gov/search/?fa=location%3Atho&fo=json"
+        }, 
+        {
+            "vietnam": "https://www.loc.gov/search/?fa=location%3Avietnam&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399570266095616, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:31:43.242000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+    "date": "19930318", 
+    "shelf_id": "mfdipbib000800", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1993": "https://www.loc.gov/search/?dates=1993-1993&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000800/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000800/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004mcn01", 
+        "http://www.loc.gov/resource/mfdip.2004mcn01/", 
+        "http://www.loc.gov/item/mfdip.2004mcn01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "McNamara, Francis Terry, 1927- (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.2060699462890625, 
+    "default_count": 25, 
+    "id": "mfdipbib000800/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000800/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004mcn01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004mcn01/2004mcn01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004mcn01/2004mcn01.pdf"
+    }
+]}

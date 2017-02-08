@@ -1,0 +1,1523 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kean, J. H. &amp; Wedeman, M. (1995) <cite>Interview with Miles Wedeman</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001239/.", 
+    "mla": "Kean, John H, and Miles Wedeman. <cite>Interview with Miles Wedeman</cite>. 1995. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001239/&gt;.", 
+    "chicago": "Kean, John H, and Miles Wedeman. <cite>Interview with Miles Wedeman</cite>. 1995. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001239/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411849704,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    104.9328754, 
+                    11.5631962
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Phnom Penh", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "ar", 
+                        "name": "\u0628\u0646\u0648\u0645 \u0628\u0646\u0647"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "hi", 
+                        "name": "\u0928\u093e\u092e\u092a\u0947\u0928\u094d\u0939"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "kh", 
+                        "name": "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Phnom-Penh"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Phnom P\u00e9nh"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "th", 
+                        "name": "\u0e1e\u0e19\u0e21\u0e40\u0e1b\u0e0d"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Phn\u00f4m P\u00eanh"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u91d1\u8fb9"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/560229438"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Camb. KHM Kingdom of Cambodia", 
+                        "id": "e9932261383c0d6c", 
+                        "name": "Cambodia"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Phnum P\u00e9nh", 
+                        "id": "72fcfd2eb1c55c71", 
+                        "name": "Phnom Penh"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cea98727c769706b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.604722222222225, 
+                    33.483333333333334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mayd\u0101n (Damascus, Syria)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "M\u012bd\u0101n (Damascus, Syria)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n98112723"
+                ], 
+                "admin": [], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "a63628c85a578d61", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.99972222222222, 
+                    37.566388888888888
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Seoul (Korea)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Kiung (Korea)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79066627"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Keijo|S\u00e9oul|Seul|Se\u00fal|S\u00f6ul|Soul-t'ukpyolsi", 
+                        "id": "2a9f1e236c362643", 
+                        "name": "Seoul"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Republic of Korea Korea, Rep. S.K. KOR Republic of Korea", 
+                        "id": "3557ecefb915dbc5", 
+                        "name": "Korea"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "8af06e20b26b500f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "11.5631962,104.9328754", 
+        "contributor": [
+            "portail, a."
+        ], 
+        "id": "http://www.loc.gov/item/map50000857/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "phnom penh (cambodia)", 
+            "maps", 
+            "cambodia", 
+            "phnom penh"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Plan de Pnom-Penh.", 
+        "coordinates": [
+            "11.5631962,104.9328754"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.41140100000000002, 
+        "lonlat": [
+            104.9328754, 
+            11.5631962
+        ], 
+        "location": [
+            "Phnom Penh", 
+            "Cambodia", 
+            "cambodia", 
+            "phnom penh"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:06:14.930000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:43.889000Z", 
+        "date": "1920", 
+        "shelf_id": "G8014.P738 192- .P6", 
+        "other_title": [], 
+        "dates": [
+            "1920-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/map50000857/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd8/g8014/g8014p/ct001366.gif", 
+            "//cdn.loc.gov/service/gmd/gmd8/g8014/g8014p/ct001366.gif#h=165&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:3.125/0/default.jpg#h=292&w=265", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:6.25/0/default.jpg#h=584&w=531", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:12.5/0/default.jpg#h=1169&w=1062", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:25/0/default.jpg#h=2338&w=2125"
+        ], 
+        "aka": [
+            "http://hdl.loc.gov/loc.gmd/g8014p.ct001366", 
+            "http://www.loc.gov/item/map50000857/", 
+            "http://www.loc.gov/resource/g8014p.ct001366/", 
+            "http://lccn.loc.gov/map50000857"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "contributor": [
+            "dunn, robert lee"
+        ], 
+        "id": "http://www.loc.gov/item/2005679326/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 8631", 
+            "catalog"
+        ], 
+        "subject": [
+            "russo-japanese war", 
+            "diplomacy", 
+            "russian", 
+            "korea", 
+            "seoul", 
+            "diplomats", 
+            "group portraits", 
+            "photographic prints", 
+            "portrait photographs"
+        ], 
+        "index": 2, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Russian Minister Pavlov and Mrs. Pavlov on Legation grounds at Seoul]", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.30676278000000001, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print."
+        ], 
+        "timestamp": "2016-07-19T23:10:03.535000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:36.404000Z", 
+        "date": "1904", 
+        "shelf_id": "LOT 8631, no. 16 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1904-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2005679326/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155_150px.jpg#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155t.gif#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155r.jpg#h=491&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155v.jpg#h=786&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2005679326/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3a30996", 
+            "http://www.loc.gov/item/2005679326/", 
+            "http://www.loc.gov/pictures/item/2005679326/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.08155", 
+            "http://www.loc.gov/resource/ppmsca.08155/", 
+            "http://www.loc.gov/resource/cph.3a30996/", 
+            "http://lccn.loc.gov/2005679326"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "id": "http://www.loc.gov/item/93684196/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "seoul (korea)", 
+            "maps, manuscript", 
+            "korea", 
+            "seoul"
+        ], 
+        "index": 3, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Tos\u014fng to.", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.28887217999999998, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "Seoul", 
+            "Korea", 
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Relief shown pictorially. Pen-and-ink and watercolor. Text on verso unrelated to map. Gift of Andrew Saylor, 1992. Available also through the Library of Congress Web site as a raster image. Acquisitions control no. 92-5g Vault"
+        ], 
+        "timestamp": "2017-01-26T20:04:57.561000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:36.259000Z", 
+        "date": "1800", 
+        "shelf_id": "G7904.S478 18-- .T6", 
+        "other_title": [], 
+        "dates": [
+            "1800-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "korean"
+        ], 
+        "url": "https://www.loc.gov/item/93684196/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7904/g7904s/ct003920r.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7904/g7904s/ct003920r.gif#h=150&w=207", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003920r/full/pct:6.25/0/default.jpg#h=323&w=445", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003920r/full/pct:12.5/0/default.jpg#h=646&w=890", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003920r/full/pct:25/0/default.jpg#h=1292&w=1781"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/93684196/", 
+            "http://hdl.loc.gov/loc.gmd/g7904s.ct003920v", 
+            "http://www.loc.gov/resource/g7904s.ct003920r/", 
+            "http://hdl.loc.gov/loc.gmd/g7904s.ct003920r", 
+            "http://www.loc.gov/resource/g7904s.ct003920v/", 
+            "http://lccn.loc.gov/93684196"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "id": "http://www.loc.gov/item/gm71005217/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "seoul (korea)", 
+            "maps", 
+            "korea", 
+            "seoul", 
+            "manuscript maps"
+        ], 
+        "index": 4, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Ky\u014fngjo obu.", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.28887217999999998, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "Seoul", 
+            "Korea", 
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Scale ca. 1:20,000. Manuscript. Relief shown pictorially. Available also through the Library of Congress Web site as a raster image. Vault AACR2"
+        ], 
+        "timestamp": "2017-01-26T20:06:07.725000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:43.110000Z", 
+        "date": "1800", 
+        "shelf_id": "G7904.S478 18-- .K91", 
+        "other_title": [], 
+        "dates": [
+            "1800-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "korean"
+        ], 
+        "url": "https://www.loc.gov/item/gm71005217/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7904/g7904s/ct003576.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7904/g7904s/ct003576.gif#h=150&w=174", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003576/full/pct:6.25/0/default.jpg#h=271&w=313", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003576/full/pct:12.5/0/default.jpg#h=542&w=627", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003576/full/pct:25/0/default.jpg#h=1084&w=1254", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003576/full/pct:50/0/default.jpg#h=2168&w=2508"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/gm71005217/", 
+            "http://www.loc.gov/resource/g7904s.ct003576/", 
+            "http://hdl.loc.gov/loc.gmd/g7904s.ct003576", 
+            "http://lccn.loc.gov/gm71005217"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "id": "http://www.loc.gov/item/gm71005218/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "seoul (korea)", 
+            "maps", 
+            "korea", 
+            "seoul", 
+            "manuscript maps"
+        ], 
+        "index": 5, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "[Ky\u014fngjo ch\u014fndo].", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.28887217999999998, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "Seoul", 
+            "Korea", 
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Scale ca. 1:5,000. Manuscript. Relief shown pictorially. Available also through the Library of Congress Web site as a raster image. Vault AACR2"
+        ], 
+        "timestamp": "2017-01-26T20:06:07.725000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:43.110000Z", 
+        "date": "1800", 
+        "shelf_id": "G7904.S478 18-- .K9", 
+        "other_title": [], 
+        "dates": [
+            "1800-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "korean"
+        ], 
+        "url": "https://www.loc.gov/item/gm71005218/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7904/g7904s/ct003575.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7904/g7904s/ct003575.gif#h=150&w=173", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003575/full/pct:6.25/0/default.jpg#h=269&w=312", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003575/full/pct:12.5/0/default.jpg#h=539&w=624", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003575/full/pct:25/0/default.jpg#h=1079&w=1248", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7904:g7904s:ct003575/full/pct:50/0/default.jpg#h=2158&w=2496"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/gm71005218/", 
+            "http://www.loc.gov/resource/g7904s.ct003575/", 
+            "http://hdl.loc.gov/loc.gmd/g7904s.ct003575", 
+            "http://lccn.loc.gov/gm71005218"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "contributor": [
+            "jackson, william henry"
+        ], 
+        "id": "http://www.loc.gov/item/2004707973/", 
+        "partof": [
+            "prints and photographs division", 
+            "world's transportation commission", 
+            "american memory", 
+            "around the world in the 1890s: photographs from the world's transportation commission, 1894-1896", 
+            "catalog"
+        ], 
+        "subject": [
+            "buildings", 
+            "korea", 
+            "seoul", 
+            "lantern slides"
+        ], 
+        "index": 6, 
+        "group": [
+            "wtc", 
+            "catalog", 
+            "worlds-transportation-commission"
+        ], 
+        "title": "Seoul - exterior view of Audience Hall", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.25519787999999999, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 slide : lantern ; 3.25 x 4 in."
+        ], 
+        "timestamp": "2016-07-15T03:55:55.574000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-15T03:53:06.449000Z", 
+        "date": "1895", 
+        "shelf_id": "LC-W7- 944 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1895-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004707973/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/wtc/4a00000/4a03000/4a03200/4a03268_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/wtc/4a00000/4a03000/4a03200/4a03268_150px.jpg#h=140&w=150", 
+            "//cdn.loc.gov/service/pnp/wtc/4a00000/4a03000/4a03200/4a03268t.gif#h=140&w=150", 
+            "//cdn.loc.gov/service/pnp/wtc/4a00000/4a03000/4a03200/4a03268r.jpg#h=420&w=449"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/wtc/item/2004707973/", 
+            "http://www.loc.gov/item/2004707973/", 
+            "http://www.loc.gov/pictures/item/2004707973/", 
+            "http://hdl.loc.gov/loc.pnp/wtc.4a03268", 
+            "http://www.loc.gov/resource/wtc.4a03268/", 
+            "http://lccn.loc.gov/2004707973"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kean, john h.", 
+            "skiles, victor"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001075/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "suez crisis", 
+            "berlin airlift", 
+            "foreign assistance", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Victor Skiles", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.982208, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "israel", 
+            "eurasia", 
+            "east asia", 
+            "afghanistan", 
+            "thailand", 
+            "central asia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "germany", 
+            "karachi", 
+            "greece", 
+            "tel aviv", 
+            "near east", 
+            "europe"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:46.263000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+        "date": "1995-12-04", 
+        "shelf_id": "Foreign Assistance Series", 
+        "other_title": [], 
+        "dates": [
+            "1995-12-04T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001075/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001075/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ski01", 
+            "http://www.loc.gov/resource/mfdip.2004ski01/", 
+            "http://www.loc.gov/item/mfdip.2004ski01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "winter, marcus l."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001283/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "foreign assistance", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Marcus L. Winter", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4046783, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "korea", 
+            "east asia", 
+            "egypt", 
+            "africa", 
+            "indonesia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "zimbabwe", 
+            "western hemisphere", 
+            "peru", 
+            "nigeria", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "1997-01-23", 
+        "shelf_id": "Foreign Assistance Series", 
+        "other_title": [], 
+        "dates": [
+            "1997-01-23T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001283/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001283/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004win07", 
+            "http://www.loc.gov/resource/mfdip.2004win07/", 
+            "http://www.loc.gov/item/mfdip.2004win07/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "rich, robert g., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000972/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert G. Rich Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.3657644000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "georgia", 
+            "seoul", 
+            "east asia", 
+            "jakarta", 
+            "philippines", 
+            "indonesia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "korea", 
+            "western hemisphere", 
+            "manila", 
+            "atlanta", 
+            "belize", 
+            "medan"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1994", 
+        "shelf_id": "mfdipbib000972", 
+        "other_title": [], 
+        "dates": [
+            "1994-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000972/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000972/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ric02", 
+            "http://www.loc.gov/resource/mfdip.2004ric02/", 
+            "http://www.loc.gov/item/mfdip.2004ric02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "stern, thomas", 
+            "keeley, robert v."
+        ], 
+        "latlong": "28.38333,-109.55", 
+        "id": "http://www.loc.gov/item/mfdipbib000595/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states citizens", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "labor officers", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert V. Keeley", 
+        "coordinates": [
+            "28.38333,-109.55"
+        ], 
+        "score": 3.3383498, 
+        "lonlat": [
+            -109.55, 
+            28.383330000000001
+        ], 
+        "location": [
+            "europe", 
+            "mauritius", 
+            "eurasia", 
+            "east asia", 
+            "kampala", 
+            "harare", 
+            "near east", 
+            "mali", 
+            "africa", 
+            "athens", 
+            "cambodia", 
+            "phnom penh", 
+            "united states", 
+            "zimbabwe", 
+            "bamako", 
+            "jordan", 
+            "pacific", 
+            "uganda", 
+            "amman", 
+            "california", 
+            "greece"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1991-12-19", 
+        "shelf_id": "mfdipbib000595", 
+        "other_title": [], 
+        "dates": [
+            "1991-12-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000595/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000595/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004kee01", 
+            "http://www.loc.gov/resource/mfdip.2004kee01/", 
+            "http://www.loc.gov/item/mfdip.2004kee01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "kean, john h."
+        ], 
+        "latlong": "25.7166666667,32.6", 
+        "id": "http://www.loc.gov/item/mfdipbib000594/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "six day war", 
+            "berlin airlift", 
+            "foreign assistance", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John H. Kean", 
+        "coordinates": [
+            "25.7166666667,32.6"
+        ], 
+        "score": 3.1917949000000001, 
+        "lonlat": [
+            32.600000000000001, 
+            25.7166666667
+        ], 
+        "location": [
+            "europe", 
+            "washington d.c.", 
+            "eurasia", 
+            "egypt", 
+            "africa", 
+            "ghana", 
+            "turkey", 
+            "united states", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1994-08-01", 
+        "shelf_id": "Foreign Assistance Series", 
+        "other_title": [], 
+        "dates": [
+            "1994-08-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000594/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000594/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004kea01", 
+            "http://www.loc.gov/resource/mfdip.2004kea01/", 
+            "http://www.loc.gov/item/mfdip.2004kea01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "hart, samuel f."
+        ], 
+        "latlong": "-0.2201687,-78.5120913", 
+        "id": "http://www.loc.gov/item/mfdipbib000485/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. agency for international development", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "camp david", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Samuel F. Hart", 
+        "coordinates": [
+            "-0.2201687,-78.5120913"
+        ], 
+        "score": 3.1783283, 
+        "lonlat": [
+            -78.512091299999994, 
+            -0.22016869999999999
+        ], 
+        "location": [
+            "israel", 
+            "indonesia", 
+            "quito", 
+            "east asia", 
+            "uruguay", 
+            "jakarta", 
+            "san jose", 
+            "santiago", 
+            "pacific", 
+            "kuala lumpur", 
+            "malaysia", 
+            "western hemisphere", 
+            "ecuador", 
+            "chile", 
+            "tel aviv", 
+            "costa rica", 
+            "near east", 
+            "montevideo"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1992-06-12", 
+        "shelf_id": "mfdipbib000485", 
+        "other_title": [], 
+        "dates": [
+            "1992-06-12T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000485/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000485/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004har15", 
+            "http://www.loc.gov/resource/mfdip.2004har15/", 
+            "http://www.loc.gov/item/mfdip.2004har15/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kean, john h.": "https://www.loc.gov/search/?fa=contributor%3Akean%2C+john+h.&fo=json"
+        }, 
+        {
+            "wedeman, miles": "https://www.loc.gov/search/?fa=contributor%3Awedeman%2C+miles&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "11.5631962,104.9328754", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "United States. Dept. of State. Bureau of East Asian and Pacific Affairs", 
+        "Camp David", 
+        "Foreign assistance", 
+        "Interviews", 
+        "Cambodia -- Phnom Penh", 
+        "Syria -- Damascus", 
+        "Korea -- Seoul", 
+        "Near East", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "September 12, 1995"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004wed01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001239/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "united states. dept. of state. bureau of east asian and pacific affairs", 
+        "camp david", 
+        "foreign assistance", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004wed01"
+    ], 
+    "call_number": [
+        "Foreign Assistance Series"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.5697460000000003, 
+    "title": "Interview with Miles Wedeman ", 
+    "coordinates": [
+        "11.5631962,104.9328754"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "camp david": "https://www.loc.gov/search/?fa=subject%3Acamp+david&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign assistance": "https://www.loc.gov/search/?fa=subject%3Aforeign+assistance&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "united states. dept. of state. bureau of east asian and pacific affairs": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+dept.+of+state.+bureau+of+east+asian+and+pacific+affairs&fo=json"
+        }
+    ], 
+    "lonlat": [
+        104.9328754, 
+        11.5631962
+    ], 
+    "location": [
+        {
+            "cambodia": "https://www.loc.gov/search/?fa=location%3Acambodia&fo=json"
+        }, 
+        {
+            "damascus": "https://www.loc.gov/search/?fa=location%3Adamascus&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "korea": "https://www.loc.gov/search/?fa=location%3Akorea&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "phnom penh": "https://www.loc.gov/search/?fa=location%3Aphnom+penh&fo=json"
+        }, 
+        {
+            "seoul": "https://www.loc.gov/search/?fa=location%3Aseoul&fo=json"
+        }, 
+        {
+            "syria": "https://www.loc.gov/search/?fa=location%3Asyria&fo=json"
+        }
+    ], 
+    "_version_": 1540399678014619648, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:28.842000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+    "date": "19950912", 
+    "shelf_id": "Foreign Assistance Series", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1995": "https://www.loc.gov/search/?dates=1995-1995&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001239/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001239/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004wed01", 
+        "http://www.loc.gov/resource/mfdip.2004wed01/", 
+        "http://www.loc.gov/item/mfdip.2004wed01/"
+    ], 
+    "contributor_names": [
+        "Kean, John H. (Interviewer)", 
+        "Wedeman, Miles (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.83526492118835449, 
+    "default_count": 25, 
+    "id": "mfdipbib001239/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001239/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004wed01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004wed01/2004wed01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004wed01/2004wed01.pdf"
+    }
+]}

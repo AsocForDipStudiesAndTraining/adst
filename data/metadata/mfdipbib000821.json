@@ -1,0 +1,1300 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Howard, J. O. &amp; Minyard, J. D. (1994) <cite>Interview with James D. Minyard</cite>. June 2. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000821/.", 
+    "mla": "Howard, James O, and James D Minyard. <cite>Interview with James D. Minyard</cite>. June 2, 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000821/&gt;.", 
+    "chicago": "Howard, James O, and James D Minyard. <cite>Interview with James D. Minyard</cite>. June 2, 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000821/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411839143,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.69166666666666, 
+                    35.68944444444444
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tokyo (Japan)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dongjing (Japan)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79034998"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Japan JPN", 
+                        "id": "b0be89ea8dea3f25", 
+                        "name": "Japan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Edo|Yedo|Tokio|T\u00a2quio", 
+                        "id": "27adec74640ad903", 
+                        "name": "Tokyo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c0226941a4d79e0a", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -101.85527777777777, 
+                    33.577777777777783
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Lubbock (Tex.)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Lubbock, Tex."
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Lubbock, Tex."
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n50043852"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "0b5db354a8a43f78", 
+                        "name": "Texas"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "2cf0e0cc9acc26e0", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "united states. congress. house. committee on agriculture. subcommittee on department operations, research, and foreign agriculture"
+        ], 
+        "latlong": "33.5777777778,-101.855277778", 
+        "id": "http://lccn.loc.gov/88600857", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "federal aid to water resources development", 
+            "texas", 
+            "lubbock", 
+            "irrigation laws", 
+            "united states", 
+            "agriculture", 
+            "research", 
+            "law and legislation"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Establishment of a plant stress and water conservation research laboratory and program at Lubbock, Texas : hearing before the Subcommittee on Department Operations, Research, and Foreign Agriculture of the Committee on Agriculture, House of Representatives, One Hundredth Congress, first session, on H.R. 2663, June 23, 1987.", 
+        "coordinates": [
+            "33.5777777778,-101.855277778"
+        ], 
+        "online_format": [
+            "image", 
+            "online text"
+        ], 
+        "score": 0.49154982000000003, 
+        "lonlat": [
+            -101.855277778, 
+            33.577777777800002
+        ], 
+        "location": [
+            "united states", 
+            "lubbock", 
+            "texas"
+        ], 
+        "mime_type": [
+            "image/jpeg", 
+            "text/plain", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Distributed to some depository libraries in microfiche. Shipping list no.: 87-626-P. \"Serial no. 100-23.\" Item 1010-A, 1010-B (microfiche) Also available in digital form on the Library of Congress Web site."
+        ], 
+        "timestamp": "2016-12-13T22:42:50.569000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-12-12T19:16:47.692000Z", 
+        "date": "1987", 
+        "shelf_id": "KF27 .A33277 1987c", 
+        "other_title": [], 
+        "dates": [
+            "1987-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/88600857", 
+        "hassegments": true, 
+        "image_url": [
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear09:0017330822A:00000001/full/pct:12.5/0/default.jpg", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear09:0017330822A:00000001/full/pct:12.5/0/default.jpg#h=345&w=213", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear09:0017330822A:00000001/full/pct:25/0/default.jpg#h=690&w=426", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear09:0017330822A:00000001/full/pct:50/0/default.jpg#h=1380&w=852", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear09:0017330822A:00000001/full/pct:100/0/default.jpg#h=2760&w=1704"
+        ], 
+        "aka": [
+            "http://www.loc.gov/resource/llconghear.0017330822A/", 
+            "http://lccn.loc.gov/88600857", 
+            "http://www.loc.gov/resource/conghear09.0017330822A/", 
+            "http://hdl.loc.gov/loc.law/llconghear.0017330822A", 
+            "http://www.loc.gov/item/88600857/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "angermiller, florence", 
+            "davenport, emma kelly"
+        ], 
+        "latlong": "38.20061,-89.3837", 
+        "id": "http://www.loc.gov/item/wpalh002182/", 
+        "partof": [
+            "manuscript division", 
+            "american life histories: manuscripts from the federal writers' project, 1936-1940", 
+            "u.s. work projects administration, federal writers' project: folklore project, life histories, 1936-39", 
+            "american memory"
+        ], 
+        "subject": [
+            "agriculture", 
+            "washington, george", 
+            "music", 
+            "narratives"
+        ], 
+        "index": 2, 
+        "group": [
+            "wpalh", 
+            "federal-writers-project"
+        ], 
+        "title": "[Mrs. Emma Kelly Davenport]", 
+        "coordinates": [
+            "38.20061,-89.3837"
+        ], 
+        "online_format": [
+            "image", 
+            "online text", 
+            "pdf"
+        ], 
+        "score": 0.33626112000000002, 
+        "lonlat": [
+            -89.383700000000005, 
+            38.200609999999998
+        ], 
+        "location": [
+            "perry county", 
+            "sabinal canyon", 
+            "illinois", 
+            "united states", 
+            "kaufman county", 
+            "uvalde county", 
+            "san antonio", 
+            "texas"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "text/xml", 
+            "image/tiff", 
+            "application/pdf", 
+            "application/xml"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-11-18T15:53:45.439000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-11-18T15:50:47.016000Z", 
+        "date": "1938-06-15", 
+        "shelf_id": "Folklore Project, Life Histories, 1936-39 MSS55715: BOX A732", 
+        "other_title": [], 
+        "dates": [
+            "1938-06-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/wpalh002182/", 
+        "hassegments": true, 
+        "image_url": [
+            "//lcweb2.loc.gov/mss/wpalh3/32/3205/32050418/32050401t.gif", 
+            "//lcweb2.loc.gov/mss/wpalh3/32/3205/32050418/32050401t.gif#h=150&w=118", 
+            "//lcweb2.loc.gov/mss/wpalh3/32/3205/32050418/32050401.gif#h=764&w=600"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/wpalh002182/", 
+            "loc.mss/wpalh3.32050418", 
+            "http://www.loc.gov/resource/wpalh3.32050418/", 
+            "http://www.loc.gov/item/wpalh3.32050418/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "id": "http://www.loc.gov/item/owi2001045263/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "farm security administration/office of war information black-and-white negatives", 
+            "american memory"
+        ], 
+        "subject": [
+            "united states", 
+            "texas", 
+            "lubbock county", 
+            "lubbock", 
+            "film negatives"
+        ], 
+        "index": 3, 
+        "group": [
+            "fsa", 
+            "fsa-owi-black-and-white-negatives"
+        ], 
+        "title": "Lubbock, Texas. \"Poochy,\" who attached herself to the post's prison command as a raw recruit only six months ago, now wears the insignia of a master sergeant at the Army flying school", 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.30753111999999999, 
+        "location": [
+            "lubbock", 
+            "lubbock county", 
+            "texas"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative ; 4 x 5 inches or smaller."
+        ], 
+        "timestamp": "2016-07-06T18:01:37.911000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-06T16:41:20.948000Z", 
+        "date": "1942", 
+        "shelf_id": "LC-USW33- 000309-ZC [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1942-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/owi2001045263/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00100/8e00165_150px.jpg#h=121&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00100/8e00165t.gif#h=121&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00100/8e00165r.jpg#h=516&w=640", 
+            "//cdn.loc.gov/service/pnp/fsa/8e00000/8e00100/8e00165v.jpg#h=825&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/fsa/item/owi2001045263/pp/", 
+            "http://www.loc.gov/item/owi2001045263/pp/", 
+            "http://www.loc.gov/pictures/item/owi2001045263/pp/", 
+            "http://hdl.loc.gov/loc.pnp/fsa.8e00165", 
+            "http://www.loc.gov/resource/fsa.8e00165/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "lee, russell"
+        ], 
+        "id": "http://www.loc.gov/item/fsa2000014563/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "farm security administration/office of war information black-and-white negatives", 
+            "american memory"
+        ], 
+        "subject": [
+            "united states", 
+            "texas", 
+            "lubbock county", 
+            "lubbock", 
+            "small towns", 
+            "safety film negatives"
+        ], 
+        "index": 4, 
+        "group": [
+            "fsa", 
+            "fsa-owi-black-and-white-negatives"
+        ], 
+        "title": "Dust storm over Lubbock, Texas", 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.30753111999999999, 
+        "location": [
+            "lubbock", 
+            "lubbock county", 
+            "texas"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+        ], 
+        "timestamp": "2016-07-06T17:15:00.739000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-06T16:26:36.376000Z", 
+        "date": "1939", 
+        "shelf_id": "LC-USF34- 033335-D [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1939-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/fsa2000014563/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21966_150px.jpg#h=112&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21966t.gif#h=112&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21966r.jpg#h=477&w=640", 
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21966v.jpg#h=763&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/fsa/item/fsa2000014563/pp/", 
+            "http://www.loc.gov/item/fsa2000014563/pp/", 
+            "http://www.loc.gov/pictures/item/fsa2000014563/pp/", 
+            "http://hdl.loc.gov/loc.pnp/fsa.8b21966", 
+            "http://www.loc.gov/resource/fsa.8b21966/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "lee, russell"
+        ], 
+        "id": "http://www.loc.gov/item/fsa2000014564/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "farm security administration/office of war information black-and-white negatives", 
+            "american memory"
+        ], 
+        "subject": [
+            "united states", 
+            "texas", 
+            "lubbock county", 
+            "lubbock", 
+            "small towns", 
+            "safety film negatives"
+        ], 
+        "index": 5, 
+        "group": [
+            "fsa", 
+            "fsa-owi-black-and-white-negatives"
+        ], 
+        "title": "Dust storm approaching Lubbock, Texas", 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.30753111999999999, 
+        "location": [
+            "lubbock", 
+            "lubbock county", 
+            "texas"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+        ], 
+        "timestamp": "2016-07-06T17:15:00.739000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-06T16:26:36.376000Z", 
+        "date": "1939", 
+        "shelf_id": "LC-USF34- 033336-D [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1939-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/fsa2000014564/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21967_150px.jpg#h=112&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21967t.gif#h=112&w=150", 
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21967r.jpg#h=478&w=640", 
+            "//cdn.loc.gov/service/pnp/fsa/8b21000/8b21900/8b21967v.jpg#h=764&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/fsa/item/fsa2000014564/pp/", 
+            "http://www.loc.gov/item/fsa2000014564/pp/", 
+            "http://www.loc.gov/pictures/item/fsa2000014564/pp/", 
+            "http://hdl.loc.gov/loc.pnp/fsa.8b21967", 
+            "http://www.loc.gov/resource/fsa.8b21967/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "historic american buildings survey", 
+            "chase, john s", 
+            "haynes & strange", 
+            "gilstrap, guy"
+        ], 
+        "id": "http://www.loc.gov/item/tx0594/", 
+        "partof": [
+            "prints and photographs division", 
+            "historic american buildings survey/historic american engineering record/historic american landscapes survey", 
+            "american memory"
+        ], 
+        "subject": [
+            "hospitals"
+        ], 
+        "index": 6, 
+        "group": [
+            "hh", 
+            "historic-american-buildings-landscapes-and-engineering-records"
+        ], 
+        "title": "Chatman Hospital, 2301 Cedar Avenue, Lubbock, Lubbock County, TX", 
+        "online_format": [
+            "image", 
+            "pdf"
+        ], 
+        "score": 0.30753111999999999, 
+        "location": [
+            "lubbock", 
+            "lubbock county", 
+            "texas"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "application/pdf"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Measured Drawing(s): 3"
+        ], 
+        "timestamp": "2016-10-11T17:49:07.061000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-11T18:16:07.548000Z", 
+        "shelf_id": "HABS TEX,152-LUBBO,18-", 
+        "other_title": [], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/tx0594/", 
+        "hassegments": true, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/habshaer/tx/tx0500/tx0594/sheet/00001_150px.jpg#h=100&w=150", 
+            "//cdn.loc.gov/service/pnp/habshaer/tx/tx0500/tx0594/sheet/00001r.jpg#h=425&w=640", 
+            "//cdn.loc.gov/service/pnp/habshaer/tx/tx0500/tx0594/sheet/00001v.jpg#h=680&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/hh/item/tx0594/", 
+            "http://www.loc.gov:8081/pictures/search/?q=drawing: tx0594&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true", 
+            "http://www.loc.gov/item/tx0594/", 
+            "http://www.loc.gov/pictures/item/tx0594/", 
+            "http://cdn.loc.gov/master/pnp/habshaer/tx/tx0500/tx0594/data/tx0594data.pdf", 
+            "http://www.loc.gov/resource/hhh.tx0594data/", 
+            "http://www.loc.gov/resource/hhh.tx0594.sheet/", 
+            "http://www.loc.gov/resource/hhh.tx0594.sheet.00001a", 
+            "http://www.loc.gov/resource/hhh.tx0594.sheet.00002a", 
+            "http://www.loc.gov/resource/hhh.tx0594.sheet.00003a"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "howard, james o.", 
+            "ioanes, raymond andrew"
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib000551/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "berlin airlift", 
+            "peace treaties", 
+            "north american free trade association", 
+            "uruguay round", 
+            "agriculture", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Raymond Andrew Ioanes", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 6.0282172999999997, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "east asia", 
+            "eurasia", 
+            "pacific", 
+            "united states", 
+            "germany", 
+            "japan", 
+            "china"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1994-07-12", 
+        "shelf_id": "Agriculture Series", 
+        "other_title": [], 
+        "dates": [
+            "1994-07-12T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000551/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000551/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ioa01", 
+            "http://www.loc.gov/resource/mfdip.2004ioa01/", 
+            "http://www.loc.gov/item/mfdip.2004ioa01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "weintraub, sidney"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001243/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "camp david", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Sidney Weintraub", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.710324, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "santiago", 
+            "east asia", 
+            "mexico", 
+            "africa", 
+            "tokyo", 
+            "washington", 
+            "madagascar", 
+            "antananarivo", 
+            "united states", 
+            "mexico city", 
+            "western hemisphere", 
+            "pacific", 
+            "chile", 
+            "japan", 
+            "thailand", 
+            "austin", 
+            "texas"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "1996-05-13", 
+        "shelf_id": "mfdipbib001243", 
+        "other_title": [], 
+        "dates": [
+            "1996-05-13T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001243/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001243/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004wei04", 
+            "http://www.loc.gov/resource/mfdip.2004wei04/", 
+            "http://www.loc.gov/item/mfdip.2004wei04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "ewing, raymond c.", 
+            "blaser, arthur f., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000100/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Arthur F. Blaser Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.2708219999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "brazil", 
+            "europe", 
+            "england", 
+            "western hemisphere", 
+            "east asia", 
+            "tokyo", 
+            "brasilia", 
+            "washington", 
+            "rio de janeiro", 
+            "pacific", 
+            "united states", 
+            "london", 
+            "bonn", 
+            "japan", 
+            "germany", 
+            "eurasia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1996-10-16", 
+        "shelf_id": "mfdipbib000100", 
+        "other_title": [], 
+        "dates": [
+            "1996-10-16T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000100/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000100/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004bla07", 
+            "http://www.loc.gov/resource/mfdip.2004bla07/", 
+            "http://www.loc.gov/item/mfdip.2004bla07/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "nieburg, patrick", 
+            "garrity, robert w."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001494/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with  Robert W. Garrity", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.8936145, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "east asia", 
+            "tokyo", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "western hemisphere", 
+            "japan"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "1989-03-01", 
+        "shelf_id": "mfdipbib001494", 
+        "other_title": [], 
+        "dates": [
+            "1989-03-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001494/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001494/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007gar01", 
+            "http://www.loc.gov/resource/mfdip.2007gar01/", 
+            "http://www.loc.gov/item/mfdip.2007gar01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "mustard, allan", 
+            "novotny, donald j."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001615/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Donald J. Novotny", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.8936145, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "east asia", 
+            "tokyo", 
+            "washington", 
+            "wellington", 
+            "pacific", 
+            "united states", 
+            "western hemisphere", 
+            "japan", 
+            "new zealand"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001615", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001615/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001615/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010nov01", 
+            "http://www.loc.gov/resource/mfdip.2010nov01/", 
+            "http://www.loc.gov/item/mfdip.2010nov01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "schmidt, g. lewis", 
+            "kendall, harry haven"
+        ], 
+        "latlong": "15.1666666667,108.866666667", 
+        "id": "http://www.loc.gov/item/mfdipbib000601/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Harry Haven Kendall", 
+        "coordinates": [
+            "15.1666666667,108.866666667"
+        ], 
+        "score": 3.7410904999999999, 
+        "lonlat": [
+            108.866666667, 
+            15.166666666699999
+        ], 
+        "location": [
+            "europe", 
+            "united states", 
+            "santiago", 
+            "caracas", 
+            "east asia", 
+            "eurasia", 
+            "madrid", 
+            "panama", 
+            "takamatsu", 
+            "hawaii", 
+            "pacific", 
+            "bangkok", 
+            "vietnam", 
+            "western hemisphere", 
+            "pearl harbor", 
+            "chile", 
+            "japan", 
+            "thailand", 
+            "venezuela", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1988-12-27", 
+        "shelf_id": "mfdipbib000601", 
+        "other_title": [], 
+        "dates": [
+            "1988-12-27T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000601/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000601/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ken01", 
+            "http://www.loc.gov/resource/mfdip.2004ken01/", 
+            "http://www.loc.gov/item/mfdip.2004ken01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "howard, james o.": "https://www.loc.gov/search/?fa=contributor%3Ahoward%2C+james+o.&fo=json"
+        }, 
+        {
+            "minyard, james d.": "https://www.loc.gov/search/?fa=contributor%3Aminyard%2C+james+d.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "35.6894444444,139.691666667", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "General Agreement on Tariffs and Trade", 
+        "Uruguay Round (1987-1994)", 
+        "Agriculture", 
+        "Interviews", 
+        "Japan -- Tokyo", 
+        "United States -- Texas -- Lubbock", 
+        "Western Hemisphere", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "June 2, 1994"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004min01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000821/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "general agreement on tariffs and trade", 
+        "uruguay round", 
+        "agriculture", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004min01"
+    ], 
+    "call_number": [
+        "Agriculture Series"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 9.6323679999999996, 
+    "title": "Interview with James D. Minyard ", 
+    "coordinates": [
+        "35.6894444444,139.691666667"
+    ], 
+    "subjects": [
+        {
+            "agriculture": "https://www.loc.gov/search/?fa=subject%3Aagriculture&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "general agreement on tariffs and trade": "https://www.loc.gov/search/?fa=subject%3Ageneral+agreement+on+tariffs+and+trade&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "uruguay round": "https://www.loc.gov/search/?fa=subject%3Auruguay+round&fo=json"
+        }
+    ], 
+    "lonlat": [
+        139.69166666699999, 
+        35.689444444400003
+    ], 
+    "location": [
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "japan": "https://www.loc.gov/search/?fa=location%3Ajapan&fo=json"
+        }, 
+        {
+            "lubbock": "https://www.loc.gov/search/?fa=location%3Alubbock&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "texas": "https://www.loc.gov/search/?fa=location%3Atexas&fo=json"
+        }, 
+        {
+            "tokyo": "https://www.loc.gov/search/?fa=location%3Atokyo&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399589991907328, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:05.602000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+    "date": "19940602", 
+    "shelf_id": "Agriculture Series", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1994": "https://www.loc.gov/search/?dates=1994-1994&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000821/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000821/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004min01", 
+        "http://www.loc.gov/resource/mfdip.2004min01/", 
+        "http://www.loc.gov/item/mfdip.2004min01/"
+    ], 
+    "contributor_names": [
+        "Howard, James O., 1915- (Interviewer)", 
+        "Minyard, James D. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.48622393608093262, 
+    "default_count": 25, 
+    "id": "mfdipbib000821/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000821/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004min01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004min01/2004min01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004min01/2004min01.pdf"
+    }
+]}

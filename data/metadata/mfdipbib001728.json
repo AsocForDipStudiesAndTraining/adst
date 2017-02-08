@@ -1,0 +1,1970 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Charles Stuart Kennedy &amp; Placke, J. A. (2011) <cite>Interview with James A. Placke</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001728/.", 
+    "mla": "Charles Stuart Kennedy, and James A Placke. <cite>Interview with James A. Placke</cite>. 2011. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001728/&gt;.", 
+    "chicago": "Charles Stuart Kennedy, and James A Placke. <cite>Interview with James A. Placke</cite>. 2011. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001728/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486410413677,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.509722222222223, 
+                    33.871944444444445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Beirut (Lebanon)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Balad\u012byat Bayr\u016bt"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Beirut"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83068103"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bayrut|Beirute|Beyrouth", 
+                        "id": "98cd7d2fea60ba96", 
+                        "name": "Beirut"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Leb. LBN Lebanese Republic", 
+                        "id": "be3dda2bad55ed18", 
+                        "name": "Lebanon"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad1ad676f4f4a656", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -102.81437, 
+                    41.896360000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Nebraska Boys Ranch", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/5697825"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5b9100c0a2191621", 
+                        "name": "Nebraska"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "9ec19fb3f8c6bfa6", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.55062, 
+                    52.347140000000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Frankfurt (Oder)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Frankfort on the Oder"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del Odra"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Frankfurt nad Odr\u0105"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del \u00d3der"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "af", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442 \u043d\u0430 \u041e\u0434\u0435\u0440"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Frankfurto \u0109e Odro"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Frankfurt Oderi \u00e4\u00e4res"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Francfort-sur-l'Oder"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Francoforte sull'Oder"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30aa\u30fc\u30c0\u30fc"
+                    }, 
+                    {
+                        "lang": "ka", 
+                        "name": "\u10e4\u10e0\u10d0\u10dc\u10d9\u10e4\u10e3\u10e0\u10e2-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10dd\u10d3\u10d4\u10e0\u10d8"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Frankfurtas prie Oderio"
+                    }, 
+                    {
+                        "lang": "nds", 
+                        "name": "Frankfort an de Oder"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "nn", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ro", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u043d\u0430-\u041e\u0434\u0435\u0440\u0435"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Frankfurt na Odri"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8 \u05e2\u05dc \u05d4\u05d0\u05d5\u05d3\u05e8"
+                    }, 
+                    {
+                        "lang": "id", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vo", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "jv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "ca", 
+                        "name": "Frankfurt de l'Oder"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Frankfurt_%28Oder%29"
+                    }, 
+                    {
+                        "lang": "iata", 
+                        "name": "ZFR"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2925535"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f5135199aad9fe96", 
+                        "name": "Brandenburg"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "69f85a8b5ddf13bc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    44.393888888888888, 
+                    33.338611111111113
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Baghdad (Iraq)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Bagddad (Iraq)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80006292"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Iraq IRQ Republic of Iraq", 
+                        "id": "038fc8cbcc8a6e86", 
+                        "name": "Iraq"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bagd\u00a0|Bagdad", 
+                        "id": "17d92552dbd6e5d1", 
+                        "name": "Baghdad"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "a373f4b965aebed1", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.178792899999999, 
+                    32.895529199999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tripoli", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Tripoli \u0637\u0631\u0627\u0628\u0644\u0633"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0637\u0631\u0627\u0628\u0644\u0633"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Tripolis"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Tripolis"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u03a4\u03c1\u03af\u03c0\u03bf\u03bb\u03b7"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Tr\u00edpoli"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Tr\u00edp\u00f3l\u00ed"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30c8\u30ea\u30dd\u30ea"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Trabl\u00fbs"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Tripolis"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u7684\u9ece\u6ce2\u91cc"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Tr\u00edpoli"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1699640925"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Libya LBY", 
+                        "id": "e7ed7f1cd4c03902", 
+                        "name": "Libya"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Taghura' wa-n-Nawahi al-Arba", 
+                        "id": "9dd221422026c779", 
+                        "name": "Tajura' wa an Nawahi al Arba"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "bcee1b13d5119822", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -75.690021900000005, 
+                    45.421032799999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Ottawa", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "ar", 
+                        "name": "\u0623\u0648\u062a\u0627\u0648\u0627"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d0\u05d5\u05d8\u05d5\u05d5\u05d4"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Ottawa"
+                    }, 
+                    {
+                        "lang": "iu", 
+                        "name": "\u140a\u1450\u155a / atavaa"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Ottawa"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041e\u0442\u0442\u0430\u0432\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Ottawa"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/18886011"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Ont. Upper Canada", 
+                        "id": "944677a87cbb6458", 
+                        "name": "Ontario"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Can. CAN", 
+                        "id": "57a591ef0528b15c", 
+                        "name": "Canada"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "d8b27498b5c835cf", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.9919327, 
+                    29.377569099999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kuwait City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0643\u0648\u064a\u062a"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Kuvajt"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Kuwait-Stadt"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Kuwait City"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u06a9\u0648\u06cc\u062a"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Kuvait"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Citt\u00e0 del Kuwait"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0443\u0432\u0435\u0439\u0442"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Kuvajt"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Kuwait City"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/544060405"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Kwt. KWT State of Kuwait", 
+                        "id": "b5350df3fa7a5949", 
+                        "name": "Kuwait"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Capital, Kuwait", 
+                        "id": "cc4bff01c87121df", 
+                        "name": "Al Asimah"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "6355c503e5fc433d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "29.3436111111,47.9461111111", 
+        "contributor": [
+            "united states. national imagery and mapping agency"
+        ], 
+        "id": "http://www.loc.gov/item/2004633775/", 
+        "partof": [
+            "geography and map division", 
+            "general maps", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "kuwait", 
+            "remote-sensing images", 
+            "iraq", 
+            "saudi arabia"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Kuwait, Iraq, Saudi Arabia border areas.", 
+        "coordinates": [
+            "29.3436111111,47.9461111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.32449895000000001, 
+        "lonlat": [
+            47.946111111100002, 
+            29.3436111111
+        ], 
+        "location": [
+            "Kuwait", 
+            "Saudi Arabia", 
+            "Iraq", 
+            "kuwait", 
+            "saudi arabia", 
+            "iraq"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Map in 2 parts. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T19:59:44.896000Z", 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:11.119000Z", 
+        "date": "2003", 
+        "shelf_id": "G7601.A43 2003 .U5", 
+        "other_title": [], 
+        "dates": [
+            "2003-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004633775/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7601/g7601a/ct001335.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7601/g7601a/ct001335.gif#h=214&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7601:g7601a:ct001335/full/pct:3.125/0/default.jpg#h=496&w=347", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7601:g7601a:ct001335/full/pct:6.25/0/default.jpg#h=992&w=695", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7601:g7601a:ct001335/full/pct:12.5/0/default.jpg#h=1984&w=1391"
+        ], 
+        "aka": [
+            "http://www.loc.gov/resource/g7601a.ct001335/", 
+            "http://www.loc.gov/item/2004633775/", 
+            "http://hdl.loc.gov/loc.gmd/g7601a.ct001335", 
+            "http://lccn.loc.gov/2004633775"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "map"
+        ], 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/91682276/", 
+        "partof": [
+            "geography and map division", 
+            "general maps", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "saudi arabia", 
+            "boundaries", 
+            "iraq", 
+            "maps", 
+            "kuwait"
+        ], 
+        "index": 2, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "[Map showing neutral zones between Saudi Arabia and Iraq and between Saudi Arabia and Kuwait].", 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.32449895000000001, 
+        "location": [
+            "Kuwait", 
+            "Saudi Arabia", 
+            "Iraq", 
+            "kuwait", 
+            "saudi arabia", 
+            "iraq"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"721438 (B01188) 3-91.\" Depths shown by gradient tints. Available also through the Library of Congress Web site as a raster image. DRM"
+        ], 
+        "timestamp": "2017-01-26T20:04:52.163000Z", 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:35.781000Z", 
+        "date": "1991", 
+        "shelf_id": "G7531.F2 1991 .U5", 
+        "other_title": [], 
+        "dates": [
+            "1991-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/91682276/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7531/g7531f/ct000894.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7531/g7531f/ct000894.gif#h=150&w=175", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7531:g7531f:ct000894/full/pct:6.25/0/default.jpg#h=415&w=484", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7531:g7531f:ct000894/full/pct:12.5/0/default.jpg#h=831&w=969", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7531:g7531f:ct000894/full/pct:25/0/default.jpg#h=1663&w=1939"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/91682276/", 
+            "http://www.loc.gov/resource/g7531f.ct000894/", 
+            "http://hdl.loc.gov/loc.gmd/g7531f.ct000894", 
+            "http://lccn.loc.gov/91682276"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "18.3063888889,42.7291666667", 
+        "contributor": [
+            "s\u00e9bah, pascal", 
+            "launay, marie de", 
+            "osman hamdi bey"
+        ], 
+        "id": "http://www.loc.gov/item/2004666942/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "arabs", 
+            "clothing & dress", 
+            "saudi arabia", 
+            "shammar (arab tribe)", 
+            "women", 
+            "iraq", 
+            "baghdad", 
+            "middle east", 
+            "book illustrations", 
+            "group portraits", 
+            "photogravures", 
+            "portrait prints"
+        ], 
+        "index": 3, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Studio portrait of models wearing traditional clothing from the province of Bagdhad (Baghdad), Ottoman Empire]", 
+        "coordinates": [
+            "18.3063888889,42.7291666667"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.32373004999999999, 
+        "lonlat": [
+            42.729166666700003, 
+            18.306388888899999
+        ], 
+        "location": [
+            "saudi arabia", 
+            "iraq", 
+            "baghdad", 
+            "middle east"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photomechanical print : photogravure. | (1): Arab of the Chammar (Shammar) tribe; (2): Arab of the Zobe\u0131\u0308d tribe; and (3): married Muslim woman of Baghdad."
+        ], 
+        "timestamp": "2016-07-19T22:53:55.419000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:57:59.340000Z", 
+        "date": "1873", 
+        "shelf_id": "Illus. in GT1267.H2 (Case Y) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1873-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/2004666942/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11730_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11730_150px.jpg#h=150&w=123", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11730t.gif#h=150&w=123", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11730r.jpg#h=640&w=523", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11730v.jpg#h=1024&w=837"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004666942/", 
+            "http://www.loc.gov/item/2004666942/", 
+            "http://www.loc.gov/pictures/item/2004666942/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3g11730", 
+            "http://www.loc.gov/resource/cph.3g11730/", 
+            "http://lccn.loc.gov/2004666942"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "21.4266666667,39.8261111111", 
+        "contributor": [
+            "s\u00e9bah, pascal", 
+            "launay, marie de", 
+            "osman hamdi bey"
+        ], 
+        "id": "http://www.loc.gov/item/2004667902/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "muslims", 
+            "clothing & dress", 
+            "saudi arabia", 
+            "mecca", 
+            "women", 
+            "libya", 
+            "tripoli", 
+            "yemen", 
+            "book illustrations", 
+            "group portraits", 
+            "photogravures", 
+            "portrait prints"
+        ], 
+        "index": 4, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Studio portrait of models wearing traditional clothing from the provinces of Hedjaz (Hejaz), Yemen and Tripoli, Ottoman Empire]", 
+        "coordinates": [
+            "21.4266666667,39.8261111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.31808292999999999, 
+        "lonlat": [
+            39.826111111099998, 
+            21.426666666700001
+        ], 
+        "location": [
+            "mecca", 
+            "saudi arabia", 
+            "yemen", 
+            "tripoli", 
+            "libya"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photomechanical print : photogravure. | (1): Merchant of Moka (Yemen); (2): married Muslim woman of Mekk\u00e8 (Mecca); and (3): young Moorish woman of Tripoli."
+        ], 
+        "timestamp": "2016-07-19T22:54:46.557000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:01.525000Z", 
+        "date": "1873", 
+        "shelf_id": "Illus. in GT1267.H2 (Case Y) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1873-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/2004667902/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11800/3g11842_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11800/3g11842_150px.jpg#h=150&w=119", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11800/3g11842t.gif#h=150&w=119", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11800/3g11842r.jpg#h=640&w=507", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11800/3g11842v.jpg#h=1024&w=810"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004667902/", 
+            "http://www.loc.gov/item/2004667902/", 
+            "http://www.loc.gov/pictures/item/2004667902/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3g11842", 
+            "http://www.loc.gov/resource/cph.3g11842/", 
+            "http://lccn.loc.gov/2004667902"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "45.4208333333,-75.6902777778", 
+        "contributor": [
+            "toronto lithographing company"
+        ], 
+        "id": "http://www.loc.gov/item/75696739/", 
+        "partof": [
+            "geography and map division", 
+            "panoramic maps", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "ottawa (ont.)", 
+            "aerial views", 
+            "canada", 
+            "ontario", 
+            "ottawa"
+        ], 
+        "index": 5, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "City of Ottawa, Canada with views of principal business buildings.", 
+        "coordinates": [
+            "45.4208333333,-75.6902777778"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.28648022000000001, 
+        "lonlat": [
+            -75.690277777800006, 
+            45.420833333300003
+        ], 
+        "location": [
+            "Ottawa", 
+            "Ontario", 
+            "Canada", 
+            "ontario", 
+            "ottawa", 
+            "canada"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Perspective map not drawn to scale. Bird's-eye view. LC Panoramic maps (2nd ed.), 1073 Available also through the Library of Congress Web site as a raster image. Includes col. illus. AACR2: 651/1"
+        ], 
+        "timestamp": "2017-01-26T20:03:31.402000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:29.257000Z", 
+        "date": "1895", 
+        "shelf_id": "G3464.O8A3 1895 .T6", 
+        "other_title": [], 
+        "dates": [
+            "1895-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/75696739/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd3/g3464/g3464o/pm010730.gif", 
+            "//cdn.loc.gov/service/gmd/gmd3/g3464/g3464o/pm010730.gif#h=150&w=194", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3464:g3464o:pm010730/full/pct:3.125/0/default.jpg#h=305&w=394", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3464:g3464o:pm010730/full/pct:6.25/0/default.jpg#h=610&w=789", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3464:g3464o:pm010730/full/pct:12.5/0/default.jpg#h=1220&w=1578"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/75696739/", 
+            "http://hdl.loc.gov/loc.gmd/g3464o.pm010730", 
+            "http://www.loc.gov/resource/g3464o.pm010730/", 
+            "http://lccn.loc.gov/75696739"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "detroit publishing co."
+        ], 
+        "latlong": "45.4210328,-75.6900219", 
+        "id": "http://www.loc.gov/item/det1994006747/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "detroit publishing company", 
+            "american memory"
+        ], 
+        "subject": [
+            "capitols", 
+            "locks (hydraulic engineering)", 
+            "canada", 
+            "ontario", 
+            "ottawa", 
+            "dry plate negatives", 
+            "panoramic photographs"
+        ], 
+        "index": 6, 
+        "group": [
+            "det", 
+            "detroit-publishing-company"
+        ], 
+        "title": "Parliament B'lg's, Ottawa, from Manor [i.e. Major's] Hill Park", 
+        "coordinates": [
+            "45.4210328,-75.6900219"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.27009614999999998, 
+        "lonlat": [
+            -75.690021900000005, 
+            45.421032799999999
+        ], 
+        "location": [
+            "canada", 
+            "ontario", 
+            "ottawa"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "2 negatives : glass ; 10 x 8 in."
+        ], 
+        "timestamp": "2016-05-26T15:27:30.913000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-26T15:11:37.047000Z", 
+        "date": "1890", 
+        "shelf_id": "LC-D4-10484 <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1890-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/det1994006747/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/det/4a00000/4a06000/4a06100/4a06125t.gif#h=150&w=120", 
+            "//cdn.loc.gov/service/pnp/det/4a00000/4a06000/4a06100/4a06125_150px.jpg#h=150&w=121", 
+            "//cdn.loc.gov/service/pnp/det/4a00000/4a06000/4a06100/4a06125r.jpg#h=640&w=514", 
+            "//cdn.loc.gov/service/pnp/det/4a00000/4a06000/4a06100/4a06125v.jpg#h=1024&w=823"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/det/item/det1994006747/pp/", 
+            "http://www.loc.gov/item/det1994006747/pp/", 
+            "http://www.loc.gov/pictures/item/det1994006747/pp/", 
+            "http://hdl.loc.gov/loc.pnp/det.4a06124", 
+            "http://www.loc.gov/resource/det.4a06125/", 
+            "http://www.loc.gov/resource/det.4a06124/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "cecil, charles o."
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/mfdipbib001692/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Charles O. Cecil", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "score": 3.3561964, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "tunisia", 
+            "lebanon", 
+            "abidjan", 
+            "dar es salaam", 
+            "united states", 
+            "niger", 
+            "cote d'ivoire", 
+            "saudi arabia", 
+            "kuwait", 
+            "tripoli", 
+            "tunis", 
+            "beirut", 
+            "near east", 
+            "muscat", 
+            "washington d.c.", 
+            "africa", 
+            "jeddah", 
+            "libya", 
+            "oman", 
+            "tanzania", 
+            "western hemisphere", 
+            "mali", 
+            "bamako"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001692", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001692/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001692/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011cec01", 
+            "http://www.loc.gov/resource/mfdip.2011cec01/", 
+            "http://www.loc.gov/item/mfdip.2011cec01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "mack, david l."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001717/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador David L. Mack", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.0996779999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "benghazi", 
+            "israel", 
+            "beirut", 
+            "western hemisphere", 
+            "libya", 
+            "tunisia", 
+            "lebanon", 
+            "washington", 
+            "oregon", 
+            "united states", 
+            "baghdad", 
+            "jordan", 
+            "tripoli", 
+            "iraq", 
+            "amman", 
+            "tunis", 
+            "united arab emirates", 
+            "jerusalem", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001717", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001717/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001717/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011mac01", 
+            "http://www.loc.gov/resource/mfdip.2011mac01/", 
+            "http://www.loc.gov/item/mfdip.2011mac01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "mak, dayton s."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000739/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "six day war", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Dayton S. Mak", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.8336793999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "saudi arabia", 
+            "england", 
+            "libya", 
+            "kuwait", 
+            "eurasia", 
+            "lebanon", 
+            "washington", 
+            "tripoli", 
+            "united states", 
+            "london", 
+            "hamburg", 
+            "germany", 
+            "beirut", 
+            "near east", 
+            "dhahran", 
+            "jeddah"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1989-08-09", 
+        "shelf_id": "mfdipbib000739", 
+        "other_title": [], 
+        "dates": [
+            "1989-08-09T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000739/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000739/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mak01", 
+            "http://www.loc.gov/resource/mfdip.2011mak01/", 
+            "http://www.loc.gov/item/mfdip.2011mak01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "seelye, joan", 
+            "jewell fenzi"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/mfdipbib001735/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Joan Seelye", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "score": 2.7335322, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "saudi arabia", 
+            "western hemisphere", 
+            "eurasia", 
+            "tunisia", 
+            "kuwait", 
+            "syria", 
+            "lebanon", 
+            "near east", 
+            "united states", 
+            "damascus", 
+            "jordan", 
+            "mosbach", 
+            "amman", 
+            "tunis", 
+            "beirut", 
+            "germany", 
+            "jeddah"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:20.857000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001735", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001735/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001735/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011see01", 
+            "http://www.loc.gov/resource/mfdip.2011see01/", 
+            "http://www.loc.gov/item/mfdip.2011see01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "countryman, john r.", 
+            "david reuther"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/mfdipbib001696/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador John R. Countryman", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "score": 2.449668, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "washington d.c.", 
+            "turkey", 
+            "saudi arabia", 
+            "libya", 
+            "istanbul", 
+            "eurasia", 
+            "oman", 
+            "europe", 
+            "lebanon", 
+            "tripoli", 
+            "united states", 
+            "western hemisphere", 
+            "new york", 
+            "gabon", 
+            "africa", 
+            "libreville", 
+            "beirut", 
+            "near east", 
+            "dhahran"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001696", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001696/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001696/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011cou01", 
+            "http://www.loc.gov/resource/mfdip.2011cou01/", 
+            "http://www.loc.gov/item/mfdip.2011cou01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "horan, hume"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/mfdipbib000530/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "politburo", 
+            "protection and welfare", 
+            "six day war", 
+            "israel-arab war", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Hume Horan", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "score": 2.3952403000000002, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "saudi arabia", 
+            "iraq", 
+            "libya", 
+            "eurasia", 
+            "sudan", 
+            "africa", 
+            "lebanon", 
+            "cameroon cameroon", 
+            "united states", 
+            "baghdad", 
+            "korea", 
+            "germany", 
+            "baida", 
+            "ivory coast", 
+            "amman", 
+            "jordan", 
+            "beirut", 
+            "near east", 
+            "jeddah"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "2000-11-03", 
+        "shelf_id": "mfdipbib000530", 
+        "other_title": [], 
+        "dates": [
+            "2000-11-03T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000530/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000530/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004hor02", 
+            "http://www.loc.gov/resource/mfdip.2004hor02/", 
+            "http://www.loc.gov/item/mfdip.2004hor02/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "contributors": [
+        {
+            "charles stuart kennedy": "https://www.loc.gov/search/?fa=contributor%3Acharles+stuart+kennedy&fo=json"
+        }, 
+        {
+            "placke, james a.": "https://www.loc.gov/search/?fa=contributor%3Aplacke%2C+james+a.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "33.8719444444,35.5097222222", 
+    "display_offsite": true, 
+    "created_published": [
+        "2011"
+    ], 
+    "subjects": [
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2011pla01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001728/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2011pla01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "title": "Interview with James A. Placke", 
+    "coordinates": [
+        "33.8719444444,35.5097222222"
+    ], 
+    "score": 8.3114270000000001, 
+    "lonlat": [
+        35.509722222199997, 
+        33.8719444444
+    ], 
+    "location": [
+        {
+            "baghdad": "https://www.loc.gov/search/?fa=location%3Abaghdad&fo=json"
+        }, 
+        {
+            "beirut": "https://www.loc.gov/search/?fa=location%3Abeirut&fo=json"
+        }, 
+        {
+            "canada": "https://www.loc.gov/search/?fa=location%3Acanada&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "frankfurt": "https://www.loc.gov/search/?fa=location%3Afrankfurt&fo=json"
+        }, 
+        {
+            "germany": "https://www.loc.gov/search/?fa=location%3Agermany&fo=json"
+        }, 
+        {
+            "iraq": "https://www.loc.gov/search/?fa=location%3Airaq&fo=json"
+        }, 
+        {
+            "jeddah": "https://www.loc.gov/search/?fa=location%3Ajeddah&fo=json"
+        }, 
+        {
+            "kuwait": "https://www.loc.gov/search/?fa=location%3Akuwait&fo=json"
+        }, 
+        {
+            "kuwait city": "https://www.loc.gov/search/?fa=location%3Akuwait+city&fo=json"
+        }, 
+        {
+            "lebanon": "https://www.loc.gov/search/?fa=location%3Alebanon&fo=json"
+        }, 
+        {
+            "libya": "https://www.loc.gov/search/?fa=location%3Alibya&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "nebraska": "https://www.loc.gov/search/?fa=location%3Anebraska&fo=json"
+        }, 
+        {
+            "ontario": "https://www.loc.gov/search/?fa=location%3Aontario&fo=json"
+        }, 
+        {
+            "ottawa": "https://www.loc.gov/search/?fa=location%3Aottawa&fo=json"
+        }, 
+        {
+            "saudi arabia": "https://www.loc.gov/search/?fa=location%3Asaudi+arabia&fo=json"
+        }, 
+        {
+            "tripoli": "https://www.loc.gov/search/?fa=location%3Atripoli&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399794679185408, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:35:20.857000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+    "date": "20110000", 
+    "shelf_id": "mfdipbib001728", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2011": "https://www.loc.gov/search/?dates=2011-2011&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001728/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001728/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2011pla01", 
+        "http://www.loc.gov/resource/mfdip.2011pla01/", 
+        "http://www.loc.gov/item/mfdip.2011pla01/"
+    ], 
+    "contributor_names": [
+        "Charles Stuart Kennedy (Interviewer)", 
+        "Placke, James A. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.26739597320556641, 
+    "default_count": 25, 
+    "id": "mfdipbib001728/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001728/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2011pla01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2011/2011pla01/2011pla01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2011/2011pla01/2011pla01.pdf"
+    }
+]}

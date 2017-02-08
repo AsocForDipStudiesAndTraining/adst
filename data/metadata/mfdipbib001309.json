@@ -1,0 +1,1841 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Dunnigan, T. J. &amp; Zweifel, D. E. (1996) <cite>Interview with David E. Zweifel</cite>. September 3. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001309/.", 
+    "mla": "Dunnigan, Thomas J, and David E Zweifel. <cite>Interview with David E. Zweifel</cite>. September 3, 1996. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001309/&gt;.", 
+    "chicago": "Dunnigan, Thomas J, and David E Zweifel. <cite>Interview with David E. Zweifel</cite>. September 3, 1996. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001309/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411801094,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.509722222222223, 
+                    33.871944444444445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Beirut (Lebanon)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Balad\u012byat Bayr\u016bt"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Beirut"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83068103"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bayrut|Beirute|Beyrouth", 
+                        "id": "98cd7d2fea60ba96", 
+                        "name": "Beirut"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Leb. LBN Lebanese Republic", 
+                        "id": "be3dda2bad55ed18", 
+                        "name": "Lebanon"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad1ad676f4f4a656", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.923962500000002, 
+                    31.9515694
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Amman", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u0639\u0645\u0627\u0646\u200e"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0639\u0645\u0627\u0646"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u0391\u03bc\u03bc\u03ac\u03bd"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Amano"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u0627\u0645\u0627\u0646"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e2\u05de\u05d0\u05df"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "la", 
+                        "name": "Philadelphia"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Amanas"
+                    }, 
+                    {
+                        "lang": "lv", 
+                        "name": "Amm\u0101na"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Am\u00e3"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u043c\u043c\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Aman"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Amman"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1643504896"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Jord. JOR Hashemite Kingdom of Jordan", 
+                        "id": "3ff2d457d017fe64", 
+                        "name": "Jordan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Ama", 
+                        "id": "2c8e5bb55cecd938", 
+                        "name": "Amman"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad4b53c7fc555f94", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -41.850000000000001, 
+                    -22.383333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Santa Teresa (Rio de Janeiro, Brazil)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Santa Tereza (Rio de Janeiro, Brazil)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n89242073"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Brazil BRA Federative Republic of Brazil", 
+                        "id": "3556e87fc8d3b35a", 
+                        "name": "Brazil"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Rio", 
+                        "id": "48567189b8fac4f1", 
+                        "name": "Rio de Janeiro"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5861c36637cea175", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -99.138611111111118, 
+                    19.434166666666666
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mexico City (Mexico)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Ciudad de M\u00e9xico (Mexico)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Mexico (City)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79093328"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "37582d4c5d1e6bc0", 
+                        "name": "Distrito Federal"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mex. MEX United Mexican States", 
+                        "id": "3265f44c386c6478", 
+                        "name": "Mexico"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "51ff531c280252da", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    58.591246699999999, 
+                    23.61515
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Old Muscat", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/1796723344"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Masqat", 
+                        "id": "faa96a200a782f35", 
+                        "name": "Muscat"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Oman OMN Sultanate of Oman", 
+                        "id": "29610a5c4c488a67", 
+                        "name": "Oman"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "09dd35e6f433d6d6", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    44.333329999999997, 
+                    15.966670000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "\u015einw\u0101n", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "ar", 
+                        "name": "\u015einw\u0101n"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/70517"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Yemen, Rep. Yem. YEM Republic of Yemen", 
+                        "id": "6f69a396691cabfe", 
+                        "name": "Yemen"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "803b0e324bb5bc79", 
+                        "name": "Sana'a"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "8d5a23ca22f6c93e", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/83693458/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "beirut (lebanon)", 
+            "maps", 
+            "lebanon", 
+            "beirut"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Beirut.", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14580518000000001, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "Beirut", 
+            "Lebanon", 
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"504450 3-80.\" Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:03:57.679000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:31.134000Z", 
+        "date": "1980", 
+        "shelf_id": "G7474.B4 1980 .U5", 
+        "other_title": [], 
+        "dates": [
+            "1980-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/83693458/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7474/g7474b/ct002729.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7474/g7474b/ct002729.gif#h=150&w=196", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:6.25/0/default.jpg#h=199&w=261", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:12.5/0/default.jpg#h=399&w=522", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:25/0/default.jpg#h=799&w=1045", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:50/0/default.jpg#h=1599&w=2090"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/83693458/", 
+            "http://www.loc.gov/resource/g7474b.ct002729/", 
+            "http://hdl.loc.gov/loc.gmd/g7474b.ct002729", 
+            "http://lccn.loc.gov/83693458"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "31.9515694,35.9239625", 
+        "contributor": [
+            "o'halloran, thomas j."
+        ], 
+        "id": "http://www.loc.gov/item/2003654382/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "city & town life", 
+            "jordan", 
+            "amman", 
+            "men", 
+            "film negatives"
+        ], 
+        "index": 2, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Men gathered on a street in Amman, Jordan]", 
+        "coordinates": [
+            "31.9515694,35.9239625"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13887835000000001, 
+        "lonlat": [
+            35.923962500000002, 
+            31.9515694
+        ], 
+        "location": [
+            "jordan", 
+            "amman"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : film."
+        ], 
+        "timestamp": "2016-07-19T22:38:53.863000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:57:26.180000Z", 
+        "date": "1958", 
+        "shelf_id": "LC-U9- 1473D-11 [P&P] USN&WR COLL - Job no. 1473D, frame 11 (corresponding contact sheet)", 
+        "other_title": [], 
+        "dates": [
+            "1958-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2003654382/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/03100/03117_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/03100/03117_150px.jpg#h=104&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/03100/03117t.gif#h=105&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/03100/03117r.jpg#h=446&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/03100/03117v.jpg#h=713&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2003654382/", 
+            "http://www.loc.gov/item/2003654382/", 
+            "http://www.loc.gov/pictures/item/2003654382/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.03117", 
+            "http://www.loc.gov/resource/ppmsca.03117/", 
+            "http://lccn.loc.gov/2003654382"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "31.9515694,35.9239625", 
+        "contributor": [
+            "american colony (jerusalem). photo department"
+        ], 
+        "id": "http://www.loc.gov/item/2008676385/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13834", 
+            "catalog"
+        ], 
+        "subject": [
+            "lawrence, t. e.", 
+            "(thomas edward)", 
+            "samuel, herbert louis samuel", 
+            "viscount", 
+            "bell, gertrude lowthian", 
+            "abdullah", 
+            "king of jordan", 
+            "government officials", 
+            "jordan", 
+            "amman", 
+            "biplanes", 
+            "group portraits", 
+            "photographic prints", 
+            "hand-colored", 
+            "portrait photographs"
+        ], 
+        "index": 3, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "On the Aerodrome at Amman. Col. Laurence [T.E. Lawrence]. Sir Herbert Samuel. Amir Abdullah. April, 1921", 
+        "coordinates": [
+            "31.9515694,35.9239625"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13887835000000001, 
+        "lonlat": [
+            35.923962500000002, 
+            31.9515694
+        ], 
+        "location": [
+            "jordan", 
+            "amman"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : hand-colored. | Photograph also shows a woman, possibly Gertrude Bell,  at left and Sheik Majid Pasha el Adwan at far right."
+        ], 
+        "timestamp": "2016-07-19T23:51:10.522000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:27.345000Z", 
+        "date": "1921", 
+        "shelf_id": "LOT 13834 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1921-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008676385/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19413_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19413_150px.jpg#h=150&w=111", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19413t.gif#h=150&w=111", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19413r.jpg#h=640&w=474", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19413v.jpg#h=1024&w=758"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2008676385/", 
+            "http://www.loc.gov/item/2008676385/", 
+            "http://www.loc.gov/pictures/item/2008676385/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.19413", 
+            "http://www.loc.gov/resource/ppmsca.19413/", 
+            "http://lccn.loc.gov/2008676385"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "31.9515694,35.9239625", 
+        "contributor": [
+            "american colony (jerusalem). photo department"
+        ], 
+        "id": "http://www.loc.gov/item/2008676390/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13834", 
+            "catalog"
+        ], 
+        "subject": [
+            "abdullah", 
+            "king of jordan", 
+            "friends & associates", 
+            "bodyguards", 
+            "jordan", 
+            "amman", 
+            "camels", 
+            "photographic prints", 
+            "hand-colored"
+        ], 
+        "index": 4, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Amir Abdullah's bodyguard on camels with red, green and white standard at far left]", 
+        "coordinates": [
+            "31.9515694,35.9239625"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13887835000000001, 
+        "lonlat": [
+            35.923962500000002, 
+            31.9515694
+        ], 
+        "location": [
+            "jordan", 
+            "amman"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : hand-colored."
+        ], 
+        "timestamp": "2016-07-19T23:51:10.522000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:27.345000Z", 
+        "date": "1921", 
+        "shelf_id": "LOT 13834 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1921-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008676390/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19415_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19415_150px.jpg#h=111&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19415t.gif#h=111&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19415r.jpg#h=475&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19415v.jpg#h=760&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2008676390/", 
+            "http://www.loc.gov/item/2008676390/", 
+            "http://www.loc.gov/pictures/item/2008676390/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.19415", 
+            "http://www.loc.gov/resource/ppmsca.19415/", 
+            "http://lccn.loc.gov/2008676390"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "31.9515694,35.9239625", 
+        "contributor": [
+            "american colony (jerusalem). photo department"
+        ], 
+        "id": "http://www.loc.gov/item/2008676391/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13834", 
+            "catalog"
+        ], 
+        "subject": [
+            "bedouins", 
+            "jordan", 
+            "amman", 
+            "horses", 
+            "photographic prints"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Line of Bedouin men with rifles on horseback]", 
+        "coordinates": [
+            "31.9515694,35.9239625"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13887835000000001, 
+        "lonlat": [
+            35.923962500000002, 
+            31.9515694
+        ], 
+        "location": [
+            "jordan", 
+            "amman"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print."
+        ], 
+        "timestamp": "2016-07-19T23:51:10.522000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:27.345000Z", 
+        "date": "1921", 
+        "shelf_id": "LOT 13834 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1921-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008676391/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19414_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19414_150px.jpg#h=111&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19414t.gif#h=111&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19414r.jpg#h=475&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19414v.jpg#h=759&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2008676391/", 
+            "http://www.loc.gov/item/2008676391/", 
+            "http://www.loc.gov/pictures/item/2008676391/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.19414", 
+            "http://www.loc.gov/resource/ppmsca.19414/", 
+            "http://lccn.loc.gov/2008676391"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "31.9515694,35.9239625", 
+        "contributor": [
+            "american colony (jerusalem). photo department"
+        ], 
+        "id": "http://www.loc.gov/item/2008676395/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13834", 
+            "catalog"
+        ], 
+        "subject": [
+            "arabs", 
+            "jordan", 
+            "amman", 
+            "horse racing", 
+            "camels", 
+            "photographic prints", 
+            "hand-colored"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Arab men racing horses while crowd looks on, tents in background]", 
+        "coordinates": [
+            "31.9515694,35.9239625"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13887835000000001, 
+        "lonlat": [
+            35.923962500000002, 
+            31.9515694
+        ], 
+        "location": [
+            "jordan", 
+            "amman"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : hand-colored."
+        ], 
+        "timestamp": "2016-07-19T23:51:10.522000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:27.345000Z", 
+        "date": "1921", 
+        "shelf_id": "LOT 13834 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1921-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008676395/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19416_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19416_150px.jpg#h=112&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19416t.gif#h=112&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19416r.jpg#h=476&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/19400/19416v.jpg#h=761&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2008676395/", 
+            "http://www.loc.gov/item/2008676395/", 
+            "http://www.loc.gov/pictures/item/2008676395/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.19416", 
+            "http://www.loc.gov/resource/ppmsca.19416/", 
+            "http://lccn.loc.gov/2008676395"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "stern, thomas", 
+            "kelly, john h."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000598/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "united states. arms control and disarmament agency", 
+            "american republics", 
+            "protection and welfare", 
+            "camp david", 
+            "six day war", 
+            "berlin wall, berlin, germany", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "peace treaties", 
+            "arab-israeli relations", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John H. Kelly", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.9075966000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "europe", 
+            "songkhla", 
+            "eurasia", 
+            "east asia", 
+            "turkey", 
+            "paris", 
+            "washington", 
+            "lebanon", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "adana", 
+            "thailand", 
+            "beirut", 
+            "near east", 
+            "ankara"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1995-12-12", 
+        "shelf_id": "mfdipbib000598", 
+        "other_title": [], 
+        "dates": [
+            "1995-12-12T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000598/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000598/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004kel03", 
+            "http://www.loc.gov/resource/mfdip.2004kel03/", 
+            "http://www.loc.gov/item/mfdip.2004kel03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "handyside, hosley g."
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/mfdipbib000468/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "united states. agency for international development", 
+            "united states. arms control and disarmament agency", 
+            "nonproliferation, nuclear", 
+            "american republics", 
+            "protection and welfare", 
+            "camp david", 
+            "six day war", 
+            "chief of station", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Hosley G. Handyside", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "score": 2.4711599999999998, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "mauritania", 
+            "saudi arabia", 
+            "iraq", 
+            "libya", 
+            "egypt", 
+            "cairo", 
+            "lebanon", 
+            "tripoli", 
+            "baghdad", 
+            "africa", 
+            "beirut", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1993-04-19", 
+        "shelf_id": "mfdipbib000468", 
+        "other_title": [], 
+        "dates": [
+            "1993-04-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000468/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000468/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004han01", 
+            "http://www.loc.gov/resource/mfdip.2004han01/", 
+            "http://www.loc.gov/item/mfdip.2004han01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "sterner, michael e."
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/mfdipbib001127/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "ambassadors", 
+            "camp david", 
+            "six day war", 
+            "peace treaties", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Michael E. Sterner", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "score": 2.4008048, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "yemen", 
+            "egypt", 
+            "cairo", 
+            "lebanon", 
+            "abu dhabi", 
+            "united arab emirates", 
+            "aden", 
+            "beirut", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1990-03-02", 
+        "shelf_id": "mfdipbib001127", 
+        "other_title": [], 
+        "dates": [
+            "1990-03-02T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001127/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001127/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ste10", 
+            "http://www.loc.gov/resource/mfdip.2004ste10/", 
+            "http://www.loc.gov/item/mfdip.2004ste10/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "wolle, william d."
+        ], 
+        "latlong": "33.3386111111,44.3938888889", 
+        "id": "http://www.loc.gov/item/mfdipbib001289/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "camp david", 
+            "six day war", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with William D. Wolle", 
+        "coordinates": [
+            "33.3386111111,44.3938888889"
+        ], 
+        "score": 2.0756907, 
+        "lonlat": [
+            44.393888888900001, 
+            33.338611111100001
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "saudi arabia", 
+            "yemen", 
+            "kuwait", 
+            "united arab emirates", 
+            "united kingdom", 
+            "abu dhabi", 
+            "baghdad", 
+            "jordan", 
+            "amman", 
+            "oman", 
+            "manchester", 
+            "aden", 
+            "iraq", 
+            "near east", 
+            "jeddah"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "1991-03-06", 
+        "shelf_id": "mfdipbib001289", 
+        "other_title": [], 
+        "dates": [
+            "1991-03-06T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001289/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001289/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004wol03", 
+            "http://www.loc.gov/resource/mfdip.2004wol03/", 
+            "http://www.loc.gov/item/mfdip.2004wol03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "seelye, talcott w."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001040/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "ambassadors", 
+            "camp david", 
+            "six day war", 
+            "chief of station", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Talcott W. Seelye", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.9964694999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "saudi arabia", 
+            "baden", 
+            "kuwait", 
+            "eurasia", 
+            "tunisia", 
+            "washington", 
+            "lebanon", 
+            "near east", 
+            "united states", 
+            "wurttemberg", 
+            "jordan", 
+            "amman", 
+            "syria", 
+            "beirut", 
+            "germany", 
+            "jeddah"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:46.263000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+        "date": "1993-09-15", 
+        "shelf_id": "mfdipbib001040", 
+        "other_title": [], 
+        "dates": [
+            "1993-09-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001040/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001040/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004see01", 
+            "http://www.loc.gov/resource/mfdip.2004see01/", 
+            "http://www.loc.gov/item/mfdip.2004see01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "suddarth, roscoe s."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001649/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Roscoe S. Suddarth", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.8042157999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saudi arabia", 
+            "yemen", 
+            "western hemisphere", 
+            "libya", 
+            "riyadh", 
+            "washington", 
+            "mali", 
+            "lebanon", 
+            "tripoli", 
+            "united states", 
+            "jordan", 
+            "africa", 
+            "amman", 
+            "bamako", 
+            "beirut", 
+            "near east", 
+            "sana'a"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001649", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001649/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001649/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010sud01", 
+            "http://www.loc.gov/resource/mfdip.2010sud01/", 
+            "http://www.loc.gov/item/mfdip.2010sud01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "dunnigan, thomas j.": "https://www.loc.gov/search/?fa=contributor%3Adunnigan%2C+thomas+j.&fo=json"
+        }, 
+        {
+            "zweifel, david e.": "https://www.loc.gov/search/?fa=contributor%3Azweifel%2C+david+e.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Cuban Missile Crisis, 1962", 
+        "Ambassadors", 
+        "American republics", 
+        "Protection and welfare", 
+        "Camp David", 
+        "Six Day War, 1967", 
+        "Peace treaties", 
+        "North American Free Trade Association", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Lebanon -- Beirut", 
+        "Jordan -- Amman", 
+        "Brazil -- Rio de Janeiro", 
+        "Mexico -- Mexico City", 
+        "Oman -- Muscat", 
+        "Yemen -- Sana'a", 
+        "Near East", 
+        "Western Hemisphere"
+    ], 
+    "created_published": [
+        "September 3, 1996"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004zwe01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001309/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "cuban missile crisis", 
+        "ambassadors", 
+        "american republics", 
+        "protection and welfare", 
+        "camp david", 
+        "six day war", 
+        "peace treaties", 
+        "north american free trade association", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004zwe01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.8812809999999995, 
+    "title": "Interview with David E. Zweifel ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "ambassadors": "https://www.loc.gov/search/?fa=subject%3Aambassadors&fo=json"
+        }, 
+        {
+            "american republics": "https://www.loc.gov/search/?fa=subject%3Aamerican+republics&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "camp david": "https://www.loc.gov/search/?fa=subject%3Acamp+david&fo=json"
+        }, 
+        {
+            "cuban missile crisis": "https://www.loc.gov/search/?fa=subject%3Acuban+missile+crisis&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "north american free trade association": "https://www.loc.gov/search/?fa=subject%3Anorth+american+free+trade+association&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "peace treaties": "https://www.loc.gov/search/?fa=subject%3Apeace+treaties&fo=json"
+        }, 
+        {
+            "protection and welfare": "https://www.loc.gov/search/?fa=subject%3Aprotection+and+welfare&fo=json"
+        }, 
+        {
+            "six day war": "https://www.loc.gov/search/?fa=subject%3Asix+day+war&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "amman": "https://www.loc.gov/search/?fa=location%3Aamman&fo=json"
+        }, 
+        {
+            "beirut": "https://www.loc.gov/search/?fa=location%3Abeirut&fo=json"
+        }, 
+        {
+            "brazil": "https://www.loc.gov/search/?fa=location%3Abrazil&fo=json"
+        }, 
+        {
+            "jordan": "https://www.loc.gov/search/?fa=location%3Ajordan&fo=json"
+        }, 
+        {
+            "lebanon": "https://www.loc.gov/search/?fa=location%3Alebanon&fo=json"
+        }, 
+        {
+            "mexico": "https://www.loc.gov/search/?fa=location%3Amexico&fo=json"
+        }, 
+        {
+            "mexico city": "https://www.loc.gov/search/?fa=location%3Amexico+city&fo=json"
+        }, 
+        {
+            "muscat": "https://www.loc.gov/search/?fa=location%3Amuscat&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "oman": "https://www.loc.gov/search/?fa=location%3Aoman&fo=json"
+        }, 
+        {
+            "rio de janeiro": "https://www.loc.gov/search/?fa=location%3Ario+de+janeiro&fo=json"
+        }, 
+        {
+            "sana'a": "https://www.loc.gov/search/?fa=location%3Asana%27a&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }, 
+        {
+            "yemen": "https://www.loc.gov/search/?fa=location%3Ayemen&fo=json"
+        }
+    ], 
+    "_version_": 1540399680361332736, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:28.842000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+    "date": "19960903", 
+    "shelf_id": "mfdipbib001309", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1996": "https://www.loc.gov/search/?dates=1996-1996&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001309/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001309/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004zwe01", 
+        "http://www.loc.gov/resource/mfdip.2004zwe01/", 
+        "http://www.loc.gov/item/mfdip.2004zwe01/"
+    ], 
+    "contributor_names": [
+        "Dunnigan, Thomas J. (Interviewer)", 
+        "Zweifel, David E. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.22698092460632324, 
+    "default_count": 25, 
+    "id": "mfdipbib001309/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001309/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004zwe01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004zwe01/2004zwe01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004zwe01/2004zwe01.pdf"
+    }
+]}

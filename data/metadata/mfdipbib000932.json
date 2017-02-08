@@ -1,0 +1,1976 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Pillsbury, P. W. (1994) <cite>Interview with Phillip W. Pillsbury Jr</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000932/.", 
+    "mla": "Kennedy, Charles Stuart, and Phillip W Pillsbury. <cite>Interview with Phillip W. Pillsbury Jr</cite>. 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000932/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Phillip W Pillsbury. <cite>Interview with Phillip W. Pillsbury Jr</cite>. 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000932/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412562718,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -8.0000014000000004, 
+                    12.6500083
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bamako", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "Bamak\u00f3"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Bamako"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0411\u0430\u043c\u0430\u043a\u043e"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Bamako"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27564954"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "38f9e0a263c698ed", 
+                        "name": "Bamako"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mali MLI Republic of Mali", 
+                        "id": "ace5098609fae533", 
+                        "name": "Mali"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "334b6a2523b87001", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -3.7035825, 
+                    40.416704699999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Madrid", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "be", 
+                        "name": "\u041c\u0430\u0434\u0440\u044b\u0434"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Madril"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05de\u05d3\u05e8\u05d9\u05d3"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30de\u30c9\u30ea\u30fc\u30c9"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Madryt"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041c\u0430\u0434\u0440\u0438\u0434"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u041c\u0430\u0434\u0440\u0438\u0434"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Madrid"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u041c\u0430\u0434\u0440\u0438\u0434"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u9a6c\u5fb7\u91cc"
+                    }, 
+                    {
+                        "lang": "zh_pinyin", 
+                        "name": "M\u01ced\u00e9l\u01d0"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/21068295"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Sp. ESP Kingdom of Spain", 
+                        "id": "2a870a05213fcc00", 
+                        "name": "Spain"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Madrid|Communaut\u00e9 de Madrid| Community of Madrid|Comunidad de Madrid |Comunidade de Madrid|Comunitat de Madrid", 
+                        "id": "9a865d5c4b105440", 
+                        "name": "Comunidad de Madrid"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cfaa0a0848134358", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    51.386111111111113, 
+                    35.627499999999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kh\u0101n\u012b\u02b9\u0101b\u0101d (Tehran, Iran)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Tehran (Iran). Kh\u0101n\u012b\u02b9\u0101b\u0101d"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n2010066868"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Iran, Islamic Rep. Iran IRN Islamic Republic of Iran", 
+                        "id": "2134f3c88aaf5363", 
+                        "name": "Iran"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Teheran|T\u0082h\u0082ran", 
+                        "id": "945d096585ef86cf", 
+                        "name": "Tehran"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "fdd84ddb4954d3a0", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -58.446081300000003, 
+                    -34.616986799999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Buenos Aires", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fr", 
+                        "name": "Buenos Aires"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d1\u05d5\u05d0\u05e0\u05d5\u05e1 \u05d0\u05d9\u05d9\u05e8\u05e1"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "B\u00faenos A\u00edres"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Buenos Aires"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0411\u0443\u044d\u043d\u043e\u0441-\u0410\u0439\u0440\u0435\u0441"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Buenos Aires"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/81590481"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Arg. ARG Argentine Republic", 
+                        "id": "a158a9952a26caf3", 
+                        "name": "Argentina"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "BUENOS AIRES D.F.|Capital Federal|Distretto Federale|Distrito Federal|Federal Capital", 
+                        "id": "9a56c619939c145d", 
+                        "name": "Ciudad de Buenos Aires"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3565b13c6a823d95", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    11.25, 
+                    43.766666666666666
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Florence (Italy)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Florencia (Italy)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Forence (Tuscany)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79027120"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Tuscany|Toscane|Toskana", 
+                        "id": "4b6b35cf4f422687", 
+                        "name": "Toscana"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5e58b8dc8bd73cd4", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    47.525580900000001, 
+                    -18.910012200000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Antananarivo", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fr", 
+                        "name": "Tananarive"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Antananar\u00edv\u00f3"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Antananarivo"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Antananarywa"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u043d\u0442\u0430\u043d\u0430\u043d\u0430\u0440\u0438\u0432\u0443"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Antananarivo"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27565116"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mad. MDG Republic of Madagascar", 
+                        "id": "4d3b13a294a084b6", 
+                        "name": "Madagascar"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Tananarive", 
+                        "id": "d0433165322fd326", 
+                        "name": "Antananarivo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "4d008715ee9e3527", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    40.457777777777778, 
+                    -11.666666666666666
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Lubumbashi (Congo)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Lumumbashi (Zaire)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80061037"
+                ], 
+                "admin": [], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "e4de382dc4b9a22d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.6859719999999996, 
+                    45.070920100000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Turin", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Torino"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Tur\u00edn"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Turin"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Tur\u00edn"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Torino"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Turin"
+                    }, 
+                    {
+                        "lang": "lb", 
+                        "name": "Turin"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Turyn"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Turim"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0422\u0443\u0440\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Tur\u00edn"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Turin"
+                    }, 
+                    {
+                        "lang": "fur", 
+                        "name": "Turin"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/63621589"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Piemont|Pi\u00e9mont|Piemonte|Piedmont", 
+                        "id": "9b93d955dd187bfa", 
+                        "name": "Piemonte"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "0750d6ff55c8e5df", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "30.05,31.25", 
+        "contributor": [
+            "duffy, edmund"
+        ], 
+        "id": "http://www.loc.gov/item/2004671409/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "roosevelt, franklin d.", 
+            "(franklin delano)", 
+            "stalin, joseph", 
+            "churchill, winston", 
+            "chiang, kai-shek", 
+            "cairo conference", 
+            "(", 
+            "cairo, egypt)", 
+            "teheran conference", 
+            "tehran, iran)", 
+            "world war", 
+            "diplomacy", 
+            "allied", 
+            "crayon drawings", 
+            "editorial cartoons"
+        ], 
+        "index": 1, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "The flying statesmen", 
+        "coordinates": [
+            "30.05,31.25"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22600550999999999, 
+        "lonlat": [
+            31.25, 
+            30.050000000000001
+        ], 
+        "location": [
+            "egypt", 
+            "cairo", 
+            "tehran", 
+            "iran"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 drawing : crayon, ink brush, and opaque white ; 48.6 x 38.5 cm. (sheet) | World War II editorial cartoon shows a battered man with a globe head rejoicing as four men (labeled \"F.D.R., Churchill, Stalin, [and] Chiang\") fly over on a flying carpet.  In 1943, Roosevelt and Churchill met Chinese leader Chiang Kai Shek for the first time in Cairo to plan strategy.  Roosevelt and Churchill then flew on to Teheran for another historic first meeting with Soviet leader Joseph Stalin.  Duffy views this as an encouraging event for the Allies."
+        ], 
+        "timestamp": "2016-07-19T22:57:52.938000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:08.801000Z", 
+        "date": "1943", 
+        "shelf_id": "Unprocessed [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1943-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004671409/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/03600/03640_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004671409/", 
+            "http://www.loc.gov/item/2004671409/", 
+            "http://www.loc.gov/pictures/item/2004671409/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.03640", 
+            "http://www.loc.gov/resource/ppmsca.03640/", 
+            "http://lccn.loc.gov/2004671409"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-34.6169868,-58.4460813", 
+        "contributor": [
+            "veniard, juan mar\u00eda."
+        ], 
+        "id": "http://lccn.loc.gov/2013560352", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "operas", 
+            "performances", 
+            "argentina", 
+            "buenos aires", 
+            "opera", 
+            "spain"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "La primera temporada de \u00f3pera espa\u00f1ola y la l\u00edrica hispana en el Plata /", 
+        "coordinates": [
+            "-34.6169868,-58.4460813"
+        ], 
+        "score": 0.21300696, 
+        "lonlat": [
+            -58.446081300000003, 
+            -34.616986799999999
+        ], 
+        "location": [
+            "argentina", 
+            "buenos aires", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references (p. 158-159)."
+        ], 
+        "timestamp": "2015-03-03T06:46:19.979000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T05:21:17.467000Z", 
+        "date": "2011", 
+        "shelf_id": "ML1717.A78 B87 2011", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish", 
+            "castilian"
+        ], 
+        "url": "//lccn.loc.gov/2013560352", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://core.cambeiro.com.ar/0-162458-0.pdf", 
+            "http://www.loc.gov/item/2013560352/", 
+            "http://lccn.loc.gov/2013560352"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-34.6169868,-58.4460813", 
+        "contributor": [
+            "p\u00e9rez, mariana alicia"
+        ], 
+        "id": "http://lccn.loc.gov/2010504262", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "spaniards", 
+            "argentina", 
+            "buenos aires", 
+            "history", 
+            "18th century", 
+            "19th century", 
+            "immigrants", 
+            "spain", 
+            "emigration and immigration"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "En busca de mejor fortuna : los inmigrantes espa\u00f1oles en Buenos Aires : desde el virreinato a la Revoluci\u00f3n de Mayo /", 
+        "coordinates": [
+            "-34.6169868,-58.4460813"
+        ], 
+        "score": 0.21300696, 
+        "lonlat": [
+            -58.446081300000003, 
+            -34.616986799999999
+        ], 
+        "location": [
+            "argentina", 
+            "buenos aires", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references (p. 245-260)."
+        ], 
+        "timestamp": "2015-03-03T04:25:44.813000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T03:42:02.701000Z", 
+        "date": "2010", 
+        "shelf_id": "F3001.9.S7 P47 2010", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish", 
+            "castilian"
+        ], 
+        "url": "//lccn.loc.gov/2010504262", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://lccn.loc.gov/2010504262", 
+            "http://core.cambeiro.com.ar/0-160655-1.pdf", 
+            "http://www.loc.gov/item/2010504262/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-34.6169868,-58.4460813", 
+        "contributor": [
+            "crist\u00f3foris, nadia andrea de", 
+            "tato, mar\u00eda in\u00e9s", 
+            "iannini, nicol\u00e1s."
+        ], 
+        "id": "http://lccn.loc.gov/2014512547", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "spaniards", 
+            "argentina", 
+            "buenos aires", 
+            "history", 
+            "20th century", 
+            "immigrants", 
+            "spain", 
+            "civil war", 
+            "influence"
+        ], 
+        "index": 4, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Las grandes guerras del siglo XX y la comunidad espa\u00f1ola de Buenos Aires /", 
+        "coordinates": [
+            "-34.6169868,-58.4460813"
+        ], 
+        "score": 0.21300696, 
+        "lonlat": [
+            -58.446081300000003, 
+            -34.616986799999999
+        ], 
+        "location": [
+            "argentina", 
+            "buenos aires", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references."
+        ], 
+        "timestamp": "2015-11-25T06:12:01.180000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-11-25T06:07:15.931000Z", 
+        "date": "2014", 
+        "shelf_id": "F3001.9.S7 G73 2014", 
+        "other_title": [], 
+        "dates": [
+            "2014-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "spanish", 
+            "castilian"
+        ], 
+        "url": "//lccn.loc.gov/2014512547", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://core.cambeiro.com.ar/0-154477-19.pdf", 
+            "http://lccn.loc.gov/2014512547", 
+            "http://www.loc.gov/item/2014512547/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "35.6275,51.3861111111", 
+        "contributor": [
+            "ma\u1e25m\u016bd", 
+            "qul\u012b kh\u0101n, riz"
+        ], 
+        "id": "http://www.loc.gov/item/2009582796/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "tehran (iran)", 
+            "maps", 
+            "land use", 
+            "iran", 
+            "tehran"
+        ], 
+        "index": 5, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Naqshah-\u02bei shahr-i d\u0101r al-Khil\u0101fah-\u02bei N\u0101\u1e63ir\u012b-i \u1e6cihr\u0101n \u1e63anah\u0101 All\u0101h ta\u02bb\u0101l\u00e1 \u02bban al-\u1e25adas\u0332\u0101n", 
+        "coordinates": [
+            "35.6275,51.3861111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.17013528999999999, 
+        "lonlat": [
+            51.3861111111, 
+            35.627499999999998
+        ], 
+        "location": [
+            "Tehran", 
+            "Iran", 
+            "tehran", 
+            "iran"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Shows land use. Includes location map and statistical table. Available also through the Library of Congress Web site as a raster image. LC copy sectioned into twenty sheets and mounted on cloth. Some losses along folds and edges and staining."
+        ], 
+        "timestamp": "2017-01-26T20:01:22.663000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:18.131000Z", 
+        "date": "1889", 
+        "shelf_id": "G7624.T4 1889 .M3", 
+        "other_title": [
+            "&#x200f;\u0646\u0642\u0634\u06c0 \u0634\u0647\u0631 \u062f\u0627\u0631 \u0627\u0644\u062e\u0644\u0627\u0641\u06c0 \u0646\u0627\u0635\u0631\u0649 \u0637\u0647\u0631\u0627\u0646 \u0635\u0646\u0647\u0627 \u0627\u0644\u0644\u0647 \u062a\u0639\u0627\u0644\u0649 \u0639\u0646 \u0627\u0644\u062d\u062f\u062b\u0627\u0646 /&#\u066c\u0662\u0660\u0660\u0646\u061b", 
+            "Naqshah-i \u1e6cihr\u0101n", 
+            "\u0646\u0642\u0634\u06c0 \u0634\u0647\u0631 \u062f\u0627\u0631 \u0627\u0644\u062e\u0644\u0627\u0641\u06c0 \u0646\u0627\u0635\u0631\u0649 \u0637\u0647\u0631\u0627\u0646 \u0635\u0627\u0646\u0647\u0627 \u0627\u0644\u0644\u0647 \u062a\u0639\u0627\u0644\u0649 \u0639\u0646 \u0627\u0644\u062d\u062f\u062b\u0627\u0646 /"
+        ], 
+        "dates": [
+            "1889-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "persian"
+        ], 
+        "url": "https://www.loc.gov/item/2009582796/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7624/g7624t/ct001792.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7624/g7624t/ct001792.gif#h=150&w=156", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7624:g7624t:ct001792/full/pct:1.5625/0/default.jpg#h=252&w=262", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7624:g7624t:ct001792/full/pct:3.125/0/default.jpg#h=504&w=525", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7624:g7624t:ct001792/full/pct:6.25/0/default.jpg#h=1008&w=1050", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7624:g7624t:ct001792/full/pct:12.5/0/default.jpg#h=2016&w=2101"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2009582796/", 
+            "http://hdl.loc.gov/loc.gmd/g7624t.ct001792", 
+            "http://www.loc.gov/resource/g7624t.ct001792/", 
+            "http://lccn.loc.gov/2009582796"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "35.6275,51.3861111111", 
+        "contributor": [
+            "hatami, sharok"
+        ], 
+        "id": "http://www.loc.gov/item/98506101/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "khomeini, ruhollah", 
+            "family", 
+            "visiting", 
+            "hospital wards", 
+            "iran", 
+            "tehran", 
+            "dye coupler prints", 
+            "color", 
+            "group portraits", 
+            "portrait photographs"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Ruhollah Khomeini visited by family in hospital, Teheran, Iran]", 
+        "coordinates": [
+            "35.6275,51.3861111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15037976, 
+        "lonlat": [
+            51.3861111111, 
+            35.627499999999998
+        ], 
+        "location": [
+            "tehran", 
+            "iran"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : dye coupler."
+        ], 
+        "timestamp": "2016-07-20T01:29:45.559000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:05:19.372000Z", 
+        "date": "1981", 
+        "shelf_id": "Unprocessed in PR 13 CN 1997:068, no. 101 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1981-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/98506101/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3g00000/3g06000/3g06100/3g06106_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/98506101/", 
+            "http://www.loc.gov/item/98506101/", 
+            "http://www.loc.gov/pictures/item/98506101/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3g06106", 
+            "http://www.loc.gov/resource/cph.3g06106/", 
+            "http://lccn.loc.gov/98506101"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "burr, william", 
+            "lehfeldt, william w."
+        ], 
+        "latlong": "35.6275,51.3861111111", 
+        "id": "http://www.loc.gov/item/mfdipbib000676/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "chief of station", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with William W. Lehfeldt", 
+        "coordinates": [
+            "35.6275,51.3861111111"
+        ], 
+        "score": 2.2804319999999998, 
+        "lonlat": [
+            51.3861111111, 
+            35.627499999999998
+        ], 
+        "location": [
+            "europe", 
+            "afghanistan", 
+            "italy", 
+            "eurasia", 
+            "bilbao", 
+            "kabul", 
+            "western hemisphere", 
+            "central asia", 
+            "tehran", 
+            "iran", 
+            "argentina", 
+            "near east", 
+            "naples", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1987-04-29", 
+        "shelf_id": "mfdipbib000676", 
+        "other_title": [], 
+        "dates": [
+            "1987-04-29T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000676/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000676/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004leh01", 
+            "http://www.loc.gov/resource/mfdip.2004leh01/", 
+            "http://www.loc.gov/item/mfdip.2004leh01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "burr, william", 
+            "lehfeldt, william w."
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib000677/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "chief of station", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with William W. Lehfeldt", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 2.2804319999999998, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "iran", 
+            "eurasia", 
+            "bilbao", 
+            "united states", 
+            "western hemisphere", 
+            "tehran", 
+            "italy", 
+            "argentina", 
+            "near east", 
+            "naples", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1994-04-29", 
+        "shelf_id": "mfdipbib000677", 
+        "other_title": [], 
+        "dates": [
+            "1994-04-29T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000677/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000677/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004leh02", 
+            "http://www.loc.gov/resource/mfdip.2004leh02/", 
+            "http://www.loc.gov/item/mfdip.2004leh02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "torbert, horace g. (horace gates)", 
+            "norden, carl f."
+        ], 
+        "latlong": "23.1379911,-82.3658562", 
+        "id": "http://www.loc.gov/item/mfdipbib000872/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Carl F. Norden", 
+        "coordinates": [
+            "23.1379911,-82.3658562"
+        ], 
+        "score": 2.2676978000000001, 
+        "lonlat": [
+            -82.365856199999996, 
+            23.137991100000001
+        ], 
+        "location": [
+            "eurasia", 
+            "madrid", 
+            "prague", 
+            "paramaribo", 
+            "bari", 
+            "italy", 
+            "paris", 
+            "buenos aires", 
+            "france", 
+            "suriname", 
+            "argentina", 
+            "near east", 
+            "europe", 
+            "santiago", 
+            "iran", 
+            "cuba", 
+            "czechoslovakia", 
+            "berlin", 
+            "germany", 
+            "chile", 
+            "tehran", 
+            "spain", 
+            "havana", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1991-05-02", 
+        "shelf_id": "mfdipbib000872", 
+        "other_title": [], 
+        "dates": [
+            "1991-05-02T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000872/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000872/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004nor01", 
+            "http://www.loc.gov/resource/mfdip.2004nor01/", 
+            "http://www.loc.gov/item/mfdip.2004nor01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "ogden, richard"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000878/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "cuban missile crisis", 
+            "american republics", 
+            "camp david", 
+            "north american free trade association", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard Ogden", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.2614719999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "cambridge", 
+            "england", 
+            "eurasia", 
+            "bogota", 
+            "madrid", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "london", 
+            "colombia", 
+            "lima", 
+            "buenos aires", 
+            "peru", 
+            "argentina", 
+            "washington d.c.", 
+            "bangkok", 
+            "massachusetts", 
+            "thailand", 
+            "spain", 
+            "east asia", 
+            "western hemisphere", 
+            "chiang mai"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1999-06-16", 
+        "shelf_id": "mfdipbib000878", 
+        "other_title": [], 
+        "dates": [
+            "1999-06-16T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000878/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000878/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ogd01", 
+            "http://www.loc.gov/resource/mfdip.2004ogd01/", 
+            "http://www.loc.gov/item/mfdip.2004ogd01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "jackson, richard l.", 
+            "lissfelt, mark c."
+        ], 
+        "latlong": "49.0666666667,2.3", 
+        "id": "http://www.loc.gov/item/mfdipbib000699/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "six day war", 
+            "berlin wall, berlin, germany", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "labor officers", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Mark C. Lissfelt", 
+        "coordinates": [
+            "49.0666666667,2.3"
+        ], 
+        "score": 2.2456968000000002, 
+        "lonlat": [
+            2.2999999999999998, 
+            49.066666666700002
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "israel", 
+            "england", 
+            "western hemisphere", 
+            "eurasia", 
+            "mali", 
+            "africa", 
+            "france", 
+            "united states", 
+            "bamako", 
+            "london", 
+            "tel aviv", 
+            "belgium", 
+            "germany", 
+            "brussels", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1998-05-22", 
+        "shelf_id": "mfdipbib000699", 
+        "other_title": [], 
+        "dates": [
+            "1998-05-22T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000699/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000699/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004lis01", 
+            "http://www.loc.gov/resource/mfdip.2004lis01/", 
+            "http://www.loc.gov/item/mfdip.2004lis01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "borg, parker"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001520/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Parker W. Borg", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.1274172999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "east asia", 
+            "africa", 
+            "washington", 
+            "pacific", 
+            "kuala lumpur", 
+            "united states", 
+            "malaysia", 
+            "new york", 
+            "lubumbashi", 
+            "mali", 
+            "western hemisphere", 
+            "zaire", 
+            "pleiku", 
+            "vietnam"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001520", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001520/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001520/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010bor01", 
+            "http://www.loc.gov/resource/mfdip.2010bor01/", 
+            "http://www.loc.gov/item/mfdip.2010bor01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "pillsbury, phillip w., jr.": "https://www.loc.gov/search/?fa=contributor%3Apillsbury%2C+phillip+w.%2C+jr.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Cuban Missile Crisis, 1962", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Mali -- Bamako", 
+        "Spain -- Madrid", 
+        "Iran -- Tehran", 
+        "Argentina -- Buenos Aires", 
+        "Italy -- Florence", 
+        "Madagascar -- Tananarive", 
+        "Zaire -- Lubumbashi", 
+        "Italy -- Turin", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Western Hemisphere", 
+        "Africa"
+    ], 
+    "created_published": [
+        "February 28, 1994"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pil01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000932/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "cuban missile crisis", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pil01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.7327370000000002, 
+    "title": "Interview with Phillip W. Pillsbury Jr.", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "cuban missile crisis": "https://www.loc.gov/search/?fa=subject%3Acuban+missile+crisis&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "argentina": "https://www.loc.gov/search/?fa=location%3Aargentina&fo=json"
+        }, 
+        {
+            "bamako": "https://www.loc.gov/search/?fa=location%3Abamako&fo=json"
+        }, 
+        {
+            "buenos aires": "https://www.loc.gov/search/?fa=location%3Abuenos+aires&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "florence": "https://www.loc.gov/search/?fa=location%3Aflorence&fo=json"
+        }, 
+        {
+            "iran": "https://www.loc.gov/search/?fa=location%3Airan&fo=json"
+        }, 
+        {
+            "italy": "https://www.loc.gov/search/?fa=location%3Aitaly&fo=json"
+        }, 
+        {
+            "lubumbashi": "https://www.loc.gov/search/?fa=location%3Alubumbashi&fo=json"
+        }, 
+        {
+            "madagascar": "https://www.loc.gov/search/?fa=location%3Amadagascar&fo=json"
+        }, 
+        {
+            "madrid": "https://www.loc.gov/search/?fa=location%3Amadrid&fo=json"
+        }, 
+        {
+            "mali": "https://www.loc.gov/search/?fa=location%3Amali&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "spain": "https://www.loc.gov/search/?fa=location%3Aspain&fo=json"
+        }, 
+        {
+            "tananarive": "https://www.loc.gov/search/?fa=location%3Atananarive&fo=json"
+        }, 
+        {
+            "tehran": "https://www.loc.gov/search/?fa=location%3Atehran&fo=json"
+        }, 
+        {
+            "turin": "https://www.loc.gov/search/?fa=location%3Aturin&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }, 
+        {
+            "zaire": "https://www.loc.gov/search/?fa=location%3Azaire&fo=json"
+        }
+    ], 
+    "_version_": 1540399610020757504, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:24.313000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+    "date": "19940228", 
+    "shelf_id": "mfdipbib000932", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1994": "https://www.loc.gov/search/?dates=1994-1994&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000932/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000932/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pil01", 
+        "http://www.loc.gov/resource/mfdip.2004pil01/", 
+        "http://www.loc.gov/item/mfdip.2004pil01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Pillsbury, Phillip W., Jr. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.23289299011230469, 
+    "default_count": 25, 
+    "id": "mfdipbib000932/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000932/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004pil01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004pil01/2004pil01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004pil01/2004pil01.pdf"
+    }
+]}

@@ -1,0 +1,1754 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "McCusker, P. D. &amp; Platt, N. (1994) <cite>Interview with Nicholas Platt</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000933/.", 
+    "mla": "Mccusker, Paul D, and Nicholas Platt. <cite>Interview with Nicholas Platt</cite>. 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000933/&gt;.", 
+    "chicago": "Mccusker, Paul D, and Nicholas Platt. <cite>Interview with Nicholas Platt</cite>. 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000933/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412563149,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    116.2173569, 
+                    40.319973699999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tailingcun", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/538004342"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Beijing", 
+                        "id": "9c85fe0f3d559991", 
+                        "name": "Beijing"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "China CHN People's Republic of China", 
+                        "id": "a22ac1c431ee3c8a", 
+                        "name": "China"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "96bd2395c2df3813", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.3356, 
+                    12.369
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Manila", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fil", 
+                        "name": "Manila"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/1701669"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "6f604538cf37f42a", 
+                        "name": "Oriental Mindoro"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Phil. PHL Republic of the Philippines", 
+                        "id": "991a540a1606ba96", 
+                        "name": "Philippines"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cbe7a4ef80e15eaa", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.69166666666666, 
+                    35.68944444444444
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tokyo (Japan)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dongjing (Japan)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79034998"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Japan JPN", 
+                        "id": "b0be89ea8dea3f25", 
+                        "name": "Japan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Edo|Yedo|Tokio|T\u00a2quio", 
+                        "id": "27adec74640ad903", 
+                        "name": "Tokyo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c0226941a4d79e0a", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    73.430000000000007, 
+                    33.420000000000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Sudhanoti, Pakistan", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/7648371"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Pendjab|Penjab", 
+                        "id": "cfce865476921d9e", 
+                        "name": "Punjab"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Pak. PAK Islamic Republic of Pakistan", 
+                        "id": "abfb5bcee1d893ea", 
+                        "name": "Pakistan"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b8ea057b1730be67", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.281381199999998, 
+                    -15.416696699999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Lusaka", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "L\u00fasaka"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Lusaka"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041b\u0443\u0441\u0430\u043a\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Lusaka"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27564994"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5d8952166e2a848f", 
+                        "name": "Lusaka"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Zambia ZMB Republic of Zambia", 
+                        "id": "c782f087a3f99f79", 
+                        "name": "Zambia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c011920994d373c3", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.26667, 
+                    22.316669999999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Wo Tong Kong", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/1818291"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "aa82ab35e39dc688", 
+                        "name": "HKG-00 (Hong Kong aggregation)"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Hong Kong SAR, China H.K. HKG Hong Kong Special Administrative Region, PRC", 
+                        "id": "b6b8b22ab4bad44d", 
+                        "name": "Hong Kong"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5fe7aa42dc92113d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.016540000000006, 
+                    42.300080000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Windsor", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "de", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u0648\u06cc\u0646\u062f\u0632\u0648\u0631"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30a6\u30a4\u30f3\u30b6\u30fc"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0412\u0438\u043d\u0434\u0437\u043e\u0440"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u6e29\u838e"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30a6\u30a3\u30f3\u30b6\u30fc"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "lb", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Windsor"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Windsor%2C_Ontario"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD%D0%B4%D0%B7%D0%BE%D1%80_%28%D0%9E%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%BE%29"
+                    }, 
+                    {
+                        "lang": "iata", 
+                        "name": "YQG"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/6182962"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Ont. Upper Canada", 
+                        "id": "944677a87cbb6458", 
+                        "name": "Ontario"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Can. CAN", 
+                        "id": "57a591ef0528b15c", 
+                        "name": "Canada"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "f74f13058277a2c5", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-12.778742,28.2290064", 
+        "contributor": [
+            "ndulo, manenga chilala"
+        ], 
+        "id": "http://lccn.loc.gov/2009324153", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "zambia", 
+            "commercial treaties", 
+            "exports", 
+            "foreign trade regulation", 
+            "world trade organization"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Zambia and the multilateral trading system : the impact of WTO agreements, negotiations and implementation /", 
+        "coordinates": [
+            "-12.778742,28.2290064"
+        ], 
+        "score": 0.22429180000000001, 
+        "lonlat": [
+            28.229006399999999, 
+            -12.778741999999999
+        ], 
+        "location": [
+            "zambia"
+        ], 
+        "digitized": true, 
+        "description": [
+            "At head of title: United Nations Conference on Trade and Development. \"UNCTAD/DITC/TNCD/2005/16\"--T.p. verso. Includes bibliographical references (p. 43-[44])."
+        ], 
+        "timestamp": "2015-03-03T03:32:31.187000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T02:57:38.742000Z", 
+        "date": "2006", 
+        "shelf_id": "HF3903.Z5 N38 2006", 
+        "other_title": [], 
+        "dates": [
+            "2006-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2009324153", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2009324153/", 
+            "http://lccn.loc.gov/2009324153", 
+            "http://www.unctad.org/en/docs/ditctncd200516%5Fen.pdf"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "12.369,121.3356", 
+        "contributor": [
+            "bach, john", 
+            "philippines. bureau of commerce and industry", 
+            "carmelo & bauermann"
+        ], 
+        "id": "http://www.loc.gov/item/2012586258/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "manila (philippines)", 
+            "maps", 
+            "philippines", 
+            "manila"
+        ], 
+        "index": 2, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "City of Manila, Philippine Islands", 
+        "coordinates": [
+            "12.369,121.3356"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15798154, 
+        "lonlat": [
+            121.3356, 
+            12.369
+        ], 
+        "location": [
+            "Manila", 
+            "Philippines", 
+            "philippines", 
+            "manila"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"Copyright in the Philippine Islands and the United States of America by John Bach--November 1920.\" Includes population data and indexes to streets and points of interest. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:01:48.632000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:20.252000Z", 
+        "date": "1920", 
+        "shelf_id": "G8064.M5 1920 .B3", 
+        "other_title": [], 
+        "dates": [
+            "1920-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2012586258/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd8/g8064/g8064m/ct003077.gif", 
+            "//cdn.loc.gov/service/gmd/gmd8/g8064/g8064m/ct003077.gif#h=199&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:3.125/0/default.jpg#h=350&w=263", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:6.25/0/default.jpg#h=700&w=526", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:12.5/0/default.jpg#h=1400&w=1053", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:25/0/default.jpg#h=2800&w=2107"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2012586258/", 
+            "http://www.loc.gov/resource/g8064m.ct003077/", 
+            "http://hdl.loc.gov/loc.gmd/g8064m.ct003077", 
+            "http://lccn.loc.gov/2012586258"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-33.9333333333,18.85", 
+        "id": "http://lccn.loc.gov/2003405775", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "africa", 
+            "commercial policy", 
+            "agriculture and state", 
+            "foreign trade regulation", 
+            "world trade organization", 
+            "doha development agenda", 
+            "(2001- )"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "The Doha development agenda : selected issues of concern to Africa at the Fifth World Trade Organization (WTO) Ministerial Conference /", 
+        "coordinates": [
+            "-33.9333333333,18.85"
+        ], 
+        "score": 0.14669742, 
+        "lonlat": [
+            18.850000000000001, 
+            -33.933333333299998
+        ], 
+        "location": [
+            "africa"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"June 2003.\" Includes bibliographical references."
+        ], 
+        "timestamp": "2015-03-03T07:58:45.167000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T00:08:49.213000Z", 
+        "date": "2003", 
+        "shelf_id": "HF1611 .D64 2003", 
+        "other_title": [
+            "Collaborative research project :"
+        ], 
+        "dates": [
+            "2003-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2003405775", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2003405775/", 
+            "http://lccn.loc.gov/2003405775", 
+            "http://www.aercafrica.org/documents/workingpaper2.pdf"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "36.0813888889,120.344166667", 
+        "contributor": [
+            "ianchovichina, elena"
+        ], 
+        "id": "http://lccn.loc.gov/2003616214", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "world trade organization", 
+            "china", 
+            "economic conditions", 
+            "east asia", 
+            "20th century"
+        ], 
+        "index": 4, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "The impact of China's WTO accession on East Asia", 
+        "coordinates": [
+            "36.0813888889,120.344166667"
+        ], 
+        "score": 0.14230778999999999, 
+        "lonlat": [
+            120.344166667, 
+            36.081388888900001
+        ], 
+        "location": [
+            "china", 
+            "east asia"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Mode of access: World Wide Web. Title from title screen as viewed on August 5, 2003. \"August 1, 2003.\" Includes bibliographical references. Also available in print."
+        ], 
+        "timestamp": "2015-03-03T08:44:05.472000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T00:20:20.831000Z", 
+        "date": "2003", 
+        "shelf_id": "HG3881.5.W57", 
+        "other_title": [], 
+        "dates": [
+            "2003-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2003616214", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2003616214/", 
+            "http://www.econ.worldbank.org/view.php?type=5&id=28992", 
+            "http://lccn.loc.gov/2003616214"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "detroit publishing co."
+        ], 
+        "latlong": "42.30008,-83.01654", 
+        "id": "http://www.loc.gov/item/det1994022173/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "detroit publishing company", 
+            "american memory"
+        ], 
+        "subject": [
+            "victoria", 
+            "queen of great britain", 
+            "monuments", 
+            "banks", 
+            "fountains", 
+            "monuments & memorials", 
+            "canada", 
+            "ontario", 
+            "windsor", 
+            "dry plate negatives"
+        ], 
+        "index": 5, 
+        "group": [
+            "det", 
+            "detroit-publishing-company"
+        ], 
+        "title": "[Bank and Victoria memorial fountain, Walkerville, Ontario]", 
+        "coordinates": [
+            "42.30008,-83.01654"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13972146999999999, 
+        "lonlat": [
+            -83.016540000000006, 
+            42.300080000000001
+        ], 
+        "location": [
+            "canada", 
+            "ontario", 
+            "windsor"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : glass ; 8 x 10 in."
+        ], 
+        "timestamp": "2016-05-26T15:57:29.650000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-26T15:12:54.420000Z", 
+        "date": "1900", 
+        "shelf_id": "LC-D411-102 <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1900-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/det1994022173/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/det/4a20000/4a25000/4a25800/4a25863_150px.jpg#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/det/4a20000/4a25000/4a25800/4a25863t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/det/4a20000/4a25000/4a25800/4a25863r.jpg#h=513&w=640", 
+            "//cdn.loc.gov/service/pnp/det/4a20000/4a25000/4a25800/4a25863v.jpg#h=821&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/det/item/det1994022173/pp/", 
+            "http://www.loc.gov/item/det1994022173/pp/", 
+            "http://www.loc.gov/pictures/item/det1994022173/pp/", 
+            "http://hdl.loc.gov/loc.pnp/det.4a25863", 
+            "http://www.loc.gov/resource/det.4a25863/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "detroit publishing co."
+        ], 
+        "latlong": "42.30008,-83.01654", 
+        "id": "http://www.loc.gov/item/det1994017153/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "detroit publishing company", 
+            "american memory"
+        ], 
+        "subject": [
+            "warehouses", 
+            "distilling industry", 
+            "canada", 
+            "ontario", 
+            "windsor", 
+            "dry plate negatives"
+        ], 
+        "index": 6, 
+        "group": [
+            "det", 
+            "detroit-publishing-company"
+        ], 
+        "title": "[Avenue of rack warehouses, Hiram Walker & Sons, Walkerville, Ont.]", 
+        "coordinates": [
+            "42.30008,-83.01654"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13972146999999999, 
+        "lonlat": [
+            -83.016540000000006, 
+            42.300080000000001
+        ], 
+        "location": [
+            "canada", 
+            "ontario", 
+            "windsor"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : glass ; 8 x 10 in."
+        ], 
+        "timestamp": "2016-05-26T15:47:47.323000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-26T15:12:30.162000Z", 
+        "date": "1905", 
+        "shelf_id": "LC-D4-39804 <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1905-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/det1994017153/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19900/4a19915_150px.jpg#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19900/4a19915t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19900/4a19915r.jpg#h=512&w=640", 
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a19000/4a19900/4a19915v.jpg#h=819&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/det/item/det1994017153/pp/", 
+            "http://www.loc.gov/item/det1994017153/pp/", 
+            "http://www.loc.gov/pictures/item/det1994017153/pp/", 
+            "http://hdl.loc.gov/loc.pnp/det.4a19915", 
+            "http://www.loc.gov/resource/det.4a19915/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "ewing, raymond c."
+        ], 
+        "latlong": "48.25,16.3666666667", 
+        "id": "http://www.loc.gov/item/mfdipbib000356/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "united states. agency for international development", 
+            "north american free trade association", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Raymond C. Ewing", 
+        "coordinates": [
+            "48.25,16.3666666667"
+        ], 
+        "score": 2.3887813000000002, 
+        "lonlat": [
+            16.366666666699999, 
+            48.25
+        ], 
+        "location": [
+            "pakistan", 
+            "eurasia", 
+            "africa", 
+            "pacific", 
+            "austria", 
+            "central asia", 
+            "japan", 
+            "cyprus", 
+            "canada", 
+            "italy", 
+            "europe", 
+            "lahore", 
+            "nicosia", 
+            "vienna", 
+            "ghana", 
+            "bern", 
+            "east asia", 
+            "tokyo", 
+            "tanzania", 
+            "rome", 
+            "western hemisphere", 
+            "accra", 
+            "switzerland"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:14.181000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:14.455000Z", 
+        "date": "1993-11-29", 
+        "shelf_id": "mfdipbib000356", 
+        "other_title": [], 
+        "dates": [
+            "1993-11-29T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000356/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000356/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ewi02", 
+            "http://www.loc.gov/resource/mfdip.2004ewi02/", 
+            "http://www.loc.gov/item/mfdip.2004ewi02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "mccusker, paul d.", 
+            "petree, richard w."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000916/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard W. Petree", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.3404061999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "fukuoka", 
+            "addis ababa", 
+            "east asia", 
+            "korea", 
+            "tokyo", 
+            "africa", 
+            "washington", 
+            "pacific", 
+            "okinawa", 
+            "united states", 
+            "ethiopia", 
+            "new york", 
+            "chinhae", 
+            "japan", 
+            "naha"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1993-07-22", 
+        "shelf_id": "mfdipbib000916", 
+        "other_title": [], 
+        "dates": [
+            "1993-07-22T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000916/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000916/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004pet03", 
+            "http://www.loc.gov/resource/mfdip.2004pet03/", 
+            "http://www.loc.gov/item/mfdip.2004pet03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "rich, robert g., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000972/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert G. Rich Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.3042720000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "georgia", 
+            "seoul", 
+            "east asia", 
+            "jakarta", 
+            "philippines", 
+            "indonesia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "korea", 
+            "western hemisphere", 
+            "manila", 
+            "atlanta", 
+            "belize", 
+            "medan"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1994", 
+        "shelf_id": "mfdipbib000972", 
+        "other_title": [], 
+        "dates": [
+            "1994-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000972/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000972/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ric02", 
+            "http://www.loc.gov/resource/mfdip.2004ric02/", 
+            "http://www.loc.gov/item/mfdip.2004ric02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "masters, edward e."
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib000762/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Edward E. Masters", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 2.2674433999999999, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "bangladesh", 
+            "madras", 
+            "pakistan", 
+            "jakarta", 
+            "east asia", 
+            "indonesia", 
+            "india", 
+            "pacific", 
+            "united states", 
+            "western hemisphere", 
+            "karachi", 
+            "central asia", 
+            "thailand"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1989-03-14", 
+        "shelf_id": "mfdipbib000762", 
+        "other_title": [], 
+        "dates": [
+            "1989-03-14T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000762/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000762/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mas05", 
+            "http://www.loc.gov/resource/mfdip.2004mas05/", 
+            "http://www.loc.gov/item/mfdip.2004mas05/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "bellocchi, natale h."
+        ], 
+        "latlong": "28.6092825,77.2173713", 
+        "id": "http://www.loc.gov/item/mfdipbib000068/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Natale H. Bellocchi", 
+        "coordinates": [
+            "28.6092825,77.2173713"
+        ], 
+        "score": 2.2443993, 
+        "lonlat": [
+            77.217371299999996, 
+            28.609282499999999
+        ], 
+        "location": [
+            "new delhi", 
+            "africa", 
+            "east asia", 
+            "taichung", 
+            "tam ky", 
+            "india", 
+            "pacific", 
+            "vietnam", 
+            "china", 
+            "na dang", 
+            "central asia", 
+            "taiwan", 
+            "hong kong", 
+            "botswana", 
+            "taipei"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1995-03-21", 
+        "shelf_id": "mfdipbib000068", 
+        "other_title": [], 
+        "dates": [
+            "1995-03-21T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000068/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000068/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004bel04", 
+            "http://www.loc.gov/resource/mfdip.2004bel04/", 
+            "http://www.loc.gov/item/mfdip.2004bel04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "green, marshall", 
+            "holdridge, john h."
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib000520/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "camp david", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John H. Holdridge", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 2.1615036000000001, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "beijing", 
+            "east asia", 
+            "singapore", 
+            "bangkok", 
+            "pacific", 
+            "united states", 
+            "china", 
+            "thailand", 
+            "hong kong"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1989-12-14", 
+        "shelf_id": "mfdipbib000520", 
+        "other_title": [], 
+        "dates": [
+            "1989-12-14T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000520/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000520/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004hol02", 
+            "http://www.loc.gov/resource/mfdip.2004hol02/", 
+            "http://www.loc.gov/item/mfdip.2004hol02/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "mccusker, paul d.": "https://www.loc.gov/search/?fa=contributor%3Amccusker%2C+paul+d.&fo=json"
+        }, 
+        {
+            "platt, nicholas": "https://www.loc.gov/search/?fa=contributor%3Aplatt%2C+nicholas&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "General Agreement on Tariffs and Trade", 
+        "Ambassadors", 
+        "United States. Dept. of State. Bureau of East Asian and Pacific Affairs", 
+        "World Trade Organization", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "China -- Beijing", 
+        "Philippines -- Manila", 
+        "Japan -- Tokyo", 
+        "Pakistan", 
+        "Zambia -- Lusaka", 
+        "Hong Kong", 
+        "Canada -- Ontario -- Windsor", 
+        "South and Central Asia", 
+        "Western Hemisphere", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "July 25, 1994"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pla01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000933/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "general agreement on tariffs and trade", 
+        "ambassadors", 
+        "united states. dept. of state. bureau of east asian and pacific affairs", 
+        "world trade organization", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pla01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 9.5302570000000006, 
+    "title": "Interview with Nicholas Platt ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "ambassadors": "https://www.loc.gov/search/?fa=subject%3Aambassadors&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "general agreement on tariffs and trade": "https://www.loc.gov/search/?fa=subject%3Ageneral+agreement+on+tariffs+and+trade&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "united states. dept. of state. bureau of east asian and pacific affairs": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+dept.+of+state.+bureau+of+east+asian+and+pacific+affairs&fo=json"
+        }, 
+        {
+            "world trade organization": "https://www.loc.gov/search/?fa=subject%3Aworld+trade+organization&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "beijing": "https://www.loc.gov/search/?fa=location%3Abeijing&fo=json"
+        }, 
+        {
+            "canada": "https://www.loc.gov/search/?fa=location%3Acanada&fo=json"
+        }, 
+        {
+            "central asia": "https://www.loc.gov/search/?fa=location%3Acentral+asia&fo=json"
+        }, 
+        {
+            "china": "https://www.loc.gov/search/?fa=location%3Achina&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "hong kong": "https://www.loc.gov/search/?fa=location%3Ahong+kong&fo=json"
+        }, 
+        {
+            "japan": "https://www.loc.gov/search/?fa=location%3Ajapan&fo=json"
+        }, 
+        {
+            "lusaka": "https://www.loc.gov/search/?fa=location%3Alusaka&fo=json"
+        }, 
+        {
+            "manila": "https://www.loc.gov/search/?fa=location%3Amanila&fo=json"
+        }, 
+        {
+            "ontario": "https://www.loc.gov/search/?fa=location%3Aontario&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "pakistan": "https://www.loc.gov/search/?fa=location%3Apakistan&fo=json"
+        }, 
+        {
+            "philippines": "https://www.loc.gov/search/?fa=location%3Aphilippines&fo=json"
+        }, 
+        {
+            "tokyo": "https://www.loc.gov/search/?fa=location%3Atokyo&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }, 
+        {
+            "windsor": "https://www.loc.gov/search/?fa=location%3Awindsor&fo=json"
+        }, 
+        {
+            "zambia": "https://www.loc.gov/search/?fa=location%3Azambia&fo=json"
+        }
+    ], 
+    "_version_": 1540399610059554816, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:24.313000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+    "date": "19940725", 
+    "shelf_id": "mfdipbib000933", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1994": "https://www.loc.gov/search/?dates=1994-1994&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000933/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000933/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pla01", 
+        "http://www.loc.gov/resource/mfdip.2004pla01/", 
+        "http://www.loc.gov/item/mfdip.2004pla01/"
+    ], 
+    "contributor_names": [
+        "McCusker, Paul D. (Interviewer)", 
+        "Platt, Nicholas (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.2550959587097168, 
+    "default_count": 25, 
+    "id": "mfdipbib000933/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000933/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004pla01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004pla01/2004pla01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004pla01/2004pla01.pdf"
+    }
+]}

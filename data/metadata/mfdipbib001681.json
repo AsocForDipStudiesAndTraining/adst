@@ -1,0 +1,1463 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Charles Stuart Kennedy &amp; Bastiani, C. A. (2011) <cite>Interview with Carl A. Bastiani</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001681/.", 
+    "mla": "Charles Stuart Kennedy, and Carl A Bastiani. <cite>Interview with Carl A. Bastiani</cite>. 2011. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001681/&gt;.", 
+    "chicago": "Charles Stuart Kennedy, and Carl A Bastiani. <cite>Interview with Carl A. Bastiani</cite>. 2011. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001681/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412028281,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.468611111111111, 
+                    41.829444444444448
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "EUR (Rome, Italy)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Universal Exhibition of Rome (Rome, Italy)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n00005753"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Lacio|Latium", 
+                        "id": "909febdf4dec8578", 
+                        "name": "Lazio"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "dd677eec5818a64b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.2463172, 
+                    40.850696200000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Naples", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Napoli"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Neapol"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Neapel"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Naples"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "N\u00e1poles"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Naples"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e0\u05e4\u05d5\u05dc\u05d9"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Napulj"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "N\u00e1poly"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Napels"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Neapol"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "N\u00e1poles"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041d\u0435\u0430\u043f\u043e\u043b\u044c"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Neapol"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Neapelj"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Neapel"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "N\u00e1poles"
+                    }, 
+                    {
+                        "lang": "nap", 
+                        "name": "Napule"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/428339558"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Campanha|Campanie|Kampanien", 
+                        "id": "c9ee1200199e8b1e", 
+                        "name": "Campania"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "bddf7f2d359170a1", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    26.100000000000001, 
+                    44.43333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bucharest (Romania)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Voukouresti (Romania)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Bucharest"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79018848"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bucarest|Bucareste|Bucuresti|Bukarest", 
+                        "id": "df4715906f2b3e28", 
+                        "name": "Bucharest"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Rom. ROU", 
+                        "id": "05cd2b9944f45a9c", 
+                        "name": "Romania"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "870e1105f1bf5731", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.3499999999999996, 
+                    45.100000000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Sant'Ambrogio di Torino (Italy)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Sant'Ambrogio (Italy)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/nr2002031726"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Piemont|Pi\u00e9mont|Piemonte|Piedmont", 
+                        "id": "9b93d955dd187bfa", 
+                        "name": "Piemonte"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "d254d489fbdc3977", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "40.8506962,14.2463172", 
+        "contributor": [
+            "williams, mark andrew", 
+            "george, scott edward"
+        ], 
+        "id": "http://www.loc.gov/item/afc911000242/", 
+        "partof": [
+            "american folklife center", 
+            "september 11, 2001, documentary project", 
+            "american memory"
+        ], 
+        "subject": [
+            "september 11 terrorist attacks", 
+            "interviews", 
+            "personal narratives"
+        ], 
+        "index": 1, 
+        "group": [
+            "afc911", 
+            "september-11-2001"
+        ], 
+        "title": "Interview with Mark Andrew Williams, Naples, Italy, November 10, 2001", 
+        "coordinates": [
+            "40.8506962,14.2463172"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.54529640000000001, 
+        "lonlat": [
+            14.2463172, 
+            40.850696200000002
+        ], 
+        "location": [
+            "italy", 
+            "naples"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "application/x-video"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-09-18T14:04:24.908000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-09-18T14:03:09.651000Z", 
+        "date": "2001-11-10", 
+        "shelf_id": "AFC 2001/015: mv11s1", 
+        "other_title": [], 
+        "dates": [
+            "2001-11-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc911000242/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/afc/afc2001015/mv/mv11s1t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/afc911000242/", 
+            "http://hdl.loc.gov/loc.afc/afc2001015.mv11s1", 
+            "http://www.loc.gov/resource/afc2001015.afc2001015_mv11s1/", 
+            "http://www.loc.gov/item/afc2001015.afc2001015_mv11s1/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "40.8506962,14.2463172", 
+        "contributor": [
+            "george, scott edward", 
+            "maffin, lorenzo"
+        ], 
+        "id": "http://www.loc.gov/item/afc911000243/", 
+        "partof": [
+            "american folklife center", 
+            "september 11, 2001, documentary project", 
+            "american memory"
+        ], 
+        "subject": [
+            "september 11 terrorist attacks", 
+            "children of military personnel", 
+            "interviews", 
+            "personal narratives"
+        ], 
+        "index": 2, 
+        "group": [
+            "afc911", 
+            "september-11-2001"
+        ], 
+        "title": "Interview with Lorenzo Maffin, Naples, Italy, November 15, 2001", 
+        "coordinates": [
+            "40.8506962,14.2463172"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.54529640000000001, 
+        "lonlat": [
+            14.2463172, 
+            40.850696200000002
+        ], 
+        "location": [
+            "italy", 
+            "naples"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "application/x-video"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-09-18T14:04:24.908000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-09-18T14:03:09.651000Z", 
+        "date": "2001-11-15", 
+        "shelf_id": "AFC 2001/015: mv12s1", 
+        "other_title": [], 
+        "dates": [
+            "2001-11-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc911000243/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/afc/afc2001015/mv/mv12s1t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/afc911000243/", 
+            "http://hdl.loc.gov/loc.afc/afc2001015.mv12s1", 
+            "http://www.loc.gov/resource/afc2001015.afc2001015_mv12s1/", 
+            "http://www.loc.gov/item/afc2001015.afc2001015_mv12s1/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "40.8506962,14.2463172", 
+        "contributor": [
+            "george, scott edward", 
+            "maffin, mersadis"
+        ], 
+        "id": "http://www.loc.gov/item/afc911000245/", 
+        "partof": [
+            "american folklife center", 
+            "september 11, 2001, documentary project", 
+            "american memory"
+        ], 
+        "subject": [
+            "september 11 terrorist attacks", 
+            "children of military personnel", 
+            "interviews", 
+            "personal narratives"
+        ], 
+        "index": 3, 
+        "group": [
+            "afc911", 
+            "september-11-2001"
+        ], 
+        "title": "Interview with Mersadis Maffin, Naples, Italy, November 15, 2001", 
+        "coordinates": [
+            "40.8506962,14.2463172"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.54529640000000001, 
+        "lonlat": [
+            14.2463172, 
+            40.850696200000002
+        ], 
+        "location": [
+            "italy", 
+            "naples"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "application/x-video"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-09-18T14:04:24.908000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-09-18T14:03:09.651000Z", 
+        "date": "2001-11-15", 
+        "shelf_id": "AFC 2001/015: mv13s1", 
+        "other_title": [], 
+        "dates": [
+            "2001-11-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc911000245/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/afc/afc2001015/mv/mv13s1t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/afc911000245/", 
+            "http://hdl.loc.gov/loc.afc/afc2001015.mv13s1", 
+            "http://www.loc.gov/resource/afc2001015.afc2001015_mv13s1/", 
+            "http://www.loc.gov/item/afc2001015.afc2001015_mv13s1/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "40.8506962,14.2463172", 
+        "contributor": [
+            "george, scott edward", 
+            "maffin, donato"
+        ], 
+        "id": "http://www.loc.gov/item/afc911000244/", 
+        "partof": [
+            "american folklife center", 
+            "september 11, 2001, documentary project", 
+            "american memory"
+        ], 
+        "subject": [
+            "september 11 terrorist attacks", 
+            "children of military personnel", 
+            "interviews", 
+            "personal narratives"
+        ], 
+        "index": 4, 
+        "group": [
+            "afc911", 
+            "september-11-2001"
+        ], 
+        "title": "Interview with Donato Maffin, Naples, Italy, November 15, 2001", 
+        "coordinates": [
+            "40.8506962,14.2463172"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.54529640000000001, 
+        "lonlat": [
+            14.2463172, 
+            40.850696200000002
+        ], 
+        "location": [
+            "italy", 
+            "naples"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "application/x-video"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-09-18T14:04:24.908000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-09-18T14:03:09.651000Z", 
+        "date": "2001-11-15", 
+        "shelf_id": "AFC 2001/015: mv14s1", 
+        "other_title": [], 
+        "dates": [
+            "2001-11-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc911000244/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/afc/afc2001015/mv/mv14s1t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/afc911000244/", 
+            "http://hdl.loc.gov/loc.afc/afc2001015.mv14s1", 
+            "http://www.loc.gov/resource/afc2001015.afc2001015_mv14s1/", 
+            "http://www.loc.gov/item/afc2001015.afc2001015_mv14s1/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "40.8506962,14.2463172", 
+        "contributor": [
+            "george, scott edward", 
+            "rico, christina"
+        ], 
+        "id": "http://www.loc.gov/item/afc911000246/", 
+        "partof": [
+            "american folklife center", 
+            "september 11, 2001, documentary project", 
+            "american memory"
+        ], 
+        "subject": [
+            "september 11 terrorist attacks", 
+            "children of military personnel", 
+            "interviews", 
+            "personal narratives"
+        ], 
+        "index": 5, 
+        "group": [
+            "afc911", 
+            "september-11-2001"
+        ], 
+        "title": "Interview with Christina Rico, Naples, Italy, November 15, 2001", 
+        "coordinates": [
+            "40.8506962,14.2463172"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.54529640000000001, 
+        "lonlat": [
+            14.2463172, 
+            40.850696200000002
+        ], 
+        "location": [
+            "italy", 
+            "naples"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "application/x-video"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-09-18T14:04:24.908000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-09-18T14:03:09.651000Z", 
+        "date": "2001-11-15", 
+        "shelf_id": "AFC 2001/015: mv21s1", 
+        "other_title": [], 
+        "dates": [
+            "2001-11-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc911000246/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/afc/afc2001015/mv/mv21s1t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/afc911000246/", 
+            "http://hdl.loc.gov/loc.afc/afc2001015.mv21s1", 
+            "http://www.loc.gov/resource/afc2001015.afc2001015_mv21s1/", 
+            "http://www.loc.gov/item/afc2001015.afc2001015_mv21s1/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "40.8506962,14.2463172", 
+        "contributor": [
+            "george, scott edward", 
+            "horner, jessica"
+        ], 
+        "id": "http://www.loc.gov/item/afc911000247/", 
+        "partof": [
+            "american folklife center", 
+            "september 11, 2001, documentary project", 
+            "american memory"
+        ], 
+        "subject": [
+            "september 11 terrorist attacks", 
+            "interviews", 
+            "personal narratives"
+        ], 
+        "index": 6, 
+        "group": [
+            "afc911", 
+            "september-11-2001"
+        ], 
+        "title": "Interview with Jessica Horner, Naples, Italy, November 15, 2001", 
+        "coordinates": [
+            "40.8506962,14.2463172"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.54529640000000001, 
+        "lonlat": [
+            14.2463172, 
+            40.850696200000002
+        ], 
+        "location": [
+            "italy", 
+            "naples"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "application/x-video"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-09-18T14:04:24.908000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-09-18T14:03:09.651000Z", 
+        "date": "2001-11-15", 
+        "shelf_id": "AFC 2001/015: mv22s1", 
+        "other_title": [], 
+        "dates": [
+            "2001-11-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc911000247/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/afc/afc2001015/mv/mv22s1t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/afc911000247/", 
+            "http://hdl.loc.gov/loc.afc/afc2001015.mv22s1", 
+            "http://www.loc.gov/resource/afc2001015.afc2001015_mv22s1/", 
+            "http://www.loc.gov/item/afc2001015.afc2001015_mv22s1/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "barnes, harry g. (harry george)"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001679/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Harry G. Barnes", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.8444275999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "new delhi", 
+            "romania", 
+            "europe", 
+            "eurasia", 
+            "washington", 
+            "czechoslovakia", 
+            "nepal", 
+            "india", 
+            "santiago", 
+            "moscow", 
+            "united states", 
+            "ussr", 
+            "western hemisphere", 
+            "chile", 
+            "central asia", 
+            "katmandu", 
+            "bucharest", 
+            "bombay", 
+            "prague"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001679", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001679/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001679/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011bar01", 
+            "http://www.loc.gov/resource/mfdip.2011bar01/", 
+            "http://www.loc.gov/item/mfdip.2011bar01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "virden, richard a."
+        ], 
+        "latlong": "46.7150639,-92.0323706", 
+        "id": "http://www.loc.gov/item/mfdipbib001741/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard A. Virden", 
+        "coordinates": [
+            "46.7150639,-92.0323706"
+        ], 
+        "score": 3.3269549999999999, 
+        "lonlat": [
+            -92.032370599999993, 
+            46.715063899999997
+        ], 
+        "location": [
+            "bucharest", 
+            "saigon", 
+            "romania", 
+            "east asia", 
+            "portugal", 
+            "eurasia", 
+            "brasilia", 
+            "poland", 
+            "brazil", 
+            "bangkok", 
+            "minnesota", 
+            "pacific", 
+            "united states", 
+            "vietnam", 
+            "western hemisphere", 
+            "san paulo", 
+            "lisbon", 
+            "thailand", 
+            "europe", 
+            "belo horizonte", 
+            "warsaw"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:20.857000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001741", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001741/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001741/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011vir01", 
+            "http://www.loc.gov/resource/mfdip.2011vir01/", 
+            "http://www.loc.gov/item/mfdip.2011vir01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "silins, ints"
+        ], 
+        "latlong": "18.547327,-72.3395928", 
+        "id": "http://www.loc.gov/item/mfdipbib001736/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Ints Silins", 
+        "coordinates": [
+            "18.547327,-72.3395928"
+        ], 
+        "score": 3.2739126999999999, 
+        "lonlat": [
+            -72.339592800000005, 
+            18.547326999999999
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "romania", 
+            "leningrad", 
+            "strasbourg", 
+            "eurasia", 
+            "bucharest", 
+            "east asia", 
+            "riga", 
+            "europe", 
+            "latvia", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "sweden", 
+            "vietnam", 
+            "western hemisphere", 
+            "stockholm", 
+            "haiti", 
+            "port au prince", 
+            "soviet union"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:20.857000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001736", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001736/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001736/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011sil01", 
+            "http://www.loc.gov/resource/mfdip.2011sil01/", 
+            "http://www.loc.gov/item/mfdip.2011sil01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "taylor, jr., rush w."
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib001739/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Rush W. Taylor, Jr.", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 3.1797729000000001, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "italy", 
+            "portugal", 
+            "oporto", 
+            "florence", 
+            "africa", 
+            "united states", 
+            "togo", 
+            "yaounde", 
+            "rome", 
+            "western hemisphere", 
+            "\"bahamas", 
+            "guinea", 
+            "nassau", 
+            "the", 
+            "cameroon", 
+            "bissau", 
+            "eurasia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:20.857000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001739", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001739/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001739/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011tay01", 
+            "http://www.loc.gov/resource/mfdip.2011tay01/", 
+            "http://www.loc.gov/item/mfdip.2011tay01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "anderson, michael g."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001311/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Michael G. Anderson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.0773066999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "pakistan", 
+            "europe", 
+            "italy", 
+            "eurasia", 
+            "islamabad", 
+            "poland", 
+            "washington", 
+            "united states", 
+            "rome", 
+            "western hemisphere", 
+            "central asia", 
+            "genoa", 
+            "warsaw"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "2005-04-22", 
+        "shelf_id": "mfdipbib001311", 
+        "other_title": [], 
+        "dates": [
+            "2005-04-22T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001311/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001311/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007and01", 
+            "http://www.loc.gov/resource/mfdip.2007and01/", 
+            "http://www.loc.gov/item/mfdip.2007and01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "weiss, mary louise", 
+            "austin, lillian e."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000033/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "spouses", 
+            "united states citizens", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Lillian E. Austin", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.0449936000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "bucharest", 
+            "eurasia", 
+            "romania", 
+            "cambridge", 
+            "portugal", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "lisbon", 
+            "japan", 
+            "panama city", 
+            "italy", 
+            "parris island", 
+            "panama", 
+            "europe", 
+            "naples", 
+            "washington d.c.", 
+            "massachusetts", 
+            "east asia", 
+            "tokyo", 
+            "rome", 
+            "western hemisphere", 
+            "south carolina"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1989-12-28", 
+        "shelf_id": "Spouse Series", 
+        "other_title": [], 
+        "dates": [
+            "1989-12-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000033/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000033/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004aus01", 
+            "http://www.loc.gov/resource/mfdip.2004aus01/", 
+            "http://www.loc.gov/item/mfdip.2004aus01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "contributors": [
+        {
+            "bastiani, carl a.": "https://www.loc.gov/search/?fa=contributor%3Abastiani%2C+carl+a.&fo=json"
+        }, 
+        {
+            "charles stuart kennedy": "https://www.loc.gov/search/?fa=contributor%3Acharles+stuart+kennedy&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "display_offsite": true, 
+    "created_published": [
+        "2011"
+    ], 
+    "subjects": [
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2011bas01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001681/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2011bas01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "title": "Interview with Carl A. Bastiani", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "score": 7.9582540000000002, 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "bucharest": "https://www.loc.gov/search/?fa=location%3Abucharest&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "genoa": "https://www.loc.gov/search/?fa=location%3Agenoa&fo=json"
+        }, 
+        {
+            "italy": "https://www.loc.gov/search/?fa=location%3Aitaly&fo=json"
+        }, 
+        {
+            "krakow": "https://www.loc.gov/search/?fa=location%3Akrakow&fo=json"
+        }, 
+        {
+            "naples": "https://www.loc.gov/search/?fa=location%3Anaples&fo=json"
+        }, 
+        {
+            "poland": "https://www.loc.gov/search/?fa=location%3Apoland&fo=json"
+        }, 
+        {
+            "romania": "https://www.loc.gov/search/?fa=location%3Aromania&fo=json"
+        }, 
+        {
+            "rome": "https://www.loc.gov/search/?fa=location%3Arome&fo=json"
+        }, 
+        {
+            "torino": "https://www.loc.gov/search/?fa=location%3Atorino&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399786921820160, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:35:09.664000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+    "date": "20110000", 
+    "shelf_id": "mfdipbib001681", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2011": "https://www.loc.gov/search/?dates=2011-2011&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001681/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001681/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2011bas01", 
+        "http://www.loc.gov/resource/mfdip.2011bas01/", 
+        "http://www.loc.gov/item/mfdip.2011bas01/"
+    ], 
+    "contributor_names": [
+        "Charles Stuart Kennedy (Interviewer)", 
+        "Bastiani, Carl A. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.50801897048950195, 
+    "default_count": 25, 
+    "id": "mfdipbib001681/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001681/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2011bas01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2011/2011bas01/2011bas01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2011/2011bas01/2011bas01.pdf"
+    }
+]}

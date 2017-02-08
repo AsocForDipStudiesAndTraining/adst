@@ -1,0 +1,1298 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Ryan, H. B. &amp; Grover, C. W. (1990) <cite>Interview with Charles W. Grover</cite>. November 2. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000457/.", 
+    "mla": "Ryan, Henry B, and Charles W Grover. <cite>Interview with Charles W. Grover</cite>. November 2, 1990. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000457/&gt;.", 
+    "chicago": "Ryan, Henry B, and Charles W Grover. <cite>Interview with Charles W. Grover</cite>. November 2, 1990. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000457/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486410478256,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986581200000003, 
+                    40.730599099999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "New York", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "cy", 
+                        "name": "Eforg Newydd"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "New York"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "New York"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Novjorko"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Nueva York"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/61785451"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "1052a371b22f84b2", 
+                        "name": "New York"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "fd87d8566c7ea3de", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -83.486944444444447, 
+                    41.643611111111113
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Oregon (Ohio)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Oregon, Ohio"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Oregon, Ohio"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n81097522"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "40f0fb6587f1a2cf", 
+                        "name": "Ohio"
+                    }, 
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "Lucas County", 
+                        "id": "dc56a8ecb9b6b893", 
+                        "name": "Lucas"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b2bbc7a072f77d21", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -68.128360900000004, 
+                    -16.5070786
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "La Paz", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "ru", 
+                        "name": "\u041b\u0430-\u041f\u0430\u0441"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "La Paz"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "La Paz"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "La Paz"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/270749762"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "45aa11456d74fe27", 
+                        "name": "La Paz"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Bolivia BOL Plurinational State of Bolivia", 
+                        "id": "36ff520a1a99ad2f", 
+                        "name": "Bolivia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad78f5527986953c", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "-16.5070786,-68.1283609", 
+        "contributor": [
+            "scheeler, i. f."
+        ], 
+        "id": "http://www.loc.gov/item/2007663107/", 
+        "partof": [
+            "prints and photographs division", 
+            "panoramic photographs", 
+            "american memory", 
+            "taking the long view: panoramic photographs, 1851-1991", 
+            "catalog"
+        ], 
+        "subject": [
+            "mountains", 
+            "valleys", 
+            "bolivia", 
+            "la paz", 
+            "cityscape photographs", 
+            "gelatin silver prints", 
+            "panoramic photographs"
+        ], 
+        "index": 1, 
+        "group": [
+            "pan", 
+            "catalog", 
+            "panoramic-photographs"
+        ], 
+        "title": "[La Paz, Bolivia]", 
+        "coordinates": [
+            "-16.5070786,-68.1283609"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.56673235, 
+        "lonlat": [
+            -68.128360900000004, 
+            -16.5070786
+        ], 
+        "location": [
+            "bolivia", 
+            "la paz"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : gelatin silver ; 15 x 97.5 in."
+        ], 
+        "timestamp": "2016-07-14T14:37:52.665000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-14T14:29:56.257000Z", 
+        "date": "1915", 
+        "shelf_id": "PAN FOR GEOG - Bolivia no. 5 (F size) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1915-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2007663107/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24000/6a24013_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24000/6a24013_150px.jpg#h=24&w=150", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24000/6a24013t.gif#h=24&w=150", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24000/6a24013v.jpg#h=163&w=1024", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24000/6a24013r.jpg#h=420&w=2641"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/pan/item/2007663107/", 
+            "http://www.loc.gov/item/2007663107/", 
+            "http://www.loc.gov/pictures/item/2007663107/", 
+            "http://hdl.loc.gov/loc.pnp/pan.6a24013", 
+            "http://www.loc.gov/resource/pan.6a24013/", 
+            "http://lccn.loc.gov/2007663107"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "-16.5070786,-68.1283609", 
+        "contributor": [
+            "scheeler, i. f."
+        ], 
+        "id": "http://www.loc.gov/item/2007663110/", 
+        "partof": [
+            "prints and photographs division", 
+            "panoramic photographs", 
+            "american memory", 
+            "taking the long view: panoramic photographs, 1851-1991", 
+            "catalog"
+        ], 
+        "subject": [
+            "valleys", 
+            "mountains", 
+            "bolivia", 
+            "la paz", 
+            "cityscape photographs", 
+            "gelatin silver prints", 
+            "panoramic photographs"
+        ], 
+        "index": 2, 
+        "group": [
+            "pan", 
+            "catalog", 
+            "panoramic-photographs"
+        ], 
+        "title": "[La Paz, Bolivia]", 
+        "coordinates": [
+            "-16.5070786,-68.1283609"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.56673235, 
+        "lonlat": [
+            -68.128360900000004, 
+            -16.5070786
+        ], 
+        "location": [
+            "bolivia", 
+            "la paz"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : gelatin silver ; 15.5 x 121.5 in."
+        ], 
+        "timestamp": "2016-07-14T14:37:52.665000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-14T14:29:56.257000Z", 
+        "date": "1915", 
+        "shelf_id": "PAN FOR GEOG - Bolivia no. 8 (F size) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1915-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2007663110/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24300/6a24383_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24300/6a24383_150px.jpg#h=20&w=150", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24300/6a24383t.gif#h=20&w=150", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24300/6a24383v.jpg#h=139&w=1024", 
+            "//cdn.loc.gov/service/pnp/pan/6a24000/6a24300/6a24383r.jpg#h=420&w=3090"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/pan/item/2007663110/", 
+            "http://www.loc.gov/item/2007663110/", 
+            "http://www.loc.gov/pictures/item/2007663110/", 
+            "http://hdl.loc.gov/loc.pnp/pan.6a24383", 
+            "http://www.loc.gov/resource/pan.6a24383/", 
+            "http://lccn.loc.gov/2007663110"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "latlong": "40.9522222222,-74.2988888889", 
+        "contributor": [
+            "carroll, sarah", 
+            "carroll, sydney", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000056/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "retirees", 
+            "ethnography"
+        ], 
+        "index": 3, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "\"We used  to call it 'digging iron.'\"", 
+        "coordinates": [
+            "40.9522222222,-74.2988888889"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.44022143000000002, 
+        "lonlat": [
+            -74.298888888899995, 
+            40.9522222222
+        ], 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "pequannock"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:24.742000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.401000Z", 
+        "date": "1994-08-11", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A011", 
+        "other_title": [], 
+        "dates": [
+            "1994-08-11T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000056/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000056/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta01307", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta01307/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta01307/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000101/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 4, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "\"Nowadays most Paterson folks work out of town.\"", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.44022143000000002, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000101/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000101/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02804", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02804/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02804/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000103/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 5, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Vision for the future of the historic district", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.44022143000000002, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000103/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000103/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02806", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02806/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02806/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000104/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 6, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Most important thing to know about Paterson", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.44022143000000002, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000104/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000104/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02807", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02807/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02807/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "nethercut, richard", 
+            "ryan, henry", 
+            "henderson, douglas"
+        ], 
+        "latlong": "25.98333,-98.46667", 
+        "id": "http://www.loc.gov/item/mfdipbib000504/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "american republics", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Douglas Henderson", 
+        "coordinates": [
+            "25.98333,-98.46667"
+        ], 
+        "score": 6.7810062999999996, 
+        "lonlat": [
+            -98.466669999999993, 
+            25.983329999999999
+        ], 
+        "location": [
+            "united states", 
+            "western hemisphere", 
+            "bolivia", 
+            "florida"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1988-04-29", 
+        "shelf_id": "mfdipbib000504", 
+        "other_title": [], 
+        "dates": [
+            "1988-04-29T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000504/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000504/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004hen01", 
+            "http://www.loc.gov/resource/mfdip.2004hen01/", 
+            "http://www.loc.gov/item/mfdip.2004hen01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "nethercut, richard", 
+            "ryan, henry", 
+            "henderson, douglas"
+        ], 
+        "latlong": "19.4341666667,-99.1386111111", 
+        "id": "http://www.loc.gov/item/mfdipbib000505/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "american republics", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Douglas Henderson", 
+        "coordinates": [
+            "19.4341666667,-99.1386111111"
+        ], 
+        "score": 5.8922157000000004, 
+        "lonlat": [
+            -99.138611111100005, 
+            19.434166666700001
+        ], 
+        "location": [
+            "bolivia", 
+            "chile", 
+            "mexico", 
+            "western hemisphere", 
+            "peru", 
+            "lima"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1990-09-23", 
+        "shelf_id": "mfdipbib000505", 
+        "other_title": [], 
+        "dates": [
+            "1990-09-23T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000505/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000505/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004hen02", 
+            "http://www.loc.gov/resource/mfdip.2004hen02/", 
+            "http://www.loc.gov/item/mfdip.2004hen02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "ryan, henry", 
+            "tuthill, john w."
+        ], 
+        "latlong": "-28.3877777778,-53.9147222222", 
+        "id": "http://www.loc.gov/item/mfdipbib001198/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John W. Tuthill", 
+        "coordinates": [
+            "-28.3877777778,-53.9147222222"
+        ], 
+        "score": 5.4727670000000002, 
+        "lonlat": [
+            -53.914722222199998, 
+            -28.3877777778
+        ], 
+        "location": [
+            "brazil", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1992-03-11", 
+        "shelf_id": "mfdipbib001198", 
+        "other_title": [], 
+        "dates": [
+            "1992-03-11T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001198/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001198/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004tut02", 
+            "http://www.loc.gov/resource/mfdip.2004tut02/", 
+            "http://www.loc.gov/item/mfdip.2004tut02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "ryan, henry", 
+            "broderick, william d."
+        ], 
+        "id": "http://www.loc.gov/item/mfdipbib000144/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with William D. Broderick", 
+        "score": 5.269946, 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:33.848000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:09.584000Z", 
+        "date": "1990-10-08", 
+        "shelf_id": "mfdipbib000144", 
+        "other_title": [], 
+        "dates": [
+            "1990-10-08T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000144/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000144/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004bro02", 
+            "http://www.loc.gov/resource/mfdip.2004bro02/", 
+            "http://www.loc.gov/item/mfdip.2004bro02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "ryan, henry", 
+            "tuthill, john w."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib001197/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John W. Tuthill", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 5.2605266999999998, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "brazil", 
+            "europe", 
+            "eurasia", 
+            "paris", 
+            "france", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1987-00-00", 
+        "shelf_id": "mfdipbib001197", 
+        "other_title": [], 
+        "dates": [
+            "1987-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001197/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001197/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004tut01", 
+            "http://www.loc.gov/resource/mfdip.2004tut01/", 
+            "http://www.loc.gov/item/mfdip.2004tut01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "watson, alexander f."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001659/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Alexander F. Watson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 5.1096779999999997, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "brazil", 
+            "europe", 
+            "bolivia", 
+            "peru", 
+            "eurasia", 
+            "bogota", 
+            "madrid", 
+            "washington", 
+            "santo domingo", 
+            "united states", 
+            "new york", 
+            "western hemisphere", 
+            "la paz", 
+            "colombia", 
+            "brasilia", 
+            "dominican republic", 
+            "lima", 
+            "salvador da bahia", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001659", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001659/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001659/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010wat01", 
+            "http://www.loc.gov/resource/mfdip.2010wat01/", 
+            "http://www.loc.gov/item/mfdip.2010wat01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "grover, charles w.": "https://www.loc.gov/search/?fa=contributor%3Agrover%2C+charles+w.&fo=json"
+        }, 
+        {
+            "ryan, henry": "https://www.loc.gov/search/?fa=contributor%3Aryan%2C+henry&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "40.7305991,-73.9865812", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Interviews", 
+        "United States -- New York", 
+        "United States -- Oregon", 
+        "Bolivia -- La Paz", 
+        "Western Hemisphere"
+    ], 
+    "created_published": [
+        "November 2, 1990"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004gro04#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000457/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004gro04"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.8341550000000009, 
+    "title": "Interview with Charles W. Grover ", 
+    "coordinates": [
+        "40.7305991,-73.9865812"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -73.986581200000003, 
+        40.730599099999999
+    ], 
+    "location": [
+        {
+            "bolivia": "https://www.loc.gov/search/?fa=location%3Abolivia&fo=json"
+        }, 
+        {
+            "la paz": "https://www.loc.gov/search/?fa=location%3Ala+paz&fo=json"
+        }, 
+        {
+            "new york": "https://www.loc.gov/search/?fa=location%3Anew+york&fo=json"
+        }, 
+        {
+            "oregon": "https://www.loc.gov/search/?fa=location%3Aoregon&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399501399818240, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:30:38.593000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+    "date": "19901102", 
+    "shelf_id": "mfdipbib000457", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1990": "https://www.loc.gov/search/?dates=1990-1990&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000457/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000457/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004gro04", 
+        "http://www.loc.gov/resource/mfdip.2004gro04/", 
+        "http://www.loc.gov/item/mfdip.2004gro04/"
+    ], 
+    "contributor_names": [
+        "Ryan, Henry B. (Interviewer)", 
+        "Grover, Charles W. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 1.373729944229126, 
+    "default_count": 25, 
+    "id": "mfdipbib000457/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000457/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004gro04/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004gro04/2004gro04.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004gro04/2004gro04.pdf"
+    }
+]}

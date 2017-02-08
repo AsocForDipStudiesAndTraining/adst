@@ -1,0 +1,1764 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Charles Stuart Kennedy &amp; Piez, W. (2011) <cite>Interview with William Piez</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001727/.", 
+    "mla": "Charles Stuart Kennedy, and William Piez. <cite>Interview with William Piez</cite>. 2011. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001727/&gt;.", 
+    "chicago": "Charles Stuart Kennedy, and William Piez. <cite>Interview with William Piez</cite>. 2011. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001727/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411635692,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.227269399999997, 
+                    41.623435600000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Island Park", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158798024"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "3f3aedacfadb1bfb", 
+                        "name": "Rhode Island"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "e15a4e024259a6ec", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.029428699999997, 
+                    38.925672400000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Columbia Heights", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/157610884"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "1676b83dced35b4f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.55062, 
+                    52.347140000000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Frankfurt (Oder)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Frankfort on the Oder"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del Odra"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Frankfurt nad Odr\u0105"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del \u00d3der"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "af", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442 \u043d\u0430 \u041e\u0434\u0435\u0440"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Frankfurto \u0109e Odro"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Frankfurt Oderi \u00e4\u00e4res"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Francfort-sur-l'Oder"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Francoforte sull'Oder"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30aa\u30fc\u30c0\u30fc"
+                    }, 
+                    {
+                        "lang": "ka", 
+                        "name": "\u10e4\u10e0\u10d0\u10dc\u10d9\u10e4\u10e3\u10e0\u10e2-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10dd\u10d3\u10d4\u10e0\u10d8"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Frankfurtas prie Oderio"
+                    }, 
+                    {
+                        "lang": "nds", 
+                        "name": "Frankfort an de Oder"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "nn", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ro", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u043d\u0430-\u041e\u0434\u0435\u0440\u0435"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Frankfurt na Odri"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8 \u05e2\u05dc \u05d4\u05d0\u05d5\u05d3\u05e8"
+                    }, 
+                    {
+                        "lang": "id", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vo", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "jv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "ca", 
+                        "name": "Frankfurt de l'Oder"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Frankfurt_%28Oder%29"
+                    }, 
+                    {
+                        "lang": "iata", 
+                        "name": "ZFR"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2925535"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f5135199aad9fe96", 
+                        "name": "Brandenburg"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "69f85a8b5ddf13bc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.3356, 
+                    12.369
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Manila", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fil", 
+                        "name": "Manila"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/1701669"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "6f604538cf37f42a", 
+                        "name": "Oriental Mindoro"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Phil. PHL Republic of the Philippines", 
+                        "id": "991a540a1606ba96", 
+                        "name": "Philippines"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cbe7a4ef80e15eaa", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.69166666666666, 
+                    35.68944444444444
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tokyo (Japan)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dongjing (Japan)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79034998"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Japan JPN", 
+                        "id": "b0be89ea8dea3f25", 
+                        "name": "Japan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Edo|Yedo|Tokio|T\u00a2quio", 
+                        "id": "27adec74640ad903", 
+                        "name": "Tokyo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c0226941a4d79e0a", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    69.162430200000003, 
+                    34.519705799999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kabul", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u06a9\u0627\u0628\u0644"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "K\u00e1bul"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u06a9\u0627\u0628\u0644"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Kaboul"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e7\u05d1\u05d5\u05dc"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Kab\u00fal"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Kab\u00fbl"
+                    }, 
+                    {
+                        "lang": "lb", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0430\u0431\u0443\u043b"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "K\u00e1bul"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Kabul"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/21716195"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Cabul|Kabol|Kaboul", 
+                        "id": "1a447951ba489d82", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Afg. AFG Islamic State of Afghanistan", 
+                        "id": "a15f983b4f19f972", 
+                        "name": "Afghanistan"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "70d89c408ae260bf", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "34.5197058,69.1624302", 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/81692530/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "kabul (afghanistan)", 
+            "maps", 
+            "afghanistan", 
+            "kabul"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "K\u0101bul.", 
+        "coordinates": [
+            "34.5197058,69.1624302"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.44564535999999999, 
+        "lonlat": [
+            69.162430200000003, 
+            34.519705799999997
+        ], 
+        "location": [
+            "Kabul", 
+            "Afghanistan", 
+            "kabul", 
+            "afghanistan"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"504523 6-80.\" Copy 1 background in gray. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:03:53.615000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:30.873000Z", 
+        "date": "1980", 
+        "shelf_id": "G7634.K2 1980 .U5 G7634.K2 1980 .U5 Copy 2 G7634.K2 1980 .U5 Copy 3", 
+        "other_title": [], 
+        "dates": [
+            "1980-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/81692530/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7634/g7634k/ct001101.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7634/g7634k/ct001101.gif#h=150&w=178", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7634:g7634k:ct001101/full/pct:12.5/0/default.jpg#h=276&w=328", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7634:g7634k:ct001101/full/pct:25/0/default.jpg#h=552&w=656", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7634:g7634k:ct001101/full/pct:50/0/default.jpg#h=1104&w=1312", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7634:g7634k:ct001101/full/pct:100/0/default.jpg#h=2208&w=2625"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/81692530/", 
+            "http://hdl.loc.gov/loc.gmd/g7634k.ct001101", 
+            "http://www.loc.gov/resource/g7634k.ct001101/", 
+            "http://lccn.loc.gov/81692530"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "12.369,121.3356", 
+        "contributor": [
+            "bach, john", 
+            "philippines. bureau of commerce and industry", 
+            "carmelo & bauermann"
+        ], 
+        "id": "http://www.loc.gov/item/2012586258/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "manila (philippines)", 
+            "maps", 
+            "philippines", 
+            "manila"
+        ], 
+        "index": 2, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "City of Manila, Philippine Islands", 
+        "coordinates": [
+            "12.369,121.3356"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.38029807999999998, 
+        "lonlat": [
+            121.3356, 
+            12.369
+        ], 
+        "location": [
+            "Manila", 
+            "Philippines", 
+            "philippines", 
+            "manila"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"Copyright in the Philippine Islands and the United States of America by John Bach--November 1920.\" Includes population data and indexes to streets and points of interest. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:01:48.632000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:20.252000Z", 
+        "date": "1920", 
+        "shelf_id": "G8064.M5 1920 .B3", 
+        "other_title": [], 
+        "dates": [
+            "1920-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2012586258/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd8/g8064/g8064m/ct003077.gif", 
+            "//cdn.loc.gov/service/gmd/gmd8/g8064/g8064m/ct003077.gif#h=199&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:3.125/0/default.jpg#h=350&w=263", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:6.25/0/default.jpg#h=700&w=526", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:12.5/0/default.jpg#h=1400&w=1053", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8064:g8064m:ct003077/full/pct:25/0/default.jpg#h=2800&w=2107"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2012586258/", 
+            "http://www.loc.gov/resource/g8064m.ct003077/", 
+            "http://hdl.loc.gov/loc.gmd/g8064m.ct003077", 
+            "http://lccn.loc.gov/2012586258"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "34.5197058,69.1624302", 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/2005631116/", 
+        "partof": [
+            "geography and map division", 
+            "general maps", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "azimuthal equidistant projection (cartography)", 
+            "maps", 
+            "world maps", 
+            "kabul (afghanistan)", 
+            "distances, etc", 
+            "earth", 
+            "afghanistan", 
+            "kabul"
+        ], 
+        "index": 3, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Azimuthal equidistant projection centered on Kabul, Afghanistan.", 
+        "coordinates": [
+            "34.5197058,69.1624302"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.3388352, 
+        "lonlat": [
+            69.162430200000003, 
+            34.519705799999997
+        ], 
+        "location": [
+            "Kabul", 
+            "Earth", 
+            "Afghanistan", 
+            "kabul", 
+            "afghanistan", 
+            "earth"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"Dl Cartography Center/MPG 757216Al 10-01.\" Shows radial distances. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T19:59:58.762000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:12.358000Z", 
+        "date": "2001", 
+        "shelf_id": "G3201.B72 2001 .U5", 
+        "other_title": [], 
+        "dates": [
+            "2001-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2005631116/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd3/g3201/g3201b/ct002582.gif", 
+            "//cdn.loc.gov/service/gmd/gmd3/g3201/g3201b/ct002582.gif#h=159&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3201:g3201b:ct002582/full/pct:3.125/0/default.jpg#h=313&w=295", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3201:g3201b:ct002582/full/pct:6.25/0/default.jpg#h=626&w=590", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3201:g3201b:ct002582/full/pct:12.5/0/default.jpg#h=1252&w=1180", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd3:g3201:g3201b:ct002582/full/pct:25/0/default.jpg#h=2504&w=2360"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2005631116/", 
+            "http://www.loc.gov/resource/g3201b.ct002582/", 
+            "http://hdl.loc.gov/loc.gmd/g3201b.ct002582", 
+            "http://lccn.loc.gov/2005631116"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "hart, edward h.", 
+            "detroit publishing co."
+        ], 
+        "latlong": "12.369,121.3356", 
+        "id": "http://www.loc.gov/item/det1994010788/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "detroit publishing company", 
+            "american memory"
+        ], 
+        "subject": [
+            "united states", 
+            "army", 
+            "soldiers", 
+            "american", 
+            "forts & fortifications", 
+            "spanish-american war", 
+            "philippines", 
+            "manila", 
+            "dry plate negatives"
+        ], 
+        "index": 4, 
+        "group": [
+            "det", 
+            "detroit-publishing-company"
+        ], 
+        "title": "American troops on ramparts at Manila", 
+        "coordinates": [
+            "12.369,121.3356"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.33827626999999999, 
+        "lonlat": [
+            121.3356, 
+            12.369
+        ], 
+        "location": [
+            "philippines", 
+            "manila"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : glass ; 8 x 10 in."
+        ], 
+        "timestamp": "2016-05-26T15:35:32.006999Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-26T15:11:58.561000Z", 
+        "date": "1898", 
+        "shelf_id": "LC-D4-21488 <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1898-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/det1994010788/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a15000/4a15100/4a15136_150px.jpg#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a15000/4a15100/4a15136t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a15000/4a15100/4a15136r.jpg#h=514&w=640", 
+            "//cdn.loc.gov/service/pnp/det/4a10000/4a15000/4a15100/4a15136v.jpg#h=822&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/det/item/det1994010788/pp/", 
+            "http://www.loc.gov/item/det1994010788/pp/", 
+            "http://www.loc.gov/pictures/item/det1994010788/pp/", 
+            "http://hdl.loc.gov/loc.pnp/det.4a15136", 
+            "http://www.loc.gov/resource/det.4a15136/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "film, video"
+        ], 
+        "latlong": "8.86666666667,54.0797222222", 
+        "contributor": [
+            "ackerman, raymond", 
+            "american mutoscope and biograph company", 
+            "paper print collection (library of congress)"
+        ], 
+        "id": "http://www.loc.gov/item/98500758/", 
+        "partof": [
+            "motion picture, broadcasting and recorded sound division", 
+            "the spanish-american war in motion pictures", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "philippines", 
+            "history", 
+            "philippine american war", 
+            "filipinos", 
+            "boats", 
+            "river boats", 
+            "revolutionaries", 
+            "transportation", 
+            "aguinaldo, emilio", 
+            "military leadership", 
+            "rivers", 
+            "manila (philippines)", 
+            "history, naval", 
+            "war (nonfiction)", 
+            "short", 
+            "actualities (motion pictures)", 
+            "short films", 
+            "nonfiction films"
+        ], 
+        "index": 5, 
+        "group": [
+            "papr.mar", 
+            "catalog", 
+            "edison-companies-motion-pictures-and-sound-recordings"
+        ], 
+        "title": "Aguinaldo's navy", 
+        "coordinates": [
+            "8.86666666667,54.0797222222"
+        ], 
+        "online_format": [
+            "image", 
+            "video"
+        ], 
+        "score": 0.33827626999999999, 
+        "lonlat": [
+            54.079722222199997, 
+            8.8666666666699996
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "video/mov", 
+            "video/mpeg", 
+            "application/x-video", 
+            "image/jpeg", 
+            "video/ram"
+        ], 
+        "location": [
+            "philippines", 
+            "manila"
+        ], 
+        "digitized": true, 
+        "description": [
+            "From the Biograph picture catalogue: 27 feet. A splendid scene, showing a large number of curious Filipino boats being worked on the Pasig River near Manila by natives. The picture is unusually fine photographically."
+        ], 
+        "timestamp": "2016-11-25T21:36:14.495000Z", 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-11-25T21:34:52.279000Z", 
+        "date": "1900", 
+        "shelf_id": "FEB 9466 (ref print) FPE 5132 (dupe neg) FPE 5134 (masterpos) FPE 5473 (arch neg) LC 191 (paper pos)", 
+        "other_title": [
+            "Native boats on the new Aguinaldo's navy"
+        ], 
+        "dates": [
+            "1900-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/98500758/", 
+        "hassegments": false, 
+        "image_url": [
+            "//lcweb2.loc.gov/mbrs/sawmp/0191t.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/98500758/", 
+            "http://www.loc.gov/resource/sawmp.0191/", 
+            "http://hdl.loc.gov/loc.mbrsmi/sawmp.0191", 
+            "http://lccn.loc.gov/98500758"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "34.5197058,69.1624302", 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/2005631236/", 
+        "partof": [
+            "geography and map division", 
+            "general maps", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "azimuthal equidistant projection (cartography)", 
+            "maps", 
+            "eastern hemisphere", 
+            "kabul (afghanistan)", 
+            "distances, etc"
+        ], 
+        "index": 6, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Azimuthal equidistant projection centered on Kabul, Afghanistan.", 
+        "coordinates": [
+            "34.5197058,69.1624302"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.3205095, 
+        "lonlat": [
+            69.162430200000003, 
+            34.519705799999997
+        ], 
+        "location": [
+            "Eastern Hemisphere", 
+            "kabul", 
+            "afghanistan", 
+            "eastern hemisphere"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"800788 (545168) 8-86.\" Shows radial distances. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T19:59:58.762000Z", 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:12.358000Z", 
+        "date": "1986", 
+        "shelf_id": "G5671.B72 1986 .U5", 
+        "other_title": [], 
+        "dates": [
+            "1986-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2005631236/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd5/g5761/g5761b/ct001576.gif", 
+            "//cdn.loc.gov/service/gmd/gmd5/g5761/g5761b/ct001576.gif#h=210&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd5:g5761:g5761b:ct001576/full/pct:12.5/0/default.jpg#h=378&w=269", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd5:g5761:g5761b:ct001576/full/pct:25/0/default.jpg#h=757&w=539", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd5:g5761:g5761b:ct001576/full/pct:50/0/default.jpg#h=1514&w=1079"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2005631236/", 
+            "http://hdl.loc.gov/loc.gmd/g5761b.ct001576", 
+            "http://www.loc.gov/resource/g5761b.ct001576/", 
+            "http://lccn.loc.gov/2005631236"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "ridgway, rozanne l.", 
+            "charles stuart kennedy"
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib001730/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Rozanne L. Ridgway", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 4.1178736999999996, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "palermo", 
+            "italy", 
+            "western hemisphere", 
+            "east berlin", 
+            "helsinki", 
+            "oslo", 
+            "philippines", 
+            "finland", 
+            "europe", 
+            "minnesota", 
+            "pacific", 
+            "united states", 
+            "germany", 
+            "\"bahamas", 
+            "manila", 
+            "nassau", 
+            "the", 
+            "norway", 
+            "eurasia", 
+            "east asia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:20.857000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001730", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001730/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001730/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011rid01", 
+            "http://www.loc.gov/resource/mfdip.2011rid01/", 
+            "http://www.loc.gov/item/mfdip.2011rid01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "berrington, robin"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001683/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robin Berrington", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.8331021999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "fukuoka", 
+            "europe", 
+            "england", 
+            "western hemisphere", 
+            "kamphaeng phe", 
+            "tokyo", 
+            "dublin", 
+            "east asia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "yala", 
+            "london", 
+            "yokohama", 
+            "ireland", 
+            "thailand", 
+            "japan", 
+            "eurasia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001683", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001683/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001683/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011ber02", 
+            "http://www.loc.gov/resource/mfdip.2011ber02/", 
+            "http://www.loc.gov/item/mfdip.2011ber02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "springmann, j. michael", 
+            "schmelzer, frank e."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001028/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Frank E. Schmelzer", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.6079965000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "new delhi", 
+            "europe", 
+            "eurasia", 
+            "east asia", 
+            "madras", 
+            "afghanistan", 
+            "washington", 
+            "india", 
+            "pacific", 
+            "united states", 
+            "vietnam", 
+            "germany", 
+            "central asia", 
+            "frankfurt", 
+            "kabul"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:46.263000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+        "date": "1992-12-01", 
+        "shelf_id": "mfdipbib001028", 
+        "other_title": [], 
+        "dates": [
+            "1992-12-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001028/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001028/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004sch07", 
+            "http://www.loc.gov/resource/mfdip.2004sch07/", 
+            "http://www.loc.gov/item/mfdip.2004sch07/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "athanason, frank"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001678/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Colonel Frank Athanason", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4400377, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "seoul", 
+            "east asia", 
+            "eurasia", 
+            "washington", 
+            "athens", 
+            "pacific", 
+            "united states", 
+            "germany", 
+            "\"korea", 
+            "greece", 
+            "western hemisphere", 
+            "south"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001678", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001678/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001678/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011ath01", 
+            "http://www.loc.gov/resource/mfdip.2011ath01/", 
+            "http://www.loc.gov/item/mfdip.2011ath01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "charles stuart kennedy", 
+            "malloy, eileen a."
+        ], 
+        "latlong": "51.5072222222,-0.139722222222", 
+        "id": "http://www.loc.gov/item/mfdipbib001718/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Eileen A. Malloy", 
+        "coordinates": [
+            "51.5072222222,-0.139722222222"
+        ], 
+        "score": 3.4337230000000001, 
+        "lonlat": [
+            -0.13972222222200001, 
+            51.507222222199999
+        ], 
+        "location": [
+            "washington d.c.", 
+            "canada", 
+            "europe", 
+            "australia", 
+            "england", 
+            "sydney", 
+            "east asia", 
+            "eurasia", 
+            "new jersey", 
+            "moscow", 
+            "central asia", 
+            "dublin", 
+            "pacific", 
+            "united states", 
+            "ussr", 
+            "london", 
+            "ireland", 
+            "kyrgyz republic", 
+            "calgary", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2011-00-00", 
+        "shelf_id": "mfdipbib001718", 
+        "other_title": [], 
+        "dates": [
+            "2011-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001718/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001718/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2011mal01", 
+            "http://www.loc.gov/resource/mfdip.2011mal01/", 
+            "http://www.loc.gov/item/mfdip.2011mal01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "kattenberg, paul m."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000591/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "camp david", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Paul M. Kattenberg", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4077248999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "georgetown", 
+            "europe", 
+            "east asia", 
+            "eurasia", 
+            "philippines", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "germany", 
+            "manila", 
+            "guyana", 
+            "western hemisphere", 
+            "frankfurt"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "1990-06-18", 
+        "shelf_id": "mfdipbib000591", 
+        "other_title": [], 
+        "dates": [
+            "1990-06-18T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000591/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000591/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007kat01", 
+            "http://www.loc.gov/resource/mfdip.2007kat01/", 
+            "http://www.loc.gov/item/mfdip.2007kat01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "contributors": [
+        {
+            "charles stuart kennedy": "https://www.loc.gov/search/?fa=contributor%3Acharles+stuart+kennedy&fo=json"
+        }, 
+        {
+            "piez, william": "https://www.loc.gov/search/?fa=contributor%3Apiez%2C+william&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "41.6234356,-71.2272694", 
+    "display_offsite": true, 
+    "created_published": [
+        "2011"
+    ], 
+    "subjects": [
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2011pie01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001727/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2011pie01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "title": "Interview with William Piez", 
+    "coordinates": [
+        "41.6234356,-71.2272694"
+    ], 
+    "score": 8.3114270000000001, 
+    "lonlat": [
+        -71.227269399999997, 
+        41.623435600000001
+    ], 
+    "location": [
+        {
+            "afghanistan": "https://www.loc.gov/search/?fa=location%3Aafghanistan&fo=json"
+        }, 
+        {
+            "central asia": "https://www.loc.gov/search/?fa=location%3Acentral+asia&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "frankfurt": "https://www.loc.gov/search/?fa=location%3Afrankfurt&fo=json"
+        }, 
+        {
+            "germany": "https://www.loc.gov/search/?fa=location%3Agermany&fo=json"
+        }, 
+        {
+            "japan": "https://www.loc.gov/search/?fa=location%3Ajapan&fo=json"
+        }, 
+        {
+            "kabul": "https://www.loc.gov/search/?fa=location%3Akabul&fo=json"
+        }, 
+        {
+            "manila": "https://www.loc.gov/search/?fa=location%3Amanila&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "philippines": "https://www.loc.gov/search/?fa=location%3Aphilippines&fo=json"
+        }, 
+        {
+            "rhode island": "https://www.loc.gov/search/?fa=location%3Arhode+island&fo=json"
+        }, 
+        {
+            "tokyo": "https://www.loc.gov/search/?fa=location%3Atokyo&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399794640388096, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:35:20.857000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:49.722000Z", 
+    "date": "20110000", 
+    "shelf_id": "mfdipbib001727", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2011": "https://www.loc.gov/search/?dates=2011-2011&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001727/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001727/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2011pie01", 
+        "http://www.loc.gov/resource/mfdip.2011pie01/", 
+        "http://www.loc.gov/item/mfdip.2011pie01/"
+    ], 
+    "contributor_names": [
+        "Charles Stuart Kennedy (Interviewer)", 
+        "Piez, William (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.61512613296508789, 
+    "default_count": 25, 
+    "id": "mfdipbib001727/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001727/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2011pie01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2011/2011pie01/2011pie01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2011/2011pie01/2011pie01.pdf"
+    }
+]}

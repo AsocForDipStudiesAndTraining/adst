@@ -1,0 +1,1680 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Yates, K. (1997) <cite>Interview with Kenneth Yates</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001301/.", 
+    "mla": "Kennedy, Charles Stuart, and Kenneth Yates. <cite>Interview with Kenneth Yates</cite>. 1997. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001301/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Kenneth Yates. <cite>Interview with Kenneth Yates</cite>. 1997. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001301/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411789076,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -155.99555555555554, 
+                    19.640555555555554
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kailua Kona (Hawaii)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Kailua (Hawaii Island, Hawaii)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Kailua, Hawaii (Hawaii County)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79127916"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "9bd2e3f3a0f329f3", 
+                        "name": "Hawaii"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "510e8778961b3524", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    116.2173569, 
+                    40.319973699999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tailingcun", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/538004342"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Beijing", 
+                        "id": "9c85fe0f3d559991", 
+                        "name": "Beijing"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "China CHN People's Republic of China", 
+                        "id": "a22ac1c431ee3c8a", 
+                        "name": "China"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "96bd2395c2df3813", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.69166666666666, 
+                    35.68944444444444
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tokyo (Japan)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dongjing (Japan)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79034998"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Japan JPN", 
+                        "id": "b0be89ea8dea3f25", 
+                        "name": "Japan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Edo|Yedo|Tokio|T\u00a2quio", 
+                        "id": "27adec74640ad903", 
+                        "name": "Tokyo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c0226941a4d79e0a", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    69.162430200000003, 
+                    34.519705799999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kabul", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u06a9\u0627\u0628\u0644"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "K\u00e1bul"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u06a9\u0627\u0628\u0644"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Kaboul"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e7\u05d1\u05d5\u05dc"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Kab\u00fal"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Kab\u00fbl"
+                    }, 
+                    {
+                        "lang": "lb", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0430\u0431\u0443\u043b"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "K\u00e1bul"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Kabul"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/21716195"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Cabul|Kabol|Kaboul", 
+                        "id": "1a447951ba489d82", 
+                        "name": "Kabul"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Afg. AFG Islamic State of Afghanistan", 
+                        "id": "a15f983b4f19f972", 
+                        "name": "Afghanistan"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "70d89c408ae260bf", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -21.699999999999999, 
+                    64.166669999999996
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mosfellsb\u00e6r", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/3415021"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Iceland ISL Republic of Iceland", 
+                        "id": "27622051502dc1ef", 
+                        "name": "Iceland"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Capital|Reykjavik and Reykjane", 
+                        "id": "554d1a6940b5a881", 
+                        "name": "H\u00f6fu\u00f0borgarsv\u00e6\u00f0i"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c3dd9d72e40ef32d", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "contributor": [
+            "dunn, robert lee"
+        ], 
+        "id": "http://www.loc.gov/item/2005679326/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 8631", 
+            "catalog"
+        ], 
+        "subject": [
+            "russo-japanese war", 
+            "diplomacy", 
+            "russian", 
+            "korea", 
+            "seoul", 
+            "diplomats", 
+            "group portraits", 
+            "photographic prints", 
+            "portrait photographs"
+        ], 
+        "index": 1, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Russian Minister Pavlov and Mrs. Pavlov on Legation grounds at Seoul]", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.27391893, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print."
+        ], 
+        "timestamp": "2016-07-19T23:10:03.535000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:36.404000Z", 
+        "date": "1904", 
+        "shelf_id": "LOT 8631, no. 16 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1904-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2005679326/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155_150px.jpg#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155t.gif#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155r.jpg#h=491&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155v.jpg#h=786&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2005679326/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3a30996", 
+            "http://www.loc.gov/item/2005679326/", 
+            "http://www.loc.gov/pictures/item/2005679326/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.08155", 
+            "http://www.loc.gov/resource/ppmsca.08155/", 
+            "http://www.loc.gov/resource/cph.3a30996/", 
+            "http://lccn.loc.gov/2005679326"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "40.3199737,116.2173569", 
+        "contributor": [
+            "haskins, thomas wilson", 
+            "workman, elizabeth haskins"
+        ], 
+        "id": "http://lccn.loc.gov/2012646613", 
+        "partof": [
+            "asian division", 
+            "catalog"
+        ], 
+        "subject": [
+            "workman, elizabeth", 
+            "haskins, thomas wilson", 
+            "conger, edwin h.", 
+            "(edwin hurd)", 
+            "miles, nelson appleton", 
+            "coolidge, john gardner", 
+            "cixi", 
+            "empress dowager of china", 
+            "americans", 
+            "social life", 
+            "china", 
+            "beijing", 
+            "city & town life", 
+            "streets", 
+            "temples", 
+            "diplomats", 
+            "american", 
+            "consulates", 
+            "historic sites", 
+            "executions", 
+            "houses", 
+            "gardens", 
+            "korea", 
+            "seoul", 
+            "torii", 
+            "japan"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Scenes of China, 1902-1908", 
+        "coordinates": [
+            "40.3199737,116.2173569"
+        ], 
+        "score": 0.24429313999999999, 
+        "lonlat": [
+            116.2173569, 
+            40.319973699999998
+        ], 
+        "location": [
+            "beijing", 
+            "korea", 
+            "china", 
+            "seoul", 
+            "japan"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Photographs depict the life of Thomas Wilson Haskins, Assistant Chinese Secretary of the American Legation, and his wife Elizabeth Gowan Haskins, mostly in Peking (Bejing), China. Photographs include numerous images of American and other legation staff activities such as picnics, swimming, dinners, visits to historic sites, and football games. In Peking are shown: street scenes, a camel caravan outside the city walls, the dedication of a gate to Clemens von Ketteler (German diplomat killed in Boxer Rebellion),  street barbers, the American Methodist hospital, the Yellow Temple, a funeral procession, the \"Tartar\" wall, Canal Street, Legation street, an execution of a criminal, a bronze prayer wheel, masked ceremonial dancers in the courtyard of the Lama Temple (Yonghe Temple), the Temple of Confucius,  the Haskins' homes, the American Legation building, the Temple of Heaven and the Altar of Heaven, dedication of the Italian church, the American Embassy with staff in front, and a spring race meet in 1908. Other locations in China shown are the \"Avenue of stone animals\" leading to the Ming tombs, the gulf of \"Pei-Chili\" at Newchuang (Niuzhuang), the summer home of the Haskins at Rock Point, \"Peitaiko\" (Beidaiche); Port Arthur and  possibly Tianjin (Tientsin).   Places outside China include: \"Lotus Lake\" in the Imperial Gardens, Seoul, Korea; and tori gates and temples at \"Miajima\" (Miyajima), Japan. People depicted include Thomas Wilson Haskins, Elizabeth Gowan Haskins and other members of the American Legation such as  U.S. Minister to China, Edwin Hurd Conger and his wife Alice Pike Conger; John Gardner Coolidge, first secretary of the American Legation; Julian Arnold, and student interpreters including  Percival S. Heintzleman; Marine officer Thomas Holcombe and Captain Melbourne, members of the U.S. Legation Guard.  Also shown are the Empress Dowager Tzu Hsi (Cixi) with the imperial princesses; Alice Roosevelt Longworth arriving at Tsientsin, General Nelson A. Miles; the Italian charge\u0301 d'affaires Prince Livio Borghese and his wife Princess Borghese; Chinese teachers of the Americans including \"Wei\"(?) Haskin's first teacher; and Miss Daisy Rockhill.  Includes one portrait postcard of five Chinese priests (?) by Japanese photographer S. Yamamoto."
+        ], 
+        "timestamp": "2015-05-17T09:29:32.834000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-17T07:39:49.155000Z", 
+        "date": "1902", 
+        "shelf_id": "Item in Thomas Wilson Haskins Collection [Tibetan cage]", 
+        "other_title": [], 
+        "dates": [
+            "1902-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2012646613", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/resource/asian0001.201204180001page/", 
+            "http://www.loc.gov/resource/asian0001.201204180001pdf/", 
+            "http://lccn.loc.gov/2012646613", 
+            "http://www.loc.gov/item/2012646613/", 
+            "http://hdl.loc.gov/loc.asian/asian0001.201204180001page", 
+            "http://hdl.loc.gov/loc.asian/asian0001.201204180001pdf"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "keystone view company"
+        ], 
+        "latlong": "64.1473169,-21.9399487", 
+        "id": "http://www.loc.gov/item/89707373/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "springs", 
+            "iceland", 
+            "reykjav\u00edk", 
+            "laundry", 
+            "women", 
+            "domestic life", 
+            "stereographs"
+        ], 
+        "index": 3, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Where Iceland women wash their clothes, hot springs, Reykjavik, Iceland", 
+        "coordinates": [
+            "64.1473169,-21.9399487"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22470887, 
+        "lonlat": [
+            -21.939948699999999, 
+            64.147316900000007
+        ], 
+        "location": [
+            "iceland", 
+            "reykjav\u00edk"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photoprint : stereograph. | Group of women posed beside covered spring with men posed behind them."
+        ], 
+        "timestamp": "2015-05-16T17:14:23.100000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:38.149000Z", 
+        "date": "1926", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Iceland <item> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1926-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/89707373/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b42000/3b42300/3b42397_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b42000/3b42300/3b42397t.gif#h=150&w=125", 
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b42000/3b42300/3b42397r.jpg#h=640&w=535"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/89707373/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/89707373/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3b42397", 
+            "http://www.loc.gov/item/89707373/", 
+            "http://www.loc.gov/resource/cph.3b42397/", 
+            "http://lccn.loc.gov/89707373"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "keystone view company"
+        ], 
+        "latlong": "64.1473169,-21.9399487", 
+        "id": "http://www.loc.gov/item/89707379/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "plazas", 
+            "iceland", 
+            "reykjav\u00edk", 
+            "stereographs"
+        ], 
+        "index": 4, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Public square, Reykjavik, Iceland", 
+        "coordinates": [
+            "64.1473169,-21.9399487"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22470887, 
+        "lonlat": [
+            -21.939948699999999, 
+            64.147316900000007
+        ], 
+        "location": [
+            "iceland", 
+            "reykjav\u00edk"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photoprint : stereograph. | Monument in middle of square, dwellings in background."
+        ], 
+        "timestamp": "2015-05-16T17:14:23.100000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:38.149000Z", 
+        "date": "1926", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Iceland <item> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1926-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/89707379/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b42000/3b42300/3b42398_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b42000/3b42300/3b42398t.gif#h=150&w=135", 
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b42000/3b42300/3b42398r.jpg#h=640&w=578"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/89707379/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/89707379/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3b42398", 
+            "http://www.loc.gov/item/89707379/", 
+            "http://www.loc.gov/resource/cph.3b42398/", 
+            "http://lccn.loc.gov/89707379"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "64.1473169,-21.9399487", 
+        "id": "http://www.loc.gov/item/92500051/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 9610", 
+            "catalog"
+        ], 
+        "subject": [
+            "reykjav\u00edk (iceland)", 
+            "cityscape photographs", 
+            "photographic prints"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Reykjav\u00edk, panorama", 
+        "coordinates": [
+            "64.1473169,-21.9399487"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22470887, 
+        "lonlat": [
+            -21.939948699999999, 
+            64.147316900000007
+        ], 
+        "location": [
+            "iceland", 
+            "reykjav\u00edk"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print."
+        ], 
+        "timestamp": "2016-07-20T00:54:25.764000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:03:32.517000Z", 
+        "date": "1938", 
+        "shelf_id": "LOT 9610 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1938-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/92500051/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b41000/3b41200/3b41268_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/92500051/", 
+            "http://www.loc.gov/item/92500051/", 
+            "http://www.loc.gov/pictures/item/92500051/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3b41268", 
+            "http://www.loc.gov/resource/cph.3b41268/", 
+            "http://lccn.loc.gov/92500051"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "64.1473169,-21.9399487", 
+        "id": "http://www.loc.gov/item/92500052/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 9610", 
+            "catalog"
+        ], 
+        "subject": [
+            "ships", 
+            "american", 
+            "iceland", 
+            "reykjav\u00edk", 
+            "photographic prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Reliance in Reykjav\u00edk", 
+        "coordinates": [
+            "64.1473169,-21.9399487"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22470887, 
+        "lonlat": [
+            -21.939948699999999, 
+            64.147316900000007
+        ], 
+        "location": [
+            "iceland", 
+            "reykjav\u00edk"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print. | 7 people in foreground with ship and mountain in background."
+        ], 
+        "timestamp": "2016-07-20T00:54:25.764000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:03:32.517000Z", 
+        "date": "1938", 
+        "shelf_id": "LOT 9610 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1938-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/92500052/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3b40000/3b41000/3b41200/3b41269_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/92500052/", 
+            "http://www.loc.gov/item/92500052/", 
+            "http://www.loc.gov/pictures/item/92500052/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3b41269", 
+            "http://www.loc.gov/resource/cph.3b41269/", 
+            "http://lccn.loc.gov/92500052"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "schoonover, david m."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001451/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with David M. Schoonover", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.9320845999999996, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "beijing", 
+            "europe", 
+            "reykjavik", 
+            "seoul", 
+            "east asia", 
+            "eurasia", 
+            "iceland", 
+            "moscow", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "ussr", 
+            "china", 
+            "\"korea", 
+            "western hemisphere", 
+            "south"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2004-02-09", 
+        "shelf_id": "mfdipbib001451", 
+        "other_title": [], 
+        "dates": [
+            "2004-02-09T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001451/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001451/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007sch03", 
+            "http://www.loc.gov/resource/mfdip.2007sch03/", 
+            "http://www.loc.gov/item/mfdip.2007sch03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "griffin, george g."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001355/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with George G. B. Griffin", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.1096525000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "pakistan", 
+            "eurasia", 
+            "india", 
+            "pacific", 
+            "united states", 
+            "milan", 
+            "lagos", 
+            "colombo", 
+            "central asia", 
+            "kenya", 
+            "afghanistan", 
+            "italy", 
+            "europe", 
+            "kabul", 
+            "\"korea", 
+            "lahore", 
+            "nigeria", 
+            "naples", 
+            "washington d.c.", 
+            "seoul", 
+            "washington", 
+            "east asia", 
+            "islamabad", 
+            "western hemisphere", 
+            "africa", 
+            "sri lanka", 
+            "calcutta", 
+            "nairobi", 
+            "south"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2002-04-30", 
+        "shelf_id": "mfdipbib001355", 
+        "other_title": [], 
+        "dates": [
+            "2002-04-30T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001355/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001355/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007gri01", 
+            "http://www.loc.gov/resource/mfdip.2007gri01/", 
+            "http://www.loc.gov/item/mfdip.2007gri01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "lindstrom, ralph e."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib000695/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "united states. arms control and disarmament agency", 
+            "kremlin (moscow, russia)", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ralph E. Lindstrom", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 3.6523523, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "afghanistan", 
+            "saudi arabia", 
+            "east asia", 
+            "eurasia", 
+            "paris", 
+            "near east", 
+            "moscow", 
+            "europe", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "kabul", 
+            "china", 
+            "central asia", 
+            "western hemisphere", 
+            "hong kong", 
+            "dhahran", 
+            "soviet union"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1994-10-28", 
+        "shelf_id": "mfdipbib000695", 
+        "other_title": [], 
+        "dates": [
+            "1994-10-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000695/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000695/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004lin03", 
+            "http://www.loc.gov/resource/mfdip.2004lin03/", 
+            "http://www.loc.gov/item/mfdip.2004lin03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "wright, mary annette \"ann\""
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001489/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Mary Annette \"Ann\" Wright", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4713446999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "washington", 
+            "pacific", 
+            "uzbekistan", 
+            "mongolia", 
+            "central asia", 
+            "nicaragua", 
+            "afghanistan", 
+            "managua", 
+            "micronesia", 
+            "kabul", 
+            "somalia", 
+            "kyrgyz republic", 
+            "sierra leone", 
+            "washington d.c.", 
+            "tashkent", 
+            "africa", 
+            "bishkek", 
+            "ulaanbaatar", 
+            "united states", 
+            "east asia", 
+            "freetown", 
+            "hawaii", 
+            "palikir", 
+            "western hemisphere", 
+            "st. george", 
+            "grenada"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "1998-01-06", 
+        "shelf_id": "mfdipbib001489", 
+        "other_title": [], 
+        "dates": [
+            "1998-01-06T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001489/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001489/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007wri02", 
+            "http://www.loc.gov/resource/mfdip.2007wri02/", 
+            "http://www.loc.gov/item/mfdip.2007wri02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "gordon, edgar j."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000433/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. agency for international development", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Edgar J. Gordon", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.3751015999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "europe", 
+            "korea", 
+            "seoul", 
+            "east asia", 
+            "eurasia", 
+            "paris", 
+            "buenos aires", 
+            "washington", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "new york", 
+            "china", 
+            "western hemisphere", 
+            "argentina", 
+            "hong kong", 
+            "vietnam"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1997-02-10", 
+        "shelf_id": "mfdipbib000433", 
+        "other_title": [], 
+        "dates": [
+            "1997-02-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000433/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000433/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004gor03", 
+            "http://www.loc.gov/resource/mfdip.2004gor03/", 
+            "http://www.loc.gov/item/mfdip.2004gor03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "lee, edward l."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001582/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Edward L. Lee", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.2944715000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "europe", 
+            "seoul", 
+            "east asia", 
+            "eurasia", 
+            "panama", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "western hemisphere", 
+            "\"korea", 
+            "thailand", 
+            "panama city", 
+            "cyprus", 
+            "nicosia", 
+            "south"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001582", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001582/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001582/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010lee01", 
+            "http://www.loc.gov/resource/mfdip.2010lee01/", 
+            "http://www.loc.gov/item/mfdip.2010lee01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "yates, kenneth": "https://www.loc.gov/search/?fa=contributor%3Ayates%2C+kenneth&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "United States. Agency for International Development", 
+        "United States. Arms Control and Disarmament Agency", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "United States -- Hawaii", 
+        "China -- Beijing", 
+        "Japan -- Tokyo", 
+        "Afghanistan -- Kabul", 
+        "Iceland -- Reykjavik", 
+        "\"Korea, South\" -- Seoul", 
+        "Europe and Eurasia", 
+        "South and Central Asia", 
+        "Western Hemisphere", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "March 20, 1997"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004yat01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001301/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "united states. agency for international development", 
+        "united states. arms control and disarmament agency", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004yat01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 7.4752809999999998, 
+    "title": "Interview with Kenneth Yates ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "united states. agency for international development": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+agency+for+international+development&fo=json"
+        }, 
+        {
+            "united states. arms control and disarmament agency": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+arms+control+and+disarmament+agency&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "\"korea": "https://www.loc.gov/search/?fa=location%3A%22korea&fo=json"
+        }, 
+        {
+            "afghanistan": "https://www.loc.gov/search/?fa=location%3Aafghanistan&fo=json"
+        }, 
+        {
+            "beijing": "https://www.loc.gov/search/?fa=location%3Abeijing&fo=json"
+        }, 
+        {
+            "central asia": "https://www.loc.gov/search/?fa=location%3Acentral+asia&fo=json"
+        }, 
+        {
+            "china": "https://www.loc.gov/search/?fa=location%3Achina&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "hawaii": "https://www.loc.gov/search/?fa=location%3Ahawaii&fo=json"
+        }, 
+        {
+            "iceland": "https://www.loc.gov/search/?fa=location%3Aiceland&fo=json"
+        }, 
+        {
+            "japan": "https://www.loc.gov/search/?fa=location%3Ajapan&fo=json"
+        }, 
+        {
+            "kabul": "https://www.loc.gov/search/?fa=location%3Akabul&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "reykjavik": "https://www.loc.gov/search/?fa=location%3Areykjavik&fo=json"
+        }, 
+        {
+            "seoul": "https://www.loc.gov/search/?fa=location%3Aseoul&fo=json"
+        }, 
+        {
+            "south": "https://www.loc.gov/search/?fa=location%3Asouth&fo=json"
+        }, 
+        {
+            "tokyo": "https://www.loc.gov/search/?fa=location%3Atokyo&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399680053051392, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:28.842000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+    "date": "19970320", 
+    "shelf_id": "mfdipbib001301", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1997": "https://www.loc.gov/search/?dates=1997-1997&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001301/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001301/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004yat01", 
+        "http://www.loc.gov/resource/mfdip.2004yat01/", 
+        "http://www.loc.gov/item/mfdip.2004yat01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Yates, Kenneth (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.58719706535339355, 
+    "default_count": 25, 
+    "id": "mfdipbib001301/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001301/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004yat01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004yat01/2004yat01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004yat01/2004yat01.pdf"
+    }
+]}

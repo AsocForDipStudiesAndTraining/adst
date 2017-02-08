@@ -1,0 +1,1661 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Dunnigan, T. J. &amp; Geber, A. (1993) <cite>Interview with Anthony Geber</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000412/.", 
+    "mla": "Dunnigan, Thomas J, and Anthony Geber. <cite>Interview with Anthony Geber</cite>. 1993. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000412/&gt;.", 
+    "chicago": "Dunnigan, Thomas J, and Anthony Geber. <cite>Interview with Anthony Geber</cite>. 1993. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000412/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412648398,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.69638888888889, 
+                    41.774999999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Chicago Lawn (Chicago, Ill.)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Chicago (Ill.). Chicago Lawn"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n97042884"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "53f4c0764e2a90d1", 
+                        "name": "Illinois"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "d990a30704438c49", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.3213888888888885, 
+                    48.843055555555559
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Montparnasse (Paris, France)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Quartier du Montparnasse (Paris, France)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Paris. Montparnasse"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n82144259"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Fr. FRA French Republic", 
+                        "id": "83c7499f1fd87361", 
+                        "name": "France"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "c2630b5cd7ca7888", 
+                        "name": "\u00cele-de-France"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b2042e1effd4d1cc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    16.366666666666667, 
+                    48.25
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Heiligenstadt (Vienna, Austria)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Heiligenstadt, Austria (Vienna)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Heiligenstadt, Austria (Vienna)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83133569"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Aust. AUT Republic of Austria", 
+                        "id": "2b9020b37b1c4990", 
+                        "name": "Austria"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Vienna|Viena", 
+                        "id": "0aa296b7adb26dea", 
+                        "name": "Wien"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "263c03140ff8bbac", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    8.5166666666666675, 
+                    8.3166666666666664
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Benue State (Nigeria)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Benue (Nigeria : State)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n78019443"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "e812595405fa7a17", 
+                        "name": "Nassarawa"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Nigeria NGA Federal Republic of Nigeria", 
+                        "id": "1010a735276da5e5", 
+                        "name": "Nigeria"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ab54da901992e1ac", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    19.083333333333332, 
+                    47.5
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Budapest (Hungary)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Voudapest\u0113 (Hungary)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79091691"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Hun. HUN Republic of Hungary", 
+                        "id": "cc044b2c642853a8", 
+                        "name": "Hungary"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Budapeste", 
+                        "id": "c6610680886e8ed8", 
+                        "name": "Budapest"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "0ac37e235de5f059", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    126.99972222222222, 
+                    37.566388888888888
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Seoul (Korea)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Kiung (Korea)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79066627"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Keijo|S\u00e9oul|Seul|Se\u00fal|S\u00f6ul|Soul-t'ukpyolsi", 
+                        "id": "2a9f1e236c362643", 
+                        "name": "Seoul"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Republic of Korea Korea, Rep. S.K. KOR Republic of Korea", 
+                        "id": "3557ecefb915dbc5", 
+                        "name": "Korea"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "8af06e20b26b500f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.82944444444443, 
+                    -6.1744444444444451
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Jakarta (Indonesia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Yajiada (Indonesia)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80073867"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Jawa|Djakarta", 
+                        "id": "6301889e472ef239", 
+                        "name": "Jakarta Raya"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Indo. IDN Republic of Indonesia", 
+                        "id": "f089542df39fb9f8", 
+                        "name": "Indonesia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "e5ddcc4a73093cba", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "37.5663888889,126.999722222", 
+        "contributor": [
+            "dunn, robert lee"
+        ], 
+        "id": "http://www.loc.gov/item/2005679326/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 8631", 
+            "catalog"
+        ], 
+        "subject": [
+            "russo-japanese war", 
+            "diplomacy", 
+            "russian", 
+            "korea", 
+            "seoul", 
+            "diplomats", 
+            "group portraits", 
+            "photographic prints", 
+            "portrait photographs"
+        ], 
+        "index": 1, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Russian Minister Pavlov and Mrs. Pavlov on Legation grounds at Seoul]", 
+        "coordinates": [
+            "37.5663888889,126.999722222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.28126570000000001, 
+        "lonlat": [
+            126.999722222, 
+            37.566388888900001
+        ], 
+        "location": [
+            "korea", 
+            "seoul"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print."
+        ], 
+        "timestamp": "2016-07-19T23:10:03.535000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:36.404000Z", 
+        "date": "1904", 
+        "shelf_id": "LOT 8631, no. 16 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1904-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2005679326/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155_150px.jpg#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155t.gif#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155r.jpg#h=491&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/08100/08155v.jpg#h=786&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2005679326/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3a30996", 
+            "http://www.loc.gov/item/2005679326/", 
+            "http://www.loc.gov/pictures/item/2005679326/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.08155", 
+            "http://www.loc.gov/resource/ppmsca.08155/", 
+            "http://www.loc.gov/resource/cph.3a30996/", 
+            "http://lccn.loc.gov/2005679326"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "bartis, peter", 
+            "kontaxis, angelos g."
+        ], 
+        "latlong": "41.775,-87.6963888889", 
+        "id": "http://www.loc.gov/item/afc1981004_afs20526a/", 
+        "partof": [
+            "american folklife center", 
+            "chicago ethnic arts project collection"
+        ], 
+        "subject": [
+            "greek americans", 
+            "ethnography", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "afc1981004", 
+            "chicago-ethnic-arts-project"
+        ], 
+        "title": "Interview with Angelos G. Kontaxis about the Greek-American community, part 1", 
+        "coordinates": [
+            "41.775,-87.6963888889"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.19565505999999999, 
+        "lonlat": [
+            -87.696388888900003, 
+            41.774999999999999
+        ], 
+        "location": [
+            "chicago", 
+            "illinois"
+        ], 
+        "mime_type": [
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-10-27T12:30:23.045000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-10-27T12:28:47.173000Z", 
+        "date": "1977-04-20", 
+        "shelf_id": "AFC 1981/004: AFS 20526a RYA 0603 CH77-T003-C", 
+        "other_title": [], 
+        "dates": [
+            "1977-04-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc1981004_afs20526a/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afc1981004_afs20526a/", 
+            "http://www.loc.gov/resource/afc1981004.afc1981004_afs20526_01/", 
+            "http://www.loc.gov/item/afc1981004.afc1981004_afs20526_01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "bartis, peter", 
+            "kontaxis, angelos g."
+        ], 
+        "latlong": "41.775,-87.6963888889", 
+        "id": "http://www.loc.gov/item/afc1981004_afs20526b/", 
+        "partof": [
+            "american folklife center", 
+            "chicago ethnic arts project collection"
+        ], 
+        "subject": [
+            "greek americans", 
+            "ethnography", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "afc1981004", 
+            "chicago-ethnic-arts-project"
+        ], 
+        "title": "Interview with Angelos G. Kontaxis about the Greek-American community, part 2", 
+        "coordinates": [
+            "41.775,-87.6963888889"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.19565505999999999, 
+        "lonlat": [
+            -87.696388888900003, 
+            41.774999999999999
+        ], 
+        "location": [
+            "chicago", 
+            "illinois"
+        ], 
+        "mime_type": [
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-10-27T12:30:23.045000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-10-27T12:28:47.173000Z", 
+        "date": "1977-04-20", 
+        "shelf_id": "RYA 0603 CH77-T003-C AFC 1981/004: AFS 20526b", 
+        "other_title": [], 
+        "dates": [
+            "1977-04-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc1981004_afs20526b/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afc1981004_afs20526b/", 
+            "http://www.loc.gov/resource/afc1981004.afc1981004_afs20526_02/", 
+            "http://www.loc.gov/item/afc1981004.afc1981004_afs20526_02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "bartis, peter", 
+            "litsas, fotis"
+        ], 
+        "latlong": "41.775,-87.6963888889", 
+        "id": "http://www.loc.gov/item/afc1981004_afs20527a/", 
+        "partof": [
+            "american folklife center", 
+            "chicago ethnic arts project collection"
+        ], 
+        "subject": [
+            "greek americans", 
+            "ethnography", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "afc1981004", 
+            "chicago-ethnic-arts-project"
+        ], 
+        "title": "Interview with Fostis Listas, part 1", 
+        "coordinates": [
+            "41.775,-87.6963888889"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.19565505999999999, 
+        "lonlat": [
+            -87.696388888900003, 
+            41.774999999999999
+        ], 
+        "location": [
+            "chicago", 
+            "illinois"
+        ], 
+        "mime_type": [
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-10-27T12:30:23.045000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-10-27T12:28:47.173000Z", 
+        "date": "1977-04-20", 
+        "shelf_id": "AFC 1981/004: AFS 20527a RYA 0604 CH77-T004-C", 
+        "other_title": [], 
+        "dates": [
+            "1977-04-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc1981004_afs20527a/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afc1981004_afs20527a/", 
+            "http://www.loc.gov/resource/afc1981004.afc1981004_afs20527_01/", 
+            "http://www.loc.gov/item/afc1981004.afc1981004_afs20527_01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "bartis, peter", 
+            "litsas, fotis"
+        ], 
+        "latlong": "41.775,-87.6963888889", 
+        "id": "http://www.loc.gov/item/afc1981004_afs20527b/", 
+        "partof": [
+            "american folklife center", 
+            "chicago ethnic arts project collection"
+        ], 
+        "subject": [
+            "greek americans", 
+            "ethnography", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "afc1981004", 
+            "chicago-ethnic-arts-project"
+        ], 
+        "title": "Interview with Fostis Listas, part 2", 
+        "coordinates": [
+            "41.775,-87.6963888889"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.19565505999999999, 
+        "lonlat": [
+            -87.696388888900003, 
+            41.774999999999999
+        ], 
+        "location": [
+            "chicago", 
+            "illinois"
+        ], 
+        "mime_type": [
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-10-27T12:30:23.045000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-10-27T12:28:47.173000Z", 
+        "date": "1977-04-20", 
+        "shelf_id": "RYA 0604 CH77-T004-C AFC 1981/004: AFS 20527b", 
+        "other_title": [], 
+        "dates": [
+            "1977-04-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afc1981004_afs20527b/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afc1981004_afs20527b/", 
+            "http://www.loc.gov/resource/afc1981004.afc1981004_afs20527_02/", 
+            "http://www.loc.gov/item/afc1981004.afc1981004_afs20527_02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "bartis, peter", 
+            "apostolopoulas, mrs", 
+            "mouflouzelis, pope, mrs", 
+            "stanis, marie", 
+            "klinakis, chrisy", 
+            "papadopouls, vicky", 
+            "poulos, mrs. despo"
+        ], 
+        "latlong": "41.775,-87.6963888889", 
+        "id": "http://www.loc.gov/item/afc1981004_afs20528a/", 
+        "partof": [
+            "american folklife center", 
+            "chicago ethnic arts project collection"
+        ], 
+        "subject": [
+            "greek americans", 
+            "ethnography", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "afc1981004", 
+            "chicago-ethnic-arts-project"
+        ], 
+        "title": "An open recording during a display of needlework arranged by Mrs. Apostolopoulas for the fieldworkers benefit at Yarn and Canvas LTD, part 1", 
+        "coordinates": [
+            "41.775,-87.6963888889"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.19565505999999999, 
+        "lonlat": [
+            -87.696388888900003, 
+            41.774999999999999
+        ], 
+        "location": [
+            "chicago", 
+            "illinois"
+        ], 
+        "mime_type": [
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-10-27T12:30:23.045000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-10-27T12:28:47.173000Z", 
+        "date": "1977-04-21", 
+        "shelf_id": "AFC 1981/004: AFS 20528a RYA 0605 CH77-T005-C", 
+        "other_title": [], 
+        "dates": [
+            "1977-04-21T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "greek"
+        ], 
+        "url": "https://www.loc.gov/item/afc1981004_afs20528a/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afc1981004_afs20528a/", 
+            "http://www.loc.gov/resource/afc1981004.afc1981004_afs20528_01/", 
+            "http://www.loc.gov/item/afc1981004.afc1981004_afs20528_01/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "stahnke, paul k."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001115/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Paul K. Stahnke", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4022996000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "japan", 
+            "copenhagen", 
+            "venice", 
+            "italy", 
+            "paris", 
+            "france", 
+            "somalia", 
+            "washington d.c.", 
+            "africa", 
+            "bangkok", 
+            "germany", 
+            "hamburg", 
+            "thailand", 
+            "east asia", 
+            "tokyo", 
+            "denmark", 
+            "mogadishu"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1994-06-01", 
+        "shelf_id": "mfdipbib001115", 
+        "other_title": [], 
+        "dates": [
+            "1994-06-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001115/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001115/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004sta02", 
+            "http://www.loc.gov/resource/mfdip.2004sta02/", 
+            "http://www.loc.gov/item/mfdip.2004sta02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "dunnigan, thomas j.", 
+            "wyman, parker d."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001297/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "labor officers", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Parker D. Wyman", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.2612378999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "addis ababa", 
+            "eurasia", 
+            "egypt", 
+            "cairo", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "milan", 
+            "lagos", 
+            "italy", 
+            "ethiopia", 
+            "nigeria", 
+            "near east", 
+            "tay ninh city", 
+            "washington d.c.", 
+            "africa", 
+            "berlin", 
+            "germany", 
+            "east asia", 
+            "dusseldorf", 
+            "vietnam", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "1989-03-13", 
+        "shelf_id": "mfdipbib001297", 
+        "other_title": [], 
+        "dates": [
+            "1989-03-13T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001297/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001297/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004wym01", 
+            "http://www.loc.gov/resource/mfdip.2004wym01/", 
+            "http://www.loc.gov/item/mfdip.2004wym01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "tanen, ted m.g."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib001463/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ted M.G. Tanen", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 3.0563376, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "burma", 
+            "rangoon", 
+            "budapest", 
+            "east asia", 
+            "eurasia", 
+            "paris", 
+            "africa", 
+            "europe", 
+            "vientiane", 
+            "pacific", 
+            "france", 
+            "tunisia", 
+            "senegal", 
+            "lagos", 
+            "tunis", 
+            "laos", 
+            "dakar", 
+            "hungary", 
+            "nigeria", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2000-09-21", 
+        "shelf_id": "mfdipbib001463", 
+        "other_title": [], 
+        "dates": [
+            "2000-09-21T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001463/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001463/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007tan01", 
+            "http://www.loc.gov/resource/mfdip.2007tan01/", 
+            "http://www.loc.gov/item/mfdip.2007tan01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "rich, robert g., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000972/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert G. Rich Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.0419896, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "georgia", 
+            "seoul", 
+            "east asia", 
+            "jakarta", 
+            "philippines", 
+            "indonesia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "korea", 
+            "western hemisphere", 
+            "manila", 
+            "atlanta", 
+            "belize", 
+            "medan"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1994", 
+        "shelf_id": "mfdipbib000972", 
+        "other_title": [], 
+        "dates": [
+            "1994-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000972/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000972/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ric02", 
+            "http://www.loc.gov/resource/mfdip.2004ric02/", 
+            "http://www.loc.gov/item/mfdip.2004ric02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "thompson, ward"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001469/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ward Thompson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.7904673, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "eurasia", 
+            "seoul", 
+            "east asia", 
+            "helsinki", 
+            "denmark", 
+            "finland", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "sweden", 
+            "western hemisphere", 
+            "\"korea", 
+            "copenhagen", 
+            "south", 
+            "gothenburg"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "1999-02-04", 
+        "shelf_id": "mfdipbib001469", 
+        "other_title": [], 
+        "dates": [
+            "1999-02-04T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001469/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001469/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007tho04", 
+            "http://www.loc.gov/resource/mfdip.2007tho04/", 
+            "http://www.loc.gov/item/mfdip.2007tho04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "dunnigan, thomas j.", 
+            "rushing, charles e."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001003/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "united states. agency for international development", 
+            "protection and welfare", 
+            "labor officers", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Charles E. Rushing", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.7704070000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "salisbury", 
+            "asmara", 
+            "copenhagen", 
+            "southern rhodesia", 
+            "vientiane", 
+            "ethiopia", 
+            "ireland", 
+            "laos", 
+            "washington d.c.", 
+            "geneva", 
+            "eritrea", 
+            "africa", 
+            "virginia", 
+            "liberia", 
+            "norfolk", 
+            "east asia", 
+            "denmark", 
+            "dublin", 
+            "monrovia", 
+            "switzerland"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1996-07-02", 
+        "shelf_id": "mfdipbib001003", 
+        "other_title": [], 
+        "dates": [
+            "1996-07-02T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001003/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001003/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004rus01", 
+            "http://www.loc.gov/resource/mfdip.2004rus01/", 
+            "http://www.loc.gov/item/mfdip.2004rus01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "dunnigan, thomas j.": "https://www.loc.gov/search/?fa=contributor%3Adunnigan%2C+thomas+j.&fo=json"
+        }, 
+        {
+            "geber, anthony": "https://www.loc.gov/search/?fa=contributor%3Ageber%2C+anthony&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "General Agreement on Tariffs and Trade", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "United States -- Illinois -- Chicago", 
+        "France -- Paris", 
+        "Austria -- Vienna", 
+        "Nigeria", 
+        "Hungary -- Budapest", 
+        "Korea -- Seoul", 
+        "Indonesia -- Jakarta", 
+        "Europe and Eurasia", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "August 24, 1993"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004geb01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000412/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "general agreement on tariffs and trade", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004geb01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.9655869999999993, 
+    "title": "Interview with Anthony Geber ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "general agreement on tariffs and trade": "https://www.loc.gov/search/?fa=subject%3Ageneral+agreement+on+tariffs+and+trade&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "austria": "https://www.loc.gov/search/?fa=location%3Aaustria&fo=json"
+        }, 
+        {
+            "budapest": "https://www.loc.gov/search/?fa=location%3Abudapest&fo=json"
+        }, 
+        {
+            "chicago": "https://www.loc.gov/search/?fa=location%3Achicago&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "france": "https://www.loc.gov/search/?fa=location%3Afrance&fo=json"
+        }, 
+        {
+            "hungary": "https://www.loc.gov/search/?fa=location%3Ahungary&fo=json"
+        }, 
+        {
+            "illinois": "https://www.loc.gov/search/?fa=location%3Aillinois&fo=json"
+        }, 
+        {
+            "indonesia": "https://www.loc.gov/search/?fa=location%3Aindonesia&fo=json"
+        }, 
+        {
+            "jakarta": "https://www.loc.gov/search/?fa=location%3Ajakarta&fo=json"
+        }, 
+        {
+            "korea": "https://www.loc.gov/search/?fa=location%3Akorea&fo=json"
+        }, 
+        {
+            "nigeria": "https://www.loc.gov/search/?fa=location%3Anigeria&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "paris": "https://www.loc.gov/search/?fa=location%3Aparis&fo=json"
+        }, 
+        {
+            "seoul": "https://www.loc.gov/search/?fa=location%3Aseoul&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "vienna": "https://www.loc.gov/search/?fa=location%3Avienna&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }
+    ], 
+    "_version_": 1540399498758455296, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:30:38.593000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+    "date": "19930824", 
+    "shelf_id": "mfdipbib000412", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1993": "https://www.loc.gov/search/?dates=1993-1993&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000412/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000412/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004geb01", 
+        "http://www.loc.gov/resource/mfdip.2004geb01/", 
+        "http://www.loc.gov/item/mfdip.2004geb01/"
+    ], 
+    "contributor_names": [
+        "Dunnigan, Thomas J. (Interviewer)", 
+        "Geber, Anthony (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.25246000289916992, 
+    "default_count": 25, 
+    "id": "mfdipbib000412/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000412/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004geb01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004geb01/2004geb01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004geb01/2004geb01.pdf"
+    }
+]}

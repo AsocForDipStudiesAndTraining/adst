@@ -1,0 +1,1843 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Egan, W. (2003) <cite>Interview with Ambassador Wesley Egan</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001347/.", 
+    "mla": "Kennedy, Charles Stuart, and Wesley Egan. <cite>Interview with Ambassador Wesley Egan</cite>. 2003. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001347/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Wesley Egan. <cite>Interview with Ambassador Wesley Egan</cite>. 2003. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001347/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412618851,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.25, 
+                    30.050000000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Cairo (Egypt)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "\u1e32ahir (Egypt)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79055723"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Egypt, Arab Rep. Egypt EGY Arab Republic of Egypt", 
+                        "id": "28a492de844b8889", 
+                        "name": "Egypt"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Cairo|El Cairo|El Qahira|Le Caire", 
+                        "id": "c5864b6da871a825", 
+                        "name": "Al Qahirah"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ee6614386a7db527", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.923962500000002, 
+                    31.9515694
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Amman", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u0639\u0645\u0627\u0646\u200e"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0639\u0645\u0627\u0646"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u0391\u03bc\u03bc\u03ac\u03bd"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Amano"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u0627\u0645\u0627\u0646"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e2\u05de\u05d0\u05df"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "la", 
+                        "name": "Philadelphia"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Amanas"
+                    }, 
+                    {
+                        "lang": "lv", 
+                        "name": "Amm\u0101na"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Amman"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Am\u00e3"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u043c\u043c\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Amm\u00e1n"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Aman"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Amman"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1643504896"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Jord. JOR Hashemite Kingdom of Jordan", 
+                        "id": "3ff2d457d017fe64", 
+                        "name": "Jordan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Ama", 
+                        "id": "2c8e5bb55cecd938", 
+                        "name": "Amman"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad4b53c7fc555f94", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.2833333333333332, 
+                    38.75
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Fontainhas (Lisbon, Portugal)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Lisbon (Portugal). Fontainhas"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/no2010059791"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Port. PRT Portuguese Republic", 
+                        "id": "5d4123f23a1de1a9", 
+                        "name": "Portugal"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Lisbon|Lisbona|Lisbonne|Lissabon", 
+                        "id": "2986650e52edbd73", 
+                        "name": "Lisboa"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "0595d9488ab4184c", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.281381199999998, 
+                    -15.416696699999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Lusaka", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "L\u00fasaka"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Lusaka"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041b\u0443\u0441\u0430\u043a\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Lusaka"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27564994"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5d8952166e2a848f", 
+                        "name": "Lusaka"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Zambia ZMB Republic of Zambia", 
+                        "id": "c782f087a3f99f79", 
+                        "name": "Zambia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c011920994d373c3", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -15.6, 
+                    11.866669999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bissau Novo", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/2374772"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "GnB. GNB Republic of Guinea-Bissau", 
+                        "id": "fb72061eb986bf86", 
+                        "name": "Guinea-Bissau"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "cf9f9377b7887925", 
+                        "name": "Bissau"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "4e9dd1f54d4b7e5b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    31.016666666666666, 
+                    -29.850000000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Durban (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "eThekwini (South Africa)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Durban, Natal"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79108899"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Natal and Zululand", 
+                        "id": "0c3a611b23ead1ff", 
+                        "name": "KwaZulu-Natal"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "6854f6081d7bf6cd", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "11.86667,-15.6", 
+        "contributor": [
+            "nunes da ponte, luis monteiro"
+        ], 
+        "id": "http://lccn.loc.gov/72210480", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "guinea-bissau", 
+            "history"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "A campanha da Guin\u00e9 (1908) ; breve narrativa.", 
+        "coordinates": [
+            "11.86667,-15.6"
+        ], 
+        "score": 0.23153441999999999, 
+        "lonlat": [
+            -15.6, 
+            11.866669999999999
+        ], 
+        "location": [
+            "guinea", 
+            "bissau"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Library of Congress Web site. digital files not viewed; td12 2008-10-29"
+        ], 
+        "timestamp": "2015-03-03T01:26:51.731000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T10:13:38.752000Z", 
+        "date": "1909", 
+        "shelf_id": "DT613.7 .P65", 
+        "other_title": [], 
+        "dates": [
+            "1909-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "portuguese"
+        ], 
+        "url": "//lccn.loc.gov/72210480", 
+        "hassegments": false, 
+        "image_url": [
+            ""
+        ], 
+        "aka": [
+            "http://lccn.loc.gov/72210480", 
+            "http://www.loc.gov/item/72210480/", 
+            "http://hdl.loc.gov/loc.wdl/wdl.653", 
+            "http://www.loc.gov/resource/wdl.653/"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "11.86667,-15.6", 
+        "id": "http://www.loc.gov/item/2016648822/", 
+        "partof": [
+            "prints and photographs division", 
+            "posters: yanker poster collection", 
+            "catalog"
+        ], 
+        "subject": [
+            "x, malcolm", 
+            "cabral, amilcar", 
+            "africans", 
+            "history", 
+            "sculpture", 
+            "national liberation movements", 
+            "imperialism", 
+            "guinea-bissau", 
+            "posters", 
+            "english", 
+            "prints", 
+            "cabral, am\u00edlcar"
+        ], 
+        "index": 2, 
+        "group": [
+            "yan", 
+            "catalog", 
+            "yanker-posters"
+        ], 
+        "title": "Our history did not begin in chains and it will not end in chains", 
+        "coordinates": [
+            "11.86667,-15.6"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.23153441999999999, 
+        "lonlat": [
+            -15.6, 
+            11.866669999999999
+        ], 
+        "location": [
+            "guinea", 
+            "bissau"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "2 prints (posters)"
+        ], 
+        "timestamp": "2016-07-15T21:54:05.478000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-15T21:48:43.304000Z", 
+        "date": "1970", 
+        "shelf_id": "POS 6 - England, no. 96 (C size)  <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1970-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2016648822/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/yan/1a38000/1a38800/1a38812_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/yan/item/yan1996001014/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a35556", 
+            "http://www.loc.gov/item/yan1996001014/pp/", 
+            "http://www.loc.gov/pictures/item/yan1996001014/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a38812", 
+            "http://www.loc.gov/resource/yan.1a38812/", 
+            "http://www.loc.gov/resource/yan.1a35556/", 
+            "http://lccn.loc.gov/2016648822", 
+            "http://www.loc.gov/item/2016648822/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "united states. congress. house. committee on foreign affairs. subcommittee on africa"
+        ], 
+        "latlong": "11.86667,-15.6", 
+        "id": "http://lccn.loc.gov/71606725", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "guinea-bissau", 
+            "history"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Report on Portuguese Guinea and the liberation movement. Hearing, Ninety-first Congress, second session. Thursday, February 26, 1970.", 
+        "coordinates": [
+            "11.86667,-15.6"
+        ], 
+        "online_format": [
+            "image", 
+            "online text"
+        ], 
+        "score": 0.23153441999999999, 
+        "lonlat": [
+            -15.6, 
+            11.866669999999999
+        ], 
+        "location": [
+            "guinea", 
+            "bissau"
+        ], 
+        "mime_type": [
+            "image/jpeg", 
+            "text/plain", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Library of Congress Web site."
+        ], 
+        "timestamp": "2016-12-15T19:10:10.879000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-12-14T10:24:18.997000Z", 
+        "date": "1970", 
+        "shelf_id": "KF27 .F625 1970", 
+        "other_title": [], 
+        "dates": [
+            "1970-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/71606725", 
+        "hassegments": true, 
+        "image_url": [
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:12.5/0/default.jpg", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:12.5/0/default.jpg#h=332&w=259", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:25/0/default.jpg#h=664&w=519", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:50/0/default.jpg#h=1329&w=1038", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:100/0/default.jpg#h=2659&w=2077"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/71606725/", 
+            "http://www.loc.gov/resource/llconghear.00183820461/", 
+            "http://lccn.loc.gov/71606725", 
+            "http://www.loc.gov/resource/conghear08.00183820461/", 
+            "http://hdl.loc.gov/loc.law/llconghear.00183820461"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "31.5077509,34.4606966", 
+        "contributor": [
+            "american colony (jerusalem). photo department"
+        ], 
+        "id": "http://www.loc.gov/item/2006676299/", 
+        "partof": [
+            "prints and photographs division", 
+            "groups of images (lots)", 
+            "lot 13757", 
+            "catalog"
+        ], 
+        "subject": [
+            "pyramids of giza (egypt)", 
+            "amman (jordan)", 
+            "bu\u1e63r\u00e1 al-sh\u0101m (syria)", 
+            "cairo (egypt)", 
+            "nile river valley", 
+            "ru\u0163bah (iraq)", 
+            "suez canal (egypt)", 
+            "tigris river", 
+            "biplanes", 
+            "gaza strip", 
+            "gaza", 
+            "cities & towns", 
+            "middle east", 
+            "deserts", 
+            "mountains", 
+            "pontoon bridges", 
+            "iraq", 
+            "baghdad", 
+            "rivers", 
+            "seaplanes", 
+            "nile river", 
+            "villages", 
+            "aerial photographs", 
+            "gelatin silver prints"
+        ], 
+        "index": 4, 
+        "group": [
+            "coll", 
+            "catalog", 
+            "groups-of-images"
+        ], 
+        "title": "Aerial photographs of the Middle East", 
+        "coordinates": [
+            "31.5077509,34.4606966"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.21987010000000001, 
+        "lonlat": [
+            34.460696599999999, 
+            31.507750900000001
+        ], 
+        "location": [
+            "nile river valley", 
+            "amman", 
+            "nile river", 
+            "egypt", 
+            "cairo", 
+            "gaza strip", 
+            "bu\u1e63r\u00e1 al", 
+            "ru\u0163bah", 
+            "baghdad", 
+            "jordan", 
+            "middle east", 
+            "suez canal", 
+            "gaza", 
+            "syria", 
+            "iraq", 
+            "tigris river", 
+            "sh\u0101m"
+        ], 
+        "mime_type": [
+            "image/jpg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "24 photographic prints : gelatin silver ; 17 x 23 cm. | Predominately aerial photographs showing villages, cities, coastlines, rivers, harbors, deserts and other geographic features primarily in Jordan, Iraq, and Egypt.  Also shown are bridges, airports, biplanes, and flying boats (seaplanes).  Locations include the Pyramids at J\u012bzah (Gizeh), the Suez Canal, Alexandria, the Nile Valley, and Cairo in Egypt; the Gaza Aerodome, the Gulf of Akaba (Aqaba), Baghdad, Iraq, and the ancient of city of Petra in Jordan, and Bu\u1e63r\u00e1 al-Sh\u0101m in Syria. Albert I, King of Belgium in an airplane is also shown."
+        ], 
+        "timestamp": "2016-08-31T03:21:41.092000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-31T02:01:48.812000Z", 
+        "date": "1920", 
+        "shelf_id": "LOT 13757 (H) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1920-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006676299/", 
+        "hassegments": false, 
+        "image_url": [
+            "https://www.loc.gov/static/images/original-format/group-of-images_150.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/coll/item/2006676299/", 
+            "http://www.loc.gov/item/2006676299/", 
+            "http://www.loc.gov/pictures/item/2006676299/", 
+            "http://lccn.loc.gov/2006676299", 
+            "http://lcweb2.loc.gov/pp/cphquery.html"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "30.05,31.25", 
+        "contributor": [
+            "duffy, edmund"
+        ], 
+        "id": "http://www.loc.gov/item/2004671409/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "roosevelt, franklin d.", 
+            "(franklin delano)", 
+            "stalin, joseph", 
+            "churchill, winston", 
+            "chiang, kai-shek", 
+            "cairo conference", 
+            "(", 
+            "cairo, egypt)", 
+            "teheran conference", 
+            "tehran, iran)", 
+            "world war", 
+            "diplomacy", 
+            "allied", 
+            "crayon drawings", 
+            "editorial cartoons"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "The flying statesmen", 
+        "coordinates": [
+            "30.05,31.25"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.21645169, 
+        "lonlat": [
+            31.25, 
+            30.050000000000001
+        ], 
+        "location": [
+            "egypt", 
+            "cairo", 
+            "tehran", 
+            "iran"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 drawing : crayon, ink brush, and opaque white ; 48.6 x 38.5 cm. (sheet) | World War II editorial cartoon shows a battered man with a globe head rejoicing as four men (labeled \"F.D.R., Churchill, Stalin, [and] Chiang\") fly over on a flying carpet.  In 1943, Roosevelt and Churchill met Chinese leader Chiang Kai Shek for the first time in Cairo to plan strategy.  Roosevelt and Churchill then flew on to Teheran for another historic first meeting with Soviet leader Joseph Stalin.  Duffy views this as an encouraging event for the Allies."
+        ], 
+        "timestamp": "2016-07-19T22:57:52.938000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:08.801000Z", 
+        "date": "1943", 
+        "shelf_id": "Unprocessed [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1943-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004671409/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/03600/03640_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004671409/", 
+            "http://www.loc.gov/item/2004671409/", 
+            "http://www.loc.gov/pictures/item/2004671409/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.03640", 
+            "http://www.loc.gov/resource/ppmsca.03640/", 
+            "http://lccn.loc.gov/2004671409"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-29.85,31.0166666667", 
+        "contributor": [
+            "jeppie, shamil"
+        ], 
+        "id": "http://lccn.loc.gov/2008552599", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "arabic study circle (durban, south africa)", 
+            "muslims", 
+            "south africa", 
+            "durban", 
+            "east indians", 
+            "arabic language", 
+            "study and teaching"
+        ], 
+        "index": 6, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Language identity modernity : the Arabic Study Circle, of Durban /", 
+        "coordinates": [
+            "-29.85,31.0166666667"
+        ], 
+        "score": 0.19412795999999999, 
+        "lonlat": [
+            31.016666666700001, 
+            -29.850000000000001
+        ], 
+        "location": [
+            "durban", 
+            "south africa"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available online. Includes bibliographical references (p. 124-129) and index."
+        ], 
+        "timestamp": "2015-03-03T02:52:38.295000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T02:42:31.233000Z", 
+        "date": "2007", 
+        "shelf_id": "PJ6068.S6 J47 2007", 
+        "other_title": [
+            "Arabic Study Circle, of Durban"
+        ], 
+        "dates": [
+            "2007-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2008552599", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2008552599/", 
+            "http://lccn.loc.gov/2008552599", 
+            "http://www.hsrcpress.ac.za/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "howard, james o."
+        ], 
+        "latlong": "31.33333,-110.13333", 
+        "id": "http://www.loc.gov/item/mfdipbib000534/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "united states. agency for international development", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with James O'Brien Howard", 
+        "coordinates": [
+            "31.33333,-110.13333"
+        ], 
+        "score": 3.1870259999999999, 
+        "lonlat": [
+            -110.13333, 
+            31.33333
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "portugal", 
+            "south africa", 
+            "egypt", 
+            "cairo", 
+            "africa", 
+            "near east", 
+            "united states", 
+            "sweden", 
+            "stockholm", 
+            "lisbon", 
+            "pretoria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1993-08-20", 
+        "shelf_id": "mfdipbib000534", 
+        "other_title": [], 
+        "dates": [
+            "1993-08-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000534/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000534/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004how01", 
+            "http://www.loc.gov/resource/mfdip.2004how01/", 
+            "http://www.loc.gov/item/mfdip.2004how01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "marks, edward"
+        ], 
+        "latlong": "50.8466666667,4.35277777778", 
+        "id": "http://www.loc.gov/item/mfdipbib000746/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states citizens", 
+            "united states. agency for international development", 
+            "protection and welfare", 
+            "chief of station", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Edward Marks", 
+        "coordinates": [
+            "50.8466666667,4.35277777778"
+        ], 
+        "score": 3.1386023000000001, 
+        "lonlat": [
+            4.3527777777800001, 
+            50.846666666700003
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "luanda", 
+            "angola", 
+            "western hemisphere", 
+            "mexico", 
+            "guinea", 
+            "zambia", 
+            "africa", 
+            "bissau", 
+            "lubumbashi", 
+            "belgium", 
+            "kenya", 
+            "zaire", 
+            "brussels", 
+            "nairobi", 
+            "nuevo laredo", 
+            "lusaka"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1996-08-12", 
+        "shelf_id": "mfdipbib000746", 
+        "other_title": [], 
+        "dates": [
+            "1996-08-12T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000746/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000746/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mar03", 
+            "http://www.loc.gov/resource/mfdip.2004mar03/", 
+            "http://www.loc.gov/item/mfdip.2004mar03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "geisel, harold w."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001353/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Harold W. Geisel", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.1161987999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "mauritus", 
+            "eurasia", 
+            "washington", 
+            "united states", 
+            "brussels", 
+            "italy", 
+            "south africa", 
+            "oslo", 
+            "norway", 
+            "washington d.c.", 
+            "durban", 
+            "africa", 
+            "moscow", 
+            "germany", 
+            "belgium", 
+            "bern", 
+            "rome", 
+            "western hemisphere", 
+            "bonn", 
+            "mali", 
+            "switzerland", 
+            "bamako", 
+            "russia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2006-06-30", 
+        "shelf_id": "mfdipbib001353", 
+        "other_title": [], 
+        "dates": [
+            "2006-06-30T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001353/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001353/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007gei01", 
+            "http://www.loc.gov/resource/mfdip.2007gei01/", 
+            "http://www.loc.gov/item/mfdip.2007gei01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "bagley, elizabeth frawley"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001316/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Elizabeth Frawley Bagley", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.1034730000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "portugal", 
+            "eurasia", 
+            "washington", 
+            "united states", 
+            "western hemisphere", 
+            "lisbon"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "1998-07-27", 
+        "shelf_id": "mfdipbib001316", 
+        "other_title": [], 
+        "dates": [
+            "1998-07-27T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001316/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001316/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007bag01", 
+            "http://www.loc.gov/resource/mfdip.2007bag01/", 
+            "http://www.loc.gov/item/mfdip.2007bag01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "wilson, joseph c."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001486/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Joseph C. Wilson IV", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.9789028000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "washington", 
+            "bujumbura", 
+            "burundi", 
+            "niger", 
+            "western hemisphere", 
+            "south africa", 
+            "brazzaville", 
+            "gabon", 
+            "near east", 
+            "washington d.c.", 
+            "africa", 
+            "\"congo", 
+            "niamey", 
+            "baghdad", 
+            "germany", 
+            "iraq", 
+            "united states", 
+            "lome", 
+            "togo", 
+            "democratic republic of the", 
+            "stuttgart", 
+            "libreville", 
+            "pretoria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2001-01-08", 
+        "shelf_id": "mfdipbib001486", 
+        "other_title": [], 
+        "dates": [
+            "2001-01-08T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001486/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001486/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007wil04", 
+            "http://www.loc.gov/resource/mfdip.2007wil04/", 
+            "http://www.loc.gov/item/mfdip.2007wil04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "rau, william e."
+        ], 
+        "latlong": "30.05,31.25", 
+        "id": "http://www.loc.gov/item/mfdipbib001437/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador William E. Rau", 
+        "coordinates": [
+            "30.05,31.25"
+        ], 
+        "score": 2.9400076999999998, 
+        "lonlat": [
+            31.25, 
+            30.050000000000001
+        ], 
+        "location": [
+            "turkey", 
+            "afghanistan", 
+            "eurasia", 
+            "istanbul", 
+            "south africa", 
+            "egypt", 
+            "cairo", 
+            "thessaloniki", 
+            "central asia", 
+            "europe", 
+            "athens", 
+            "near east", 
+            "kabul", 
+            "africa", 
+            "greece", 
+            "pretoria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "1998-07-07", 
+        "shelf_id": "mfdipbib001437", 
+        "other_title": [], 
+        "dates": [
+            "1998-07-07T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001437/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001437/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007rau02", 
+            "http://www.loc.gov/resource/mfdip.2007rau02/", 
+            "http://www.loc.gov/item/mfdip.2007rau02/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "egan, wesley": "https://www.loc.gov/search/?fa=contributor%3Aegan%2C+wesley&fo=json"
+        }, 
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Ambassadors", 
+        "Berlin Wall, Berlin, Germany, 1961-1989", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Egypt -- Cairo", 
+        "Jordan -- Amman", 
+        "Portugal -- Lisbon", 
+        "Zambia -- Lusaka", 
+        "Guinea-Bissau", 
+        "South Africa -- Durban", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Western Hemisphere", 
+        "Africa"
+    ], 
+    "created_published": [
+        "October 28, 2003"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2007ega01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001347/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "ambassadors", 
+        "berlin wall, berlin, germany", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2007ega01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 7.8433799999999998, 
+    "title": "Interview with Ambassador Wesley Egan ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "ambassadors": "https://www.loc.gov/search/?fa=subject%3Aambassadors&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "berlin wall, berlin, germany": "https://www.loc.gov/search/?fa=subject%3Aberlin+wall%2C+berlin%2C+germany&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "amman": "https://www.loc.gov/search/?fa=location%3Aamman&fo=json"
+        }, 
+        {
+            "bissau": "https://www.loc.gov/search/?fa=location%3Abissau&fo=json"
+        }, 
+        {
+            "cairo": "https://www.loc.gov/search/?fa=location%3Acairo&fo=json"
+        }, 
+        {
+            "durban": "https://www.loc.gov/search/?fa=location%3Adurban&fo=json"
+        }, 
+        {
+            "egypt": "https://www.loc.gov/search/?fa=location%3Aegypt&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "guinea": "https://www.loc.gov/search/?fa=location%3Aguinea&fo=json"
+        }, 
+        {
+            "jordan": "https://www.loc.gov/search/?fa=location%3Ajordan&fo=json"
+        }, 
+        {
+            "lisbon": "https://www.loc.gov/search/?fa=location%3Alisbon&fo=json"
+        }, 
+        {
+            "lusaka": "https://www.loc.gov/search/?fa=location%3Alusaka&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "portugal": "https://www.loc.gov/search/?fa=location%3Aportugal&fo=json"
+        }, 
+        {
+            "south africa": "https://www.loc.gov/search/?fa=location%3Asouth+africa&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }, 
+        {
+            "zambia": "https://www.loc.gov/search/?fa=location%3Azambia&fo=json"
+        }
+    ], 
+    "_version_": 1540399705418104832, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:53.179000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+    "date": "20031028", 
+    "shelf_id": "mfdipbib001347", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2003": "https://www.loc.gov/search/?dates=2003-2003&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001347/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001347/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2007ega01", 
+        "http://www.loc.gov/resource/mfdip.2007ega01/", 
+        "http://www.loc.gov/item/mfdip.2007ega01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Egan, Wesley (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.23142790794372559, 
+    "default_count": 25, 
+    "id": "mfdipbib001347/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001347/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2007ega01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2007/2007ega01/2007ega01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2007/2007ega01/2007ega01.pdf"
+    }
+]}

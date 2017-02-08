@@ -1,0 +1,2207 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Rives, L. M. (1995) <cite>Interview with L. Michael Rives</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000981/.", 
+    "mla": "Kennedy, Charles Stuart, and L. Michael Rives. <cite>Interview with L. Michael Rives</cite>. 1995. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000981/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and L. Michael Rives. <cite>Interview with L. Michael Rives</cite>. 1995. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000981/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486410445627,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    2.3213888888888885, 
+                    48.843055555555559
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Montparnasse (Paris, France)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Quartier du Montparnasse (Paris, France)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Paris. Montparnasse"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n82144259"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Fr. FRA French Republic", 
+                        "id": "83c7499f1fd87361", 
+                        "name": "France"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "c2630b5cd7ca7888", 
+                        "name": "\u00cele-de-France"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b2042e1effd4d1cc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.55062, 
+                    52.347140000000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Frankfurt (Oder)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Frankfort on the Oder"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del Odra"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Frankfurt nad Odr\u0105"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del \u00d3der"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "af", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442 \u043d\u0430 \u041e\u0434\u0435\u0440"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Frankfurto \u0109e Odro"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Frankfurt Oderi \u00e4\u00e4res"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Francfort-sur-l'Oder"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Francoforte sull'Oder"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30aa\u30fc\u30c0\u30fc"
+                    }, 
+                    {
+                        "lang": "ka", 
+                        "name": "\u10e4\u10e0\u10d0\u10dc\u10d9\u10e4\u10e3\u10e0\u10e2-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10dd\u10d3\u10d4\u10e0\u10d8"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Frankfurtas prie Oderio"
+                    }, 
+                    {
+                        "lang": "nds", 
+                        "name": "Frankfort an de Oder"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "nn", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ro", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u043d\u0430-\u041e\u0434\u0435\u0440\u0435"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Frankfurt na Odri"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8 \u05e2\u05dc \u05d4\u05d0\u05d5\u05d3\u05e8"
+                    }, 
+                    {
+                        "lang": "id", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vo", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "jv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "ca", 
+                        "name": "Frankfurt de l'Oder"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Frankfurt_%28Oder%29"
+                    }, 
+                    {
+                        "lang": "iata", 
+                        "name": "ZFR"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2925535"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f5135199aad9fe96", 
+                        "name": "Brandenburg"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "69f85a8b5ddf13bc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    104.9328754, 
+                    11.5631962
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Phnom Penh", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "ar", 
+                        "name": "\u0628\u0646\u0648\u0645 \u0628\u0646\u0647"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "hi", 
+                        "name": "\u0928\u093e\u092e\u092a\u0947\u0928\u094d\u0939"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "kh", 
+                        "name": "\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Phnom-Penh"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041f\u043d\u043e\u043c\u043f\u0435\u043d\u044c"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Phnom P\u00e9nh"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Phnom Penh"
+                    }, 
+                    {
+                        "lang": "th", 
+                        "name": "\u0e1e\u0e19\u0e21\u0e40\u0e1b\u0e0d"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Phn\u00f4m P\u00eanh"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u91d1\u8fb9"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/560229438"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Camb. KHM Kingdom of Cambodia", 
+                        "id": "e9932261383c0d6c", 
+                        "name": "Cambodia"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Phnum P\u00e9nh", 
+                        "id": "72fcfd2eb1c55c71", 
+                        "name": "Phnom Penh"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cea98727c769706b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0999999999999996, 
+                    50.733333333333334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bonn (Germany)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Po-en (Germany)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79046411"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "North Rhine-Westphalia", 
+                        "id": "51b19be0557c82ab", 
+                        "name": "Nordrhein-Westfalen"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "70e08355607cf8da", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -90.513137700000001, 
+                    14.6425158
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Guatemala City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Ciudad de Guatemala"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Guatemala-Stadt"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Guatemala City"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Ciudad de Guatemala"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Guatemala"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Guatemala"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Citt\u00e0 del Guatemala"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Guatemala"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Guatemala City"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/472114145"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Guat. GTM Republic of Guatemala", 
+                        "id": "0f5d6530576c0d18", 
+                        "name": "Guatemala"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "89232e2f423d4567", 
+                        "name": "Guatemala"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "0d70d13d51c1ae4e", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.82944444444443, 
+                    -6.1744444444444451
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Jakarta (Indonesia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Yajiada (Indonesia)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80073867"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Jawa|Djakarta", 
+                        "id": "6301889e472ef239", 
+                        "name": "Jakarta Raya"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Indo. IDN Republic of Indonesia", 
+                        "id": "f089542df39fb9f8", 
+                        "name": "Indonesia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "e5ddcc4a73093cba", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    105.85247, 
+                    21.0292095
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Hanoi", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "H\u00e0 N\u1ed9i"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Hanoj"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Han\u00f3i"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Hano\u00ef"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d4\u05d0\u05e0\u05d5\u05d9"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Hano\u00ed"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30cf\u30ce\u30a4"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0425\u0430\u043d\u043e\u0439"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Hanoj"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Hanoj"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Hanoi"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u6cb3\u5185"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/74132064"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Viet. VNM Socialist Republic of Vietnam", 
+                        "id": "be319f80cc507132", 
+                        "name": "Vietnam"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Thai Nguyen", 
+                        "id": "df9f007fbc8ce993", 
+                        "name": "Th\u00e1i Nguy\u00ean"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "50948734b5c34f31", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.2830583, 
+                    -4.2670447999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Brazzaville", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "Brazzaville"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Brazzaville"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0411\u0440\u0430\u0437\u0437\u0430\u0432\u0438\u043b\u044c"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Brazzaville"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/435903633"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4332103627041b71", 
+                        "name": "Pool"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Republic of Congo Congo, Rep. Rep. Congo COG Republic of Congo", 
+                        "id": "65517b69c3442e43", 
+                        "name": "Congo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "4c88d7e2815e57b9", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.360000000000003, 
+                    -3.3761111111111113
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bujumbura (Burundi)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Bujumbura, Burundi"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Bujumbura, Burundi"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80040529"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f9c5151a3b009890", 
+                        "name": "Bujumbura Mairie"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Bur. BDI Republic of Burundi", 
+                        "id": "eed5b49c0b81fdc5", 
+                        "name": "Burundi"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "329c96053e64197c", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "abreu, l\u00e1zaro", 
+            "ospaaal (organization)"
+        ], 
+        "latlong": "15.1666666667,108.866666667", 
+        "id": "http://lccn.loc.gov/2016651246", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "nixon, richard m.", 
+            "(richard milhous)", 
+            "vietnam war", 
+            "air warfare", 
+            "vietnam", 
+            "laos", 
+            "cambodia", 
+            "posters", 
+            "cuban", 
+            "prints", 
+            "color"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "La paz de Nixon", 
+        "coordinates": [
+            "15.1666666667,108.866666667"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.25889163999999998, 
+        "lonlat": [
+            108.866666667, 
+            15.166666666699999
+        ], 
+        "location": [
+            "vietnam", 
+            "cambodia", 
+            "laos"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Title from item. Title also in French and Arabic. Gift; Gary Yanker; 1975-1983."
+        ], 
+        "timestamp": "2016-10-02T05:37:34.013000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-10-02T05:22:41.081000Z", 
+        "date": "1972", 
+        "shelf_id": "POS 6 - Cuba, no. 57", 
+        "other_title": [], 
+        "dates": [
+            "1972-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "multiple languages"
+        ], 
+        "url": "//lccn.loc.gov/2016651246", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/yan/1a36000/1a36000/1a36082_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/yan/1a36000/1a36000/1a36082_150px.jpg#h=150&w=103", 
+            "//cdn.loc.gov/service/pnp/yan/1a36000/1a36000/1a36082t.gif#h=150&w=103", 
+            "//cdn.loc.gov/master/pnp/yan/1a36000/1a36000/1a36082r.jpg#h=640&w=438"
+        ], 
+        "aka": [
+            "http://lccn.loc.gov/2016651246", 
+            "http://www.loc.gov/item/2016651246/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a36082", 
+            "http://www.loc.gov/resource/yan.1a36082/"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "ospaaal (organization)", 
+            "lazaro"
+        ], 
+        "latlong": "15.1666666667,108.866666667", 
+        "id": "http://www.loc.gov/item/yan1996002436/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "posters: yanker poster collection"
+        ], 
+        "subject": [
+            "nixon, richard m.", 
+            "(richard milhous)", 
+            "vietnam war", 
+            "air warfare", 
+            "vietnam", 
+            "laos", 
+            "cambodia", 
+            "posters", 
+            "cuban", 
+            "prints"
+        ], 
+        "index": 2, 
+        "group": [
+            "yan", 
+            "yanker-posters"
+        ], 
+        "title": "La paz de Nixon = Nixon's peace ...", 
+        "coordinates": [
+            "15.1666666667,108.866666667"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.25889163999999998, 
+        "lonlat": [
+            108.866666667, 
+            15.166666666699999
+        ], 
+        "location": [
+            "vietnam", 
+            "cambodia", 
+            "laos"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 print (poster)"
+        ], 
+        "timestamp": "2016-07-15T21:56:55.731000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-15T21:48:50.797000Z", 
+        "date": "1972", 
+        "shelf_id": "POS 6 - Cuba, no. 57 (C size)  <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1972-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/yan1996002436/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/yan/1a36000/1a36000/1a36082_150px.jpg#h=150&w=103"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/yan/item/yan1996002436/pp/", 
+            "http://www.loc.gov/item/yan1996002436/pp/", 
+            "http://www.loc.gov/pictures/item/yan1996002436/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a36082", 
+            "http://www.loc.gov/resource/yan.1a36082/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "united states. congress. senate. committee on the judiciary. subcommittee to investigate problems connected with refugees and escapees"
+        ], 
+        "latlong": "15.1666666667,108.866666667", 
+        "id": "http://lccn.loc.gov/74602951", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "economic assistance, american", 
+            "indochina", 
+            "refugees", 
+            "vietnam", 
+            "cambodia", 
+            "laos"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Humanitarian problems in Indochina : hearing before the Subcommittee to Investigate Problems Connected with Refugees and Escapees of the Committee on the Judiciary, United States Senate, Ninety-third Congress, second session, July 18, 1974.", 
+        "coordinates": [
+            "15.1666666667,108.866666667"
+        ], 
+        "online_format": [
+            "image", 
+            "online text"
+        ], 
+        "score": 0.25889163999999998, 
+        "lonlat": [
+            108.866666667, 
+            15.166666666699999
+        ], 
+        "location": [
+            "indochina", 
+            "vietnam", 
+            "cambodia", 
+            "laos"
+        ], 
+        "mime_type": [
+            "image/jpeg", 
+            "text/plain", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references. Also available in digital form on the Library of Congress Web site."
+        ], 
+        "timestamp": "2016-12-11T14:54:59.057000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-12-10T23:59:55.708000Z", 
+        "date": "1974", 
+        "shelf_id": "KF26 .J869 1974", 
+        "other_title": [], 
+        "dates": [
+            "1974-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/74602951", 
+        "hassegments": true, 
+        "image_url": [
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101218363:00000001/full/pct:12.5/0/default.jpg", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101218363:00000001/full/pct:12.5/0/default.jpg#h=362&w=224", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101218363:00000001/full/pct:25/0/default.jpg#h=725&w=448", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101218363:00000001/full/pct:50/0/default.jpg#h=1450&w=896", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101218363:00000001/full/pct:100/0/default.jpg#h=2900&w=1792"
+        ], 
+        "aka": [
+            "http://www.loc.gov/resource/llconghear.00101218363/", 
+            "http://lccn.loc.gov/74602951", 
+            "http://www.loc.gov/resource/conghear01.00101218363/", 
+            "http://www.loc.gov/item/74602951/", 
+            "http://hdl.loc.gov/loc.law/llconghear.00101218363"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "united states. congress. senate. committee on the judiciary. subcommittee to investigate problems connected with refugees and escapees"
+        ], 
+        "latlong": "15.1666666667,108.866666667", 
+        "id": "http://lccn.loc.gov/75608329", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "vietnam war", 
+            "civilian relief", 
+            "refugees", 
+            "vietnam", 
+            "laos", 
+            "cambodia"
+        ], 
+        "index": 4, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Refugee and civilian war casualty problems in Laos and Cambodia. Hearing, Ninety-first Congress, second session, May 7, 1970.", 
+        "coordinates": [
+            "15.1666666667,108.866666667"
+        ], 
+        "online_format": [
+            "image", 
+            "online text"
+        ], 
+        "score": 0.25889163999999998, 
+        "lonlat": [
+            108.866666667, 
+            15.166666666699999
+        ], 
+        "location": [
+            "vietnam", 
+            "cambodia", 
+            "laos"
+        ], 
+        "mime_type": [
+            "image/jpeg", 
+            "text/plain", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Library of Congress Web site."
+        ], 
+        "timestamp": "2016-12-11T14:56:59.003000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-12-10T17:45:40.957000Z", 
+        "date": "1970", 
+        "shelf_id": "KF26 .J869 1970", 
+        "other_title": [], 
+        "dates": [
+            "1970-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/75608329", 
+        "hassegments": true, 
+        "image_url": [
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101216482:00000001/full/pct:12.5/0/default.jpg", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101216482:00000001/full/pct:12.5/0/default.jpg#h=350&w=227", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101216482:00000001/full/pct:25/0/default.jpg#h=700&w=455", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101216482:00000001/full/pct:50/0/default.jpg#h=1400&w=910", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear01:00101216482:00000001/full/pct:100/0/default.jpg#h=2800&w=1820"
+        ], 
+        "aka": [
+            "http://hdl.loc.gov/loc.law/llconghear.00101216482", 
+            "http://www.loc.gov/item/75608329/", 
+            "http://www.loc.gov/resource/conghear01.00101216482/", 
+            "http://www.loc.gov/resource/llconghear.00101216482/", 
+            "http://lccn.loc.gov/75608329"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "11.5631962,104.9328754", 
+        "contributor": [
+            "portail, a."
+        ], 
+        "id": "http://www.loc.gov/item/map50000857/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "phnom penh (cambodia)", 
+            "maps", 
+            "cambodia", 
+            "phnom penh"
+        ], 
+        "index": 5, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Plan de Pnom-Penh.", 
+        "coordinates": [
+            "11.5631962,104.9328754"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22631043000000001, 
+        "lonlat": [
+            104.9328754, 
+            11.5631962
+        ], 
+        "location": [
+            "Phnom Penh", 
+            "Cambodia", 
+            "cambodia", 
+            "phnom penh"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:06:14.930000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:43.889000Z", 
+        "date": "1920", 
+        "shelf_id": "G8014.P738 192- .P6", 
+        "other_title": [], 
+        "dates": [
+            "1920-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/map50000857/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd8/g8014/g8014p/ct001366.gif", 
+            "//cdn.loc.gov/service/gmd/gmd8/g8014/g8014p/ct001366.gif#h=165&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:3.125/0/default.jpg#h=292&w=265", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:6.25/0/default.jpg#h=584&w=531", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:12.5/0/default.jpg#h=1169&w=1062", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd8:g8014:g8014p:ct001366/full/pct:25/0/default.jpg#h=2338&w=2125"
+        ], 
+        "aka": [
+            "http://hdl.loc.gov/loc.gmd/g8014p.ct001366", 
+            "http://www.loc.gov/item/map50000857/", 
+            "http://www.loc.gov/resource/g8014p.ct001366/", 
+            "http://lccn.loc.gov/map50000857"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "harris & ewing"
+        ], 
+        "latlong": "14.6425158,-90.5131377", 
+        "id": "http://www.loc.gov/item/hec2008000417/", 
+        "partof": [
+            "prints and photographs division", 
+            "harris & ewing collection"
+        ], 
+        "subject": [
+            "guatemala", 
+            "guatemala city", 
+            "glass negatives"
+        ], 
+        "index": 6, 
+        "group": [
+            "hec", 
+            "harris-ewing"
+        ], 
+        "title": "GUATEMALA. STREET SCENE, GUATEMALA CITY", 
+        "coordinates": [
+            "14.6425158,-90.5131377"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.20541129999999999, 
+        "lonlat": [
+            -90.513137700000001, 
+            14.6425158
+        ], 
+        "location": [
+            "guatemala", 
+            "guatemala city"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 negative : glass ; 5 x 7 in. or smaller"
+        ], 
+        "timestamp": "2016-07-11T21:47:52.092000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-11T21:42:44.243000Z", 
+        "date": "1911", 
+        "shelf_id": "LC-H261- 747 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1911-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/hec2008000417/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/hec/00600/00623_150px.jpg#h=113&w=150", 
+            "//cdn.loc.gov/service/pnp/hec/00600/00623t.gif#h=113&w=150", 
+            "//cdn.loc.gov/service/pnp/hec/00600/00623r.jpg#h=483&w=640", 
+            "//cdn.loc.gov/service/pnp/hec/00600/00623v.jpg#h=772&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/hec/item/hec2008000417/", 
+            "http://www.loc.gov/item/hec2008000417/", 
+            "http://www.loc.gov/pictures/item/hec2008000417/", 
+            "http://hdl.loc.gov/loc.pnp/hec.00623", 
+            "http://www.loc.gov/resource/hec.00623/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "lambrakis, george"
+        ], 
+        "latlong": "38.277,21.749", 
+        "id": "http://www.loc.gov/item/mfdipbib000658/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "six day war", 
+            "labor officers", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with George Lambrakis", 
+        "coordinates": [
+            "38.277,21.749"
+        ], 
+        "score": 1.1498683999999999, 
+        "lonlat": [
+            21.748999999999999, 
+            38.277000000000001
+        ], 
+        "location": [
+            "eurasia", 
+            "england", 
+            "africa", 
+            "pacific", 
+            "united states", 
+            "conakry", 
+            "greece", 
+            "saigon", 
+            "italy", 
+            "guinea", 
+            "pakse", 
+            "vietnam", 
+            "laos", 
+            "near east", 
+            "europe", 
+            "israel", 
+            "iran", 
+            "munich", 
+            "germany", 
+            "tehran", 
+            "tel aviv", 
+            "east asia", 
+            "rome", 
+            "london"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "2002-06-05", 
+        "shelf_id": "mfdipbib000658", 
+        "other_title": [], 
+        "dates": [
+            "2002-06-05T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000658/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000658/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004lam01", 
+            "http://www.loc.gov/resource/mfdip.2004lam01/", 
+            "http://www.loc.gov/item/mfdip.2004lam01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "kennedy, richard thomas"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000605/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "ambassadors", 
+            "united states. arms control and disarmament agency", 
+            "nonproliferation, nuclear", 
+            "camp david", 
+            "six day war", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard Thomas Kennedy", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.0750644, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "teheran", 
+            "iran", 
+            "east asia", 
+            "africa", 
+            "fort monroe", 
+            "washington", 
+            "virginia", 
+            "pacific", 
+            "united states", 
+            "vietnam", 
+            "china", 
+            "chile", 
+            "congo", 
+            "western hemisphere", 
+            "nigeria", 
+            "near east", 
+            "argentina"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1995-09-27", 
+        "shelf_id": "mfdipbib000605", 
+        "other_title": [], 
+        "dates": [
+            "1995-09-27T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000605/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000605/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ken05", 
+            "http://www.loc.gov/resource/mfdip.2004ken05/", 
+            "http://www.loc.gov/item/mfdip.2004ken05/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "miller, robert h."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib000817/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "suez crisis", 
+            "ambassadors", 
+            "united states. arms control and disarmament agency", 
+            "berlin airlift", 
+            "mutual and balanced force reduction", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert H. Miller", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 0.99665239999999999, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "east asia", 
+            "eurasia", 
+            "paris", 
+            "africa", 
+            "europe", 
+            "abidjan", 
+            "france", 
+            "united states", 
+            "malaysia", 
+            "vietnam", 
+            "western hemisphere", 
+            "pacific", 
+            "kuala lumpur", 
+            "cote d'ivoire"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1990-05-23", 
+        "shelf_id": "mfdipbib000817", 
+        "other_title": [], 
+        "dates": [
+            "1990-05-23T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000817/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000817/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mil02", 
+            "http://www.loc.gov/resource/mfdip.2004mil02/", 
+            "http://www.loc.gov/item/mfdip.2004mil02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "ledogar, stephen j."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib000672/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. agency for international development", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "peace treaties", 
+            "ss-20 missile", 
+            "law of the sea", 
+            "mutual and balanced force reduction", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Stephen J. Ledogar", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 0.98116099999999995, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "canada", 
+            "italy", 
+            "east asia", 
+            "geneva", 
+            "eurasia", 
+            "paris", 
+            "europe", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "belgium", 
+            "milan", 
+            "vietnam", 
+            "western hemisphere", 
+            "quebec", 
+            "switzerland", 
+            "brussels", 
+            "montreal"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "2000-03-01", 
+        "shelf_id": "mfdipbib000672", 
+        "other_title": [], 
+        "dates": [
+            "2000-03-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000672/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000672/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004led02", 
+            "http://www.loc.gov/resource/mfdip.2004led02/", 
+            "http://www.loc.gov/item/mfdip.2004led02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "gardner, paul f."
+        ], 
+        "latlong": "29.3838888889,-94.9027777778", 
+        "id": "http://www.loc.gov/item/mfdipbib000408/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Paul F. Gardner", 
+        "coordinates": [
+            "29.3838888889,-94.9027777778"
+        ], 
+        "score": 0.95358425000000002, 
+        "lonlat": [
+            -94.902777777799997, 
+            29.3838888889
+        ], 
+        "location": [
+            "turkey", 
+            "ankara", 
+            "madagascar", 
+            "eurasia", 
+            "east asia", 
+            "tananarive", 
+            "jakarta", 
+            "indonesia", 
+            "europe", 
+            "cambodia", 
+            "phnom penh", 
+            "united states", 
+            "pacific", 
+            "papua new guinea", 
+            "africa", 
+            "laos", 
+            "texas"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1991-11-04", 
+        "shelf_id": "mfdipbib000408", 
+        "other_title": [], 
+        "dates": [
+            "1991-11-04T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000408/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000408/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004gar01", 
+            "http://www.loc.gov/resource/mfdip.2004gar01/", 
+            "http://www.loc.gov/item/mfdip.2004gar01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "antippas, andrew f."
+        ], 
+        "latlong": "11.5631962,104.9328754", 
+        "id": "http://www.loc.gov/item/mfdipbib000021/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "cuban missile crisis", 
+            "american republics", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "chief of station", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Andrew F. Antippas", 
+        "coordinates": [
+            "11.5631962,104.9328754"
+        ], 
+        "score": 0.9157729, 
+        "lonlat": [
+            104.9328754, 
+            11.5631962
+        ], 
+        "location": [
+            "canada", 
+            "bahamas", 
+            "japan", 
+            "seoul", 
+            "east asia", 
+            "africa", 
+            "kobe", 
+            "central african republic", 
+            "cambodia", 
+            "phnom penh", 
+            "bangkok", 
+            "vietnam", 
+            "western hemisphere", 
+            "pacific", 
+            "nassau", 
+            "ho chi minh city", 
+            "thailand", 
+            "south korea", 
+            "cameroon", 
+            "montreal"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1994-07-19", 
+        "shelf_id": "mfdipbib000021", 
+        "other_title": [], 
+        "dates": [
+            "1994-07-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000021/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000021/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ant01", 
+            "http://www.loc.gov/resource/mfdip.2004ant01/", 
+            "http://www.loc.gov/item/mfdip.2004ant01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "rives, l. michael": "https://www.loc.gov/search/?fa=contributor%3Arives%2C+l.+michael&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Suez crisis", 
+        "Six Day War, 1967", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "France -- Paris", 
+        "Germany -- Frankfurt", 
+        "Cambodia -- Phnom Penh", 
+        "Germany -- Bonn", 
+        "Guatemala -- Guatemala City", 
+        "Indonesia -- Jakarta", 
+        "Vietnam -- Hanoi", 
+        "Congo -- Brazzaville", 
+        "Burundi -- Bujumbura", 
+        "Canada -- Quebec -- Montreal", 
+        "Vietnam -- Laos", 
+        "Europe and Eurasia", 
+        "Western Hemisphere", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "July 25, 1995"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004riv01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000981/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "suez crisis", 
+        "six day war", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004riv01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.7056989999999992, 
+    "title": "Interview with L. Michael Rives ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "six day war": "https://www.loc.gov/search/?fa=subject%3Asix+day+war&fo=json"
+        }, 
+        {
+            "suez crisis": "https://www.loc.gov/search/?fa=subject%3Asuez+crisis&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "bonn": "https://www.loc.gov/search/?fa=location%3Abonn&fo=json"
+        }, 
+        {
+            "brazzaville": "https://www.loc.gov/search/?fa=location%3Abrazzaville&fo=json"
+        }, 
+        {
+            "bujumbura": "https://www.loc.gov/search/?fa=location%3Abujumbura&fo=json"
+        }, 
+        {
+            "burundi": "https://www.loc.gov/search/?fa=location%3Aburundi&fo=json"
+        }, 
+        {
+            "cambodia": "https://www.loc.gov/search/?fa=location%3Acambodia&fo=json"
+        }, 
+        {
+            "canada": "https://www.loc.gov/search/?fa=location%3Acanada&fo=json"
+        }, 
+        {
+            "congo": "https://www.loc.gov/search/?fa=location%3Acongo&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "france": "https://www.loc.gov/search/?fa=location%3Afrance&fo=json"
+        }, 
+        {
+            "frankfurt": "https://www.loc.gov/search/?fa=location%3Afrankfurt&fo=json"
+        }, 
+        {
+            "germany": "https://www.loc.gov/search/?fa=location%3Agermany&fo=json"
+        }, 
+        {
+            "guatemala": "https://www.loc.gov/search/?fa=location%3Aguatemala&fo=json"
+        }, 
+        {
+            "guatemala city": "https://www.loc.gov/search/?fa=location%3Aguatemala+city&fo=json"
+        }, 
+        {
+            "hanoi": "https://www.loc.gov/search/?fa=location%3Ahanoi&fo=json"
+        }, 
+        {
+            "indonesia": "https://www.loc.gov/search/?fa=location%3Aindonesia&fo=json"
+        }, 
+        {
+            "jakarta": "https://www.loc.gov/search/?fa=location%3Ajakarta&fo=json"
+        }, 
+        {
+            "laos": "https://www.loc.gov/search/?fa=location%3Alaos&fo=json"
+        }, 
+        {
+            "montreal": "https://www.loc.gov/search/?fa=location%3Amontreal&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "paris": "https://www.loc.gov/search/?fa=location%3Aparis&fo=json"
+        }, 
+        {
+            "phnom penh": "https://www.loc.gov/search/?fa=location%3Aphnom+penh&fo=json"
+        }, 
+        {
+            "quebec": "https://www.loc.gov/search/?fa=location%3Aquebec&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "vietnam": "https://www.loc.gov/search/?fa=location%3Avietnam&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399611444723712, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:24.313000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+    "date": "19950725", 
+    "shelf_id": "mfdipbib000981", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1995": "https://www.loc.gov/search/?dates=1995-1995&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000981/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000981/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004riv01", 
+        "http://www.loc.gov/resource/mfdip.2004riv01/", 
+        "http://www.loc.gov/item/mfdip.2004riv01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Rives, L. Michael (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.25027084350585938, 
+    "default_count": 25, 
+    "id": "mfdipbib000981/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000981/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004riv01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004riv01/2004riv01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004riv01/2004riv01.pdf"
+    }
+]}

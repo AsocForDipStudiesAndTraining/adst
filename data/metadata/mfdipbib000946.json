@@ -1,0 +1,2687 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Mak, D. S. &amp; Pratt, N. L. (1991) <cite>Interview with Norman L. Pratt</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000946/.", 
+    "mla": "Mak, Dayton S, and Norman L Pratt. <cite>Interview with Norman L. Pratt</cite>. 1991. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000946/&gt;.", 
+    "chicago": "Mak, Dayton S, and Norman L Pratt. <cite>Interview with Norman L. Pratt</cite>. 1991. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000946/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412566311,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.509722222222223, 
+                    33.871944444444445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Beirut (Lebanon)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Balad\u012byat Bayr\u016bt"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Beirut"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83068103"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bayrut|Beirute|Beyrouth", 
+                        "id": "98cd7d2fea60ba96", 
+                        "name": "Beirut"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Leb. LBN Lebanese Republic", 
+                        "id": "be3dda2bad55ed18", 
+                        "name": "Lebanon"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad1ad676f4f4a656", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.3888549, 
+                    52.517039599999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Berlin", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "af", 
+                        "name": "Berlyn"
+                    }, 
+                    {
+                        "lang": "am", 
+                        "name": "\u1260\u122d\u120a\u1295"
+                    }, 
+                    {
+                        "lang": "an", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0628\u0631\u0644\u064a\u0646"
+                    }, 
+                    {
+                        "lang": "az", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ba", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "be", 
+                        "name": "\u0411\u0435\u0440\u043b\u0456\u043d"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "bi", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "bn", 
+                        "name": "\u09ac\u09be\u09b0\u09cd\u09b2\u09bf\u09a8"
+                    }, 
+                    {
+                        "lang": "bo", 
+                        "name": "\u0f54\u0f7a\u0f0b\u0f63\u0f72\u0f44\u0f0b"
+                    }, 
+                    {
+                        "lang": "br", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "bs", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ca", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "cu", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d\u044a"
+                    }, 
+                    {
+                        "lang": "cv", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "cy", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "da", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u0392\u03b5\u03c1\u03bf\u03bb\u03af\u03bd\u03bf"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Berlino"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Berliin"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u0628\u0631\u0644\u06cc\u0646"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Berliini"
+                    }, 
+                    {
+                        "lang": "fo", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "fy", 
+                        "name": "Berlyn"
+                    }, 
+                    {
+                        "lang": "ga", 
+                        "name": "Beirl\u00edn"
+                    }, 
+                    {
+                        "lang": "gd", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "gl", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "gn", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "gv", 
+                        "name": "Berleen"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d1\u05e8\u05dc\u05d9\u05df"
+                    }, 
+                    {
+                        "lang": "hi", 
+                        "name": "\u092c\u0930\u094d\u0932\u093f\u0928"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ht", 
+                        "name": "B\u00e8len"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "hy", 
+                        "name": "\u0532\u0565\u057c\u056c\u056b\u0576"
+                    }, 
+                    {
+                        "lang": "ia", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "id", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ie", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "io", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Berlino"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30d9\u30eb\u30ea\u30f3"
+                    }, 
+                    {
+                        "lang": "jv", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ka", 
+                        "name": "\u10d1\u10d4\u10e0\u10da\u10d8\u10dc\u10d8"
+                    }, 
+                    {
+                        "lang": "kk", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "ko", 
+                        "name": "\ubca0\ub97c\ub9b0"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Berl\u00een"
+                    }, 
+                    {
+                        "lang": "kv", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "kw", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "la", 
+                        "name": "Berolinum"
+                    }, 
+                    {
+                        "lang": "lb", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "lg", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "li", 
+                        "name": "Berlien"
+                    }, 
+                    {
+                        "lang": "ln", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Berlynas"
+                    }, 
+                    {
+                        "lang": "lv", 
+                        "name": "Berl\u012bne"
+                    }, 
+                    {
+                        "lang": "mg", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "mk", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "ml", 
+                        "name": "\u0d2c\u0d46\u0d30\u0d4d\u200d\u0d32\u0d3f\u0d28\u0d4d\u200d"
+                    }, 
+                    {
+                        "lang": "mn", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "mr", 
+                        "name": "\u092c\u0930\u094d\u0932\u093f\u0928"
+                    }, 
+                    {
+                        "lang": "ms", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "mt", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "na", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Berlijn"
+                    }, 
+                    {
+                        "lang": "nn", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "oc", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "os", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Berlim"
+                    }, 
+                    {
+                        "lang": "qu", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "rm", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ro", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "sc", 
+                        "name": "Berlinu"
+                    }, 
+                    {
+                        "lang": "se", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "sh", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "so", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "sq", 
+                        "name": "Berlini"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "su", 
+                        "name": "Berliini"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "sw", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ta", 
+                        "name": "\u0baa\u0bc6\u0bb0\u0bcd\u0bb2\u0bbf\u0ba9\u0bcd"
+                    }, 
+                    {
+                        "lang": "te", 
+                        "name": "\u0c2c\u0c46\u0c30\u0c4d\u0c32\u0c3f\u0c28\u0c4d"
+                    }, 
+                    {
+                        "lang": "tg", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "th", 
+                        "name": "\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e25\u0e34\u0e19"
+                    }, 
+                    {
+                        "lang": "tl", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "tr", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "tt", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "ty", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u0411\u0435\u0440\u043b\u0456\u043d"
+                    }, 
+                    {
+                        "lang": "ur", 
+                        "name": "\u0628\u0631\u0644\u0646"
+                    }, 
+                    {
+                        "lang": "uz", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "vo", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "wo", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "yi", 
+                        "name": "\u05d1\u05e2\u05e8\u05dc\u05d9\u05df"
+                    }, 
+                    {
+                        "lang": "yo", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u67cf\u6797"
+                    }, 
+                    {
+                        "lang": "zu", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "als", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ang", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "arc", 
+                        "name": "\u0712\u072a\u0720\u071d\u0722"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "bar", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "crh", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "csb", 
+                        "name": "Berl\u00ebno"
+                    }, 
+                    {
+                        "lang": "diq", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "dsb", 
+                        "name": "Barli\u0144"
+                    }, 
+                    {
+                        "lang": "frp", 
+                        "name": "B\u00e8rlin"
+                    }, 
+                    {
+                        "lang": "fur", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "haw", 
+                        "name": "Pelelina"
+                    }, 
+                    {
+                        "lang": "hsb", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ilo", 
+                        "name": "Berlin, Alemania"
+                    }, 
+                    {
+                        "lang": "jbo", 
+                        "name": "berlin"
+                    }, 
+                    {
+                        "lang": "kab", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "ksh", 
+                        "name": "B\u00e4lliin"
+                    }, 
+                    {
+                        "lang": "lij", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "lmo", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "myv", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d \u043e\u0448"
+                    }, 
+                    {
+                        "lang": "nah", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "nap", 
+                        "name": "Berlino"
+                    }, 
+                    {
+                        "lang": "nds", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "nov", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "nrm", 
+                        "name": "B\u00e8rl\u00een"
+                    }, 
+                    {
+                        "lang": "pam", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "pdc", 
+                        "name": "Berlin, Deitschland"
+                    }, 
+                    {
+                        "lang": "pms", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "rmy", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "sah", 
+                        "name": "\u0411\u0435\u0440\u043b\u0438\u043d"
+                    }, 
+                    {
+                        "lang": "scn", 
+                        "name": "Birlinu"
+                    }, 
+                    {
+                        "lang": "sco", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "stq", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "szl", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "tet", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "tpi", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "vec", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "vls", 
+                        "name": "Berlyn"
+                    }, 
+                    {
+                        "lang": "prefix", 
+                        "name": "Land und Kreisfreie Stadt"
+                    }, 
+                    {
+                        "lang": "vi-alt", 
+                        "name": "B\u00e9c-lin"
+                    }, 
+                    {
+                        "lang": "vi-old", 
+                        "name": "B\u00e1 Linh"
+                    }, 
+                    {
+                        "lang": "zh-yue", 
+                        "name": "\u67cf\u6797"
+                    }, 
+                    {
+                        "lang": "bat-smg", 
+                        "name": "Berl\u012bns"
+                    }, 
+                    {
+                        "lang": "cbk-zam", 
+                        "name": "Berl\u00edn"
+                    }, 
+                    {
+                        "lang": "roa-rup", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "be-x-old", 
+                        "name": "\u0411\u044d\u0440\u043b\u0456\u043d"
+                    }, 
+                    {
+                        "lang": "roa-tara", 
+                        "name": "Berline"
+                    }, 
+                    {
+                        "lang": "zh-min-nan", 
+                        "name": "Berlin"
+                    }, 
+                    {
+                        "lang": "zh-classical", 
+                        "name": "\u67cf\u6797"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/240109189"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "17e0687757a6d340", 
+                        "name": "Berlin"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "720a2b3831f8fc70", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.604722222222225, 
+                    33.483333333333334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mayd\u0101n (Damascus, Syria)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "M\u012bd\u0101n (Damascus, Syria)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n98112723"
+                ], 
+                "admin": [], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "a63628c85a578d61", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    29.894378499999998, 
+                    31.1990035
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Alexandria", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u064a\u0629"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Alexandrie"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Alexandria"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Alexandria"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Alejandr\u00eda"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Alexandrie"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0438\u044f"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Alexandria"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27565020"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Egypt, Arab Rep. Egypt EGY Arab Republic of Egypt", 
+                        "id": "28a492de844b8889", 
+                        "name": "Egypt"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Alejandr\u00a1a|Alexandria|Alexandrie|El Iskandariya", 
+                        "id": "1428b0e681eb9f7f", 
+                        "name": "Al Iskandariyah"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "90926b58ec32d82d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -7.6099999999999994, 
+                    33.590000000000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Casablanca (Morocco)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dar Albitsa (Morocco)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80131711"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mor. MAR Kingdom of Morocco", 
+                        "id": "408f2ada3bceda9f", 
+                        "name": "Morocco"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f72196c4b6f3185d", 
+                        "name": "Grand Casablanca"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3c81b75cd8f01473", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.1847222, 
+                    -25.725000000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Pretoria", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "af", 
+                        "name": "Pretoria"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Pretoria"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Pretoria"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e4\u05e8\u05d8\u05d5\u05e8\u05d9\u05d4"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Pretor\u00eda"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Pretoria"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Pretoria"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041f\u0440\u0435\u0442\u043e\u0440\u0438\u044f"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Pret\u00f3ria"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Pretoria"
+                    }, 
+                    {
+                        "lang": "zu", 
+                        "name": "iPitoli"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/25503669"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Pretoria/Witwatersrand/Vaal", 
+                        "id": "2f443f5d91b7c2d1", 
+                        "name": "Gauteng"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "4596bc8f55dffde0", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.178792899999999, 
+                    32.895529199999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tripoli", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Tripoli \u0637\u0631\u0627\u0628\u0644\u0633"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0637\u0631\u0627\u0628\u0644\u0633"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Tripolis"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Tripolis"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u03a4\u03c1\u03af\u03c0\u03bf\u03bb\u03b7"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Tr\u00edpoli"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Tr\u00edp\u00f3l\u00ed"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30c8\u30ea\u30dd\u30ea"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Trabl\u00fbs"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Tripolis"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u0422\u0440\u0438\u043f\u043e\u043b\u0438"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Tripoli"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u7684\u9ece\u6ce2\u91cc"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Tr\u00edpoli"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1699640925"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Libya LBY", 
+                        "id": "e7ed7f1cd4c03902", 
+                        "name": "Libya"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Taghura' wa-n-Nawahi al-Arba", 
+                        "id": "9dd221422026c779", 
+                        "name": "Tajura' wa an Nawahi al Arba"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "bcee1b13d5119822", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "whiting, john d. (john david)"
+        ], 
+        "id": "http://www.loc.gov/item/2007682822/", 
+        "partof": [
+            "prints and photographs division", 
+            "groups of images (lots)", 
+            "lot 13856", 
+            "catalog"
+        ], 
+        "subject": [
+            "american colony (jerusalem)", 
+            "people", 
+            "mosques", 
+            "beirut", 
+            "lebanon", 
+            "harbors", 
+            "syria", 
+            "latakia", 
+            "cedar trees", 
+            "fish", 
+            "tripoli", 
+            "cathedrals", 
+            "castles & palaces", 
+            "waterwheels", 
+            "\u1e25am\u0101h", 
+            "waterfalls", 
+            "turkey", 
+            "antioch", 
+            "sarcophagi", 
+            "jubayl", 
+            "archaeological sites", 
+            "middle east", 
+            "gelatin silver prints", 
+            "photograph albums"
+        ], 
+        "index": 1, 
+        "group": [
+            "coll", 
+            "catalog", 
+            "groups-of-images"
+        ], 
+        "title": "Photographs of Lebanon, Turkey, and Syria", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image", 
+            "online text"
+        ], 
+        "score": 0.35342297, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "turkey", 
+            "jubayl", 
+            "lebanon", 
+            "tripoli", 
+            "\u1e25am\u0101h", 
+            "latakia", 
+            "syria", 
+            "middle east", 
+            "beirut", 
+            "antioch"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "text/plain", 
+            "image/tiff", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 album (74 gelatin silver prints) ; 16 x 26 cm. (album) | Photographs show John D. Whiting's trips in Syria, Lebanon, and Turkey in the 1930s. Whiting, a member of the American Colony in Jerusalem worked as a tour guide, businessman, writer and photographer. Album page image number 1-21 (p. 1-23) Photographs include: Crusader church (Beirut), people at picnic table, men burning thorns, cemetery of the Meidan (Damascus), village of Breije between Damascus and Homs, mosque (Homs, Syria), view of Hama from castle hill, double waterwheel (Hama, Syria), man with horse, Krak de Chevaliers, Syria (courtyard inner ward, entrance to refectory, undercroft, corner tower, outer wall, general and distant view, Grace Whiting and Geo Asfar sitting in window), sacred fish shrine (Tripoli, Lebanon), tower ruins, and Isle de Rouad, Tartosa (Tartous) cathedral and Margab castle in Syria. Album page image number 22-37 (p. 21-39) Photographs include: castle tunnels, man and donkey grinding?, boats in Latakia Harbor, Antioch and Mt. Silpius from the west,  woodworker, laurel tree and waterfalls at Daphne and  streets at Antioch, Turkey; cedars in Lebanon, Miss Clement sketching in cedar grove, mountains, valley, cliffs, coast road at Ras Esh Shekka (Lebanon), ruins of Jebeil (Biblos, Lebanon), sarcophagus of King Ahiram of Biblos, and obsidian coffer bound in gold."
+        ], 
+        "timestamp": "2016-09-28T15:13:23.897000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-31T02:17:19.375000Z", 
+        "date": "1930", 
+        "shelf_id": "LOT 13856 (G) (USE DIGITAL IMAGES) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1930-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2007682822/", 
+        "hassegments": true, 
+        "image_url": [
+            "https://www.loc.gov/static/images/original-format/group-of-images_150.gif", 
+            "//cdn.loc.gov/service/pnp/ppmsca/18400/18437/00001_150px.jpg#h=150&w=144", 
+            "//cdn.loc.gov/service/pnp/ppmsca/18400/18437/00001t.gif#h=150&w=144", 
+            "//cdn.loc.gov/service/pnp/ppmsca/18400/18437/00001r.jpg#h=640&w=613", 
+            "//cdn.loc.gov/service/pnp/ppmsca/18400/18437/00001v.jpg#h=1024&w=981"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/coll/item/2007682822/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.18436", 
+            "http://www.loc.gov/item/2007682822/", 
+            "http://www.loc.gov/pictures/item/2007682822/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.18437", 
+            "http://www.loc.gov/resource/ppmsca.18437/", 
+            "http://www.loc.gov/resource/ppmsca.18436/", 
+            "http://lccn.loc.gov/2007682822"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing", 
+            "collection"
+        ], 
+        "latlong": "32.8955292,13.1787929", 
+        "id": "http://www.loc.gov/item/2004667945/", 
+        "partof": [
+            "prints and photographs division", 
+            "groups of images (lots)", 
+            "lot 13560", 
+            "catalog"
+        ], 
+        "subject": [
+            "mosques", 
+            "libya", 
+            "tripoli", 
+            "tunisia", 
+            "tunis", 
+            "algeria", 
+            "algiers", 
+            "archaeological sites", 
+            "lebanon", 
+            "egypt", 
+            "jerusalem", 
+            "aerial views", 
+            "photographic prints"
+        ], 
+        "index": 2, 
+        "group": [
+            "coll", 
+            "catalog", 
+            "groups-of-images"
+        ], 
+        "title": "Archaeological sites and buildings in the Middle East", 
+        "coordinates": [
+            "32.8955292,13.1787929"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.33849240000000003, 
+        "lonlat": [
+            13.178792899999999, 
+            32.895529199999999
+        ], 
+        "location": [
+            "algiers", 
+            "libya", 
+            "algeria", 
+            "tunisia", 
+            "lebanon", 
+            "tripoli", 
+            "egypt", 
+            "tunis", 
+            "jerusalem"
+        ], 
+        "mime_type": [
+            "image/jpg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "56 photographic prints ; 28 x 35 cm. or smaller. | Most of photographs were taken by unidentified photographers except for three images (movie stills) of a water wheel, a man plowing, and a boat on the Nile by Fred Niblo and an aerial view of Jerusalem by Frank Mason Good. Most of other images depict sites in North Africa including Egypt (Philae, Ab\u016b Sunbul, Luxor, Cairo, and the pyramids at J\u012bzah); Algeria (Algiers, Oran, Phillipville, and Biskra); Tunis, Tunisia; and Tripoli, Libya. Also includes photographs of Lebanon including the ruins at Ba\u02bblabakk, the Dog River bridge and an aerial view of Za\u1e25lah; Jerusalem; a tourist tent camp in Palestine; the Cira\u01e7an Palace  and aerial views of \u0130stanbul; and several museum objects including an Egyptian stele at the Louvre, an Assyrian winged figure at the British Museum and the Sarcophagus of Alexander the Great at the Imperial Ottoman Museum, \u0130stanbul. Includes one photomechanical print of Beduoin men."
+        ], 
+        "timestamp": "2016-08-31T02:59:45.197000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-31T00:55:41.536000Z", 
+        "date": "1860", 
+        "shelf_id": "LOT 13560 (G) (Use Digital Images) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1860-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004667945/", 
+        "hassegments": false, 
+        "image_url": [
+            "https://www.loc.gov/static/images/original-format/group-of-images_150.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/coll/item/2004667945/", 
+            "http://www.loc.gov/item/2004667945/", 
+            "http://www.loc.gov/pictures/item/2004667945/", 
+            "http://lccn.loc.gov/2004667945", 
+            "http://lcweb2.loc.gov/pp/cphquery.html"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing", 
+            "collection"
+        ], 
+        "latlong": "30.05,31.25", 
+        "contributor": [
+            "maison bonfils (beirut, lebanon)"
+        ], 
+        "id": "http://www.loc.gov/item/2004667909/", 
+        "partof": [
+            "prints and photographs division", 
+            "groups of images (lots)", 
+            "lot 13550", 
+            "catalog"
+        ], 
+        "subject": [
+            "streets", 
+            "egypt", 
+            "cairo", 
+            "fountains", 
+            "churches", 
+            "tombs", 
+            "mosques", 
+            "jerusalem", 
+            "syria", 
+            "damascus", 
+            "archaeological sites", 
+            "jordan", 
+            "lebanon", 
+            "palestine", 
+            "history", 
+            "tadmur (syria)", 
+            "aerial views", 
+            "albumen prints"
+        ], 
+        "index": 3, 
+        "group": [
+            "coll", 
+            "catalog", 
+            "groups-of-images"
+        ], 
+        "title": "Buildings, archaeological sites, and street scenes in Egypt, Lebanon, Jordan, Syria, and Palestine", 
+        "coordinates": [
+            "30.05,31.25"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.30318063000000001, 
+        "lonlat": [
+            31.25, 
+            30.050000000000001
+        ], 
+        "location": [
+            "egypt", 
+            "cairo", 
+            "lebanon", 
+            "tadmur", 
+            "damascus", 
+            "jordan", 
+            "palestine", 
+            "syria", 
+            "jerusalem"
+        ], 
+        "mime_type": [
+            "image/jpg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "308 photographic prints : albumen ; 28 x 36 cm. | About half of the photographs depict scenes in Egypt including the archaeological sites of Isn\u0101, Philae, \u1e62aqq\u0101rah, Karnak, Luxor, Thebes, Qir\u1e6d\u0101s\u012b, Dandara, Medinet Habu, J\u012bzah, and Gebel el Silsila. Photographs also show Alexandria and Cairo including numerous mosques (the Al Ahzar Mosque and \u02bbAmr ibn al-\u02bb\u0100\u1e63 Mosque), the Coptic church of St. Barbara, tombs, fountains, and streets scenes. Also shown are a shadoof and women riding in a cart. Photographs of Lebanon include aerial views of Beirut, and images of the ruins of Ba\u02bblabakk. In Jordan are shown the archaeological site of Gerasa, Mt. Nebo, and one image of Petra. Depicted in Palestine (present day Israel, the West Bank and Gaza Strip) are Ramleh, Lydda (Lod), Mt. Carmel, the Great Mosque in Gaza, and the Church of the Nativity in Bethlehem. The Dome of the Rock, the Church of the Holy Sepulchre and other historic sites of Jerusalem are also portrayed. Images in Syria include many interiors of Damascus mansions, the Great Mosque (J\u0101mi\u02bb al-Umaw\u012b al-Kab\u012br), the citadel in Aleppo, ruins in Palymyra (Tadmur), el-Barah (al Bara), el-Kefr, and the Hauran."
+        ], 
+        "timestamp": "2016-08-31T02:59:45.197000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-31T01:08:36.069000Z", 
+        "date": "1880", 
+        "shelf_id": "LOT 13550 (G) (Use Digital Images) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1880-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/2004667909/", 
+        "hassegments": false, 
+        "image_url": [
+            "https://www.loc.gov/static/images/original-format/group-of-images_150.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/coll/item/2004667909/", 
+            "http://www.loc.gov/item/2004667909/", 
+            "http://www.loc.gov/pictures/item/2004667909/", 
+            "http://lccn.loc.gov/2004667909", 
+            "http://lcweb2.loc.gov/pp/cphquery.html"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "keystone view company"
+        ], 
+        "latlong": "79.565,54.5927777778", 
+        "id": "http://www.loc.gov/item/2006675855/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "lot 13744", 
+            "catalog"
+        ], 
+        "subject": [
+            "mountains", 
+            "lebanon", 
+            "meadows", 
+            "syria", 
+            "damascus", 
+            "gelatin silver prints", 
+            "stereographs"
+        ], 
+        "index": 4, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "The Lebanon Mountains from Damascus, Syria", 
+        "coordinates": [
+            "79.565,54.5927777778"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.29476659999999999, 
+        "lonlat": [
+            54.592777777800002, 
+            79.564999999999998
+        ], 
+        "location": [
+            "syria", 
+            "lebanon", 
+            "damascus"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph, gelatin silver."
+        ], 
+        "timestamp": "2015-05-16T17:04:47.554000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:15.803000Z", 
+        "date": "1928", 
+        "shelf_id": "LOT 13744-6, no. 16 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1928-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006675855/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3a30000/3a35000/3a35500/3a35543_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3a30000/3a35000/3a35500/3a35543t.gif#h=150&w=129", 
+            "//cdn.loc.gov/service/pnp/cph/3a30000/3a35000/3a35500/3a35543r.jpg#h=640&w=550"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2006675855/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2006675855/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3a35543", 
+            "http://www.loc.gov/item/2006675855/", 
+            "http://www.loc.gov/resource/cph.3a35543/", 
+            "http://lccn.loc.gov/2006675855"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "abd\u00fclhamid ii, sultan of the turks"
+        ], 
+        "id": "http://www.loc.gov/item/2003677024/", 
+        "partof": [
+            "prints and photographs division", 
+            "groups of images (lots)", 
+            "lot 9512", 
+            "catalog"
+        ], 
+        "subject": [
+            "students", 
+            "lebanon", 
+            "beirut", 
+            "turkey", 
+            "syria", 
+            "schools", 
+            "military education", 
+            "history", 
+            "ottoman empire", 
+            "albumen prints", 
+            "architectural drawings", 
+            "reproductions", 
+            "group portraits", 
+            "photograph albums", 
+            "portrait photographs"
+        ], 
+        "index": 5, 
+        "group": [
+            "coll", 
+            "catalog", 
+            "groups-of-images"
+        ], 
+        "title": "Imperial schools, architectural plans and student portraits, Ottoman Empire", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.28488928000000002, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "turkey", 
+            "syria", 
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/jpg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 album (41 albumen prints) ; 32 x 40 cm. (album) | Photographs depict exterior views and architectural plans for military high and middle schools in Bursa, Kastamonu, Elaz\u0131\u011f (Mamuret\u00fclaziz), Siva\u015f, Diyarbak\u0131r, Aleppo, and Beirut, and an imperial high school in Damascus. Includes group portraits of students from these schools."
+        ], 
+        "timestamp": "2016-08-31T02:58:30.443000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-31T00:53:19.767000Z", 
+        "date": "1880", 
+        "shelf_id": "LOT 9512 (G) (PR 12) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1880-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "turkish, ottoman (1500-1928)"
+        ], 
+        "url": "https://www.loc.gov/item/2003677024/", 
+        "hassegments": false, 
+        "image_url": [
+            "https://www.loc.gov/static/images/original-format/group-of-images_150.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/coll/item/2003677024/", 
+            "http://www.loc.gov/item/2003677024/", 
+            "http://www.loc.gov/pictures/item/2003677024/", 
+            "http://lccn.loc.gov/2003677024"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing", 
+            "collection"
+        ], 
+        "latlong": "41.0666666667,28.9333333333", 
+        "contributor": [
+            "bonfils, f\u00e9lix", 
+            "bergheim, p.", 
+            "smallwood, grahame t.", 
+            "abdullah fr\u00e9res"
+        ], 
+        "id": "http://www.loc.gov/item/92513175/", 
+        "partof": [
+            "prints and photographs division", 
+            "groups of images (lots)", 
+            "lot 7740", 
+            "catalog"
+        ], 
+        "subject": [
+            "archaeological sites", 
+            "lebanon", 
+            "ba\u02bblabakk", 
+            "turkey", 
+            "istanbul", 
+            "castles & palaces", 
+            "cemeteries", 
+            "syria", 
+            "damascus", 
+            "city walls", 
+            "columns", 
+            "courtyards", 
+            "dwellings", 
+            "fire fighters", 
+            "fire engines & equipment", 
+            "fountains", 
+            "gates", 
+            "monuments & memorials", 
+            "mosques", 
+            "obelisks", 
+            "roman temples", 
+            "stone walls", 
+            "streets", 
+            "tombs & sepulchral monuments", 
+            "towers", 
+            "waterfronts", 
+            "israel", 
+            "jaffa", 
+            "istanbul (turkey)", 
+            "izmir (turkey)", 
+            "beirut (lebanon)", 
+            "damascus (syria)", 
+            "ba\u02bblabakk (lebanon)", 
+            "jaffa (tel aviv, israel)", 
+            "ramlah (israel)", 
+            "albumen prints", 
+            "cityscape photographs", 
+            "photograph albums", 
+            "portrait photographs"
+        ], 
+        "index": 6, 
+        "group": [
+            "coll", 
+            "catalog", 
+            "groups-of-images"
+        ], 
+        "title": "Constantinople, Smyrna, Beyrout, Ba'albec, Damascus", 
+        "coordinates": [
+            "41.0666666667,28.9333333333"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.27164188, 
+        "lonlat": [
+            28.933333333299998, 
+            41.066666666700002
+        ], 
+        "location": [
+            "turkey", 
+            "jaffa", 
+            "israel", 
+            "istanbul", 
+            "lebanon", 
+            "damascus", 
+            "ba\u02bblabakk", 
+            "ramlah", 
+            "tel aviv", 
+            "syria", 
+            "beirut", 
+            "izmir"
+        ], 
+        "mime_type": [
+            "image/jpg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 album (86 albumen photoprints) ; 36 x 46 cm. (album) | General views of Istanbul, Izmir, Beirut, Damascus, Jaffa and Ramlah. Includes mosques, churches, tombs, cemeteries, city walls, gates, columns, bridges, waterfronts and obelisks.  Archaeological sites including Roman temples and the Great Court in Ba\u02bblabakk. Two photos of Turkish fire fighters and three portraits including a Chaldean man, a Circassian man and a woman."
+        ], 
+        "timestamp": "2016-08-31T03:24:11.337000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-08-31T00:44:06.334000Z", 
+        "date": "1860", 
+        "shelf_id": "LOT 7740 (H) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1860-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/92513175/", 
+        "hassegments": false, 
+        "image_url": [
+            "https://www.loc.gov/static/images/original-format/group-of-images_150.gif"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/coll/item/92513175/", 
+            "http://www.loc.gov/item/92513175/", 
+            "http://www.loc.gov/pictures/item/92513175/", 
+            "http://lccn.loc.gov/92513175"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "mak, dayton s."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000739/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "six day war", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Dayton S. Mak", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.7544827000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "saudi arabia", 
+            "england", 
+            "libya", 
+            "kuwait", 
+            "eurasia", 
+            "lebanon", 
+            "washington", 
+            "tripoli", 
+            "united states", 
+            "london", 
+            "hamburg", 
+            "germany", 
+            "beirut", 
+            "near east", 
+            "dhahran", 
+            "jeddah"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1989-08-09", 
+        "shelf_id": "mfdipbib000739", 
+        "other_title": [], 
+        "dates": [
+            "1989-08-09T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000739/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000739/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mak01", 
+            "http://www.loc.gov/resource/mfdip.2011mak01/", 
+            "http://www.loc.gov/item/mfdip.2011mak01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "conlon, thomas f.", 
+            "jones, curtis f."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000572/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "chief of station", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Curtis F. Jones", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.6395556999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "addis ababa", 
+            "libya", 
+            "ethiopia", 
+            "egypt", 
+            "washington", 
+            "lebanon", 
+            "tripoli", 
+            "united states", 
+            "damascus", 
+            "yemen", 
+            "africa", 
+            "port said", 
+            "syria", 
+            "aden", 
+            "beirut", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1994-03-29", 
+        "shelf_id": "mfdipbib000572", 
+        "other_title": [], 
+        "dates": [
+            "1994-03-29T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000572/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000572/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004jon02", 
+            "http://www.loc.gov/resource/mfdip.2004jon02/", 
+            "http://www.loc.gov/item/mfdip.2004jon02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "lakas, nicholas shapiro"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001579/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Nicholas Shapiro Lakas", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4977257000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "alexandria", 
+            "eurasia", 
+            "egypt", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "kuwait", 
+            "scotland", 
+            "tripoli", 
+            "\"korea", 
+            "ireland", 
+            "beirut", 
+            "near east", 
+            "glasgow", 
+            "washington d.c.", 
+            "seoul", 
+            "lebanon", 
+            "island of cork", 
+            "east asia", 
+            "libya", 
+            "western hemisphere", 
+            "south"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001579", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001579/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001579/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010lak01", 
+            "http://www.loc.gov/resource/mfdip.2010lak01/", 
+            "http://www.loc.gov/item/mfdip.2010lak01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "jackson, richard l."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000555/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "camp david", 
+            "six day war", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard L. Jackson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.1810035999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "thessaloniki", 
+            "europe", 
+            "casablanca", 
+            "libya", 
+            "eurasia", 
+            "near east", 
+            "washington", 
+            "rabat", 
+            "tripoli", 
+            "athens", 
+            "united states", 
+            "morocco", 
+            "new york", 
+            "somalia", 
+            "africa", 
+            "greece", 
+            "mogadishu", 
+            "north africa"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1998-08-17", 
+        "shelf_id": "mfdipbib000555", 
+        "other_title": [], 
+        "dates": [
+            "1998-08-17T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000555/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000555/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004jac01", 
+            "http://www.loc.gov/resource/mfdip.2004jac01/", 
+            "http://www.loc.gov/item/mfdip.2004jac01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "mak, dayton s.", 
+            "atherton, alfred leroy, jr."
+        ], 
+        "latlong": "30.05,31.25", 
+        "id": "http://www.loc.gov/item/mfdipbib000030/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Alfred Leroy Atherton Jr.", 
+        "coordinates": [
+            "30.05,31.25"
+        ], 
+        "score": 3.1391906999999999, 
+        "lonlat": [
+            31.25, 
+            30.050000000000001
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "stuttgart", 
+            "egypt", 
+            "cairo", 
+            "india", 
+            "damascus", 
+            "germany", 
+            "bonn", 
+            "central asia", 
+            "kolkata", 
+            "syria", 
+            "aleppo", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1990-00-00", 
+        "shelf_id": "mfdipbib000030", 
+        "other_title": [], 
+        "dates": [
+            "1990-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000030/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000030/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ath01", 
+            "http://www.loc.gov/resource/mfdip.2004ath01/", 
+            "http://www.loc.gov/item/mfdip.2004ath01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "keith, kenton w."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001572/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Kenton W. Keith", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.1347022, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "pakistan", 
+            "eurasia", 
+            "egypt", 
+            "cairo", 
+            "washington", 
+            "united states", 
+            "tangier", 
+            "central asia", 
+            "turkey", 
+            "saudi arabia", 
+            "istanbul", 
+            "paris", 
+            "europe", 
+            "france", 
+            "damascus", 
+            "beirut", 
+            "fez", 
+            "washington d.c.", 
+            "brazil", 
+            "lebanon", 
+            "qatar", 
+            "near east", 
+            "baghdad", 
+            "iraq", 
+            "jeddah", 
+            "brasilia", 
+            "morocco", 
+            "western hemisphere", 
+            "islamabad", 
+            "syria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001572", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001572/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001572/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010kei01", 
+            "http://www.loc.gov/resource/mfdip.2010kei01/", 
+            "http://www.loc.gov/item/mfdip.2010kei01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "mak, dayton s.": "https://www.loc.gov/search/?fa=contributor%3Amak%2C+dayton+s.&fo=json"
+        }, 
+        {
+            "pratt, norman l.": "https://www.loc.gov/search/?fa=contributor%3Apratt%2C+norman+l.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Lebanon -- Beirut", 
+        "Germany -- Berlin", 
+        "Syria -- Damascus", 
+        "Egypt -- Alexandria", 
+        "Morocco -- Casablanca", 
+        "South Africa -- Pretoria", 
+        "Libya -- Tripoli", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Africa"
+    ], 
+    "created_published": [
+        "November 19, 1991"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pra01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000946/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pra01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 9.2059569999999997, 
+    "title": "Interview with Norman L. Pratt ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "alexandria": "https://www.loc.gov/search/?fa=location%3Aalexandria&fo=json"
+        }, 
+        {
+            "beirut": "https://www.loc.gov/search/?fa=location%3Abeirut&fo=json"
+        }, 
+        {
+            "berlin": "https://www.loc.gov/search/?fa=location%3Aberlin&fo=json"
+        }, 
+        {
+            "casablanca": "https://www.loc.gov/search/?fa=location%3Acasablanca&fo=json"
+        }, 
+        {
+            "damascus": "https://www.loc.gov/search/?fa=location%3Adamascus&fo=json"
+        }, 
+        {
+            "egypt": "https://www.loc.gov/search/?fa=location%3Aegypt&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "germany": "https://www.loc.gov/search/?fa=location%3Agermany&fo=json"
+        }, 
+        {
+            "lebanon": "https://www.loc.gov/search/?fa=location%3Alebanon&fo=json"
+        }, 
+        {
+            "libya": "https://www.loc.gov/search/?fa=location%3Alibya&fo=json"
+        }, 
+        {
+            "morocco": "https://www.loc.gov/search/?fa=location%3Amorocco&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "pretoria": "https://www.loc.gov/search/?fa=location%3Apretoria&fo=json"
+        }, 
+        {
+            "south africa": "https://www.loc.gov/search/?fa=location%3Asouth+africa&fo=json"
+        }, 
+        {
+            "syria": "https://www.loc.gov/search/?fa=location%3Asyria&fo=json"
+        }, 
+        {
+            "tripoli": "https://www.loc.gov/search/?fa=location%3Atripoli&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }
+    ], 
+    "_version_": 1540399610270318592, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:24.313000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+    "date": "19911119", 
+    "shelf_id": "mfdipbib000946", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1991": "https://www.loc.gov/search/?dates=1991-1991&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000946/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000946/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004pra01", 
+        "http://www.loc.gov/resource/mfdip.2004pra01/", 
+        "http://www.loc.gov/item/mfdip.2004pra01/"
+    ], 
+    "contributor_names": [
+        "Mak, Dayton S. (Interviewer)", 
+        "Pratt, Norman L. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.27994585037231445, 
+    "default_count": 25, 
+    "id": "mfdipbib000946/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000946/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004pra01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004pra01/2004pra01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004pra01/2004pra01.pdf"
+    }
+]}

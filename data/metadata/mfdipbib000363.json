@@ -1,0 +1,2301 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Dillery, C. E. &amp; Feldman, H. (1999) <cite>Interview with Harvey Feldman</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000363/.", 
+    "mla": "Dillery, Carl Edward, and Harvey Feldman. <cite>Interview with Harvey Feldman</cite>. 1999. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000363/&gt;.", 
+    "chicago": "Dillery, Carl Edward, and Harvey Feldman. <cite>Interview with Harvey Feldman</cite>. 1999. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000363/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486411625897,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -87.69638888888889, 
+                    41.774999999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Chicago Lawn (Chicago, Ill.)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Chicago (Ill.). Chicago Lawn"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n97042884"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "53f4c0764e2a90d1", 
+                        "name": "Illinois"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "d990a30704438c49", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986581200000003, 
+                    40.730599099999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "New York", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "cy", 
+                        "name": "Eforg Newydd"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "New York"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "New York"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Novjorko"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Nueva York"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/61785451"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "1052a371b22f84b2", 
+                        "name": "New York"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "fd87d8566c7ea3de", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.986581200000003, 
+                    40.730599099999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "New York", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "cy", 
+                        "name": "Eforg Newydd"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "New York"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "New York"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Novjorko"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Nueva York"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u041d\u044c\u044e-\u0419\u043e\u0440\u043a"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/61785451"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "1052a371b22f84b2", 
+                        "name": "New York"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "fd87d8566c7ea3de", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.322975599999999, 
+                    42.697698299999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Sofia", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u0421\u043e\u0444\u0438\u044f"
+                    }, 
+                    {
+                        "lang": "be", 
+                        "name": "\u0421\u0430\u0444\u0456\u044f"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0421\u043e\u0444\u0438\u044f"
+                    }, 
+                    {
+                        "lang": "bs", 
+                        "name": "Sofija"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Sofie"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u03a3\u03cc\u03c6\u03b9\u03b1"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Sof\u00eda"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u0635\u0648\u0641\u06cc\u0647"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e1\u05d5\u05e4\u05d9\u05d4"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Sofija"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Sz\u00f3fia"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "S\u00f3f\u00eda"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Sofya"
+                    }, 
+                    {
+                        "lang": "la", 
+                        "name": "Serdica"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Sofija"
+                    }, 
+                    {
+                        "lang": "lv", 
+                        "name": "Sofija"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "S\u00f3fia"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0421\u043e\u0444\u0438\u044f"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Sofija"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u0421\u043e\u0444\u0438\u0458\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "tr", 
+                        "name": "Sofya"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u0421\u043e\u0444\u0456\u044f"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Sofia"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Sof\u00eda"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1700083447"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Bulg. BGR Republic of Bulgaria", 
+                        "id": "08e92cf85df13326", 
+                        "name": "Bulgaria"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "fcd3da64a2224fc4", 
+                        "name": "Grad Sofiya"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3747f688743ebd04", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.26667, 
+                    22.316669999999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Wo Tong Kong", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/1818291"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "aa82ab35e39dc688", 
+                        "name": "HKG-00 (Hong Kong aggregation)"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Hong Kong SAR, China H.K. HKG Hong Kong Special Administrative Region, PRC", 
+                        "id": "b6b8b22ab4bad44d", 
+                        "name": "Hong Kong"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5fe7aa42dc92113d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    120.67458000000001, 
+                    24.151057900000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Taichung City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u53f0\u4e2d\u5e02 (Taichung City)"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Taichung City"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "\u0110\u00e0i Trung"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u53f0\u4e2d\u5e02"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/60655918"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Taiwan TWN", 
+                        "id": "4ae3ed027af83ea9", 
+                        "name": "Taiwan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Taizhong Shi", 
+                        "id": "6a7b24e08309f2cb", 
+                        "name": "Taichung City"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "10660d9bc86a87b5", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    139.69166666666666, 
+                    35.68944444444444
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tokyo (Japan)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dongjing (Japan)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79034998"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Japan JPN", 
+                        "id": "b0be89ea8dea3f25", 
+                        "name": "Japan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Edo|Yedo|Tokio|T\u00a2quio", 
+                        "id": "27adec74640ad903", 
+                        "name": "Tokyo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c0226941a4d79e0a", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.564459, 
+                    25.0376382
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "\u53f0\u5317\u5e02 (Taipei)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "de", 
+                        "name": "Taipeh"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Taip\u00e9i"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Taipei"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Taipei"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Taipei"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d8\u05d0\u05d9\u05e4\u05d0\u05d9"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Taipei"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Ta\u00edpei"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Taipei"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u53f0\u5317\u5e02"
+                    }, 
+                    {
+                        "lang": "ko", 
+                        "name": "\ud0c0\uc774\ubca0\uc774 \uc2dc"
+                    }, 
+                    {
+                        "lang": "lb", 
+                        "name": "Taipeh"
+                    }, 
+                    {
+                        "lang": "py", 
+                        "name": "T\u00e1ib\u011bi Sh\u00ec"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0422\u0430\u0439\u0431\u044d\u0439"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Tchaj-pej"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Tajpej"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Taipei"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "\u0110\u00e0i B\u1eafc"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u53f0\u5317\u5e02"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1147314253"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Taiwan TWN", 
+                        "id": "4ae3ed027af83ea9", 
+                        "name": "Taiwan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Taibei Shi", 
+                        "id": "e7b5ea88e7ddb09b", 
+                        "name": "Taipei City"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "fff6be5911cbef9f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.2057437, 
+                    5.5600141000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Accra", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "Akkra"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Akra"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u043a\u043a\u0440\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Accra"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27565080"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ghana GHA Republic of Ghana", 
+                        "id": "1eba66c3085b096e", 
+                        "name": "Ghana"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "0319cb8a35b34ce4", 
+                        "name": "Greater Accra"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "099438ec8db4931f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    136.90000000000001, 
+                    35.183332999999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Nagoya", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u540d\u53e4\u5c4b\u5e02 (Nagoya)"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Nagoya"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Nagoya"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Nagoya"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Nagoya"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u540d\u53e4\u5c4b\u5e02"
+                    }, 
+                    {
+                        "lang": "ko", 
+                        "name": "\ub098\uace0\uc57c \uc2dc"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041d\u0430\u0433\u043e\u044f"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Nagoja"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Nagoya"
+                    }, 
+                    {
+                        "lang": "ja_rm", 
+                        "name": "Nagoya-shi"
+                    }, 
+                    {
+                        "lang": "zh-CN", 
+                        "name": "\u540d\u53e4\u5c4b\u5e02"
+                    }, 
+                    {
+                        "lang": "zh-TW", 
+                        "name": "\u540d\u53e4\u5c4b\u5e02"
+                    }, 
+                    {
+                        "lang": "ja_kana", 
+                        "name": "\u306a\u3054\u3084\u3057"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/569005393"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Japan JPN", 
+                        "id": "b0be89ea8dea3f25", 
+                        "name": "Japan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Aiti", 
+                        "id": "5980d9597556e1bd", 
+                        "name": "Aichi"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "62d5e426d7cb0fc8", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    146.5, 
+                    -8.6333333333333329
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bereina (Papua New Guinea)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Berena (Papua New Guinea)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83026451"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "d8f02065c4e83cb9", 
+                        "name": "Central"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "P.N.G. PNG Independent State of Papua New Guinea", 
+                        "id": "09876608a1dc4dbc", 
+                        "name": "Papua New Guinea"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "6aa498b2e99edee2", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "5.5600141,-0.2057437", 
+        "id": "http://www.loc.gov/item/94513264/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "nkrumah, kwame", 
+            "inauguration", 
+            "presidential inaugurations", 
+            "ghana", 
+            "accra", 
+            "photographic prints"
+        ], 
+        "index": 1, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "First inauguration in Ghana", 
+        "coordinates": [
+            "5.5600141,-0.2057437"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.18110223, 
+        "lonlat": [
+            -0.2057437, 
+            5.5600141000000001
+        ], 
+        "location": [
+            "ghana", 
+            "accra"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print. | Dr. Kwame Nkrumah, standing on stool, being sworn in by Arku Korsah, as the first president of the Republic of Ghana in Accra."
+        ], 
+        "timestamp": "2016-07-20T01:09:34.976000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:04:17.683000Z", 
+        "date": "1960", 
+        "shelf_id": "NYWTS - BIOG--Nkrumah, Kwame, Dr.--President of Gold Coast <item> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1960-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/94513264/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c10000/3c12000/3c12300/3c12312_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/94513264/", 
+            "http://www.loc.gov/item/94513264/", 
+            "http://www.loc.gov/pictures/item/94513264/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c12312", 
+            "http://www.loc.gov/resource/cph.3c12312/", 
+            "http://lccn.loc.gov/94513264"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "25.0376382,121.564459", 
+        "contributor": [
+            "ozawa, tokuhei"
+        ], 
+        "id": "http://www.loc.gov/item/2002626732/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "harbors", 
+            "taiwan", 
+            "taipei", 
+            "maps", 
+            "fortification", 
+            "taipei (taiwan)", 
+            "maps, manuscript"
+        ], 
+        "index": 2, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Taiwan Tansui-k\u014d, Taihoku-fu kyokuchizu", 
+        "coordinates": [
+            "25.0376382,121.564459"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.1642412, 
+        "lonlat": [
+            121.564459, 
+            25.0376382
+        ], 
+        "location": [
+            "Taipei", 
+            "Taiwan", 
+            "taiwan", 
+            "taipei"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Title from title piece mounted on map verso. This map is part of a series. Series note is on verso of map in Japanese. Pen-and-ink and watercolor. \"Dai hyakurokug\u014d [106-g\u014d] fuzu nanamai [7-mai] no uchi dai 6\"; \"Dai ky\u016bg\u014d [9-g\u014d].\" Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T19:59:11.677000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:08.419000Z", 
+        "date": "1888", 
+        "shelf_id": "G7914.T5P55 1888 .O9", 
+        "other_title": [], 
+        "dates": [
+            "1888-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "japanese"
+        ], 
+        "url": "https://www.loc.gov/item/2002626732/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7914/g7914t/ct003675.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7914/g7914t/ct003675.gif#h=150&w=181", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7914:g7914t:ct003675/full/pct:3.125/0/default.jpg#h=241&w=291", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7914:g7914t:ct003675/full/pct:6.25/0/default.jpg#h=482&w=582", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7914:g7914t:ct003675/full/pct:12.5/0/default.jpg#h=964&w=1164", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7914:g7914t:ct003675/full/pct:25/0/default.jpg#h=1928&w=2328"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2002626732/", 
+            "http://www.loc.gov/resource/g7914t.ct003675/", 
+            "http://hdl.loc.gov/loc.gmd/g7914t.ct003675", 
+            "http://lccn.loc.gov/2002626732"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "42.6976983,23.3229756", 
+        "contributor": [
+            "khalde\u012d, evgeni"
+        ], 
+        "id": "http://www.loc.gov/item/2005680314/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13657", 
+            "catalog"
+        ], 
+        "subject": [
+            "world war", 
+            "bulgarians", 
+            "bulgaria", 
+            "sofia", 
+            "underground movements", 
+            "banners", 
+            "crowds", 
+            "gelatin silver prints"
+        ], 
+        "index": 3, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[A young man, possibly a partisan, holding a rifle, in front of a cheering crowd during a victory celebrations in Lovech, Bulgaria; signs in background with such slogans as \"Death to Fascism\" and \"Long live the leader\"]", 
+        "coordinates": [
+            "42.6976983,23.3229756"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15962219, 
+        "lonlat": [
+            23.322975599999999, 
+            42.697698299999999
+        ], 
+        "location": [
+            "sofia", 
+            "bulgaria"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : gelatin silver."
+        ], 
+        "timestamp": "2016-07-19T23:11:10.615000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:39.062000Z", 
+        "date": "1944", 
+        "shelf_id": "LOT 13657, no. 8 [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1944-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "russian"
+        ], 
+        "url": "https://www.loc.gov/item/2005680314/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c20000/3c21000/3c21700/3c21795_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2005680314/", 
+            "http://www.loc.gov/item/2005680314/", 
+            "http://www.loc.gov/pictures/item/2005680314/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c21795", 
+            "http://www.loc.gov/resource/cph.3c21795/", 
+            "http://lccn.loc.gov/2005680314"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "42.6976983,23.3229756", 
+        "contributor": [
+            "s\u00e9bah, pascal", 
+            "osman hamdi bey", 
+            "launay, marie de"
+        ], 
+        "id": "http://www.loc.gov/item/2004666979/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "bulgarians", 
+            "clothing & dress", 
+            "bulgaria", 
+            "sofia", 
+            "women", 
+            "book illustrations", 
+            "group portraits", 
+            "photogravures", 
+            "portrait prints"
+        ], 
+        "index": 4, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Studio portrait of models wearing traditional clothing from the province of Touna (Danube), Ottoman Empire]", 
+        "coordinates": [
+            "42.6976983,23.3229756"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15962219, 
+        "lonlat": [
+            23.322975599999999, 
+            42.697698299999999
+        ], 
+        "location": [
+            "sofia", 
+            "bulgaria"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photomechanical print : photogravure. | (1) Bulgarian of Sofia ; (2) Bulgarian woman of Sofia."
+        ], 
+        "timestamp": "2016-07-19T22:54:08.744000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:57:59.340000Z", 
+        "date": "1873", 
+        "shelf_id": "Illus. in GT1267.H2 (Case Y) [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1873-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english", 
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/2004666979/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11743_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11743_150px.jpg#h=150&w=121", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11743t.gif#h=150&w=121", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11743r.jpg#h=640&w=518", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g11000/3g11700/3g11743v.jpg#h=1024&w=829"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004666979/", 
+            "http://www.loc.gov/item/2004666979/", 
+            "http://www.loc.gov/pictures/item/2004666979/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3g11743", 
+            "http://www.loc.gov/resource/cph.3g11743/", 
+            "http://lccn.loc.gov/2004666979"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "42.6976983,23.3229756", 
+        "contributor": [
+            "jaekel, blair"
+        ], 
+        "id": "http://www.loc.gov/item/2009632176/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "nat\ufe20s\ufe21ionalna khudozhestvena galerii\ufe20a\ufe21 (bulgaria)", 
+            "gates", 
+            "bulgaria", 
+            "sofia", 
+            "castles & palaces", 
+            "galleries & museums", 
+            "photographic prints"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Entrance gate to Czars Palace, Sofia, Bulgaria", 
+        "coordinates": [
+            "42.6976983,23.3229756"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15962219, 
+        "lonlat": [
+            23.322975599999999, 
+            42.697698299999999
+        ], 
+        "location": [
+            "sofia", 
+            "bulgaria"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print. | Photograph showing gate to former Palace of the Czar, now National Gallery of Art."
+        ], 
+        "timestamp": "2016-07-19T23:56:30.110000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:42.188000Z", 
+        "date": "1912", 
+        "shelf_id": "FOREIGN GEOG FILE - Bulgaria--Sofia [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1912-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2009632176/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38458_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38458_150px.jpg#h=122&w=150", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38458r.jpg#h=521&w=640", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38458v.jpg#h=833&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2009632176/", 
+            "http://www.loc.gov/item/2009632176/", 
+            "http://www.loc.gov/pictures/item/2009632176/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c38458", 
+            "http://www.loc.gov/resource/cph.3c38458/", 
+            "http://lccn.loc.gov/2009632176"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "42.6976983,23.3229756", 
+        "contributor": [
+            "jaekel, blair"
+        ], 
+        "id": "http://www.loc.gov/item/2009632177/", 
+        "partof": [
+            "prints and photographs division", 
+            "catalog"
+        ], 
+        "subject": [
+            "alexander", 
+            "ii", 
+            "emperor of russia", 
+            "monuments", 
+            "bulgaria", 
+            "sofia", 
+            "government facilities", 
+            "monuments & memorials", 
+            "photographic prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Parliament buildings and statue of the Czar Liberator, Sofia, Bulgaria", 
+        "coordinates": [
+            "42.6976983,23.3229756"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15962219, 
+        "lonlat": [
+            23.322975599999999, 
+            42.697698299999999
+        ], 
+        "location": [
+            "sofia", 
+            "bulgaria"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print. | Photograph showing National Assembly building in Narodno Sabranie Square, with equestrian monument to Alexander II."
+        ], 
+        "timestamp": "2016-07-19T23:56:30.110000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:42.188000Z", 
+        "date": "1912", 
+        "shelf_id": "FOREIGN GEOG FILE - Bulgaria--Sofia [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1912-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2009632177/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38460_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38460_150px.jpg#h=150&w=121", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38460r.jpg#h=640&w=517", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c38000/3c38400/3c38460v.jpg#h=1024&w=828"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2009632177/", 
+            "http://www.loc.gov/item/2009632177/", 
+            "http://www.loc.gov/pictures/item/2009632177/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c38460", 
+            "http://www.loc.gov/resource/cph.3c38460/", 
+            "http://lccn.loc.gov/2009632177"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "pasturing, robert s.", 
+            "fischer, david j."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000373/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "protection and welfare", 
+            "chief of station", 
+            "berlin wall, berlin, germany", 
+            "eastern bloc", 
+            "berlin airlift", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with David J. Fischer", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.0747452000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "seychelles", 
+            "eurasia", 
+            "sofia", 
+            "washington", 
+            "pacific", 
+            "dar es salaam", 
+            "united states", 
+            "austria", 
+            "central asia", 
+            "warsaw", 
+            "nepal", 
+            "minnesota", 
+            "vienna", 
+            "washington d.c.", 
+            "africa", 
+            "munich", 
+            "connecticut", 
+            "germany", 
+            "massachusetts", 
+            "rhode island", 
+            "east asia", 
+            "tanzania", 
+            "kathmandu", 
+            "china", 
+            "frankfurt", 
+            "poland", 
+            "bulgaria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:14.181000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:14.455000Z", 
+        "date": "1998-03-06", 
+        "shelf_id": "mfdipbib000373", 
+        "other_title": [], 
+        "dates": [
+            "1998-03-06T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000373/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000373/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004fis01", 
+            "http://www.loc.gov/resource/mfdip.2004fis01/", 
+            "http://www.loc.gov/item/mfdip.2004fis01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "bellocchi, natale h."
+        ], 
+        "latlong": "28.6092825,77.2173713", 
+        "id": "http://www.loc.gov/item/mfdipbib000068/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Natale H. Bellocchi", 
+        "coordinates": [
+            "28.6092825,77.2173713"
+        ], 
+        "score": 1.9363229, 
+        "lonlat": [
+            77.217371299999996, 
+            28.609282499999999
+        ], 
+        "location": [
+            "new delhi", 
+            "africa", 
+            "east asia", 
+            "taichung", 
+            "tam ky", 
+            "india", 
+            "pacific", 
+            "vietnam", 
+            "china", 
+            "na dang", 
+            "central asia", 
+            "taiwan", 
+            "hong kong", 
+            "botswana", 
+            "taipei"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1995-03-21", 
+        "shelf_id": "mfdipbib000068", 
+        "other_title": [], 
+        "dates": [
+            "1995-03-21T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000068/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000068/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004bel04", 
+            "http://www.loc.gov/resource/mfdip.2004bel04/", 
+            "http://www.loc.gov/item/mfdip.2004bel04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "stern, thomas", 
+            "gleysteen, william h."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000423/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. arms control and disarmament agency", 
+            "peace treaties", 
+            "law of the sea", 
+            "world trade organization", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with William H. Gleysteen, Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.8604976, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "beijing", 
+            "new haven", 
+            "east asia", 
+            "korea", 
+            "tokyo", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "connecticut", 
+            "cambridge", 
+            "china", 
+            "massachusetts", 
+            "japan", 
+            "taiwan", 
+            "hong kong", 
+            "taipei"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1997-06-10", 
+        "shelf_id": "mfdipbib000423", 
+        "other_title": [], 
+        "dates": [
+            "1997-06-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000423/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000423/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004gle01", 
+            "http://www.loc.gov/resource/mfdip.2004gle01/", 
+            "http://www.loc.gov/item/mfdip.2004gle01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "pratt, mark s."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001625/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Mark S. Pratt", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.7693793, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "taichung", 
+            "vientiane", 
+            "eurasia", 
+            "western hemisphere", 
+            "east asia", 
+            "tokyo", 
+            "paris", 
+            "europe", 
+            "guangzhou", 
+            "washington", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "china", 
+            "laos", 
+            "japan", 
+            "taiwan", 
+            "hong kong", 
+            "taipei"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001625", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001625/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001625/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010pra01", 
+            "http://www.loc.gov/resource/mfdip.2010pra01/", 
+            "http://www.loc.gov/item/mfdip.2010pra01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "thayer, harry e.t."
+        ], 
+        "latlong": "40.7305991,-73.9865812", 
+        "id": "http://www.loc.gov/item/mfdipbib001170/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "protection and welfare", 
+            "camp david", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Harry E.T. Thayer", 
+        "coordinates": [
+            "40.7305991,-73.9865812"
+        ], 
+        "score": 1.7637370999999999, 
+        "lonlat": [
+            -73.986581200000003, 
+            40.730599099999999
+        ], 
+        "location": [
+            "beijing", 
+            "east asia", 
+            "pacific", 
+            "united states", 
+            "new york", 
+            "china", 
+            "taiwan", 
+            "hong kong", 
+            "taipei"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1990-11-19", 
+        "shelf_id": "mfdipbib001170", 
+        "other_title": [], 
+        "dates": [
+            "1990-11-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001170/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001170/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004tha01", 
+            "http://www.loc.gov/resource/mfdip.2004tha01/", 
+            "http://www.loc.gov/item/mfdip.2004tha01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "taylor, john j. \"jay\""
+        ], 
+        "latlong": "23.1379911,-82.3658562", 
+        "id": "http://www.loc.gov/item/mfdipbib001465/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "berlin wall, berlin, germany", 
+            "american republics", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John J. \"Jay\" Taylor", 
+        "coordinates": [
+            "23.1379911,-82.3658562"
+        ], 
+        "score": 1.6890407000000001, 
+        "lonlat": [
+            -82.365856199999996, 
+            23.137991100000001
+        ], 
+        "location": [
+            "ghana", 
+            "beijing", 
+            "havana", 
+            "indonesia", 
+            "western hemisphere", 
+            "east asia", 
+            "taichung", 
+            "pretoria", 
+            "cuba", 
+            "africa", 
+            "kuching", 
+            "pacific", 
+            "china", 
+            "accra", 
+            "namibia", 
+            "taiwan", 
+            "south africa", 
+            "hong kong", 
+            "windhoek"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2000-04-25", 
+        "shelf_id": "mfdipbib001465", 
+        "other_title": [], 
+        "dates": [
+            "2000-04-25T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001465/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001465/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007tay02", 
+            "http://www.loc.gov/resource/mfdip.2007tay02/", 
+            "http://www.loc.gov/item/mfdip.2007tay02/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "dillery, carl edward": "https://www.loc.gov/search/?fa=contributor%3Adillery%2C+carl+edward&fo=json"
+        }, 
+        {
+            "feldman, harvey": "https://www.loc.gov/search/?fa=contributor%3Afeldman%2C+harvey&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Ambassadors", 
+        "United States citizens", 
+        "United States. Arms Control and Disarmament Agency", 
+        "Camp David", 
+        "Eastern Bloc", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "United States -- Illinois -- Chicago", 
+        "United States -- New York -- New York", 
+        "United States -- New York", 
+        "Bulgaria -- Sofia", 
+        "China -- Hong Kong", 
+        "Taiwan -- Taichung", 
+        "Japan -- Tokyo", 
+        "Taiwan -- Taipei", 
+        "Ghana -- Accra", 
+        "Japan -- Nagoya", 
+        "Papua New Guinea", 
+        "Europe and Eurasia", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "March 11, 1999"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004fel02#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000363/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "ambassadors", 
+        "united states citizens", 
+        "united states. arms control and disarmament agency", 
+        "camp david", 
+        "eastern bloc", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004fel02"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.1826819999999998, 
+    "title": "Interview with Harvey Feldman ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "ambassadors": "https://www.loc.gov/search/?fa=subject%3Aambassadors&fo=json"
+        }, 
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "camp david": "https://www.loc.gov/search/?fa=subject%3Acamp+david&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "eastern bloc": "https://www.loc.gov/search/?fa=subject%3Aeastern+bloc&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "united states citizens": "https://www.loc.gov/search/?fa=subject%3Aunited+states+citizens&fo=json"
+        }, 
+        {
+            "united states. arms control and disarmament agency": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+arms+control+and+disarmament+agency&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "accra": "https://www.loc.gov/search/?fa=location%3Aaccra&fo=json"
+        }, 
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "bulgaria": "https://www.loc.gov/search/?fa=location%3Abulgaria&fo=json"
+        }, 
+        {
+            "chicago": "https://www.loc.gov/search/?fa=location%3Achicago&fo=json"
+        }, 
+        {
+            "china": "https://www.loc.gov/search/?fa=location%3Achina&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "ghana": "https://www.loc.gov/search/?fa=location%3Aghana&fo=json"
+        }, 
+        {
+            "hong kong": "https://www.loc.gov/search/?fa=location%3Ahong+kong&fo=json"
+        }, 
+        {
+            "illinois": "https://www.loc.gov/search/?fa=location%3Aillinois&fo=json"
+        }, 
+        {
+            "japan": "https://www.loc.gov/search/?fa=location%3Ajapan&fo=json"
+        }, 
+        {
+            "nagoya": "https://www.loc.gov/search/?fa=location%3Anagoya&fo=json"
+        }, 
+        {
+            "new york": "https://www.loc.gov/search/?fa=location%3Anew+york&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "papua new guinea": "https://www.loc.gov/search/?fa=location%3Apapua+new+guinea&fo=json"
+        }, 
+        {
+            "sofia": "https://www.loc.gov/search/?fa=location%3Asofia&fo=json"
+        }, 
+        {
+            "taichung": "https://www.loc.gov/search/?fa=location%3Ataichung&fo=json"
+        }, 
+        {
+            "taipei": "https://www.loc.gov/search/?fa=location%3Ataipei&fo=json"
+        }, 
+        {
+            "taiwan": "https://www.loc.gov/search/?fa=location%3Ataiwan&fo=json"
+        }, 
+        {
+            "tokyo": "https://www.loc.gov/search/?fa=location%3Atokyo&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }
+    ], 
+    "_version_": 1540399475214778368, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:30:14.181000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:14.455000Z", 
+    "date": "19990311", 
+    "shelf_id": "mfdipbib000363", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1999": "https://www.loc.gov/search/?dates=1999-1999&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000363/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000363/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004fel02", 
+        "http://www.loc.gov/resource/mfdip.2004fel02/", 
+        "http://www.loc.gov/item/mfdip.2004fel02/"
+    ], 
+    "contributor_names": [
+        "Dillery, Carl Edward (Interviewer)", 
+        "Feldman, Harvey, 1931- (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.24351406097412109, 
+    "default_count": 25, 
+    "id": "mfdipbib000363/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000363/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004fel02/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004fel02/2004fel02.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004fel02/2004fel02.pdf"
+    }
+]}

@@ -1,0 +1,1583 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "North, W. H. &amp; Macarthur, A. G. (1999) <cite>Interview with Archibald Gordon MacArthur</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000731/.", 
+    "mla": "North, William Haven, and Archibald Gordon Macarthur. <cite>Interview with Archibald Gordon MacArthur</cite>. 1999. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000731/&gt;.", 
+    "chicago": "North, William Haven, and Archibald Gordon Macarthur. <cite>Interview with Archibald Gordon MacArthur</cite>. 1999. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000731/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412129707,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -73.94861111111112, 
+                    40.744722222222222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Long Island City (New York, N.Y.)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dutch Kills (New York, N.Y.)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n84016900"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "1052a371b22f84b2", 
+                        "name": "New York"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "8866a5997b2d076c", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -4.0161585000000004, 
+                    5.3201789000000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Abidjan", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "af", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0623\u0628\u064a\u062f\u062c\u0627\u0646"
+                    }, 
+                    {
+                        "lang": "be", 
+                        "name": "\u0413\u043e\u0440\u0430\u0434 \u0410\u0431\u0456\u0434\u0436\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0410\u0431\u0438\u0434\u0436\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "bn", 
+                        "name": "\u0986\u09ac\u09bf\u099c\u09be\u09a8"
+                    }, 
+                    {
+                        "lang": "br", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "bs", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ca", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Abid\u017ean"
+                    }, 
+                    {
+                        "lang": "cy", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "da", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u0391\u03bc\u03c0\u03b9\u03c4\u03b6\u03ac\u03bd"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Abi\u011dano"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Abiy\u00e1n"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u0622\u0628\u06cc\u062c\u0627\u0646"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "gd", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "gl", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "gv", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d0\u05d1\u05d9\u05d3\u05d2'\u05d0\u05df"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "id", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "io", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30a2\u30d3\u30b8\u30e3\u30f3"
+                    }, 
+                    {
+                        "lang": "jv", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ko", 
+                        "name": "\uc544\ube44\uc7a5"
+                    }, 
+                    {
+                        "lang": "la", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ln", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Abid\u017eanas"
+                    }, 
+                    {
+                        "lang": "lv", 
+                        "name": "Abid\u017e\u0101na"
+                    }, 
+                    {
+                        "lang": "mg", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "mk", 
+                        "name": "\u0410\u0431\u0438\u045f\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "ml", 
+                        "name": "\u0d05\u0d2c\u0d3f\u0d1c\u0d3e\u0d7b"
+                    }, 
+                    {
+                        "lang": "mr", 
+                        "name": "\u0906\u092c\u093f\u091c\u093e\u0928"
+                    }, 
+                    {
+                        "lang": "ms", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "nn", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "oc", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Abid\u017can"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ro", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0410\u0431\u0438\u0434\u0436\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "sc", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Abid\u017ean"
+                    }, 
+                    {
+                        "lang": "sq", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "sr", 
+                        "name": "\u0410\u0431\u0438\u045f\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "sw", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "th", 
+                        "name": "\u0e2d\u0e32\u0e1a\u0e35\u0e08\u0e32\u0e19"
+                    }, 
+                    {
+                        "lang": "tk", 
+                        "name": "Abijan"
+                    }, 
+                    {
+                        "lang": "tr", 
+                        "name": "Abican"
+                    }, 
+                    {
+                        "lang": "uk", 
+                        "name": "\u0410\u0431\u0456\u0434\u0436\u0430\u043d"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "vo", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "yo", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u963f\u6bd4\u8ba9"
+                    }, 
+                    {
+                        "lang": "als", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "kab", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "lmo", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "nov", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "pms", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "war", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "bat-smg", 
+                        "name": "Abid\u017eans"
+                    }, 
+                    {
+                        "lang": "roa-rup", 
+                        "name": "Abidjan"
+                    }, 
+                    {
+                        "lang": "zh-min-nan", 
+                        "name": "Abidjan"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1046100133"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "I.C. CIV Republic of Ivory Coast Republic of Cote D'Ivoire", 
+                        "id": "2b8d5e0bb66778ba", 
+                        "name": "C\u00f4te d'Ivoire"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "89520a588946ca46", 
+                        "name": "Lagunes"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "70d4062c80de37be", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.551666666666668, 
+                    -4.2022222222222227
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kimpoko (Zaire)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Kimpoko, Zaire"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Kimpoko, Zaire"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n82055253"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Kinshasa|L\u00e9opoldville", 
+                        "id": "d52620067da2e018", 
+                        "name": "Kinshasa City"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Democratic Republic of the Congo Congo, Dem. Rep. D.R.C. COD Democratic Republic of the Congo", 
+                        "id": "64ec8800c4ac6595", 
+                        "name": "Dem. Rep. Congo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5d785e1e34ea0e7b", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000101/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 1, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "\"Nowadays most Paterson folks work out of town.\"", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.86712180000000005, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000101/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000101/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02804", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02804/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02804/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000103/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 2, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Vision for the future of the historic district", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.86712180000000005, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000103/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000103/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02806", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02806/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02806/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000104/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 3, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Most important thing to know about Paterson", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.86712180000000005, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000104/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000104/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02807", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02807/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02807/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000105/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 4, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "The character of Paterson", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.86712180000000005, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000105/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000105/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02808", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02808/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02808/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "latlong": "40.9166666667,-74.1719444444", 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000102/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 5, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Manufacturing in Paterson", 
+        "coordinates": [
+            "40.9166666667,-74.1719444444"
+        ], 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.82957815999999995, 
+        "lonlat": [
+            -74.171944444399998, 
+            40.916666666700003
+        ], 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "paterson", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000102/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000102/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02805", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02805/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02805/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "hardin, james", 
+            "lautenberg, frank r.", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000093/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "neighborhood", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 6, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "\"It was an industrial community in every sense of the word.\"", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.79295680000000002, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:24.742000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.401000Z", 
+        "date": "1995-03-22", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A027", 
+        "other_title": [], 
+        "dates": [
+            "1995-03-22T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000093/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000093/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02701", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02701/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02701/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "shear, david"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001048/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. agency for international development", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with David Shear", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 6.5740036999999996, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "africa", 
+            "tanzania", 
+            "washington", 
+            "abidjan", 
+            "united states", 
+            "senegal", 
+            "ivory coast", 
+            "nigeria"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:46.263000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+        "date": "1998-01-13", 
+        "shelf_id": "mfdipbib001048", 
+        "other_title": [], 
+        "dates": [
+            "1998-01-13T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001048/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001048/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004she01", 
+            "http://www.loc.gov/resource/mfdip.2004she01/", 
+            "http://www.loc.gov/item/mfdip.2004she01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "gilbert, frederick e."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000417/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "camp david", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Frederick E. Gilbert", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 5.1859149999999996, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "ghana", 
+            "africa", 
+            "equatorial guinea", 
+            "sudan", 
+            "guinea", 
+            "tanzania", 
+            "washington", 
+            "united states", 
+            "mauritania", 
+            "gabon", 
+            "ivory coast", 
+            "nigeria", 
+            "cameroon", 
+            "cote d'ivoire", 
+            "central african empire"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1997-09-04", 
+        "shelf_id": "mfdipbib000417", 
+        "other_title": [], 
+        "dates": [
+            "1997-09-04T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000417/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000417/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004gil01", 
+            "http://www.loc.gov/resource/mfdip.2004gil01/", 
+            "http://www.loc.gov/item/mfdip.2004gil01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "sinding, steven w."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001070/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Steven W. Sinding", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 5.1203399999999997, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "united states", 
+            "washington d.c.", 
+            "new york", 
+            "washington"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:46.263000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+        "date": "2001-02-27", 
+        "shelf_id": "mfdipbib001070", 
+        "other_title": [], 
+        "dates": [
+            "2001-02-27T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001070/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001070/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004sin01", 
+            "http://www.loc.gov/resource/mfdip.2004sin01/", 
+            "http://www.loc.gov/item/mfdip.2004sin01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "podol, richard"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000937/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "foreign assistance", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard Podol", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 5.0910872999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "ankara", 
+            "europe", 
+            "africa", 
+            "bangladesh", 
+            "eurasia", 
+            "washington", 
+            "tanzania", 
+            "nepal", 
+            "india", 
+            "turkey", 
+            "united states", 
+            "uganda", 
+            "central asia", 
+            "zaire", 
+            "dar es salaam"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1996-09-12", 
+        "shelf_id": "Foreign Assistance Series", 
+        "other_title": [], 
+        "dates": [
+            "1996-09-12T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000937/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000937/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004pod01", 
+            "http://www.loc.gov/resource/mfdip.2004pod01/", 
+            "http://www.loc.gov/item/mfdip.2004pod01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "poats, rutherford m."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000936/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Rutherford M. Poats", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.9119900000000003, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "united states", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1999-01-13", 
+        "shelf_id": "mfdipbib000936", 
+        "other_title": [], 
+        "dates": [
+            "1999-01-13T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000936/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000936/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004poa01", 
+            "http://www.loc.gov/resource/mfdip.2004poa01/", 
+            "http://www.loc.gov/item/mfdip.2004poa01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "north, william haven", 
+            "pielemeier, john d."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000929/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. agency for international development", 
+            "berlin wall, berlin, germany", 
+            "united states. dept. of state. bureau of near eastern affairs", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John D. Pielemeier", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 4.7852329999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "brazil", 
+            "africa", 
+            "liberia", 
+            "brasilia", 
+            "washington", 
+            "rio de janeiro", 
+            "cape verde", 
+            "united states", 
+            "western hemisphere", 
+            "ivory coast", 
+            "botswana"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:24.313000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+        "date": "1997-09-24", 
+        "shelf_id": "mfdipbib000929", 
+        "other_title": [], 
+        "dates": [
+            "1997-09-24T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000929/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000929/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004pie02", 
+            "http://www.loc.gov/resource/mfdip.2004pie02/", 
+            "http://www.loc.gov/item/mfdip.2004pie02/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "macarthur, archibald gordon": "https://www.loc.gov/search/?fa=contributor%3Amacarthur%2C+archibald+gordon&fo=json"
+        }, 
+        {
+            "north, william haven": "https://www.loc.gov/search/?fa=contributor%3Anorth%2C+william+haven&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "United States -- New York -- New York City", 
+        "Ivory Coast -- Abidjan", 
+        "Zaire"
+    ], 
+    "created_published": [
+        "February 12, 1999"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004mac02#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000731/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004mac02"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.8341550000000009, 
+    "title": "Interview with Archibald Gordon MacArthur ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "abidjan": "https://www.loc.gov/search/?fa=location%3Aabidjan&fo=json"
+        }, 
+        {
+            "ivory coast": "https://www.loc.gov/search/?fa=location%3Aivory+coast&fo=json"
+        }, 
+        {
+            "new york": "https://www.loc.gov/search/?fa=location%3Anew+york&fo=json"
+        }, 
+        {
+            "new york city": "https://www.loc.gov/search/?fa=location%3Anew+york+city&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "zaire": "https://www.loc.gov/search/?fa=location%3Azaire&fo=json"
+        }
+    ], 
+    "_version_": 1540399567559720960, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:31:43.242000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+    "date": "19990212", 
+    "shelf_id": "mfdipbib000731", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1999": "https://www.loc.gov/search/?dates=1999-1999&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000731/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000731/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004mac02", 
+        "http://www.loc.gov/resource/mfdip.2004mac02/", 
+        "http://www.loc.gov/item/mfdip.2004mac02/"
+    ], 
+    "contributor_names": [
+        "North, William Haven (Interviewer)", 
+        "MacArthur, Archibald Gordon (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.49910712242126465, 
+    "default_count": 25, 
+    "id": "mfdipbib000731/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000731/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004mac02/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004mac02/2004mac02.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004mac02/2004mac02.pdf"
+    }
+]}

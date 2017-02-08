@@ -1,0 +1,1824 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Swiers, P. B. (1994) <cite>Interview with Peter B. Swiers</cite>. June 6. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001153/.", 
+    "mla": "Kennedy, Charles Stuart, and Peter B Swiers. <cite>Interview with Peter B. Swiers</cite>. June 6, 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001153/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Peter B Swiers. <cite>Interview with Peter B. Swiers</cite>. June 6, 1994. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001153/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412072759,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.55062, 
+                    52.347140000000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Frankfurt (Oder)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Frankfort on the Oder"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del Odra"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Frankfurt nad Odr\u0105"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Fr\u00e1ncfort del \u00d3der"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "af", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "bg", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442 \u043d\u0430 \u041e\u0434\u0435\u0440"
+                    }, 
+                    {
+                        "lang": "eo", 
+                        "name": "Frankfurto \u0109e Odro"
+                    }, 
+                    {
+                        "lang": "et", 
+                        "name": "Frankfurt Oderi \u00e4\u00e4res"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Francfort-sur-l'Oder"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "it", 
+                        "name": "Francoforte sull'Oder"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30d5\u30e9\u30f3\u30af\u30d5\u30eb\u30c8\u30fb\u30a2\u30f3\u30fb\u30c7\u30a2\u30fb\u30aa\u30fc\u30c0\u30fc"
+                    }, 
+                    {
+                        "lang": "ka", 
+                        "name": "\u10e4\u10e0\u10d0\u10dc\u10d9\u10e4\u10e3\u10e0\u10e2-\u10d0\u10dc-\u10d3\u10d4\u10e0-\u10dd\u10d3\u10d4\u10e0\u10d8"
+                    }, 
+                    {
+                        "lang": "lt", 
+                        "name": "Frankfurtas prie Oderio"
+                    }, 
+                    {
+                        "lang": "nds", 
+                        "name": "Frankfort an de Oder"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "nn", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "no", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ro", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442-\u043d\u0430-\u041e\u0434\u0435\u0440\u0435"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Frankfurt na Odri"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e4\u05e8\u05e0\u05e7\u05e4\u05d5\u05e8\u05d8 \u05e2\u05dc \u05d4\u05d0\u05d5\u05d3\u05e8"
+                    }, 
+                    {
+                        "lang": "id", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vo", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "jv", 
+                        "name": "Frankfurt an der Oder"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Frankfurt"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Frankfurt (Oder)"
+                    }, 
+                    {
+                        "lang": "ca", 
+                        "name": "Frankfurt de l'Oder"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Frankfurt_%28Oder%29"
+                    }, 
+                    {
+                        "lang": "iata", 
+                        "name": "ZFR"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2925535"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f5135199aad9fe96", 
+                        "name": "Brandenburg"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "69f85a8b5ddf13bc", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    23.733333333333331, 
+                    37.983333333333334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Athens (Greece)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Ath\u012bn\u0101 (Greece)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79018143"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Greece GRC Hellenic Republic", 
+                        "id": "1a76577783e1a426", 
+                        "name": "Greece"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Attica", 
+                        "id": "7f8f8a0859b3f505", 
+                        "name": "Attiki"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "2982f7fc24fdb0e8", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0999999999999996, 
+                    50.733333333333334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bonn (Germany)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Po-en (Germany)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79046411"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ger. DEU Federal Republic of Germany", 
+                        "id": "22af3d03ffd9ef92", 
+                        "name": "Germany"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "North Rhine-Westphalia", 
+                        "id": "51b19be0557c82ab", 
+                        "name": "Nordrhein-Westfalen"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "70e08355607cf8da", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.7, 
+                    3.1666666666666665
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kuala Lumpur (Malaysia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "K.L. (Malaysia)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Kuala Lumpur"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79011077"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Negeri Sembilan Darul Khusus|Negri Sembilan", 
+                        "id": "6571f97a09ff4fc8", 
+                        "name": "Negeri Sembilan"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Malay. MYS", 
+                        "id": "832f529511141462", 
+                        "name": "Malaysia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "afecb18d4b0298ad", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.583333333333334, 
+                    55.68333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Christianshavn (Copenhagen, Denmark)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Christianshavn, Copenhagen."
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Christianshavn, Copenhagen."
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80028051"
+                ], 
+                "admin": [], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "74d7556f5cd2e2b4", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "55.6833333333,12.5833333333", 
+        "contributor": [
+            "emilius b\u00e6rentzen & co.", 
+            "fillmore, millard"
+        ], 
+        "id": "http://www.loc.gov/item/2012593340/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "copenhagen (denmark)", 
+            "maps", 
+            "fortification", 
+            "denmark", 
+            "copenhagen", 
+            "harbors"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Plan af Kj\u00f6benhavn = Plan of Copenhagen", 
+        "coordinates": [
+            "55.6833333333,12.5833333333"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15522739999999999, 
+        "lonlat": [
+            12.583333333300001, 
+            55.683333333299998
+        ], 
+        "location": [
+            "Copenhagen", 
+            "Denmark", 
+            "denmark", 
+            "copenhagen"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "City street map showing principal buildings, administrative wards, circumferential military fortifications (ramparts/bastions/canals, moats), and port facilities. Title on sheet and index in Danish and English. Signed in ink script on label affixed to cover title panel: City of Copenhagen, Millard Fillmore, May 8th, 1856, No. 36; and on inside of cover: Millard Fillmore, May 8, 1856. Seller's name label affixed to inside of cover. Sheet sectioned to 15 panels to enable folding; cloth hemmed. Includes index to official institutions and points of interest. Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:02:19.238000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:22.817000Z", 
+        "date": "1853", 
+        "shelf_id": "G6924.C6 1853 .E3", 
+        "other_title": [
+            "Plan of Copenhagen", 
+            "Kj\u00f6benhavn"
+        ], 
+        "dates": [
+            "1853-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "danish"
+        ], 
+        "url": "https://www.loc.gov/item/2012593340/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd6/g6924/g6924c/fi000036.gif", 
+            "//cdn.loc.gov/service/gmd/gmd6/g6924/g6924c/fi000036.gif#h=150&w=227", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd6:g6924:g6924c:fi000036/full/pct:6.25/0/default.jpg#h=277&w=418", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd6:g6924:g6924c:fi000036/full/pct:12.5/0/default.jpg#h=554&w=837", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd6:g6924:g6924c:fi000036/full/pct:25/0/default.jpg#h=1108&w=1675"
+        ], 
+        "aka": [
+            "http://www.loc.gov/resource/g6924c.fi000036/", 
+            "http://www.loc.gov/item/2012593340/", 
+            "http://hdl.loc.gov/loc.gmd/g6924c.fi000036", 
+            "http://lccn.loc.gov/2012593340"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "kawabe, sumiko"
+        ], 
+        "id": "http://lccn.loc.gov/2012421834", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "mar\u0113shia nihonjin sh\u014dk\u014d kaigisho", 
+            "history", 
+            "boards of trade", 
+            "malaysia", 
+            "kuala lumpur", 
+            "20th century", 
+            "21st century", 
+            "corporations, japanese"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Mar\u0113shia Nihonjin Sh\u014dk\u014d Kaigisho no katsud\u014d /", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "score": 0.15309964000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references (pages 243-265 (second group))."
+        ], 
+        "timestamp": "2015-03-03T06:01:34.755000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T04:44:10.356000Z", 
+        "date": "2012", 
+        "shelf_id": "HF331.M34 K39 2012", 
+        "other_title": [
+            "\u30de\u30ec\u30fc\u30b7\u30a2\u65e5\u672c\u4eba\u5546\u5de5\u4f1a\u8b70\u6240\u306e\u6d3b\u52d5 /"
+        ], 
+        "dates": [
+            "2012-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "japanese"
+        ], 
+        "url": "//lccn.loc.gov/2012421834", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://lccn.loc.gov/2012421834", 
+            "http://www.bk1.jp/trcno/12022719/?partnerid=oclc&siteid=oclc", 
+            "http://www.loc.gov/item/2012421834/", 
+            "http://www.loc.gov/catdir/toc/fy13pdf03/2012421834.html"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "great britain. central office of information"
+        ], 
+        "id": "http://www.loc.gov/item/2014645438/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 3101", 
+            "catalog"
+        ], 
+        "subject": [
+            "men", 
+            "education", 
+            "malaysia", 
+            "kuala lumpur", 
+            "students", 
+            "classrooms", 
+            "universities & colleges", 
+            "photomechanical prints"
+        ], 
+        "index": 3, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Colonial empire - introducing Malaya and Borneo. Primary education is available throughout Malaya in Tamil, Chinese, and Malay, while children of all races attend the English schools which take them to School Certificate standard. Here is a mixed class in a Kuala Lumpur college", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15309964000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photograph : photomechanical ; 30.5 x 38 cm. | Photograph shows young men of several ethnicities sitting in desks in a classroom listening to a teacher."
+        ], 
+        "timestamp": "2016-07-20T00:24:27.093000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:02:08.021000Z", 
+        "date": "1948", 
+        "shelf_id": "LOT 3101 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1948-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2014645438/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ds/04700/04787_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2014645438/", 
+            "http://www.loc.gov/item/2014645438/", 
+            "http://www.loc.gov/pictures/item/2014645438/", 
+            "http://hdl.loc.gov/loc.pnp/ds.04787", 
+            "http://www.loc.gov/resource/ds.04787/", 
+            "http://lccn.loc.gov/2014645438"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "great britain. central office of information"
+        ], 
+        "id": "http://www.loc.gov/item/2014645440/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 3101", 
+            "catalog"
+        ], 
+        "subject": [
+            "children", 
+            "health & welfare", 
+            "malaysia", 
+            "kuala lumpur", 
+            "food", 
+            "assistance", 
+            "photomechanical prints"
+        ], 
+        "index": 4, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Colonial empire - introducing Malaya and Borneo. The Japanese armies left Malaya in a pitiful state after their surrender. The Government decided to set up a new Department of Social Welfare, with wide responsibilities. Needy children get a free meal at a Kuala Lumpur clinic", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15309964000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photograph : photomechanical ; 30.5 x 38 cm. | Photograph shows a woman serving food to children."
+        ], 
+        "timestamp": "2016-07-20T00:24:27.093000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:02:08.021000Z", 
+        "date": "1948", 
+        "shelf_id": "LOT 3101 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1948-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2014645440/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ds/04700/04782_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2014645440/", 
+            "http://www.loc.gov/item/2014645440/", 
+            "http://www.loc.gov/pictures/item/2014645440/", 
+            "http://hdl.loc.gov/loc.pnp/ds.04782", 
+            "http://www.loc.gov/resource/ds.04782/", 
+            "http://lccn.loc.gov/2014645440"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "united states. office for emergency management"
+        ], 
+        "id": "http://www.loc.gov/item/2013650315/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 11612", 
+            "catalog"
+        ], 
+        "subject": [
+            "india", 
+            "army", 
+            "corps of indian engineers", 
+            "people", 
+            "malaysia", 
+            "kuala lumpur", 
+            "world war", 
+            "destruction & pillage", 
+            "great britain", 
+            "mines (weapons)", 
+            "truss bridges", 
+            "photographic prints"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Malaya - Britain pursues \"scorched earth\" policy ... British forces in Malaya have burnt thousands of bales of rubber, destroyed rubber factories and smashed machinery. Indian sappers and miners are seen mining a bridge near Kuala Lumpur.", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15309964000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print."
+        ], 
+        "timestamp": "2016-07-20T00:22:17.697000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:02:01.056000Z", 
+        "date": "1941", 
+        "shelf_id": "LOT 11612 [item] [P&P]", 
+        "other_title": [
+            "Kuala Lumpur (vicinity), Malay States. Indian sappers mining a bridge."
+        ], 
+        "dates": [
+            "1941-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2013650315/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ds/04800/04814_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ds/04800/04814_150px.jpg#h=115&w=150", 
+            "//cdn.loc.gov/service/pnp/ds/04800/04814r.jpg#h=491&w=640", 
+            "//cdn.loc.gov/service/pnp/ds/04800/04814v.jpg#h=785&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2013650315/", 
+            "http://www.loc.gov/item/2013650315/", 
+            "http://www.loc.gov/pictures/item/2013650315/", 
+            "http://hdl.loc.gov/loc.pnp/ds.04814", 
+            "http://www.loc.gov/resource/ds.04814/", 
+            "http://lccn.loc.gov/2013650315"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "id": "http://www.loc.gov/item/2008676372/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 6044", 
+            "catalog"
+        ], 
+        "subject": [
+            "world war", 
+            "air operations", 
+            "american", 
+            "malaysia", 
+            "kuala lumpur", 
+            "military air pilots", 
+            "bombers", 
+            "aerial bombings", 
+            "photographic prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "High over Malaya -- Two B-29 Superfortresses of Brigadier General Roger M. Ramey's XX Bomber Command are visible through the nose of a third Superfort as the giant bombers begin a bombing run over the important railway yards and repair shops utilized by the Japanese at Kuala Lumpur, north of Singapore", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.15309964000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print. | Rear view of pilot in cockpit of B-29 Superfortress bomber."
+        ], 
+        "timestamp": "2016-07-19T23:51:10.522000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:00:27.345000Z", 
+        "date": "1942", 
+        "shelf_id": "LOT 6044 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1942-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008676372/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/19000/19011_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2008676372/", 
+            "http://www.loc.gov/item/2008676372/", 
+            "http://www.loc.gov/pictures/item/2008676372/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.19011", 
+            "http://www.loc.gov/resource/ppmsca.19011/", 
+            "http://lccn.loc.gov/2008676372"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "zimmermann, warren"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001307/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "protection and welfare", 
+            "camp david", 
+            "kremlin (moscow, russia)", 
+            "ss-20 missile", 
+            "israel-arab war", 
+            "mutual and balanced force reduction", 
+            "organization for security and cooperation in europe", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Warren Zimmermann", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.1996739999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "belgrade", 
+            "geneva", 
+            "eurasia", 
+            "paris", 
+            "madrid", 
+            "moscow", 
+            "washington", 
+            "western hemisphere", 
+            "france", 
+            "united states", 
+            "austria", 
+            "ussr", 
+            "yugoslavia", 
+            "switzerland", 
+            "caracas", 
+            "venezuela", 
+            "spain", 
+            "vienna"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "1996-12-10", 
+        "shelf_id": "mfdipbib001307", 
+        "other_title": [], 
+        "dates": [
+            "1996-12-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001307/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001307/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004zim02", 
+            "http://www.loc.gov/resource/mfdip.2004zim02/", 
+            "http://www.loc.gov/item/mfdip.2004zim02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "stearman, william lloyd"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001117/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "hungarian revolution of 1956", 
+            "camp david", 
+            "berlin wall, berlin, germany", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "berlin airlift", 
+            "peace treaties", 
+            "mutual and balanced force reduction", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with William Lloyd Stearman", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.8673929999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "europe", 
+            "east asia", 
+            "eurasia", 
+            "washington", 
+            "pacific", 
+            "west berlin", 
+            "united states", 
+            "austria", 
+            "vietnam", 
+            "germany", 
+            "bonn", 
+            "ussr", 
+            "vienna"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1992-04-15", 
+        "shelf_id": "mfdipbib001117", 
+        "other_title": [], 
+        "dates": [
+            "1992-04-15T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001117/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001117/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ste01", 
+            "http://www.loc.gov/resource/mfdip.2004ste01/", 
+            "http://www.loc.gov/item/mfdip.2004ste01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "barry, robert l."
+        ], 
+        "latlong": "40.7305991,-73.9865812", 
+        "id": "http://www.loc.gov/item/mfdipbib000051/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states citizens", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "united states. dept. of state. bureau of east asian and pacific affairs", 
+            "six day war", 
+            "kremlin (moscow, russia)", 
+            "ss-20 missile", 
+            "israel-arab war", 
+            "mutual and balanced force reduction", 
+            "organization for security and cooperation in europe", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert L. Barry", 
+        "coordinates": [
+            "40.7305991,-73.9865812"
+        ], 
+        "score": 2.4876901999999999, 
+        "lonlat": [
+            -73.986581200000003, 
+            40.730599099999999
+        ], 
+        "location": [
+            "hanover", 
+            "europe", 
+            "garmisch", 
+            "indonesia", 
+            "eurasia", 
+            "east asia", 
+            "bosnia", 
+            "zagreb", 
+            "new hampshire", 
+            "moscow", 
+            "herzegovina", 
+            "pacific", 
+            "united states", 
+            "saint petersburg", 
+            "new york", 
+            "germany", 
+            "partenkirchen", 
+            "croatia", 
+            "russia", 
+            "sarajevo"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1996-10-02", 
+        "shelf_id": "mfdipbib000051", 
+        "other_title": [], 
+        "dates": [
+            "1996-10-02T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000051/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000051/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004bar10", 
+            "http://www.loc.gov/resource/mfdip.2004bar10/", 
+            "http://www.loc.gov/item/mfdip.2004bar10/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "shostal, pierre"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001059/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "suez crisis", 
+            "cuban missile crisis", 
+            "nonproliferation, nuclear", 
+            "politburo", 
+            "six day war", 
+            "berlin wall, berlin, germany", 
+            "kremlin (moscow, russia)", 
+            "ss-20 missile", 
+            "mutual and balanced force reduction", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Pierre Shostal", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.4840517000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "rwanda", 
+            "europe", 
+            "kinshasa", 
+            "eurasia", 
+            "leopoldville", 
+            "kigali", 
+            "africa", 
+            "moscow", 
+            "washington", 
+            "lilongwe", 
+            "united states", 
+            "ussr", 
+            "new york", 
+            "germany", 
+            "hamburg", 
+            "belgium", 
+            "zaire", 
+            "brussels", 
+            "frankfurt", 
+            "malawi"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:46.263000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+        "date": "1997-06-16", 
+        "shelf_id": "mfdipbib001059", 
+        "other_title": [], 
+        "dates": [
+            "1997-06-16T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001059/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001059/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004sho02", 
+            "http://www.loc.gov/resource/mfdip.2004sho02/", 
+            "http://www.loc.gov/item/mfdip.2004sho02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "niles, thomas m.t."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000869/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "ambassadors", 
+            "united states citizens", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "camp david", 
+            "six day war", 
+            "berlin wall, berlin, germany", 
+            "peace treaties", 
+            "kremlin (moscow, russia)", 
+            "law of the sea", 
+            "mutual and balanced force reduction", 
+            "organization for security and cooperation in europe", 
+            "world trade organization", 
+            "north american free trade association", 
+            "uruguay round", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Thomas M.T. Niles", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.4539452000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "canada", 
+            "garmisch", 
+            "fort lesley", 
+            "western hemisphere", 
+            "belgrade", 
+            "eurasia", 
+            "moscow", 
+            "washington", 
+            "united states", 
+            "ussr", 
+            "yugoslavia", 
+            "greece", 
+            "belgium", 
+            "germany", 
+            "brussels", 
+            "europe"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1998-06-05", 
+        "shelf_id": "mfdipbib000869", 
+        "other_title": [], 
+        "dates": [
+            "1998-06-05T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000869/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000869/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004nil01", 
+            "http://www.loc.gov/resource/mfdip.2004nil01/", 
+            "http://www.loc.gov/item/mfdip.2004nil01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "moffat, jay p.", 
+            "glassman, jon david"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000422/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "ambassadors", 
+            "united states. arms control and disarmament agency", 
+            "politburo", 
+            "six day war", 
+            "kremlin (moscow, russia)", 
+            "israel-arab war", 
+            "mutual and balanced force reduction", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Jon David Glassman", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.4164927, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "madrid", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "central asia", 
+            "paraguay", 
+            "central europe", 
+            "new zealand", 
+            "nicaragua", 
+            "soviet union", 
+            "afghanistan", 
+            "mexico", 
+            "kabul", 
+            "new york", 
+            "washington d.c.", 
+            "mexico city", 
+            "australia", 
+            "cuba", 
+            "moscow", 
+            "california", 
+            "spain", 
+            "havana", 
+            "east asia", 
+            "el salvador", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1997-12-19", 
+        "shelf_id": "mfdipbib000422", 
+        "other_title": [], 
+        "dates": [
+            "1997-12-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000422/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000422/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004gla01", 
+            "http://www.loc.gov/resource/mfdip.2004gla01/", 
+            "http://www.loc.gov/item/mfdip.2004gla01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "swiers, peter": "https://www.loc.gov/search/?fa=contributor%3Aswiers%2C+peter&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "General Agreement on Tariffs and Trade", 
+        "Cuban Missile Crisis, 1962", 
+        "United States. Arms Control and Disarmament Agency", 
+        "Politburo", 
+        "Camp David", 
+        "Kremlin (Moscow, Russia)", 
+        "Israel-Arab War, 1973", 
+        "Mutual and Balanced Force Reduction", 
+        "United States. SALT/Arms Control Support Group", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Germany -- Frankfurt", 
+        "Greece -- Athens", 
+        "Germany -- Bonn", 
+        "Malaysia -- Kuala Lumpur", 
+        "Denmark -- Copenhagen", 
+        "USSR -- Moscow", 
+        "Europe and Eurasia", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "June 6, 1994"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004swi01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001153/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "general agreement on tariffs and trade", 
+        "cuban missile crisis", 
+        "united states. arms control and disarmament agency", 
+        "politburo", 
+        "camp david", 
+        "kremlin (moscow, russia)", 
+        "israel-arab war", 
+        "mutual and balanced force reduction", 
+        "united states. salt/arms control support group", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004swi01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 7.8641480000000001, 
+    "title": "Interview with Peter B. Swiers ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "camp david": "https://www.loc.gov/search/?fa=subject%3Acamp+david&fo=json"
+        }, 
+        {
+            "cuban missile crisis": "https://www.loc.gov/search/?fa=subject%3Acuban+missile+crisis&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "general agreement on tariffs and trade": "https://www.loc.gov/search/?fa=subject%3Ageneral+agreement+on+tariffs+and+trade&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "israel-arab war": "https://www.loc.gov/search/?fa=subject%3Aisrael-arab+war&fo=json"
+        }, 
+        {
+            "kremlin (moscow, russia)": "https://www.loc.gov/search/?fa=subject%3Akremlin+%28moscow%2C+russia%29&fo=json"
+        }, 
+        {
+            "mutual and balanced force reduction": "https://www.loc.gov/search/?fa=subject%3Amutual+and+balanced+force+reduction&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "politburo": "https://www.loc.gov/search/?fa=subject%3Apolitburo&fo=json"
+        }, 
+        {
+            "united states. arms control and disarmament agency": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+arms+control+and+disarmament+agency&fo=json"
+        }, 
+        {
+            "united states. salt/arms control support group": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+salt%2Farms+control+support+group&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "athens": "https://www.loc.gov/search/?fa=location%3Aathens&fo=json"
+        }, 
+        {
+            "bonn": "https://www.loc.gov/search/?fa=location%3Abonn&fo=json"
+        }, 
+        {
+            "copenhagen": "https://www.loc.gov/search/?fa=location%3Acopenhagen&fo=json"
+        }, 
+        {
+            "denmark": "https://www.loc.gov/search/?fa=location%3Adenmark&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "frankfurt": "https://www.loc.gov/search/?fa=location%3Afrankfurt&fo=json"
+        }, 
+        {
+            "germany": "https://www.loc.gov/search/?fa=location%3Agermany&fo=json"
+        }, 
+        {
+            "greece": "https://www.loc.gov/search/?fa=location%3Agreece&fo=json"
+        }, 
+        {
+            "kuala lumpur": "https://www.loc.gov/search/?fa=location%3Akuala+lumpur&fo=json"
+        }, 
+        {
+            "malaysia": "https://www.loc.gov/search/?fa=location%3Amalaysia&fo=json"
+        }, 
+        {
+            "moscow": "https://www.loc.gov/search/?fa=location%3Amoscow&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "ussr": "https://www.loc.gov/search/?fa=location%3Aussr&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }
+    ], 
+    "_version_": 1540399656489451520, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:07.713000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+    "date": "19940606", 
+    "shelf_id": "mfdipbib001153", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1994": "https://www.loc.gov/search/?dates=1994-1994&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001153/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001153/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004swi01", 
+        "http://www.loc.gov/resource/mfdip.2004swi01/", 
+        "http://www.loc.gov/item/mfdip.2004swi01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Swiers, Peter B. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.22736597061157227, 
+    "default_count": 25, 
+    "id": "mfdipbib001153/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001153/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004swi01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004swi01/2004swi01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004swi01/2004swi01.pdf"
+    }
+]}

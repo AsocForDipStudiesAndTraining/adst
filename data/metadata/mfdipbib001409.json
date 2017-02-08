@@ -1,0 +1,1560 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; McIlvaine, S. (2003) <cite>Interview with Stevenson McIlvaine</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001409/.", 
+    "mla": "Kennedy, Charles Stuart, and Stevenson McIlvaine. <cite>Interview with Stevenson McIlvaine</cite>. 2003. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001409/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Stevenson McIlvaine. <cite>Interview with Stevenson McIlvaine</cite>. 2003. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001409/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412432366,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    28.281381199999998, 
+                    -15.416696699999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Lusaka", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "is", 
+                        "name": "L\u00fasaka"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Lusaka"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041b\u0443\u0441\u0430\u043a\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Lusaka"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27564994"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5d8952166e2a848f", 
+                        "name": "Lusaka"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Zambia ZMB Republic of Zambia", 
+                        "id": "c782f087a3f99f79", 
+                        "name": "Zambia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c011920994d373c3", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    45.366666666666667, 
+                    2.0666666666666669
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Mogadishu (Somalia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Mogadiscio (Somalia)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79090023"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Benadir", 
+                        "id": "81bb4fed1115dbc8", 
+                        "name": "Banaadir"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Som. SOM Federal Republic of Somalia", 
+                        "id": "fde746ebf1af1d37", 
+                        "name": "Somalia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "209bb3c6d3eb4339", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    15.551666666666668, 
+                    -4.2022222222222227
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kimpoko (Zaire)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Kimpoko, Zaire"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Kimpoko, Zaire"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n82055253"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Kinshasa|L\u00e9opoldville", 
+                        "id": "d52620067da2e018", 
+                        "name": "Kinshasa City"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Democratic Republic of the Congo Congo, Dem. Rep. D.R.C. COD Democratic Republic of the Congo", 
+                        "id": "64ec8800c4ac6595", 
+                        "name": "Dem. Rep. Congo"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5d785e1e34ea0e7b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -15.6, 
+                    11.866669999999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bissau Novo", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/2374772"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "GnB. GNB Republic of Guinea-Bissau", 
+                        "id": "fb72061eb986bf86", 
+                        "name": "Guinea-Bissau"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "cf9f9377b7887925", 
+                        "name": "Bissau"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "4e9dd1f54d4b7e5b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    38.833333333333336, 
+                    -5.25
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Dar es Salaam (Tanzania)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Dar es Salaam"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Dar es Salaam"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79079320"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "e7cde8a58d2e77b7", 
+                        "name": "Tanga"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Tanz. TZA United Republic of Tanzania", 
+                        "id": "15e23e673d7fccdd", 
+                        "name": "Tanzania"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "c81a4637c5a6615f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "11.86667,-15.6", 
+        "contributor": [
+            "nunes da ponte, luis monteiro"
+        ], 
+        "id": "http://lccn.loc.gov/72210480", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "guinea-bissau", 
+            "history"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "A campanha da Guin\u00e9 (1908) ; breve narrativa.", 
+        "coordinates": [
+            "11.86667,-15.6"
+        ], 
+        "score": 0.21171435999999999, 
+        "lonlat": [
+            -15.6, 
+            11.866669999999999
+        ], 
+        "location": [
+            "guinea", 
+            "bissau"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Library of Congress Web site. digital files not viewed; td12 2008-10-29"
+        ], 
+        "timestamp": "2015-03-03T01:26:51.731000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T10:13:38.752000Z", 
+        "date": "1909", 
+        "shelf_id": "DT613.7 .P65", 
+        "other_title": [], 
+        "dates": [
+            "1909-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "portuguese"
+        ], 
+        "url": "//lccn.loc.gov/72210480", 
+        "hassegments": false, 
+        "image_url": [
+            ""
+        ], 
+        "aka": [
+            "http://lccn.loc.gov/72210480", 
+            "http://www.loc.gov/item/72210480/", 
+            "http://hdl.loc.gov/loc.wdl/wdl.653", 
+            "http://www.loc.gov/resource/wdl.653/"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "11.86667,-15.6", 
+        "id": "http://www.loc.gov/item/2016648822/", 
+        "partof": [
+            "prints and photographs division", 
+            "posters: yanker poster collection", 
+            "catalog"
+        ], 
+        "subject": [
+            "x, malcolm", 
+            "cabral, amilcar", 
+            "africans", 
+            "history", 
+            "sculpture", 
+            "national liberation movements", 
+            "imperialism", 
+            "guinea-bissau", 
+            "posters", 
+            "english", 
+            "prints", 
+            "cabral, am\u00edlcar"
+        ], 
+        "index": 2, 
+        "group": [
+            "yan", 
+            "catalog", 
+            "yanker-posters"
+        ], 
+        "title": "Our history did not begin in chains and it will not end in chains", 
+        "coordinates": [
+            "11.86667,-15.6"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.21171435999999999, 
+        "lonlat": [
+            -15.6, 
+            11.866669999999999
+        ], 
+        "location": [
+            "guinea", 
+            "bissau"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "2 prints (posters)"
+        ], 
+        "timestamp": "2016-07-15T21:54:05.478000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-15T21:48:43.304000Z", 
+        "date": "1970", 
+        "shelf_id": "POS 6 - England, no. 96 (C size)  <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1970-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2016648822/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/yan/1a38000/1a38800/1a38812_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/yan/item/yan1996001014/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a35556", 
+            "http://www.loc.gov/item/yan1996001014/pp/", 
+            "http://www.loc.gov/pictures/item/yan1996001014/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a38812", 
+            "http://www.loc.gov/resource/yan.1a38812/", 
+            "http://www.loc.gov/resource/yan.1a35556/", 
+            "http://lccn.loc.gov/2016648822", 
+            "http://www.loc.gov/item/2016648822/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "catalog"
+        ], 
+        "original_format": [
+            "book"
+        ], 
+        "contributor": [
+            "united states. congress. house. committee on foreign affairs. subcommittee on africa"
+        ], 
+        "latlong": "11.86667,-15.6", 
+        "id": "http://lccn.loc.gov/71606725", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "guinea-bissau", 
+            "history"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Report on Portuguese Guinea and the liberation movement. Hearing, Ninety-first Congress, second session. Thursday, February 26, 1970.", 
+        "coordinates": [
+            "11.86667,-15.6"
+        ], 
+        "online_format": [
+            "image", 
+            "online text"
+        ], 
+        "score": 0.21171435999999999, 
+        "lonlat": [
+            -15.6, 
+            11.866669999999999
+        ], 
+        "location": [
+            "guinea", 
+            "bissau"
+        ], 
+        "mime_type": [
+            "image/jpeg", 
+            "text/plain", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Library of Congress Web site."
+        ], 
+        "timestamp": "2016-12-15T19:10:10.879000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-12-14T10:24:18.997000Z", 
+        "date": "1970", 
+        "shelf_id": "KF27 .F625 1970", 
+        "other_title": [], 
+        "dates": [
+            "1970-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/71606725", 
+        "hassegments": true, 
+        "image_url": [
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:12.5/0/default.jpg", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:12.5/0/default.jpg#h=332&w=259", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:25/0/default.jpg#h=664&w=519", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:50/0/default.jpg#h=1329&w=1038", 
+            "//tile.loc.gov/image-services/iiif/service:ll:conghear08:00183820461:00000001/full/pct:100/0/default.jpg#h=2659&w=2077"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/71606725/", 
+            "http://www.loc.gov/resource/llconghear.00183820461/", 
+            "http://lccn.loc.gov/71606725", 
+            "http://www.loc.gov/resource/conghear08.00183820461/", 
+            "http://hdl.loc.gov/loc.law/llconghear.00183820461"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000101/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 4, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "\"Nowadays most Paterson folks work out of town.\"", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.17138197999999999, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000101/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000101/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02804", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02804/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02804/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000103/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 5, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Vision for the future of the historic district", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.17138197999999999, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000103/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000103/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02806", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02806/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02806/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "sound recording"
+        ], 
+        "contributor": [
+            "pascrell, bill", 
+            "taylor, david alan"
+        ], 
+        "id": "http://www.loc.gov/item/afcwip000104/", 
+        "partof": [
+            "american folklife center", 
+            "working in paterson project collection", 
+            "working in paterson: occupational heritage in an urban setting", 
+            "american memory"
+        ], 
+        "subject": [
+            "oral history", 
+            "interviews", 
+            "sound recordings", 
+            "legislators", 
+            "ethnography"
+        ], 
+        "index": 6, 
+        "group": [
+            "afcwip", 
+            "working-in-paterson"
+        ], 
+        "title": "Most important thing to know about Paterson", 
+        "online_format": [
+            "audio"
+        ], 
+        "score": 0.17138197999999999, 
+        "location": [
+            "united states", 
+            "new jersey", 
+            "washington d.c.", 
+            "washington"
+        ], 
+        "mime_type": [
+            "audio/mp3", 
+            "audio/wav", 
+            "application/x-audio"
+        ], 
+        "digitized": true, 
+        "timestamp": "2015-08-04T18:27:36.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-08-04T18:25:53.893000Z", 
+        "date": "2001-10-10", 
+        "shelf_id": "AFC 1995/028:  WIP-DT-A028", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-10T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/afcwip000104/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/afcwip000104/", 
+            "http://hdl.loc.gov/loc.afc/afcwip.dta02807", 
+            "http://www.loc.gov/resource/afc1995028.afc1995028_dta02807/", 
+            "http://www.loc.gov/item/afc1995028.afc1995028_dta02807/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "egan, wesley"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001347/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "berlin wall, berlin, germany", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Wesley Egan", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.7956470000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "eurasia", 
+            "durban", 
+            "portugal", 
+            "south africa", 
+            "egypt", 
+            "cairo", 
+            "zambia", 
+            "lisbon", 
+            "washington", 
+            "western hemisphere", 
+            "united states", 
+            "jordan", 
+            "africa", 
+            "amman", 
+            "guinea", 
+            "near east", 
+            "bissau", 
+            "lusaka"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2003-10-28", 
+        "shelf_id": "mfdipbib001347", 
+        "other_title": [], 
+        "dates": [
+            "2003-10-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001347/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001347/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007ega01", 
+            "http://www.loc.gov/resource/mfdip.2007ega01/", 
+            "http://www.loc.gov/item/mfdip.2007ega01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "borg, parker"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001520/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Parker W. Borg", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.7164945999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "east asia", 
+            "africa", 
+            "washington", 
+            "pacific", 
+            "kuala lumpur", 
+            "united states", 
+            "malaysia", 
+            "new york", 
+            "lubumbashi", 
+            "mali", 
+            "western hemisphere", 
+            "zaire", 
+            "pleiku", 
+            "vietnam"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001520", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001520/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001520/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010bor01", 
+            "http://www.loc.gov/resource/mfdip.2010bor01/", 
+            "http://www.loc.gov/item/mfdip.2010bor01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "marks, edward"
+        ], 
+        "latlong": "50.8466666667,4.35277777778", 
+        "id": "http://www.loc.gov/item/mfdipbib000746/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "united states citizens", 
+            "united states. agency for international development", 
+            "protection and welfare", 
+            "chief of station", 
+            "united states. dept. of state. bureau of intelligence and research", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Edward Marks", 
+        "coordinates": [
+            "50.8466666667,4.35277777778"
+        ], 
+        "score": 2.5946164, 
+        "lonlat": [
+            4.3527777777800001, 
+            50.846666666700003
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "luanda", 
+            "angola", 
+            "western hemisphere", 
+            "mexico", 
+            "guinea", 
+            "zambia", 
+            "africa", 
+            "bissau", 
+            "lubumbashi", 
+            "belgium", 
+            "kenya", 
+            "zaire", 
+            "brussels", 
+            "nairobi", 
+            "nuevo laredo", 
+            "lusaka"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1996-08-12", 
+        "shelf_id": "mfdipbib000746", 
+        "other_title": [], 
+        "dates": [
+            "1996-08-12T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000746/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000746/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mar03", 
+            "http://www.loc.gov/resource/mfdip.2004mar03/", 
+            "http://www.loc.gov/item/mfdip.2004mar03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "leader, joyce e."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001580/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Joyce E. Leader", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.4972311999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "rwanda", 
+            "europe", 
+            "kinshasa", 
+            "eurasia", 
+            "geneva", 
+            "kigali", 
+            "guinea", 
+            "washington", 
+            "france", 
+            "united states", 
+            "lagos", 
+            "western hemisphere", 
+            "africa", 
+            "switzerland", 
+            "nigeria", 
+            "marseilles", 
+            "zaire"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001580", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001580/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001580/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010lea01", 
+            "http://www.loc.gov/resource/mfdip.2010lea01/", 
+            "http://www.loc.gov/item/mfdip.2010lea01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "miller, david c., jr."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001416/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador David C. Miller Jr.", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.4903002000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "east asia", 
+            "africa", 
+            "tanzania", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "zimbabwe", 
+            "vietnam", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:17.692000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:41.731000Z", 
+        "date": "2003-01-06", 
+        "shelf_id": "mfdipbib001416", 
+        "other_title": [], 
+        "dates": [
+            "2003-01-06T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001416/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001416/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007mil01", 
+            "http://www.loc.gov/resource/mfdip.2007mil01/", 
+            "http://www.loc.gov/item/mfdip.2007mil01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "karaer, arma jane"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001379/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Arma Jane Karaer", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.4112773000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "pakistan", 
+            "washington", 
+            "papua new guinea", 
+            "united states", 
+            "central asia", 
+            "zaire", 
+            "turkey", 
+            "istanbul", 
+            "mbabane", 
+            "swaziland", 
+            "vanuatu", 
+            "washington d.c.", 
+            "kinshasa", 
+            "australia", 
+            "eurasia", 
+            "solomon islands", 
+            "africa", 
+            "ankara", 
+            "pacific", 
+            "karachi", 
+            "east asia", 
+            "helsinki", 
+            "finland", 
+            "melbourne", 
+            "western hemisphere"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2004-04-19", 
+        "shelf_id": "mfdipbib001379", 
+        "other_title": [], 
+        "dates": [
+            "2004-04-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001379/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001379/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007kar01", 
+            "http://www.loc.gov/resource/mfdip.2007kar01/", 
+            "http://www.loc.gov/item/mfdip.2007kar01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "mcilvaine, stevenson": "https://www.loc.gov/search/?fa=contributor%3Amcilvaine%2C+stevenson&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Zambia -- Lusaka", 
+        "Somalia", 
+        "Zaire -- Kinshasa", 
+        "Guinea-Bissau -- Bissau", 
+        "Tanzania -- Dar-es-Salaam", 
+        "Vietnam -- Camau", 
+        "Western Hemisphere", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "September 23, 2003"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2007mci01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001409/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2007mci01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.2528310000000005, 
+    "title": "Interview with Stevenson McIlvaine", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "bissau": "https://www.loc.gov/search/?fa=location%3Abissau&fo=json"
+        }, 
+        {
+            "camau": "https://www.loc.gov/search/?fa=location%3Acamau&fo=json"
+        }, 
+        {
+            "dar": "https://www.loc.gov/search/?fa=location%3Adar&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "es": "https://www.loc.gov/search/?fa=location%3Aes&fo=json"
+        }, 
+        {
+            "guinea": "https://www.loc.gov/search/?fa=location%3Aguinea&fo=json"
+        }, 
+        {
+            "kinshasa": "https://www.loc.gov/search/?fa=location%3Akinshasa&fo=json"
+        }, 
+        {
+            "lusaka": "https://www.loc.gov/search/?fa=location%3Alusaka&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "salaam": "https://www.loc.gov/search/?fa=location%3Asalaam&fo=json"
+        }, 
+        {
+            "somalia": "https://www.loc.gov/search/?fa=location%3Asomalia&fo=json"
+        }, 
+        {
+            "tanzania": "https://www.loc.gov/search/?fa=location%3Atanzania&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "vietnam": "https://www.loc.gov/search/?fa=location%3Avietnam&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }, 
+        {
+            "zaire": "https://www.loc.gov/search/?fa=location%3Azaire&fo=json"
+        }, 
+        {
+            "zambia": "https://www.loc.gov/search/?fa=location%3Azambia&fo=json"
+        }
+    ], 
+    "_version_": 1540399708230385664, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:53.179000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+    "date": "20030923", 
+    "shelf_id": "mfdipbib001409", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2003": "https://www.loc.gov/search/?dates=2003-2003&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001409/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001409/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2007mci01", 
+        "http://www.loc.gov/resource/mfdip.2007mci01/", 
+        "http://www.loc.gov/item/mfdip.2007mci01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "McIlvaine, Stevenson (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.22511100769042969, 
+    "default_count": 25, 
+    "id": "mfdipbib001409/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001409/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2007mci01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2007/2007mci01/2007mci01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2007/2007mci01/2007mci01.pdf"
+    }
+]}

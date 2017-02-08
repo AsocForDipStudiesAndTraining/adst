@@ -1,0 +1,1833 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Silva, W. J. (1995) <cite>Interview with Walter J. Silva</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001063/.", 
+    "mla": "Kennedy, Charles Stuart, and Walter J Silva. <cite>Interview with Walter J. Silva</cite>. 1995. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001063/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Walter J Silva. <cite>Interview with Walter J. Silva</cite>. 1995. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001063/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412726574,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    21.748999999999999, 
+                    38.277000000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kastellocampos", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/6950999"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Greece GRC Hellenic Republic", 
+                        "id": "1a76577783e1a426", 
+                        "name": "Greece"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Greece West", 
+                        "id": "7df57c3bd550ce14", 
+                        "name": "Dytiki Ellada"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "b83a77fe6d580800", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    35.509722222222223, 
+                    33.871944444444445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Beirut (Lebanon)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Balad\u012byat Bayr\u016bt"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Beirut"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n83068103"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bayrut|Beirute|Beyrouth", 
+                        "id": "98cd7d2fea60ba96", 
+                        "name": "Beirut"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Leb. LBN Lebanese Republic", 
+                        "id": "be3dda2bad55ed18", 
+                        "name": "Lebanon"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "ad1ad676f4f4a656", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.468611111111111, 
+                    41.829444444444448
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "EUR (Rome, Italy)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Universal Exhibition of Rome (Rome, Italy)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n00005753"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Lacio|Latium", 
+                        "id": "909febdf4dec8578", 
+                        "name": "Lazio"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "dd677eec5818a64b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -85.660277777777779, 
+                    30.158888888888889
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Panama City (Fla.)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Panama City, Fla."
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Panama City, Fla."
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79089993"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "e692fccb5ff8f10d", 
+                        "name": "Florida"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7d15574bc1e1a1a1", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    14.2463172, 
+                    40.850696200000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Naples", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Napoli"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Neapol"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Neapel"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Naples"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "N\u00e1poles"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Naples"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e0\u05e4\u05d5\u05dc\u05d9"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Napulj"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "N\u00e1poly"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Napels"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Neapol"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "N\u00e1poles"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041d\u0435\u0430\u043f\u043e\u043b\u044c"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Neapol"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Neapelj"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Neapel"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "N\u00e1poles"
+                    }, 
+                    {
+                        "lang": "nap", 
+                        "name": "Napule"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/428339558"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Campanha|Campanie|Kampanien", 
+                        "id": "c9ee1200199e8b1e", 
+                        "name": "Campania"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Italy ITA Italian Republic", 
+                        "id": "d371fc5d19aa8e70", 
+                        "name": "Italy"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "bddf7f2d359170a1", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -71.640555555555565, 
+                    10.631666666666668
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Maracaibo (Venezuela)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Maracaibo"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Maracaibo"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79089265"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5f188ecfb33b790a", 
+                        "name": "Zulia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Venezuela, RB Ven. VEN Bolivarian Republic of Venezuela Rep\u00fablica Bolivariana de Venezuela", 
+                        "id": "22051d30eeb95d05", 
+                        "name": "Venezuela"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3b53f2ddc99da766", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "contributor": [
+            "united states. central intelligence agency"
+        ], 
+        "id": "http://www.loc.gov/item/83693458/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "beirut (lebanon)", 
+            "maps", 
+            "lebanon", 
+            "beirut"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Beirut.", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.16917525, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "Beirut", 
+            "Lebanon", 
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "\"504450 3-80.\" Available also through the Library of Congress Web site as a raster image."
+        ], 
+        "timestamp": "2017-01-26T20:03:57.679000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:31.134000Z", 
+        "date": "1980", 
+        "shelf_id": "G7474.B4 1980 .U5", 
+        "other_title": [], 
+        "dates": [
+            "1980-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/83693458/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd7/g7474/g7474b/ct002729.gif", 
+            "//cdn.loc.gov/service/gmd/gmd7/g7474/g7474b/ct002729.gif#h=150&w=196", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:6.25/0/default.jpg#h=199&w=261", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:12.5/0/default.jpg#h=399&w=522", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:25/0/default.jpg#h=799&w=1045", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd7:g7474:g7474b:ct002729/full/pct:50/0/default.jpg#h=1599&w=2090"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/83693458/", 
+            "http://www.loc.gov/resource/g7474b.ct002729/", 
+            "http://hdl.loc.gov/loc.gmd/g7474b.ct002729", 
+            "http://lccn.loc.gov/83693458"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "h.c. white co."
+        ], 
+        "latlong": "30.1588888889,-85.6602777778", 
+        "id": "http://www.loc.gov/item/98503914/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "rowboats", 
+            "panama", 
+            "panama city", 
+            "photographic prints", 
+            "stereographs"
+        ], 
+        "index": 2, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Down by the old sea wall - passengers embarking for an ocean steamer, Panama", 
+        "coordinates": [
+            "30.1588888889,-85.6602777778"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.16292524, 
+        "lonlat": [
+            -85.660277777800005, 
+            30.158888888900002
+        ], 
+        "location": [
+            "panama", 
+            "panama city"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph. | People in row boat by city wall."
+        ], 
+        "timestamp": "2015-05-16T17:18:53.353000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:47.312000Z", 
+        "date": "1907", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Panama--Panama City <item> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1907-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/98503914/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c20000/3c20000/3c20100/3c20164_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3c20000/3c20000/3c20100/3c20164t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/cph/3c20000/3c20000/3c20100/3c20164r.jpg#h=510&w=640", 
+            "//cdn.loc.gov/service/pnp/cph/3c20000/3c20000/3c20100/3c20164v.jpg#h=816&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/98503914/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/98503914/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c20164", 
+            "http://www.loc.gov/item/98503914/", 
+            "http://www.loc.gov/resource/cph.3c20164/", 
+            "http://lccn.loc.gov/98503914"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "h. c. white co."
+        ], 
+        "latlong": "30.1588888889,-85.6602777778", 
+        "id": "http://www.loc.gov/item/97517633/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "markets", 
+            "panama", 
+            "panama city", 
+            "boats", 
+            "photographic prints", 
+            "stereographs"
+        ], 
+        "index": 3, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Market boats, Panama", 
+        "coordinates": [
+            "30.1588888889,-85.6602777778"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.16292524, 
+        "lonlat": [
+            -85.660277777800005, 
+            30.158888888900002
+        ], 
+        "location": [
+            "panama", 
+            "panama city"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph. | Boats with produce on shore, Panama City, Panama."
+        ], 
+        "timestamp": "2015-05-16T17:18:38.853000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:46.820000Z", 
+        "date": "1907", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Panama--Panama City <item> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1907-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/97517633/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c10000/3c19000/3c19600/3c19655_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3c10000/3c19000/3c19600/3c19655t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/cph/3c10000/3c19000/3c19600/3c19655r.jpg#h=511&w=640", 
+            "//cdn.loc.gov/service/pnp/cph/3c10000/3c19000/3c19600/3c19655v.jpg#h=818&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/97517633/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/97517633/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c19655", 
+            "http://www.loc.gov/item/97517633/", 
+            "http://www.loc.gov/resource/cph.3c19655/", 
+            "http://lccn.loc.gov/97517633"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "79.565,54.5927777778", 
+        "contributor": [
+            "darw\u012bsh, ma\u1e25m\u016bd."
+        ], 
+        "id": "http://lccn.loc.gov/94026351", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "lebanon", 
+            "history", 
+            "israeli intervention", 
+            "personal narratives, palestinian", 
+            "beirut (lebanon)", 
+            "darw\u012bsh, ma\u1e25m\u016bd"
+        ], 
+        "index": 4, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Memory for forgetfulness : August, Beirut, 1982 /", 
+        "coordinates": [
+            "79.565,54.5927777778"
+        ], 
+        "score": 0.14953121999999999, 
+        "lonlat": [
+            54.592777777800002, 
+            79.564999999999998
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references. A digital reproduction is available from E-Editions, a collaboration of the University of California Press and the California Digital Library's eScholarship program."
+        ], 
+        "timestamp": "2015-03-03T06:03:59.814000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T20:12:13.314000Z", 
+        "date": "1995", 
+        "shelf_id": "DS87.53 .D36513 1995", 
+        "other_title": [], 
+        "dates": [
+            "1995-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/94026351", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/94026351/", 
+            "http://ark.cdlib.org/ark:/13030/ft1z09n7g7", 
+            "http://lccn.loc.gov/94026351"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "underwood & underwood"
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/2006675878/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "lot 13743", 
+            "catalog"
+        ], 
+        "subject": [
+            "factories", 
+            "lebanon", 
+            "beirut", 
+            "textile machinery", 
+            "silk industry", 
+            "gelatin silver prints", 
+            "stereographs"
+        ], 
+        "index": 5, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Loosening cocoon fiber and winding on frames, silk mill, Beyrout, Syria", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14953121999999999, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph, gelatin silver."
+        ], 
+        "timestamp": "2015-05-16T17:05:02.839000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:16.332000Z", 
+        "date": "1913", 
+        "shelf_id": "LOT 13743-12, no. 5 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1913-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006675878/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717t.gif#h=76&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717r.jpg#h=323&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10700/10717v.jpg#h=517&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2006675878/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2006675878/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.10717", 
+            "http://www.loc.gov/item/2006675878/", 
+            "http://www.loc.gov/resource/ppmsca.10717/", 
+            "http://lccn.loc.gov/2006675878"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "graves, c. h. (carleton h.)", 
+            "graves, c. h."
+        ], 
+        "latlong": "33.8719444444,35.5097222222", 
+        "id": "http://www.loc.gov/item/2006679687/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "lot 13738", 
+            "catalog"
+        ], 
+        "subject": [
+            "pilgrims", 
+            "russian", 
+            "lebanon", 
+            "beirut", 
+            "pilgrimages", 
+            "gelatin silver prints", 
+            "stereographs"
+        ], 
+        "index": 6, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "Russian pilgrims to Jerusalem aboard vessel in Beirut harbor", 
+        "coordinates": [
+            "33.8719444444,35.5097222222"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.14953121999999999, 
+        "lonlat": [
+            35.509722222199997, 
+            33.8719444444
+        ], 
+        "location": [
+            "beirut", 
+            "lebanon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph, gelatin silver."
+        ], 
+        "timestamp": "2015-05-16T17:06:25.198000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:19.938000Z", 
+        "date": "1903", 
+        "shelf_id": "LOT 13738-1, no. 99 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1903-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006679687/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687t.gif#h=76&w=150", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687r.jpg#h=324&w=640", 
+            "//cdn.loc.gov/service/pnp/ppmsca/10600/10687v.jpg#h=518&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2006679687/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2006679687/", 
+            "http://hdl.loc.gov/loc.pnp/ppmsca.10687", 
+            "http://www.loc.gov/item/2006679687/", 
+            "http://www.loc.gov/resource/ppmsca.10687/", 
+            "http://lccn.loc.gov/2006679687"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "owens, john p."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000892/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "american republics", 
+            "protection and welfare", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with John P. Owens", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.7548096000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "thessaloniki", 
+            "europe", 
+            "italy", 
+            "helsinki", 
+            "finland", 
+            "washington", 
+            "athens", 
+            "goteborg", 
+            "united states", 
+            "sweden", 
+            "bermuda", 
+            "hamilton", 
+            "stockholm", 
+            "greece", 
+            "western hemisphere", 
+            "maracaibo", 
+            "venezuela", 
+            "naples", 
+            "eurasia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1992-05-19", 
+        "shelf_id": "mfdipbib000892", 
+        "other_title": [], 
+        "dates": [
+            "1992-05-19T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000892/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000892/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004owe02", 
+            "http://www.loc.gov/resource/mfdip.2004owe02/", 
+            "http://www.loc.gov/item/mfdip.2004owe02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "greene, myles"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000451/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "protection and welfare", 
+            "chief of station", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Myles Greene", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.5853807999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "turkey", 
+            "ciudad juarez", 
+            "georgia", 
+            "iran", 
+            "florida", 
+            "mexico", 
+            "ankara", 
+            "washington", 
+            "europe", 
+            "teheran", 
+            "lebanon", 
+            "united states", 
+            "new york", 
+            "western hemisphere", 
+            "greece", 
+            "beirut", 
+            "near east", 
+            "eurasia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "2002-02-22", 
+        "shelf_id": "mfdipbib000451", 
+        "other_title": [], 
+        "dates": [
+            "2002-02-22T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000451/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000451/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004gre10", 
+            "http://www.loc.gov/resource/mfdip.2004gre10/", 
+            "http://www.loc.gov/item/mfdip.2004gre10/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "ewing, raymond c.", 
+            "nettles, g. clay"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000857/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "ambassadors", 
+            "protection and welfare", 
+            "peace treaties", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with G. Clay Nettles", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.5616762999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "pakistan", 
+            "cambridge", 
+            "eurasia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "yokohama", 
+            "central asia", 
+            "japan", 
+            "zaire", 
+            "turkey", 
+            "italy", 
+            "caracas", 
+            "europe", 
+            "vietnam", 
+            "suriname", 
+            "beirut", 
+            "venezuela", 
+            "washington d.c.", 
+            "kinshasa", 
+            "geneva", 
+            "lebanon", 
+            "near east", 
+            "ankara", 
+            "massachusetts", 
+            "east asia", 
+            "tokyo", 
+            "islamabad", 
+            "rome", 
+            "western hemisphere", 
+            "switzerland"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1997-07-08", 
+        "shelf_id": "mfdipbib000857", 
+        "other_title": [], 
+        "dates": [
+            "1997-07-08T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000857/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000857/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004net01", 
+            "http://www.loc.gov/resource/mfdip.2004net01/", 
+            "http://www.loc.gov/item/mfdip.2004net01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "mahoney, michael m."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000738/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "protection and welfare", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Michael M. Mahoney", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.1596076000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "liberia", 
+            "europe", 
+            "italy", 
+            "eurasia", 
+            "tobago", 
+            "washington", 
+            "athens", 
+            "santo domingo", 
+            "united states", 
+            "monrovia", 
+            "rome", 
+            "western hemisphere", 
+            "africa", 
+            "greece", 
+            "dominican republic", 
+            "canada", 
+            "montreal", 
+            "trinidad"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1995-10-17", 
+        "shelf_id": "mfdipbib000738", 
+        "other_title": [], 
+        "dates": [
+            "1995-10-17T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000738/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000738/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mah01", 
+            "http://www.loc.gov/resource/mfdip.2004mah01/", 
+            "http://www.loc.gov/item/mfdip.2004mah01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "winn, david m."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001281/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "labor officers", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with David M. Winn", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.1260788000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "lebanon", 
+            "pacific", 
+            "united states", 
+            "senegal", 
+            "jerusalem", 
+            "saudi arabia", 
+            "paris", 
+            "france", 
+            "amman", 
+            "long khanh", 
+            "beirut", 
+            "near east", 
+            "dhahran", 
+            "washington d.c.", 
+            "israel", 
+            "washington", 
+            "dakar", 
+            "jordan", 
+            "east asia", 
+            "vietnam", 
+            "western hemisphere", 
+            "africa"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "2002-02-28", 
+        "shelf_id": "mfdipbib001281", 
+        "other_title": [], 
+        "dates": [
+            "2002-02-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001281/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001281/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004win05", 
+            "http://www.loc.gov/resource/mfdip.2004win05/", 
+            "http://www.loc.gov/item/mfdip.2004win05/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "bridges, peter"
+        ], 
+        "latlong": "41.8294444444,12.4686111111", 
+        "id": "http://www.loc.gov/item/mfdipbib001327/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Peter S. Bridges", 
+        "coordinates": [
+            "41.8294444444,12.4686111111"
+        ], 
+        "score": 1.9789577, 
+        "lonlat": [
+            12.4686111111, 
+            41.829444444400004
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "italy", 
+            "africa", 
+            "czechoslovakia", 
+            "moscow", 
+            "rome", 
+            "western hemisphere", 
+            "somalia", 
+            "prague", 
+            "ussr", 
+            "panama city", 
+            "panama"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2003-10-24", 
+        "shelf_id": "mfdipbib001327", 
+        "other_title": [], 
+        "dates": [
+            "2003-10-24T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001327/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001327/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007bri01", 
+            "http://www.loc.gov/resource/mfdip.2007bri01/", 
+            "http://www.loc.gov/item/mfdip.2007bri01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "silva, walter j.": "https://www.loc.gov/search/?fa=contributor%3Asilva%2C+walter+j.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Protection and welfare", 
+        "Law of the sea", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Greece", 
+        "Lebanon -- Beirut", 
+        "Italy -- Rome", 
+        "Panama -- Panama City", 
+        "Italy -- Naples", 
+        "Venezuela -- Maracaibo", 
+        "French West Africa -- Dakar", 
+        "Chad -- Fort Lamy", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Western Hemisphere", 
+        "Africa"
+    ], 
+    "created_published": [
+        "January 23, 1995"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004sil03#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001063/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "protection and welfare", 
+        "law of the sea", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004sil03"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.1678090000000001, 
+    "title": "Interview with Walter J. Silva ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "law of the sea": "https://www.loc.gov/search/?fa=subject%3Alaw+of+the+sea&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "protection and welfare": "https://www.loc.gov/search/?fa=subject%3Aprotection+and+welfare&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "beirut": "https://www.loc.gov/search/?fa=location%3Abeirut&fo=json"
+        }, 
+        {
+            "chad": "https://www.loc.gov/search/?fa=location%3Achad&fo=json"
+        }, 
+        {
+            "dakar": "https://www.loc.gov/search/?fa=location%3Adakar&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "fort lamy": "https://www.loc.gov/search/?fa=location%3Afort+lamy&fo=json"
+        }, 
+        {
+            "french west africa": "https://www.loc.gov/search/?fa=location%3Afrench+west+africa&fo=json"
+        }, 
+        {
+            "greece": "https://www.loc.gov/search/?fa=location%3Agreece&fo=json"
+        }, 
+        {
+            "italy": "https://www.loc.gov/search/?fa=location%3Aitaly&fo=json"
+        }, 
+        {
+            "lebanon": "https://www.loc.gov/search/?fa=location%3Alebanon&fo=json"
+        }, 
+        {
+            "maracaibo": "https://www.loc.gov/search/?fa=location%3Amaracaibo&fo=json"
+        }, 
+        {
+            "naples": "https://www.loc.gov/search/?fa=location%3Anaples&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "panama": "https://www.loc.gov/search/?fa=location%3Apanama&fo=json"
+        }, 
+        {
+            "panama city": "https://www.loc.gov/search/?fa=location%3Apanama+city&fo=json"
+        }, 
+        {
+            "rome": "https://www.loc.gov/search/?fa=location%3Arome&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "venezuela": "https://www.loc.gov/search/?fa=location%3Avenezuela&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399634428461056, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:46.263000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:31.317000Z", 
+    "date": "19950123", 
+    "shelf_id": "mfdipbib001063", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1995": "https://www.loc.gov/search/?dates=1995-1995&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001063/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001063/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004sil03", 
+        "http://www.loc.gov/resource/mfdip.2004sil03/", 
+        "http://www.loc.gov/item/mfdip.2004sil03/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Silva, Walter J. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.63952302932739258, 
+    "default_count": 25, 
+    "id": "mfdipbib001063/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001063/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004sil03/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004sil03/2004sil03.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004sil03/2004sil03.pdf"
+    }
+]}

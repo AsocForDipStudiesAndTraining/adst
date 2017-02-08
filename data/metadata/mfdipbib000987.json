@@ -1,0 +1,1753 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Rogers, K. N. (1997) <cite>Interview with Kenneth N. Rogers</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000987/.", 
+    "mla": "Kennedy, Charles Stuart, and Kenneth N Rogers. <cite>Interview with Kenneth N. Rogers</cite>. 1997. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000987/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Kenneth N Rogers. <cite>Interview with Kenneth N. Rogers</cite>. 1997. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000987/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486410440706,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.285218299999997, 
+                    36.846814600000002
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Norfolk", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158488639"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "d9ff1f486249c7c9", 
+                        "name": "Virginia"
+                    }, 
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "Norfolk city", 
+                        "id": "aa9a8efb2c2ab9d8", 
+                        "name": "Norfolk"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "1f33acec9162ef33", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -5.8099999999999996, 
+                    35.780000000000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Tangier (Morocco)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Tingis (Morocco)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Tangier"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80015571"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mor. MAR Kingdom of Morocco", 
+                        "id": "408f2ada3bceda9f", 
+                        "name": "Morocco"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "09e90ded65f27ee1", 
+                        "name": "Tanger - T\u00e9touan"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "df51a5b234d79007", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -76.793611111111105, 
+                    17.996944444444445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston (Jamaica)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Kingston, Jamaica"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Kingston, Jamaica"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79018833"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Jam. JAM", 
+                        "id": "d5edba6359e460a9", 
+                        "name": "Jamaica"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "7b0fdf5b1b8a78fc", 
+                        "name": "Saint Andrew"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "406338195cb064ca", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.26667, 
+                    22.316669999999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Wo Tong Kong", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/1818291"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "aa82ab35e39dc688", 
+                        "name": "HKG-00 (Hong Kong aggregation)"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Hong Kong SAR, China H.K. HKG Hong Kong Special Administrative Region, PRC", 
+                        "id": "b6b8b22ab4bad44d", 
+                        "name": "Hong Kong"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5fe7aa42dc92113d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    13.2379982, 
+                    -8.8139932000000005
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Luanda", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "cs", 
+                        "name": "Luanda"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Luanda"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "L\u00faanda"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Luanda"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Luanda"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041b\u0443\u0430\u043d\u0434\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Luanda"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/27564941"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Loanda", 
+                        "id": "4e4846ed950dbf88", 
+                        "name": "Luanda"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Ang. AGO People's Republic of Angola", 
+                        "id": "1c995eba225d45c6", 
+                        "name": "Angola"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7007f370b22a6d68", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "17.9969444444,-76.7936111111", 
+        "contributor": [
+            "hay, michael"
+        ], 
+        "id": "http://www.loc.gov/item/2006629864/", 
+        "partof": [
+            "geography and map division", 
+            "cities and towns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "real property", 
+            "jamaica", 
+            "kingston", 
+            "maps", 
+            "early works to 1800"
+        ], 
+        "index": 1, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "[Plan of Kingston]", 
+        "coordinates": [
+            "17.9969444444,-76.7936111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22442295000000001, 
+        "lonlat": [
+            -76.793611111100006, 
+            17.9969444444
+        ], 
+        "location": [
+            "Kingston", 
+            "Jamaica", 
+            "jamaica", 
+            "kingston"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Cadastral map showing lot numbers. Title supplied by cataloger. Available also through the Library of Congress Web site as a raster image. Annotated in black ink on verso: No. 73. Plan of Kingston, Jamaica. Includes text and ill. Latin American port cities no. 38"
+        ], 
+        "timestamp": "2017-01-26T20:00:15.358000Z", 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:13.595000Z", 
+        "date": "1745", 
+        "shelf_id": "G4964.K5G46 1745 .H3", 
+        "other_title": [], 
+        "dates": [
+            "1745-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2006629864/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd4/g4964/g4964k/ct001905.gif", 
+            "//cdn.loc.gov/service/gmd/gmd4/g4964/g4964k/ct001905.gif#h=150&w=209", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ct001905/full/pct:6.25/0/default.jpg#h=285&w=398", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ct001905/full/pct:12.5/0/default.jpg#h=570&w=796", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ct001905/full/pct:25/0/default.jpg#h=1140&w=1592"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/2006629864/", 
+            "http://www.loc.gov/resource/g4964k.ct001905/", 
+            "http://hdl.loc.gov/loc.gmd/g4964k.ct001905", 
+            "http://lccn.loc.gov/2006629864"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "17.9969444444,-76.7936111111", 
+        "contributor": [
+            "bellin, jacques nicolas", 
+            "lilly, christian"
+        ], 
+        "id": "http://www.loc.gov/item/73691836/", 
+        "partof": [
+            "geography and map division", 
+            "american revolution and its era: maps and charts of north america and the west indies, 1750-1789", 
+            "military battles and campaigns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "kingston (jamaica)", 
+            "maps", 
+            "early works to 1800", 
+            "jamaica", 
+            "kingston", 
+            "early maps"
+        ], 
+        "index": 2, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Plan de la ville de Kingston;", 
+        "coordinates": [
+            "17.9969444444,-76.7936111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22442295000000001, 
+        "lonlat": [
+            -76.793611111100006, 
+            17.9969444444
+        ], 
+        "location": [
+            "Kingston", 
+            "Jamaica", 
+            "jamaica", 
+            "kingston"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Scale ca. 1:6,900. \"Tome I, no. 59.\" From the author's Le petit atlas maritime. 1764. LC Maps of North America, 1750-1789, 1950 Available also through the Library of Congress Web site as a raster image. Indexed. Vault. AACR2: 100; 651/1"
+        ], 
+        "timestamp": "2017-01-26T20:02:41.111000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:24.730000Z", 
+        "date": "1764", 
+        "shelf_id": "G4964.K5 1764 .B4", 
+        "other_title": [], 
+        "dates": [
+            "1764-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/73691836/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd4/g4964/g4964k/ar195000.gif", 
+            "//cdn.loc.gov/service/gmd/gmd4/g4964/g4964k/ar195000.gif#h=150&w=280", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar195000/full/pct:3.125/0/default.jpg#h=153&w=286", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar195000/full/pct:6.25/0/default.jpg#h=307&w=573", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar195000/full/pct:12.5/0/default.jpg#h=615&w=1146", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar195000/full/pct:25/0/default.jpg#h=1230&w=2292"
+        ], 
+        "aka": [
+            "http://hdl.loc.gov/loc.gmd/g4964k.ar195000", 
+            "http://www.loc.gov/resource/g4964k.ar195000/", 
+            "http://www.loc.gov/item/73691836/", 
+            "http://lccn.loc.gov/73691836"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "ammem", 
+            "catalog"
+        ], 
+        "original_format": [
+            "map"
+        ], 
+        "latlong": "17.9969444444,-76.7936111111", 
+        "contributor": [
+            "le rouge, georges-louis"
+        ], 
+        "id": "http://www.loc.gov/item/73691838/", 
+        "partof": [
+            "geography and map division", 
+            "american revolution and its era: maps and charts of north america and the west indies, 1750-1789", 
+            "military battles and campaigns", 
+            "american memory", 
+            "catalog"
+        ], 
+        "subject": [
+            "kingston (jamaica)", 
+            "maps", 
+            "early works to 1800", 
+            "jamaica", 
+            "kingston", 
+            "early maps"
+        ], 
+        "index": 3, 
+        "group": [
+            "gmd.mar", 
+            "catalog", 
+            "general-maps"
+        ], 
+        "title": "Kingston, capitale de la Jamaique; b\u00e2tie par les Anglois en 1692.", 
+        "coordinates": [
+            "17.9969444444,-76.7936111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.22442295000000001, 
+        "lonlat": [
+            -76.793611111100006, 
+            17.9969444444
+        ], 
+        "location": [
+            "Kingston", 
+            "Jamaica", 
+            "jamaica", 
+            "kingston"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/tiff", 
+            "image/jpeg", 
+            "image/jp2"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Scale ca. 1:13,000. From the author's Recueil des plans de l'Amerique septentrionale. 1755. LC Maps of North America, 1750-1789, 1948 Available also through the Library of Congress Web site as a raster image. Vault AACR2"
+        ], 
+        "timestamp": "2017-01-26T20:02:41.111000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2017-01-26T19:55:24.730000Z", 
+        "date": "1755", 
+        "shelf_id": "G4964.K5 1755 .L4", 
+        "other_title": [], 
+        "dates": [
+            "1755-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "french"
+        ], 
+        "url": "https://www.loc.gov/item/73691838/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/gmd/gmd4/g4964/g4964k/ar194800.gif", 
+            "//cdn.loc.gov/service/gmd/gmd4/g4964/g4964k/ar194800.gif#h=194&w=150", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar194800/full/pct:12.5/0/default.jpg#h=476&w=369", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar194800/full/pct:25/0/default.jpg#h=953&w=738", 
+            "//tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4964:g4964k:ar194800/full/pct:50/0/default.jpg#h=1907&w=1476"
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/73691838/", 
+            "http://www.loc.gov/resource/g4964k.ar194800/", 
+            "http://hdl.loc.gov/loc.gmd/g4964k.ar194800", 
+            "http://lccn.loc.gov/73691838"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "17.9969444444,-76.7936111111", 
+        "id": "http://www.loc.gov/item/2003680317/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "street vendors", 
+            "jamaica", 
+            "kingston"
+        ], 
+        "index": 4, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "The sweet venders, Kingston, Jamaica", 
+        "coordinates": [
+            "17.9969444444,-76.7936111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.19836375000000001, 
+        "lonlat": [
+            -76.793611111100006, 
+            17.9969444444
+        ], 
+        "location": [
+            "jamaica", 
+            "kingston"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph. | 5 women, 4 of them with large trays of sweets."
+        ], 
+        "timestamp": "2015-05-16T16:58:46.882000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:01.276000Z", 
+        "date": "1899", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Jamaica--Kingston [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1899-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2003680317/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3b10000/3b13000/3b13000/3b13084_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3b10000/3b13000/3b13000/3b13084t.gif#h=121&w=150", 
+            "//cdn.loc.gov/service/pnp/cph/3b10000/3b13000/3b13000/3b13084r.jpg#h=516&w=640", 
+            "//cdn.loc.gov/service/pnp/cph/3b10000/3b13000/3b13000/3b13084v.jpg#h=825&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2003680317/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2003680317/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3b13084", 
+            "http://www.loc.gov/item/2003680317/", 
+            "http://www.loc.gov/resource/cph.3b13084/", 
+            "http://lccn.loc.gov/2003680317"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "graves, c. h. (carleton h.)", 
+            "graves, c. h."
+        ], 
+        "latlong": "17.9969444444,-76.7936111111", 
+        "id": "http://www.loc.gov/item/2008678704/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "sightseers", 
+            "jamaica", 
+            "kingston", 
+            "cameras", 
+            "photographic prints", 
+            "stereographs"
+        ], 
+        "index": 5, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "[Sightseers at Victoria Market, Kingston, Jamaica]", 
+        "coordinates": [
+            "17.9969444444,-76.7936111111"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.19836375000000001, 
+        "lonlat": [
+            -76.793611111100006, 
+            17.9969444444
+        ], 
+        "location": [
+            "jamaica", 
+            "kingston"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph."
+        ], 
+        "timestamp": "2015-05-16T17:07:45.074000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:23.482000Z", 
+        "date": "1899", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Jamaica -- Kingston [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1899-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008678704/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37772_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37772t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37772r.jpg#h=512&w=640", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37772v.jpg#h=820&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2008678704/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2008678704/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c37772", 
+            "http://www.loc.gov/item/2008678704/", 
+            "http://www.loc.gov/resource/cph.3c37772/", 
+            "http://lccn.loc.gov/2008678704"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "keystone view company", 
+            "singley, l. (benjamin lloyd)"
+        ], 
+        "latlong": "15.33841,-92.52564", 
+        "id": "http://www.loc.gov/item/2008678707/", 
+        "partof": [
+            "prints and photographs division", 
+            "stereograph cards", 
+            "catalog"
+        ], 
+        "subject": [
+            "jamaicans", 
+            "commerce", 
+            "jamaica", 
+            "markets", 
+            "kingston", 
+            "photographic prints", 
+            "stereographs"
+        ], 
+        "index": 6, 
+        "group": [
+            "stereo", 
+            "catalog", 
+            "stereograph-cards"
+        ], 
+        "title": "The Kingston market, Jamaica", 
+        "coordinates": [
+            "15.33841,-92.52564"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.19836375000000001, 
+        "lonlat": [
+            -92.525639999999996, 
+            15.33841
+        ], 
+        "location": [
+            "jamaica", 
+            "kingston"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print on stereo card : stereograph."
+        ], 
+        "timestamp": "2015-05-16T17:07:45.074000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2015-05-13T17:35:23.482000Z", 
+        "date": "1900", 
+        "shelf_id": "STEREO FOREIGN GEOG FILE - Jamaica -- Kingston [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1900-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2008678707/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37769_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37769t.gif#h=120&w=150", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37769r.jpg#h=513&w=640", 
+            "//cdn.loc.gov/service/pnp/cph/3c30000/3c37000/3c37700/3c37769v.jpg#h=821&w=1024"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/item/2008678707/", 
+            "http://www.loc.gov/pictures/collection/stereo/item/2008678707/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3c37769", 
+            "http://www.loc.gov/item/2008678707/", 
+            "http://www.loc.gov/resource/cph.3c37769/", 
+            "http://lccn.loc.gov/2008678707"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "mason, frederick g. (ted), jr."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib000759/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "labor officers", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Frederick G. (Ted) Mason Jr.", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 3.6442961999999999, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "europe", 
+            "saigon", 
+            "madagascar", 
+            "italy", 
+            "casablanca", 
+            "east asia", 
+            "eurasia", 
+            "paris", 
+            "africa", 
+            "antananarivo", 
+            "france", 
+            "morocco", 
+            "rome", 
+            "pacific", 
+            "near east", 
+            "vietnam"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "2000-03-02", 
+        "shelf_id": "mfdipbib000759", 
+        "other_title": [], 
+        "dates": [
+            "2000-03-02T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000759/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000759/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mas02", 
+            "http://www.loc.gov/resource/mfdip.2004mas02/", 
+            "http://www.loc.gov/item/mfdip.2004mas02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "petersen, robert"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001621/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Robert B. Petersen", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.4851804, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "kuching", 
+            "east asia", 
+            "malaysia", 
+            "near east", 
+            "washington", 
+            "rabat", 
+            "abidjan", 
+            "okinawa", 
+            "united states", 
+            "morocco", 
+            "vietnam", 
+            "western hemisphere", 
+            "pacific", 
+            "africa", 
+            "japan", 
+            "mauritius", 
+            "cote d'ivoire"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:35:09.664000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:47.868000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "Information Series", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001621/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001621/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010pet01", 
+            "http://www.loc.gov/resource/mfdip.2010pet01/", 
+            "http://www.loc.gov/item/mfdip.2010pet01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "neher, leonardo"
+        ], 
+        "latlong": "31.33333,-110.13333", 
+        "id": "http://www.loc.gov/item/mfdipbib000853/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Leonardo Neher", 
+        "coordinates": [
+            "31.33333,-110.13333"
+        ], 
+        "score": 3.3455140000000001, 
+        "lonlat": [
+            -110.13333, 
+            31.33333
+        ], 
+        "location": [
+            "tangier", 
+            "saigon", 
+            "western hemisphere", 
+            "east asia", 
+            "morocco", 
+            "pacific", 
+            "santo domingo", 
+            "united states", 
+            "damascus", 
+            "vietnam", 
+            "lubumbashi", 
+            "syria", 
+            "dominican republic", 
+            "near east", 
+            "zaire"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:32:05.602000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:27.142000Z", 
+        "date": "1989-10-18", 
+        "shelf_id": "mfdipbib000853", 
+        "other_title": [], 
+        "dates": [
+            "1989-10-18T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000853/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000853/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004neh01", 
+            "http://www.loc.gov/resource/mfdip.2004neh01/", 
+            "http://www.loc.gov/item/mfdip.2004neh01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "thompson, richard sackett"
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001175/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "united states. arms control and disarmament agency", 
+            "chief of station", 
+            "law of the sea", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard Sackett Thompson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.2399369999999998, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "algiers", 
+            "east asia", 
+            "algeria", 
+            "eurasia", 
+            "paris", 
+            "africa", 
+            "europe", 
+            "washington", 
+            "pacific", 
+            "france", 
+            "united states", 
+            "niamey", 
+            "vietnam", 
+            "aruba", 
+            "greece", 
+            "netherlands antilles", 
+            "western hemisphere", 
+            "niger", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:07.713000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+        "date": "1994-02-25", 
+        "shelf_id": "mfdipbib001175", 
+        "other_title": [], 
+        "dates": [
+            "1994-02-25T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001175/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001175/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004tho05", 
+            "http://www.loc.gov/resource/mfdip.2004tho05/", 
+            "http://www.loc.gov/item/mfdip.2004tho05/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "winn, david m."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001281/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "labor officers", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with David M. Winn", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 3.1899611999999999, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "lebanon", 
+            "pacific", 
+            "united states", 
+            "senegal", 
+            "jerusalem", 
+            "saudi arabia", 
+            "paris", 
+            "france", 
+            "amman", 
+            "long khanh", 
+            "beirut", 
+            "near east", 
+            "dhahran", 
+            "washington d.c.", 
+            "israel", 
+            "washington", 
+            "dakar", 
+            "jordan", 
+            "east asia", 
+            "vietnam", 
+            "western hemisphere", 
+            "africa"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "2002-02-28", 
+        "shelf_id": "mfdipbib001281", 
+        "other_title": [], 
+        "dates": [
+            "2002-02-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001281/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001281/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004win05", 
+            "http://www.loc.gov/resource/mfdip.2004win05/", 
+            "http://www.loc.gov/item/mfdip.2004win05/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "haverkamp, roy t."
+        ], 
+        "latlong": "51.5072222222,-0.139722222222", 
+        "id": "http://www.loc.gov/item/mfdipbib000491/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "hungarian revolution of 1956", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Roy T. Haverkamp", 
+        "coordinates": [
+            "51.5072222222,-0.139722222222"
+        ], 
+        "score": 3.1211964999999999, 
+        "lonlat": [
+            -0.13972222222200001, 
+            51.507222222199999
+        ], 
+        "location": [
+            "jamaica", 
+            "england", 
+            "phnom phen", 
+            "kingston", 
+            "africa", 
+            "pacific", 
+            "united states", 
+            "dahomey", 
+            "congo", 
+            "london", 
+            "japan", 
+            "saigon", 
+            "guinea", 
+            "cambodia", 
+            "brazzaville", 
+            "chi long", 
+            "western hemisphere", 
+            "europe", 
+            "korea", 
+            "eurasia", 
+            "seoul", 
+            "dah", 
+            "virginia", 
+            "norfolk", 
+            "leopoldville", 
+            "east asia", 
+            "tokyo", 
+            "can tho", 
+            "sweden", 
+            "vietnam", 
+            "pusan", 
+            "stockholm", 
+            "grenada"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:38.593000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:17.009000Z", 
+        "date": "1994-04-11", 
+        "shelf_id": "mfdipbib000491", 
+        "other_title": [], 
+        "dates": [
+            "1994-04-11T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000491/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000491/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004hav01", 
+            "http://www.loc.gov/resource/mfdip.2004hav01/", 
+            "http://www.loc.gov/item/mfdip.2004hav01/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "rogers, kenneth n.": "https://www.loc.gov/search/?fa=contributor%3Arogers%2C+kenneth+n.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "United States. Arms Control and Disarmament Agency", 
+        "Labor officers", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "United States -- Virginia -- Norfolk", 
+        "Vietnam -- Saigon", 
+        "Morocco -- Tangier", 
+        "Jamaica -- Kingston", 
+        "Hong Kong", 
+        "Angola -- Luanda", 
+        "Near East", 
+        "Western Hemisphere", 
+        "Africa", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "October 21, 1997"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004rog01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000987/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "united states. arms control and disarmament agency", 
+        "labor officers", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004rog01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.6665779999999994, 
+    "title": "Interview with Kenneth N. Rogers ", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "labor officers": "https://www.loc.gov/search/?fa=subject%3Alabor+officers&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "united states. arms control and disarmament agency": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+arms+control+and+disarmament+agency&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "angola": "https://www.loc.gov/search/?fa=location%3Aangola&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "hong kong": "https://www.loc.gov/search/?fa=location%3Ahong+kong&fo=json"
+        }, 
+        {
+            "jamaica": "https://www.loc.gov/search/?fa=location%3Ajamaica&fo=json"
+        }, 
+        {
+            "kingston": "https://www.loc.gov/search/?fa=location%3Akingston&fo=json"
+        }, 
+        {
+            "luanda": "https://www.loc.gov/search/?fa=location%3Aluanda&fo=json"
+        }, 
+        {
+            "morocco": "https://www.loc.gov/search/?fa=location%3Amorocco&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "norfolk": "https://www.loc.gov/search/?fa=location%3Anorfolk&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "saigon": "https://www.loc.gov/search/?fa=location%3Asaigon&fo=json"
+        }, 
+        {
+            "tangier": "https://www.loc.gov/search/?fa=location%3Atangier&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "vietnam": "https://www.loc.gov/search/?fa=location%3Avietnam&fo=json"
+        }, 
+        {
+            "virginia": "https://www.loc.gov/search/?fa=location%3Avirginia&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399611604107264, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:32:24.313000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:29.145000Z", 
+    "date": "19971021", 
+    "shelf_id": "mfdipbib000987", 
+    "other_title": [], 
+    "dates": [
+        {
+            "1997": "https://www.loc.gov/search/?dates=1997-1997&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000987/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000987/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004rog01", 
+        "http://www.loc.gov/resource/mfdip.2004rog01/", 
+        "http://www.loc.gov/item/mfdip.2004rog01/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Rogers, Kenneth N. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.2354888916015625, 
+    "default_count": 25, 
+    "id": "mfdipbib000987/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000987/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004rog01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004rog01/2004rog01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004rog01/2004rog01.pdf"
+    }
+]}

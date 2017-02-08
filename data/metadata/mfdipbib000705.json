@@ -1,0 +1,1710 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Kennedy, C. S. &amp; Lloyd, W. (2001) <cite>Interview with Wingate Lloyd</cite>. February 1. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000705/.", 
+    "mla": "Kennedy, Charles Stuart, and Wingate Lloyd. <cite>Interview with Wingate Lloyd</cite>. February 1, 2001. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib000705/&gt;.", 
+    "chicago": "Kennedy, Charles Stuart, and Wingate Lloyd. <cite>Interview with Wingate Lloyd</cite>. February 1, 2001. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib000705/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412420013,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.029428699999997, 
+                    38.925672400000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Columbia Heights", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/157610884"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "1676b83dced35b4f", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    3.0118299999999998, 
+                    47.066719999999997
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Marseilles-l\u00e8s-Aubigny", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Marseilles"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Marseilles-sur-Aubigny"
+                    }, 
+                    {
+                        "lang": "post", 
+                        "name": "18320"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Marseilles-l\u00e8s-Aubigny"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2995461"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Fr. FRA French Republic", 
+                        "id": "83c7499f1fd87361", 
+                        "name": "France"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "fd55456d43adb527", 
+                        "name": "Centre"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "6ed6cf394b5ce5f9", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -6.8526765999999997, 
+                    33.986491200000003
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Rabat", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "Rabat \u0627\u0644\u0631\u0628\u0627\u0637"
+                    }, 
+                    {
+                        "lang": "ar", 
+                        "name": "\u0627\u0644\u0631\u0628\u0627\u0637"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u03a1\u03b1\u03bc\u03c0\u03ac\u03c4"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e8\u05d1\u05d8"
+                    }, 
+                    {
+                        "lang": "hu", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0420\u0430\u0431\u0430\u0442"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Rabat"
+                    }, 
+                    {
+                        "lang": "ast", 
+                        "name": "Rabat"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/299120862"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Mor. MAR Kingdom of Morocco", 
+                        "id": "408f2ada3bceda9f", 
+                        "name": "Morocco"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "5286a0ef8bb72c2f", 
+                        "name": "Rabat - Sal\u00e9 - Zemmour - Zaer"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "1b660299274c087b", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.2833333333333332, 
+                    38.75
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Fontainhas (Lisbon, Portugal)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Lisbon (Portugal). Fontainhas"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/no2010059791"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Port. PRT Portuguese Republic", 
+                        "id": "5d4123f23a1de1a9", 
+                        "name": "Portugal"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Lisbon|Lisbona|Lisbonne|Lissabon", 
+                        "id": "2986650e52edbd73", 
+                        "name": "Lisboa"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "0595d9488ab4184c", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    12.66667, 
+                    7.0166700000000004
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Doualayel", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Petit Douala"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Douala"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Doualayel"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2232591"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Cam. CMR Republic of Cameroon", 
+                        "id": "b78b09df07c92175", 
+                        "name": "Cameroon"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Adamoua|Adamaua|Adamawa", 
+                        "id": "15aa49f224671135", 
+                        "name": "Adamaoua"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "79237d64aba3d56d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -0.020580000000000001, 
+                    50.85745
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kingston near Lewes", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "", 
+                        "name": "Kingston"
+                    }, 
+                    {
+                        "lang": "link", 
+                        "name": "http://en.wikipedia.org/wiki/Kingston_near_Lewes"
+                    }, 
+                    {
+                        "lang": "", 
+                        "name": "Kingston near Lewes"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/2645429"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland", 
+                        "id": "ea105dbfcf28ef22", 
+                        "name": "United Kingdom"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "E. Sussex", 
+                        "id": "8bae493bf7c0dba0", 
+                        "name": "East Sussex"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "26478c863d6df842", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    18.850000000000001, 
+                    -33.93333333333333
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Stellenbosch (South Africa)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Stellenbosch, South Africa"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Stellenbosch, South Africa"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79084959"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "S.Af. ZAF Republic of South Africa", 
+                        "id": "d501a7236eded4ed", 
+                        "name": "South Africa"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Wes-Kaap", 
+                        "id": "614e8809d6a4b923", 
+                        "name": "Western Cape"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "3d93da82ea1ce307", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "38.75,-9.28333333333", 
+        "contributor": [
+            "machado, j\u00falio c\u00e9sar"
+        ], 
+        "id": "http://lccn.loc.gov/33021597", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "theater", 
+            "portugal", 
+            "lisbon", 
+            "theaters"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Os theatros de Lisboa;", 
+        "coordinates": [
+            "38.75,-9.28333333333"
+        ], 
+        "score": 0.13818406, 
+        "lonlat": [
+            -9.2833333333300008, 
+            38.75
+        ], 
+        "location": [
+            "portugal", 
+            "lisbon"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Internet Archive Web site."
+        ], 
+        "timestamp": "2015-03-03T08:39:51.984000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T06:23:40.235000Z", 
+        "date": "1875", 
+        "shelf_id": "PN2796.L5 M3", 
+        "other_title": [], 
+        "dates": [
+            "1875-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "portuguese"
+        ], 
+        "url": "//lccn.loc.gov/33021597", 
+        "hassegments": false, 
+        "image_url": [
+            ""
+        ], 
+        "aka": [
+            "http://www.loc.gov/resource/scd0001.00210336692/", 
+            "http://lccn.loc.gov/33021597", 
+            "http://www.loc.gov/item/33021597/", 
+            "http://hdl.loc.gov/loc.gdc/scd0001.00210336692"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "38.75,-9.28333333333", 
+        "contributor": [
+            "[cordeiro, jos\u00e9 lucas]"
+        ], 
+        "id": "http://lccn.loc.gov/37037695", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "festivals", 
+            "portugal", 
+            "lisbon"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Rela\u00e7\u00e3o dos festejos que tiver\u00e3o lugar em Lisboa nos memoraveis dias 31 de julho, 1, 2, etc. de agosto de 1826.", 
+        "coordinates": [
+            "38.75,-9.28333333333"
+        ], 
+        "score": 0.13818406, 
+        "lonlat": [
+            -9.2833333333300008, 
+            38.75
+        ], 
+        "location": [
+            "portugal", 
+            "lisbon"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Also available in digital form on the Internet Archive Web site."
+        ], 
+        "timestamp": "2015-03-03T04:42:01.832000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T06:40:04.293000Z", 
+        "date": "1826", 
+        "shelf_id": "DP654 .C6", 
+        "other_title": [], 
+        "dates": [
+            "1826-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "portuguese"
+        ], 
+        "url": "//lccn.loc.gov/37037695", 
+        "hassegments": false, 
+        "image_url": [
+            ""
+        ], 
+        "aka": [
+            "http://www.loc.gov/item/37037695/", 
+            "http://www.loc.gov/resource/scd0001.0020585017A/", 
+            "http://lccn.loc.gov/37037695", 
+            "http://hdl.loc.gov/loc.gdc/scd0001.0020585017A"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "38.75,-9.28333333333", 
+        "contributor": [
+            "frissell, toni"
+        ], 
+        "id": "http://www.loc.gov/item/2004669168/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13272", 
+            "catalog"
+        ], 
+        "subject": [
+            "legendre, gertrude sanford", 
+            "journeys", 
+            "photography", 
+            "portugal", 
+            "lisbon", 
+            "sightseers", 
+            "fishing boats", 
+            "gelatin silver prints"
+        ], 
+        "index": 3, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[American tourist, Gertrude LeGendre, photographing boats in Lisbon, Portugal]", 
+        "coordinates": [
+            "38.75,-9.28333333333"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13818406, 
+        "lonlat": [
+            -9.2833333333300008, 
+            38.75
+        ], 
+        "location": [
+            "portugal", 
+            "lisbon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : gelatin silver."
+        ], 
+        "timestamp": "2016-07-19T22:55:51.822000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:04.261000Z", 
+        "date": "1945", 
+        "shelf_id": "Unprocessed in PR 06 CN 651 or PR 13 CN 1971:R04 ; previously assigned to LOT 13272, no. 46 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1945-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004669168/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12113_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12113_150px.jpg#h=150&w=122", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12113t.gif#h=150&w=122", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12113r.jpg#h=640&w=522", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12113v.jpg#h=1024&w=835"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004669168/", 
+            "http://www.loc.gov/item/2004669168/", 
+            "http://www.loc.gov/pictures/item/2004669168/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3g12113", 
+            "http://www.loc.gov/resource/cph.3g12113/", 
+            "http://lccn.loc.gov/2004669168"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "38.75,-9.28333333333", 
+        "contributor": [
+            "frissell, toni"
+        ], 
+        "id": "http://www.loc.gov/item/2004669177/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 13272", 
+            "catalog"
+        ], 
+        "subject": [
+            "streets", 
+            "portugal", 
+            "lisbon", 
+            "gelatin silver prints"
+        ], 
+        "index": 4, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "[Medieval street in Alfama, Lisbon, Portugal]", 
+        "coordinates": [
+            "38.75,-9.28333333333"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13818406, 
+        "lonlat": [
+            -9.2833333333300008, 
+            38.75
+        ], 
+        "location": [
+            "portugal", 
+            "lisbon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photographic print : gelatin silver."
+        ], 
+        "timestamp": "2016-07-19T22:55:51.822000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T13:58:04.261000Z", 
+        "date": "1940", 
+        "shelf_id": "Unprocessed in PR 06 CN 651 or PR 13 CN 1971:R04 ; previously assigned to LOT 13272, nos. 1 & 2 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1940-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2004669177/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12122_150px.jpg", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12122_150px.jpg#h=150&w=121", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12122t.gif#h=150&w=121", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12122r.jpg#h=640&w=516", 
+            "//cdn.loc.gov/service/pnp/cph/3g10000/3g12000/3g12100/3g12122v.jpg#h=1024&w=825"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2004669177/", 
+            "http://www.loc.gov/item/2004669177/", 
+            "http://www.loc.gov/pictures/item/2004669177/", 
+            "http://hdl.loc.gov/loc.pnp/cph.3g12122", 
+            "http://www.loc.gov/resource/cph.3g12122/", 
+            "http://lccn.loc.gov/2004669177"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "ospaaal (organization)", 
+            "cordoba, rolando"
+        ], 
+        "latlong": "38.75,-9.28333333333", 
+        "id": "http://www.loc.gov/item/yan1996002474/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "posters: yanker poster collection"
+        ], 
+        "subject": [
+            "world conference of solidarity with the arab people", 
+            "(", 
+            "lisbon, portugal)", 
+            "guerrillas", 
+            "solidarity", 
+            "palestinian arabs", 
+            "posters", 
+            "cuban", 
+            "prints"
+        ], 
+        "index": 5, 
+        "group": [
+            "yan", 
+            "yanker-posters"
+        ], 
+        "title": "Solidaridad mundial con la lucha del pueblo de palestina = Solidarity with the struggle of the people of Palestine ...", 
+        "coordinates": [
+            "38.75,-9.28333333333"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13818406, 
+        "lonlat": [
+            -9.2833333333300008, 
+            38.75
+        ], 
+        "location": [
+            "portugal", 
+            "lisbon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 print (poster)"
+        ], 
+        "timestamp": "2016-07-15T21:56:55.731000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-15T21:48:50.797000Z", 
+        "date": "1979", 
+        "shelf_id": "POS 6 - Cuba, no. 86 (C size)  <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1979-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/yan1996002474/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/yan/1a36000/1a36100/1a36120_150px.jpg#h=150&w=98"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/yan/item/yan1996002474/pp/", 
+            "http://www.loc.gov/item/yan1996002474/pp/", 
+            "http://www.loc.gov/pictures/item/yan1996002474/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a36120", 
+            "http://www.loc.gov/resource/yan.1a36120/"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "site": [
+            "pictures"
+        ], 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "contributor": [
+            "cgtp-intersindical"
+        ], 
+        "latlong": "38.75,-9.28333333333", 
+        "id": "http://www.loc.gov/item/yan1996002170/PP/", 
+        "partof": [
+            "prints and photographs division", 
+            "posters: yanker poster collection"
+        ], 
+        "subject": [
+            "congresso de todos os sindicatos", 
+            "(lisbon, portugal)", 
+            "meetings", 
+            "equipment", 
+            "labor unions", 
+            "emblems", 
+            "posters", 
+            "german", 
+            "prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "yan", 
+            "yanker-posters"
+        ], 
+        "title": "Congresso dos Sindicatos : dias 25, 26, 27, Lisboa : sessao publica de encerramento, dia 27-17h Campo Pequeno", 
+        "coordinates": [
+            "38.75,-9.28333333333"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.13818406, 
+        "lonlat": [
+            -9.2833333333300008, 
+            38.75
+        ], 
+        "location": [
+            "portugal", 
+            "lisbon"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 print (poster)"
+        ], 
+        "timestamp": "2016-07-15T21:56:20.363000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-15T21:48:49.274000Z", 
+        "date": "1965", 
+        "shelf_id": "POS 6 - Germany, no. 413 (C size)  <P&P> [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1965-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/yan1996002170/PP/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/yan/1a37000/1a37300/1a37395_150px.jpg#h=150&w=109"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/yan/item/yan1996002170/pp/", 
+            "http://www.loc.gov/item/yan1996002170/pp/", 
+            "http://www.loc.gov/pictures/item/yan1996002170/pp/", 
+            "http://hdl.loc.gov/loc.pnp/yan.1a37395", 
+            "http://www.loc.gov/resource/yan.1a37395/"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "kirby, harmon e."
+        ], 
+        "latlong": "46.2441666667,6.14444444444", 
+        "id": "http://www.loc.gov/item/mfdipbib000619/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "camp david", 
+            "kremlin (moscow, russia)", 
+            "north american free trade association", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Harmon E. Kirby", 
+        "coordinates": [
+            "46.2441666667,6.14444444444"
+        ], 
+        "score": 3.3253167000000001, 
+        "lonlat": [
+            6.1444444444400004, 
+            46.244166666700004
+        ], 
+        "location": [
+            "europe", 
+            "eurasia", 
+            "lome", 
+            "geneva", 
+            "morocco", 
+            "sudan", 
+            "africa", 
+            "india", 
+            "rabat", 
+            "togo", 
+            "khartoum", 
+            "united states", 
+            "belgium", 
+            "central asia", 
+            "switzerland", 
+            "brussels", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1995-08-31", 
+        "shelf_id": "mfdipbib000619", 
+        "other_title": [], 
+        "dates": [
+            "1995-08-31T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000619/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000619/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004kir01", 
+            "http://www.loc.gov/resource/mfdip.2004kir01/", 
+            "http://www.loc.gov/item/mfdip.2004kir01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "fenzi, jewell", 
+            "lloyd, janet"
+        ], 
+        "latlong": "38.9256724,-77.0294287", 
+        "id": "http://www.loc.gov/item/mfdipbib000704/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "spouses", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Janet Lloyd", 
+        "coordinates": [
+            "38.9256724,-77.0294287"
+        ], 
+        "score": 3.252961, 
+        "lonlat": [
+            -77.029428699999997, 
+            38.925672400000003
+        ], 
+        "location": [
+            "washington d.c.", 
+            "europe", 
+            "portugal", 
+            "eurasia", 
+            "near east", 
+            "africa", 
+            "rabat", 
+            "france", 
+            "united states", 
+            "morocco", 
+            "western hemisphere", 
+            "lisbon", 
+            "marseille", 
+            "cameroon", 
+            "douala"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1995-06-07", 
+        "shelf_id": "Spouse Series", 
+        "other_title": [], 
+        "dates": [
+            "1995-06-07T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000704/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000704/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004llo01", 
+            "http://www.loc.gov/resource/mfdip.2004llo01/", 
+            "http://www.loc.gov/item/mfdip.2004llo01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "jackson, richard l."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib000555/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "camp david", 
+            "six day war", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard L. Jackson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 2.9661894000000002, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "thessaloniki", 
+            "europe", 
+            "casablanca", 
+            "libya", 
+            "eurasia", 
+            "near east", 
+            "washington", 
+            "rabat", 
+            "tripoli", 
+            "athens", 
+            "united states", 
+            "morocco", 
+            "new york", 
+            "somalia", 
+            "africa", 
+            "greece", 
+            "mogadishu", 
+            "north africa"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "1998-08-17", 
+        "shelf_id": "mfdipbib000555", 
+        "other_title": [], 
+        "dates": [
+            "1998-08-17T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000555/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000555/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004jac01", 
+            "http://www.loc.gov/resource/mfdip.2004jac01/", 
+            "http://www.loc.gov/item/mfdip.2004jac01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "lore, mark"
+        ], 
+        "latlong": "39.2833333333,-17.1238888889", 
+        "id": "http://www.loc.gov/item/mfdipbib000711/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "general agreement on tariffs and trade", 
+            "united states citizens", 
+            "nonproliferation, nuclear", 
+            "north american free trade association", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Mark Lore", 
+        "coordinates": [
+            "39.2833333333,-17.1238888889"
+        ], 
+        "score": 2.8892395, 
+        "lonlat": [
+            -17.123888888900002, 
+            39.2833333333
+        ], 
+        "location": [
+            "washington d.c.", 
+            "brazil", 
+            "angola", 
+            "portugal", 
+            "eurasia", 
+            "africa", 
+            "europe", 
+            "rabat", 
+            "rio de janeiro", 
+            "united states", 
+            "morocco", 
+            "western hemisphere", 
+            "belgium", 
+            "brussels", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1998-06-26", 
+        "shelf_id": "mfdipbib000711", 
+        "other_title": [], 
+        "dates": [
+            "1998-06-26T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000711/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000711/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004lor03", 
+            "http://www.loc.gov/resource/mfdip.2004lor03/", 
+            "http://www.loc.gov/item/mfdip.2004lor03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "matthews, h. freeman, jr."
+        ], 
+        "latlong": "30.05,31.25", 
+        "id": "http://www.loc.gov/item/mfdipbib000768/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "camp david", 
+            "peace treaties", 
+            "mutual and balanced force reduction", 
+            "north american free trade association", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with H. Freeman Matthews Jr.", 
+        "coordinates": [
+            "30.05,31.25"
+        ], 
+        "score": 2.4965608000000001, 
+        "lonlat": [
+            31.25, 
+            30.050000000000001
+        ], 
+        "location": [
+            "europe", 
+            "saigon", 
+            "italy", 
+            "palermo", 
+            "eurasia", 
+            "mexico", 
+            "egypt", 
+            "cairo", 
+            "east asia", 
+            "zurich", 
+            "pacific", 
+            "mexico city", 
+            "vietnam", 
+            "western hemisphere", 
+            "madrid", 
+            "switzerland", 
+            "near east", 
+            "spain"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1993-04-20", 
+        "shelf_id": "mfdipbib000768", 
+        "other_title": [], 
+        "dates": [
+            "1993-04-20T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000768/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000768/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mat06", 
+            "http://www.loc.gov/resource/mfdip.2004mat06/", 
+            "http://www.loc.gov/item/mfdip.2004mat06/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "korn, david a."
+        ], 
+        "latlong": "48.8430555556,2.32138888889", 
+        "id": "http://www.loc.gov/item/mfdipbib000635/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "camp david", 
+            "six day war", 
+            "peace treaties", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with David A. Korn", 
+        "coordinates": [
+            "48.8430555556,2.32138888889"
+        ], 
+        "score": 2.4884574000000002, 
+        "lonlat": [
+            2.3213888888900001, 
+            48.843055555600003
+        ], 
+        "location": [
+            "europe", 
+            "mauritania", 
+            "israel", 
+            "addis ababa", 
+            "eurasia", 
+            "lome", 
+            "ethiopia", 
+            "paris", 
+            "africa", 
+            "central asia", 
+            "india", 
+            "france", 
+            "united states", 
+            "togo", 
+            "nouakchott", 
+            "calcutta", 
+            "tel aviv", 
+            "near east"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:21.233000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+        "date": "1990-12-11", 
+        "shelf_id": "mfdipbib000635", 
+        "other_title": [], 
+        "dates": [
+            "1990-12-11T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000635/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000635/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004kor03", 
+            "http://www.loc.gov/resource/mfdip.2004kor03/", 
+            "http://www.loc.gov/item/mfdip.2004kor03/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "kennedy, charles stuart": "https://www.loc.gov/search/?fa=contributor%3Akennedy%2C+charles+stuart&fo=json"
+        }, 
+        {
+            "lloyd, wingate": "https://www.loc.gov/search/?fa=contributor%3Alloyd%2C+wingate&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9256724,-77.0294287", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "United States. Agency for International Development", 
+        "Camp David", 
+        "Six Day War, 1967", 
+        "Peace treaties", 
+        "Kremlin (Moscow, Russia)", 
+        "Israel-Arab War, 1973", 
+        "North American Free Trade Association", 
+        "Interviews", 
+        "United States -- District of Columbia", 
+        "France -- Marseilles", 
+        "Morocco -- Rabat", 
+        "Portugal -- Lisbon", 
+        "Cameroon -- Douala", 
+        "Europe and Eurasia", 
+        "Near East", 
+        "Western Hemisphere", 
+        "Africa"
+    ], 
+    "created_published": [
+        "February 1, 2001"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004llo02#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib000705/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "united states. agency for international development", 
+        "camp david", 
+        "six day war", 
+        "peace treaties", 
+        "kremlin (moscow, russia)", 
+        "israel-arab war", 
+        "north american free trade association", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004llo02"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.2288370000000004, 
+    "title": "Interview with Wingate Lloyd ", 
+    "coordinates": [
+        "38.9256724,-77.0294287"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "camp david": "https://www.loc.gov/search/?fa=subject%3Acamp+david&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "israel-arab war": "https://www.loc.gov/search/?fa=subject%3Aisrael-arab+war&fo=json"
+        }, 
+        {
+            "kremlin (moscow, russia)": "https://www.loc.gov/search/?fa=subject%3Akremlin+%28moscow%2C+russia%29&fo=json"
+        }, 
+        {
+            "north american free trade association": "https://www.loc.gov/search/?fa=subject%3Anorth+american+free+trade+association&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }, 
+        {
+            "peace treaties": "https://www.loc.gov/search/?fa=subject%3Apeace+treaties&fo=json"
+        }, 
+        {
+            "six day war": "https://www.loc.gov/search/?fa=subject%3Asix+day+war&fo=json"
+        }, 
+        {
+            "united states. agency for international development": "https://www.loc.gov/search/?fa=subject%3Aunited+states.+agency+for+international+development&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.029428699999997, 
+        38.925672400000003
+    ], 
+    "location": [
+        {
+            "africa": "https://www.loc.gov/search/?fa=location%3Aafrica&fo=json"
+        }, 
+        {
+            "cameroon": "https://www.loc.gov/search/?fa=location%3Acameroon&fo=json"
+        }, 
+        {
+            "douala": "https://www.loc.gov/search/?fa=location%3Adouala&fo=json"
+        }, 
+        {
+            "eurasia": "https://www.loc.gov/search/?fa=location%3Aeurasia&fo=json"
+        }, 
+        {
+            "europe": "https://www.loc.gov/search/?fa=location%3Aeurope&fo=json"
+        }, 
+        {
+            "france": "https://www.loc.gov/search/?fa=location%3Afrance&fo=json"
+        }, 
+        {
+            "lisbon": "https://www.loc.gov/search/?fa=location%3Alisbon&fo=json"
+        }, 
+        {
+            "marseilles": "https://www.loc.gov/search/?fa=location%3Amarseilles&fo=json"
+        }, 
+        {
+            "morocco": "https://www.loc.gov/search/?fa=location%3Amorocco&fo=json"
+        }, 
+        {
+            "near east": "https://www.loc.gov/search/?fa=location%3Anear+east&fo=json"
+        }, 
+        {
+            "portugal": "https://www.loc.gov/search/?fa=location%3Aportugal&fo=json"
+        }, 
+        {
+            "rabat": "https://www.loc.gov/search/?fa=location%3Arabat&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }, 
+        {
+            "western hemisphere": "https://www.loc.gov/search/?fa=location%3Awestern+hemisphere&fo=json"
+        }
+    ], 
+    "_version_": 1540399546827276288, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:31:21.233000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:22.224000Z", 
+    "date": "20010201", 
+    "shelf_id": "mfdipbib000705", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2001": "https://www.loc.gov/search/?dates=2001-2001&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib000705/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib000705/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004llo02", 
+        "http://www.loc.gov/resource/mfdip.2004llo02/", 
+        "http://www.loc.gov/item/mfdip.2004llo02/"
+    ], 
+    "contributor_names": [
+        "Kennedy, Charles Stuart (Interviewer)", 
+        "Lloyd, Wingate (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 1.1451921463012695, 
+    "default_count": 25, 
+    "id": "mfdipbib000705/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib000705/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004llo02/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004llo02/2004llo02.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004llo02/2004llo02.pdf"
+    }
+]}

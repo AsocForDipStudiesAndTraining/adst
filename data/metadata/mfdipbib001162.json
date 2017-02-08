@@ -1,0 +1,1880 @@
+{"articles_and_essays":null,
+"cite_this":{
+    "apa": "Klingaman, S. M. &amp; Tatu, F. J. (2000) <cite>Interview with Francis J. Tatu</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001162/.", 
+    "mla": "Klingaman, Susan M, and Francis J Tatu. <cite>Interview with Francis J. Tatu</cite>. 2000. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;https://www.loc.gov/item/mfdipbib001162/&gt;.", 
+    "chicago": "Klingaman, Susan M, and Francis J Tatu. <cite>Interview with Francis J. Tatu</cite>. 2000. Manuscript/Mixed Material. Retrieved from the Library of Congress, https://www.loc.gov/item/mfdipbib001162/. (Accessed February 06, 2017.)"
+},
+"timestamp":1486412076682,
+"locations":[
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -77.016365300000004, 
+                    38.900111799999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Washington City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "osm.org/browse/node/158638609"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM2", 
+                        "alternate_names": "", 
+                        "id": "3e5c3d3073ed5a6b", 
+                        "name": "District of Columbia"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "United States of America U.S.A. USA United States of America", 
+                        "id": "d227a216b468aba1", 
+                        "name": "United States"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "4e11158c9ea0e6ac", 
+                        "name": "District of Columbia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "7267eb77ad75f5ae", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    120.67458000000001, 
+                    24.151057900000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Taichung City", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u53f0\u4e2d\u5e02 (Taichung City)"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Taichung City"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "\u0110\u00e0i Trung"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u53f0\u4e2d\u5e02"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/60655918"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Taiwan TWN", 
+                        "id": "4ae3ed027af83ea9", 
+                        "name": "Taiwan"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Taizhong Shi", 
+                        "id": "6a7b24e08309f2cb", 
+                        "name": "Taichung City"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "10660d9bc86a87b5", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    121.3356, 
+                    12.369
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Manila", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fil", 
+                        "name": "Manila"
+                    }
+                ], 
+                "uris": [
+                    "geonames.org/1701669"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "6f604538cf37f42a", 
+                        "name": "Oriental Mindoro"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Phil. PHL Republic of the Philippines", 
+                        "id": "991a540a1606ba96", 
+                        "name": "Philippines"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "cbe7a4ef80e15eaa", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    100.494086, 
+                    13.7527531
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Bangkok", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "unknown", 
+                        "name": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23 (Bangkok)"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "eu", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "fi", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05d1\u05e0\u05d2\u05e7\u05d5\u05e7"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "pt", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u0411\u0430\u043d\u0433\u043a\u043e\u043a"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Bangkok"
+                    }, 
+                    {
+                        "lang": "th", 
+                        "name": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "B\u0103ng C\u1ed1c"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/1628207792"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Bangkok|Krung Thep|Krung Thep Maha Nakhon|Phra Nakhon-Thonburi", 
+                        "id": "90204ebf0920e145", 
+                        "name": "Bangkok Metropolis"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Thai. THA Kingdom of Thailand", 
+                        "id": "5f44bdb574c836ec", 
+                        "name": "Thailand"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "16a57d31ba2dadfe", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    149.12866729999999, 
+                    -35.282070900000001
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Canberra", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "fr", 
+                        "name": "Canberra"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e7\u05e0\u05d1\u05e8\u05d4"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Canberra"
+                    }, 
+                    {
+                        "lang": "ku", 
+                        "name": "Kanberra"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Canberra"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0430\u043d\u0431\u0435\u0440\u0440\u0430"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Canberra"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/21674637"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Auz. AUS Commonwealth of Australia", 
+                        "id": "870b586c4b2dec11", 
+                        "name": "Australia"
+                    }, 
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "A.C.T.", 
+                        "id": "507e0c98235d336c", 
+                        "name": "Australian Capital Territory"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "83e9ce89aaada0b3", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.7, 
+                    3.1666666666666665
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kuala Lumpur (Malaysia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "K.L. (Malaysia)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Kuala Lumpur"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n79011077"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Negeri Sembilan Darul Khusus|Negri Sembilan", 
+                        "id": "6571f97a09ff4fc8", 
+                        "name": "Negeri Sembilan"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Malay. MYS", 
+                        "id": "832f529511141462", 
+                        "name": "Malaysia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "afecb18d4b0298ad", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    85.314612199999999, 
+                    27.707539199999999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Kathmandu", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "lang": "bg", 
+                        "name": "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
+                    }, 
+                    {
+                        "lang": "cs", 
+                        "name": "K\u00e1thm\u00e1nd\u00fa"
+                    }, 
+                    {
+                        "lang": "da", 
+                        "name": "Katmandu"
+                    }, 
+                    {
+                        "lang": "de", 
+                        "name": "Kathmandu"
+                    }, 
+                    {
+                        "lang": "el", 
+                        "name": "\u039a\u03b1\u03c4\u03bc\u03b1\u03bd\u03c4\u03bf\u03cd"
+                    }, 
+                    {
+                        "lang": "en", 
+                        "name": "Kathmandu"
+                    }, 
+                    {
+                        "lang": "es", 
+                        "name": "Katmand\u00fa"
+                    }, 
+                    {
+                        "lang": "fa", 
+                        "name": "\u06a9\u0627\u062a\u0645\u0627\u0646\u062f\u0648"
+                    }, 
+                    {
+                        "lang": "fr", 
+                        "name": "Katmandou"
+                    }, 
+                    {
+                        "lang": "he", 
+                        "name": "\u05e7\u05d8\u05de\u05e0\u05d3\u05d5"
+                    }, 
+                    {
+                        "lang": "hr", 
+                        "name": "Katmandu"
+                    }, 
+                    {
+                        "lang": "is", 
+                        "name": "Katmand\u00fa"
+                    }, 
+                    {
+                        "lang": "ja", 
+                        "name": "\u30ab\u30c8\u30de\u30f3\u30ba"
+                    }, 
+                    {
+                        "lang": "ko", 
+                        "name": "\uce74\ud2b8\ub9cc\ub450"
+                    }, 
+                    {
+                        "lang": "ne", 
+                        "name": "\u0915\u093e\u0920\u092e\u093e\u0902\u0921\u094c"
+                    }, 
+                    {
+                        "lang": "nl", 
+                        "name": "Kathmandu"
+                    }, 
+                    {
+                        "lang": "pl", 
+                        "name": "Katmandu"
+                    }, 
+                    {
+                        "lang": "ru", 
+                        "name": "\u041a\u0430\u0442\u043c\u0430\u043d\u0434\u0443"
+                    }, 
+                    {
+                        "lang": "sk", 
+                        "name": "K\u00e1thmandu"
+                    }, 
+                    {
+                        "lang": "sl", 
+                        "name": "Katmandu"
+                    }, 
+                    {
+                        "lang": "sv", 
+                        "name": "Katmandu"
+                    }, 
+                    {
+                        "lang": "vi", 
+                        "name": "Kathmandu"
+                    }, 
+                    {
+                        "lang": "zh", 
+                        "name": "\u52a0\u5fb7\u6eff\u90fd"
+                    }, 
+                    {
+                        "lang": "new", 
+                        "name": "\u092f\u0947\u0901"
+                    }
+                ], 
+                "uris": [
+                    "osm.org/browse/node/67157058"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Madhyamanchal", 
+                        "id": "807c55ae670769bc", 
+                        "name": "Bhaktapur"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Nepal NPL", 
+                        "id": "8530b0f13c53c7b6", 
+                        "name": "Nepal"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "56a5a7d2357ec345", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    106.82944444444443, 
+                    -6.1744444444444451
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Jakarta (Indonesia)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Yajiada (Indonesia)"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n80073867"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "Jawa|Djakarta", 
+                        "id": "6301889e472ef239", 
+                        "name": "Jakarta Raya"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Indo. IDN Republic of Indonesia", 
+                        "id": "f089542df39fb9f8", 
+                        "name": "Indonesia"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "e5ddcc4a73093cba", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    114.26667, 
+                    22.316669999999998
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Wo Tong Kong", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": null, 
+                "uris": [
+                    "geonames.org/1818291"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "aa82ab35e39dc688", 
+                        "name": "HKG-00 (Hong Kong aggregation)"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Hong Kong SAR, China H.K. HKG Hong Kong Special Administrative Region, PRC", 
+                        "id": "b6b8b22ab4bad44d", 
+                        "name": "Hong Kong"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "5fe7aa42dc92113d", 
+                "population": null
+            }
+        }
+    ], 
+    [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    115.06666666666666, 
+                    5.0333333333333332
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "is_composite": null, 
+                "name": "Muara (Brunei)", 
+                "area": null, 
+                "importance": null, 
+                "is_primary": true, 
+                "alternate": [
+                    {
+                        "name": "Brunei Muara (Brunei)"
+                    }, 
+                    {
+                        "type": "historical", 
+                        "name": "Muara, Brunei"
+                    }
+                ], 
+                "uris": [
+                    "http://id.loc.gov/authorities/names/n94122899"
+                ], 
+                "admin": [
+                    {
+                        "feature_code": "ADM1", 
+                        "alternate_names": "", 
+                        "id": "f7e3ddfed006d0f4", 
+                        "name": "Brunei and Muara"
+                    }, 
+                    {
+                        "feature_code": "ADM0", 
+                        "alternate_names": "Brunei Darussalam Brunei BRN Negara Brunei Darussalam", 
+                        "id": "aeada7f309a0db21", 
+                        "name": "Brunei"
+                    }
+                ], 
+                "feature_code": "PPL", 
+                "feature_code_name": "populated place", 
+                "timeframe": {}, 
+                "id": "270da75302f41fc2", 
+                "population": null
+            }
+        }
+    ]
+],
+"related_items":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "11.0059,109.16", 
+        "id": "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=14049362&v3=1", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "education, higher", 
+            "east asia", 
+            "economic aspects", 
+            "indonesia", 
+            "korea", 
+            "malaysia", 
+            "philippines", 
+            "singapore", 
+            "thailand", 
+            "educaci\u00f3n superior", 
+            "finanzas", 
+            "asia oriental"
+        ], 
+        "index": 1, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Impact of the economic crisis on higher education in East Asia : country experiences : selected papers from the policy forum organized jointly with RIHED, Bangkok and ministry of education, Malaysia selangor, 29-31 January 2001 /", 
+        "coordinates": [
+            "11.0059,109.16"
+        ], 
+        "score": 0.38076258000000002, 
+        "lonlat": [
+            109.16, 
+            11.0059
+        ], 
+        "location": [
+            "korea", 
+            "east asia", 
+            "singapore", 
+            "philippines", 
+            "indonesia", 
+            "malaysia", 
+            "asia oriental", 
+            "thailand"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Incluye referencias bibliogra\u0301ficas."
+        ], 
+        "timestamp": "2015-03-02T23:39:21.031000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-24T21:41:08.595000Z", 
+        "date": "2001", 
+        "shelf_id": "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=14049362&v3=1", 
+        "other_title": [], 
+        "dates": [
+            "2001-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=14049362&v3=1", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&BBID=14049362&v3=1", 
+            "http://www.unesco.org/iiep"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-0.233333333333,100.633333333", 
+        "contributor": [
+            "mundlak, yair"
+        ], 
+        "id": "http://lccn.loc.gov/2002615721", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "agriculture", 
+            "indonesia", 
+            "philippines", 
+            "thailand", 
+            "agricultural productivity"
+        ], 
+        "index": 2, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Determinants of agricultural growth in Indonesia, the Philippines, and Thailand", 
+        "coordinates": [
+            "-0.233333333333,100.633333333"
+        ], 
+        "score": 0.20992503000000001, 
+        "lonlat": [
+            100.633333333, 
+            -0.23333333333299999
+        ], 
+        "location": [
+            "thailand", 
+            "philippines", 
+            "indonesia"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Mode of access: World Wide Web. Title from title screen as viewed on June 3, 2002. \"March 2002.\" Includes bibliographical references (p. 44-45). Also available in print."
+        ], 
+        "timestamp": "2015-03-03T06:47:31.095000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-24T23:51:45.229000Z", 
+        "date": "2002", 
+        "shelf_id": "HG3881.5.W57", 
+        "other_title": [], 
+        "dates": [
+            "2002-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2002615721", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/2002615721/", 
+            "http://lccn.loc.gov/2002615721", 
+            "http://econ.worldbank.org/view.php?type=5&id=13164"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "-0.233333333333,100.633333333", 
+        "contributor": [
+            "zaman, wasim alimuz"
+        ], 
+        "id": "http://lccn.loc.gov/2011315066", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "adolescence", 
+            "sexual behavior", 
+            "indonesia", 
+            "thailand", 
+            "vietnam", 
+            "reproductive health", 
+            "hiv infections"
+        ], 
+        "index": 3, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Improving access of young people to education and services for sexual and reproductive health, HIV, and gender promising practices in Indonesia, Thailand, and Vietnam /", 
+        "coordinates": [
+            "-0.233333333333,100.633333333"
+        ], 
+        "score": 0.20470875999999999, 
+        "lonlat": [
+            100.633333333, 
+            -0.23333333333299999
+        ], 
+        "location": [
+            "thailand", 
+            "indonesia", 
+            "vietnam"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references (p. 10). Title from PDF file as viewed on 12/14/2011."
+        ], 
+        "timestamp": "2015-03-03T05:16:28.708000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T04:03:11.819000Z", 
+        "date": "2009", 
+        "shelf_id": "HQ799.I6", 
+        "other_title": [], 
+        "dates": [
+            "2009-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "//lccn.loc.gov/2011315066", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://lccn.loc.gov/2011315066", 
+            "http://www.icomp.org.my/pub/improve_access.pdf", 
+            "http://www.loc.gov/item/2011315066/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "book"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "kawabe, sumiko"
+        ], 
+        "id": "http://lccn.loc.gov/2012421834", 
+        "partof": [
+            "catalog"
+        ], 
+        "subject": [
+            "mar\u0113shia nihonjin sh\u014dk\u014d kaigisho", 
+            "history", 
+            "boards of trade", 
+            "malaysia", 
+            "kuala lumpur", 
+            "20th century", 
+            "21st century", 
+            "corporations, japanese"
+        ], 
+        "index": 4, 
+        "group": [
+            "catalog"
+        ], 
+        "title": "Mar\u0113shia Nihonjin Sh\u014dk\u014d Kaigisho no katsud\u014d /", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "score": 0.18891566000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "digitized": true, 
+        "description": [
+            "Includes bibliographical references (pages 243-265 (second group))."
+        ], 
+        "timestamp": "2015-03-03T06:01:34.755000Z", 
+        "site": [
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2015-02-25T04:44:10.356000Z", 
+        "date": "2012", 
+        "shelf_id": "HF331.M34 K39 2012", 
+        "other_title": [
+            "\u30de\u30ec\u30fc\u30b7\u30a2\u65e5\u672c\u4eba\u5546\u5de5\u4f1a\u8b70\u6240\u306e\u6d3b\u52d5 /"
+        ], 
+        "dates": [
+            "2012-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "japanese"
+        ], 
+        "url": "//lccn.loc.gov/2012421834", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://lccn.loc.gov/2012421834", 
+            "http://www.bk1.jp/trcno/12022719/?partnerid=oclc&siteid=oclc", 
+            "http://www.loc.gov/item/2012421834/", 
+            "http://www.loc.gov/catdir/toc/fy13pdf03/2012421834.html"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "great britain. central office of information"
+        ], 
+        "id": "http://www.loc.gov/item/2014645438/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 3101", 
+            "catalog"
+        ], 
+        "subject": [
+            "men", 
+            "education", 
+            "malaysia", 
+            "kuala lumpur", 
+            "students", 
+            "classrooms", 
+            "universities & colleges", 
+            "photomechanical prints"
+        ], 
+        "index": 5, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Colonial empire - introducing Malaya and Borneo. Primary education is available throughout Malaya in Tamil, Chinese, and Malay, while children of all races attend the English schools which take them to School Certificate standard. Here is a mixed class in a Kuala Lumpur college", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.18891566000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photograph : photomechanical ; 30.5 x 38 cm. | Photograph shows young men of several ethnicities sitting in desks in a classroom listening to a teacher."
+        ], 
+        "timestamp": "2016-07-20T00:24:27.093000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:02:08.021000Z", 
+        "date": "1948", 
+        "shelf_id": "LOT 3101 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1948-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2014645438/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ds/04700/04787_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2014645438/", 
+            "http://www.loc.gov/item/2014645438/", 
+            "http://www.loc.gov/pictures/item/2014645438/", 
+            "http://hdl.loc.gov/loc.pnp/ds.04787", 
+            "http://www.loc.gov/resource/ds.04787/", 
+            "http://lccn.loc.gov/2014645438"
+        ]
+    }, 
+    {
+        "access_restricted": true, 
+        "original_format": [
+            "photo, print, drawing"
+        ], 
+        "latlong": "3.16666666667,101.7", 
+        "contributor": [
+            "great britain. central office of information"
+        ], 
+        "id": "http://www.loc.gov/item/2014645440/", 
+        "partof": [
+            "prints and photographs division", 
+            "lot 3101", 
+            "catalog"
+        ], 
+        "subject": [
+            "children", 
+            "health & welfare", 
+            "malaysia", 
+            "kuala lumpur", 
+            "food", 
+            "assistance", 
+            "photomechanical prints"
+        ], 
+        "index": 6, 
+        "group": [
+            "cph", 
+            "catalog", 
+            "miscellaneous-items-high-demand"
+        ], 
+        "title": "Colonial empire - introducing Malaya and Borneo. The Japanese armies left Malaya in a pitiful state after their surrender. The Government decided to set up a new Department of Social Welfare, with wide responsibilities. Needy children get a free meal at a Kuala Lumpur clinic", 
+        "coordinates": [
+            "3.16666666667,101.7"
+        ], 
+        "online_format": [
+            "image"
+        ], 
+        "score": 0.18891566000000001, 
+        "lonlat": [
+            101.7, 
+            3.1666666666699999
+        ], 
+        "location": [
+            "malaysia", 
+            "kuala lumpur"
+        ], 
+        "mime_type": [
+            "image/gif", 
+            "image/jpg", 
+            "image/tif", 
+            "image/jpeg"
+        ], 
+        "digitized": true, 
+        "description": [
+            "1 photograph : photomechanical ; 30.5 x 38 cm. | Photograph shows a woman serving food to children."
+        ], 
+        "timestamp": "2016-07-20T00:24:27.093000Z", 
+        "site": [
+            "pictures", 
+            "catalog"
+        ], 
+        "campaigns": [], 
+        "extract_timestamp": "2016-05-16T14:02:08.021000Z", 
+        "date": "1948", 
+        "shelf_id": "LOT 3101 [item] [P&P]", 
+        "other_title": [], 
+        "dates": [
+            "1948-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/2014645440/", 
+        "hassegments": false, 
+        "image_url": [
+            "//cdn.loc.gov/service/pnp/ds/04700/04782_150px.jpg"
+        ], 
+        "aka": [
+            "http://www.loc.gov/pictures/collection/cph/item/2014645440/", 
+            "http://www.loc.gov/item/2014645440/", 
+            "http://www.loc.gov/pictures/item/2014645440/", 
+            "http://hdl.loc.gov/loc.pnp/ds.04782", 
+            "http://www.loc.gov/resource/ds.04782/", 
+            "http://lccn.loc.gov/2014645440"
+        ]
+    }
+],
+"more_like_this":[
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "morris, greta n."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001603/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 1, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador Greta N. Morris", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.5402005000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "surabaya", 
+            "africa", 
+            "uganda", 
+            "kampala", 
+            "jakarta", 
+            "philippines", 
+            "indonesia", 
+            "washington", 
+            "western hemisphere", 
+            "united states", 
+            "marshall islands", 
+            "pacific", 
+            "manila", 
+            "kenya", 
+            "thailand", 
+            "nairobi", 
+            "east asia"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:34:40.818000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:44.957000Z", 
+        "date": "2010-00-00", 
+        "shelf_id": "mfdipbib001603", 
+        "other_title": [], 
+        "dates": [
+            "2010-01-01T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001603/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001603/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2010mor01", 
+            "http://www.loc.gov/resource/mfdip.2010mor01/", 
+            "http://www.loc.gov/item/mfdip.2010mor01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "o'brien, john r.", 
+            "mccarthy, richard m."
+        ], 
+        "latlong": "13.7527531,100.494086", 
+        "id": "http://www.loc.gov/item/mfdipbib000781/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "cuban missile crisis", 
+            "interviews"
+        ], 
+        "index": 2, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Richard M. McCarthy", 
+        "coordinates": [
+            "13.7527531,100.494086"
+        ], 
+        "score": 1.4556511999999999, 
+        "lonlat": [
+            100.494086, 
+            13.7527531
+        ], 
+        "location": [
+            "saigon", 
+            "east asia", 
+            "pacific", 
+            "bangkok", 
+            "vietnam", 
+            "thailand", 
+            "taiwan", 
+            "hong kong"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:31:43.242000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:24.639000Z", 
+        "date": "1988-12-28", 
+        "shelf_id": "Information Series", 
+        "other_title": [], 
+        "dates": [
+            "1988-12-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000781/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000781/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004mcc04", 
+            "http://www.loc.gov/resource/mfdip.2004mcc04/", 
+            "http://www.loc.gov/item/mfdip.2004mcc04/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "reuther, david e.", 
+            "lambertson, david f."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001387/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "ambassadors", 
+            "interviews"
+        ], 
+        "index": 3, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Ambassador David Lambertson", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.4241060000000001, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "saigon", 
+            "australia", 
+            "bangkok", 
+            "canberra", 
+            "tokyo", 
+            "east asia", 
+            "indonesia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "vietnam", 
+            "western hemisphere", 
+            "south", 
+            "\"korea", 
+            "japan", 
+            "thailand", 
+            "medan", 
+            "seoul"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:53.179000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:38.157000Z", 
+        "date": "2004-08-31", 
+        "shelf_id": "mfdipbib001387", 
+        "other_title": [], 
+        "dates": [
+            "2004-08-31T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001387/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001387/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2007lam03", 
+            "http://www.loc.gov/resource/mfdip.2007lam03/", 
+            "http://www.loc.gov/item/mfdip.2007lam03/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "armstrong, willis c.", 
+            "armstrong, oscar vance"
+        ], 
+        "latlong": "51.5072222222,-0.139722222222", 
+        "id": "http://www.loc.gov/item/mfdipbib000024/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 4, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Oscar Vance Armstrong", 
+        "coordinates": [
+            "51.5072222222,-0.139722222222"
+        ], 
+        "score": 1.3780024, 
+        "lonlat": [
+            -0.13972222222200001, 
+            51.507222222199999
+        ], 
+        "location": [
+            "beijing", 
+            "england", 
+            "east asia", 
+            "singapore", 
+            "guangzhou", 
+            "pacific", 
+            "kuala lumpur", 
+            "malaysia", 
+            "vietnam", 
+            "london", 
+            "ho chi minh city", 
+            "china", 
+            "taiwan", 
+            "hong kong"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:29:15.522000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:07.433000Z", 
+        "date": "1991-03-28", 
+        "shelf_id": "mfdipbib000024", 
+        "other_title": [], 
+        "dates": [
+            "1991-03-28T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000024/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000024/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004arm02", 
+            "http://www.loc.gov/resource/mfdip.2004arm02/", 
+            "http://www.loc.gov/item/mfdip.2004arm02/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "reuther, david e.", 
+            "ifshin, stan"
+        ], 
+        "latlong": "31.33333,-110.13333", 
+        "id": "http://www.loc.gov/item/mfdipbib000547/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "united states. agency for international development", 
+            "united states. arms control and disarmament agency", 
+            "interviews"
+        ], 
+        "index": 5, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with Stan Ifshin", 
+        "coordinates": [
+            "31.33333,-110.13333"
+        ], 
+        "score": 1.3422898999999999, 
+        "lonlat": [
+            -110.13333, 
+            31.33333
+        ], 
+        "location": [
+            "east asia", 
+            "philippines", 
+            "indonesia", 
+            "pacific", 
+            "united states", 
+            "malaysia", 
+            "vietnam", 
+            "taiwan"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:30:59.668000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:19.805000Z", 
+        "date": "2001-03-22", 
+        "shelf_id": "mfdipbib000547", 
+        "other_title": [], 
+        "dates": [
+            "2001-03-22T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib000547/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib000547/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004ifs01", 
+            "http://www.loc.gov/resource/mfdip.2004ifs01/", 
+            "http://www.loc.gov/item/mfdip.2004ifs01/"
+        ]
+    }, 
+    {
+        "access_restricted": false, 
+        "original_format": [
+            "manuscript/mixed material"
+        ], 
+        "contributor": [
+            "kennedy, charles stuart", 
+            "woods, james l."
+        ], 
+        "latlong": "38.9001118,-77.0163653", 
+        "id": "http://www.loc.gov/item/mfdipbib001291/", 
+        "partof": [
+            "manuscript division", 
+            "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training", 
+            "american memory"
+        ], 
+        "subject": [
+            "association for diplomatic studies and training", 
+            "diplomacy", 
+            "foreign relations", 
+            "oral history", 
+            "interviews"
+        ], 
+        "index": 6, 
+        "group": [
+            "mfdip", 
+            "foreign-affairs-oral-history"
+        ], 
+        "title": "Interview with James L. Woods", 
+        "coordinates": [
+            "38.9001118,-77.0163653"
+        ], 
+        "score": 1.3228271, 
+        "lonlat": [
+            -77.016365300000004, 
+            38.900111799999998
+        ], 
+        "location": [
+            "washington d.c.", 
+            "bangkok", 
+            "east asia", 
+            "washington", 
+            "pacific", 
+            "united states", 
+            "vietnam", 
+            "western hemisphere", 
+            "thailand", 
+            "chiang mai"
+        ], 
+        "digitized": true, 
+        "timestamp": "2016-07-20T18:33:28.842000Z", 
+        "campaigns": [], 
+        "extract_timestamp": "2016-07-20T18:27:35.322000Z", 
+        "date": "2001-10-31", 
+        "shelf_id": "mfdipbib001291", 
+        "other_title": [], 
+        "dates": [
+            "2001-10-31T00:00:00Z"
+        ], 
+        "language": [
+            "english"
+        ], 
+        "url": "https://www.loc.gov/item/mfdipbib001291/", 
+        "hassegments": false, 
+        "image_url": [], 
+        "aka": [
+            "http://www.loc.gov/item/mfdipbib001291/", 
+            "http://hdl.loc.gov/loc.mss/mfdip.2004woo02", 
+            "http://www.loc.gov/resource/mfdip.2004woo02/", 
+            "http://www.loc.gov/item/mfdip.2004woo02/"
+        ]
+    }
+],
+"item":{
+    "source_collection": "The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training", 
+    "display_offsite": true, 
+    "contributors": [
+        {
+            "klingaman, susan m.": "https://www.loc.gov/search/?fa=contributor%3Aklingaman%2C+susan+m.&fo=json"
+        }, 
+        {
+            "tatu, francis j.": "https://www.loc.gov/search/?fa=contributor%3Atatu%2C+francis+j.&fo=json"
+        }
+    ], 
+    "access_restricted": false, 
+    "site": [], 
+    "original_format": [
+        "manuscript/mixed material"
+    ], 
+    "genre": [
+        "Interviews"
+    ], 
+    "latlong": "38.9001118,-77.0163653", 
+    "subject_headings": [
+        "Association for Diplomatic Studies and Training", 
+        "Diplomacy", 
+        "Foreign relations", 
+        "Oral history", 
+        "Interviews", 
+        "United States -- District of Columbia -- Washington", 
+        "Taiwan -- Taichung", 
+        "Philippines -- Manila", 
+        "Thailand -- Bangkok", 
+        "Australia -- Canberra", 
+        "Malaysia -- Kuala Lumpur", 
+        "Nepal -- Kathmandu", 
+        "Indonesia -- Jakarta", 
+        "Hong Kong", 
+        "Brunei", 
+        "Vietnam -- Chiang Mai", 
+        "South and Central Asia", 
+        "East Asia and Pacific"
+    ], 
+    "created_published": [
+        "October 24, 2000"
+    ], 
+    "extract_urls": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004tat01#mfdip"
+    ], 
+    "id": "http://www.loc.gov/item/mfdipbib001162/", 
+    "partof": [
+        {
+            "count": 1729, 
+            "url": "https://www.loc.gov/collections/foreign-affairs-oral-history/?fo=json", 
+            "title": "frontline diplomacy: the foreign affairs oral history collection of the association for diplomatic studies and training"
+        }, 
+        {
+            "count": 139774, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Amanuscript+division&fo=json", 
+            "title": "manuscript division"
+        }, 
+        {
+            "count": 504295, 
+            "url": "https://www.loc.gov/search/?fa=partof%3Aamerican+memory&fo=json", 
+            "title": "american memory"
+        }
+    ], 
+    "subject": [
+        "association for diplomatic studies and training", 
+        "diplomacy", 
+        "foreign relations", 
+        "oral history", 
+        "interviews"
+    ], 
+    "index": 1, 
+    "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mfdip.2004tat01"
+    ], 
+    "group": [
+        "mfdip", 
+        "foreign-affairs-oral-history"
+    ], 
+    "score": 8.4413750000000007, 
+    "title": "Interview with Francis J. Tatu", 
+    "coordinates": [
+        "38.9001118,-77.0163653"
+    ], 
+    "subjects": [
+        {
+            "association for diplomatic studies and training": "https://www.loc.gov/search/?fa=subject%3Aassociation+for+diplomatic+studies+and+training&fo=json"
+        }, 
+        {
+            "diplomacy": "https://www.loc.gov/search/?fa=subject%3Adiplomacy&fo=json"
+        }, 
+        {
+            "foreign relations": "https://www.loc.gov/search/?fa=subject%3Aforeign+relations&fo=json"
+        }, 
+        {
+            "interviews": "https://www.loc.gov/search/?fa=subject%3Ainterviews&fo=json"
+        }, 
+        {
+            "oral history": "https://www.loc.gov/search/?fa=subject%3Aoral+history&fo=json"
+        }
+    ], 
+    "lonlat": [
+        -77.016365300000004, 
+        38.900111799999998
+    ], 
+    "location": [
+        {
+            "australia": "https://www.loc.gov/search/?fa=location%3Aaustralia&fo=json"
+        }, 
+        {
+            "bangkok": "https://www.loc.gov/search/?fa=location%3Abangkok&fo=json"
+        }, 
+        {
+            "brunei": "https://www.loc.gov/search/?fa=location%3Abrunei&fo=json"
+        }, 
+        {
+            "canberra": "https://www.loc.gov/search/?fa=location%3Acanberra&fo=json"
+        }, 
+        {
+            "central asia": "https://www.loc.gov/search/?fa=location%3Acentral+asia&fo=json"
+        }, 
+        {
+            "chiang mai": "https://www.loc.gov/search/?fa=location%3Achiang+mai&fo=json"
+        }, 
+        {
+            "east asia": "https://www.loc.gov/search/?fa=location%3Aeast+asia&fo=json"
+        }, 
+        {
+            "hong kong": "https://www.loc.gov/search/?fa=location%3Ahong+kong&fo=json"
+        }, 
+        {
+            "indonesia": "https://www.loc.gov/search/?fa=location%3Aindonesia&fo=json"
+        }, 
+        {
+            "jakarta": "https://www.loc.gov/search/?fa=location%3Ajakarta&fo=json"
+        }, 
+        {
+            "kathmandu": "https://www.loc.gov/search/?fa=location%3Akathmandu&fo=json"
+        }, 
+        {
+            "kuala lumpur": "https://www.loc.gov/search/?fa=location%3Akuala+lumpur&fo=json"
+        }, 
+        {
+            "malaysia": "https://www.loc.gov/search/?fa=location%3Amalaysia&fo=json"
+        }, 
+        {
+            "manila": "https://www.loc.gov/search/?fa=location%3Amanila&fo=json"
+        }, 
+        {
+            "nepal": "https://www.loc.gov/search/?fa=location%3Anepal&fo=json"
+        }, 
+        {
+            "pacific": "https://www.loc.gov/search/?fa=location%3Apacific&fo=json"
+        }, 
+        {
+            "philippines": "https://www.loc.gov/search/?fa=location%3Aphilippines&fo=json"
+        }, 
+        {
+            "taichung": "https://www.loc.gov/search/?fa=location%3Ataichung&fo=json"
+        }, 
+        {
+            "taiwan": "https://www.loc.gov/search/?fa=location%3Ataiwan&fo=json"
+        }, 
+        {
+            "thailand": "https://www.loc.gov/search/?fa=location%3Athailand&fo=json"
+        }, 
+        {
+            "united states": "https://www.loc.gov/search/?fa=location%3Aunited+states&fo=json"
+        }, 
+        {
+            "vietnam": "https://www.loc.gov/search/?fa=location%3Avietnam&fo=json"
+        }, 
+        {
+            "washington": "https://www.loc.gov/search/?fa=location%3Awashington&fo=json"
+        }, 
+        {
+            "washington d.c.": "https://www.loc.gov/search/?fa=location%3Awashington+d.c.&fo=json"
+        }
+    ], 
+    "_version_": 1540399656693923840, 
+    "type": [
+        "manuscript/mixed material"
+    ], 
+    "other_formats": [], 
+    "digitized": true, 
+    "medium": [], 
+    "repository": "Manuscript Division", 
+    "format": [
+        {
+            "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format%3Amanuscript%2Fmixed+material&fo=json"
+        }
+    ], 
+    "timestamp": "2016-07-20T18:33:07.713000Z", 
+    "campaigns": [], 
+    "extract_timestamp": "2016-07-20T18:27:33.445000Z", 
+    "date": "20001024", 
+    "shelf_id": "mfdipbib001162", 
+    "other_title": [], 
+    "dates": [
+        {
+            "2000": "https://www.loc.gov/search/?dates=2000-2000&fo=json"
+        }
+    ], 
+    "language": [
+        {
+            "english": "https://www.loc.gov/search/?fa=language%3Aenglish&fo=json"
+        }
+    ], 
+    "rights": [
+        "<p>The Library of Congress provides access to these materials for  educational  and research purposes and makes no warranty with regard to  their use for other  purposes. The written permission of the copyright  owners and/or holders of  other rights (such as publicity and/or privacy  rights) is required for  distribution, reproduction, or other use of  protected items beyond that allowed  by fair use or other statutory  exemptions. There may be content that is protected  as \"works for hire\"  (copyright held by the party that commissioned  the original work)  and/or under the copyright or neighboring-rights laws of  other  nations.\u00a0 Responsibility for  making an independent legal assessment of  an item and securing any necessary  permissions ultimately rests with  persons desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n<p>The Library of Congress would like to learn more about these  materials  and to hear from individuals or institutions having any  additional  information. Please contact us through our <a href=\"//www.loc.gov/rr/askalib/\">Ask A Librarian</a> service.</p>\r\n<h2>Preferred Citation</h2>\r\n<p>Researchers wishing to cite this collection should include the following  information: <br>\r\n\tFrontline Diplomacy, Manuscript Division, Library of Congress, Washington, D.C. </p>\r\n<h2>Permissions</h2>\r\n<p>Items included in this  collection with the permission of  rights holders are listed below. For further use or reproduction of  those items  contact the rightsholders listed.</p>\r\n<p>Interview of William  W. Lehfeldt by William Burr, April  29, 1987, made available here with  permission from  The  Foundation for  Iranian Studies, 4343 Montgomery Avenue, Suite 200, Bethesda, MD   20814.</p>\r\n<p>Interview  of John  S. Service by Rosemary Levinson, 1977,  made available here with permission from  The  Regional Oral History  Office, 486 The Bancroft Library, University of  California, Berkeley,  Berkeley, California 94720-6000.</p>\r\n<p>Oral  history interviews conducted by Mrs. Ann  Miller Morin  (below), made available here with permission from Mrs. Ann Miller   Morin, 3330  North Leisure World Blvd., Apt. 808, Silver Spring, MD  20906.</p>\r\n<ul>\r\n\t<li>Interview  of Anne Cox Chambers, October 23, 1985</li>\r\n\t<li>Interview of Jane Abell Coon, November 4, 1986</li>\r\n\t<li>Interview of Betty Crites Dillon, December 9, 1987</li>\r\n\t<li>Interview of Ruth Lewis Farkas, October 24, 1985</li>\r\n\t<li>Interview of Rosemary Lucas Ginn, October 28, 1997</li>\r\n\t<li>Interview of Constance Ray Harvey, 1988</li>\r\n\t<li>Interview of Mari-Luci Jaramillo, February 21, 1987</li>\r\n\t<li>Interview of Jeane Jordan Kirkpatrick, May 28, 1987</li>\r\n\t<li>Interview of Caroline Clendening Laise, May 8, 1985</li>\r\n\t<li>Interview of Claire Boothe Luce, September 19, 1986\u00a0\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 </li>\r\n\t<li>Interview of Mary Seymour Olmsted, June 25, 1985</li>\r\n\t<li>Interview of Nancy Ostrander, May 14, 1986</li>\r\n\t<li>Interview of Rozanne L. Ridgway, March 18, 1987</li>\r\n\t<li>Interview of Mabel Murphy Smythe, May 2, 1986</li>\r\n\t<li>Interview of Margaret Joy Tibbetts, May 28, 1985</li>\r\n\t<li>Interview of Melissa Foelsh Wells, March 27, 1984</li>\r\n\t<li>Interview       of Faith Ryan Whittlesey, December 7, 1988</li>\r\n</ul>\r\n<p>These 17 interviews are part of the collection on deposit in  the <a href=\"http://www.smith.edu/libraries/libs/ssc/\">Sophia Smith Collection <i class=\"icon icon-external-link\"><span>External</span></i></a>.</p>"
+    ], 
+    "url": "https://www.loc.gov/item/mfdipbib001162/", 
+    "notes": [], 
+    "hassegments": false, 
+    "image_url": [], 
+    "aka": [
+        "http://www.loc.gov/item/mfdipbib001162/", 
+        "http://hdl.loc.gov/loc.mss/mfdip.2004tat01", 
+        "http://www.loc.gov/resource/mfdip.2004tat01/", 
+        "http://www.loc.gov/item/mfdip.2004tat01/"
+    ], 
+    "contributor_names": [
+        "Klingaman, Susan M. (Interviewer)", 
+        "Tatu, Francis J. (Interviewee)"
+    ]
+},
+"type":"legacyzoom",
+"options":{
+    "all": null, 
+    "partial": false, 
+    "request_params": {
+        "fo": "json"
+    }, 
+    "searchIn": null, 
+    "site_id": null, 
+    "operator": null, 
+    "startIndex": 1, 
+    "startPage": null, 
+    "searchWithin": null, 
+    "duration": 0.23268699645996094, 
+    "default_count": 25, 
+    "id": "mfdipbib001162/", 
+    "index": null, 
+    "style": null, 
+    "site_type": null, 
+    "searchType": null, 
+    "callback": null, 
+    "segments": null, 
+    "facet_count": null, 
+    "field": null, 
+    "newSearch": null, 
+    "sortOrder": null, 
+    "template": "item/base", 
+    "attribute": null, 
+    "facetPrefix": null, 
+    "scheme": "https, https", 
+    "iiif": false, 
+    "onsite": false, 
+    "release_id": 44970, 
+    "outputEncoding": "UTF-8", 
+    "format": "json", 
+    "searchTerms": "", 
+    "facetLimits": "", 
+    "referer": null, 
+    "path_info": "/item/mfdipbib001162/", 
+    "inputEncoding": "UTF-8", 
+    "application_version": "$Revision: 44970 $", 
+    "latlong": null, 
+    "count": null, 
+    "distance": null, 
+    "dates": null, 
+    "resource": null, 
+    "language": "en", 
+    "suggested": null, 
+    "excludeTerms": null, 
+    "host": "www.loc.gov", 
+    "item": null, 
+    "query_string": "fo=json", 
+    "sortBy": null
+},
+"resources":[
+    {
+        "files": [], 
+        "url": "https://www.loc.gov/resource/mfdip.2004tat01/", 
+        "image": "", 
+        "caption": "", 
+        "fulltext_file": "http://cdn.loc.gov/service/mss/mfdip/2004/2004tat01/2004tat01.xml", 
+        "pdf": "http://cdn.loc.gov/service/mss/mfdip/2004/2004tat01/2004tat01.pdf"
+    }
+]}
