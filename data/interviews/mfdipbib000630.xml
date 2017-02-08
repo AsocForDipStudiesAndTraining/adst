@@ -1,348 +1,965 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000630">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Ernest Koenig </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Ernest Koenig </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>ERNEST KOENIG</p>
-<p>Interviewed by:  Quentin Bates </p>
-<p>Initial interview date:  August 19, 1995</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  This is Quentin Bates interviewing Ernest Koenig, a fellow retiree of the Foreign Agricultural Service of the Department of Agriculture.  Ernest, you had a very unusual childhood, education and so forth, from the point of view of most of us.  Why don't you give us a little bit of background?</hi>
-</p>
-<p>KOENIG:  I think this is appropriate because my background is different from that of our colleagues.  I was born in Vienna, Austria, in 1917.  The year of my birth coincided with extraordinary circumstances.  The French were militarily exhausted.  In Russia the revolution had broken out.  The country of my birth, Austria, was tottering at the brink of disaster.  Moreover, the entry of the United States into the war sealed the defeat of Germany and Austria.  I grew up in Czechoslovakia where I spent a happy childhood in southern Moravia, not far from Vienna but on the Czech side.  Then I went to Br�nn (Brno), the capital of Moravia, where I attended the Masaryk College, an outstanding school that emphasized humanistic studies.  In 1936, I started my studies at the German Charles University in Prague.</p>
-<p>In 1938, I decided to spend two summer months in France in order to improve my French.  That was the time of the Munich crisis.  At the end of these two months, Czechoslovakia had lost a large part of its territory, and I did not return home.  It was difficult to stay in Paris because I had no money and was not allowed to work.  Nevertheless, I registered at the Sorbonne.  But I did not study much because I had many other things on my mind.  Finally living in Paris became almost impossible, so I decided to return to Czechoslovakia and see my parents again.  I was about two weeks there, when the Germans occupied the rest of the country in March of 1939.  I succeeded in escaping from Czechoslovakia under very adventurous circumstances and with much luck, and returned to France.  In France my life as a refugee continued.  It was difficult, but I was twenty-two years old and I was in Paris, so life was fun in spite of everything.</p>
-<p>
-<hi rend="italics">Q:  I can imagine.</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>KOENIG:  On September 1, 1939 Hitler attacked Poland.  I volunteered for the army.  But it was not quite clear for which army I had volunteered.  There was a Czechoslovak Consulate in Paris, but it had no legal status nor really any status whatsoever.  It represented a non-existing country and a non-existing government.  Still they accepted declarations for volunteering for “the army.” Following an obscure agreement between the French Government and some Czech representatives in Paris, it was decided that Czechoslovak citizens must join a Czechoslovak army.</p>
-<p>
-<hi rend="italics">Q:  There was a government in exile?</hi>
-</p>
-<p>KOENIG:  There was no government in exile.  That came much later.  In contrast to Poland, which had a well established and internationally recognized government in exile following its defeat and occupation by Germany, the Czechs had nothing.  The French then decided to establish a Czechoslovak army in exile.  This decision was somewhat ambiguous because you couldn't establish the army of a country that did not exist any longer.  The probable purpose of this action was to organize Czech speaking units through which France would be able to influence conditions in Central Europe at the end of the war.  On the other hand, the French might also have thought of using this army as a bargaining tool in case of a separate peace with Germany.  The army was in reality a French unit with Czech command language.  It was badly organized and badly equipped.  However, when France was about to lose the war, it remembered this army and sent its two or three regiments to the front near Paris in order to defend the capital.  Of course, the Czech units like the rest of the French army broke down.</p>
-<p>With the assumption of power by the Vichy government conditions in France changed completely.  There were millions of foreigners in France, and there was heavy unemployment after the defeat.  The Vichy government therefore tried to get rid of as many foreigners as possible by making it difficult for them to live in France.  I registered at the University of Grenoble.  As student I had permission to stay in France in contrast to many foreigners whose stay in France was questioned by the authorities.  I had no money.  I was allowed to study but not to work in France.  I did not know what to live from. I tried to earn some money as a door-to-door salesman but I was unable to make ends meet in this way.</p>
-<p>
-<hi rend="italics">Q:  What was your military status at that time?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>KOENIG:  I was demobilized.  I had a French demobilization certificate.  I learned of a job in western France.  A family needed a tutor for an eight-year-old boy.  I wrote them and they accepted me.  However, a foreigner was not allowed to travel unless he was in possession of a special travel permit issued by the police.  Since I could not tell the police that I had obtained a job, I told them I needed to travel in order to visit my sick aunt.  They requested a certificate from my “sick aunt's” physician confirming that she was sick.  Since I could not provide such a document, I traveled without permission.</p>
-<p>The family that had accepted me lived on a big estate.  There was plenty of food, and I ate as much as I wished for the first time in many months.  The police noted that there was a stranger in the village.  Since my permission to stay in France depended on my being a student in Grenoble and not a tutor, and since I had not obtained permission from the police to leave Grenoble, they arrested me.</p>
-<p>
-<hi rend="italics">Q:  These were Vichy police?</hi>
-</p>
-<p>KOENIG:  Indeed, this was the Vichy police.  They sent me to the worst French concentration camp, the Camp du Vernet.  When I arrived, I was told that I was sent there by mistake and that I would be transferred to a better camp.  This promise was often repeated but never kept.  It is true, I was granted certain facilities: I became assistant postmaster, a job which kept me busy and lifted somewhat my morale, because unlike others I was permitted to circulate freely throughout the camp.  But it did not alleviate the all-pervasive hunger.</p>
-<p>
-<hi rend="italics">Q:  What were most of the prisoners?  Was there any particular group?</hi>
-</p>
-<p>KOENIG:  At the beginning of the war the camp contained primarily Nazis, and Communists who had opposed the war.  After the armistice it contained people from all over Europe, not only political exiles but also many unpolitical foreigners.  Many of the political exiles were anti-communists, for instance, Russians who had fled the communists after World War I.</p>
-<p>
-<hi rend="italics">Q:  The White Russians?</hi>
-</p>
-<p>KOENIG:  Some were still faithful to the Czar but others were democratic and against the old regime.  A great number of the prisoners were civilians who had come with the defeated Spanish Republican army to France.  Many inmates were apolitical Poles and Italians who had come to France after World War I, had spent most of their lives there but had never acquired French citizenship.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  Was this before there was a general roundup of the Jews?</hi>
-</p>
-<p>KOENIG:  Yes.  At that time it was basically an anti-foreigner action.  However, many foreigners in France were of Jewish origin.  The roundup of Jews for purposes of deportation to Germany came much later.  In the camp the inmates were not mistreated like in Germany, but the hunger was terrible.  If one did not get food parcels from the outside, he would die.  Without outside help one could not survive more than twelve-or fourteen months.</p>
-<p>The deportation to Germany started on August 7, 1942.  It was not clear at all, why Germany wanted to take back those whom it had expelled a short time ago.  Still more puzzling was the inclusion of children, old people and cripples in the deportation train.  We were first transported to Drancy, an infamous camp near Paris, and thereafter to the east.  The transport to Germany lasted three to four days and took place under extremely inhumane conditions.  Upon arrival one part of the deportees—women, old people, children—was killed immediately, the others were sent to various forced labor camps.</p>
-<p>
-<hi rend="italics">Q:  Where was this?</hi>
-</p>
-<p>KOENIG:  That was in Upper Silesia, near Auschwitz.  From there I was sent to a camp that was located inside a big German factory, called “Laurah�tte.” This was an external camp of Auschwitz.  We were slave workers.  Black people recall the slavery of their ancestors, but I was a slave in the twentieth century.  Unlike the slaves in America who had a commercial value because they could be bought and sold for a price, we were of no commercial value whatsoever.  If we were killed, no economic loss occurred.  People died from beating, from hanging and from hunger.  If they became unfit to work, they were gassed.  After about one year in “Laurah�tte,” we were transferred to Blechhammer, a camp near a big factory, the “Oberschlesiche Hydrierwerke.” This camp was part of a complex of camps, called Auschwitz III.</p>
-<p>
-<hi rend="italics">Q:  A work camp.</hi>
-</p>
-<p>KOENIG:  A work camp to die.  We worked by building a tremendous factory that processed coal into oil.  When Germany lost its oil resources in the east, this factory became of ever greater importance.  Consequently, it was repeatedly bombed by the Allies.  Of course, we were happy to see this happen.  But on the other hand, we were afraid because the bombs did not distinguish between friend and foe.  When the Russian Army approached Auschwitz, the Germans decided to evacuate the camps.  They marched thousands of people to the west.  During these so-called death marches in the midst of winter, most of the marchers perished.  When our camp was to be evacuated, I went into hiding and escaped.</p>
-<pb facs="0005" n="Page0005"/>
-<p>I returned to Czechoslovakia.  I did not like the situation there.  There was still a democratic form of government, but the Communist party prevailed in many fields.</p>
-<p>
-<hi rend="italics">Q:  Was the European war over at that time?</hi>
-</p>
-<p>KOENIG:  The war was over.  But many arbitrary actions occurred.  I therefore decided to leave.  But how could I come to America?  Elizabeth, my present wife whom I had met in Paris, was already in America but I was unable to obtain a visa because the U.S. immigration quota for Austrians, under which I fell owing to my birth in Vienna, was overbooked.  I managed to obtain a transit visa for England where I stayed until 1948.  Then I got an American visa and came to America.</p>
-<p>
-<hi rend="italics">Q:  When was that?</hi>
-</p>
-<p>KOENIG:  In 1948.</p>
-<p>
-<hi rend="italics">Q:  In '48.  Oh, was it that long?</hi>
-</p>
-<p>KOENIG:  Yes.  I came to America on a boat by the name of Ernie Pyle.  A new life started.  From the second day on I had a job.  I also registered at City College and at the New School for Social Research, both in New York City.</p>
-<p>
-<hi rend="italics">Q:  How many college credits did you have?  Did you have any transferable credits?</hi>
-</p>
-<p>KOENIG:  I did not have any papers with me.  I explained my academic background, and I was accepted on probation.  I had to prove myself.</p>
-<p>
-<hi rend="italics">Q:  How was your English at that time?</hi>
-</p>
-<p>KOENIG:  It was fluent but broken.  I remember my first examination in a seminar.  I was supposed to make a statement.  I wanted to read it, but the teacher said: “No reading, you have to speak freely.”</p>
-<p>I attended school in the evening.  During the day I held all kinds of odd jobs.  They taught me what America is like.  I should mention that during the two years I was at the New School, I also took a course on the political background of the GATT.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  Oh, that's interesting.</hi>
-</p>
-<p>KOENIG:  Yes, it was very interesting.  I took this course without having any idea of how it would help me in my work later on.</p>
-<p>
-<hi rend="italics">Q:  That would have been what, 1949?</hi>
-</p>
-<p>KOENIG:  1949, 1950.  The other thing I should mention is that my thesis was on the Marshall Plan.  In this way I learned a lot about contemporary Europe.  After I had obtained the M.A., Elizabeth's very ingenious father helped me drafting a letter applying for a scholarship to the deans of the economic departments of 150 universities.  I got three positive replies: from the University of Colorado, from the University of Syracuse and from Johns Hopkins University in Baltimore.</p>
-<p>
-<hi rend="italics">Q:  The one from Colorado is interesting.</hi>
-</p>
-<p>KOENIG:  I accepted the one from Baltimore and obtained a junior instructorship at Johns Hopkins University.  I learned a lot at Hopkins, but I did not like it.  It was an ivory tower university and very snobbish.  So I felt the time had come for a real job.  When you were in Baltimore, of course, you went to Washington to seek a job.  I had many recommendations and I got a job in the Office of International Finance of the Treasury Department.  This was in June, but the work in the Treasury was supposed to start only in September.  Since I needed money I took what I believed to be a temporary two months job in the Department of Agriculture.  This job lasted forty years.  This is very approximately my background.</p>
-<p>
-<hi rend="italics">Q:  When did you join the Department of Agriculture?</hi>
-</p>
-<p>KOENIG:  I joined OFAR (the Office of Foreign Agricultural Relations) of the U.S. Department of Agriculture in 1951.  At that time the principal work of the European Analysis Branch of OFAR consisted in preparing estimates of the food situation in Europe and examining food aid requests of European countries under the Marshall Plan.  This work was very interesting.  It was largely based on the methods of an Allied Committee in London which during the war had prepared plans for feeding Europe's population, once Europe was liberated.  What I had learned about the Marshall Plan, particularly about its so-called “Counterpart Funds of Local Currency” came very handy.  There arose also questions concerning the GATT.</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q:  They also had several preliminary conferences in preparation of the conference that first established GATT.</hi>
-</p>
-<p>KOENIG:  That was—I believe—in 1947.</p>
-<p>
-<hi rend="italics">Q:  While you were still in school?</hi>
-</p>
-<p>KOENIG:  No.  That was before I came to America.</p>
-<p>
-<hi rend="italics">Q:  You said that Hans Richter was your first boss.  He was the head of the European Analysis Branch.  As I understand it, he was a member of the U.S. delegations at some of these conferences.</hi>
-</p>
-<p>KOENIG:  He had an excellent European background.  He was an outstanding economist and a very good boss.  The work we did was interesting also from a purely theoretical point of view.  We made production estimates, which were based on a special methodological approach that strengthened our analysis.  As European Analysis Branch we not only followed developments in Western Europe but also those in Eastern Europe.  The Department of Agriculture was greatly interested in Eastern Europe because Eastern Europe before the war had been one of our major competitors on the world markets.  At a certain time we had agricultural attach�s (they were not necessarily called agricultural attach�s) in Russia and also in Yugoslavia, Hungary and Romania.  It was feared that these countries might return to the world markets.  Of course, they did not.</p>
-<p>In these days it was very difficult to learn about the agricultural situation in Eastern Europe.  After 1948, all these countries (except Finland) were under Communist rule.  They reported either distorted statistics or published no statistical data at all about their agricultural situation.  This was the height of the Cold War.  In addition to the European Analysis Branch, there also existed in OFAR an Eastern European Analysis Branch which dealt exclusively with Russia.</p>
-<p>We also followed as well as we could the socialization of agriculture in Eastern Europe.  This was of great interest to us because we wanted to know whether the new forms of agricultural enterprises (Collectives and State farms) might create exportable surpluses in the future.  Their performance turned out to be very poor.</p>
-<pb facs="0008" n="Page0008"/>
-<p>Our work also included so-called “NIS” studies.  These were monographs about the agriculture of foreign countries.  To write such a monograph was a marvelous way of learning about farming in a given foreign country.  When preparing such a study, we were given plenty of time and latitude.  Naturally, the description of agriculture in a foreign country had to be accurate and comprehensive, but original research was not expected.  We were lucky in having in USDA the best and richest agricultural library in the world on whose resources we were able to draw.</p>
-<p>In 1953, the Republicans came to power after 20 years in the wilderness.  They felt that the civil service was full of Democrats and...</p>
-<p>
-<hi rend="italics">Q:  ...other Communist sympathizers.</hi>
-</p>
-<p>KOENIG:  No, it had not this aspect.</p>
-<p>
-<hi rend="italics">Q:  Still not yet.</hi>
-</p>
-<p>KOENIG:  McCarthy was later.  The Republicans wanted more of their people in the Civil Service.  They RIF'd 5,000 people.  At that time it was very difficult to find a job in Washington.  I only had two years of service, no seniority.  I therefore was rif'd.</p>
-<p>
-<hi rend="italics">Q:  This was in 1953?  The year of the Big RIF.  My position in Paris was not affected by this.</hi>
-</p>
-<p>KOENIG:  But all of you had been in the Service for a longer period than I who was only two years there.  My situation was the more difficult as Elizabeth expected a child.  So I went to the then acting Administrator of OFAR, Fred Rossiter, and asked him whether he could extend my employment for another month.  He agreed.  In the course of this month I was rehired and thus never left USDA.  I was so shocked by this experience that I was willing to undertake any job I would be asked to do in order to strengthen my position.</p>
-<p>At that time a NIS study about Indochina was to be written.  In the Far East Branch of OFAR nobody wanted to undertake this study.  Thus I volunteered.  I found out that there existed excellent French literature describing the agriculture of Indochina.  I doubt whether the situation in any other LDC had been so well described.  So I became enthusiastic about my work assignment.  The available statistics were, however, dated.  They only went up to 1940.  Nothing was said about the following years.</p>
-<p>At that time the French in Indochina were on their last leg.  It was the time of Dien Bien Phu, the big battle the French lost.</p>
-<pb facs="0009" n="Page0009"/>
-<p>
-<hi rend="italics">Q:  What year was that?</hi>
-</p>
-<p>KOENIG:  1953 or 1954.  I recommended in my study that a big land reform should be undertaken in the non-communist part of Indochina in order to fight the Communists, and massive aid in the form of rice should be extended to the peasants.  However, I was told that policy recommendations are none of my business.  I should limit myself to a factual description of crops, livestock and other agricultural features.  By now, I realized that these instructions were appropriate, but at that time I was very disappointed by them.  I was very discouraged and lost interest in this study.  I tried to devote most of my time to work on Western Europe and neglected the Indochina study, which I finally failed to complete.  One morning Clarence Purves, who supervised the NIS studies and whom you still remember, came to my office and said: the Indochina study must be completed by three o'clock in the afternoon.  I protested saying that this is impossible because the manuscript in my handwriting is partly illegible, incomplete and the statistics are not necessarily consistent.  How could this study be completed in a few hours?  Purves told me that six secretaries would be put at my disposal who would type the study.  They started to type whatever the manuscript contained.  At three o'clock in the afternoon a number of neatly typed copies emerged with the title: “The Agriculture of Indochina.” With these copies in hand Purves and I went to the Pentagon, where we were received by a colonel.  We handed him our copies and he transmitted them to a general who was scheduled to leave two hours later for Geneva in order to participate (I think as observer) in a conference on Indochina.  It was at this conference that the independence of North Vietnam was recognized.  This was in 1954.</p>
-<p>Great changes took place in our work when OFAR was transformed into FAS (Foreign Agricultural Service).  This coincided with—and was perhaps even motivated by—Public Law 480, which had a major impact on our work.  Henceforth market promotion became one of the foremost tasks of an Agricultural Attach�.  PL 480 was prompted by the fact that after the armistice in Korea in 1953, many foreign countries decided that the precautionary stocks of farm products which they had kept during the Korean war, were no longer necessary.  They reduced them.  Hence we had agricultural surpluses in America for the first time since the war.  Quentin, where were you in 1954-55?</p>
-<p>
-<hi rend="italics">Q:  I was in Bogota, Colombia.  I negotiated a PL 480 agreement with that country, one of the early ones.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>KOENIG:  At that time most people were unfamiliar with the methods and modalities of PL 480.  This is not astonishing.  On the other hand, it is interesting to note with how many commodities a typical agricultural attach� had to deal and with how many issues he was more or less familiar.  They were very numerous.  In the course of time we acquired significant technical knowledge which, however, did not seem to us to be very special but which gave us, indeed, a considerable expertise.</p>
-<p>
-<hi rend="italics">Q:  Because there were so few people who dealt with these problems.</hi>
-</p>
-<p>KOENIG:  Outside the Department.  Of course, in the commodity divisions of FAS we had several experts of world renown who possessed extraordinary knowledge of certain commodity areas.  Terry McKay in the field of world dairy production; Henry Burke in the field of citrus and others.  They were recognized as authorities throughout the world.</p>
-<p>
-<hi rend="italics">Q:  When did your foreign assignment begin?</hi>
-</p>
-<p>KOENIG:  In 1959.  In that year the Department of State invited two German farm leaders, Sonnemann and Rehwinkel, to visit the United States.  Given the importance of these visitors a civil servant who would also be able to interpret was to be appointed to accompany them on their trip.  I was selected.  Upon their return they expressed satisfaction with my help.  Thereafter, I was appointed Assistant Agricultural Attach� in Bonn with the special task to report on the development of the EEC's common agricultural policy (CAP) from the vantage point of Bonn.</p>
-<p>
-<hi rend="italics">Q:  At that time the common agricultural policy was already in force, was it not?</hi>
-</p>
-<p>KOENIG:  It was not yet in force.  But U.S. agriculture feared the application of this policy because it presaged a shrinking of our market outlets in Germany and in Europe as a whole.</p>
-<p>The Treaty of Rome, signed in 1957, came into force on January 1, 1958.  This meant that beginning with 1958 the internal tariffs between the EEC countries were to be gradually reduced and their tariffs vis a vis third countries were to be harmonized.  Tariffs on farm products were also to follow this schedule.  But German agriculture was mostly protected by non-tariff measures, and the Germans balked.  They resisted any change in their quota, licenses and admixture system.  They did not wish to take any steps towards a common agricultural market.</p>
-<p>
-<hi rend="italics">Q:  Was German protection higher than that of any other common market country?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>KOENIG:  The internal German price level was much higher than that of other EEC countries.  Protection was consequently also higher.  The Germans feared the efficiency of French agriculture.  Yet the French were not more efficient that the Germans, but their price level was much lower.  German resistance to a common agricultural policy continued until 1961.  In that year de Gaulle, who was in power in France, confronted the Germans with a kind of ultimatum: either they would agree to a common agricultural policy, which would entail opening their markets to their partners, or the French would stop reducing their industrial tariffs (in which the Germans were very interested) and also stop harmonizing their external tariffs with those of their partners.  In other words: the French threatened to suspend the building of a common market.</p>
-<p>The U.S. Government was strongly interested in a Common Market because it wished to see Western Europe united and Germany integrated in such an entity.  The U.S. Government also knew that without a common agricultural policy a common market (i.e. the European Economic Community) would be impossible.  It therefore pressured Germany to accept such a policy.</p>
-<p>
-<hi rend="italics">Q:  And that overrode our concern about the effects of the common market on American agriculture.</hi>
-</p>
-<p>KOENIG:  Certainly.  This was clearly shown in the outcome of the first so-called GATT Article XXIV:6 negotiations with the EEC.  The purpose of these negotiations was to grant compensation to the U.S. for the impairment of its GATT rights, caused by the common agricultural policy with regard to several major commodities.  Instead, these negotiations suspended our claims and nullified, in fact, our rights.  They resulted in almost unilateral favors for European farm interests.</p>
-<p>Yet before these negotiations occurred and up to 1962, the German farmers, who were led by my German travel companions in America, opposed the creation of a common agricultural market.  Chancellor Adenauer was willing to accept it but was hampered by his farmers on whose support his coalition government largely depended.</p>
-<p>In the course of the negotiations between Adenauer and the farmers, the President of the German Farmers' Association met frequently with Adenauer.  Thereafter, he would often invite me for a beer and tell me that no progress had been made towards Germany's acceptance of a common agricultural policy.</p>
-<p>
-<hi rend="italics">Q:  You had a real inside track.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>KOENIG:  A fantastic inside track, which was the more valuable as my State Department colleagues reported every day that an agreement was just around the corner.  In retrospect, it seems possible that the Germans might have known of the unjustified optimism permeating State's reporting from Bonn to Washington, and thus might have wished to counteract it by giving me a more realistic assessment of the situation.</p>
-<p>My boss, Phil Eckert, was a prot�g� of Barry Goldwater, whom many people expected to be our next President.  Phil's position was therefore very strong and the Office of the Agricultural Attach� enjoyed a high degree of independence in the embassy.  Our State Department was, of course, right in giving priority to America's political aims over those of certain economic interests.  At times, however, their attitude was too indulgent vis a vis European or German farm interests.  It bordered on the ridiculous.  When I once told the head of the Embassy's economic section that we should ask the German Government to liberalize canned fruits, which were still subject to quotas, he told me that I have no political sense.  He said that such a request would be very embarrassing to the German Government.  Didn't I know that it could weaken its political strength; that we must avoid everything that could have such an effect?  The following day it became known that two high American officials would visit Bonn in order to solicit a German contribution to the maintenance costs of U.S. troops in Germany.  Fearing possibly excessive American requests and wishing to mitigate them in advance, the German government announced several trade concessions favoring American exports even before the talks had taken place.  Among them was the liberalization of canned fruits and vegetables—and western civilization did not break down.</p>
-<p>Before 1962, the U.S. Government exercised ever stronger pressure on Germany to adhere to a common agricultural policy.  The U.S. told them that without such a policy, the common market will not advance.  Hence there will be no European integration and no unified Europe.  The Germans will be guilty of the disintegration of Europe, and the whole blame for this failure will fall on them.  Under this pressure the Germans agreed finally on the principles of a common agricultural market.</p>
-<p>
-<hi rend="italics">Q:  How about your German friends, the head of the farmers organization and their allies?</hi>
-</p>
-<p>KOENIG:  They had to accept it, but they extracted considerable concessions from their government.</p>
-<p>
-<hi rend="italics">Q:  Were they fairly satisfied with what they got?</hi>
-</p>
-<p>KOENIG:  They were unhappy because they were obliged to lower their prices a bit, though the French had to raise theirs.  All in all, the common agricultural market was based on very high common prices.</p>
-<pb facs="0013" n="Page0013"/>
-<p>
-<hi rend="italics">Q:  Thus the Germans demanded the highest common denominator.</hi>
-</p>
-<p>KOENIG:  Yes, but it was only in 1968 that the support and minimum import prices were truly unified.</p>
-<p>
-<hi rend="italics">Q:  High domestic prices entailed also high import protection.</hi>
-</p>
-<p>KOENIG:  Indeed.  In a certain sense we were paying for the creation of the common agricultural market.  To the extent that the common agricultural policy stimulated internal production, its self-sufficiency increased.  Our outlets declined not only inside the common market but also in third countries because higher output led to increasing and necessarily subsidized exports.  Thus they agreed on the largest common denominator—i.e. on the highest possible domestic prices.</p>
-<p>
-<hi rend="italics">Q:  When were these prices finally applied?</hi>
-</p>
-<p>KOENIG:  It took another six years, until 1968, before the prices were really unified.</p>
-<p>
-<hi rend="italics">Q:  But high domestic prices entailed also high import protection.</hi>
-</p>
-<p>KOENIG:  Indeed.  So in a certain sense we were paying for the creation of the common agricultural policy.  But not only this.  To the extent that the Common Market increased its production under the impact of high prices, its self sufficiency increased.  After a couple of years they produced exportable surpluses to an increasing extent.  Since they could not well compete on the world market owing to their high prices, they subsidized their exports to the detriment of the United States and other third countries.</p>
-<pb facs="0014" n="Page0014"/>
-<p>I should also mention the so-called “chicken war.” America was exporting broilers and other chicken products to Germany.  Exports were growing.  U.S. poultry products found a rapidly growing market outlet in Germany, also because the price of American poultry was much lower than that of German or Dutch products.  When the EEC began to implement the common agricultural policy, German impediments to the importation of U.S. poultry products were growing.  The U.S. protested frequently and vehemently against these German, i.e. common market, import measures.  American poultry exporters had strong political backing at home.  Thus the so-called chicken war was elevated to a high political level.  Finally President Kennedy approached Chancellor Adenauer in this matter.  In spite of all the many American efforts to lower the common market import barriers, they became more and more restrictive.  Our poultry exports began to fall.  The U.S. finally brought the matter before the GATT which agreed that the common market countries owe compensation to the U.S.  This compensation assumed the form of increased U.S. import duties on a number of EEC export products.</p>
-<p>Thereafter, the chicken war lingered on for many years.  It had many hysterical and hilarious aspects.  One of them touched food legislation about which I will speak later on because it goes beyond the “chicken war.”</p>
-<p>
-<hi rend="italics">Q:  When did you leave Germany?</hi>
-</p>
-<p>KOENIG:  In 1964.  I was transferred to the U.S. Mission to the European Economic Communities in Brussels.  I was first Assistant Agricultural Attach� and then Agricultural Attach�.  At about that time, the EC Commission in Brussels began to apply the first market regulations for various agricultural products, first for fruits and vegetables, then for rice and then for pork.  In the course of the following years over 90 percent of the agricultural commodities produced in the six common market countries were subjected to detailed and strict market regulations.  These were accompanied by numerous implementing regulations.  At that time English was not one of the official languages of the EEC.  I therefore translated many of the important laws and regulations.  Almost all of them aimed at assuring domestic producer prices exceeding world market prices; protected them by restrictive import devices that consisted largely of non-tariff measures and provided for market intervention and export subsidies.  It was difficult to keep abreast of this legal labyrinth and required close contacts with Commission and Member states officials, diplomats of third country Missions and embassies, and also with trade organizations which out of self-interest followed closely the never ending flow of laws, and endeavored to understand all its intricate details and all its many loopholes.  The common agricultural policy was so intricate because it was the result of heavy bargaining.  Any concession made to one member country had to be often repaid by concessions to other member states.  The loopholes in this legislation led to widespread fraud amounting to hundred millions of dollars.  For instance, export subsidies were paid when, in reality, the export in question was merely from one to another member state; import levies were sometimes evaded.</p>
-<pb facs="0015" n="Page0015"/>
-<p>The progressive expansion of the common agricultural policy led to trade conflicts between the Community and most third countries.  However, none of the latter had as big and as variegated an agriculture as the United States.  Hence there were constant frictions followed by protests and the exchange of notes between us and the EEC.  I believe at the end of my stay in Brussels, there were few U.S. farm products which were not unfavorably affected by the common agricultural policy.</p>
-<p>The work in Brussels became further complicated, when the EEC concluded a number of so-called Association Agreements with third countries, such as Israel, Spain and the Maghreb countries.  These were, in fact, preferential agreements in favor of these countries, but initially they affected our trade interests to a minor degree like the so-called Yaounde Agreement which gave trade preferences to the former colonies of the European countries which participated in the common market.</p>
-<p>In the years 1965-67 the Kennedy Round of trade negotiations took place in Geneva.  These negotiations affected strongly trade relations between the EEC and the United States.  The U.S. Mission in Brussels was actively involved in these negotiations, and Mission officers traveled frequently to Geneva in order to assist our negotiators.  I, too, spent a considerable time in the agricultural groups of these negotiations.  The agricultural negotiations in the Kennedy Round were difficult and protracted because the EEC feared that concessions to third countries would unravel the painfully achieved construction of the common agricultural policy.</p>
-<p>
-<hi rend="italics">Q:  What was the outcome of the Kennedy Round?</hi>
-</p>
-<p>KOENIG:  The Kennedy Round brought no solution to the many trade problems that had been created by the Community's agricultural policy.  They remained unsolved.  An International Commodity Agreement for Wheat was—so to say—imposed on American agriculture contrary to the judgement of our experts.  Its price provisions were quite unrealistic, and it broke down a few weeks after it had come into force.</p>
-<p>
-<hi rend="italics">Q:  What were the so-called “monetary compensatory amounts?”</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>KOENIG:  Brussels was not a place where one could remain idle.  The common market was very dynamic, and every so often new issues arose.  For instance, originally the system of uniform prices was based on stable exchange rate.  As soon as these began to diverge, and this was—I believe—for the first time in the summer of 1969, the common price system threatened to break down.  It was, so to speak, repaired by superimposing on it a system of so-called “monetary compensatory amounts.” These were additions or subtractions to the common prices expressed in local currency which were supposed to have the effect of restoring the purchasing power of the common prices to what they had been before the exchange rates started to fluctuate.  This system was often modified.  It became so complex that only a few experts in the Commission and in the member states understood it and were able to manage it.  It probably introduced considerable arbitrariness in the EEC's agricultural system.</p>
-<p>
-<hi rend="italics">Q:  What happened when the EEC was enlarged?</hi>
-</p>
-<p>KOENIG:  At the end of the sixties, the U.K., Denmark and Ireland joined the EEC.  They accepted the system of common farm prices to which they gradually adjusted in the course of a transition period.  This transitional system brought new complexities in our dealings with the EEC and in their dealings with each other.  The increase in protection in these countries, the implicit preferences which they granted henceforth to their new EEC partners and the incentives they gave to increasing production worked all to the further disadvantage of U.S. agriculture.  Moreover, the new member states, particularly the U.K., had previously granted important trade concessions to the U.S.  The amount of compensation due to the U.S. for the loss of these concessions remained in dispute.</p>
-<p>
-<hi rend="italics">Q:  There were many debates between us and the EEC regarding soybeans.  Can you speak about this?</hi>
-</p>
-<p>KOENIG:  This is an interesting topic.  After the U.S. had acquiesced in the system of EEC variable levies on grains and other products, the EEC spokesman pretended that there had been a deal: in exchange for American acquiescence on certain NTB's, they had agreed on zero tariffs for soybeans.  This was not true.  However, after a while, they found out that their farmers considered soybeans and soymeal to be an excellent substitute for grains, due to the price distorting effects of the variable levy system.  Imports of soybeans and soymeal increased and tended to displace domestic grains.  The EEC tried to counteract this by playing with the idea of imposing an internal tax on soy products.  This was so strongly resisted by the U.S. that the EEC desisted from this idea.  Later on, however, the EEC encouraged the domestic production of soybeans and of other oilseeds, whose output increased greatly.  The agricultural relations between the United States and the EEC were ripe for a major collision or, in order to avoid it, for a major negotiation.</p>
-<p>
-<pb facs="0017" n="Page0017"/>
-<hi rend="italics">Q:  You mentioned before problems arising from food legislation.</hi>
-</p>
-<p>KOENIG:  While in Brussels I was more and more occupied with a problem, which I had already encountered in Germany.  The Germans had promulgated a new food law, which diverged from ours in several respects.  Already during the chicken war, the Germans had alleged that our poultry was particularly susceptible to salmonella or that we were feeding hormones to chickens.  This was pure propaganda, but had nevertheless a certain effect and impacted on the sale of American products in Germany.  However, food legislation that influenced sales from third countries became a serious trade issue, when the member states of the Community were obliged to harmonize their own food legislation, in order to avoid that food norms and standards become an obstacle to intra-community trade.  All U.S. fresh, dried and canned fruits, citrus, poultry, meat offals, wine and many other products were affected by these measures.  There were even threats to stop imports of American grain, unless it was accompanied by a certificate indicating that it was free of DDT residues.</p>
-<p>I was, of course, able to understand and handle all the legal and trade policy aspects of these new developments, but I was not competent to discuss their scientific merits.  FAS therefore appointed an ARS scientist as Assistant Agricultural Attach� to the Brussels office, who dealt exclusively with food law problems.  The new food legislation did not only cover the wholesomeness or risks entailed by additives and pesticides, but also the labeling of food products and the standard sizes of packaging.  The problem of labeling became easier, when English became one of the official languages of the Community.</p>
-<p>I spent a lot of time on food legislation, the more so as many American business representatives visited our office and solicited our assistance in this field.  (At that time the Commission did not accept petitions or advice involving food legislation from domestic or foreign industries, but was open to diplomatic representations.  Hence, representations by my office (not in the form of protests but as expression of our opinion) became an avenue of approach for U.S. food industries in order to convey their views and ideas to the EEC Commission.)</p>
-<p>
-<hi rend="italics">Q:  What were the factors which led to a new GATT Round?</hi>
-</p>
-<p>KOENIG:  As mentioned before, the frictions in our relations with the EEC became very strong in the late sixties.  They made overall trade negotiations desirable.  However, there were also other reasons (of a non-agricultural nature), why a new GATT negotiating round was envisaged.</p>
-<p>
-<hi rend="italics">Q:  When did the new round begin?</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>KOENIG:  It started in 1973, six years after the end of the Kennedy Round.  It was called the Tokyo Round.  I was appointed to lead the U.S. agricultural team in these negotiations.  I was, of course, flattered by this appointment.  (I received at the same time the Distinguished Service Award of the U.S. Department of Agriculture.) However, I was also advised by many people not to accept this appointment because I was told that it would not only be burdensome, but also thankless, and I would be subjected to many pressures, intrigues and innuendos.  Nevertheless, I accepted but only under condition that I would not only be the leader of the agricultural team in the U.S. Trade Delegation in Geneva, but also Agricultural Attach� at the U.S. Mission in Geneva.  I did this because there were strong doubts as to whether Congress would authorize the Administration to enter new trade negotiations.  Had these not taken place, I would have been in Geneva without an assignment.</p>
-<p>
-<hi rend="italics">Q:  What was the formal goal of these negotiations?</hi>
-</p>
-<p>KOENIG:  The agricultural negotiations of the Tokyo Round were expected to deal essentially with liberalization, like any other trade negotiation, but the Tokyo Round also placed special emphasis on the interests of Developing Countries.  The EEC, by then the world's largest importer of farm products and one of the world's largest exporter, found this approach unacceptable because its import regime could not be liberal by its very nature.  It consisted largely of non-tariff import barriers (essentially variable levies) whose purpose it was to ensure a stable domestic price level.  Liberalizing this system would have weakened it, i.e. the basic principle of the common agricultural policy, one of the center pieces of the Common Market.</p>
-<p>
-<hi rend="italics">Q:  How did the EEC behave in view of this dilemma?</hi>
-</p>
-<p>KOENIG:  The EEC could not openly avow that liberalization is unacceptable.  It therefore tried to interpret “liberalization” as merely meaning the absence of quantitative restrictions.  It would have liked to negotiate international commodity agreements with minimum and maximum prices thus consolidating the EEC system at an international level.  The EEC justified its approach by asserting that agriculture has special characteristics which call for an approach to negotiating on agricultural products that would be different from the way import barriers on non-agricultural products were being negotiated.  The EEC demanded that agriculture be treated in a special Committee and separately from the negotiations about non-agricultural commodities.</p>
-<p>The EEC delegation tried to hide the logical weakness of its position by being very aggressive intimating that the negotiations might break down if its view were not accepted.</p>
-<p>
-<hi rend="italics">Q:  How did we counter this attitude?</hi>
-</p>
-<pb facs="0019" n="Page0019"/>
-<p>KOENIG:  I realized that the EEC delegation figured that fear of an early failure of the negotiations would induce the U.S. Delegation to concede the EEC's point of view.  I was not of this opinion because I knew that the EEC's industrial groups were keenly interested in keeping the negotiations alive.  I retorted to the EEC with equal vigor to show them that they cannot intimidate us.  However, my non-agricultural colleagues in the U.S. Delegation urged me to yield and accept at least in part the EEC position.  The controversy was overcome by an agreement between the U.S. and the EEC which consisted of a compromise that was acceptable because it was meaningless.  I did not ingratiate myself with the non-agricultural members of our delegation, but at least at this point they could not prevail because the instructions from Washington fully supported my view and not theirs.</p>
-<p>
-<hi rend="italics">Q:  What was the outcome of these divergencies?</hi>
-</p>
-<p>KOENIG:  For all practical purposes, the EEC succeeded in having agricultural negotiations separated from the rest of the negotiations.</p>
-<p>
-<hi rend="italics">Q:  But these were multilateral negotiations and not only negotiations between the U.S. and the EEC.</hi>
-</p>
-<p>KOENIG:  Apart from the EEC and the United States other countries such as Canada, Australia, New Zealand, Argentina, Brazil and Japan also played an important role in the negotiations.  Most of these countries favored true liberalization and freer trade except Japan which played a rather passive role and was primarily concerned with preventing any moves that could open it to larger imports.</p>
-<p>
-<hi rend="italics">Q:  What was the approach of Japan?</hi>
-</p>
-<p>KOENIG:  Japan tended to support the EEC position, that is, to negotiate international commodity agreements which would not require import liberalization.  We and other delegates tried to counter their attitude.  We would begin to speculate aloud whether the rice situation on the world markets would not warrant a more thorough study.  The Japanese delegation got the hint and moved away from supporting the EEC.</p>
-<p>
-<hi rend="italics">Q:  How were the negotiations with the Japanese?</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>KOENIG:  They were very frustrating.  The Japanese procrastinated.  In every bilateral meeting with them, in which we wanted to examine the possibility of Japanese concessions on this or that item, they tried to divert the discussion to unrelated matters.  It was only at the very end of the negotiations that they were willing to consider and meet some of our requests.</p>
-<p>
-<hi rend="italics">Q:  How successful were the proposals for international commodity agreements?</hi>
-</p>
-<p>KOENIG:  The EEC would have dearly liked to see an international commodity agreement for grains.  They worked very hard in this direction.  Other countries were not against such an agreement.  However, all such attempts failed because of the staunch opposition of the United States.  Yet the EEC succeeded in establishing groups which were to examine the feasibility of world agreements for beef and for dairy products.</p>
-<p>
-<hi rend="italics">Q:  How could the U.S. accept international commodity agreements for beef and dairy products?</hi>
-</p>
-<p>KOENIG:  The beef agreement was purely consultative without any economic provisions.  It was a goodwill gesture towards Argentina.  On the other hand, the International Dairy Arrangement was, indeed, a full fledged commodity agreement.  At the beginning of the negotiations for a dairy agreement, we treated such an agreement as a mere hypothesis.  Later on, we agreed to it with the proviso that no measure required under this arrangement could supersede our domestic laws for dairy.  Thus, we were not obliged to observe a minimum export prices, one of the key provisions of this agreement, nor could we be restrained from using export subsidies.</p>
-<p>
-<hi rend="italics">Q:  What was the attitude of the other members of the Delegation towards agriculture?</hi>
-</p>
-<p>KOENIG:  We did not receive the sympathetic support of other members of the US MTN Delegation, which represented industrial and commercial interest groups.  They feared that the complexities of agricultural negotiations could lead to crises and even to a complete breakdown of the negotiations.  However, they were equally afraid that successful agricultural negotiations would have to be paid for by large U.S. industrial concessions, which they naturally tried to avoid.  Thus the defense of U.S. farm interests against foreign and domestic interests proved to be very difficult.  The leaders of the MTN Delegation were animated by the same spirit as most delegates: they wished I were not there.  Yet I survived because of the support of U.S. farm groups.</p>
-<pb facs="0021" n="Page0021"/>
-<p>The shortsightedness of those who—to say the least—did not favor U.S. agriculture may be seen from the following examples: at least two major issues of immediate interest to U.S. agriculture were being negotiated without the participation of the U.S. agricultural delegation in the Tokyo Round: a Code concerning agricultural export subsidies and a Code for product norms and standards.  As regards the former, some positive results were nevertheless obtained.  As regards the latter, my requests for extending the coverage of this Code also to agriculture was obstinately rejected, apparently for petty personal reasons.  Agriculture was, in fact, excluded from the Standard Code negotiations.  In the following years, the defense of U.S. interests against foreign attempts to use standards and health measures as agricultural trade barriers was hampered because the Standard Code failed to adequately cover agriculture.</p>
-<p>
-<hi rend="italics">Q:  How would you describe the end results of the Tokyo Round?</hi>
-</p>
-<p>KOENIG:  The results of the Tokyo Round were by and large satisfactory for U.S. agriculture.  It is true, we did not obtain spectacular concessions from foreign countries, but the concessions we made were well balanced.  For instance, we did not admit larger cheese imports into the U.S. than before the Tokyo Round, but those allowed to enter the U.S. were under stricter disciplines than before.  We did not succeed in dismantling foreign non-tariff trade barriers such as the EEC's levy system, yet there were some substantial tariff concessions, although tariffs were increasingly of lesser importance in view of fluctuating exchange rates.  The strengthening of discipline on export subsidies obtained in the Tokyo Round proved to be of no practical use later on.  The EEC gained an increasing share of the world market (e.g. for wheat).  Complaints in the GATT about EEC export subsidies were of no avail.</p>
-<p>
-<hi rend="italics">Q:  What did you do when you came back to Washington?</hi>
-</p>
-<p>KOENIG:  I was named Deputy Assistant Administrator for International Trade, but gradually I was excluded from any work.  This seemed to be according to the saying: Knowledge is dangerous.  Ignorance is bliss.  Finally, however, I was appointed agricultural counselor to the Embassy in Paris.</p>
-<p>
-<hi rend="italics">Q:  Wasn't your assignment to Paris highly satisfactory?</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>KOENIG:  Indeed, it was, also for professional reasons.  Throughout my career in Europe, we had to deal with the French who were the main protagonists of the common agricultural policy and who by the same token saw in America their main competitor and even adversary.  At times, they accused us of wishing to destroy the common market.  Before my assignment to Paris, I knew many French officials.  I knew France quite well and I had participated in panel discussions with French farm leaders before many hundreds of French farmers, when I was still stationed in Brussels.  When I came to Paris, the antagonism between French and American agriculture was at a comparatively low point.  This was so because at that time political relations between France and America were rather friendly—without rancor which characterized them in other days.  Moreover, the French Ministers of agriculture who were in office during that time endeavored to have friendly contacts with America.  Rocard, who became Prime Minister later on, had other ambitions than to solve farm problems, and the same was true of his successor Nallet.  Also, they were socialists and not primarily interested in supporting the farmers.  Their conservative successor, Minister Guillaume, also tried to find a modus vivendi between their and our farm interests.  You will perhaps remember that President Mitterrand during his visit to America insisted on visiting our Secretary Block's farm in Illinois.  There also existed few major points of controversy between France and the United States at that time.  This does not mean that polemics were absent.  After a public discussion with representatives of the French Corn Producers Association in Aix-les- Bains, a French paper referred to me as the “able diplomatic representative of American agricultural imperialism at the embassy in Paris.” However, such public debates, of which there were many, were always conducted in a polite and civilized way.  I was also invited to give a talk about American farm policy to the Agricultural Committee of the French parliament and a talk about the same topic to the Agricultural Committee of the French Senate.  The members of the latter were very sharp and well informed, the former less so.</p>
-<p>During my assignment to Paris the Uruguay Round was underway.  Delegations from Washington often visited Paris in order to persuade their French counterparts that agriculture would profit from lower price support and less protection.  They did not convince the French.</p>
-<p>
-<hi rend="italics">Q:  What happened after Paris?</hi>
-</p>
-<p>KOENIG:  In 1987, I returned to FAS.  I was not given any assignment whatsoever.  I realized that they wanted me to retire.  However, I stuck it out for another 3 years, in order to increase my retirement annuity.  In August of 1990 I retired.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>ERNEST KOENIG</p>
+                <p>Interviewed by: Quentin Bates </p>
+                <p>Initial interview date: August 19, 1995</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is Quentin Bates interviewing Ernest Koenig, a fellow
+                        retiree of the Foreign Agricultural Service of the Department of
+                        Agriculture. Ernest, you had a very unusual childhood, education and so
+                        forth, from the point of view of most of us. Why don't you give us a little
+                        bit of background?</hi>
+                </p>
+                <p>KOENIG: I think this is appropriate because my background is different from that
+                    of our colleagues. I was born in Vienna, Austria, in 1917. The year of my birth
+                    coincided with extraordinary circumstances. The French were militarily
+                    exhausted. In Russia the revolution had broken out. The country of my birth,
+                    Austria, was tottering at the brink of disaster. Moreover, the entry of the
+                    United States into the war sealed the defeat of Germany and Austria. I grew up
+                    in Czechoslovakia where I spent a happy childhood in southern Moravia, not far
+                    from Vienna but on the Czech side. Then I went to Br�nn (Brno), the capital of
+                    Moravia, where I attended the Masaryk College, an outstanding school that
+                    emphasized humanistic studies. In 1936, I started my studies at the German
+                    Charles University in Prague.</p>
+                <p>In 1938, I decided to spend two summer months in France in order to improve my
+                    French. That was the time of the Munich crisis. At the end of these two months,
+                    Czechoslovakia had lost a large part of its territory, and I did not return
+                    home. It was difficult to stay in Paris because I had no money and was not
+                    allowed to work. Nevertheless, I registered at the Sorbonne. But I did not study
+                    much because I had many other things on my mind. Finally living in Paris became
+                    almost impossible, so I decided to return to Czechoslovakia and see my parents
+                    again. I was about two weeks there, when the Germans occupied the rest of the
+                    country in March of 1939. I succeeded in escaping from Czechoslovakia under very
+                    adventurous circumstances and with much luck, and returned to France. In France
+                    my life as a refugee continued. It was difficult, but I was twenty-two years old
+                    and I was in Paris, so life was fun in spite of everything.</p>
+                <p>
+                    <hi rend="italics">Q: I can imagine.</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>KOENIG: On September 1, 1939 Hitler attacked Poland. I volunteered for the army.
+                    But it was not quite clear for which army I had volunteered. There was a
+                    Czechoslovak Consulate in Paris, but it had no legal status nor really any
+                    status whatsoever. It represented a non-existing country and a non-existing
+                    government. Still they accepted declarations for volunteering for “the army.”
+                    Following an obscure agreement between the French Government and some Czech
+                    representatives in Paris, it was decided that Czechoslovak citizens must join a
+                    Czechoslovak army.</p>
+                <p>
+                    <hi rend="italics">Q: There was a government in exile?</hi>
+                </p>
+                <p>KOENIG: There was no government in exile. That came much later. In contrast to
+                    Poland, which had a well established and internationally recognized government
+                    in exile following its defeat and occupation by Germany, the Czechs had nothing.
+                    The French then decided to establish a Czechoslovak army in exile. This decision
+                    was somewhat ambiguous because you couldn't establish the army of a country that
+                    did not exist any longer. The probable purpose of this action was to organize
+                    Czech speaking units through which France would be able to influence conditions
+                    in Central Europe at the end of the war. On the other hand, the French might
+                    also have thought of using this army as a bargaining tool in case of a separate
+                    peace with Germany. The army was in reality a French unit with Czech command
+                    language. It was badly organized and badly equipped. However, when France was
+                    about to lose the war, it remembered this army and sent its two or three
+                    regiments to the front near Paris in order to defend the capital. Of course, the
+                    Czech units like the rest of the French army broke down.</p>
+                <p>With the assumption of power by the Vichy government conditions in France changed
+                    completely. There were millions of foreigners in France, and there was heavy
+                    unemployment after the defeat. The Vichy government therefore tried to get rid
+                    of as many foreigners as possible by making it difficult for them to live in
+                    France. I registered at the University of Grenoble. As student I had permission
+                    to stay in France in contrast to many foreigners whose stay in France was
+                    questioned by the authorities. I had no money. I was allowed to study but not to
+                    work in France. I did not know what to live from. I tried to earn some money as
+                    a door-to-door salesman but I was unable to make ends meet in this way.</p>
+                <p>
+                    <hi rend="italics">Q: What was your military status at that time?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>KOENIG: I was demobilized. I had a French demobilization certificate. I learned
+                    of a job in western France. A family needed a tutor for an eight-year-old boy. I
+                    wrote them and they accepted me. However, a foreigner was not allowed to travel
+                    unless he was in possession of a special travel permit issued by the police.
+                    Since I could not tell the police that I had obtained a job, I told them I
+                    needed to travel in order to visit my sick aunt. They requested a certificate
+                    from my “sick aunt's” physician confirming that she was sick. Since I could not
+                    provide such a document, I traveled without permission.</p>
+                <p>The family that had accepted me lived on a big estate. There was plenty of food,
+                    and I ate as much as I wished for the first time in many months. The police
+                    noted that there was a stranger in the village. Since my permission to stay in
+                    France depended on my being a student in Grenoble and not a tutor, and since I
+                    had not obtained permission from the police to leave Grenoble, they arrested
+                    me.</p>
+                <p>
+                    <hi rend="italics">Q: These were Vichy police?</hi>
+                </p>
+                <p>KOENIG: Indeed, this was the Vichy police. They sent me to the worst French
+                    concentration camp, the Camp du Vernet. When I arrived, I was told that I was
+                    sent there by mistake and that I would be transferred to a better camp. This
+                    promise was often repeated but never kept. It is true, I was granted certain
+                    facilities: I became assistant postmaster, a job which kept me busy and lifted
+                    somewhat my morale, because unlike others I was permitted to circulate freely
+                    throughout the camp. But it did not alleviate the all-pervasive hunger.</p>
+                <p>
+                    <hi rend="italics">Q: What were most of the prisoners? Was there any particular
+                        group?</hi>
+                </p>
+                <p>KOENIG: At the beginning of the war the camp contained primarily Nazis, and
+                    Communists who had opposed the war. After the armistice it contained people from
+                    all over Europe, not only political exiles but also many unpolitical foreigners.
+                    Many of the political exiles were anti-communists, for instance, Russians who
+                    had fled the communists after World War I.</p>
+                <p>
+                    <hi rend="italics">Q: The White Russians?</hi>
+                </p>
+                <p>KOENIG: Some were still faithful to the Czar but others were democratic and
+                    against the old regime. A great number of the prisoners were civilians who had
+                    come with the defeated Spanish Republican army to France. Many inmates were
+                    apolitical Poles and Italians who had come to France after World War I, had
+                    spent most of their lives there but had never acquired French citizenship.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: Was this before there was a general roundup of the
+                        Jews?</hi>
+                </p>
+                <p>KOENIG: Yes. At that time it was basically an anti-foreigner action. However,
+                    many foreigners in France were of Jewish origin. The roundup of Jews for
+                    purposes of deportation to Germany came much later. In the camp the inmates were
+                    not mistreated like in Germany, but the hunger was terrible. If one did not get
+                    food parcels from the outside, he would die. Without outside help one could not
+                    survive more than twelve-or fourteen months.</p>
+                <p>The deportation to Germany started on August 7, 1942. It was not clear at all,
+                    why Germany wanted to take back those whom it had expelled a short time ago.
+                    Still more puzzling was the inclusion of children, old people and cripples in
+                    the deportation train. We were first transported to Drancy, an infamous camp
+                    near Paris, and thereafter to the east. The transport to Germany lasted three to
+                    four days and took place under extremely inhumane conditions. Upon arrival one
+                    part of the deportees—women, old people, children—was killed immediately, the
+                    others were sent to various forced labor camps.</p>
+                <p>
+                    <hi rend="italics">Q: Where was this?</hi>
+                </p>
+                <p>KOENIG: That was in Upper Silesia, near Auschwitz. From there I was sent to a
+                    camp that was located inside a big German factory, called “Laurah�tte.” This was
+                    an external camp of Auschwitz. We were slave workers. Black people recall the
+                    slavery of their ancestors, but I was a slave in the twentieth century. Unlike
+                    the slaves in America who had a commercial value because they could be bought
+                    and sold for a price, we were of no commercial value whatsoever. If we were
+                    killed, no economic loss occurred. People died from beating, from hanging and
+                    from hunger. If they became unfit to work, they were gassed. After about one
+                    year in “Laurah�tte,” we were transferred to Blechhammer, a camp near a big
+                    factory, the “Oberschlesiche Hydrierwerke.” This camp was part of a complex of
+                    camps, called Auschwitz III.</p>
+                <p>
+                    <hi rend="italics">Q: A work camp.</hi>
+                </p>
+                <p>KOENIG: A work camp to die. We worked by building a tremendous factory that
+                    processed coal into oil. When Germany lost its oil resources in the east, this
+                    factory became of ever greater importance. Consequently, it was repeatedly
+                    bombed by the Allies. Of course, we were happy to see this happen. But on the
+                    other hand, we were afraid because the bombs did not distinguish between friend
+                    and foe. When the Russian Army approached Auschwitz, the Germans decided to
+                    evacuate the camps. They marched thousands of people to the west. During these
+                    so-called death marches in the midst of winter, most of the marchers perished.
+                    When our camp was to be evacuated, I went into hiding and escaped.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>I returned to Czechoslovakia. I did not like the situation there. There was still
+                    a democratic form of government, but the Communist party prevailed in many
+                    fields.</p>
+                <p>
+                    <hi rend="italics">Q: Was the European war over at that time?</hi>
+                </p>
+                <p>KOENIG: The war was over. But many arbitrary actions occurred. I therefore
+                    decided to leave. But how could I come to America? Elizabeth, my present wife
+                    whom I had met in Paris, was already in America but I was unable to obtain a
+                    visa because the U.S. immigration quota for Austrians, under which I fell owing
+                    to my birth in Vienna, was overbooked. I managed to obtain a transit visa for
+                    England where I stayed until 1948. Then I got an American visa and came to
+                    America.</p>
+                <p>
+                    <hi rend="italics">Q: When was that?</hi>
+                </p>
+                <p>KOENIG: In 1948.</p>
+                <p>
+                    <hi rend="italics">Q: In '48. Oh, was it that long?</hi>
+                </p>
+                <p>KOENIG: Yes. I came to America on a boat by the name of Ernie Pyle. A new life
+                    started. From the second day on I had a job. I also registered at City College
+                    and at the New School for Social Research, both in New York City.</p>
+                <p>
+                    <hi rend="italics">Q: How many college credits did you have? Did you have any
+                        transferable credits?</hi>
+                </p>
+                <p>KOENIG: I did not have any papers with me. I explained my academic background,
+                    and I was accepted on probation. I had to prove myself.</p>
+                <p>
+                    <hi rend="italics">Q: How was your English at that time?</hi>
+                </p>
+                <p>KOENIG: It was fluent but broken. I remember my first examination in a seminar. I
+                    was supposed to make a statement. I wanted to read it, but the teacher said: “No
+                    reading, you have to speak freely.”</p>
+                <p>I attended school in the evening. During the day I held all kinds of odd jobs.
+                    They taught me what America is like. I should mention that during the two years
+                    I was at the New School, I also took a course on the political background of the
+                    GATT.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: Oh, that's interesting.</hi>
+                </p>
+                <p>KOENIG: Yes, it was very interesting. I took this course without having any idea
+                    of how it would help me in my work later on.</p>
+                <p>
+                    <hi rend="italics">Q: That would have been what, 1949?</hi>
+                </p>
+                <p>KOENIG: 1949, 1950. The other thing I should mention is that my thesis was on the
+                    Marshall Plan. In this way I learned a lot about contemporary Europe. After I
+                    had obtained the M.A., Elizabeth's very ingenious father helped me drafting a
+                    letter applying for a scholarship to the deans of the economic departments of
+                    150 universities. I got three positive replies: from the University of Colorado,
+                    from the University of Syracuse and from Johns Hopkins University in
+                    Baltimore.</p>
+                <p>
+                    <hi rend="italics">Q: The one from Colorado is interesting.</hi>
+                </p>
+                <p>KOENIG: I accepted the one from Baltimore and obtained a junior instructorship at
+                    Johns Hopkins University. I learned a lot at Hopkins, but I did not like it. It
+                    was an ivory tower university and very snobbish. So I felt the time had come for
+                    a real job. When you were in Baltimore, of course, you went to Washington to
+                    seek a job. I had many recommendations and I got a job in the Office of
+                    International Finance of the Treasury Department. This was in June, but the work
+                    in the Treasury was supposed to start only in September. Since I needed money I
+                    took what I believed to be a temporary two months job in the Department of
+                    Agriculture. This job lasted forty years. This is very approximately my
+                    background.</p>
+                <p>
+                    <hi rend="italics">Q: When did you join the Department of Agriculture?</hi>
+                </p>
+                <p>KOENIG: I joined OFAR (the Office of Foreign Agricultural Relations) of the U.S.
+                    Department of Agriculture in 1951. At that time the principal work of the
+                    European Analysis Branch of OFAR consisted in preparing estimates of the food
+                    situation in Europe and examining food aid requests of European countries under
+                    the Marshall Plan. This work was very interesting. It was largely based on the
+                    methods of an Allied Committee in London which during the war had prepared plans
+                    for feeding Europe's population, once Europe was liberated. What I had learned
+                    about the Marshall Plan, particularly about its so-called “Counterpart Funds of
+                    Local Currency” came very handy. There arose also questions concerning the
+                    GATT.</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: They also had several preliminary conferences in
+                        preparation of the conference that first established GATT.</hi>
+                </p>
+                <p>KOENIG: That was—I believe—in 1947.</p>
+                <p>
+                    <hi rend="italics">Q: While you were still in school?</hi>
+                </p>
+                <p>KOENIG: No. That was before I came to America.</p>
+                <p>
+                    <hi rend="italics">Q: You said that Hans Richter was your first boss. He was the
+                        head of the European Analysis Branch. As I understand it, he was a member of
+                        the U.S. delegations at some of these conferences.</hi>
+                </p>
+                <p>KOENIG: He had an excellent European background. He was an outstanding economist
+                    and a very good boss. The work we did was interesting also from a purely
+                    theoretical point of view. We made production estimates, which were based on a
+                    special methodological approach that strengthened our analysis. As European
+                    Analysis Branch we not only followed developments in Western Europe but also
+                    those in Eastern Europe. The Department of Agriculture was greatly interested in
+                    Eastern Europe because Eastern Europe before the war had been one of our major
+                    competitors on the world markets. At a certain time we had agricultural attach�s
+                    (they were not necessarily called agricultural attach�s) in Russia and also in
+                    Yugoslavia, Hungary and Romania. It was feared that these countries might return
+                    to the world markets. Of course, they did not.</p>
+                <p>In these days it was very difficult to learn about the agricultural situation in
+                    Eastern Europe. After 1948, all these countries (except Finland) were under
+                    Communist rule. They reported either distorted statistics or published no
+                    statistical data at all about their agricultural situation. This was the height
+                    of the Cold War. In addition to the European Analysis Branch, there also existed
+                    in OFAR an Eastern European Analysis Branch which dealt exclusively with
+                    Russia.</p>
+                <p>We also followed as well as we could the socialization of agriculture in Eastern
+                    Europe. This was of great interest to us because we wanted to know whether the
+                    new forms of agricultural enterprises (Collectives and State farms) might create
+                    exportable surpluses in the future. Their performance turned out to be very
+                    poor.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>Our work also included so-called “NIS” studies. These were monographs about the
+                    agriculture of foreign countries. To write such a monograph was a marvelous way
+                    of learning about farming in a given foreign country. When preparing such a
+                    study, we were given plenty of time and latitude. Naturally, the description of
+                    agriculture in a foreign country had to be accurate and comprehensive, but
+                    original research was not expected. We were lucky in having in USDA the best and
+                    richest agricultural library in the world on whose resources we were able to
+                    draw.</p>
+                <p>In 1953, the Republicans came to power after 20 years in the wilderness. They
+                    felt that the civil service was full of Democrats and...</p>
+                <p>
+                    <hi rend="italics">Q: ...other Communist sympathizers.</hi>
+                </p>
+                <p>KOENIG: No, it had not this aspect.</p>
+                <p>
+                    <hi rend="italics">Q: Still not yet.</hi>
+                </p>
+                <p>KOENIG: McCarthy was later. The Republicans wanted more of their people in the
+                    Civil Service. They RIF'd 5,000 people. At that time it was very difficult to
+                    find a job in Washington. I only had two years of service, no seniority. I
+                    therefore was rif'd.</p>
+                <p>
+                    <hi rend="italics">Q: This was in 1953? The year of the Big RIF. My position in
+                        Paris was not affected by this.</hi>
+                </p>
+                <p>KOENIG: But all of you had been in the Service for a longer period than I who was
+                    only two years there. My situation was the more difficult as Elizabeth expected
+                    a child. So I went to the then acting Administrator of OFAR, Fred Rossiter, and
+                    asked him whether he could extend my employment for another month. He agreed. In
+                    the course of this month I was rehired and thus never left USDA. I was so
+                    shocked by this experience that I was willing to undertake any job I would be
+                    asked to do in order to strengthen my position.</p>
+                <p>At that time a NIS study about Indochina was to be written. In the Far East
+                    Branch of OFAR nobody wanted to undertake this study. Thus I volunteered. I
+                    found out that there existed excellent French literature describing the
+                    agriculture of Indochina. I doubt whether the situation in any other LDC had
+                    been so well described. So I became enthusiastic about my work assignment. The
+                    available statistics were, however, dated. They only went up to 1940. Nothing
+                    was said about the following years.</p>
+                <p>At that time the French in Indochina were on their last leg. It was the time of
+                    Dien Bien Phu, the big battle the French lost.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>
+                    <hi rend="italics">Q: What year was that?</hi>
+                </p>
+                <p>KOENIG: 1953 or 1954. I recommended in my study that a big land reform should be
+                    undertaken in the non-communist part of Indochina in order to fight the
+                    Communists, and massive aid in the form of rice should be extended to the
+                    peasants. However, I was told that policy recommendations are none of my
+                    business. I should limit myself to a factual description of crops, livestock and
+                    other agricultural features. By now, I realized that these instructions were
+                    appropriate, but at that time I was very disappointed by them. I was very
+                    discouraged and lost interest in this study. I tried to devote most of my time
+                    to work on Western Europe and neglected the Indochina study, which I finally
+                    failed to complete. One morning Clarence Purves, who supervised the NIS studies
+                    and whom you still remember, came to my office and said: the Indochina study
+                    must be completed by three o'clock in the afternoon. I protested saying that
+                    this is impossible because the manuscript in my handwriting is partly illegible,
+                    incomplete and the statistics are not necessarily consistent. How could this
+                    study be completed in a few hours? Purves told me that six secretaries would be
+                    put at my disposal who would type the study. They started to type whatever the
+                    manuscript contained. At three o'clock in the afternoon a number of neatly typed
+                    copies emerged with the title: “The Agriculture of Indochina.” With these copies
+                    in hand Purves and I went to the Pentagon, where we were received by a colonel.
+                    We handed him our copies and he transmitted them to a general who was scheduled
+                    to leave two hours later for Geneva in order to participate (I think as
+                    observer) in a conference on Indochina. It was at this conference that the
+                    independence of North Vietnam was recognized. This was in 1954.</p>
+                <p>Great changes took place in our work when OFAR was transformed into FAS (Foreign
+                    Agricultural Service). This coincided with—and was perhaps even motivated
+                    by—Public Law 480, which had a major impact on our work. Henceforth market
+                    promotion became one of the foremost tasks of an Agricultural Attach�. PL 480
+                    was prompted by the fact that after the armistice in Korea in 1953, many foreign
+                    countries decided that the precautionary stocks of farm products which they had
+                    kept during the Korean war, were no longer necessary. They reduced them. Hence
+                    we had agricultural surpluses in America for the first time since the war.
+                    Quentin, where were you in 1954-55?</p>
+                <p>
+                    <hi rend="italics">Q: I was in Bogota, Colombia. I negotiated a PL 480 agreement
+                        with that country, one of the early ones.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>KOENIG: At that time most people were unfamiliar with the methods and modalities
+                    of PL 480. This is not astonishing. On the other hand, it is interesting to note
+                    with how many commodities a typical agricultural attach� had to deal and with
+                    how many issues he was more or less familiar. They were very numerous. In the
+                    course of time we acquired significant technical knowledge which, however, did
+                    not seem to us to be very special but which gave us, indeed, a considerable
+                    expertise.</p>
+                <p>
+                    <hi rend="italics">Q: Because there were so few people who dealt with these
+                        problems.</hi>
+                </p>
+                <p>KOENIG: Outside the Department. Of course, in the commodity divisions of FAS we
+                    had several experts of world renown who possessed extraordinary knowledge of
+                    certain commodity areas. Terry McKay in the field of world dairy production;
+                    Henry Burke in the field of citrus and others. They were recognized as
+                    authorities throughout the world.</p>
+                <p>
+                    <hi rend="italics">Q: When did your foreign assignment begin?</hi>
+                </p>
+                <p>KOENIG: In 1959. In that year the Department of State invited two German farm
+                    leaders, Sonnemann and Rehwinkel, to visit the United States. Given the
+                    importance of these visitors a civil servant who would also be able to interpret
+                    was to be appointed to accompany them on their trip. I was selected. Upon their
+                    return they expressed satisfaction with my help. Thereafter, I was appointed
+                    Assistant Agricultural Attach� in Bonn with the special task to report on the
+                    development of the EEC's common agricultural policy (CAP) from the vantage point
+                    of Bonn.</p>
+                <p>
+                    <hi rend="italics">Q: At that time the common agricultural policy was already in
+                        force, was it not?</hi>
+                </p>
+                <p>KOENIG: It was not yet in force. But U.S. agriculture feared the application of
+                    this policy because it presaged a shrinking of our market outlets in Germany and
+                    in Europe as a whole.</p>
+                <p>The Treaty of Rome, signed in 1957, came into force on January 1, 1958. This
+                    meant that beginning with 1958 the internal tariffs between the EEC countries
+                    were to be gradually reduced and their tariffs vis a vis third countries were to
+                    be harmonized. Tariffs on farm products were also to follow this schedule. But
+                    German agriculture was mostly protected by non-tariff measures, and the Germans
+                    balked. They resisted any change in their quota, licenses and admixture system.
+                    They did not wish to take any steps towards a common agricultural market.</p>
+                <p>
+                    <hi rend="italics">Q: Was German protection higher than that of any other common
+                        market country?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>KOENIG: The internal German price level was much higher than that of other EEC
+                    countries. Protection was consequently also higher. The Germans feared the
+                    efficiency of French agriculture. Yet the French were not more efficient that
+                    the Germans, but their price level was much lower. German resistance to a common
+                    agricultural policy continued until 1961. In that year de Gaulle, who was in
+                    power in France, confronted the Germans with a kind of ultimatum: either they
+                    would agree to a common agricultural policy, which would entail opening their
+                    markets to their partners, or the French would stop reducing their industrial
+                    tariffs (in which the Germans were very interested) and also stop harmonizing
+                    their external tariffs with those of their partners. In other words: the French
+                    threatened to suspend the building of a common market.</p>
+                <p>The U.S. Government was strongly interested in a Common Market because it wished
+                    to see Western Europe united and Germany integrated in such an entity. The U.S.
+                    Government also knew that without a common agricultural policy a common market
+                    (i.e. the European Economic Community) would be impossible. It therefore
+                    pressured Germany to accept such a policy.</p>
+                <p>
+                    <hi rend="italics">Q: And that overrode our concern about the effects of the
+                        common market on American agriculture.</hi>
+                </p>
+                <p>KOENIG: Certainly. This was clearly shown in the outcome of the first so-called
+                    GATT Article XXIV:6 negotiations with the EEC. The purpose of these negotiations
+                    was to grant compensation to the U.S. for the impairment of its GATT rights,
+                    caused by the common agricultural policy with regard to several major
+                    commodities. Instead, these negotiations suspended our claims and nullified, in
+                    fact, our rights. They resulted in almost unilateral favors for European farm
+                    interests.</p>
+                <p>Yet before these negotiations occurred and up to 1962, the German farmers, who
+                    were led by my German travel companions in America, opposed the creation of a
+                    common agricultural market. Chancellor Adenauer was willing to accept it but was
+                    hampered by his farmers on whose support his coalition government largely
+                    depended.</p>
+                <p>In the course of the negotiations between Adenauer and the farmers, the President
+                    of the German Farmers' Association met frequently with Adenauer. Thereafter, he
+                    would often invite me for a beer and tell me that no progress had been made
+                    towards Germany's acceptance of a common agricultural policy.</p>
+                <p>
+                    <hi rend="italics">Q: You had a real inside track.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>KOENIG: A fantastic inside track, which was the more valuable as my State
+                    Department colleagues reported every day that an agreement was just around the
+                    corner. In retrospect, it seems possible that the Germans might have known of
+                    the unjustified optimism permeating State's reporting from Bonn to Washington,
+                    and thus might have wished to counteract it by giving me a more realistic
+                    assessment of the situation.</p>
+                <p>My boss, Phil Eckert, was a prot�g� of Barry Goldwater, whom many people expected
+                    to be our next President. Phil's position was therefore very strong and the
+                    Office of the Agricultural Attach� enjoyed a high degree of independence in the
+                    embassy. Our State Department was, of course, right in giving priority to
+                    America's political aims over those of certain economic interests. At times,
+                    however, their attitude was too indulgent vis a vis European or German farm
+                    interests. It bordered on the ridiculous. When I once told the head of the
+                    Embassy's economic section that we should ask the German Government to
+                    liberalize canned fruits, which were still subject to quotas, he told me that I
+                    have no political sense. He said that such a request would be very embarrassing
+                    to the German Government. Didn't I know that it could weaken its political
+                    strength; that we must avoid everything that could have such an effect? The
+                    following day it became known that two high American officials would visit Bonn
+                    in order to solicit a German contribution to the maintenance costs of U.S.
+                    troops in Germany. Fearing possibly excessive American requests and wishing to
+                    mitigate them in advance, the German government announced several trade
+                    concessions favoring American exports even before the talks had taken place.
+                    Among them was the liberalization of canned fruits and vegetables—and western
+                    civilization did not break down.</p>
+                <p>Before 1962, the U.S. Government exercised ever stronger pressure on Germany to
+                    adhere to a common agricultural policy. The U.S. told them that without such a
+                    policy, the common market will not advance. Hence there will be no European
+                    integration and no unified Europe. The Germans will be guilty of the
+                    disintegration of Europe, and the whole blame for this failure will fall on
+                    them. Under this pressure the Germans agreed finally on the principles of a
+                    common agricultural market.</p>
+                <p>
+                    <hi rend="italics">Q: How about your German friends, the head of the farmers
+                        organization and their allies?</hi>
+                </p>
+                <p>KOENIG: They had to accept it, but they extracted considerable concessions from
+                    their government.</p>
+                <p>
+                    <hi rend="italics">Q: Were they fairly satisfied with what they got?</hi>
+                </p>
+                <p>KOENIG: They were unhappy because they were obliged to lower their prices a bit,
+                    though the French had to raise theirs. All in all, the common agricultural
+                    market was based on very high common prices.</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>
+                    <hi rend="italics">Q: Thus the Germans demanded the highest common
+                        denominator.</hi>
+                </p>
+                <p>KOENIG: Yes, but it was only in 1968 that the support and minimum import prices
+                    were truly unified.</p>
+                <p>
+                    <hi rend="italics">Q: High domestic prices entailed also high import
+                        protection.</hi>
+                </p>
+                <p>KOENIG: Indeed. In a certain sense we were paying for the creation of the common
+                    agricultural market. To the extent that the common agricultural policy
+                    stimulated internal production, its self-sufficiency increased. Our outlets
+                    declined not only inside the common market but also in third countries because
+                    higher output led to increasing and necessarily subsidized exports. Thus they
+                    agreed on the largest common denominator—i.e. on the highest possible domestic
+                    prices.</p>
+                <p>
+                    <hi rend="italics">Q: When were these prices finally applied?</hi>
+                </p>
+                <p>KOENIG: It took another six years, until 1968, before the prices were really
+                    unified.</p>
+                <p>
+                    <hi rend="italics">Q: But high domestic prices entailed also high import
+                        protection.</hi>
+                </p>
+                <p>KOENIG: Indeed. So in a certain sense we were paying for the creation of the
+                    common agricultural policy. But not only this. To the extent that the Common
+                    Market increased its production under the impact of high prices, its self
+                    sufficiency increased. After a couple of years they produced exportable
+                    surpluses to an increasing extent. Since they could not well compete on the
+                    world market owing to their high prices, they subsidized their exports to the
+                    detriment of the United States and other third countries.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>I should also mention the so-called “chicken war.” America was exporting broilers
+                    and other chicken products to Germany. Exports were growing. U.S. poultry
+                    products found a rapidly growing market outlet in Germany, also because the
+                    price of American poultry was much lower than that of German or Dutch products.
+                    When the EEC began to implement the common agricultural policy, German
+                    impediments to the importation of U.S. poultry products were growing. The U.S.
+                    protested frequently and vehemently against these German, i.e. common market,
+                    import measures. American poultry exporters had strong political backing at
+                    home. Thus the so-called chicken war was elevated to a high political level.
+                    Finally President Kennedy approached Chancellor Adenauer in this matter. In
+                    spite of all the many American efforts to lower the common market import
+                    barriers, they became more and more restrictive. Our poultry exports began to
+                    fall. The U.S. finally brought the matter before the GATT which agreed that the
+                    common market countries owe compensation to the U.S. This compensation assumed
+                    the form of increased U.S. import duties on a number of EEC export products.</p>
+                <p>Thereafter, the chicken war lingered on for many years. It had many hysterical
+                    and hilarious aspects. One of them touched food legislation about which I will
+                    speak later on because it goes beyond the “chicken war.”</p>
+                <p>
+                    <hi rend="italics">Q: When did you leave Germany?</hi>
+                </p>
+                <p>KOENIG: In 1964. I was transferred to the U.S. Mission to the European Economic
+                    Communities in Brussels. I was first Assistant Agricultural Attach� and then
+                    Agricultural Attach�. At about that time, the EC Commission in Brussels began to
+                    apply the first market regulations for various agricultural products, first for
+                    fruits and vegetables, then for rice and then for pork. In the course of the
+                    following years over 90 percent of the agricultural commodities produced in the
+                    six common market countries were subjected to detailed and strict market
+                    regulations. These were accompanied by numerous implementing regulations. At
+                    that time English was not one of the official languages of the EEC. I therefore
+                    translated many of the important laws and regulations. Almost all of them aimed
+                    at assuring domestic producer prices exceeding world market prices; protected
+                    them by restrictive import devices that consisted largely of non-tariff measures
+                    and provided for market intervention and export subsidies. It was difficult to
+                    keep abreast of this legal labyrinth and required close contacts with Commission
+                    and Member states officials, diplomats of third country Missions and embassies,
+                    and also with trade organizations which out of self-interest followed closely
+                    the never ending flow of laws, and endeavored to understand all its intricate
+                    details and all its many loopholes. The common agricultural policy was so
+                    intricate because it was the result of heavy bargaining. Any concession made to
+                    one member country had to be often repaid by concessions to other member states.
+                    The loopholes in this legislation led to widespread fraud amounting to hundred
+                    millions of dollars. For instance, export subsidies were paid when, in reality,
+                    the export in question was merely from one to another member state; import
+                    levies were sometimes evaded.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>The progressive expansion of the common agricultural policy led to trade
+                    conflicts between the Community and most third countries. However, none of the
+                    latter had as big and as variegated an agriculture as the United States. Hence
+                    there were constant frictions followed by protests and the exchange of notes
+                    between us and the EEC. I believe at the end of my stay in Brussels, there were
+                    few U.S. farm products which were not unfavorably affected by the common
+                    agricultural policy.</p>
+                <p>The work in Brussels became further complicated, when the EEC concluded a number
+                    of so-called Association Agreements with third countries, such as Israel, Spain
+                    and the Maghreb countries. These were, in fact, preferential agreements in favor
+                    of these countries, but initially they affected our trade interests to a minor
+                    degree like the so-called Yaounde Agreement which gave trade preferences to the
+                    former colonies of the European countries which participated in the common
+                    market.</p>
+                <p>In the years 1965-67 the Kennedy Round of trade negotiations took place in
+                    Geneva. These negotiations affected strongly trade relations between the EEC and
+                    the United States. The U.S. Mission in Brussels was actively involved in these
+                    negotiations, and Mission officers traveled frequently to Geneva in order to
+                    assist our negotiators. I, too, spent a considerable time in the agricultural
+                    groups of these negotiations. The agricultural negotiations in the Kennedy Round
+                    were difficult and protracted because the EEC feared that concessions to third
+                    countries would unravel the painfully achieved construction of the common
+                    agricultural policy.</p>
+                <p>
+                    <hi rend="italics">Q: What was the outcome of the Kennedy Round?</hi>
+                </p>
+                <p>KOENIG: The Kennedy Round brought no solution to the many trade problems that had
+                    been created by the Community's agricultural policy. They remained unsolved. An
+                    International Commodity Agreement for Wheat was—so to say—imposed on American
+                    agriculture contrary to the judgement of our experts. Its price provisions were
+                    quite unrealistic, and it broke down a few weeks after it had come into
+                    force.</p>
+                <p>
+                    <hi rend="italics">Q: What were the so-called “monetary compensatory
+                        amounts?”</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>KOENIG: Brussels was not a place where one could remain idle. The common market
+                    was very dynamic, and every so often new issues arose. For instance, originally
+                    the system of uniform prices was based on stable exchange rate. As soon as these
+                    began to diverge, and this was—I believe—for the first time in the summer of
+                    1969, the common price system threatened to break down. It was, so to speak,
+                    repaired by superimposing on it a system of so-called “monetary compensatory
+                    amounts.” These were additions or subtractions to the common prices expressed in
+                    local currency which were supposed to have the effect of restoring the
+                    purchasing power of the common prices to what they had been before the exchange
+                    rates started to fluctuate. This system was often modified. It became so complex
+                    that only a few experts in the Commission and in the member states understood it
+                    and were able to manage it. It probably introduced considerable arbitrariness in
+                    the EEC's agricultural system.</p>
+                <p>
+                    <hi rend="italics">Q: What happened when the EEC was enlarged?</hi>
+                </p>
+                <p>KOENIG: At the end of the sixties, the U.K., Denmark and Ireland joined the EEC.
+                    They accepted the system of common farm prices to which they gradually adjusted
+                    in the course of a transition period. This transitional system brought new
+                    complexities in our dealings with the EEC and in their dealings with each other.
+                    The increase in protection in these countries, the implicit preferences which
+                    they granted henceforth to their new EEC partners and the incentives they gave
+                    to increasing production worked all to the further disadvantage of U.S.
+                    agriculture. Moreover, the new member states, particularly the U.K., had
+                    previously granted important trade concessions to the U.S. The amount of
+                    compensation due to the U.S. for the loss of these concessions remained in
+                    dispute.</p>
+                <p>
+                    <hi rend="italics">Q: There were many debates between us and the EEC regarding
+                        soybeans. Can you speak about this?</hi>
+                </p>
+                <p>KOENIG: This is an interesting topic. After the U.S. had acquiesced in the system
+                    of EEC variable levies on grains and other products, the EEC spokesman pretended
+                    that there had been a deal: in exchange for American acquiescence on certain
+                    NTB's, they had agreed on zero tariffs for soybeans. This was not true. However,
+                    after a while, they found out that their farmers considered soybeans and soymeal
+                    to be an excellent substitute for grains, due to the price distorting effects of
+                    the variable levy system. Imports of soybeans and soymeal increased and tended
+                    to displace domestic grains. The EEC tried to counteract this by playing with
+                    the idea of imposing an internal tax on soy products. This was so strongly
+                    resisted by the U.S. that the EEC desisted from this idea. Later on, however,
+                    the EEC encouraged the domestic production of soybeans and of other oilseeds,
+                    whose output increased greatly. The agricultural relations between the United
+                    States and the EEC were ripe for a major collision or, in order to avoid it, for
+                    a major negotiation.</p>
+                <p>
+                    <pb facs="0017" n="Page0017"/>
+                    <hi rend="italics">Q: You mentioned before problems arising from food
+                        legislation.</hi>
+                </p>
+                <p>KOENIG: While in Brussels I was more and more occupied with a problem, which I
+                    had already encountered in Germany. The Germans had promulgated a new food law,
+                    which diverged from ours in several respects. Already during the chicken war,
+                    the Germans had alleged that our poultry was particularly susceptible to
+                    salmonella or that we were feeding hormones to chickens. This was pure
+                    propaganda, but had nevertheless a certain effect and impacted on the sale of
+                    American products in Germany. However, food legislation that influenced sales
+                    from third countries became a serious trade issue, when the member states of the
+                    Community were obliged to harmonize their own food legislation, in order to
+                    avoid that food norms and standards become an obstacle to intra-community trade.
+                    All U.S. fresh, dried and canned fruits, citrus, poultry, meat offals, wine and
+                    many other products were affected by these measures. There were even threats to
+                    stop imports of American grain, unless it was accompanied by a certificate
+                    indicating that it was free of DDT residues.</p>
+                <p>I was, of course, able to understand and handle all the legal and trade policy
+                    aspects of these new developments, but I was not competent to discuss their
+                    scientific merits. FAS therefore appointed an ARS scientist as Assistant
+                    Agricultural Attach� to the Brussels office, who dealt exclusively with food law
+                    problems. The new food legislation did not only cover the wholesomeness or risks
+                    entailed by additives and pesticides, but also the labeling of food products and
+                    the standard sizes of packaging. The problem of labeling became easier, when
+                    English became one of the official languages of the Community.</p>
+                <p>I spent a lot of time on food legislation, the more so as many American business
+                    representatives visited our office and solicited our assistance in this field.
+                    (At that time the Commission did not accept petitions or advice involving food
+                    legislation from domestic or foreign industries, but was open to diplomatic
+                    representations. Hence, representations by my office (not in the form of
+                    protests but as expression of our opinion) became an avenue of approach for U.S.
+                    food industries in order to convey their views and ideas to the EEC
+                    Commission.)</p>
+                <p>
+                    <hi rend="italics">Q: What were the factors which led to a new GATT Round?</hi>
+                </p>
+                <p>KOENIG: As mentioned before, the frictions in our relations with the EEC became
+                    very strong in the late sixties. They made overall trade negotiations desirable.
+                    However, there were also other reasons (of a non-agricultural nature), why a new
+                    GATT negotiating round was envisaged.</p>
+                <p>
+                    <hi rend="italics">Q: When did the new round begin?</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>KOENIG: It started in 1973, six years after the end of the Kennedy Round. It was
+                    called the Tokyo Round. I was appointed to lead the U.S. agricultural team in
+                    these negotiations. I was, of course, flattered by this appointment. (I received
+                    at the same time the Distinguished Service Award of the U.S. Department of
+                    Agriculture.) However, I was also advised by many people not to accept this
+                    appointment because I was told that it would not only be burdensome, but also
+                    thankless, and I would be subjected to many pressures, intrigues and innuendos.
+                    Nevertheless, I accepted but only under condition that I would not only be the
+                    leader of the agricultural team in the U.S. Trade Delegation in Geneva, but also
+                    Agricultural Attach� at the U.S. Mission in Geneva. I did this because there
+                    were strong doubts as to whether Congress would authorize the Administration to
+                    enter new trade negotiations. Had these not taken place, I would have been in
+                    Geneva without an assignment.</p>
+                <p>
+                    <hi rend="italics">Q: What was the formal goal of these negotiations?</hi>
+                </p>
+                <p>KOENIG: The agricultural negotiations of the Tokyo Round were expected to deal
+                    essentially with liberalization, like any other trade negotiation, but the Tokyo
+                    Round also placed special emphasis on the interests of Developing Countries. The
+                    EEC, by then the world's largest importer of farm products and one of the
+                    world's largest exporter, found this approach unacceptable because its import
+                    regime could not be liberal by its very nature. It consisted largely of
+                    non-tariff import barriers (essentially variable levies) whose purpose it was to
+                    ensure a stable domestic price level. Liberalizing this system would have
+                    weakened it, i.e. the basic principle of the common agricultural policy, one of
+                    the center pieces of the Common Market.</p>
+                <p>
+                    <hi rend="italics">Q: How did the EEC behave in view of this dilemma?</hi>
+                </p>
+                <p>KOENIG: The EEC could not openly avow that liberalization is unacceptable. It
+                    therefore tried to interpret “liberalization” as merely meaning the absence of
+                    quantitative restrictions. It would have liked to negotiate international
+                    commodity agreements with minimum and maximum prices thus consolidating the EEC
+                    system at an international level. The EEC justified its approach by asserting
+                    that agriculture has special characteristics which call for an approach to
+                    negotiating on agricultural products that would be different from the way import
+                    barriers on non-agricultural products were being negotiated. The EEC demanded
+                    that agriculture be treated in a special Committee and separately from the
+                    negotiations about non-agricultural commodities.</p>
+                <p>The EEC delegation tried to hide the logical weakness of its position by being
+                    very aggressive intimating that the negotiations might break down if its view
+                    were not accepted.</p>
+                <p>
+                    <hi rend="italics">Q: How did we counter this attitude?</hi>
+                </p>
+                <pb facs="0019" n="Page0019"/>
+                <p>KOENIG: I realized that the EEC delegation figured that fear of an early failure
+                    of the negotiations would induce the U.S. Delegation to concede the EEC's point
+                    of view. I was not of this opinion because I knew that the EEC's industrial
+                    groups were keenly interested in keeping the negotiations alive. I retorted to
+                    the EEC with equal vigor to show them that they cannot intimidate us. However,
+                    my non-agricultural colleagues in the U.S. Delegation urged me to yield and
+                    accept at least in part the EEC position. The controversy was overcome by an
+                    agreement between the U.S. and the EEC which consisted of a compromise that was
+                    acceptable because it was meaningless. I did not ingratiate myself with the
+                    non-agricultural members of our delegation, but at least at this point they
+                    could not prevail because the instructions from Washington fully supported my
+                    view and not theirs.</p>
+                <p>
+                    <hi rend="italics">Q: What was the outcome of these divergencies?</hi>
+                </p>
+                <p>KOENIG: For all practical purposes, the EEC succeeded in having agricultural
+                    negotiations separated from the rest of the negotiations.</p>
+                <p>
+                    <hi rend="italics">Q: But these were multilateral negotiations and not only
+                        negotiations between the U.S. and the EEC.</hi>
+                </p>
+                <p>KOENIG: Apart from the EEC and the United States other countries such as Canada,
+                    Australia, New Zealand, Argentina, Brazil and Japan also played an important
+                    role in the negotiations. Most of these countries favored true liberalization
+                    and freer trade except Japan which played a rather passive role and was
+                    primarily concerned with preventing any moves that could open it to larger
+                    imports.</p>
+                <p>
+                    <hi rend="italics">Q: What was the approach of Japan?</hi>
+                </p>
+                <p>KOENIG: Japan tended to support the EEC position, that is, to negotiate
+                    international commodity agreements which would not require import
+                    liberalization. We and other delegates tried to counter their attitude. We would
+                    begin to speculate aloud whether the rice situation on the world markets would
+                    not warrant a more thorough study. The Japanese delegation got the hint and
+                    moved away from supporting the EEC.</p>
+                <p>
+                    <hi rend="italics">Q: How were the negotiations with the Japanese?</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>KOENIG: They were very frustrating. The Japanese procrastinated. In every
+                    bilateral meeting with them, in which we wanted to examine the possibility of
+                    Japanese concessions on this or that item, they tried to divert the discussion
+                    to unrelated matters. It was only at the very end of the negotiations that they
+                    were willing to consider and meet some of our requests.</p>
+                <p>
+                    <hi rend="italics">Q: How successful were the proposals for international
+                        commodity agreements?</hi>
+                </p>
+                <p>KOENIG: The EEC would have dearly liked to see an international commodity
+                    agreement for grains. They worked very hard in this direction. Other countries
+                    were not against such an agreement. However, all such attempts failed because of
+                    the staunch opposition of the United States. Yet the EEC succeeded in
+                    establishing groups which were to examine the feasibility of world agreements
+                    for beef and for dairy products.</p>
+                <p>
+                    <hi rend="italics">Q: How could the U.S. accept international commodity
+                        agreements for beef and dairy products?</hi>
+                </p>
+                <p>KOENIG: The beef agreement was purely consultative without any economic
+                    provisions. It was a goodwill gesture towards Argentina. On the other hand, the
+                    International Dairy Arrangement was, indeed, a full fledged commodity agreement.
+                    At the beginning of the negotiations for a dairy agreement, we treated such an
+                    agreement as a mere hypothesis. Later on, we agreed to it with the proviso that
+                    no measure required under this arrangement could supersede our domestic laws for
+                    dairy. Thus, we were not obliged to observe a minimum export prices, one of the
+                    key provisions of this agreement, nor could we be restrained from using export
+                    subsidies.</p>
+                <p>
+                    <hi rend="italics">Q: What was the attitude of the other members of the
+                        Delegation towards agriculture?</hi>
+                </p>
+                <p>KOENIG: We did not receive the sympathetic support of other members of the US MTN
+                    Delegation, which represented industrial and commercial interest groups. They
+                    feared that the complexities of agricultural negotiations could lead to crises
+                    and even to a complete breakdown of the negotiations. However, they were equally
+                    afraid that successful agricultural negotiations would have to be paid for by
+                    large U.S. industrial concessions, which they naturally tried to avoid. Thus the
+                    defense of U.S. farm interests against foreign and domestic interests proved to
+                    be very difficult. The leaders of the MTN Delegation were animated by the same
+                    spirit as most delegates: they wished I were not there. Yet I survived because
+                    of the support of U.S. farm groups.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>The shortsightedness of those who—to say the least—did not favor U.S. agriculture
+                    may be seen from the following examples: at least two major issues of immediate
+                    interest to U.S. agriculture were being negotiated without the participation of
+                    the U.S. agricultural delegation in the Tokyo Round: a Code concerning
+                    agricultural export subsidies and a Code for product norms and standards. As
+                    regards the former, some positive results were nevertheless obtained. As regards
+                    the latter, my requests for extending the coverage of this Code also to
+                    agriculture was obstinately rejected, apparently for petty personal reasons.
+                    Agriculture was, in fact, excluded from the Standard Code negotiations. In the
+                    following years, the defense of U.S. interests against foreign attempts to use
+                    standards and health measures as agricultural trade barriers was hampered
+                    because the Standard Code failed to adequately cover agriculture.</p>
+                <p>
+                    <hi rend="italics">Q: How would you describe the end results of the Tokyo
+                        Round?</hi>
+                </p>
+                <p>KOENIG: The results of the Tokyo Round were by and large satisfactory for U.S.
+                    agriculture. It is true, we did not obtain spectacular concessions from foreign
+                    countries, but the concessions we made were well balanced. For instance, we did
+                    not admit larger cheese imports into the U.S. than before the Tokyo Round, but
+                    those allowed to enter the U.S. were under stricter disciplines than before. We
+                    did not succeed in dismantling foreign non-tariff trade barriers such as the
+                    EEC's levy system, yet there were some substantial tariff concessions, although
+                    tariffs were increasingly of lesser importance in view of fluctuating exchange
+                    rates. The strengthening of discipline on export subsidies obtained in the Tokyo
+                    Round proved to be of no practical use later on. The EEC gained an increasing
+                    share of the world market (e.g. for wheat). Complaints in the GATT about EEC
+                    export subsidies were of no avail.</p>
+                <p>
+                    <hi rend="italics">Q: What did you do when you came back to Washington?</hi>
+                </p>
+                <p>KOENIG: I was named Deputy Assistant Administrator for International Trade, but
+                    gradually I was excluded from any work. This seemed to be according to the
+                    saying: Knowledge is dangerous. Ignorance is bliss. Finally, however, I was
+                    appointed agricultural counselor to the Embassy in Paris.</p>
+                <p>
+                    <hi rend="italics">Q: Wasn't your assignment to Paris highly satisfactory?</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>KOENIG: Indeed, it was, also for professional reasons. Throughout my career in
+                    Europe, we had to deal with the French who were the main protagonists of the
+                    common agricultural policy and who by the same token saw in America their main
+                    competitor and even adversary. At times, they accused us of wishing to destroy
+                    the common market. Before my assignment to Paris, I knew many French officials.
+                    I knew France quite well and I had participated in panel discussions with French
+                    farm leaders before many hundreds of French farmers, when I was still stationed
+                    in Brussels. When I came to Paris, the antagonism between French and American
+                    agriculture was at a comparatively low point. This was so because at that time
+                    political relations between France and America were rather friendly—without
+                    rancor which characterized them in other days. Moreover, the French Ministers of
+                    agriculture who were in office during that time endeavored to have friendly
+                    contacts with America. Rocard, who became Prime Minister later on, had other
+                    ambitions than to solve farm problems, and the same was true of his successor
+                    Nallet. Also, they were socialists and not primarily interested in supporting
+                    the farmers. Their conservative successor, Minister Guillaume, also tried to
+                    find a modus vivendi between their and our farm interests. You will perhaps
+                    remember that President Mitterrand during his visit to America insisted on
+                    visiting our Secretary Block's farm in Illinois. There also existed few major
+                    points of controversy between France and the United States at that time. This
+                    does not mean that polemics were absent. After a public discussion with
+                    representatives of the French Corn Producers Association in Aix-les- Bains, a
+                    French paper referred to me as the “able diplomatic representative of American
+                    agricultural imperialism at the embassy in Paris.” However, such public debates,
+                    of which there were many, were always conducted in a polite and civilized way. I
+                    was also invited to give a talk about American farm policy to the Agricultural
+                    Committee of the French parliament and a talk about the same topic to the
+                    Agricultural Committee of the French Senate. The members of the latter were very
+                    sharp and well informed, the former less so.</p>
+                <p>During my assignment to Paris the Uruguay Round was underway. Delegations from
+                    Washington often visited Paris in order to persuade their French counterparts
+                    that agriculture would profit from lower price support and less protection. They
+                    did not convince the French.</p>
+                <p>
+                    <hi rend="italics">Q: What happened after Paris?</hi>
+                </p>
+                <p>KOENIG: In 1987, I returned to FAS. I was not given any assignment whatsoever. I
+                    realized that they wanted me to retire. However, I stuck it out for another 3
+                    years, in order to increase my retirement annuity. In August of 1990 I
+                    retired.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

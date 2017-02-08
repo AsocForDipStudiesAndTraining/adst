@@ -1,274 +1,843 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000194">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Raymond E. Chambers </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Raymond E. Chambers </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>RAYMOND E. CHAMBERS</p>
-<p>Interviewed by:  Charles Stuart Kennedy </p>
-<p>Initial interview date:  January 12, 1995</p>
-<p>Copyright 1998 ADST</p>
-<p>[Note:  This transcript was not edited by Mr. Chambers]</p>
-<p>
-<hi rend="italics">Q:  Today is January 12, 1995.  This is an interview with Raymond E. Chambers being done on behalf of the Association for Diplomatic Studies.  Ray, could you tell me a little bit about your early background—your family, when and where you were born, etc.?</hi>
-</p>
-<p>CHAMBERS:  I was born in Baltimore and after about four years my father moved us to Detroit.</p>
-<p>
-<hi rend="italics">Q:  What was your father doing?</hi>
-</p>
-<p>CHAMBERS:  My father was in real estate and he was brought to Detroit to sell Grosse Pointe.  I was raised in Grosse Pointe.  He was brought to Detroit to sell Grosse Pointe, which he did.</p>
-<p>
-<hi rend="italics">Q:  This is where all the automobile moguls lived.</hi>
-</p>
-<p>CHAMBERS:  That's right.  He sold all the lake front properties down there in the late '20s to the Fords, the Johnsons, etc.  And Windmill Pointe also.  So he was well known for his competence in this area.  The result was that we moved out to Grosse Pointe, not on the wealthy side of the track, but in Grosse Pointe, and I was raised out there.  I lived there from the time I was about seven...actually, I went away to college and came back.  I stayed with that home address through the Second World War.</p>
-<p>
-<hi rend="italics">Q:  What year were you born?</hi>
-</p>
-<p>CHAMBERS:  I was born in 1919.</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q:  Where did you go to college?</hi>
-</p>
-<p>CHAMBERS:  University of Michigan.  I did my undergraduate and masters at Michigan.</p>
-<p>
-<hi rend="italics">Q:  Was your field linguistics?</hi>
-</p>
-<p>CHAMBERS:  No, it was subsequently, but I was one of those guys who felt that he had to do what everybody else did so I first majored in math and then decided I didn't want to be a math major.  So then I shifted over to economics because there were all sorts of friends of my family in banking and stocks, etc. so I got a major in that.  I didn't like that so I got another major in French which I loved.  That took me four and a half years and then I started my masters and then the Second World War came along.  I broke for four and a half years to go to war.</p>
-<p>
-<hi rend="italics">Q:  What did you do in the military?</hi>
-</p>
-<p>CHAMBERS:  I was in the Navy.  I was a 90-day wonder in the Navy and commissioned.  I had a very interesting experience there because I was selected to start a Navy Training Station with 14 other guys up at Cornell for midshipmen who couldn't be midshipmen, they were married.  I taught there for a year and then I went to sea.  I was on two different destroyers.  An old four stacker in the Atlantic and after that was over with appropriate training I was shifted to the Pacific.  I saw action in every theater of the war.  While we were shot at, we were never hit.</p>
-<p>
-<hi rend="italics">Q:  In the Atlantic did you...?</hi>
-</p>
-<p>CHAMBERS:  I was in the north Atlantic initially with what they called a hunter/killer group.  That was four destroyers and a converted mini carrier.  Maybe you know of these.  We were actually looking for German submarines ahead of convoys.  Then we went further up in the north Atlantic, bitter cold, and then came back down and went to another escort, this time without a carrier, to Casablanca.  Turned around and came back and then went on to resupply for Anzio and Salerno.  These old four stackers had no real anti-aircraft armaments, you know.  One night outside of Gibraltar we had 48 submarine contacts—the convoy did—and I'm sure they were often the same submarine, but nevertheless...  Then we went through to Oran and Bizerte and went up to Anzio and Salerno for resupply.  Came back and went to the Caribbean.  Traveled all through the Caribbean and the south Atlantic.  About that time we were running between Guantanamo and Trinidad and I got orders to report to Casco Bay.  It was a real rude awaking.  Here I was a junior lieutenant now and I felt the ship couldn't run without me.  I sat right on that dock and watched it pull out—they were able to get it on its way.</p>
-<pb facs="0003" n="Page0003"/>
-<p>I went up to Casco Bay and took a course in becoming a torpedo officer.  Then I was transferred to the Pacific.  The ship I was to transfer to was in San Francisco, Treasure Island.  I got there and did the very wise Navy thing.  I reported just two minutes before midnight on the day I had to report.  Unbeknownst to me the ship left the next morning at six but nobody called me because I hadn't reported in yet.  So they called me the next day to say my ship had cleared the gate that morning at six o'clock.  This didn't break my heart at all because it meant I was in San Francisco for the next two weeks over Christmas and New Year's.  Then they transferred me from one ship to another all over the Pacific and I finally caught up with my ship.  Then I saw the last five battles in the Pacific.  By this time I was a full lieutenant and was promoted to gunnery officer and navigator, etc.  Then I was promoted to executive officer of that ship.</p>
-<p>
-<hi rend="italics">Q:  Which ship was it?</hi>
-</p>
-<p>CHAMBERS:  That was the Bailey, the 492, an old 1650, whereas the first one was a 1200 ton four stacker.  We finished up the war out there and I brought the ship back and we took it around through the Panama Canal and put it up for decommission in Charleston.</p>
-<p>I left the Navy in March, 1946 and then I went back to school.  The summer before I went back to school I went to Middlebury for the first time.</p>
-<p>
-<hi rend="italics">Q:  Middlebury being the premier language school.</hi>
-</p>
-<p>CHAMBERS:  That is where I really learned to speak French.  Although I had gotten my degree in French, Middlebury was where I really learned to speak it to the point of after spending three summers working at that and working with a professor from the University of Pennsylvania, who had been at Michigan and gotten me interested in linguistics.  He said to me, “Why don't you come to Penn?” So I finished my masters at Michigan and then went to Penn in 1948 to do my doctorate.  I did all my doctorate work there ostensively in the French department, but really in acoustic phonetics.  I am what they call an ABD—all but degree.  I didn't finish my dissertation.</p>
-<pb facs="0004" n="Page0004"/>
-<p>In 1950 I applied for a Fulbright and received one to go to France.  So my wife and I went to France and spent a year there.  I came back and then decided that I didn't know how to do anything.  I am great in academia, respected and known in the acoustic linguistics field...I helped the (inaudible) in Paris which had just gotten a sound spectrum graph and I knew more about it than they did and worked with the director and deputy director installing this thing while I was there.  So I got out and got a job selling.  I joined Marchant Calculators.  Marchant calculators are the old rotary type calculators...Monroe, Friedan and Marchant were the big three.  I was working in Detroit.  In about a year my sales had been sufficient to warrant Marchant giving me the entire United States in General Motors contracts.  So I had to process and push forward all of the orders that came in in the various General Motors divisions.  I was dealing with nothing but vice presidents and general managers.  It was a marvelous thing and I made a pot full of money.</p>
-<p>But, again, I wasn't doing anything.  So I took the Foreign Service exam in 1954.  I went down for the interview and USIS got a hold of me and asked why I wasn't helping them in the binational center program.  I said, “Okay, why not?” From 1954-55 I left Marchant and opened up a New England territory for a press, Clarkson Press, but decided that was not for me.  They were friends and it was kind of too bad that I had to say “no, I can't stay.” I went to Haiti as deputy director of the binational center.</p>
-<p>
-<hi rend="italics">Q:  You were in Haiti when?</hi>
-</p>
-<p>CHAMBERS:  From August, 1955 through the end of 1957.</p>
-<p>
-<hi rend="italics">Q:  What was the situation there at that time as you saw it?</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>CHAMBERS:  It was marvelous.  A very interesting place.  The president and all of his cronies were doing just like everybody else was, taking graft and dipping into the public treasury.  But a very interesting thing was happening.  These guys were building roads and extending electricity up into the hills where they had mistresses, because they had mistresses in just about every county or province to keep tabs on what was going on.  So the graft was being fed back into the economy because of this.  Life was extremely pleasant.  I was very well received by the Haitians because it wasn't long after we got there that our landlord came to me and my wife and said to her, “Would you be willing to tutor the President's brother's children in English?” And she said, “Yeah.” So three times a week she would go up to Arsen's house and tutor the kids.  We got to know everybody in Haiti who was of any account.  The reason was that about two weeks after we got on post, we were invited to our future landlord's home to a party.  He sent a car for us.  We pulled up to the gate and there was music and people and we were the only two non-Haitians there.  The president was there and all of the cabinet.  Everybody was there and our landlord was godfather to the president's kids and vice versa.  We were welcomed and there wasn't a single party that took place afterwards to which we were not invited.  The embassy was not getting the invitations and they were mad.</p>
-<p>
-<hi rend="italics">Q:  What was the binational center doing?</hi>
-</p>
-<p>CHAMBERS:  The binational center was probably one of the best institutions that USIA ever invented.  What they did was the Public Affairs Officer got a hold of three Haitian businessmen and three American businessmen in any community and got them to say, “We want to form a binational center.” That meant USIA would provide directors and an English language instructor, director of courses, etc. to make this thing run.  So we were to be grantees.  There were about ninety of them, primarily in South America, although some were in Europe, but primarily in South America and the Far East.  Whoever was on the staff there was telling the host country nationals the same thing that the Public Affairs Officer was telling them, but they believed us.  We had access because of what we were doing...teaching English and other subjects...to all the important people in the country because they all came.</p>
-<p>
-<hi rend="italics">Q:  Did the embassy use you or not?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>CHAMBERS:  Yes, but not.  In other words they used me to get word out some times but they felt I would be interfering if they listened to me.  I was unofficial...that was interesting too.  Any official relationship we had to the embassy or USIS was taken away from us.  We had a regular passport, weren't entitled to diplomatic plates or official plates, were not given access to the commissary, etc. until the host country government asked for it.  This is the way it worked.  We were paid by a check through the US Information Agency.  We were strictly speaking civilians.  The Haitian government, in my case, sends a letter over to the embassy requesting that we be given official plates and access to the commissary, etc.—all of the things that any Foreign Service Officer would have—which they granted.  But we were not official.  When I called on the Public Affairs Officer and reported to him, I didn't do it during the daytime unless I went to his house.  In other words, there was no open official recognition of our contact.  But I would report to him what we were saying and what was being said, etc.  So in that sense USIS was using us.  But I had contacts in the Haitian community, multiple political parties, which the embassy didn't want to hear.</p>
-<p>
-<hi rend="italics">Q:  What were the main concerns of the US in Haiti during this period?</hi>
-</p>
-<p>CHAMBERS:  The main concern was building the Haitian economy.  It was economic with Point Four and USAM, the forerunner to USAID.  That was a big thing in Haiti at that time.  As far as the political aspects of it were concerned I think it was just routine reporting.  There wasn't anybody from CIA there at that time.</p>
-<p>
-<hi rend="italics">Q:  Was the problem of immigration to the United States, over population a problem?</hi>
-</p>
-<p>CHAMBERS:  Consular work was slow.  There was consular work but nothing like today.  The problem of overpopulation was an enormous problem.  There was tremendous erosion in Haiti and I feel USAM didn't take care of that properly.  The Haitians had used up all their mahogany and they brought in while we were there tens of thousands of mahogany saplings and got them planted.  But because they had no firewood or any other way of cooking, they uprooted all these saplings and made charcoal out of them.  If they had (I wasn't very popular for saying this) just simply planted the saplings and brought in charcoal for the next ten years, they would have stopped the erosion and helped them develop their own industry.  But nobody wanted to hear this.  I am not complaining, but they just didn't want to hear it because I wasn't part of their team.</p>
-<p>
-<hi rend="italics">Q:  You left there when?</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>CHAMBERS:  In 1957.  What happened was this.  A lady from FSI came down because FSI was enjoined to start and develop language training programs throughout the world, to standardize proper language training throughout the posts.  So she came down, a linguistic, and got the language training program in Haitian Creole and French going.  They said, “You are interested in linguistics” and put us together to see how I could help her.  I said that I would be glad to help her.  I even set the program up so that it could operate at the embassy or at the binational center.  She said, “What are you doing here?” I said, “Well, I am working for the binational center program and will probably go to another country when this is finished.” She said, “Don't do it.  We need you.” She went back to Washington and the next thing I knew...she said they had three positions now and we are going to have ten more next year and nobody to fill them.  This was the big push you know after the Wristonization of the Foreign Service.  We had already started the Nice language school, the German language school and the Mexico City language school.  So she said, “Come with us,” and I did it by telephone.  In those days you could do a lot.  When I called I said, “I can't pin you down to this because I understand how these things work, but if I leave one job because they are offering me stuff in South America, what is going to happen if you guys are not going to pick me up?  Can we have a non-conversation?” And they did.  They said, “Yeah, you come here and we will work it out.” So when my tour was over I resigned in November and in January I started with FSI.</p>
-<p>
-<hi rend="italics">Q:  Where did you go?</hi>
-</p>
-<p>CHAMBERS:  I went to France.  I was the first one.  I had been a student in France before.  I had my choice and I preferred Western Europe and they said, “Take it.” I had a wonderful, wonderful charter letter sent to Ambassador Houghton in Paris which in essence read, “Mr. Chambers has an enormous responsibility and we aren't sure exactly what he has to do to accomplish this responsibility, but please give him all the support you can to do what he has to do in such order as he has to do it.” It was a marvelous letter.  I had unlimited funds.  I never had to request money at all.</p>
-<p>
-<hi rend="italics">Q:  So, you went out there in ....?</hi>
-</p>
-<p>CHAMBERS:  February, 1958.</p>
-<p>
-<hi rend="italics">Q:  Where were you doing this?</hi>
-</p>
-<p>CHAMBERS:  I was based at the Nice language school.</p>
-<p>
-<hi rend="italics">Q:  Would you explain what the Nice language school was?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>CHAMBERS:  Yes, I can.  It goes back to the Wristonization era.  Eisenhower told Harry Wriston to make a study of the Foreign Service and see what has to be done.  Part of that study was...there are Civil Servants in the Department who are performing as desk officers, who never served overseas.  They have no idea what it is to be a Foreign Service Officer.  Wriston recommended that this group of people become Foreign Service officers and serve overseas.  So, when that was passed, dingdong overnight we doubled the size of the Foreign Service and we also brought down the percentage of competence in the speaking of foreign languages to a very low level.  My job was to reestablish that.  The Nice language school was designed to help that in French, the Frankfurt school in German and the Mexico City school in Spanish.</p>
-<p>Part of that program was to establish post language training programs.  So what I did was to use the Nice language school as a base of operation.  This school was a marvelous institution, yet had students for 12 weeks, 5 � days a week, 7 hours a day.....</p>
-<p>
-<hi rend="italics">Q:  We are picking up where we left off last time.</hi>
-</p>
-<p>CHAMBERS:  So, the Nice language school then, students were assigned from embassies primarily in Europe, some from North Africa, to come for 12 weeks.  They worked 7 hours a day, 5 � days a week and they were hermetically sealed in a place called the Villa Wood in Nice which had been purchased for a home for the consul but was too big for the consul to really maintain.  That institute would house 25 people in individual bedrooms, all of which were about 15 x 20 in size.  They were beautiful.  Plus work places, salons, dining space, studio space.  The students studied between four and six hours a night.  And we were extremely successful with that.  The average of each class was about 25 students and the average return on the investment as far as language competence was concerned was that of the 25 at least twenty would make S-3 regardless of what their level was when they started.  Then we had some 2+'s and some 2's.  So it was a very successful program that lasted from before I got there, I think there were two classes before I got there in 1958, to April, 1959 at which time the school was closed down and we transferred the school to Paris on a smaller degree, still doing the same thing, but as part of the post language program.  All of the language schools were closed down by 1960.  The French school came first, then...</p>
-<p>
-<hi rend="italics">Q:  Why was this?</hi>
-</p>
-<p>CHAMBERS:  Because we were reaching our goals, it could be handled back here.  There may have been some other political reasons.  Congressman Rooney didn't think we needed it, etc.</p>
-<p>
-<pb facs="0009" n="Page0009"/>
-<hi rend="italics">Q:  He was chairman of the Appropriations Subcommittee.</hi>
-</p>
-<p>CHAMBERS:  Yes, and I think that may have been a factor also.  But anyway we moved into Paris and continued it there under part of the intensive training program under the post language program.  At that time I moved to Paris.  Instead of operating out of Nice I operated out of Paris.  I traveled extensively at that time.  When I was back in Nice I would support them as a linguist for the students in class.  When I moved to Paris I did the same thing.  Part of the staff from Nice came to Paris.  I was traveling about 85 percent of the time at that point.  For five years, in fact, I traveled about 85 percent of the time.</p>
-<p>
-<hi rend="italics">Q:  What were your major concerns with the way the language was taught and the student body?</hi>
-</p>
-<p>CHAMBERS:  I am not sure what you mean by our major concerns.  What we were trying to do was two things—standardize the teaching and raise the level of the competence of those who were studying.  That meant training teachers, teaching people to administer the program and making sure that they were tested in the programs or when they came back to the States were tested.  So the major concern was to be sure that everything was operating in accordance with FSI desires as far as teaching procedures are concerned, and that is what I did.</p>
-<p>The interesting thing about this was that there were a lot of people who really didn't understand what we were trying to do.  My job was to sell DCMs and ambassadors and, of course, section chiefs, but basically the ambassador and the DCM, on the need for language training and the need to give time off from work to study language.  And I was very successful at that.  My experience in dealing with vice presidents and general managers of GM for three years fitted me perfectly to talk to ambassadors and DCMs.  I was used to talking to the top brass.  The arguments were very sound if they would listen.  And it was very successful.</p>
-<p>
-<hi rend="italics">Q:  What were the major arguments that you would use?</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>CHAMBERS:  The major argument I would use was that this was mandated by Congress and we have to do it.  But I didn't hit them over the head with a two-by-four, I tried to convince them that it was in the benefit of the post to have people who were competent at the desired level for their job.  There was no such thing as a language designated position at that time.  In order to do that, I interviewed some 700 people in Paris though not just the embassy , but UNESCO, all the “embassies.” There were five ambassadors in Paris at that time under Emery Houghton.  I interviewed all of them.  Then I set up a job requirement for the position based on what the people told me they were doing and what I found out from the people above them and below them.  I would say that this job required a 2+, this job requires a 3.  Then I tested them all and found out where they were as far as language training was concerned and then we put them in training.  We had tremendous support.  Glenn Wolf was executive director coordinating all the five “embassies's” activities.  Glenn said, “Whatever you need, we are going to do.  So if you need to have the counselor for economic affairs take French for three hours a day, we are going to do it.” It was fantastic support.  So I got the commercial officer and the consular officer, etc. and they would come and would study.  We had a really active post language program until we raised them to the level that was required for their job and then we would release them, although they could continue if they wanted an hour a day or whatever.</p>
-<p>The concern was to raise it to the level required by the job.  I did that in every embassy in Western Europe.</p>
-<p>
-<hi rend="italics">Q:  Did Americans coming into the Foreign Service just not have the language background required?</hi>
-</p>
-<p>CHAMBERS:  Especially when the conversion from Civil Service to Foreign Service, absolutely.  There was a big problem with this and a lot of them resisted it like mad.  Those who took it willingly welcomed the opportunity to study and learn.  But some of them resisted never intending to go overseas.  There was a caveat—You don't have to become a Foreign Service Officer, but if you don't you stay in this position as a Civil Servant and you will never get promoted.  So there was a little pressure to make people convert.</p>
-<p>
-<hi rend="italics">Q:  What was the state of the art of training in languages at that time?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>CHAMBERS:  We were using the audio/lingual method which had come out of the Second World War.  That was the ASTP, the Army language school which they developed and which then the linguists...there wasn't any such thing as a linguist really until after the war, they evolved during the war, at least as far as practicing linguists are concerned.  FSI got a hold of several of them and built a staff.  We had a really good staff and developed the audio/lingual method for training in language.  What that means is we didn't teach them about the language, we taught them the language.  We didn't teach them what the grammar was per se, or what they were supposed to say, we taught them to speak as people speak and not the way they are supposed to speak.  They learned the grammar, but not before they learned to speak.  They learned it by learning how to say things and then the grammar was extracted from what they had learned to say.  Now that didn't happen overnight.  It was an evolution and it was rough.  Some people were just memorizing sentences and didn't feel they could say anything because nobody was there to help them draw the paradigm of what they really had learned.  By 1958 we were drawing the paradigm for them because we had made the assumption that they were going to draw it themselves, but they were not.  So by 1958 we were in a position to say that we would draw the paradigm for you.  You are educated, you are intelligent, we will draw it for you so that you can see that the dialogues we are teaching you and the substitution drills we are teaching you are helping you to learn how to conjugate this verb.  And so that is what was happening.  By that time it had become established, but it was over a period of time.  There was a lot of resistance, and I don't blame them, claiming we were just teaching sentences and nobody was teaching them what those sentences were supposed to be teaching them.  So they would learn a bunch of sentences and they would say that this didn't help them a bit because nobody drew them together for them.</p>
-<p>
-<hi rend="italics">Q:  Around this time the “Ugly American” came out which was drawing the attention of the American public to the fact that many of their diplomats weren't speaking other languages and that the Soviet diplomats were running around playing the nose flute and speaking these esoteric languages.  Looking at that in retrospect much of it was nonsense, but that was the picture being painted.</hi>
-</p>
-<p>CHAMBERS:  That was part of what I think provoked or promoted this analysis of where we were with foreign languages.  And we were bad.  We were almost like the Brits who said, “If you don't speak English, we aren't talking to you.” But that changed in the '50s and that was part of what it was all about to get rid of the image of the ugly American.  And people in the host country were very receptive to officers who could speak to them in their language.</p>
-<p>
-<hi rend="italics">Q:  How long were you with the French side of things?</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>CHAMBERS:  I was with French, Spanish, Italian, Portuguese, Haitian Creole.  In other words I had all of Western Europe, it wasn't just French.  In some programs in London, for instance, I had six different languages I was responsible for—French, Spanish, Italian, German, Chinese and Arabic.  David Newsom was in London at that time and maintained his Arabic.  I set up the maintenance program for him.  There was a fellow who was going from the embassy once a month to Poland to talk to the Red Chinese.  I made up a program to maintain his speaking Chinese.  We had a program in Edinburgh, Glasgow and Dublin.  All of this was designed to help correct or maintain the language competence of language officers.  The old time officers in this period had an attitude, not to be ignored or denigrated, that didn't help us, which was, “Well, I learned it by myself, why should we give time to help them get it?” Once I broke that down, and that was part of my job to break down this resistance, and they could see that it would help them get their job done better at post, which was what I sold them on...not only that Congress wanted it, but that this was going to help you, especially when I made my analysis and pointed out that this guy wasn't getting it, then they started to listen.  What I had to do was take chapter and verse sometimes.  I would go to a place where they were listening in say a chamber of deputies or something like that and then I would talk to them afterwards.  I would ask, “What did you get?” “Why, I didn't get very much.” “Didn't you hear that speaker say such-and-such?” And he would say, “I really didn't catch that.” And here he is coming back as a reporting officer but didn't really get it.  Well, that was devastating.  That was really telling.  At that point you start to break it down and it broke down quite quickly after that because the word gets around that this guy is here to help us.</p>
-<p>
-<hi rend="italics">Q:  How long did you keep this up?</hi>
-</p>
-<p>CHAMBERS:  I did this for five year in Nice and then Paris.  Then I was transferred to Beirut.</p>
-<p>
-<hi rend="italics">Q:  You went out to Beirut when?</hi>
-</p>
-<p>CHAMBERS:  December, 1962.  So from February, 1958 to December, 1962 I did this.</p>
-<p>The job in Beirut was a little different.  I was not an Arabist at that time.  I had to learn Arabic.  But the job was essentially the same.  It was managerial and administrative and linguistic.  I had two other linguists who were specialists in Arabic.  The school had some real administrative problems which was why I was sent.</p>
-<p>
-<hi rend="italics">Q:  What were some of the problems?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>CHAMBERS:  The records were very good, but the dealing with the students left a lot to be desired.  And it was not structured well...it was a two year course and these guys were there 6 hours a day, 5 days a week studying Arabic and nobody was taking into consideration that they were burning out.  One of my jobs was to see what could be done about that.  Another job was that nobody was taking into consideration—and I set this up too—the instructors who were being paid for teaching didn't get a vacation either and were burning out.  How do you take an hourly employee and make sure that the hourly employee has money set aside for a vacation.  So I set up a trust fund and asked them all to contribute 6 percent of their wages every week which turned out to be no strain.  At first they thought it was going to be a strain.  But what that enabled me to do was to draw on that when we took our vacation period and I made the school regularize its vacation periods so at Christmas everybody had a week off.  When we sent students off on a field trip the instructors were paid and when we had a summer vacation they were paid.  So they were paid year around instead of suffering in between.  There were administrative problems of this nature that had never been evolved.  My job was just like it was in France, initially, go do the job and let us know what you have done.</p>
-<p>
-<hi rend="italics">Q:  Did you find that the Foreign Service people studying Arabic a different breed of cat?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>CHAMBERS:  A different breed of cat in some respects.  A great interest in the Middle East.  But what it was was that people who went to the Arabic language school in Beirut—this was right in the embassy, itself, and I was a member of the country team—said, “I intend to be an Arabist and realize all my career will be spent concerning the Middle East.  Whether I am back in the States, whether I am assigned to post, whether I am assigned to Paris, London, Germany or Moscow, all of my work will be related to Middle East affairs.” That is essentially what they were agreeing to so the result was that guys would be assigned to a post in the Arab speaking countries and then they would be assigned to London where they might be assigned to oil with regard to the Middle East, or they would be assigned to Paris and watch the Middle East from there.  So they knew that they would be Middle East hands and that's it for the next 25 years.  And that's what it was.  It isn't that way anymore today, I don't think.  That had been tempered somewhat.  But the result was that we produced some tremendous language and area people.  We produced Hume Horan.  His daughter and our son were born on the same day in the same hospital in Beirut.  Nancy and wife were good friends.  Norman Anderson was another one.  We produced a whole series of very fine linguists all at the 4 level or better.  Hume must be 4 in two or three types of Arabic.  A remarkable guy.  I don't claim credit for that.  I claim to have helped.  He would learn Arabic in a dark room with no book.  He knew Koranic, he knew dialectical Arabic and modern standard.  He was just an outstanding Arabist.  Norman Anderson, people would answer him in English because he is so fair, but his Arabic was 4.  His wife, Bonny, is a 4+ in the written language and well as the spoken language.  I graduated 30 people in the four years I was in Beirut.  Two of them resigned from the Foreign Service, one because he realized he would never become an ambassador like his dad and decided to get out.  Another person resigned for whatever reason, I have forgotten.  But every other one who graduated in those four years has become either a consul general, DCM or an ambassador.  I am very proud of these guys.  I see them all the time these days.  I had guys from the Agency, guys from USIS.  One of the guys from USIS is an ambassador today.  It is just wonderful to look back on this and see what has happened.</p>
-<p>
-<hi rend="italics">Q:  Were there any problems teaching Arabic?  Differences then from teaching French?</hi>
-</p>
-<p>CHAMBERS:  Yes, because there are building guarantees of illiteracy as far as the written language is concern.  The language doesn't lend itself to easy learning as far as writing is concerned because there are no vowels written.  If you start to speak a formal type of Arabic you have to know not only what the vowels are of the language in the middle of the word, but at the end or the prefix and you only know that by context.  Teaching people to speak colloquial Arabic is real easy, I could learn that and I did.  But the spoken form of modern standard is much more difficult.  There was nothing for the guys to tie it to.  That in itself could be an advantage, a lot of guys who are very analytical like to relate things, but there is nothing to tie it to.  So they were being put into a thing that was totally foreign to them.  What was difficult too was being in a foreign environment.  So, while it was effective as a training device to be in a foreign environment, it was very hard at first.</p>
-<pb facs="0015" n="Page0015"/>
-<p>
-<hi rend="italics">Q:  You left there in March, 1966 and then what?</hi>
-</p>
-<p>CHAMBERS:  By the way while I was there I had all of the Middle East.  I had 13 countries that I was responsible for like I had in Europe.  But there I had two other linguists working with me so I only traveled 30 percent of the time.</p>
-<p>I came back here and was made essentially associate dean of the language studies.  They didn't call it that at the time, but that is what the position is called today.  I was responsible for Washington instruction.  That was in the spring of 1966.  I really enjoyed that.</p>
-<p>
-<hi rend="italics">Q:  How long did you do that?</hi>
-</p>
-<p>CHAMBERS:  That lasted until July, 1967, at which time Cole, Collier and MacMillan, the publisher, called me up and gave me a company.  That is flattering, isn't it.  What they had was a contract with the Department of Defense to establish a language training program or school on the East Coast which would counterbalance Monterey and they wanted somebody to do it.</p>
-<p>
-<hi rend="italics">Q:  I'm a graduate of the language school at Monterey.  I took Russian in 1951.</hi>
-</p>
-<p>CHAMBERS:  Did you ever go to Oberammergau after that?</p>
-<p>
-<hi rend="italics">Q:  No.  I was part of the Air Force.  It was during the Korean War and they sent me off to Korea.</hi>
-</p>
-<p>CHAMBERS:  So, my job then was to establish in 1967 this training program.  I went with the blessing of FSI.  My boss, Jim Frith, we are the same age and were essentially at the same level...I wasn't going to become the dean of the school.  Jim was going to be around for another ten years.  So he said he thought my analysis was exactly right and he wanted me to succeed so I should go.  The Director also said go.  So I went.</p>
-<pb facs="0016" n="Page0016"/>
-<p>It was a rather interesting thing because Cole, Collier, MacMillan had this contract and had used Berlitz, which they owned, as a bidding tool with a guarantee they would not use the Berlitz method if they got the contract, but would use the audio/lingual method which you people are familiar with and would get somebody who knows what it is all about.  Well, I knew where all the bodies were buried.  I knew how to get this thing off the ground.  I didn't realize the short fuse I was under.  This was June 20, 1967 and their contract had to be operational July 10.  They had nothing.  So I was writing my own ticket.  I really had a wonderful deal financially and administratively.  I was the vice president of the corporation.  Anything I wanted I got.  And they could move very fast.</p>
-<p>We had no building.  I came back on that night, June 27th, and called Breakfield down here who owns a whole lot of buildings in Rosslyn and who I knew.  I said, “Meet me at the airport Bill.” They asked me in Cole, Collier and MacMillan, “What do you want to get this thing off the ground?” I said, “Well, I will let you know tomorrow whether I am going to take it, but in the meantime what I want is an intelligent pair of legs.” They called a guy up, and this was 5:00 in the afternoon, and said, “You are going to Washington indefinitely with Ray Chambers.”</p>
-<p>So I came down, Bill met us at the airport and took us to a building that was a shell because he was building it.  Nothing was in it.  No windows or nothing.  We walked through it and said, “Yes, we could use this.” That was diagonally across from the old FSI building down in Rosslyn.  So over the weekend of the Fourth of July, he put in the fifth and sixth floors with 156 classrooms, administrative space and language lab.  I got textbooks from the Department of Defense.  I got furniture.  I got a school building partially, but enough to accommodate the influx and also gave 35 hours of training as required by contract for 35 instructors and we opened on the tenth of July.</p>
-<p>I didn't sleep.  I was home about four hours a night.  She called me up one day and asked if I had come home last night.  I said, “Yeah, I was there.” She said, “Thank god, because somebody slept in my bed.”</p>
-<p>The school expanded so that by the following January it had gone to 1200 from 156 students.</p>
-<p>
-<hi rend="italics">Q:  These were from the Department of Defense?</hi>
-</p>
-<p>CHAMBERS:  Yes, all Defense.  There might have been a few civilians, but they would have been from Defense.  Just like Monterey.  We were using Monterey language training.  We had to establish a reproduction lab, a listening lab, and all of the accouterments that go with it.  I was running into real trouble administratively because the guy I hired turned out to be just a dud.  He drank and was not reliable.  Frank Hefner...have you ever met him, he was one armed?</p>
-<p>
-<pb facs="0017" n="Page0017"/>
-<hi rend="italics">Q:  No.</hi>
-</p>
-<p>CHAMBERS:  He was a great Foreign Service Officer, a great administrative officer.  He retired, and I hired him.  He said, “I won't take it full time Ray, but I will take it until Jerry Bushnell...” (a great administrator who as a junior officer in Paris was one of the officers who unloaded the Berlin Airlift as far as the coal was concerned.  These guys were great.  Frank had been on that team too.) He said, “Jerry is going to retire in six or eight months.” And I said, “Great.” So I hired Frank and he puts some order into this thing.  Jerry came and put real order subsequently because we were expanding so fast.  We were expanding so fast that we couldn't accommodate everything and we went over to where the Japanese Steak House is.  I had the first four floors in that building.  We settled in and ran for the next two years.</p>
-<p>I told Cole, Collier and MacMillan when I took this job that if they wanted to become sole source—they pulled everybody in from all the incidental language schools and made them all come here, which really destroyed the language training of small schools as far as the military's concern.  I told Cole, Collier and MacMillan if you want to become sole source, you have to plan to lose money for five years, at least four.  You will break even in the fourth year or maybe the fifth year, and then you will be all right.” And they said, “All right.” But things were going bad.  Their stock was going down from $40 to $8 a share.  All my options were disappearing.  Everything was going bad around that time, 1970.  So they said, “Ray, we have to break even on the next bid.” Even though we had the contract, we had to rebid every year.  I said, “You are going to lose it.” And, by golly, the guy who got it was the guy I had fired and he put it out of business in a year.  In the meantime we had lost it.  But that was okay because they owned Berlitz and were having trouble with Berlitz.  They said to me, “Why don't you come up to New York and straighten out our difficulties with Berlitz?” And I said, “All right.” So I was made a special assistant to the president of Berlitz over everybody, especially the guy who was redoing their language programs.</p>
-<pb facs="0018" n="Page0018"/>
-<p>Well, that was untenable.  I was also the industrial revolution in the guild system because all of these guys were homespun school directors.  Nice guys, but really no competence as far as linguistics were concerned.  Some schools were very good and some very lousy and I wanted to do for Berlitz what I had done for the Department, standardizing.  There was great resistance.  What they wanted me to do first was to bring to a closure five redos of the Berlitz language training materials—English, French, German, Spanish and Italian.  I said, “All right, I will do that.” And I did it in a year.  He had been working on it for five years and had a big staff.  I did what any good administrator would do and put myself firmly astride two things—finances and personnel.  Nothing could happen until I signed off on it and he had been going off in all directions.  Well, he was very unhappy about this, and was a vice president and he resigned.  I was grateful for that.  But behind my back, of course, lots of stuff was going on.  He was an old time Berlitz hand and all the people knew him, etc.  I didn't care about that, I did the job.  So at the end of two years, I really had had it with Berlitz and they had had it with me.  I had been down here for some reason and saw the director who had hired me originally at FSI, Howard Sohnberg.  Over the years we had been very friendly.  He said, “If anything ever comes up I am going to contact you because we need the expertise that you have and the informational history that you have and the experience in administration you have, etc.” I said, “Okay Sol, if something comes up let me know.” I resigned from Berlitz on a Friday with two months notice.  On the following Monday I got a telephone call from Sol saying “What are you doing?” “What are you offering?” He said, “Come down and see me.” This was in May.  I came down the next week and he said, “The White House has asked for someone from over here at FSI, but we think it should be you, to establish a training program for narcotic law enforcement officers who are going to go overseas.  They are bulls in china shops.  They don't realize the ambassador is just under the trinity and you do.  Are you available?” I said, “I'm available.” I will start on July 17.</p>
-<p>I left on July 13 up there and started on the 17th down here.  My job was to develop an international narcotics training program for DEA and the Office of Public Safety, people who were going overseas.  How you behave when you are in a mission.  So I developed a three-week training program which I ran seven times a years to train these guys not to pick up the phone and talk about classified information.  The Agency would go bananas with these guys.  I was in the station chief's office when he got a phone call and said, “I will be right there.” And obviously the guy had said something like “No, let's talk,” because he said, “No, I will be right up.” Obviously the guy didn't understand.  I was in Mexico City at the time trying to find out what to do to develop this program.  It was interagency.  I was involved with DEA, Customs, CIA, Commerce, Defense and two or three other agencies that were involved in narcotics law enforcement and problems.  I tried to build this program to accommodate the problems they were experiencing.  So I made about three trips in three months to be sure I was getting what they needed at Post as well as what they were saying here.</p>
-<pb facs="0019" n="Page0019"/>
-<p>I started my program in October, but in September President Nixon called a conference of 52 DCMs from narcotic target countries.  There were no narcotic officers at that time, but we had a big three day conference and I was on that program.  The president was there and it was very nice.  The cabinet was also there, along with my boss and his boss.  So, you make your reputation publicly this way and I was very, very positive because I got tremendous support when they heard what we were trying to do.  We ran that program from 1972-78.  I told Sol in about 1976 that we have to phase this out.  There was starting to be redundancy, they were recycling people back through.  Not that they don't need it, but you were getting the same guys who went through the same program.  So he said, “Okay, fine.  When you are ready, you let me know.” And somebody said, “You are the only guy I know who is trying to work himself out of a job.” I said, “No, there will be another one waiting.” And by golly there was.</p>
-<p>In 1978 George Springsteen was director of the institute and he wanted to start a mid-level program and they asked me if I would work with John Sprott on it.  I said, “Yes, I would.” But they made a big mistake because they tried to mix education and training and the average Foreign Service officer is all for education but as far as coming into FSI is concerned, “What are you going to teach me that I can use when I get out there to my next assignment.” So we were teaching them two things—what they could use but also what they could expect when they become DCM.  This was wrong from my point of view.  John Sprott and I talked about this, but we did it because that was what he wanted.  Well, that program bombed.  We ran it once bringing people in from overseas.  They were here for 14 weeks, I think.  They felt they had been pulled out of the loop which was affecting their promotions, etc.  So I went with that and about that time we started to institute computers overseas also.  So John had me doing this, he was now dean of the school of professional studies and Sol had moved me over to the school of professional studies.  I was no longer a section chief.</p>
-<p>When I came back they asked me whether I wanted Foreign Service or Civil Service.  I said, “I think I would like to stay in the country.” Back in 1972 I was reinstated but they said, “Do you realize what this is going to mean?  You are an old 01.” And I said, “Yeah.” They said, “The highest we can give you is a 15/10 because of the hierarchical structure here.” I said, “It doesn't matter.” So I got the salary and I got the position.  I didn't care.  I was doing what I wanted to do.</p>
-<p>I shouldn't say I was an old 01.  I was offered 01 if I wouldn't take that job with Cole, Collier and MacMillan, so essentially as far as I was concerned that was the culmination.</p>
-<pb facs="0020" n="Page0020"/>
-<p>While still involved with the narcotics program I began to take on other duties.  In 1976 I started to work on the introduction of computers into embassies.  And I started to work on developing consecutive development programs.  By 1978 I phased out this narcotics program and was full time on development of programs, executive development of programs.  I had then 11 programs from 1980-84.  I had 11 programs from first line supervisor up to ambassador as far as training was concerned for the job.  I coordinated all of this.  I didn't teach any one myself, except I did teach sections of it.  One of the sections, of course, is the thing I do today, which was speech dynamics.  At that time Dorothy Sarnoff organized a program in speech dynamics but she couldn't handle it all.  She was handling the under secretaries and the assistant secretaries.  But the guys who were going out to speak were the office directors and the deputy assistants and they were bombing.  So they said to me and Jim Bostain, “Would you guys take over the training in speech dynamics for these people and on down.” So we did.</p>
-<p>The mid-level program got wind of it.  We ran nine programs of that and were offering speech dynamics in the mid-level program and negotiating.  Senior seminar heard about it and asked to have it done for them.  So now this is no longer a collateral duty, this becomes a full time thing.  I am doing six or seven classes a year, four classes a week.  Then A-101 got it.  By that time I just moved into it and was doing an awful lot of speech training which was about a third of my job.</p>
-<p>
-<hi rend="italics">Q:  When you say speech training, what do you mean?</hi>
-</p>
-<p>CHAMBERS:  Well, there is a basic course that we give, a two day course.  In addition to that there is a four day course, which I am conducting this week as a matter of fact, on interviewing skills, handling the press, extemporaneous and impromptu speaking which are different, briefing the boss and the CODEL, conducting a demarche.  They are the four things at this level.  But in addition to that, how to run meetings, how to handle the press from the basis of difficult people, hecklers, and all sorts of things.  So, that is one thing.  I was doing that and have been doing that ever since because in 1980-84 I ran these 11 programs and did that aspect of the 11 programs personally where before the programs had speech dynamic training in it.  And Dorothy Sarnoff came down and I helped here with the senior officers and I ran these others on the side in the other programs.  In 1984 I resigned, retired from the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  But you are still back all the time.</hi>
-</p>
-<p>CHAMBERS:  That is right.  I just then did speech dynamics for all of these groups.  I gradually phased that down because I control my own in basket.  I don't do universities anymore, I don't do public concerns anymore, I don't do the Ford Foundation or the other foundations.  I don't do big business anymore.  I just don't want to.  I control my own in basket.</p>
-<pb facs="0021" n="Page0021"/>
-<p>And that is the story.</p>
-<p>
-<hi rend="italics">Q:  Well, I want to thank you very much.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>RAYMOND E. CHAMBERS</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: January 12, 1995</p>
+                <p>Copyright 1998 ADST</p>
+                <p>[Note: This transcript was not edited by Mr. Chambers]</p>
+                <p>
+                    <hi rend="italics">Q: Today is January 12, 1995. This is an interview with
+                        Raymond E. Chambers being done on behalf of the Association for Diplomatic
+                        Studies. Ray, could you tell me a little bit about your early
+                        background—your family, when and where you were born, etc.?</hi>
+                </p>
+                <p>CHAMBERS: I was born in Baltimore and after about four years my father moved us
+                    to Detroit.</p>
+                <p>
+                    <hi rend="italics">Q: What was your father doing?</hi>
+                </p>
+                <p>CHAMBERS: My father was in real estate and he was brought to Detroit to sell
+                    Grosse Pointe. I was raised in Grosse Pointe. He was brought to Detroit to sell
+                    Grosse Pointe, which he did.</p>
+                <p>
+                    <hi rend="italics">Q: This is where all the automobile moguls lived.</hi>
+                </p>
+                <p>CHAMBERS: That's right. He sold all the lake front properties down there in the
+                    late '20s to the Fords, the Johnsons, etc. And Windmill Pointe also. So he was
+                    well known for his competence in this area. The result was that we moved out to
+                    Grosse Pointe, not on the wealthy side of the track, but in Grosse Pointe, and I
+                    was raised out there. I lived there from the time I was about seven...actually,
+                    I went away to college and came back. I stayed with that home address through
+                    the Second World War.</p>
+                <p>
+                    <hi rend="italics">Q: What year were you born?</hi>
+                </p>
+                <p>CHAMBERS: I was born in 1919.</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: Where did you go to college?</hi>
+                </p>
+                <p>CHAMBERS: University of Michigan. I did my undergraduate and masters at
+                    Michigan.</p>
+                <p>
+                    <hi rend="italics">Q: Was your field linguistics?</hi>
+                </p>
+                <p>CHAMBERS: No, it was subsequently, but I was one of those guys who felt that he
+                    had to do what everybody else did so I first majored in math and then decided I
+                    didn't want to be a math major. So then I shifted over to economics because
+                    there were all sorts of friends of my family in banking and stocks, etc. so I
+                    got a major in that. I didn't like that so I got another major in French which I
+                    loved. That took me four and a half years and then I started my masters and then
+                    the Second World War came along. I broke for four and a half years to go to
+                    war.</p>
+                <p>
+                    <hi rend="italics">Q: What did you do in the military?</hi>
+                </p>
+                <p>CHAMBERS: I was in the Navy. I was a 90-day wonder in the Navy and commissioned.
+                    I had a very interesting experience there because I was selected to start a Navy
+                    Training Station with 14 other guys up at Cornell for midshipmen who couldn't be
+                    midshipmen, they were married. I taught there for a year and then I went to sea.
+                    I was on two different destroyers. An old four stacker in the Atlantic and after
+                    that was over with appropriate training I was shifted to the Pacific. I saw
+                    action in every theater of the war. While we were shot at, we were never
+                    hit.</p>
+                <p>
+                    <hi rend="italics">Q: In the Atlantic did you...?</hi>
+                </p>
+                <p>CHAMBERS: I was in the north Atlantic initially with what they called a
+                    hunter/killer group. That was four destroyers and a converted mini carrier.
+                    Maybe you know of these. We were actually looking for German submarines ahead of
+                    convoys. Then we went further up in the north Atlantic, bitter cold, and then
+                    came back down and went to another escort, this time without a carrier, to
+                    Casablanca. Turned around and came back and then went on to resupply for Anzio
+                    and Salerno. These old four stackers had no real anti-aircraft armaments, you
+                    know. One night outside of Gibraltar we had 48 submarine contacts—the convoy
+                    did—and I'm sure they were often the same submarine, but nevertheless... Then we
+                    went through to Oran and Bizerte and went up to Anzio and Salerno for resupply.
+                    Came back and went to the Caribbean. Traveled all through the Caribbean and the
+                    south Atlantic. About that time we were running between Guantanamo and Trinidad
+                    and I got orders to report to Casco Bay. It was a real rude awaking. Here I was
+                    a junior lieutenant now and I felt the ship couldn't run without me. I sat right
+                    on that dock and watched it pull out—they were able to get it on its way.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>I went up to Casco Bay and took a course in becoming a torpedo officer. Then I
+                    was transferred to the Pacific. The ship I was to transfer to was in San
+                    Francisco, Treasure Island. I got there and did the very wise Navy thing. I
+                    reported just two minutes before midnight on the day I had to report.
+                    Unbeknownst to me the ship left the next morning at six but nobody called me
+                    because I hadn't reported in yet. So they called me the next day to say my ship
+                    had cleared the gate that morning at six o'clock. This didn't break my heart at
+                    all because it meant I was in San Francisco for the next two weeks over
+                    Christmas and New Year's. Then they transferred me from one ship to another all
+                    over the Pacific and I finally caught up with my ship. Then I saw the last five
+                    battles in the Pacific. By this time I was a full lieutenant and was promoted to
+                    gunnery officer and navigator, etc. Then I was promoted to executive officer of
+                    that ship.</p>
+                <p>
+                    <hi rend="italics">Q: Which ship was it?</hi>
+                </p>
+                <p>CHAMBERS: That was the Bailey, the 492, an old 1650, whereas the first one was a
+                    1200 ton four stacker. We finished up the war out there and I brought the ship
+                    back and we took it around through the Panama Canal and put it up for
+                    decommission in Charleston.</p>
+                <p>I left the Navy in March, 1946 and then I went back to school. The summer before
+                    I went back to school I went to Middlebury for the first time.</p>
+                <p>
+                    <hi rend="italics">Q: Middlebury being the premier language school.</hi>
+                </p>
+                <p>CHAMBERS: That is where I really learned to speak French. Although I had gotten
+                    my degree in French, Middlebury was where I really learned to speak it to the
+                    point of after spending three summers working at that and working with a
+                    professor from the University of Pennsylvania, who had been at Michigan and
+                    gotten me interested in linguistics. He said to me, “Why don't you come to
+                    Penn?” So I finished my masters at Michigan and then went to Penn in 1948 to do
+                    my doctorate. I did all my doctorate work there ostensively in the French
+                    department, but really in acoustic phonetics. I am what they call an ABD—all but
+                    degree. I didn't finish my dissertation.</p>
+                <pb facs="0004" n="Page0004"/>
+                <p>In 1950 I applied for a Fulbright and received one to go to France. So my wife
+                    and I went to France and spent a year there. I came back and then decided that I
+                    didn't know how to do anything. I am great in academia, respected and known in
+                    the acoustic linguistics field...I helped the (inaudible) in Paris which had
+                    just gotten a sound spectrum graph and I knew more about it than they did and
+                    worked with the director and deputy director installing this thing while I was
+                    there. So I got out and got a job selling. I joined Marchant Calculators.
+                    Marchant calculators are the old rotary type calculators...Monroe, Friedan and
+                    Marchant were the big three. I was working in Detroit. In about a year my sales
+                    had been sufficient to warrant Marchant giving me the entire United States in
+                    General Motors contracts. So I had to process and push forward all of the orders
+                    that came in in the various General Motors divisions. I was dealing with nothing
+                    but vice presidents and general managers. It was a marvelous thing and I made a
+                    pot full of money.</p>
+                <p>But, again, I wasn't doing anything. So I took the Foreign Service exam in 1954.
+                    I went down for the interview and USIS got a hold of me and asked why I wasn't
+                    helping them in the binational center program. I said, “Okay, why not?” From
+                    1954-55 I left Marchant and opened up a New England territory for a press,
+                    Clarkson Press, but decided that was not for me. They were friends and it was
+                    kind of too bad that I had to say “no, I can't stay.” I went to Haiti as deputy
+                    director of the binational center.</p>
+                <p>
+                    <hi rend="italics">Q: You were in Haiti when?</hi>
+                </p>
+                <p>CHAMBERS: From August, 1955 through the end of 1957.</p>
+                <p>
+                    <hi rend="italics">Q: What was the situation there at that time as you saw
+                        it?</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>CHAMBERS: It was marvelous. A very interesting place. The president and all of
+                    his cronies were doing just like everybody else was, taking graft and dipping
+                    into the public treasury. But a very interesting thing was happening. These guys
+                    were building roads and extending electricity up into the hills where they had
+                    mistresses, because they had mistresses in just about every county or province
+                    to keep tabs on what was going on. So the graft was being fed back into the
+                    economy because of this. Life was extremely pleasant. I was very well received
+                    by the Haitians because it wasn't long after we got there that our landlord came
+                    to me and my wife and said to her, “Would you be willing to tutor the
+                    President's brother's children in English?” And she said, “Yeah.” So three times
+                    a week she would go up to Arsen's house and tutor the kids. We got to know
+                    everybody in Haiti who was of any account. The reason was that about two weeks
+                    after we got on post, we were invited to our future landlord's home to a party.
+                    He sent a car for us. We pulled up to the gate and there was music and people
+                    and we were the only two non-Haitians there. The president was there and all of
+                    the cabinet. Everybody was there and our landlord was godfather to the
+                    president's kids and vice versa. We were welcomed and there wasn't a single
+                    party that took place afterwards to which we were not invited. The embassy was
+                    not getting the invitations and they were mad.</p>
+                <p>
+                    <hi rend="italics">Q: What was the binational center doing?</hi>
+                </p>
+                <p>CHAMBERS: The binational center was probably one of the best institutions that
+                    USIA ever invented. What they did was the Public Affairs Officer got a hold of
+                    three Haitian businessmen and three American businessmen in any community and
+                    got them to say, “We want to form a binational center.” That meant USIA would
+                    provide directors and an English language instructor, director of courses, etc.
+                    to make this thing run. So we were to be grantees. There were about ninety of
+                    them, primarily in South America, although some were in Europe, but primarily in
+                    South America and the Far East. Whoever was on the staff there was telling the
+                    host country nationals the same thing that the Public Affairs Officer was
+                    telling them, but they believed us. We had access because of what we were
+                    doing...teaching English and other subjects...to all the important people in the
+                    country because they all came.</p>
+                <p>
+                    <hi rend="italics">Q: Did the embassy use you or not?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>CHAMBERS: Yes, but not. In other words they used me to get word out some times
+                    but they felt I would be interfering if they listened to me. I was
+                    unofficial...that was interesting too. Any official relationship we had to the
+                    embassy or USIS was taken away from us. We had a regular passport, weren't
+                    entitled to diplomatic plates or official plates, were not given access to the
+                    commissary, etc. until the host country government asked for it. This is the way
+                    it worked. We were paid by a check through the US Information Agency. We were
+                    strictly speaking civilians. The Haitian government, in my case, sends a letter
+                    over to the embassy requesting that we be given official plates and access to
+                    the commissary, etc.—all of the things that any Foreign Service Officer would
+                    have—which they granted. But we were not official. When I called on the Public
+                    Affairs Officer and reported to him, I didn't do it during the daytime unless I
+                    went to his house. In other words, there was no open official recognition of our
+                    contact. But I would report to him what we were saying and what was being said,
+                    etc. So in that sense USIS was using us. But I had contacts in the Haitian
+                    community, multiple political parties, which the embassy didn't want to
+                    hear.</p>
+                <p>
+                    <hi rend="italics">Q: What were the main concerns of the US in Haiti during this
+                        period?</hi>
+                </p>
+                <p>CHAMBERS: The main concern was building the Haitian economy. It was economic with
+                    Point Four and USAM, the forerunner to USAID. That was a big thing in Haiti at
+                    that time. As far as the political aspects of it were concerned I think it was
+                    just routine reporting. There wasn't anybody from CIA there at that time.</p>
+                <p>
+                    <hi rend="italics">Q: Was the problem of immigration to the United States, over
+                        population a problem?</hi>
+                </p>
+                <p>CHAMBERS: Consular work was slow. There was consular work but nothing like today.
+                    The problem of overpopulation was an enormous problem. There was tremendous
+                    erosion in Haiti and I feel USAM didn't take care of that properly. The Haitians
+                    had used up all their mahogany and they brought in while we were there tens of
+                    thousands of mahogany saplings and got them planted. But because they had no
+                    firewood or any other way of cooking, they uprooted all these saplings and made
+                    charcoal out of them. If they had (I wasn't very popular for saying this) just
+                    simply planted the saplings and brought in charcoal for the next ten years, they
+                    would have stopped the erosion and helped them develop their own industry. But
+                    nobody wanted to hear this. I am not complaining, but they just didn't want to
+                    hear it because I wasn't part of their team.</p>
+                <p>
+                    <hi rend="italics">Q: You left there when?</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>CHAMBERS: In 1957. What happened was this. A lady from FSI came down because FSI
+                    was enjoined to start and develop language training programs throughout the
+                    world, to standardize proper language training throughout the posts. So she came
+                    down, a linguistic, and got the language training program in Haitian Creole and
+                    French going. They said, “You are interested in linguistics” and put us together
+                    to see how I could help her. I said that I would be glad to help her. I even set
+                    the program up so that it could operate at the embassy or at the binational
+                    center. She said, “What are you doing here?” I said, “Well, I am working for the
+                    binational center program and will probably go to another country when this is
+                    finished.” She said, “Don't do it. We need you.” She went back to Washington and
+                    the next thing I knew...she said they had three positions now and we are going
+                    to have ten more next year and nobody to fill them. This was the big push you
+                    know after the Wristonization of the Foreign Service. We had already started the
+                    Nice language school, the German language school and the Mexico City language
+                    school. So she said, “Come with us,” and I did it by telephone. In those days
+                    you could do a lot. When I called I said, “I can't pin you down to this because
+                    I understand how these things work, but if I leave one job because they are
+                    offering me stuff in South America, what is going to happen if you guys are not
+                    going to pick me up? Can we have a non-conversation?” And they did. They said,
+                    “Yeah, you come here and we will work it out.” So when my tour was over I
+                    resigned in November and in January I started with FSI.</p>
+                <p>
+                    <hi rend="italics">Q: Where did you go?</hi>
+                </p>
+                <p>CHAMBERS: I went to France. I was the first one. I had been a student in France
+                    before. I had my choice and I preferred Western Europe and they said, “Take it.”
+                    I had a wonderful, wonderful charter letter sent to Ambassador Houghton in Paris
+                    which in essence read, “Mr. Chambers has an enormous responsibility and we
+                    aren't sure exactly what he has to do to accomplish this responsibility, but
+                    please give him all the support you can to do what he has to do in such order as
+                    he has to do it.” It was a marvelous letter. I had unlimited funds. I never had
+                    to request money at all.</p>
+                <p>
+                    <hi rend="italics">Q: So, you went out there in ....?</hi>
+                </p>
+                <p>CHAMBERS: February, 1958.</p>
+                <p>
+                    <hi rend="italics">Q: Where were you doing this?</hi>
+                </p>
+                <p>CHAMBERS: I was based at the Nice language school.</p>
+                <p>
+                    <hi rend="italics">Q: Would you explain what the Nice language school was?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>CHAMBERS: Yes, I can. It goes back to the Wristonization era. Eisenhower told
+                    Harry Wriston to make a study of the Foreign Service and see what has to be
+                    done. Part of that study was...there are Civil Servants in the Department who
+                    are performing as desk officers, who never served overseas. They have no idea
+                    what it is to be a Foreign Service Officer. Wriston recommended that this group
+                    of people become Foreign Service officers and serve overseas. So, when that was
+                    passed, dingdong overnight we doubled the size of the Foreign Service and we
+                    also brought down the percentage of competence in the speaking of foreign
+                    languages to a very low level. My job was to reestablish that. The Nice language
+                    school was designed to help that in French, the Frankfurt school in German and
+                    the Mexico City school in Spanish.</p>
+                <p>Part of that program was to establish post language training programs. So what I
+                    did was to use the Nice language school as a base of operation. This school was
+                    a marvelous institution, yet had students for 12 weeks, 5 � days a week, 7 hours
+                    a day.....</p>
+                <p>
+                    <hi rend="italics">Q: We are picking up where we left off last time.</hi>
+                </p>
+                <p>CHAMBERS: So, the Nice language school then, students were assigned from
+                    embassies primarily in Europe, some from North Africa, to come for 12 weeks.
+                    They worked 7 hours a day, 5 � days a week and they were hermetically sealed in
+                    a place called the Villa Wood in Nice which had been purchased for a home for
+                    the consul but was too big for the consul to really maintain. That institute
+                    would house 25 people in individual bedrooms, all of which were about 15 x 20 in
+                    size. They were beautiful. Plus work places, salons, dining space, studio space.
+                    The students studied between four and six hours a night. And we were extremely
+                    successful with that. The average of each class was about 25 students and the
+                    average return on the investment as far as language competence was concerned was
+                    that of the 25 at least twenty would make S-3 regardless of what their level was
+                    when they started. Then we had some 2+'s and some 2's. So it was a very
+                    successful program that lasted from before I got there, I think there were two
+                    classes before I got there in 1958, to April, 1959 at which time the school was
+                    closed down and we transferred the school to Paris on a smaller degree, still
+                    doing the same thing, but as part of the post language program. All of the
+                    language schools were closed down by 1960. The French school came first,
+                    then...</p>
+                <p>
+                    <hi rend="italics">Q: Why was this?</hi>
+                </p>
+                <p>CHAMBERS: Because we were reaching our goals, it could be handled back here.
+                    There may have been some other political reasons. Congressman Rooney didn't
+                    think we needed it, etc.</p>
+                <p>
+                    <pb facs="0009" n="Page0009"/>
+                    <hi rend="italics">Q: He was chairman of the Appropriations Subcommittee.</hi>
+                </p>
+                <p>CHAMBERS: Yes, and I think that may have been a factor also. But anyway we moved
+                    into Paris and continued it there under part of the intensive training program
+                    under the post language program. At that time I moved to Paris. Instead of
+                    operating out of Nice I operated out of Paris. I traveled extensively at that
+                    time. When I was back in Nice I would support them as a linguist for the
+                    students in class. When I moved to Paris I did the same thing. Part of the staff
+                    from Nice came to Paris. I was traveling about 85 percent of the time at that
+                    point. For five years, in fact, I traveled about 85 percent of the time.</p>
+                <p>
+                    <hi rend="italics">Q: What were your major concerns with the way the language
+                        was taught and the student body?</hi>
+                </p>
+                <p>CHAMBERS: I am not sure what you mean by our major concerns. What we were trying
+                    to do was two things—standardize the teaching and raise the level of the
+                    competence of those who were studying. That meant training teachers, teaching
+                    people to administer the program and making sure that they were tested in the
+                    programs or when they came back to the States were tested. So the major concern
+                    was to be sure that everything was operating in accordance with FSI desires as
+                    far as teaching procedures are concerned, and that is what I did.</p>
+                <p>The interesting thing about this was that there were a lot of people who really
+                    didn't understand what we were trying to do. My job was to sell DCMs and
+                    ambassadors and, of course, section chiefs, but basically the ambassador and the
+                    DCM, on the need for language training and the need to give time off from work
+                    to study language. And I was very successful at that. My experience in dealing
+                    with vice presidents and general managers of GM for three years fitted me
+                    perfectly to talk to ambassadors and DCMs. I was used to talking to the top
+                    brass. The arguments were very sound if they would listen. And it was very
+                    successful.</p>
+                <p>
+                    <hi rend="italics">Q: What were the major arguments that you would use?</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>CHAMBERS: The major argument I would use was that this was mandated by Congress
+                    and we have to do it. But I didn't hit them over the head with a two-by-four, I
+                    tried to convince them that it was in the benefit of the post to have people who
+                    were competent at the desired level for their job. There was no such thing as a
+                    language designated position at that time. In order to do that, I interviewed
+                    some 700 people in Paris though not just the embassy , but UNESCO, all the
+                    “embassies.” There were five ambassadors in Paris at that time under Emery
+                    Houghton. I interviewed all of them. Then I set up a job requirement for the
+                    position based on what the people told me they were doing and what I found out
+                    from the people above them and below them. I would say that this job required a
+                    2+, this job requires a 3. Then I tested them all and found out where they were
+                    as far as language training was concerned and then we put them in training. We
+                    had tremendous support. Glenn Wolf was executive director coordinating all the
+                    five “embassies's” activities. Glenn said, “Whatever you need, we are going to
+                    do. So if you need to have the counselor for economic affairs take French for
+                    three hours a day, we are going to do it.” It was fantastic support. So I got
+                    the commercial officer and the consular officer, etc. and they would come and
+                    would study. We had a really active post language program until we raised them
+                    to the level that was required for their job and then we would release them,
+                    although they could continue if they wanted an hour a day or whatever.</p>
+                <p>The concern was to raise it to the level required by the job. I did that in every
+                    embassy in Western Europe.</p>
+                <p>
+                    <hi rend="italics">Q: Did Americans coming into the Foreign Service just not
+                        have the language background required?</hi>
+                </p>
+                <p>CHAMBERS: Especially when the conversion from Civil Service to Foreign Service,
+                    absolutely. There was a big problem with this and a lot of them resisted it like
+                    mad. Those who took it willingly welcomed the opportunity to study and learn.
+                    But some of them resisted never intending to go overseas. There was a caveat—You
+                    don't have to become a Foreign Service Officer, but if you don't you stay in
+                    this position as a Civil Servant and you will never get promoted. So there was a
+                    little pressure to make people convert.</p>
+                <p>
+                    <hi rend="italics">Q: What was the state of the art of training in languages at
+                        that time?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>CHAMBERS: We were using the audio/lingual method which had come out of the Second
+                    World War. That was the ASTP, the Army language school which they developed and
+                    which then the linguists...there wasn't any such thing as a linguist really
+                    until after the war, they evolved during the war, at least as far as practicing
+                    linguists are concerned. FSI got a hold of several of them and built a staff. We
+                    had a really good staff and developed the audio/lingual method for training in
+                    language. What that means is we didn't teach them about the language, we taught
+                    them the language. We didn't teach them what the grammar was per se, or what
+                    they were supposed to say, we taught them to speak as people speak and not the
+                    way they are supposed to speak. They learned the grammar, but not before they
+                    learned to speak. They learned it by learning how to say things and then the
+                    grammar was extracted from what they had learned to say. Now that didn't happen
+                    overnight. It was an evolution and it was rough. Some people were just
+                    memorizing sentences and didn't feel they could say anything because nobody was
+                    there to help them draw the paradigm of what they really had learned. By 1958 we
+                    were drawing the paradigm for them because we had made the assumption that they
+                    were going to draw it themselves, but they were not. So by 1958 we were in a
+                    position to say that we would draw the paradigm for you. You are educated, you
+                    are intelligent, we will draw it for you so that you can see that the dialogues
+                    we are teaching you and the substitution drills we are teaching you are helping
+                    you to learn how to conjugate this verb. And so that is what was happening. By
+                    that time it had become established, but it was over a period of time. There was
+                    a lot of resistance, and I don't blame them, claiming we were just teaching
+                    sentences and nobody was teaching them what those sentences were supposed to be
+                    teaching them. So they would learn a bunch of sentences and they would say that
+                    this didn't help them a bit because nobody drew them together for them.</p>
+                <p>
+                    <hi rend="italics">Q: Around this time the “Ugly American” came out which was
+                        drawing the attention of the American public to the fact that many of their
+                        diplomats weren't speaking other languages and that the Soviet diplomats
+                        were running around playing the nose flute and speaking these esoteric
+                        languages. Looking at that in retrospect much of it was nonsense, but that
+                        was the picture being painted.</hi>
+                </p>
+                <p>CHAMBERS: That was part of what I think provoked or promoted this analysis of
+                    where we were with foreign languages. And we were bad. We were almost like the
+                    Brits who said, “If you don't speak English, we aren't talking to you.” But that
+                    changed in the '50s and that was part of what it was all about to get rid of the
+                    image of the ugly American. And people in the host country were very receptive
+                    to officers who could speak to them in their language.</p>
+                <p>
+                    <hi rend="italics">Q: How long were you with the French side of things?</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>CHAMBERS: I was with French, Spanish, Italian, Portuguese, Haitian Creole. In
+                    other words I had all of Western Europe, it wasn't just French. In some programs
+                    in London, for instance, I had six different languages I was responsible
+                    for—French, Spanish, Italian, German, Chinese and Arabic. David Newsom was in
+                    London at that time and maintained his Arabic. I set up the maintenance program
+                    for him. There was a fellow who was going from the embassy once a month to
+                    Poland to talk to the Red Chinese. I made up a program to maintain his speaking
+                    Chinese. We had a program in Edinburgh, Glasgow and Dublin. All of this was
+                    designed to help correct or maintain the language competence of language
+                    officers. The old time officers in this period had an attitude, not to be
+                    ignored or denigrated, that didn't help us, which was, “Well, I learned it by
+                    myself, why should we give time to help them get it?” Once I broke that down,
+                    and that was part of my job to break down this resistance, and they could see
+                    that it would help them get their job done better at post, which was what I sold
+                    them on...not only that Congress wanted it, but that this was going to help you,
+                    especially when I made my analysis and pointed out that this guy wasn't getting
+                    it, then they started to listen. What I had to do was take chapter and verse
+                    sometimes. I would go to a place where they were listening in say a chamber of
+                    deputies or something like that and then I would talk to them afterwards. I
+                    would ask, “What did you get?” “Why, I didn't get very much.” “Didn't you hear
+                    that speaker say such-and-such?” And he would say, “I really didn't catch that.”
+                    And here he is coming back as a reporting officer but didn't really get it.
+                    Well, that was devastating. That was really telling. At that point you start to
+                    break it down and it broke down quite quickly after that because the word gets
+                    around that this guy is here to help us.</p>
+                <p>
+                    <hi rend="italics">Q: How long did you keep this up?</hi>
+                </p>
+                <p>CHAMBERS: I did this for five year in Nice and then Paris. Then I was transferred
+                    to Beirut.</p>
+                <p>
+                    <hi rend="italics">Q: You went out to Beirut when?</hi>
+                </p>
+                <p>CHAMBERS: December, 1962. So from February, 1958 to December, 1962 I did
+                    this.</p>
+                <p>The job in Beirut was a little different. I was not an Arabist at that time. I
+                    had to learn Arabic. But the job was essentially the same. It was managerial and
+                    administrative and linguistic. I had two other linguists who were specialists in
+                    Arabic. The school had some real administrative problems which was why I was
+                    sent.</p>
+                <p>
+                    <hi rend="italics">Q: What were some of the problems?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>CHAMBERS: The records were very good, but the dealing with the students left a
+                    lot to be desired. And it was not structured well...it was a two year course and
+                    these guys were there 6 hours a day, 5 days a week studying Arabic and nobody
+                    was taking into consideration that they were burning out. One of my jobs was to
+                    see what could be done about that. Another job was that nobody was taking into
+                    consideration—and I set this up too—the instructors who were being paid for
+                    teaching didn't get a vacation either and were burning out. How do you take an
+                    hourly employee and make sure that the hourly employee has money set aside for a
+                    vacation. So I set up a trust fund and asked them all to contribute 6 percent of
+                    their wages every week which turned out to be no strain. At first they thought
+                    it was going to be a strain. But what that enabled me to do was to draw on that
+                    when we took our vacation period and I made the school regularize its vacation
+                    periods so at Christmas everybody had a week off. When we sent students off on a
+                    field trip the instructors were paid and when we had a summer vacation they were
+                    paid. So they were paid year around instead of suffering in between. There were
+                    administrative problems of this nature that had never been evolved. My job was
+                    just like it was in France, initially, go do the job and let us know what you
+                    have done.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find that the Foreign Service people studying
+                        Arabic a different breed of cat?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>CHAMBERS: A different breed of cat in some respects. A great interest in the
+                    Middle East. But what it was was that people who went to the Arabic language
+                    school in Beirut—this was right in the embassy, itself, and I was a member of
+                    the country team—said, “I intend to be an Arabist and realize all my career will
+                    be spent concerning the Middle East. Whether I am back in the States, whether I
+                    am assigned to post, whether I am assigned to Paris, London, Germany or Moscow,
+                    all of my work will be related to Middle East affairs.” That is essentially what
+                    they were agreeing to so the result was that guys would be assigned to a post in
+                    the Arab speaking countries and then they would be assigned to London where they
+                    might be assigned to oil with regard to the Middle East, or they would be
+                    assigned to Paris and watch the Middle East from there. So they knew that they
+                    would be Middle East hands and that's it for the next 25 years. And that's what
+                    it was. It isn't that way anymore today, I don't think. That had been tempered
+                    somewhat. But the result was that we produced some tremendous language and area
+                    people. We produced Hume Horan. His daughter and our son were born on the same
+                    day in the same hospital in Beirut. Nancy and wife were good friends. Norman
+                    Anderson was another one. We produced a whole series of very fine linguists all
+                    at the 4 level or better. Hume must be 4 in two or three types of Arabic. A
+                    remarkable guy. I don't claim credit for that. I claim to have helped. He would
+                    learn Arabic in a dark room with no book. He knew Koranic, he knew dialectical
+                    Arabic and modern standard. He was just an outstanding Arabist. Norman Anderson,
+                    people would answer him in English because he is so fair, but his Arabic was 4.
+                    His wife, Bonny, is a 4+ in the written language and well as the spoken
+                    language. I graduated 30 people in the four years I was in Beirut. Two of them
+                    resigned from the Foreign Service, one because he realized he would never become
+                    an ambassador like his dad and decided to get out. Another person resigned for
+                    whatever reason, I have forgotten. But every other one who graduated in those
+                    four years has become either a consul general, DCM or an ambassador. I am very
+                    proud of these guys. I see them all the time these days. I had guys from the
+                    Agency, guys from USIS. One of the guys from USIS is an ambassador today. It is
+                    just wonderful to look back on this and see what has happened.</p>
+                <p>
+                    <hi rend="italics">Q: Were there any problems teaching Arabic? Differences then
+                        from teaching French?</hi>
+                </p>
+                <p>CHAMBERS: Yes, because there are building guarantees of illiteracy as far as the
+                    written language is concern. The language doesn't lend itself to easy learning
+                    as far as writing is concerned because there are no vowels written. If you start
+                    to speak a formal type of Arabic you have to know not only what the vowels are
+                    of the language in the middle of the word, but at the end or the prefix and you
+                    only know that by context. Teaching people to speak colloquial Arabic is real
+                    easy, I could learn that and I did. But the spoken form of modern standard is
+                    much more difficult. There was nothing for the guys to tie it to. That in itself
+                    could be an advantage, a lot of guys who are very analytical like to relate
+                    things, but there is nothing to tie it to. So they were being put into a thing
+                    that was totally foreign to them. What was difficult too was being in a foreign
+                    environment. So, while it was effective as a training device to be in a foreign
+                    environment, it was very hard at first.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>
+                    <hi rend="italics">Q: You left there in March, 1966 and then what?</hi>
+                </p>
+                <p>CHAMBERS: By the way while I was there I had all of the Middle East. I had 13
+                    countries that I was responsible for like I had in Europe. But there I had two
+                    other linguists working with me so I only traveled 30 percent of the time.</p>
+                <p>I came back here and was made essentially associate dean of the language studies.
+                    They didn't call it that at the time, but that is what the position is called
+                    today. I was responsible for Washington instruction. That was in the spring of
+                    1966. I really enjoyed that.</p>
+                <p>
+                    <hi rend="italics">Q: How long did you do that?</hi>
+                </p>
+                <p>CHAMBERS: That lasted until July, 1967, at which time Cole, Collier and
+                    MacMillan, the publisher, called me up and gave me a company. That is
+                    flattering, isn't it. What they had was a contract with the Department of
+                    Defense to establish a language training program or school on the East Coast
+                    which would counterbalance Monterey and they wanted somebody to do it.</p>
+                <p>
+                    <hi rend="italics">Q: I'm a graduate of the language school at Monterey. I took
+                        Russian in 1951.</hi>
+                </p>
+                <p>CHAMBERS: Did you ever go to Oberammergau after that?</p>
+                <p>
+                    <hi rend="italics">Q: No. I was part of the Air Force. It was during the Korean
+                        War and they sent me off to Korea.</hi>
+                </p>
+                <p>CHAMBERS: So, my job then was to establish in 1967 this training program. I went
+                    with the blessing of FSI. My boss, Jim Frith, we are the same age and were
+                    essentially at the same level...I wasn't going to become the dean of the school.
+                    Jim was going to be around for another ten years. So he said he thought my
+                    analysis was exactly right and he wanted me to succeed so I should go. The
+                    Director also said go. So I went.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>It was a rather interesting thing because Cole, Collier, MacMillan had this
+                    contract and had used Berlitz, which they owned, as a bidding tool with a
+                    guarantee they would not use the Berlitz method if they got the contract, but
+                    would use the audio/lingual method which you people are familiar with and would
+                    get somebody who knows what it is all about. Well, I knew where all the bodies
+                    were buried. I knew how to get this thing off the ground. I didn't realize the
+                    short fuse I was under. This was June 20, 1967 and their contract had to be
+                    operational July 10. They had nothing. So I was writing my own ticket. I really
+                    had a wonderful deal financially and administratively. I was the vice president
+                    of the corporation. Anything I wanted I got. And they could move very fast.</p>
+                <p>We had no building. I came back on that night, June 27th, and called Breakfield
+                    down here who owns a whole lot of buildings in Rosslyn and who I knew. I said,
+                    “Meet me at the airport Bill.” They asked me in Cole, Collier and MacMillan,
+                    “What do you want to get this thing off the ground?” I said, “Well, I will let
+                    you know tomorrow whether I am going to take it, but in the meantime what I want
+                    is an intelligent pair of legs.” They called a guy up, and this was 5:00 in the
+                    afternoon, and said, “You are going to Washington indefinitely with Ray
+                    Chambers.”</p>
+                <p>So I came down, Bill met us at the airport and took us to a building that was a
+                    shell because he was building it. Nothing was in it. No windows or nothing. We
+                    walked through it and said, “Yes, we could use this.” That was diagonally across
+                    from the old FSI building down in Rosslyn. So over the weekend of the Fourth of
+                    July, he put in the fifth and sixth floors with 156 classrooms, administrative
+                    space and language lab. I got textbooks from the Department of Defense. I got
+                    furniture. I got a school building partially, but enough to accommodate the
+                    influx and also gave 35 hours of training as required by contract for 35
+                    instructors and we opened on the tenth of July.</p>
+                <p>I didn't sleep. I was home about four hours a night. She called me up one day and
+                    asked if I had come home last night. I said, “Yeah, I was there.” She said,
+                    “Thank god, because somebody slept in my bed.”</p>
+                <p>The school expanded so that by the following January it had gone to 1200 from 156
+                    students.</p>
+                <p>
+                    <hi rend="italics">Q: These were from the Department of Defense?</hi>
+                </p>
+                <p>CHAMBERS: Yes, all Defense. There might have been a few civilians, but they would
+                    have been from Defense. Just like Monterey. We were using Monterey language
+                    training. We had to establish a reproduction lab, a listening lab, and all of
+                    the accouterments that go with it. I was running into real trouble
+                    administratively because the guy I hired turned out to be just a dud. He drank
+                    and was not reliable. Frank Hefner...have you ever met him, he was one
+                    armed?</p>
+                <p>
+                    <pb facs="0017" n="Page0017"/>
+                    <hi rend="italics">Q: No.</hi>
+                </p>
+                <p>CHAMBERS: He was a great Foreign Service Officer, a great administrative officer.
+                    He retired, and I hired him. He said, “I won't take it full time Ray, but I will
+                    take it until Jerry Bushnell...” (a great administrator who as a junior officer
+                    in Paris was one of the officers who unloaded the Berlin Airlift as far as the
+                    coal was concerned. These guys were great. Frank had been on that team too.) He
+                    said, “Jerry is going to retire in six or eight months.” And I said, “Great.” So
+                    I hired Frank and he puts some order into this thing. Jerry came and put real
+                    order subsequently because we were expanding so fast. We were expanding so fast
+                    that we couldn't accommodate everything and we went over to where the Japanese
+                    Steak House is. I had the first four floors in that building. We settled in and
+                    ran for the next two years.</p>
+                <p>I told Cole, Collier and MacMillan when I took this job that if they wanted to
+                    become sole source—they pulled everybody in from all the incidental language
+                    schools and made them all come here, which really destroyed the language
+                    training of small schools as far as the military's concern. I told Cole, Collier
+                    and MacMillan if you want to become sole source, you have to plan to lose money
+                    for five years, at least four. You will break even in the fourth year or maybe
+                    the fifth year, and then you will be all right.” And they said, “All right.” But
+                    things were going bad. Their stock was going down from $40 to $8 a share. All my
+                    options were disappearing. Everything was going bad around that time, 1970. So
+                    they said, “Ray, we have to break even on the next bid.” Even though we had the
+                    contract, we had to rebid every year. I said, “You are going to lose it.” And,
+                    by golly, the guy who got it was the guy I had fired and he put it out of
+                    business in a year. In the meantime we had lost it. But that was okay because
+                    they owned Berlitz and were having trouble with Berlitz. They said to me, “Why
+                    don't you come up to New York and straighten out our difficulties with Berlitz?”
+                    And I said, “All right.” So I was made a special assistant to the president of
+                    Berlitz over everybody, especially the guy who was redoing their language
+                    programs.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>Well, that was untenable. I was also the industrial revolution in the guild
+                    system because all of these guys were homespun school directors. Nice guys, but
+                    really no competence as far as linguistics were concerned. Some schools were
+                    very good and some very lousy and I wanted to do for Berlitz what I had done for
+                    the Department, standardizing. There was great resistance. What they wanted me
+                    to do first was to bring to a closure five redos of the Berlitz language
+                    training materials—English, French, German, Spanish and Italian. I said, “All
+                    right, I will do that.” And I did it in a year. He had been working on it for
+                    five years and had a big staff. I did what any good administrator would do and
+                    put myself firmly astride two things—finances and personnel. Nothing could
+                    happen until I signed off on it and he had been going off in all directions.
+                    Well, he was very unhappy about this, and was a vice president and he resigned.
+                    I was grateful for that. But behind my back, of course, lots of stuff was going
+                    on. He was an old time Berlitz hand and all the people knew him, etc. I didn't
+                    care about that, I did the job. So at the end of two years, I really had had it
+                    with Berlitz and they had had it with me. I had been down here for some reason
+                    and saw the director who had hired me originally at FSI, Howard Sohnberg. Over
+                    the years we had been very friendly. He said, “If anything ever comes up I am
+                    going to contact you because we need the expertise that you have and the
+                    informational history that you have and the experience in administration you
+                    have, etc.” I said, “Okay Sol, if something comes up let me know.” I resigned
+                    from Berlitz on a Friday with two months notice. On the following Monday I got a
+                    telephone call from Sol saying “What are you doing?” “What are you offering?” He
+                    said, “Come down and see me.” This was in May. I came down the next week and he
+                    said, “The White House has asked for someone from over here at FSI, but we think
+                    it should be you, to establish a training program for narcotic law enforcement
+                    officers who are going to go overseas. They are bulls in china shops. They don't
+                    realize the ambassador is just under the trinity and you do. Are you available?”
+                    I said, “I'm available.” I will start on July 17.</p>
+                <p>I left on July 13 up there and started on the 17th down here. My job was to
+                    develop an international narcotics training program for DEA and the Office of
+                    Public Safety, people who were going overseas. How you behave when you are in a
+                    mission. So I developed a three-week training program which I ran seven times a
+                    years to train these guys not to pick up the phone and talk about classified
+                    information. The Agency would go bananas with these guys. I was in the station
+                    chief's office when he got a phone call and said, “I will be right there.” And
+                    obviously the guy had said something like “No, let's talk,” because he said,
+                    “No, I will be right up.” Obviously the guy didn't understand. I was in Mexico
+                    City at the time trying to find out what to do to develop this program. It was
+                    interagency. I was involved with DEA, Customs, CIA, Commerce, Defense and two or
+                    three other agencies that were involved in narcotics law enforcement and
+                    problems. I tried to build this program to accommodate the problems they were
+                    experiencing. So I made about three trips in three months to be sure I was
+                    getting what they needed at Post as well as what they were saying here.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>I started my program in October, but in September President Nixon called a
+                    conference of 52 DCMs from narcotic target countries. There were no narcotic
+                    officers at that time, but we had a big three day conference and I was on that
+                    program. The president was there and it was very nice. The cabinet was also
+                    there, along with my boss and his boss. So, you make your reputation publicly
+                    this way and I was very, very positive because I got tremendous support when
+                    they heard what we were trying to do. We ran that program from 1972-78. I told
+                    Sol in about 1976 that we have to phase this out. There was starting to be
+                    redundancy, they were recycling people back through. Not that they don't need
+                    it, but you were getting the same guys who went through the same program. So he
+                    said, “Okay, fine. When you are ready, you let me know.” And somebody said, “You
+                    are the only guy I know who is trying to work himself out of a job.” I said,
+                    “No, there will be another one waiting.” And by golly there was.</p>
+                <p>In 1978 George Springsteen was director of the institute and he wanted to start a
+                    mid-level program and they asked me if I would work with John Sprott on it. I
+                    said, “Yes, I would.” But they made a big mistake because they tried to mix
+                    education and training and the average Foreign Service officer is all for
+                    education but as far as coming into FSI is concerned, “What are you going to
+                    teach me that I can use when I get out there to my next assignment.” So we were
+                    teaching them two things—what they could use but also what they could expect
+                    when they become DCM. This was wrong from my point of view. John Sprott and I
+                    talked about this, but we did it because that was what he wanted. Well, that
+                    program bombed. We ran it once bringing people in from overseas. They were here
+                    for 14 weeks, I think. They felt they had been pulled out of the loop which was
+                    affecting their promotions, etc. So I went with that and about that time we
+                    started to institute computers overseas also. So John had me doing this, he was
+                    now dean of the school of professional studies and Sol had moved me over to the
+                    school of professional studies. I was no longer a section chief.</p>
+                <p>When I came back they asked me whether I wanted Foreign Service or Civil Service.
+                    I said, “I think I would like to stay in the country.” Back in 1972 I was
+                    reinstated but they said, “Do you realize what this is going to mean? You are an
+                    old 01.” And I said, “Yeah.” They said, “The highest we can give you is a 15/10
+                    because of the hierarchical structure here.” I said, “It doesn't matter.” So I
+                    got the salary and I got the position. I didn't care. I was doing what I wanted
+                    to do.</p>
+                <p>I shouldn't say I was an old 01. I was offered 01 if I wouldn't take that job
+                    with Cole, Collier and MacMillan, so essentially as far as I was concerned that
+                    was the culmination.</p>
+                <pb facs="0020" n="Page0020"/>
+                <p>While still involved with the narcotics program I began to take on other duties.
+                    In 1976 I started to work on the introduction of computers into embassies. And I
+                    started to work on developing consecutive development programs. By 1978 I phased
+                    out this narcotics program and was full time on development of programs,
+                    executive development of programs. I had then 11 programs from 1980-84. I had 11
+                    programs from first line supervisor up to ambassador as far as training was
+                    concerned for the job. I coordinated all of this. I didn't teach any one myself,
+                    except I did teach sections of it. One of the sections, of course, is the thing
+                    I do today, which was speech dynamics. At that time Dorothy Sarnoff organized a
+                    program in speech dynamics but she couldn't handle it all. She was handling the
+                    under secretaries and the assistant secretaries. But the guys who were going out
+                    to speak were the office directors and the deputy assistants and they were
+                    bombing. So they said to me and Jim Bostain, “Would you guys take over the
+                    training in speech dynamics for these people and on down.” So we did.</p>
+                <p>The mid-level program got wind of it. We ran nine programs of that and were
+                    offering speech dynamics in the mid-level program and negotiating. Senior
+                    seminar heard about it and asked to have it done for them. So now this is no
+                    longer a collateral duty, this becomes a full time thing. I am doing six or
+                    seven classes a year, four classes a week. Then A-101 got it. By that time I
+                    just moved into it and was doing an awful lot of speech training which was about
+                    a third of my job.</p>
+                <p>
+                    <hi rend="italics">Q: When you say speech training, what do you mean?</hi>
+                </p>
+                <p>CHAMBERS: Well, there is a basic course that we give, a two day course. In
+                    addition to that there is a four day course, which I am conducting this week as
+                    a matter of fact, on interviewing skills, handling the press, extemporaneous and
+                    impromptu speaking which are different, briefing the boss and the CODEL,
+                    conducting a demarche. They are the four things at this level. But in addition
+                    to that, how to run meetings, how to handle the press from the basis of
+                    difficult people, hecklers, and all sorts of things. So, that is one thing. I
+                    was doing that and have been doing that ever since because in 1980-84 I ran
+                    these 11 programs and did that aspect of the 11 programs personally where before
+                    the programs had speech dynamic training in it. And Dorothy Sarnoff came down
+                    and I helped here with the senior officers and I ran these others on the side in
+                    the other programs. In 1984 I resigned, retired from the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: But you are still back all the time.</hi>
+                </p>
+                <p>CHAMBERS: That is right. I just then did speech dynamics for all of these groups.
+                    I gradually phased that down because I control my own in basket. I don't do
+                    universities anymore, I don't do public concerns anymore, I don't do the Ford
+                    Foundation or the other foundations. I don't do big business anymore. I just
+                    don't want to. I control my own in basket.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>And that is the story.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I want to thank you very much.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

@@ -1,410 +1,1200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000918">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with James T. Pettus Jr.</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with James T. Pettus Jr.</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project Information Series</p>
-<p>JAMES T. PETTUS, JR.</p>
-<p>Interviewed by:  G. Lewis Schmidt </p>
-<p>Initial interview date:  May 30, 1990</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  I'm going to ask Jim to start out by giving a short biosketch of what his background was, what his education was, a little bit of what he did before we got into the information work, and then what it was that brought him into the Agency, or into the information program.  Jim, will you start and follow that scenario?</hi>
-</p>
-<p>PETTUS:  I was born in St. Louis, Missouri, in 1919.  I grew up there and went to high school there.  I didn't go to college.  I learned to fly an airplane in 1938 and was later going to go on to study aviation engineering, aeronautical engineering, but then the war came along, or was obvious, and I joined the Canadian Air Force in 1940.  The U.S. Army didn't want anything to do with people that had never been to college, even though I knew how to fly an airplane.  But the Canadians, it didn't bother them a bit, and so I received a commission in the Canadian Air Force and went up there for 1940-41 and part of '42.</p>
-<p>In 1942, I came back to the U.S. Army Air Force and throughout the rest of the war as a bomber pilot.  I was pretty fortunate in the fact that I was lucky, in fact, I got a little earlier start than most of the pilots inasmuch as I'd been flying earlier.  I finished the war as a group commander and a colonel.  I flew 59 combat missions.</p>
-<p>
-<hi rend="italics">Q:  Did you get to be a pilot, or were you a bombardier all the time?</hi>
-</p>
-<p>PETTUS:  I was a pilot all the time, and all of this is very much a matter of luck, you know.  First of all, it's being in the right place at the right time.  There's a certain amount of luck in it, also, that you live long enough.  Out of the 25 men that went to Canada with me in 1940, the first 25 went up there, I only know of about six that I think lived through the war.  Anyway, it was largely a matter of luck and a certain modicum of ability to be able to fly an airplane.</p>
-<pb facs="0002" n="Page0002"/>
-<p>After the war, I was in the aviation business for a while.  In 1949, I went to China because my brother-in-law happened to be over there and wanted me to visit.  He wasn't well, and my sister wanted me to come over there.  At that time, I got to know some of the people in the information business, and I got a job stringing for the AP [Associated Press] in China, which was at that time, of course, very rapidly going down the tube.</p>
-<p>But I did get to travel around parts of West China prior to the defeat of the Nationalist forces, and in fact, almost got captured myself down in Hainan Island.  Bill Barnett and I were down there at that time, and we got stranded.  But it gave me some ideas about the newspaper business and writing and USIS, which was only marginally involved at that time.  I did know some people that were in the USIS.</p>
-<p>
-<hi rend="italics">Q:  Did you happen to know Earl Wilson at that time?</hi>
-</p>
-<p>PETTUS:  No, I never met Earl, but I knew McCarthy and Wilson later, of course, but not in 1949-1950.  In fact, I think the only person that I ever knew that stayed in was I met Jimmy Anderson one time in Saigon in 1950, and he was the entire USIS in Vietnam.  In fact, I don't believe my interest didn't run to how much was in the embassy or the consulate at that time.  That was in late '49 or early '50.</p>
-<p>
-<hi rend="italics">Q:  That would have been a consulate general.</hi>
-</p>
-<p>PETTUS:  CG.  I don't know who the—</p>
-<p>
-<hi rend="italics">Q:  I'm just trying to think.  Bao Dai was the—</hi>
-</p>
-<p>PETTUS:  Bao Dai.  Yes, he was there.  I remember seeing him.</p>
-<p>
-<hi rend="italics">Q:  I got to Saigon in 1950 on a trip for the State Department, and USIS was operating, but whoever was the ConGen at that time—Gullion, I think, was out on a tiger-hunting expedition with Bao Dai, so I never met him.</hi>
-</p>
-<p>PETTUS:  I went down there and did a few stories.  I had to travel—my passport said I was a farmer.  I would do a little tiger hunting, and I never shot a tiger, but I spent a good deal of time up around Dalat and up in the mountains.  I saw a bit of the early days of the Vietnam War out there.  Bao Dai was still in power.  I remember seeing him charge around Saigon in his motorcade.  Quite an interesting character, although I never met him, and some of the requisites might have been a reasonable ruler if he'd had the opportunity.</p>
-<pb facs="0003" n="Page0003"/>
-<p>Later, I went back to the United States and stayed in the aviation business for a while, but having been in China and in Southeast Asia and so forth, I met some people around Washington, where I was living, one of whom was Henry Loomis, who kept saying, “Why don't you come and work for us?” What I found out, of course, was that they were not only interested in people that had some experience in Asia and a little bit in terms of newspaper work, but also they were interested in people that had very, very good military records and backgrounds.  This was the height of the [Joseph] McCarthy era, and they wanted somebody whom McCarthy couldn't question too much.  I did have a good background.</p>
-<p>Well, at that time I wasn't married, and I decided that it was time to go to work, and flying airplanes was all right once in a while, but unless you make a profession of flying, it's not a good idea.  You should either do it full time or not at all.</p>
-<p>Henry offered—USIS offered me a job to go to Manila, so I got married and embraced the United States Government all in the same week.</p>
-<p>
-<hi rend="italics">Q:  I'd like to go back just a minute.  You said that you were in Hainan and almost got captured.  Would you give me a little bit of details about that?  It sounds like a rather interesting experience.</hi>
-</p>
-<p>PETTUS:  Bill Barnett and I were friends, along with Al Ravenholt and a lot of the other people.  So Bill said he was going to make a trip down to Hainan, and why didn't I come along.  He wanted somebody.  [Tape interruption] “But today is the day that the communists have arranged it so that most of the airplanes of CNAC and CATC are going to fly away to the communist side.  They have arranged it so that most of the pilots will defect.” He said they knew I wouldn't do it, so they arranged that I would be on a flight to Hainan.  Those pilots that were going to go to Taiwan, Formosa, they also were not going to defect.  So there was no great compulsion or force in a sense, but there was great sympathy for the communist side, and the Convairs did fly away.  They broke them up pretty quick.  So he said, “I'll tell you that when you get to Hainan, there's going to be no way to get out.  If you want to get back to Hong Kong, you'd better come back with me and I'll arrange it so that you can ride up in the cockpit with me.  Even though we've got a full load, we'll be light on fuel coming back, because there's no fuel in Hainan.  We won't be overweight, but you can come back with us.”</p>
-<p>Well, being a fearless, intrepid newsman, we stayed on in Hainan and we stayed in Hainan for about 16 or 17 days, until we finally got out on a freighter.  I think it was a Dutch ship that crawled in there that picked up lots of refugees and any number of paying passengers like ourselves.  You could see across from Hainan to the mainland, and the troops that were on Hainan, there were thousands of refugees troops in miserable condition.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  All Nationalists.</hi>
-</p>
-<p>PETTUS:  All Nationalists, in miserable condition.  There were a few relatively good combat units that were in position, but they certainly were not going to make any major defense of the island if the communists had wanted to come across.  You could look across the straits about ten miles or someplace a little less, and through glasses you could see communists troops in large numbers over there, although they said there didn't appear to be any real danger because they didn't see a large collection of vessels, boats, junks, or anything that could bring them over.  The Nationalists had taken the precaution to steal, burn, buy all of the boats in the area.  In fact, the communists didn't come and take Haikou for, oh, I don't think another three or four months.  But there was no way to get out of Haikou.  The Nationalists were in control in the southern part of the island, and they had a big air base, but you couldn't get there.</p>
-<p>We debated trying to hire cars.  The bridges were down, bandits were in control of most of the area, and we felt that we were probably better off being captured by the communists than we were by the bandits.  (laughter)</p>
-<p>
-<hi rend="italics">Q:  Or even some of the Nationalists, for that matter.</hi>
-</p>
-<p>PETTUS:  Yes.  That's true.  The idea, there was no way to get to the southern part of the island, so we just stayed where we were until the ship came along, and then we finally got back to Hong Kong.</p>
-<p>
-<hi rend="italics">Q:  You must have had a few shaky moments there waiting for the boat.</hi>
-</p>
-<p>PETTUS:  Oh, yes, we did.  Yes, we did, especially the enterprising Chinese had sold all of the cabins about ten times over, and we were going out in a motorized junk, in the last one.  Somebody had arranged that we were going to be on, to make sure we got on this boat to get out, and the boat was laying about two miles offshore.  So on the way out, the motor stopped, the freighter starts to blow its whistle, and here we are left with them, trying to start the motor again.  You can ask Doak Barnett about this sometime.  I see he was your speaker at the last Friday.  Doak was out here at the East-West Center not too long ago last year, and he came down, and we had a great time reminiscing about that trip to Hainan.</p>
-<p>
-<hi rend="italics">Q:  I missed the last one when he was there, so I didn't hear him.</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>PETTUS:  Well, after I got back, my first job in USIS was to go to Manila as press attach� in Manila.  I didn't know much about being a press attach� at all, and I didn't even know why they had picked it out, other than that they had a requirement.  So they sent me to Tokyo to see what a press attach� did for four or five days.</p>
-<p>
-<hi rend="italics">Q:  What year was this?</hi>
-</p>
-<p>PETTUS:  This was in 1954.</p>
-<p>
-<hi rend="italics">Q:  I was in Tokyo at that time.</hi>
-</p>
-<p>PETTUS:  Cliff Forster was there.  I think Joe Evans was a PAO.</p>
-<p>
-<hi rend="italics">Q:  He hadn't come quite yet.</hi>
-</p>
-<p>PETTUS:  Hadn't he?</p>
-<p>
-<hi rend="italics">Q:  It must have been later, then, because Joe came in October of '55.</hi>
-</p>
-<p>PETTUS:  This was October or November of '54.  Anyway, I didn't learn very much, but when I got to Manila, I found out what there had been a requirement and that the former DCM had requested a press attach� because they were having a lot of problems with the press in Manila, which they always did have.  I'm trying to think of his name.  But he had requested a press attach�, and they were trying to fill the slot, and they finally hired me.  But in the meantime, this DCM had left, and they really didn't have any desire or need for me.</p>
-<p>Admiral [Raymond A.] Spruance was the ambassador, a very fine man, very popular with the Filipinos, but he was so respected by the Filipino press that they didn't particular vilify him, but the base problem, which is active in the news today, was becoming more and more active then.  But Spruance's feeling was that if we take the initiative onto this problem, or even try to deal with the aggressiveness, you stir it up and we'll make it worse.</p>
-<p>So there was plenty to do, but I spent my time getting to know the Philippines and to know the press and the people and so forth, but mainly knowing what went on in the Filipino press and trying to understand more and more about it.</p>
-<p>
-<hi rend="italics">Q:  Was Jim Meter the PAO at that time?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>PETTUS:  No, John Nalley was the PAO.  Jim had been there just before.</p>
-<p>
-<hi rend="italics">Q:  I know he was there in 1950.</hi>
-</p>
-<p>PETTUS:  Yes.</p>
-<p>
-<hi rend="italics">Q:  I guess you had gone to Bangkok by that time.</hi>
-</p>
-<p>PETTUS:  Yes.  John hadn't been there too long, but John knew a lot about Asia and Southeast Asia.  But the base negotiation which the embassy had a good deal to do with and was getting to be more important, and was no longer left just to the military, had taken sort of the forefront of what was going to be the major problem coming up.</p>
-<p>Spruance was due to retire, and did retire or leave.  He had retired as a four-star admiral and was, of course, tremendously respected by the Filipinos, and a very, very fine and competent, able man.  His wife was a wonderful woman.</p>
-<p>It was a really interesting beginning of how to learn.  So I met a lot of interesting people and I got a lot of valuable information from some of the Americans who had been there before the war, many of whom had been interned there, like Ford Wilkins, who was editor of the Manila Bulletin, and Carson Taylor and others who gave me real insights into the problems, as they felt them, were coming up, some justified, some not, and how the Filipinos felt about these things.</p>
-<p>I knew the editors of all of the papers.  The Manila Chronicle was the paper that was probably the most critical of us.  It was owned by the Lopez family, some of the wealthiest people in the Philippines.  But I remember a very cogent statement that was made by an editor of the Chronicle named Ernie del Rosario.  Ernie was an old-time newspaperman.  He knew the newspaper.  He knew lots about the Americans, and we drank a lot of beer together.  Ernie one time told me, he said, “You know, Jim, there's one problem with Americans that come out here in the embassy and the military and they come to negotiate.  They forget that Filipinos know a great deal more about Americans than Americans know about Filipinos.  They come here and they stay here for a couple of years, two or three, and then they go off and they leave.” Well, I've never forgotten that.  I think we could take a little information from it today when we're trying to deal with this very emotional and seemingly intractable problem that they have with the base negotiations.  And they aren't much different today than they are then.</p>
-<pb facs="0007" n="Page0007"/>
-<p>A big problem in those days was sovereignty, whether two flags would fly on every base.  There was a tremendous argument about the height of the flagpole on each side.  Which flag would go on what side of the entrance?  But mostly the money was not as important as it is today.  They wanted more equipment.  But the emotional problem of the fact that the United States, at that time, although we specifically avowed that we were not sovereign on these bases, we certainly in many places acted like it, and that's changed a lot, but still today it's a problem that they feel, that these bases are not their own.  The Filipinos are tremendously capable people who cannot really find the right path in many ways, but they are extremely emotional and subject to rabble-rousing leadership.</p>
-<p>
-<hi rend="italics">Q:  [Ram�n] Magsaysay had not yet become president at that time, had he?  The Huk insurgency was still going on?</hi>
-</p>
-<p>PETTUS:  The Huk insurgency.  Magsaysay was president at that time when I got there, and Ed Lansdale was holding strong.  Magsaysay was a fine, fine man.  I saw a lot of him and I traveled with the Filipino press quite often whenever there was any American content into his visit.  If he was going to go to a base, although the military had their own information people, the embassy sent along somebody and I usually traveled with the Filipino press and went with him.  On the day that he was killed, there was no American content or function on his visit.  So fortunately, I wasn't along, but I'd been on his airplane and I knew a lot of those people.</p>
-<p>He was a man who really, really tried and had the ability to lead people, but I think he was in many ways far too trusting.  We knew a lot of things that were going on, which he must have known.  But he used to say, “I'll put my own father in jail or my own family if we find that they're being corrupt.” As it turned out later, after he was killed, part of his own family wasn't all that honest.</p>
-<p>By this time, we'd gone through another ambassador, though.  Albert Nufer was the ambassador at that time.  But we'd been through Ambassador—what was his name?  Former senator from Michigan.  But the less said about him, the better.  He was really only concerned with getting an appointment to a federal judgeship, which he got, and not making any—no, I'm wrong about that.</p>
-<p>The sequence was that Ambassador Nufer came after Spruance and was a very fine, able man who spoke, he thought, fluent—was bilingual in Spanish.  He understood the mentality and would have made a very good—I think would have done very well, much better in base negotiations than what we did had it not been for the fact that he died of a heart attack very suddenly.  In fact, he died the same week as Magsaysay was killed.</p>
-<pb facs="0008" n="Page0008"/>
-<p>Homer Ferguson was the interim ambassador.  He came right after Spruance, and he didn't stay very long, fortunately.  But he was a man who—I guess he had a good legal mind and was a good senator, but he did not understand the Filipinos.</p>
-<p>I left soon after.  Well, the base negotiations broke down.  Magsaysay was killed.  Nufer, the ambassador, died the week before Magsaysay was killed.  The base negotiations were going on.  The DCM was a man named Horace Smith, who about worked himself into an early grave himself with all of the stress of the breakdown, but without Nufer's guidance and without Magsaysay's support, it was obvious.  They made an interim agreement, but it was nothing really solid to build upon.  I had been there at that time getting on a little over three years, and I was offered a chance to go to New Zealand as PAO.</p>
-<p>
-<hi rend="italics">Q:  Then most of the thrust of your work while you were there was dealing with the base problem and with the press, generally.  You weren't in on so much of the active campaigning for other issues that USIS might have been involved in?</hi>
-</p>
-<p>PETTUS:  Yes, that's true.  The base problem was the predominant feature.  There were other factors and American policy, in general.  One of the things was that the Filipinos were trying to get a seat on the Security Council, one of the rotating seats on the U.N. Security Council.  The Americans were backing them on the fact that we would back the Filipinos for so long, but if it became an impasse, we had told them that we were going to have to change our vote, because if not, we'd get somebody in there that would be very unfriendly.</p>
-<p>I remember an incident where [Carlos P.] Garc�a was the vice president of the Philippines.  Garc�a gave a press conference wherein he stated that the Americans had pledged to back the Filipinos all the way.  Well, I knew that this wasn't true, and Garc�a also knew it wasn't true.  Well, I heard about this from some of my colleagues in the press and the Filipinos, non-Americans.  I finally got hold of the ambassador to tell him that this was Garc�a's statement.  This was about nine o'clock in the evening.  Ferguson comes on the phone and he says, “Just a minute, Jim.  I'll ask the vice president.  He's right here.”</p>
-<p>So the next voice I heard on the phone was that of the vice president of the Philippines, and he says, “Hello.  Patterson?  I didn't say that.  I said . . .” And he just twisted the words enough so that it would satisfy the ambassador, who was standing right beside him and who wouldn't know the difference.  Ferguson then got on the phone again and says, “Now, Jim, you've heard it from the vice president.  You go down to those newspapers and you straighten them out on what he really said.”</p>
-<pb facs="0009" n="Page0009"/>
-<p>Well, I hung up the phone and debated about what to do.  I was at a party and I went back and had another drink and decided I'd better not do anything, because the one thing we could not do, I knew he had said it and I knew that they weren't going to change it, and I also knew that it would just discredit me, us, and everybody if I went down and tried to put words in the vice president of the Philippines' mouth.</p>
-<p>
-<hi rend="italics">Q:  It's just unfortunate we didn't have the practice of taping practically every interview, because we didn't have the equipment.  These days you couldn't get away with that.</hi>
-</p>
-<p>PETTUS:  (laughter) Well, anyway, the next morning, of course, the story came out in the paper just exactly as Garc�a had said it, and at 7:30 I was called to the ambassador's office.  The ambassador says, “Did you go down to those newspapers and straighten that story out like I told you?”</p>
-<p>I said, “No, sir, I didn't.” I guess that was a mistake. and I should have.</p>
-<p>Anyway, his response was, “You're fired!” And he tried to get me fired.  In fact, he did get me transferred out of there, or would have, but I strongly resisted being transferred under a cloud of the fact that I knew, and later, I understand, he realized that I had done the right thing.  But I guess I should have had a little more wisdom and discretion would have been the better part of valor to have fudged it and said, “Well, I tried, sir, but . . .” (laughter)</p>
-<p>
-<hi rend="italics">Q:  I really think you did the right thing.  I think probably you should have argued with him at the time that he said, “You're fired,” and gave him your rationale, but it might not have done any good at that time.  But I think you did the right thing.  I think your judgment was entirely correct.  PETTUS:  It was not very many months after that, in fact, I was offered a very good job.  I was offered to go to—we had a branch post in Malaysia at Penang.</hi>
-</p>
-<p>
-<hi rend="italics">Q:  A lovely spot.</hi>
-</p>
-<p>PETTUS:  Oh, it's a garden spot.  Everybody said, “You're crazy!  Why didn't you go up there?  Is it just because you got . . .”</p>
-<p>I said, “No, I'm not going to do it.”</p>
-<pb facs="0010" n="Page0010"/>
-<p>Anyway, Ferguson left and time ran out, and I went to New Zealand.  I didn't take home leave.  I had some small children by that time, and I went to New Zealand and spent a very, very interesting and pleasant time down there.  As USIS, I was the PAO.  I had an American secretary, and we had a very, very small program, and it was an interesting bit of learning.  I also had very pleasant relationships with the newspapers down there.</p>
-<p>I could indulge in a thing which I love to do, which was trout fishing, and it's the world's best down there.  It just so happened that the editors of almost all of the New Zealand papers were fishermen.  So I spent a lot of time, four or five days, up at various lakes or rivers with the editors of the bigger papers, the Dominion or the Evening Post or the Truth and so forth.  I'd bring the booze and then we would sit around a campfire at night, and I figured this was a good way to make—certainly this was where the power of the press lay, in the owners.  And these were absolute owners, and they were all basically friendly to the United States, although some of them supported the labor government, which was in part of the time.  In fact, when I got there, Walter Nash was the prime minister, who was a very fine old man and a labor prime minister.</p>
-<p>
-<hi rend="italics">Q:  What was the date, just for the record?</hi>
-</p>
-<p>PETTUS:  That was in late '57, early '58.  I stayed there just two years and then came back to Washington.</p>
-<p>
-<hi rend="italics">Q:  You would say, then, that your principal duties there were to cultivate the press, and that you didn't have serious themes that you had to promote on behalf of the United States?  Or did you?</hi>
-</p>
-<p>PETTUS:  We had some serious things.  As I recall, we didn't have any terribly serious problems.  What we were mainly after was the support of New Zealand in the United Nations on a lot of issues, but we didn't have anything, as I recall, terribly serious problem bilaterally with them.  We had a very active program of educational exchange there, and as PAO, I was also chairman of the Fulbright Commission, and it gave me quite a feeling of power to have the vice chancellor of the University of New Zealand at a meeting say, “Mr. Chairman, can I speak?” I'd say, “Yes, Vice Chancellor, go right ahead,” especially [since I] had never been to college.</p>
-<pb facs="0011" n="Page0011"/>
-<p>But we did have a very active campaign.  There was a lot of—oh, I wouldn't say latent anti-Americanism.  It's a very egalitarian society, New Zealand was, and in their labor movement there's a lot of fundamental criticism of the United States.  But there was also a tremendous reservoir of good will from the war years, of not only Americans who were, many of them, still there, but when Britain got in serious difficulties, New Zealand and Australia, both, felt that they were left out.  The fact that the United States recovered as quickly as it did from the catastrophe at Pearl Harbor and was able to come out and establish defense lines and make them credible, and after the Battle of the Coral Sea and the Battle of Midway, of course, the die was cast.  But in the early days, there was real concern that the Japanese would predominate.  This was especially true, of course, even more so in Australia than it was in New Zealand.</p>
-<p>It's a very interesting country, and it's a country that we had a few trade problems with them, which they felt we were giving them a bad deal on certain raw materials.  Wool.  Wool was always a big problem.  Wool and lamb were the two, of course, great staples of Australian trade.  There were also things that were protected very strongly by the United States.  Whereas it was the lifeblood of the whole nation there, to us it was a small factor in our entire agricultural picture, but it was very important to them.  But we didn't have the serious, major political problems there.</p>
-<p>We were trying to get the government to support us, which, by and large, they did.  Where they did not support us, of course, was on China.  And there was no point in trying to change their attitudes on something like China.  They were following the British thing, and the New Zealanders said they didn't have anything to worry about China.  But they felt that we were wrong on China, and there was no point in trying to get them to change their mind.  I remember hearing the ambassador say, “I'm not going to go in and argue with them about it.” (laughter)</p>
-<p>But it was a very pleasant time, busy.  You had a lot of hard work, and I learned a lot about program problems and how you handle it.  I didn't worry as much about people, but the intricacies of the government, which I never did learn, and certain programs and budgets and so forth, I never was a very strong person on that.  I had ideas, but I was never very good on management.  But it was good training.</p>
-<p>After I got home from New Zealand, I got back to Washington and I was told that because I was one of the people who were outstanding mid-career people, I was selected for a mid-career course.  Well, it was an interesting period.  You can't go wrong learning anything, and we did have quite a number of interesting lectures.  But I later found out that virtually everybody who was on a mid-career course was just selected because they were in mid-career and they were available.  (laughter)</p>
-<p>
-<hi rend="italics">Q:  What was it you were doing to be given a mid-career course?</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>PETTUS:  I was on leave!  (laughter) I was in Washington and available.  That's why.  In between an assignment, they didn't know where to put you, so they sent you to a course.  I found out all those things later.</p>
-<p>
-<hi rend="italics">Q:  Where did they send you?</hi>
-</p>
-<p>PETTUS:  Then I had the very good fortune, because I'd had some experience with the press, because I had an English wife, and I was sent to England.  I'd had experience in New Zealand, the Commonwealth.  I had spent a certain amount of the war years in Australia.  I had been a King's officer in the Canadian Air Force, all of which they felt I would be good to go and work with the English, and it served me well.</p>
-<p>The English have great respect for people that have spent time in the Commonwealth, and especially in their military forces.</p>
-<p>
-<hi rend="italics">Q:  What year was it that you went to London?</hi>
-</p>
-<p>PETTUS:  I went to London in 1960, I guess it was, '60 or '61.  I spent a long time there.  It was my only diplomatic accomplishment.  I spent 12 years there.</p>
-<p>
-<hi rend="italics">Q:  My word!</hi>
-</p>
-<p>PETTUS:  (laughter) As people say, “What was your biggest diplomatic accomplishment?” I say, “My biggest diplomatic accomplishment was to spend 12 years in London.”</p>
-<p>
-<hi rend="italics">Q:  What was your position there?</hi>
-</p>
-<p>PETTUS:  I was the press attach� and the information officer and acting PAO for a while and so forth.  I did just about all the jobs there were to do there.  Ambassador Whitney was there when I went, and he was there for two or two and a half years.  Then he left, and Ambassador David Bruce came, and he stayed for eight years.  So after I'd been there three years, one day I was talking to Bruce about something, and I was casting about for another kind of a job that he thought would be good for me, that if he thought I'd be good in the job, he'd give me a good boost.  He turned around and he said, “Why, don't you like it here?”</p>
-<p>I said, “Oh, yes, sir, I like it fine, but you know, I've been here three years.  You move on.”</p>
-<pb facs="0013" n="Page0013"/>
-<p>He said, “Well, as long as I'm here, you can stay here.” So that settled that.  (laughter) He was there for eight years.</p>
-<p>Leonard Marks was director of the Agency about that time.  Bill Clark was the PAO.  But Leonard Marks was the director of the Agency, and I always felt that Marks was one of the underrated directors that we had.  He may not have had the outstanding reputation with the press and with the public, but Leonard Marks understood one of the most important things that too many of our people, or too many people, didn't understand: he understood and care and feeding of Congress.  I think that he made a good contribution at a very difficult time for the Agency.  Of course, the Agency had been separated by that time from State, I guess about eight years, eight, nine years.</p>
-<p>
-<hi rend="italics">Q:  They were separated in August of '53.</hi>
-</p>
-<p>PETTUS:  This was '62.  About nine or ten years.</p>
-<p>Mr. Marks was in London on a visit, and he paid his duty call on the ambassador.  At the end of their conversation, why, Ambassador Bruce tells Leonard Marks, “By the way, Leonard, I want you to leave Jim Pettus here as long as I'm here.” So with that, I was secure in London certainly until Bruce left.  In fact, I stayed there until he left, and Ambassador Annenberg came in and took his place.  I left soon after Annenberg got there.</p>
-<p>I was able to spend a wonderful period of time in England at a very difficult time in some relations with English and American.</p>
-<p>
-<hi rend="italics">Q:  What were some of the particular problems?</hi>
-</p>
-<p>PETTUS:  They focused around foreign policy.  Of course, Vietnam was growing in importance at that time, and Cuba.  The communists could stir up an awful lot of trouble.  The laborites would—I remember Grosvenor Square would get to be filled with tens of thousands of chanting demonstrators.  “Hands off Cuba!  Hands off Cuba!” And the police were around there with their horses.  They were pretty worried that they might get into the embassy sometimes.  In fact, we had barbed wire in the embassy at times.  This was before the days that they had the armored doors.  They were heavy, but they weren't the bulletproof glass.  They broke windows all over the place.  But Cuba was one.  China was another.  The demonstrations were not so much about China as they were always about Cuba and, then later, Vietnam.</p>
-<p>
-<hi rend="italics">Q:  Was this the time of the Cuban Missile Crisis that this went on?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>PETTUS:  Oh, yes.  On the afternoon of the height of the Cuban Missile Crisis, the Potava was steaming towards Havana.  Grosvenor Square was filled with 10,000 rioters.  I was having my fortnightly lunch with my Russian counterpart down in Soho, and I had to get out of the back door of the embassy and go up towards Park Lane, finally get the underground to go down to Soho to meet this guy, a man named Vladimir Stennin.  Stennin and I had lunch every two weeks, and we used to sit there and discuss the policies of the world.  So when I got to this time, why, the demonstration, he more or less said, “You have a little problem, Jim.”</p>
-<p>I said, “Yes.  We all have got problems, Vladimir.  You know, Stennin, we're both pretty dumb about Cuba.”</p>
-<p>And he says, “Hey, Jim, what is this 'dumb'?  Why do you say we're both dumb about Cuba?”</p>
-<p>And I said, “Vladimir, the United States had the Bay of Pigs in Cuba and now you are going to send these missiles into Cuba.  You've got just as much a problem as we've got with the Bay of Pigs.”</p>
-<p>So he began to think, and he said, “Yes, we got some trouble.” So we had another drink.  Then we had some more drinks.  By the time I got back to the embassy at four o'clock in the afternoon, I couldn't hit the floor with my hat.  But the Russians, I think, had a good idea that everybody had a big problem about Cuba.</p>
-<p>Later, of course, the Potava turned back and the thing was over with.  Stennin was a character whom I don't know whatever happened to him, but I don't think it was terribly—you could talk to him.  I was working on him to try and get them to jump, maybe.</p>
-<p>When he was at last reassigned—he was allegedly a TASS man.</p>
-<p>
-<hi rend="italics">Q:  But he was undoubtedly a KGB.</hi>
-</p>
-<p>PETTUS:  Oh, no, I knew all about him.  In fact, this afternoon, that same afternoon, I said, “Now, listen, Stennin,” finally.  I said, “Your name is not this.  Your name is such and such.  What's more, you're a lieutenant colonel in the KGB.”</p>
-<p>He said, “No, no, Jim, I'm not.  I'm TASS man.”</p>
-<p>I said, “TASS man, my ass!  You're not!” (laughter) So anyway, “Have another drink.”</p>
-<pb facs="0015" n="Page0015"/>
-<p>When Stennin left London to go back to Russia, not too long after that I was the only American invited to his going-away party down in the bowels of where the Soviets have all their housing and so forth.  Most of them were Eastern Europeans, Russians, and there were a few English correspondents, one whom I knew very well.  Later I was talking to him and we owned up that both of us were working the same thing, and we both thought we could get them to jump.  Later I found out that this man was not only a correspondent, but he worked for some of the intelligence people, or he contributed to them.  We both felt the same way, that we were getting pretty close, and we felt that that's why he was sent home.  I don't know what ever happened to him, but I doubt that it was anything very good.</p>
-<p>
-<hi rend="italics">Q:  When it was finally revealed by [President John F.] Kennedy that missiles were definitely in place over there and proven beyond a question of a doubt, what was the reaction of the British generally, and what was the reaction of the laborites who were conducting all these demonstrations in Grosvenor Square?</hi>
-</p>
-<p>PETTUS:  I wouldn't say, first of all, I don't think it was the laborites that were—they certainly aided and abetted in demonstrations, but they were not the formulators of them.  The extreme left wing of the labor movement, I mean, as distinct from the labor government and the Labor Party, were the ones.  And the Community Party, of course.</p>
-<p>When we got the word that the films were coming, Ambassador Bruce went out to the airport with the people from the Agency, CIA, and I was not at the airport at that time.  But he came back and we were all in the embassy, and he showed the pictures.  In the meantime, CIA had given us the negatives and told us that we could reproduce, start to print, and we did.  Of course, we had a very good photo lab and a good man who was sworn to secrecy.  We started printing up about 20 or 25 sets of these pictures.  I've forgotten how many there were, probably 12, 14.  Started printing them up, but, of course, there was an embargo on any release of them.</p>
-<p>But about five sets were for the ambassador to take over to give to the prime minister, who, I guess, was Harold Wilson at that time.  Wilson or Callaghan, I'm not sure which.  But anyway, Denis Healey was the defense minister, I know that, and one set was for him.  There were Bruce's own set and a set for the political people.  The other sets we had were all labeled for the various press organizations.  Well, the demonstrators were still out in Grosvenor Square.  They'd leave in the evening hours and come back at night, and the police were all around there, and we had buses all drawn up in front.</p>
-<pb facs="0016" n="Page0016"/>
-<p>By and large, the main thing that the British, as I recall it, they were mainly apprehensive of any kind of a war which they felt would erupt into a nuclear war.  Except for the extreme left, who was able to generate these demonstrations with very prominent people, all in support, by and large, I think the working-class people and certainly the conservative party were not sympathetic towards the Russians, as they felt that this was an aggressive move.  They did feel that perhaps after the Russians had pulled back, the Americans should have given a bit more quid pro quo, like taking the missiles out of Turkey, perhaps.  Since they had taken them out of Cuba, he said, “Well, they didn't have any business to have them in Cuba, anyway.”</p>
-<p>But generally, the attitudes were apprehensive because of the fear of nuclear war.  Politically, they were entirely separated purely by their own ideological bent.  The left wing were saying that it was terrible that we should do anything like this and that they had a perfect right to put missiles in if they wanted to.  The right wing was saying, no, they had nothing to do with it.  But the reaction of the British Government was the one that was more interesting.  It's been written and said, but I don't think it was ever seized upon or publicly disavowed or carried on.  When Denis Healey, the Minister of Defense, saw the photographs, he more or less dismissed them as possibly fakes.  After all, we had submitted some fake photos to the U.N. and gravely embarrassed Adlai Stevenson, and said these could very well have been.  [Tape interruption]</p>
-<p>The British Government and overwhelmingly the press were impressed.  They believed the photographs.  They were a bit disappointed in this thing of the detail of some of them, our vaunted ability to be able to read the brand of what kind of truck it was from the photographs didn't come out as well, but by and large, they were impressed.  The foreign secretary at that time was Michael Stewart, and he certainly believed them.</p>
-<p>There was a bit of a story about that, that we had these photographs and we had the release time from that other agency that says that after this and after their man and the other photographs had gone on to Paris, to Germany, and they'd all been around, the release time was set.  So we had these photographs and it had all been known.  Of course, they were circulating because they had come out on some of the wires.  Well, we told the guys, “You can pick these things up,” at a certain time.  They came, and we passed these things out of the back door, and the motorcycles took them off, and the protestors, demonstrators were still out in the Square.  All of a sudden, I got a call.  I was up on the desk and I got a call from Washington saying, “Who said you could release those photographs?” (laughter) They had never told us of that extended embargo.</p>
-<p>Well, it turned out all fine.  In fact, later they all admitted it was a good thing it happened, because then we'd been further accused of trying to hide the evidence, which was already in the public domain because it had been shown on TV and photographed off of television and then passed on the wires, but this was before the days of satellite communication on television.  So the pictures had very much poorer detail, and we would have been accused—and were accused—of hiding the same thing.</p>
-<pb facs="0017" n="Page0017"/>
-<p>Well, we released them all and then somebody else took credit for it.  I don't know who.  (laughter)</p>
-<p>
-<hi rend="italics">Q:  Inasmuch as you had the CIA clearance, they could hardly have fussed.</hi>
-</p>
-<p>PETTUS:  No, there was no question that we had acted in any unauthorized manner.  It was a goof-off which somebody else, instead of us getting the credit for doing the right thing, why, they said, well, it was okay that they didn't get chastised for withholding it as they were supposed to have done.</p>
-<p>In Britain, of course, there were lots of major problems.  I mean, when I first arrived there, the fact of Suez was still a terribly active thing.  Here was a really bitter controversy, of which many people on both the left and the right, the conservatives were chastising us because of the fact that we had prevented the total victory.  The labor people were chastising us because we hadn't gone far enough.</p>
-<p>My own feeling was—and I think there were a lot of people later who felt the same way—was that there would have been no problem for the British to drive through the canal.  They could have easily driven through to the end of the canal, but then where would they have been?  They'd have been through the canal with maybe 125,000 actives in an area that they couldn't keep peace in three years before with 250,000 actives.  And they would have been in a much worse military situation than they had been before.  But it was way overextended.  It was felt that we had stopped them and snatched victory from the jaws of defeat.  Certainly it was true.  They could have driven through the canal, but it was a very, very bitter, bitter feeling.  I mean, I was really amazed.  The British are very clannish in certain ways like this.</p>
-<p>I remember one time I was wearing—and I still wear it a lot—a Royal Air Force tie at some function.  Some chap comes up and says, “Do you know what tie is that you're wearing?”</p>
-<p>I said, “Certainly I know what tie.  I was a flight lieutenant and held the King's commission.”</p>
-<p>Then, oh, “Jolly good.” That was the thing to do, and he shook hands.  (laughter) “That's fine.  Congratulations.”</p>
-<p>I said, “That was at a time when in the early days, a lot of us thought it was kind of foolish.” In 1940, it was by no means assured who was going to win.  In fact, when we went to Canada, we technologically lost our citizenship.  But all of us kind of felt, well, if we won the war, it wouldn't make any difference.  If it lost the war, it wouldn't make much difference, anyway.</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q:  That's right.  (laughter)</hi>
-</p>
-<p>PETTUS:  A lot of people, you'd talk to them and they'd say, “Oh, you went in 1940?” And they remember.  This was during the Battle of Britain.  I didn't get to England for the Battle of Britain.</p>
-<p>Anyway, in England there were very major, major problems.  Always in the background was the problem of China.  The problems in the Commonwealth, Britain was granting independence as fast as they could go, to the Commonwealth, but hopefully the Commonwealth was going to support the United States in many ways, but many of them didn't even support the old country.  It was a difficult time of how they were going to reconcile themselves to—I've forgotten whose words they were—the new role that Britain was going to have to play.  I don't believe—and I follow England pretty closely still—that they still haven't fully accommodated to it.  And how are they going to do it with the EEC?  They haven't really accommodated to the EEC.</p>
-<p>
-<hi rend="italics">Q:  With [Prime Minister Margaret] Thatcher in there flailing away, they haven't accommodated very well, although I think she has given some ground in the last month or so.</hi>
-</p>
-<p>PETTUS:  You know, the English used to tell the old joke that the difference between the continent and Britain, there's a terrible storm, one of these awful [English] Channel storms and damage and ships aground and everything like this and so forth, and the headline in the newspaper was “Continent Cut Off.” (laughter) Britain is never cut off; the continent was.</p>
-<p>That period of time was a wonderful period.  After Ambassador Annenberg arrived, I felt that it was time for me to go, and I didn't want to even stay too much longer, in any event, and he wanted somebody else.  So the Agency had no job for me, but they wanted me to come home.  I had five children and I said, “To come home, I own my house in London,” and it was cheaper to buy a house than it was to rent one at that time, so I decided that what I would do is take leave without pay and write a book.  I wanted to write a book about the American Revolution more or less from the eyes of the British soldier, the poor old Red Coat.</p>
-<p>I never got around to doing it, but after I'd been on leave a few months without pay, I got a call from Washington saying, “How would you like to go to Australia as PAO?” They said, “You can call us back if you want.”</p>
-<p>I said, “No, I don't have to call you back.” My wife was there, and I asked her.  She said, “By golly, let's go!” (laughter)</p>
-<p>So a few months later, we went to Australia and spent five very happy and, in some ways, turbulent years there.</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q:  This was 1971 or '72?</hi>
-</p>
-<p>PETTUS:  That was 1972.  I left in '77.  I came back.  I was PAO in Australia in a turbulent time.  There were lots of major difficulties with Australia at a time when Australian labor government took an even stronger stand in some ways than the British labor government did against certain things.  We had two very large—and still have—military installations.  We have very close military relationships, although we didn't have any active troops there.  The only active station we had was the one Navy station at Northwest Cape.  We had no combat forces there.  But there was always a tremendous problem with the visit of warships, nuclear or non-nuclear.  This was a problem.  Vietnam was an active running program, especially after the Australian troops pulled out of there.  But here again, it fragmented on left-right lines.</p>
-<p>The Australians had a more independent idea.  I think they felt, for instance, that they could deal with things, and I think they subsequently found a lot of them they couldn't.  Like they felt they could deal with North Korea.  (laughter) Well, they couldn't deal with North Korea.  Nobody could deal with North Korea.  They opened an embassy in North Korea, and then the North Koreans came down.  It wasn't a full embassy.  They bought a motel on the outskirts of Canberra, and they had a few diplomats in residence and people there.</p>
-<p>They had a big problem with these North Koreans, because the North Koreans didn't have any money and they were always running out of money.  Then the North Koreans suddenly seemed to have a lot of money, and they couldn't understand.  They finally found out very quickly where the North Koreans got the money: they were selling cigarettes and whiskey.  It was all duty-free.  They had to explain to the North Koreans that this really wasn't the proper thing to do, in diplomatic parlance.</p>
-<p>Then they had a row with—came up every year a vote in the U.N. of whether or not the support for the U.N. resolution as far as the forces in the Korean invasion and whether or not we would support the United Nations Command and so forth.  Well, they felt that it was a purely nominal thing.  I think the U.N. command at that time only had three people in it.  [Tape interruption]</p>
-<p>But it was a gesture in the U.N.  If they could get the votes, the status would change somewhat.  The fact that Australia had established a modicum of diplomatic relations, they felt Australia would vote with them.  The Australians felt that they would alter their vote only to abstain, knowing that the status quo would be sustained and it wouldn't be voted down.  So the North Koreans took this as a very unfriendly act.  So when they told this to the North Koreans, the North Koreans protested vehemently and they sent a note to this effect to the headquarters, and the note was refused.  The next day, they sent another note back.  When they got there, the North Koreans had all packed up and left.  They went to Sydney and got on an airplane.  Then they released a note back to them saying it was an unfriendly act, and therefore they were leaving.</p>
-<pb facs="0020" n="Page0020"/>
-<p>I don't know what they've ever done since, but we got a great charge out of this.  (laughter) They felt that they could deal with these things.  They had a lot of knowledge about China and they had some good people in China.  As it turned out, they had some good contacts in China.  Their policy in China is very close to what ours is, of course, today, in many ways.  They were perhaps in advance of us.  I don't think they've ever done much good in North Korea.  They tried the same thing in North Vietnam.</p>
-<p>I think they felt, especially the labor government, that they were representatives of the people and they could do this.  This was not a thing shared, of course, by the conservatives.</p>
-<p>The biggest problems we had, there were a lot of trade problems, whether or not they'd increase the meat quota or whether or not there were trilateral trade problems with Japan.  But the bases problem, the fact of these bases which were space research, deep space stations, they were intelligence-gathering communities.  It's possible that they might have been targets.  I doubt that the Russians would have wasted any kind of highly sophisticated nuclear device on wiping them out, only because if they were winning, they didn't need to waste a nuclear device on them.  If they lost, it didn't make any difference; they wouldn't be bothered.</p>
-<p>But one of the assistant secretaries, I think it was Packard, was down there one time, and I tell you, boy, this is out in the outback, this is way back, this is way out, and it's big stuff.  Enormous installations!  Great big radar domes and enormous stuff.  But it's out in the middle of nowhere, about 140 miles from Alice Springs and out near Wolmer and the Rocky Range.  There's nothing but a few kangaroos.  One of the British correspondents made the remark in a question to Packard, she said, “Sir, in the event of nuclear war, wouldn't this be a target area, don't you think?”</p>
-<p>And Packard thought about it, and he looked around at this vast expanse of nowhere, and he said, “If it comes to nuclear war, I can't think of a better place to be than right here.” (laughter)</p>
-<p>The Australians, we had some problems with them, especially on the bases.  This was a fact.  We had an ambassador by the name of Walter Rice out there.  He was a political appointee from the Nixon Administration.  Walter Rice was a very sincere man.  He was a smart lawyer and so forth, but he didn't understand certain aspects of the labor government.  When the conservatives took over—I've forgotten who the prime minister was—anyway, Rice thought that what he was going to do, he'd just gotten there and he thought it would be a good idea that what they should have is a kind of bipartisan defense policy similar to American bipartisan policies, wherein the leaders of both parties have knowledge about what went on in these bases.</p>
-<pb facs="0021" n="Page0021"/>
-<p>Well, the conservatives, the liberal party—liberals and conservatives, as they call them—had never divulged to the Labor Party the function of these bases.  So the ambassador thought it would be a good idea and it would ease all the problems that if the liberals would brief the leaders of the Labor Party on the function of the bases, and they were jointly tenanted, there was no doubt about it, the Americans had footed the bill, but the Australians had a lot of scientists down there and a lot of people, and they were as many Australians as there were Americans there, but the Americans were in a higher category somewhat.  But I didn't know it was still highly classified.</p>
-<p>So the ambassador asked for an appointment to see the prime minister, and he goes over to see the prime minister, who was the one who got deposed because of his girlfriend's [unclear] problem and so forth.  But anyway, he was a cantankerous bastard (laughter).  The ambassador had been warned not to do this.  So he goes over, and the prime minister listens to him and then sits back and says, “Mr. Ambassador, when I want any advice from you, I'll goddamn well ask for it.  And I'm not gonna tell 'em nothing.  That's all,” and stood up.</p>
-<p>Well, the ambassador got back to the embassy and he was white as a sheet.  (laughter) He just couldn't understand.  And there was an election coming up, and the liberal government lost and the laborites took over, and there was great concern because by this time Whitlam was the prime minister and a man named Cairns was the deputy, who was an extremely left-wing type.  But after all, they were the government of the country.  You're going to have to tell them what goes on in the country.</p>
-<p>I, of course, was not involved in it in any way except peripherally.  I had been briefed on what they did, because I would get the questions first as PAO.  In fact, I knew more about the bases than anybody in the embassy except three or four people.</p>
-<p>Well, when they went over and briefed the inner corps, about three people in the government, Cairns was, I think, the only one that they didn't have.  In fact, the Australians wouldn't give him a security clearance, I don't think.</p>
-<p>Whitlam said, “Well, we pretty knew what they did, anyway.  This is very interesting.  We feel that this is vital to Western defense.  It is still classified, and the status will remain the same.” (laughter)</p>
-<p>So the former ambassador had been proved that it was a good idea, and they did.  It has been written as to what to do, but it's never become an issue.  Once the Labor Party knew and were involved and endorsed it, it was no longer a great issue, except for the rabble-rousers.  The Communist Party is extremely active in the labor movement in Australia.  The Australian labor movement is a thing of something to be concerned.</p>
-<pb facs="0022" n="Page0022"/>
-<p>Well, my time in Australia lasted four and a half very nice years and I was then told that I had to come back to Washington, because somebody had figured out in Washington that I had never been to Washington to work in a tour.</p>
-<p>
-<hi rend="italics">Q:  That's right.</hi>
-</p>
-<p>PETTUS:  They were afraid that somebody was going to “Watergate” them and say, “What's this guy doing over there?”</p>
-<p>I said, well, I thought I might just—I didn't know.  Then they offered me a job to go to be the USIA representative at the National War College.  Here again, my military background stood me in good stead.  Although throughout, when I was in England, I was the liaison with the air bases on all the information work and a lot of the other work, even as far as the foreign office was concerned.  When I was in Australia, it was the same way.  I had lots to do with the military, and I had pleasant and successful relations, I think, with them.</p>
-<p>So when that job came along, I was interested.  There were two other problems, one of which I had five children, none of which had been born in the United States.  I knew that if I retired in Australia, which I had time to do and the resources to do, it's unlikely that any of those children would ever return to the United States.  And I didn't mind if they stayed and became Australians.  But I thought that they ought to have the opportunity to live in the United States.  My wife, who at that time was English, felt the same way.</p>
-<p>So we decided, when I was offered this job, and she had also had a cancer operation at that time, to go back to the United States and take the job at the War College, which I enjoyed and had a fascinating time.</p>
-<p>
-<hi rend="italics">Q:  This was 1975?</hi>
-</p>
-<p>PETTUS:  This was 1975.  I was at the War College 1975-76.  I was going to stay there, but they offered me the job of being head of the Foreign Correspondents Center in Washington if I wanted to take that job.  Before I was able to take up that job, although I had told the War College I was leaving, they replaced me.  My wife had a second operation and was diagnosed as terminal, so I went on leave without pay until she died.</p>
-<p>Then I was offered the job out here at CINCPAC [Commander in Chief Pacific] to be the liaison out here, which here again, was the old military connection.  I got along with everybody very well.</p>
-<pb facs="0023" n="Page0023"/>
-<p>It was, I felt, a very gratifying career.  In fact, when they gave me a farewell luncheon at CINCPAC, why, I said, well, I felt after just about 40 years ago, the first really big job, I got my commission in the Canadian Air Force in 1940, and it was the first real job I had, and here in 1979, a few months before I was 60 and had to retire, I was leaving from a military thing, of which 40 years had been spent in close association.  I felt that they were wonderful men.  I didn't always agree with the philosophies, but I felt the men themselves were really terrific.</p>
-<p>
-<hi rend="italics">Q:  What role did you play as the informational advisor to the military headquarters here?  How did you interpret your role?</hi>
-</p>
-<p>PETTUS:  I was actually the Deputy POLAD [political advisor].  As such, I was sort of the public affairs side of policies wherein the POLAD had an input into various areas.  The POLAD traveled with the CINC a lot.  I didn't travel with him, because even on trips that I could have made with other people, for personal reasons, because I had three children here and I didn't want to leave them alone in a new city at this time early on, and even though I was there a little short of two years, I stuck more or less to the—and I minded the store when he was away.</p>
-<p>It was an amazingly interesting job.  I wrote a piece for the Agency about whom they should send.  The only thing that the CINCPAC didn't like, I was a Class 2 officer.  I never made Class 1.  They would have preferred somebody a little lower, Class 3, and younger.  But it was a wonderful opportunity for them to put somebody into this job to see the real inner workings of a major military command.</p>
-<p>After I left, things changed a great deal.  There was an effort by the Agency, even before I got there, to try and assume a larger role in the whole of the public affairs aspect of the military in the Pacific and in the CINCPAC command.  Well, there was no way you could do this.  I mean, we have no way of being able to advise on much of the problems, reaction problems, especially, which come to these on nuclear-ship visits, problems in Japan of occupation forces, noise problems, airplane problems, all of these things.  These are their problems, and we shouldn't get involved in them.</p>
-<p>I took considerable issue with that report that tried to do that, and I felt, first of all, the military would have never acceded to it, and even if we had, we didn't have anywhere near the wherewithal to begin to do it!  But there were some empire builders that thought we should.  I felt if we could just stick in that office the number-two man and put your oar in where you could, where you thought things were right, and aspects of public affairs that are in, there are these aspects in most of the decisions where we are going to be making exercises.  We didn't have at that time—there was no major—the biggest problem they were having at that time was the idea that we were going to pull out of Korea.  But this command, the Korean command, worked directly out of Washington.</p>
-<pb facs="0024" n="Page0024"/>
-<p>I differed in many ways with my chiefs and mentors in the Agency sometimes.  Whereas we were really out to sell American policy, this is what we were trying to do, there were a lot of these policies that you were going to try and sell that were unpopular and, in fact, were diametrically opposed to what the host country's policy was.  You were not about to change the minds of a labor government or a labor newspaper or anything.  I always took an attitude that, sure, it would be nice if we could do this.  If you could change this policy, that would be good, but the main thing that we wanted to do was to make people understand.  I wanted to get editorial leader writers and editors and people like this and anybody.  I'd talk about things and make speeches and get them to understand why we had a certain policy.</p>
-<p>
-<hi rend="italics">Q:  [unclear] opposition.</hi>
-</p>
-<p>PETTUS:  There were things that were obviously—and then you'd get cut short by Washington, usually not so much by what the mentors in USIA wanted to do, but the dictums that would come down from Congress, things that Congress was wanting.  One of the best programs we ever had in England and elsewhere in Europe, was a very large distribution of the Paris Herald- Tribune.</p>
-<p>The Herald Tribune, like any good newspaper, is quite often critical of the current U.S. administration and things that were being done in U.S. policy actions and so forth.  Well, this riled the hackles of a lot of congressmen, that here we were, buying hundreds of copies, thousands of copies of the Herald Tribune, but we bought hundreds [unclear], and distributing them mainly to students and opinion leaders who would not normally receive that paper, but because the U.S. Government was subsidizing then, buying the paper which was critical of American actions and efforts.  And they were told to kill the program.</p>
-<p>
-<hi rend="italics">Q:  When was this?</hi>
-</p>
-<p>PETTUS:  This was in the early '70s.</p>
-<p>
-<hi rend="italics">Q:  While you were in England?</hi>
-</p>
-<p>PETTUS:  Yes, I was in England.  We used to give copies of this away.  Sure, a lot of these students were left wing, and sure, a lot of them were—I don't think you just reward your friends.  This was very, very good sources of information about the United States.  Just because they didn't agree with a lot of it, but they certainly would hurt the problems of the budget when it came up.  This was the kind of thing that you would run up against when you're trying to work on programs.  It was a difficult thing, but you had to cope with them.</p>
-<pb facs="0025" n="Page0025"/>
-<p>This problem we used to all have of evidence of effectiveness, everybody dealt with it.  You could go out.  If a guy said, “Man, I saw your film,” or “Read your output and I just went out and I got the first communist I found and punched him in the nose,” if you could get that guy to testify in Congress, it was great!  But you couldn't.  These were things which were very, very difficult.</p>
-<p>As I say, our biggest project, I think, would be to inspire confidence in the United States as a leader, as what we could do.  They weren't always right.  As has turned out, quite often we haven't always been right.  But still—and I feel that certain things that we did went on that I thought were unfortunate, the separation of the Agency from State and, as in the last organization, seemed to progress, going further away, I think this was a mistake.  I think we would have been better off to have moved closer to State rather than move further away.  I always agreed and I said State pitched a big part of the cultural program which was one of the most effective programs we ever had, and we did most of the work.</p>
-<p>
-<hi rend="italics">Q:  We did all the work abroad.</hi>
-</p>
-<p>PETTUS:  Yes!</p>
-<p>
-<hi rend="italics">Q:  And they did all the obfuscation in Washington.</hi>
-</p>
-<p>PETTUS:  But they had the money.  They got the money.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>PETTUS:  But it was still a very, very good, good program, and I thought we always should have had it.  But there was always this problem of the fear of being propagandized in a way, and there was the out-and-out you couldn't do anything in the United States.  You couldn't release a film, you couldn't do anything.  We did help State out in many ways, but State's function, especially when I got back there and began to see about the correspondents center, the correspondents center was mainly for correspondents that State didn't want to fool with.  And a lot of the senior officers, sure, we had people who—if you had an ambassador who was friendly and understood and wanted to help out.  But I just felt that when we last moved away, the last reorganization, we just got a step further away where we should have gotten a step closer and more integrated and more interchange of functions.</p>
-<p>
-<pb facs="0026" n="Page0026"/>
-<hi rend="italics">Q:  It's hard to say.  I was in the work while the Agency, what was the predecessor, was still part of State.  We were prohibited from doing lots of things—inhibited, perhaps not prohibited.  We were inhibited from doing many things that I thought we should have been able to do, simply because State was so super-cautious and they didn't understand the riddle of the information program and the press context.  I suppose I've carried that feeling with me, even though I've long been out of the Agency now.  So I was one of those who wasn't too upset to see it come the other way.  But you can argue in both directions.</hi>
-</p>
-<p>I do think that even the people who are the greatest supporters of the cultural program do not understand that it, in itself, is a form of propaganda, but it's one that is done so carefully and so away from what you normally consider to be the propaganda aspects, that it doesn't show up as being blatant.  But over the years, I think it's one of our greatest propaganda efforts, and it has proven to be one of the best and most successful activities we've ever had.</p>
-<p>PETTUS:  Unfortunately, the word “propaganda” has a bad connotation.  After all, propaganda is only the propagation of knowledge.  It got the connotation of being the propagation of inaccurate knowledge, and really the cultural programs in themselves are the propagation of knowledge.</p>
-<p>
-<hi rend="italics">Q:  They are.</hi>
-</p>
-<p>PETTUS:  You bring people to the United States and you'd let them see anything that they wanted to see.  The people that they did get to see, sure, they got the official word, but they could also get any other word that they wanted.  But the greatest thing that's happened now—and I won't have anybody convince me that the United States Government, the Department of State, the CIA, or anybody else knew what was going to happen in Eastern Europe.</p>
-<p>
-<hi rend="italics">Q:  I don't think they did, not the slightest.</hi>
-</p>
-<p>PETTUS:  I was in Eastern Europe two months before that took place, and I think I am as reasonable an observer, although I don't speak the languages, and I had no feeling whatsoever that anything major would take place.  The only thing I did see was in East Berlin, that obviously the East Germans were allowing a lot of people out of East Berlin.  There were long queues at the railway station at the underground.  I asked the guide, “What are those people?”</p>
-<p>She said, “Oh, they go to West Berlin to see their relatives.”</p>
-<p>I said, “They take all the suitcases and everything with them?” (laughter) They were making a safety valve.  They realized that things were—but we never.</p>
-<pb facs="0027" n="Page0027"/>
-<p>We were at Potsdam seeing things, and here a lot of people were taking pictures and there were a lot of school kids out, Saturday.  School kids were all around.  They all would like to have their picture taken, and they're all coming up and want to talk.  And you know what they wanted?  Their entire lives had been filled with the fact of the “wicked Americans.” They were surrounded with Russians everywhere, and Potsdam is an occupied city.  They came up and wanted to talk, and you know what they wanted?</p>
-<p>
-<hi rend="italics">Q:  What?</hi>
-</p>
-<p>PETTUS:  They wanted pen pals.  They wanted you to take their name and give it to somebody to write them a letter.  I didn't detect any animosity whatsoever.  But anywhere else?  In Czechoslovakia or in Hungary or anything, you saw obviously things were out of hand, that the government wasn't doing things.  Open black markets in Hungary that the government was unable to control and would criticize.  But to say what was going to happen, I don't think anybody—and you know what did it?  It was information.  The biggest thing was the chip, a little—there is no such thing now as keeping any kind of information secret or classified or anything else.</p>
-<p>
-<hi rend="italics">Q:  It crosses borders.</hi>
-</p>
-<p>PETTUS:  I remember one of the many trips I made to Vietnam.  I made three trips to Vietnam after I'd worked for the Agency.  The last one was from England, and I was going out there on one of those tours to the PAOs and others were sent out there.  Here I was, I was watching this guy out in a rice field, he's plowing with his water buffalo and he's got a radiophone on.  He's got a radio on.  I don't know who he was listening to, whether it was Radio Saigon, whether it was our radio, or Radio Hanoi.  But this guy was going to know what went on.</p>
-<p>The chip is the real thing that caused this whole turmoil and the whole overthrow of Eastern Europe and whatever will happen in the Soviet Union today.</p>
-<p>
-<hi rend="italics">Q:  I gather you enjoyed your tour with USIA, in any event.</hi>
-</p>
-<p>PETTUS:  I enjoyed my life with the Agency.  I found it enormously rewarding, and I found many good friends.  I found some whom I didn't care so much for.  I found some very wonderful people at State.  I found some ambassadors who didn't deserve to be ambassadors, and some others who were remarkably dedicated men in their fields.</p>
-<pb facs="0028" n="Page0028"/>
-<p>I think if I had to summarize what I think our problem might be, or a lot of the problem, is because of the structure of continual budgets and having to program things.  We don't get to spend enough time planning for what the future might be.  To plan what the future might be is an ineffective and not very efficient exercise.  But we have to spend, because of the curtailment of people and too much time, you don't get time to do other things.</p>
-<p>
-<hi rend="italics">Q:  I think the Agency has never really planned very far in advance, and the question is whether you can plan very far in advance in a fast-moving situation.  On the other hand, the fact that you thought about the possibilities and might be prepared for something that came up, I think, are the most important.  And we haven't done enough of that.  I agree.</hi>
-</p>
-<p>PETTUS:  I think you can do certain things, but it is not, as I say, highly efficient.  Then you've got a budget cut, you get salary increases, you get no more money in this thing, so they say, “We've got fewer and fewer people.  How much is this guy contributing?  What's he doing?” One of the things he's doing is thinking.  But then there's some crisis reaction comes up and all efforts are focused on reacting.  We spend too much time reacting to factors around the world, and State has the same problem and the whole government.  It's not a thing unique.</p>
-<p>
-<hi rend="italics">Q:  No, it isn't.</hi>
-</p>
-<p>PETTUS:  But as I say, it's like intelligence gathering.  Fortunately, they still have a modicum of secrecy, but a great deal of it is highly inefficient because a great deal of it is wasted.  It's either not useful, but we are so obsessed with the bottom line that we're not looking, I think, far enough ahead.  The future is often obscure.  Maybe if we'd though further ahead, we might have known what was going to go on in Eastern Europe.</p>
-<p>
-<hi rend="italics">Q:  I'm not sure we would, but on that note, I think we'll quit.  I thank you very much, Jim, for taking this time.</hi>
-</p>
-<p>PETTUS:  I thank you.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project Information Series</p>
+                <p>JAMES T. PETTUS, JR.</p>
+                <p>Interviewed by: G. Lewis Schmidt </p>
+                <p>Initial interview date: May 30, 1990</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: I'm going to ask Jim to start out by giving a short
+                        biosketch of what his background was, what his education was, a little bit
+                        of what he did before we got into the information work, and then what it was
+                        that brought him into the Agency, or into the information program. Jim, will
+                        you start and follow that scenario?</hi>
+                </p>
+                <p>PETTUS: I was born in St. Louis, Missouri, in 1919. I grew up there and went to
+                    high school there. I didn't go to college. I learned to fly an airplane in 1938
+                    and was later going to go on to study aviation engineering, aeronautical
+                    engineering, but then the war came along, or was obvious, and I joined the
+                    Canadian Air Force in 1940. The U.S. Army didn't want anything to do with people
+                    that had never been to college, even though I knew how to fly an airplane. But
+                    the Canadians, it didn't bother them a bit, and so I received a commission in
+                    the Canadian Air Force and went up there for 1940-41 and part of '42.</p>
+                <p>In 1942, I came back to the U.S. Army Air Force and throughout the rest of the
+                    war as a bomber pilot. I was pretty fortunate in the fact that I was lucky, in
+                    fact, I got a little earlier start than most of the pilots inasmuch as I'd been
+                    flying earlier. I finished the war as a group commander and a colonel. I flew 59
+                    combat missions.</p>
+                <p>
+                    <hi rend="italics">Q: Did you get to be a pilot, or were you a bombardier all
+                        the time?</hi>
+                </p>
+                <p>PETTUS: I was a pilot all the time, and all of this is very much a matter of
+                    luck, you know. First of all, it's being in the right place at the right time.
+                    There's a certain amount of luck in it, also, that you live long enough. Out of
+                    the 25 men that went to Canada with me in 1940, the first 25 went up there, I
+                    only know of about six that I think lived through the war. Anyway, it was
+                    largely a matter of luck and a certain modicum of ability to be able to fly an
+                    airplane.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>After the war, I was in the aviation business for a while. In 1949, I went to
+                    China because my brother-in-law happened to be over there and wanted me to
+                    visit. He wasn't well, and my sister wanted me to come over there. At that time,
+                    I got to know some of the people in the information business, and I got a job
+                    stringing for the AP [Associated Press] in China, which was at that time, of
+                    course, very rapidly going down the tube.</p>
+                <p>But I did get to travel around parts of West China prior to the defeat of the
+                    Nationalist forces, and in fact, almost got captured myself down in Hainan
+                    Island. Bill Barnett and I were down there at that time, and we got stranded.
+                    But it gave me some ideas about the newspaper business and writing and USIS,
+                    which was only marginally involved at that time. I did know some people that
+                    were in the USIS.</p>
+                <p>
+                    <hi rend="italics">Q: Did you happen to know Earl Wilson at that time?</hi>
+                </p>
+                <p>PETTUS: No, I never met Earl, but I knew McCarthy and Wilson later, of course,
+                    but not in 1949-1950. In fact, I think the only person that I ever knew that
+                    stayed in was I met Jimmy Anderson one time in Saigon in 1950, and he was the
+                    entire USIS in Vietnam. In fact, I don't believe my interest didn't run to how
+                    much was in the embassy or the consulate at that time. That was in late '49 or
+                    early '50.</p>
+                <p>
+                    <hi rend="italics">Q: That would have been a consulate general.</hi>
+                </p>
+                <p>PETTUS: CG. I don't know who the—</p>
+                <p>
+                    <hi rend="italics">Q: I'm just trying to think. Bao Dai was the—</hi>
+                </p>
+                <p>PETTUS: Bao Dai. Yes, he was there. I remember seeing him.</p>
+                <p>
+                    <hi rend="italics">Q: I got to Saigon in 1950 on a trip for the State
+                        Department, and USIS was operating, but whoever was the ConGen at that
+                        time—Gullion, I think, was out on a tiger-hunting expedition with Bao Dai,
+                        so I never met him.</hi>
+                </p>
+                <p>PETTUS: I went down there and did a few stories. I had to travel—my passport said
+                    I was a farmer. I would do a little tiger hunting, and I never shot a tiger, but
+                    I spent a good deal of time up around Dalat and up in the mountains. I saw a bit
+                    of the early days of the Vietnam War out there. Bao Dai was still in power. I
+                    remember seeing him charge around Saigon in his motorcade. Quite an interesting
+                    character, although I never met him, and some of the requisites might have been
+                    a reasonable ruler if he'd had the opportunity.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>Later, I went back to the United States and stayed in the aviation business for a
+                    while, but having been in China and in Southeast Asia and so forth, I met some
+                    people around Washington, where I was living, one of whom was Henry Loomis, who
+                    kept saying, “Why don't you come and work for us?” What I found out, of course,
+                    was that they were not only interested in people that had some experience in
+                    Asia and a little bit in terms of newspaper work, but also they were interested
+                    in people that had very, very good military records and backgrounds. This was
+                    the height of the [Joseph] McCarthy era, and they wanted somebody whom McCarthy
+                    couldn't question too much. I did have a good background.</p>
+                <p>Well, at that time I wasn't married, and I decided that it was time to go to
+                    work, and flying airplanes was all right once in a while, but unless you make a
+                    profession of flying, it's not a good idea. You should either do it full time or
+                    not at all.</p>
+                <p>Henry offered—USIS offered me a job to go to Manila, so I got married and
+                    embraced the United States Government all in the same week.</p>
+                <p>
+                    <hi rend="italics">Q: I'd like to go back just a minute. You said that you were
+                        in Hainan and almost got captured. Would you give me a little bit of details
+                        about that? It sounds like a rather interesting experience.</hi>
+                </p>
+                <p>PETTUS: Bill Barnett and I were friends, along with Al Ravenholt and a lot of the
+                    other people. So Bill said he was going to make a trip down to Hainan, and why
+                    didn't I come along. He wanted somebody. [Tape interruption] “But today is the
+                    day that the communists have arranged it so that most of the airplanes of CNAC
+                    and CATC are going to fly away to the communist side. They have arranged it so
+                    that most of the pilots will defect.” He said they knew I wouldn't do it, so
+                    they arranged that I would be on a flight to Hainan. Those pilots that were
+                    going to go to Taiwan, Formosa, they also were not going to defect. So there was
+                    no great compulsion or force in a sense, but there was great sympathy for the
+                    communist side, and the Convairs did fly away. They broke them up pretty quick.
+                    So he said, “I'll tell you that when you get to Hainan, there's going to be no
+                    way to get out. If you want to get back to Hong Kong, you'd better come back
+                    with me and I'll arrange it so that you can ride up in the cockpit with me. Even
+                    though we've got a full load, we'll be light on fuel coming back, because
+                    there's no fuel in Hainan. We won't be overweight, but you can come back with
+                    us.”</p>
+                <p>Well, being a fearless, intrepid newsman, we stayed on in Hainan and we stayed in
+                    Hainan for about 16 or 17 days, until we finally got out on a freighter. I think
+                    it was a Dutch ship that crawled in there that picked up lots of refugees and
+                    any number of paying passengers like ourselves. You could see across from Hainan
+                    to the mainland, and the troops that were on Hainan, there were thousands of
+                    refugees troops in miserable condition.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: All Nationalists.</hi>
+                </p>
+                <p>PETTUS: All Nationalists, in miserable condition. There were a few relatively
+                    good combat units that were in position, but they certainly were not going to
+                    make any major defense of the island if the communists had wanted to come
+                    across. You could look across the straits about ten miles or someplace a little
+                    less, and through glasses you could see communists troops in large numbers over
+                    there, although they said there didn't appear to be any real danger because they
+                    didn't see a large collection of vessels, boats, junks, or anything that could
+                    bring them over. The Nationalists had taken the precaution to steal, burn, buy
+                    all of the boats in the area. In fact, the communists didn't come and take
+                    Haikou for, oh, I don't think another three or four months. But there was no way
+                    to get out of Haikou. The Nationalists were in control in the southern part of
+                    the island, and they had a big air base, but you couldn't get there.</p>
+                <p>We debated trying to hire cars. The bridges were down, bandits were in control of
+                    most of the area, and we felt that we were probably better off being captured by
+                    the communists than we were by the bandits. (laughter)</p>
+                <p>
+                    <hi rend="italics">Q: Or even some of the Nationalists, for that matter.</hi>
+                </p>
+                <p>PETTUS: Yes. That's true. The idea, there was no way to get to the southern part
+                    of the island, so we just stayed where we were until the ship came along, and
+                    then we finally got back to Hong Kong.</p>
+                <p>
+                    <hi rend="italics">Q: You must have had a few shaky moments there waiting for
+                        the boat.</hi>
+                </p>
+                <p>PETTUS: Oh, yes, we did. Yes, we did, especially the enterprising Chinese had
+                    sold all of the cabins about ten times over, and we were going out in a
+                    motorized junk, in the last one. Somebody had arranged that we were going to be
+                    on, to make sure we got on this boat to get out, and the boat was laying about
+                    two miles offshore. So on the way out, the motor stopped, the freighter starts
+                    to blow its whistle, and here we are left with them, trying to start the motor
+                    again. You can ask Doak Barnett about this sometime. I see he was your speaker
+                    at the last Friday. Doak was out here at the East-West Center not too long ago
+                    last year, and he came down, and we had a great time reminiscing about that trip
+                    to Hainan.</p>
+                <p>
+                    <hi rend="italics">Q: I missed the last one when he was there, so I didn't hear
+                        him.</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>PETTUS: Well, after I got back, my first job in USIS was to go to Manila as press
+                    attach� in Manila. I didn't know much about being a press attach� at all, and I
+                    didn't even know why they had picked it out, other than that they had a
+                    requirement. So they sent me to Tokyo to see what a press attach� did for four
+                    or five days.</p>
+                <p>
+                    <hi rend="italics">Q: What year was this?</hi>
+                </p>
+                <p>PETTUS: This was in 1954.</p>
+                <p>
+                    <hi rend="italics">Q: I was in Tokyo at that time.</hi>
+                </p>
+                <p>PETTUS: Cliff Forster was there. I think Joe Evans was a PAO.</p>
+                <p>
+                    <hi rend="italics">Q: He hadn't come quite yet.</hi>
+                </p>
+                <p>PETTUS: Hadn't he?</p>
+                <p>
+                    <hi rend="italics">Q: It must have been later, then, because Joe came in October
+                        of '55.</hi>
+                </p>
+                <p>PETTUS: This was October or November of '54. Anyway, I didn't learn very much,
+                    but when I got to Manila, I found out what there had been a requirement and that
+                    the former DCM had requested a press attach� because they were having a lot of
+                    problems with the press in Manila, which they always did have. I'm trying to
+                    think of his name. But he had requested a press attach�, and they were trying to
+                    fill the slot, and they finally hired me. But in the meantime, this DCM had
+                    left, and they really didn't have any desire or need for me.</p>
+                <p>Admiral [Raymond A.] Spruance was the ambassador, a very fine man, very popular
+                    with the Filipinos, but he was so respected by the Filipino press that they
+                    didn't particular vilify him, but the base problem, which is active in the news
+                    today, was becoming more and more active then. But Spruance's feeling was that
+                    if we take the initiative onto this problem, or even try to deal with the
+                    aggressiveness, you stir it up and we'll make it worse.</p>
+                <p>So there was plenty to do, but I spent my time getting to know the Philippines
+                    and to know the press and the people and so forth, but mainly knowing what went
+                    on in the Filipino press and trying to understand more and more about it.</p>
+                <p>
+                    <hi rend="italics">Q: Was Jim Meter the PAO at that time?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>PETTUS: No, John Nalley was the PAO. Jim had been there just before.</p>
+                <p>
+                    <hi rend="italics">Q: I know he was there in 1950.</hi>
+                </p>
+                <p>PETTUS: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: I guess you had gone to Bangkok by that time.</hi>
+                </p>
+                <p>PETTUS: Yes. John hadn't been there too long, but John knew a lot about Asia and
+                    Southeast Asia. But the base negotiation which the embassy had a good deal to do
+                    with and was getting to be more important, and was no longer left just to the
+                    military, had taken sort of the forefront of what was going to be the major
+                    problem coming up.</p>
+                <p>Spruance was due to retire, and did retire or leave. He had retired as a
+                    four-star admiral and was, of course, tremendously respected by the Filipinos,
+                    and a very, very fine and competent, able man. His wife was a wonderful
+                    woman.</p>
+                <p>It was a really interesting beginning of how to learn. So I met a lot of
+                    interesting people and I got a lot of valuable information from some of the
+                    Americans who had been there before the war, many of whom had been interned
+                    there, like Ford Wilkins, who was editor of the Manila Bulletin, and Carson
+                    Taylor and others who gave me real insights into the problems, as they felt
+                    them, were coming up, some justified, some not, and how the Filipinos felt about
+                    these things.</p>
+                <p>I knew the editors of all of the papers. The Manila Chronicle was the paper that
+                    was probably the most critical of us. It was owned by the Lopez family, some of
+                    the wealthiest people in the Philippines. But I remember a very cogent statement
+                    that was made by an editor of the Chronicle named Ernie del Rosario. Ernie was
+                    an old-time newspaperman. He knew the newspaper. He knew lots about the
+                    Americans, and we drank a lot of beer together. Ernie one time told me, he said,
+                    “You know, Jim, there's one problem with Americans that come out here in the
+                    embassy and the military and they come to negotiate. They forget that Filipinos
+                    know a great deal more about Americans than Americans know about Filipinos. They
+                    come here and they stay here for a couple of years, two or three, and then they
+                    go off and they leave.” Well, I've never forgotten that. I think we could take a
+                    little information from it today when we're trying to deal with this very
+                    emotional and seemingly intractable problem that they have with the base
+                    negotiations. And they aren't much different today than they are then.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>A big problem in those days was sovereignty, whether two flags would fly on every
+                    base. There was a tremendous argument about the height of the flagpole on each
+                    side. Which flag would go on what side of the entrance? But mostly the money was
+                    not as important as it is today. They wanted more equipment. But the emotional
+                    problem of the fact that the United States, at that time, although we
+                    specifically avowed that we were not sovereign on these bases, we certainly in
+                    many places acted like it, and that's changed a lot, but still today it's a
+                    problem that they feel, that these bases are not their own. The Filipinos are
+                    tremendously capable people who cannot really find the right path in many ways,
+                    but they are extremely emotional and subject to rabble-rousing leadership.</p>
+                <p>
+                    <hi rend="italics">Q: [Ram�n] Magsaysay had not yet become president at that
+                        time, had he? The Huk insurgency was still going on?</hi>
+                </p>
+                <p>PETTUS: The Huk insurgency. Magsaysay was president at that time when I got
+                    there, and Ed Lansdale was holding strong. Magsaysay was a fine, fine man. I saw
+                    a lot of him and I traveled with the Filipino press quite often whenever there
+                    was any American content into his visit. If he was going to go to a base,
+                    although the military had their own information people, the embassy sent along
+                    somebody and I usually traveled with the Filipino press and went with him. On
+                    the day that he was killed, there was no American content or function on his
+                    visit. So fortunately, I wasn't along, but I'd been on his airplane and I knew a
+                    lot of those people.</p>
+                <p>He was a man who really, really tried and had the ability to lead people, but I
+                    think he was in many ways far too trusting. We knew a lot of things that were
+                    going on, which he must have known. But he used to say, “I'll put my own father
+                    in jail or my own family if we find that they're being corrupt.” As it turned
+                    out later, after he was killed, part of his own family wasn't all that
+                    honest.</p>
+                <p>By this time, we'd gone through another ambassador, though. Albert Nufer was the
+                    ambassador at that time. But we'd been through Ambassador—what was his name?
+                    Former senator from Michigan. But the less said about him, the better. He was
+                    really only concerned with getting an appointment to a federal judgeship, which
+                    he got, and not making any—no, I'm wrong about that.</p>
+                <p>The sequence was that Ambassador Nufer came after Spruance and was a very fine,
+                    able man who spoke, he thought, fluent—was bilingual in Spanish. He understood
+                    the mentality and would have made a very good—I think would have done very well,
+                    much better in base negotiations than what we did had it not been for the fact
+                    that he died of a heart attack very suddenly. In fact, he died the same week as
+                    Magsaysay was killed.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>Homer Ferguson was the interim ambassador. He came right after Spruance, and he
+                    didn't stay very long, fortunately. But he was a man who—I guess he had a good
+                    legal mind and was a good senator, but he did not understand the Filipinos.</p>
+                <p>I left soon after. Well, the base negotiations broke down. Magsaysay was killed.
+                    Nufer, the ambassador, died the week before Magsaysay was killed. The base
+                    negotiations were going on. The DCM was a man named Horace Smith, who about
+                    worked himself into an early grave himself with all of the stress of the
+                    breakdown, but without Nufer's guidance and without Magsaysay's support, it was
+                    obvious. They made an interim agreement, but it was nothing really solid to
+                    build upon. I had been there at that time getting on a little over three years,
+                    and I was offered a chance to go to New Zealand as PAO.</p>
+                <p>
+                    <hi rend="italics">Q: Then most of the thrust of your work while you were there
+                        was dealing with the base problem and with the press, generally. You weren't
+                        in on so much of the active campaigning for other issues that USIS might
+                        have been involved in?</hi>
+                </p>
+                <p>PETTUS: Yes, that's true. The base problem was the predominant feature. There
+                    were other factors and American policy, in general. One of the things was that
+                    the Filipinos were trying to get a seat on the Security Council, one of the
+                    rotating seats on the U.N. Security Council. The Americans were backing them on
+                    the fact that we would back the Filipinos for so long, but if it became an
+                    impasse, we had told them that we were going to have to change our vote, because
+                    if not, we'd get somebody in there that would be very unfriendly.</p>
+                <p>I remember an incident where [Carlos P.] Garc�a was the vice president of the
+                    Philippines. Garc�a gave a press conference wherein he stated that the Americans
+                    had pledged to back the Filipinos all the way. Well, I knew that this wasn't
+                    true, and Garc�a also knew it wasn't true. Well, I heard about this from some of
+                    my colleagues in the press and the Filipinos, non-Americans. I finally got hold
+                    of the ambassador to tell him that this was Garc�a's statement. This was about
+                    nine o'clock in the evening. Ferguson comes on the phone and he says, “Just a
+                    minute, Jim. I'll ask the vice president. He's right here.”</p>
+                <p>So the next voice I heard on the phone was that of the vice president of the
+                    Philippines, and he says, “Hello. Patterson? I didn't say that. I said . . .”
+                    And he just twisted the words enough so that it would satisfy the ambassador,
+                    who was standing right beside him and who wouldn't know the difference. Ferguson
+                    then got on the phone again and says, “Now, Jim, you've heard it from the vice
+                    president. You go down to those newspapers and you straighten them out on what
+                    he really said.”</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>Well, I hung up the phone and debated about what to do. I was at a party and I
+                    went back and had another drink and decided I'd better not do anything, because
+                    the one thing we could not do, I knew he had said it and I knew that they
+                    weren't going to change it, and I also knew that it would just discredit me, us,
+                    and everybody if I went down and tried to put words in the vice president of the
+                    Philippines' mouth.</p>
+                <p>
+                    <hi rend="italics">Q: It's just unfortunate we didn't have the practice of
+                        taping practically every interview, because we didn't have the equipment.
+                        These days you couldn't get away with that.</hi>
+                </p>
+                <p>PETTUS: (laughter) Well, anyway, the next morning, of course, the story came out
+                    in the paper just exactly as Garc�a had said it, and at 7:30 I was called to the
+                    ambassador's office. The ambassador says, “Did you go down to those newspapers
+                    and straighten that story out like I told you?”</p>
+                <p>I said, “No, sir, I didn't.” I guess that was a mistake. and I should have.</p>
+                <p>Anyway, his response was, “You're fired!” And he tried to get me fired. In fact,
+                    he did get me transferred out of there, or would have, but I strongly resisted
+                    being transferred under a cloud of the fact that I knew, and later, I
+                    understand, he realized that I had done the right thing. But I guess I should
+                    have had a little more wisdom and discretion would have been the better part of
+                    valor to have fudged it and said, “Well, I tried, sir, but . . .” (laughter)</p>
+                <p>
+                    <hi rend="italics">Q: I really think you did the right thing. I think probably
+                        you should have argued with him at the time that he said, “You're fired,”
+                        and gave him your rationale, but it might not have done any good at that
+                        time. But I think you did the right thing. I think your judgment was
+                        entirely correct. PETTUS: It was not very many months after that, in fact, I
+                        was offered a very good job. I was offered to go to—we had a branch post in
+                        Malaysia at Penang.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: A lovely spot.</hi>
+                </p>
+                <p>PETTUS: Oh, it's a garden spot. Everybody said, “You're crazy! Why didn't you go
+                    up there? Is it just because you got . . .”</p>
+                <p>I said, “No, I'm not going to do it.”</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>Anyway, Ferguson left and time ran out, and I went to New Zealand. I didn't take
+                    home leave. I had some small children by that time, and I went to New Zealand
+                    and spent a very, very interesting and pleasant time down there. As USIS, I was
+                    the PAO. I had an American secretary, and we had a very, very small program, and
+                    it was an interesting bit of learning. I also had very pleasant relationships
+                    with the newspapers down there.</p>
+                <p>I could indulge in a thing which I love to do, which was trout fishing, and it's
+                    the world's best down there. It just so happened that the editors of almost all
+                    of the New Zealand papers were fishermen. So I spent a lot of time, four or five
+                    days, up at various lakes or rivers with the editors of the bigger papers, the
+                    Dominion or the Evening Post or the Truth and so forth. I'd bring the booze and
+                    then we would sit around a campfire at night, and I figured this was a good way
+                    to make—certainly this was where the power of the press lay, in the owners. And
+                    these were absolute owners, and they were all basically friendly to the United
+                    States, although some of them supported the labor government, which was in part
+                    of the time. In fact, when I got there, Walter Nash was the prime minister, who
+                    was a very fine old man and a labor prime minister.</p>
+                <p>
+                    <hi rend="italics">Q: What was the date, just for the record?</hi>
+                </p>
+                <p>PETTUS: That was in late '57, early '58. I stayed there just two years and then
+                    came back to Washington.</p>
+                <p>
+                    <hi rend="italics">Q: You would say, then, that your principal duties there were
+                        to cultivate the press, and that you didn't have serious themes that you had
+                        to promote on behalf of the United States? Or did you?</hi>
+                </p>
+                <p>PETTUS: We had some serious things. As I recall, we didn't have any terribly
+                    serious problems. What we were mainly after was the support of New Zealand in
+                    the United Nations on a lot of issues, but we didn't have anything, as I recall,
+                    terribly serious problem bilaterally with them. We had a very active program of
+                    educational exchange there, and as PAO, I was also chairman of the Fulbright
+                    Commission, and it gave me quite a feeling of power to have the vice chancellor
+                    of the University of New Zealand at a meeting say, “Mr. Chairman, can I speak?”
+                    I'd say, “Yes, Vice Chancellor, go right ahead,” especially [since I] had never
+                    been to college.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>But we did have a very active campaign. There was a lot of—oh, I wouldn't say
+                    latent anti-Americanism. It's a very egalitarian society, New Zealand was, and
+                    in their labor movement there's a lot of fundamental criticism of the United
+                    States. But there was also a tremendous reservoir of good will from the war
+                    years, of not only Americans who were, many of them, still there, but when
+                    Britain got in serious difficulties, New Zealand and Australia, both, felt that
+                    they were left out. The fact that the United States recovered as quickly as it
+                    did from the catastrophe at Pearl Harbor and was able to come out and establish
+                    defense lines and make them credible, and after the Battle of the Coral Sea and
+                    the Battle of Midway, of course, the die was cast. But in the early days, there
+                    was real concern that the Japanese would predominate. This was especially true,
+                    of course, even more so in Australia than it was in New Zealand.</p>
+                <p>It's a very interesting country, and it's a country that we had a few trade
+                    problems with them, which they felt we were giving them a bad deal on certain
+                    raw materials. Wool. Wool was always a big problem. Wool and lamb were the two,
+                    of course, great staples of Australian trade. There were also things that were
+                    protected very strongly by the United States. Whereas it was the lifeblood of
+                    the whole nation there, to us it was a small factor in our entire agricultural
+                    picture, but it was very important to them. But we didn't have the serious,
+                    major political problems there.</p>
+                <p>We were trying to get the government to support us, which, by and large, they
+                    did. Where they did not support us, of course, was on China. And there was no
+                    point in trying to change their attitudes on something like China. They were
+                    following the British thing, and the New Zealanders said they didn't have
+                    anything to worry about China. But they felt that we were wrong on China, and
+                    there was no point in trying to get them to change their mind. I remember
+                    hearing the ambassador say, “I'm not going to go in and argue with them about
+                    it.” (laughter)</p>
+                <p>But it was a very pleasant time, busy. You had a lot of hard work, and I learned
+                    a lot about program problems and how you handle it. I didn't worry as much about
+                    people, but the intricacies of the government, which I never did learn, and
+                    certain programs and budgets and so forth, I never was a very strong person on
+                    that. I had ideas, but I was never very good on management. But it was good
+                    training.</p>
+                <p>After I got home from New Zealand, I got back to Washington and I was told that
+                    because I was one of the people who were outstanding mid-career people, I was
+                    selected for a mid-career course. Well, it was an interesting period. You can't
+                    go wrong learning anything, and we did have quite a number of interesting
+                    lectures. But I later found out that virtually everybody who was on a mid-career
+                    course was just selected because they were in mid-career and they were
+                    available. (laughter)</p>
+                <p>
+                    <hi rend="italics">Q: What was it you were doing to be given a mid-career
+                        course?</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>PETTUS: I was on leave! (laughter) I was in Washington and available. That's why.
+                    In between an assignment, they didn't know where to put you, so they sent you to
+                    a course. I found out all those things later.</p>
+                <p>
+                    <hi rend="italics">Q: Where did they send you?</hi>
+                </p>
+                <p>PETTUS: Then I had the very good fortune, because I'd had some experience with
+                    the press, because I had an English wife, and I was sent to England. I'd had
+                    experience in New Zealand, the Commonwealth. I had spent a certain amount of the
+                    war years in Australia. I had been a King's officer in the Canadian Air Force,
+                    all of which they felt I would be good to go and work with the English, and it
+                    served me well.</p>
+                <p>The English have great respect for people that have spent time in the
+                    Commonwealth, and especially in their military forces.</p>
+                <p>
+                    <hi rend="italics">Q: What year was it that you went to London?</hi>
+                </p>
+                <p>PETTUS: I went to London in 1960, I guess it was, '60 or '61. I spent a long time
+                    there. It was my only diplomatic accomplishment. I spent 12 years there.</p>
+                <p>
+                    <hi rend="italics">Q: My word!</hi>
+                </p>
+                <p>PETTUS: (laughter) As people say, “What was your biggest diplomatic
+                    accomplishment?” I say, “My biggest diplomatic accomplishment was to spend 12
+                    years in London.”</p>
+                <p>
+                    <hi rend="italics">Q: What was your position there?</hi>
+                </p>
+                <p>PETTUS: I was the press attach� and the information officer and acting PAO for a
+                    while and so forth. I did just about all the jobs there were to do there.
+                    Ambassador Whitney was there when I went, and he was there for two or two and a
+                    half years. Then he left, and Ambassador David Bruce came, and he stayed for
+                    eight years. So after I'd been there three years, one day I was talking to Bruce
+                    about something, and I was casting about for another kind of a job that he
+                    thought would be good for me, that if he thought I'd be good in the job, he'd
+                    give me a good boost. He turned around and he said, “Why, don't you like it
+                    here?”</p>
+                <p>I said, “Oh, yes, sir, I like it fine, but you know, I've been here three years.
+                    You move on.”</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>He said, “Well, as long as I'm here, you can stay here.” So that settled that.
+                    (laughter) He was there for eight years.</p>
+                <p>Leonard Marks was director of the Agency about that time. Bill Clark was the PAO.
+                    But Leonard Marks was the director of the Agency, and I always felt that Marks
+                    was one of the underrated directors that we had. He may not have had the
+                    outstanding reputation with the press and with the public, but Leonard Marks
+                    understood one of the most important things that too many of our people, or too
+                    many people, didn't understand: he understood and care and feeding of Congress.
+                    I think that he made a good contribution at a very difficult time for the
+                    Agency. Of course, the Agency had been separated by that time from State, I
+                    guess about eight years, eight, nine years.</p>
+                <p>
+                    <hi rend="italics">Q: They were separated in August of '53.</hi>
+                </p>
+                <p>PETTUS: This was '62. About nine or ten years.</p>
+                <p>Mr. Marks was in London on a visit, and he paid his duty call on the ambassador.
+                    At the end of their conversation, why, Ambassador Bruce tells Leonard Marks, “By
+                    the way, Leonard, I want you to leave Jim Pettus here as long as I'm here.” So
+                    with that, I was secure in London certainly until Bruce left. In fact, I stayed
+                    there until he left, and Ambassador Annenberg came in and took his place. I left
+                    soon after Annenberg got there.</p>
+                <p>I was able to spend a wonderful period of time in England at a very difficult
+                    time in some relations with English and American.</p>
+                <p>
+                    <hi rend="italics">Q: What were some of the particular problems?</hi>
+                </p>
+                <p>PETTUS: They focused around foreign policy. Of course, Vietnam was growing in
+                    importance at that time, and Cuba. The communists could stir up an awful lot of
+                    trouble. The laborites would—I remember Grosvenor Square would get to be filled
+                    with tens of thousands of chanting demonstrators. “Hands off Cuba! Hands off
+                    Cuba!” And the police were around there with their horses. They were pretty
+                    worried that they might get into the embassy sometimes. In fact, we had barbed
+                    wire in the embassy at times. This was before the days that they had the armored
+                    doors. They were heavy, but they weren't the bulletproof glass. They broke
+                    windows all over the place. But Cuba was one. China was another. The
+                    demonstrations were not so much about China as they were always about Cuba and,
+                    then later, Vietnam.</p>
+                <p>
+                    <hi rend="italics">Q: Was this the time of the Cuban Missile Crisis that this
+                        went on?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>PETTUS: Oh, yes. On the afternoon of the height of the Cuban Missile Crisis, the
+                    Potava was steaming towards Havana. Grosvenor Square was filled with 10,000
+                    rioters. I was having my fortnightly lunch with my Russian counterpart down in
+                    Soho, and I had to get out of the back door of the embassy and go up towards
+                    Park Lane, finally get the underground to go down to Soho to meet this guy, a
+                    man named Vladimir Stennin. Stennin and I had lunch every two weeks, and we used
+                    to sit there and discuss the policies of the world. So when I got to this time,
+                    why, the demonstration, he more or less said, “You have a little problem,
+                    Jim.”</p>
+                <p>I said, “Yes. We all have got problems, Vladimir. You know, Stennin, we're both
+                    pretty dumb about Cuba.”</p>
+                <p>And he says, “Hey, Jim, what is this 'dumb'? Why do you say we're both dumb about
+                    Cuba?”</p>
+                <p>And I said, “Vladimir, the United States had the Bay of Pigs in Cuba and now you
+                    are going to send these missiles into Cuba. You've got just as much a problem as
+                    we've got with the Bay of Pigs.”</p>
+                <p>So he began to think, and he said, “Yes, we got some trouble.” So we had another
+                    drink. Then we had some more drinks. By the time I got back to the embassy at
+                    four o'clock in the afternoon, I couldn't hit the floor with my hat. But the
+                    Russians, I think, had a good idea that everybody had a big problem about
+                    Cuba.</p>
+                <p>Later, of course, the Potava turned back and the thing was over with. Stennin was
+                    a character whom I don't know whatever happened to him, but I don't think it was
+                    terribly—you could talk to him. I was working on him to try and get them to
+                    jump, maybe.</p>
+                <p>When he was at last reassigned—he was allegedly a TASS man.</p>
+                <p>
+                    <hi rend="italics">Q: But he was undoubtedly a KGB.</hi>
+                </p>
+                <p>PETTUS: Oh, no, I knew all about him. In fact, this afternoon, that same
+                    afternoon, I said, “Now, listen, Stennin,” finally. I said, “Your name is not
+                    this. Your name is such and such. What's more, you're a lieutenant colonel in
+                    the KGB.”</p>
+                <p>He said, “No, no, Jim, I'm not. I'm TASS man.”</p>
+                <p>I said, “TASS man, my ass! You're not!” (laughter) So anyway, “Have another
+                    drink.”</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>When Stennin left London to go back to Russia, not too long after that I was the
+                    only American invited to his going-away party down in the bowels of where the
+                    Soviets have all their housing and so forth. Most of them were Eastern
+                    Europeans, Russians, and there were a few English correspondents, one whom I
+                    knew very well. Later I was talking to him and we owned up that both of us were
+                    working the same thing, and we both thought we could get them to jump. Later I
+                    found out that this man was not only a correspondent, but he worked for some of
+                    the intelligence people, or he contributed to them. We both felt the same way,
+                    that we were getting pretty close, and we felt that that's why he was sent home.
+                    I don't know what ever happened to him, but I doubt that it was anything very
+                    good.</p>
+                <p>
+                    <hi rend="italics">Q: When it was finally revealed by [President John F.]
+                        Kennedy that missiles were definitely in place over there and proven beyond
+                        a question of a doubt, what was the reaction of the British generally, and
+                        what was the reaction of the laborites who were conducting all these
+                        demonstrations in Grosvenor Square?</hi>
+                </p>
+                <p>PETTUS: I wouldn't say, first of all, I don't think it was the laborites that
+                    were—they certainly aided and abetted in demonstrations, but they were not the
+                    formulators of them. The extreme left wing of the labor movement, I mean, as
+                    distinct from the labor government and the Labor Party, were the ones. And the
+                    Community Party, of course.</p>
+                <p>When we got the word that the films were coming, Ambassador Bruce went out to the
+                    airport with the people from the Agency, CIA, and I was not at the airport at
+                    that time. But he came back and we were all in the embassy, and he showed the
+                    pictures. In the meantime, CIA had given us the negatives and told us that we
+                    could reproduce, start to print, and we did. Of course, we had a very good photo
+                    lab and a good man who was sworn to secrecy. We started printing up about 20 or
+                    25 sets of these pictures. I've forgotten how many there were, probably 12, 14.
+                    Started printing them up, but, of course, there was an embargo on any release of
+                    them.</p>
+                <p>But about five sets were for the ambassador to take over to give to the prime
+                    minister, who, I guess, was Harold Wilson at that time. Wilson or Callaghan, I'm
+                    not sure which. But anyway, Denis Healey was the defense minister, I know that,
+                    and one set was for him. There were Bruce's own set and a set for the political
+                    people. The other sets we had were all labeled for the various press
+                    organizations. Well, the demonstrators were still out in Grosvenor Square.
+                    They'd leave in the evening hours and come back at night, and the police were
+                    all around there, and we had buses all drawn up in front.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>By and large, the main thing that the British, as I recall it, they were mainly
+                    apprehensive of any kind of a war which they felt would erupt into a nuclear
+                    war. Except for the extreme left, who was able to generate these demonstrations
+                    with very prominent people, all in support, by and large, I think the
+                    working-class people and certainly the conservative party were not sympathetic
+                    towards the Russians, as they felt that this was an aggressive move. They did
+                    feel that perhaps after the Russians had pulled back, the Americans should have
+                    given a bit more quid pro quo, like taking the missiles out of Turkey, perhaps.
+                    Since they had taken them out of Cuba, he said, “Well, they didn't have any
+                    business to have them in Cuba, anyway.”</p>
+                <p>But generally, the attitudes were apprehensive because of the fear of nuclear
+                    war. Politically, they were entirely separated purely by their own ideological
+                    bent. The left wing were saying that it was terrible that we should do anything
+                    like this and that they had a perfect right to put missiles in if they wanted
+                    to. The right wing was saying, no, they had nothing to do with it. But the
+                    reaction of the British Government was the one that was more interesting. It's
+                    been written and said, but I don't think it was ever seized upon or publicly
+                    disavowed or carried on. When Denis Healey, the Minister of Defense, saw the
+                    photographs, he more or less dismissed them as possibly fakes. After all, we had
+                    submitted some fake photos to the U.N. and gravely embarrassed Adlai Stevenson,
+                    and said these could very well have been. [Tape interruption]</p>
+                <p>The British Government and overwhelmingly the press were impressed. They believed
+                    the photographs. They were a bit disappointed in this thing of the detail of
+                    some of them, our vaunted ability to be able to read the brand of what kind of
+                    truck it was from the photographs didn't come out as well, but by and large,
+                    they were impressed. The foreign secretary at that time was Michael Stewart, and
+                    he certainly believed them.</p>
+                <p>There was a bit of a story about that, that we had these photographs and we had
+                    the release time from that other agency that says that after this and after
+                    their man and the other photographs had gone on to Paris, to Germany, and they'd
+                    all been around, the release time was set. So we had these photographs and it
+                    had all been known. Of course, they were circulating because they had come out
+                    on some of the wires. Well, we told the guys, “You can pick these things up,” at
+                    a certain time. They came, and we passed these things out of the back door, and
+                    the motorcycles took them off, and the protestors, demonstrators were still out
+                    in the Square. All of a sudden, I got a call. I was up on the desk and I got a
+                    call from Washington saying, “Who said you could release those photographs?”
+                    (laughter) They had never told us of that extended embargo.</p>
+                <p>Well, it turned out all fine. In fact, later they all admitted it was a good
+                    thing it happened, because then we'd been further accused of trying to hide the
+                    evidence, which was already in the public domain because it had been shown on TV
+                    and photographed off of television and then passed on the wires, but this was
+                    before the days of satellite communication on television. So the pictures had
+                    very much poorer detail, and we would have been accused—and were accused—of
+                    hiding the same thing.</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>Well, we released them all and then somebody else took credit for it. I don't
+                    know who. (laughter)</p>
+                <p>
+                    <hi rend="italics">Q: Inasmuch as you had the CIA clearance, they could hardly
+                        have fussed.</hi>
+                </p>
+                <p>PETTUS: No, there was no question that we had acted in any unauthorized manner.
+                    It was a goof-off which somebody else, instead of us getting the credit for
+                    doing the right thing, why, they said, well, it was okay that they didn't get
+                    chastised for withholding it as they were supposed to have done.</p>
+                <p>In Britain, of course, there were lots of major problems. I mean, when I first
+                    arrived there, the fact of Suez was still a terribly active thing. Here was a
+                    really bitter controversy, of which many people on both the left and the right,
+                    the conservatives were chastising us because of the fact that we had prevented
+                    the total victory. The labor people were chastising us because we hadn't gone
+                    far enough.</p>
+                <p>My own feeling was—and I think there were a lot of people later who felt the same
+                    way—was that there would have been no problem for the British to drive through
+                    the canal. They could have easily driven through to the end of the canal, but
+                    then where would they have been? They'd have been through the canal with maybe
+                    125,000 actives in an area that they couldn't keep peace in three years before
+                    with 250,000 actives. And they would have been in a much worse military
+                    situation than they had been before. But it was way overextended. It was felt
+                    that we had stopped them and snatched victory from the jaws of defeat. Certainly
+                    it was true. They could have driven through the canal, but it was a very, very
+                    bitter, bitter feeling. I mean, I was really amazed. The British are very
+                    clannish in certain ways like this.</p>
+                <p>I remember one time I was wearing—and I still wear it a lot—a Royal Air Force tie
+                    at some function. Some chap comes up and says, “Do you know what tie is that
+                    you're wearing?”</p>
+                <p>I said, “Certainly I know what tie. I was a flight lieutenant and held the King's
+                    commission.”</p>
+                <p>Then, oh, “Jolly good.” That was the thing to do, and he shook hands. (laughter)
+                    “That's fine. Congratulations.”</p>
+                <p>I said, “That was at a time when in the early days, a lot of us thought it was
+                    kind of foolish.” In 1940, it was by no means assured who was going to win. In
+                    fact, when we went to Canada, we technologically lost our citizenship. But all
+                    of us kind of felt, well, if we won the war, it wouldn't make any difference. If
+                    it lost the war, it wouldn't make much difference, anyway.</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: That's right. (laughter)</hi>
+                </p>
+                <p>PETTUS: A lot of people, you'd talk to them and they'd say, “Oh, you went in
+                    1940?” And they remember. This was during the Battle of Britain. I didn't get to
+                    England for the Battle of Britain.</p>
+                <p>Anyway, in England there were very major, major problems. Always in the
+                    background was the problem of China. The problems in the Commonwealth, Britain
+                    was granting independence as fast as they could go, to the Commonwealth, but
+                    hopefully the Commonwealth was going to support the United States in many ways,
+                    but many of them didn't even support the old country. It was a difficult time of
+                    how they were going to reconcile themselves to—I've forgotten whose words they
+                    were—the new role that Britain was going to have to play. I don't believe—and I
+                    follow England pretty closely still—that they still haven't fully accommodated
+                    to it. And how are they going to do it with the EEC? They haven't really
+                    accommodated to the EEC.</p>
+                <p>
+                    <hi rend="italics">Q: With [Prime Minister Margaret] Thatcher in there flailing
+                        away, they haven't accommodated very well, although I think she has given
+                        some ground in the last month or so.</hi>
+                </p>
+                <p>PETTUS: You know, the English used to tell the old joke that the difference
+                    between the continent and Britain, there's a terrible storm, one of these awful
+                    [English] Channel storms and damage and ships aground and everything like this
+                    and so forth, and the headline in the newspaper was “Continent Cut Off.”
+                    (laughter) Britain is never cut off; the continent was.</p>
+                <p>That period of time was a wonderful period. After Ambassador Annenberg arrived, I
+                    felt that it was time for me to go, and I didn't want to even stay too much
+                    longer, in any event, and he wanted somebody else. So the Agency had no job for
+                    me, but they wanted me to come home. I had five children and I said, “To come
+                    home, I own my house in London,” and it was cheaper to buy a house than it was
+                    to rent one at that time, so I decided that what I would do is take leave
+                    without pay and write a book. I wanted to write a book about the American
+                    Revolution more or less from the eyes of the British soldier, the poor old Red
+                    Coat.</p>
+                <p>I never got around to doing it, but after I'd been on leave a few months without
+                    pay, I got a call from Washington saying, “How would you like to go to Australia
+                    as PAO?” They said, “You can call us back if you want.”</p>
+                <p>I said, “No, I don't have to call you back.” My wife was there, and I asked her.
+                    She said, “By golly, let's go!” (laughter)</p>
+                <p>So a few months later, we went to Australia and spent five very happy and, in
+                    some ways, turbulent years there.</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: This was 1971 or '72?</hi>
+                </p>
+                <p>PETTUS: That was 1972. I left in '77. I came back. I was PAO in Australia in a
+                    turbulent time. There were lots of major difficulties with Australia at a time
+                    when Australian labor government took an even stronger stand in some ways than
+                    the British labor government did against certain things. We had two very
+                    large—and still have—military installations. We have very close military
+                    relationships, although we didn't have any active troops there. The only active
+                    station we had was the one Navy station at Northwest Cape. We had no combat
+                    forces there. But there was always a tremendous problem with the visit of
+                    warships, nuclear or non-nuclear. This was a problem. Vietnam was an active
+                    running program, especially after the Australian troops pulled out of there. But
+                    here again, it fragmented on left-right lines.</p>
+                <p>The Australians had a more independent idea. I think they felt, for instance,
+                    that they could deal with things, and I think they subsequently found a lot of
+                    them they couldn't. Like they felt they could deal with North Korea. (laughter)
+                    Well, they couldn't deal with North Korea. Nobody could deal with North Korea.
+                    They opened an embassy in North Korea, and then the North Koreans came down. It
+                    wasn't a full embassy. They bought a motel on the outskirts of Canberra, and
+                    they had a few diplomats in residence and people there.</p>
+                <p>They had a big problem with these North Koreans, because the North Koreans didn't
+                    have any money and they were always running out of money. Then the North Koreans
+                    suddenly seemed to have a lot of money, and they couldn't understand. They
+                    finally found out very quickly where the North Koreans got the money: they were
+                    selling cigarettes and whiskey. It was all duty-free. They had to explain to the
+                    North Koreans that this really wasn't the proper thing to do, in diplomatic
+                    parlance.</p>
+                <p>Then they had a row with—came up every year a vote in the U.N. of whether or not
+                    the support for the U.N. resolution as far as the forces in the Korean invasion
+                    and whether or not we would support the United Nations Command and so forth.
+                    Well, they felt that it was a purely nominal thing. I think the U.N. command at
+                    that time only had three people in it. [Tape interruption]</p>
+                <p>But it was a gesture in the U.N. If they could get the votes, the status would
+                    change somewhat. The fact that Australia had established a modicum of diplomatic
+                    relations, they felt Australia would vote with them. The Australians felt that
+                    they would alter their vote only to abstain, knowing that the status quo would
+                    be sustained and it wouldn't be voted down. So the North Koreans took this as a
+                    very unfriendly act. So when they told this to the North Koreans, the North
+                    Koreans protested vehemently and they sent a note to this effect to the
+                    headquarters, and the note was refused. The next day, they sent another note
+                    back. When they got there, the North Koreans had all packed up and left. They
+                    went to Sydney and got on an airplane. Then they released a note back to them
+                    saying it was an unfriendly act, and therefore they were leaving.</p>
+                <pb facs="0020" n="Page0020"/>
+                <p>I don't know what they've ever done since, but we got a great charge out of this.
+                    (laughter) They felt that they could deal with these things. They had a lot of
+                    knowledge about China and they had some good people in China. As it turned out,
+                    they had some good contacts in China. Their policy in China is very close to
+                    what ours is, of course, today, in many ways. They were perhaps in advance of
+                    us. I don't think they've ever done much good in North Korea. They tried the
+                    same thing in North Vietnam.</p>
+                <p>I think they felt, especially the labor government, that they were
+                    representatives of the people and they could do this. This was not a thing
+                    shared, of course, by the conservatives.</p>
+                <p>The biggest problems we had, there were a lot of trade problems, whether or not
+                    they'd increase the meat quota or whether or not there were trilateral trade
+                    problems with Japan. But the bases problem, the fact of these bases which were
+                    space research, deep space stations, they were intelligence-gathering
+                    communities. It's possible that they might have been targets. I doubt that the
+                    Russians would have wasted any kind of highly sophisticated nuclear device on
+                    wiping them out, only because if they were winning, they didn't need to waste a
+                    nuclear device on them. If they lost, it didn't make any difference; they
+                    wouldn't be bothered.</p>
+                <p>But one of the assistant secretaries, I think it was Packard, was down there one
+                    time, and I tell you, boy, this is out in the outback, this is way back, this is
+                    way out, and it's big stuff. Enormous installations! Great big radar domes and
+                    enormous stuff. But it's out in the middle of nowhere, about 140 miles from
+                    Alice Springs and out near Wolmer and the Rocky Range. There's nothing but a few
+                    kangaroos. One of the British correspondents made the remark in a question to
+                    Packard, she said, “Sir, in the event of nuclear war, wouldn't this be a target
+                    area, don't you think?”</p>
+                <p>And Packard thought about it, and he looked around at this vast expanse of
+                    nowhere, and he said, “If it comes to nuclear war, I can't think of a better
+                    place to be than right here.” (laughter)</p>
+                <p>The Australians, we had some problems with them, especially on the bases. This
+                    was a fact. We had an ambassador by the name of Walter Rice out there. He was a
+                    political appointee from the Nixon Administration. Walter Rice was a very
+                    sincere man. He was a smart lawyer and so forth, but he didn't understand
+                    certain aspects of the labor government. When the conservatives took over—I've
+                    forgotten who the prime minister was—anyway, Rice thought that what he was going
+                    to do, he'd just gotten there and he thought it would be a good idea that what
+                    they should have is a kind of bipartisan defense policy similar to American
+                    bipartisan policies, wherein the leaders of both parties have knowledge about
+                    what went on in these bases.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>Well, the conservatives, the liberal party—liberals and conservatives, as they
+                    call them—had never divulged to the Labor Party the function of these bases. So
+                    the ambassador thought it would be a good idea and it would ease all the
+                    problems that if the liberals would brief the leaders of the Labor Party on the
+                    function of the bases, and they were jointly tenanted, there was no doubt about
+                    it, the Americans had footed the bill, but the Australians had a lot of
+                    scientists down there and a lot of people, and they were as many Australians as
+                    there were Americans there, but the Americans were in a higher category
+                    somewhat. But I didn't know it was still highly classified.</p>
+                <p>So the ambassador asked for an appointment to see the prime minister, and he goes
+                    over to see the prime minister, who was the one who got deposed because of his
+                    girlfriend's [unclear] problem and so forth. But anyway, he was a cantankerous
+                    bastard (laughter). The ambassador had been warned not to do this. So he goes
+                    over, and the prime minister listens to him and then sits back and says, “Mr.
+                    Ambassador, when I want any advice from you, I'll goddamn well ask for it. And
+                    I'm not gonna tell 'em nothing. That's all,” and stood up.</p>
+                <p>Well, the ambassador got back to the embassy and he was white as a sheet.
+                    (laughter) He just couldn't understand. And there was an election coming up, and
+                    the liberal government lost and the laborites took over, and there was great
+                    concern because by this time Whitlam was the prime minister and a man named
+                    Cairns was the deputy, who was an extremely left-wing type. But after all, they
+                    were the government of the country. You're going to have to tell them what goes
+                    on in the country.</p>
+                <p>I, of course, was not involved in it in any way except peripherally. I had been
+                    briefed on what they did, because I would get the questions first as PAO. In
+                    fact, I knew more about the bases than anybody in the embassy except three or
+                    four people.</p>
+                <p>Well, when they went over and briefed the inner corps, about three people in the
+                    government, Cairns was, I think, the only one that they didn't have. In fact,
+                    the Australians wouldn't give him a security clearance, I don't think.</p>
+                <p>Whitlam said, “Well, we pretty knew what they did, anyway. This is very
+                    interesting. We feel that this is vital to Western defense. It is still
+                    classified, and the status will remain the same.” (laughter)</p>
+                <p>So the former ambassador had been proved that it was a good idea, and they did.
+                    It has been written as to what to do, but it's never become an issue. Once the
+                    Labor Party knew and were involved and endorsed it, it was no longer a great
+                    issue, except for the rabble-rousers. The Communist Party is extremely active in
+                    the labor movement in Australia. The Australian labor movement is a thing of
+                    something to be concerned.</p>
+                <pb facs="0022" n="Page0022"/>
+                <p>Well, my time in Australia lasted four and a half very nice years and I was then
+                    told that I had to come back to Washington, because somebody had figured out in
+                    Washington that I had never been to Washington to work in a tour.</p>
+                <p>
+                    <hi rend="italics">Q: That's right.</hi>
+                </p>
+                <p>PETTUS: They were afraid that somebody was going to “Watergate” them and say,
+                    “What's this guy doing over there?”</p>
+                <p>I said, well, I thought I might just—I didn't know. Then they offered me a job to
+                    go to be the USIA representative at the National War College. Here again, my
+                    military background stood me in good stead. Although throughout, when I was in
+                    England, I was the liaison with the air bases on all the information work and a
+                    lot of the other work, even as far as the foreign office was concerned. When I
+                    was in Australia, it was the same way. I had lots to do with the military, and I
+                    had pleasant and successful relations, I think, with them.</p>
+                <p>So when that job came along, I was interested. There were two other problems, one
+                    of which I had five children, none of which had been born in the United States.
+                    I knew that if I retired in Australia, which I had time to do and the resources
+                    to do, it's unlikely that any of those children would ever return to the United
+                    States. And I didn't mind if they stayed and became Australians. But I thought
+                    that they ought to have the opportunity to live in the United States. My wife,
+                    who at that time was English, felt the same way.</p>
+                <p>So we decided, when I was offered this job, and she had also had a cancer
+                    operation at that time, to go back to the United States and take the job at the
+                    War College, which I enjoyed and had a fascinating time.</p>
+                <p>
+                    <hi rend="italics">Q: This was 1975?</hi>
+                </p>
+                <p>PETTUS: This was 1975. I was at the War College 1975-76. I was going to stay
+                    there, but they offered me the job of being head of the Foreign Correspondents
+                    Center in Washington if I wanted to take that job. Before I was able to take up
+                    that job, although I had told the War College I was leaving, they replaced me.
+                    My wife had a second operation and was diagnosed as terminal, so I went on leave
+                    without pay until she died.</p>
+                <p>Then I was offered the job out here at CINCPAC [Commander in Chief Pacific] to be
+                    the liaison out here, which here again, was the old military connection. I got
+                    along with everybody very well.</p>
+                <pb facs="0023" n="Page0023"/>
+                <p>It was, I felt, a very gratifying career. In fact, when they gave me a farewell
+                    luncheon at CINCPAC, why, I said, well, I felt after just about 40 years ago,
+                    the first really big job, I got my commission in the Canadian Air Force in 1940,
+                    and it was the first real job I had, and here in 1979, a few months before I was
+                    60 and had to retire, I was leaving from a military thing, of which 40 years had
+                    been spent in close association. I felt that they were wonderful men. I didn't
+                    always agree with the philosophies, but I felt the men themselves were really
+                    terrific.</p>
+                <p>
+                    <hi rend="italics">Q: What role did you play as the informational advisor to the
+                        military headquarters here? How did you interpret your role?</hi>
+                </p>
+                <p>PETTUS: I was actually the Deputy POLAD [political advisor]. As such, I was sort
+                    of the public affairs side of policies wherein the POLAD had an input into
+                    various areas. The POLAD traveled with the CINC a lot. I didn't travel with him,
+                    because even on trips that I could have made with other people, for personal
+                    reasons, because I had three children here and I didn't want to leave them alone
+                    in a new city at this time early on, and even though I was there a little short
+                    of two years, I stuck more or less to the—and I minded the store when he was
+                    away.</p>
+                <p>It was an amazingly interesting job. I wrote a piece for the Agency about whom
+                    they should send. The only thing that the CINCPAC didn't like, I was a Class 2
+                    officer. I never made Class 1. They would have preferred somebody a little
+                    lower, Class 3, and younger. But it was a wonderful opportunity for them to put
+                    somebody into this job to see the real inner workings of a major military
+                    command.</p>
+                <p>After I left, things changed a great deal. There was an effort by the Agency,
+                    even before I got there, to try and assume a larger role in the whole of the
+                    public affairs aspect of the military in the Pacific and in the CINCPAC command.
+                    Well, there was no way you could do this. I mean, we have no way of being able
+                    to advise on much of the problems, reaction problems, especially, which come to
+                    these on nuclear-ship visits, problems in Japan of occupation forces, noise
+                    problems, airplane problems, all of these things. These are their problems, and
+                    we shouldn't get involved in them.</p>
+                <p>I took considerable issue with that report that tried to do that, and I felt,
+                    first of all, the military would have never acceded to it, and even if we had,
+                    we didn't have anywhere near the wherewithal to begin to do it! But there were
+                    some empire builders that thought we should. I felt if we could just stick in
+                    that office the number-two man and put your oar in where you could, where you
+                    thought things were right, and aspects of public affairs that are in, there are
+                    these aspects in most of the decisions where we are going to be making
+                    exercises. We didn't have at that time—there was no major—the biggest problem
+                    they were having at that time was the idea that we were going to pull out of
+                    Korea. But this command, the Korean command, worked directly out of
+                    Washington.</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>I differed in many ways with my chiefs and mentors in the Agency sometimes.
+                    Whereas we were really out to sell American policy, this is what we were trying
+                    to do, there were a lot of these policies that you were going to try and sell
+                    that were unpopular and, in fact, were diametrically opposed to what the host
+                    country's policy was. You were not about to change the minds of a labor
+                    government or a labor newspaper or anything. I always took an attitude that,
+                    sure, it would be nice if we could do this. If you could change this policy,
+                    that would be good, but the main thing that we wanted to do was to make people
+                    understand. I wanted to get editorial leader writers and editors and people like
+                    this and anybody. I'd talk about things and make speeches and get them to
+                    understand why we had a certain policy.</p>
+                <p>
+                    <hi rend="italics">Q: [unclear] opposition.</hi>
+                </p>
+                <p>PETTUS: There were things that were obviously—and then you'd get cut short by
+                    Washington, usually not so much by what the mentors in USIA wanted to do, but
+                    the dictums that would come down from Congress, things that Congress was
+                    wanting. One of the best programs we ever had in England and elsewhere in
+                    Europe, was a very large distribution of the Paris Herald- Tribune.</p>
+                <p>The Herald Tribune, like any good newspaper, is quite often critical of the
+                    current U.S. administration and things that were being done in U.S. policy
+                    actions and so forth. Well, this riled the hackles of a lot of congressmen, that
+                    here we were, buying hundreds of copies, thousands of copies of the Herald
+                    Tribune, but we bought hundreds [unclear], and distributing them mainly to
+                    students and opinion leaders who would not normally receive that paper, but
+                    because the U.S. Government was subsidizing then, buying the paper which was
+                    critical of American actions and efforts. And they were told to kill the
+                    program.</p>
+                <p>
+                    <hi rend="italics">Q: When was this?</hi>
+                </p>
+                <p>PETTUS: This was in the early '70s.</p>
+                <p>
+                    <hi rend="italics">Q: While you were in England?</hi>
+                </p>
+                <p>PETTUS: Yes, I was in England. We used to give copies of this away. Sure, a lot
+                    of these students were left wing, and sure, a lot of them were—I don't think you
+                    just reward your friends. This was very, very good sources of information about
+                    the United States. Just because they didn't agree with a lot of it, but they
+                    certainly would hurt the problems of the budget when it came up. This was the
+                    kind of thing that you would run up against when you're trying to work on
+                    programs. It was a difficult thing, but you had to cope with them.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>This problem we used to all have of evidence of effectiveness, everybody dealt
+                    with it. You could go out. If a guy said, “Man, I saw your film,” or “Read your
+                    output and I just went out and I got the first communist I found and punched him
+                    in the nose,” if you could get that guy to testify in Congress, it was great!
+                    But you couldn't. These were things which were very, very difficult.</p>
+                <p>As I say, our biggest project, I think, would be to inspire confidence in the
+                    United States as a leader, as what we could do. They weren't always right. As
+                    has turned out, quite often we haven't always been right. But still—and I feel
+                    that certain things that we did went on that I thought were unfortunate, the
+                    separation of the Agency from State and, as in the last organization, seemed to
+                    progress, going further away, I think this was a mistake. I think we would have
+                    been better off to have moved closer to State rather than move further away. I
+                    always agreed and I said State pitched a big part of the cultural program which
+                    was one of the most effective programs we ever had, and we did most of the
+                    work.</p>
+                <p>
+                    <hi rend="italics">Q: We did all the work abroad.</hi>
+                </p>
+                <p>PETTUS: Yes!</p>
+                <p>
+                    <hi rend="italics">Q: And they did all the obfuscation in Washington.</hi>
+                </p>
+                <p>PETTUS: But they had the money. They got the money.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>PETTUS: But it was still a very, very good, good program, and I thought we always
+                    should have had it. But there was always this problem of the fear of being
+                    propagandized in a way, and there was the out-and-out you couldn't do anything
+                    in the United States. You couldn't release a film, you couldn't do anything. We
+                    did help State out in many ways, but State's function, especially when I got
+                    back there and began to see about the correspondents center, the correspondents
+                    center was mainly for correspondents that State didn't want to fool with. And a
+                    lot of the senior officers, sure, we had people who—if you had an ambassador who
+                    was friendly and understood and wanted to help out. But I just felt that when we
+                    last moved away, the last reorganization, we just got a step further away where
+                    we should have gotten a step closer and more integrated and more interchange of
+                    functions.</p>
+                <p>
+                    <pb facs="0026" n="Page0026"/>
+                    <hi rend="italics">Q: It's hard to say. I was in the work while the Agency, what
+                        was the predecessor, was still part of State. We were prohibited from doing
+                        lots of things—inhibited, perhaps not prohibited. We were inhibited from
+                        doing many things that I thought we should have been able to do, simply
+                        because State was so super-cautious and they didn't understand the riddle of
+                        the information program and the press context. I suppose I've carried that
+                        feeling with me, even though I've long been out of the Agency now. So I was
+                        one of those who wasn't too upset to see it come the other way. But you can
+                        argue in both directions.</hi>
+                </p>
+                <p>I do think that even the people who are the greatest supporters of the cultural
+                    program do not understand that it, in itself, is a form of propaganda, but it's
+                    one that is done so carefully and so away from what you normally consider to be
+                    the propaganda aspects, that it doesn't show up as being blatant. But over the
+                    years, I think it's one of our greatest propaganda efforts, and it has proven to
+                    be one of the best and most successful activities we've ever had.</p>
+                <p>PETTUS: Unfortunately, the word “propaganda” has a bad connotation. After all,
+                    propaganda is only the propagation of knowledge. It got the connotation of being
+                    the propagation of inaccurate knowledge, and really the cultural programs in
+                    themselves are the propagation of knowledge.</p>
+                <p>
+                    <hi rend="italics">Q: They are.</hi>
+                </p>
+                <p>PETTUS: You bring people to the United States and you'd let them see anything
+                    that they wanted to see. The people that they did get to see, sure, they got the
+                    official word, but they could also get any other word that they wanted. But the
+                    greatest thing that's happened now—and I won't have anybody convince me that the
+                    United States Government, the Department of State, the CIA, or anybody else knew
+                    what was going to happen in Eastern Europe.</p>
+                <p>
+                    <hi rend="italics">Q: I don't think they did, not the slightest.</hi>
+                </p>
+                <p>PETTUS: I was in Eastern Europe two months before that took place, and I think I
+                    am as reasonable an observer, although I don't speak the languages, and I had no
+                    feeling whatsoever that anything major would take place. The only thing I did
+                    see was in East Berlin, that obviously the East Germans were allowing a lot of
+                    people out of East Berlin. There were long queues at the railway station at the
+                    underground. I asked the guide, “What are those people?”</p>
+                <p>She said, “Oh, they go to West Berlin to see their relatives.”</p>
+                <p>I said, “They take all the suitcases and everything with them?” (laughter) They
+                    were making a safety valve. They realized that things were—but we never.</p>
+                <pb facs="0027" n="Page0027"/>
+                <p>We were at Potsdam seeing things, and here a lot of people were taking pictures
+                    and there were a lot of school kids out, Saturday. School kids were all around.
+                    They all would like to have their picture taken, and they're all coming up and
+                    want to talk. And you know what they wanted? Their entire lives had been filled
+                    with the fact of the “wicked Americans.” They were surrounded with Russians
+                    everywhere, and Potsdam is an occupied city. They came up and wanted to talk,
+                    and you know what they wanted?</p>
+                <p>
+                    <hi rend="italics">Q: What?</hi>
+                </p>
+                <p>PETTUS: They wanted pen pals. They wanted you to take their name and give it to
+                    somebody to write them a letter. I didn't detect any animosity whatsoever. But
+                    anywhere else? In Czechoslovakia or in Hungary or anything, you saw obviously
+                    things were out of hand, that the government wasn't doing things. Open black
+                    markets in Hungary that the government was unable to control and would
+                    criticize. But to say what was going to happen, I don't think anybody—and you
+                    know what did it? It was information. The biggest thing was the chip, a
+                    little—there is no such thing now as keeping any kind of information secret or
+                    classified or anything else.</p>
+                <p>
+                    <hi rend="italics">Q: It crosses borders.</hi>
+                </p>
+                <p>PETTUS: I remember one of the many trips I made to Vietnam. I made three trips to
+                    Vietnam after I'd worked for the Agency. The last one was from England, and I
+                    was going out there on one of those tours to the PAOs and others were sent out
+                    there. Here I was, I was watching this guy out in a rice field, he's plowing
+                    with his water buffalo and he's got a radiophone on. He's got a radio on. I
+                    don't know who he was listening to, whether it was Radio Saigon, whether it was
+                    our radio, or Radio Hanoi. But this guy was going to know what went on.</p>
+                <p>The chip is the real thing that caused this whole turmoil and the whole overthrow
+                    of Eastern Europe and whatever will happen in the Soviet Union today.</p>
+                <p>
+                    <hi rend="italics">Q: I gather you enjoyed your tour with USIA, in any
+                        event.</hi>
+                </p>
+                <p>PETTUS: I enjoyed my life with the Agency. I found it enormously rewarding, and I
+                    found many good friends. I found some whom I didn't care so much for. I found
+                    some very wonderful people at State. I found some ambassadors who didn't deserve
+                    to be ambassadors, and some others who were remarkably dedicated men in their
+                    fields.</p>
+                <pb facs="0028" n="Page0028"/>
+                <p>I think if I had to summarize what I think our problem might be, or a lot of the
+                    problem, is because of the structure of continual budgets and having to program
+                    things. We don't get to spend enough time planning for what the future might be.
+                    To plan what the future might be is an ineffective and not very efficient
+                    exercise. But we have to spend, because of the curtailment of people and too
+                    much time, you don't get time to do other things.</p>
+                <p>
+                    <hi rend="italics">Q: I think the Agency has never really planned very far in
+                        advance, and the question is whether you can plan very far in advance in a
+                        fast-moving situation. On the other hand, the fact that you thought about
+                        the possibilities and might be prepared for something that came up, I think,
+                        are the most important. And we haven't done enough of that. I agree.</hi>
+                </p>
+                <p>PETTUS: I think you can do certain things, but it is not, as I say, highly
+                    efficient. Then you've got a budget cut, you get salary increases, you get no
+                    more money in this thing, so they say, “We've got fewer and fewer people. How
+                    much is this guy contributing? What's he doing?” One of the things he's doing is
+                    thinking. But then there's some crisis reaction comes up and all efforts are
+                    focused on reacting. We spend too much time reacting to factors around the
+                    world, and State has the same problem and the whole government. It's not a thing
+                    unique.</p>
+                <p>
+                    <hi rend="italics">Q: No, it isn't.</hi>
+                </p>
+                <p>PETTUS: But as I say, it's like intelligence gathering. Fortunately, they still
+                    have a modicum of secrecy, but a great deal of it is highly inefficient because
+                    a great deal of it is wasted. It's either not useful, but we are so obsessed
+                    with the bottom line that we're not looking, I think, far enough ahead. The
+                    future is often obscure. Maybe if we'd though further ahead, we might have known
+                    what was going to go on in Eastern Europe.</p>
+                <p>
+                    <hi rend="italics">Q: I'm not sure we would, but on that note, I think we'll
+                        quit. I thank you very much, Jim, for taking this time.</hi>
+                </p>
+                <p>PETTUS: I thank you.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

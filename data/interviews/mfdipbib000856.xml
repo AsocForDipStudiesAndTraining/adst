@@ -1,194 +1,819 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000856">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with David G. Nes</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with David G. Nes</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>DAVID G. NES</p>
-<p>Interviewed by:  Dayton Mak </p>
-<p>Initial interview date:  April 28, 1992</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  This is an interview with David Nes at his home in Owings Mills, Maryland.  Today is April 28, 1992.  David, first of all, I wonder if you would be good enough to give us a little bit of your background...where you were raised, went to school, and particularly how you happened to become interested in the Foreign Service?</hi>
-</p>
-<p>NES:  Perhaps I should begin by saying that the Nes family moved to York County, Pennsylvania in 1731, and we remained there as a family up to my generation.  So in effect, my background is of a small Pennsylvania town.  I was very fortunate in getting four years of high school in Baltimore at the Gilman School where I was a five-day boarder and then moved on to Princeton University.</p>
-<p>My Foreign Service career really began in the sophomore year when I had the burden of a very extensive pre-med course in order to follow in the footsteps of three generations of Neses who had been physicians.  I took an elective in modern European history given by a very popular and celebrated professor known as Buzzer Hall.  I became so enchanted with history that I dropped the medicine, went to summer school to get the necessary preliminary courses to major in history.  This change was approved by the Dean, so I went on to obtain my degree in history from Princeton.</p>
-<p>This type of background persuaded me that the Foreign Service would be the best place to pursue these interests and particularly the diplomatic field.  Princeton at that time did not provide certain courses that were necessary to pass the Foreign Service exams which were considerably more extensive, including essay questions on international law, world trade and finance, etc.  So I took a year at the Graduate School at Harvard in order to fill in these particular gaps.</p>
-<p>Afterward, having been interviewed by Sumner Wells, he suggested that in order to get rid of the Ivy school image, that I obviously possessed, I should dirty my hands by getting on a daily newspaper and working for a year before taking the Foreign Service exams.  I did this.  I worked as a district reporter on the Baltimore Sun for approximately a year covering primarily murders, rapes, robberies, fires, accidents, etc.</p>
-<pb facs="0002" n="Page0002"/>
-<p>I then took the Foreign Service exam just before Pearl Harbor.  I passed them.  But after Pearl Harbor, there were no positions opening up abroad; so I was assigned to the so-called Special Division in the State Department which had the primary responsibility of handling problems incident to the outbreak of war...evacuation of citizens, guarantee of strategic materials, etc.</p>
-<p>However, after about a year of this, I asked for military leave of absence, which was granted, and joined the Army as a private.  I got NCO training at Ft. Sill and then officer training there, eventually ending up as a volunteer in the Mars Task Force which was engaged in the Burma Campaign.  I served as a Pack Artillery Battery C.O. until the end of hostilities.</p>
-<p>At the close of the war, I came back in late 1945, and the State Department reinstated me without any trouble and more-or-less asked what type of post I would like.  Well, I had picked up a little bit of malaria and other things, so I said, “I would really like a rather cool post.” As a result I was assigned to Glasgow, Scotland.</p>
-<p>
-<hi rend="italics">Q:  They couldn't have done better than that could they, for that type of post?  I notice that you had been Assistant Director of the Executive Secretariat in Washington and on a Trieste Task Force.  Can you tell us a bit about this Trieste Task Force?</hi>
-</p>
-<p>NES:  This all happened because during my time in Paris (1949- 52), the last half of it, I was special assistant to Ambassador David Bruce.  When he came back to the Department as Under Secretary to sort of manage things during the transition of Administrations from Truman to Eisenhower, he brought me back with him as his Special Assistant in the Department.</p>
-<p>After the transition, I was more-or-less out of a job and assigned to the Executive Secretariat and to a little task force dealing with Trieste which was headed by Clare Boothe Luce.  She was not only a brilliant lady, but very attractive to boot!  We worked with the Yugoslavs and the Italians on a final settlement of what was a very serious bone of contention at that time between Italy and Yugoslavia.</p>
-<p>
-<hi rend="italics">Q:  That I believe was primarily who owned Trieste?</hi>
-</p>
-<p>NES:  It was, it was territorial.  It was whether Trieste was Yugoslav or Italian.</p>
-<p>
-<hi rend="italics">Q:  Then in 1954, you went on from there as Counselor and Deputy Chief of Mission in Libya...long before Qadhafi.  What were the problems you had there, and what was your environment at that time in Tripoli?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>NES:  That assignment really illustrates that it helps to be in the right place at the right time.  After my short State Department experience, all of a sudden I was offered the DCM job in Tripoli and as a very junior officer—I think I was class-4 at the time—it looked like a tremendous opportunity, and it turned out to be just that.</p>
-<p>Our primary interests in Libya revolved around Wheelus Field which was not only a mammoth US air base but a training base for NATO.  Libya provided the most wonderful training areas for aerial bombardment, close support, etc. because this could take place not only in the vast desert areas where nobody would be injured, but also in the Mediterranean, off the coast.  Squadrons of NATO planes would come down from time to time and rotate through there for training.</p>
-<p>It was also at this time that oil was discovered and the Libyan government very wisely formed a group of experts from the major oil companies to draft a petroleum treaty, or law, under which the major companies could apply for concessions.  The Libyans were clever enough to realize that if the companies actually did this, they would end up not only squabbling among themselves, but the end result would probably be an arrangement fairly satisfactory for Libya—which it turned out to be.  Of course at that time King Idris was king, and Ben Halim was Prime Minister. (Incidentally the latter still lives in considerable luxury in Paris.)</p>
-<p>
-<hi rend="italics">Q:  Did you have any other problems, other than the oil and Wheelus Field?  Was the local population reasonably friendly at that particular point?  There was a Palestinian oriented...</hi>
-</p>
-<p>NES:  They were only Palestinian-oriented in that there were many well educated, intellectual Palestinians in Libya.  In fact they formed the core, the basis, of the Libya Supreme Court because most of them were lawyers.  But, the Palestinian issue was virtually an unknown, or at least it didn't play a major part in Libya thinking.</p>
-<p>They were particularly worried at the time about Egypt which, of course, historically has always had some coveted eyes on Libya.  They sent to Tripoli as ambassador their top intelligence officer who later became a very good friend of mine in Egypt when he was Foreign Minister.  His name was Mahmoud Riad.  We watched him very closely and he, of course, was a problem for our CIA as far as his activities were concerned.</p>
-<p>I would say that we didn't really have any major problems in Libya at that time.  It was a very friendly country.</p>
-<p>
-<hi rend="italics">Q:  By 1956 you left Tripoli and came back to Washington and became Desk Officer for Korean Affairs and then Military Affairs Adviser in the African Bureau.  What were some of the problems you encountered there?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>NES:  It was really quite a startling assignment to have experience in North Africa and Paris and all of a sudden to be in charge of Korean affairs during a very tricky period in our relationship with both Korea, Japan and, of course, North Korea.  That is the way the Department operates!  Our Assistant Secretary was Walter Robertson, a charming gentleman, very tough.  We got along very well.</p>
-<p>The principal issue that I was involved in was the introduction of nuclear weapons into South Korea in order to save a considerable amount of money which would have been used to station there two or three more divisions.  It was estimated that if we equipped our artillery with nuclear warheads, we would be able to reduce our forces very considerably—which is what happened.  I gather from the press today that those nuclear warheads have just recently been withdrawn.</p>
-<p>
-<hi rend="italics">Q:  Did you enjoy that assignment in Washington?</hi>
-</p>
-<p>NES:  Well, I did, but I really felt I was unqualified—a fish out of water, dealing with the Far East.  At that time the Bureau of African Affairs was just being created under Julius Holmes, who was a friend of mine.  He asked if I would agree to transfer from the Bureau of Far Eastern Affairs to the new African Bureau as Military Affairs Adviser which would deal with all the various bases we had in Africa at that time...in Morocco, Libya, Ethiopia, etc.  I said that I would be delighted, so I moved over and worked under Satterthwaite, who was the Assistant Secretary, and Joe Palmer, who was the Deputy Assistant Secretary, for a very happy year-and-a-half.</p>
-<p>It enabled me to visit all the northern coast of Africa and our various military bases.  Of course I found Morocco very attractive and put in a little work on the side trying to get assigned there.</p>
-<p>
-<hi rend="italics">Q:  So in 1959, you did get assigned there as DCM.  Back into the swim of North Africa, so to speak.  You were there until 1962.  Who was your Ambassador at the time and what did you do there?  How did you like it?</hi>
-</p>
-<p>NES:  It was a wonderful three year assignment.  I had three excellent Chiefs of Mission.  Phil Bonsal to begin with.  He felt a little bit out of place since he was a Latin American expert.  He was succeeded by Charlie Yost, who, of course, went on from there to become our head of delegation to the United Nations.  He, in turn, was succeeded by a political appointee, Mr. John Ferguson who was excellent, charming with a lovely wife, and with whom I worked very well.  He was particularly easy to work with because being inexperienced in running an Embassy, he turned everything pretty much over to me and conducted the diplomatic side of things at which he was very adept.</p>
-<pb facs="0005" n="Page0005"/>
-<p>It was a very, very happy assignment.  Mohammad V was the king.  He died under very sudden and curious circumstances during an operation for a very minor deviated septum.  Many people thought he had been done away with.  He was succeeded by his son, Hassan II who was his Chief of Staff at the time.</p>
-<p>During my tour, they had that terrible earthquake in Agadir where we sent down ships from the Mediterranean Fleet.  Battalions of engineers came from Germany in order to help save as many people as we could.  There were about 10,000 deaths all together.  It was a hell of a thing.</p>
-<p>The primary interests in Morocco were our three air bases and one navy communications base.  It is very interesting that, as is the usual custom, when President Eisenhower decided to visit Morocco I was sent up to join him in Madrid and come down on Air Force I and to brief him on both the protocol he was to face and the substantive issues which the air bases were paramount.  He proved to be a far more intelligent, quick, knowledgeable person than the press had led us to believe.  I was very impressed with him.</p>
-<p>On the plane, he turned to his Chief of Staff and asked how much longer the air bases would be used for the bombers presently stationed there and was told about two years.  He said immediately, “I will tell the King that we are going to get out in two years.” And that was it.</p>
-<p>It was a fascinating and beautiful assignment.  We had a chance to visit every province in the Kingdom at one time or another.  I would say that it was probably one of the real highlights of our career.</p>
-<p>
-<hi rend="italics">Q:  While you were there who in the Moroccan government did you deal with and in what language?</hi>
-</p>
-<p>NES:  French influence was still very strong.  Almost all the educated elite in Morocco spoke French.  That was the language which I used with the Foreign Office, the Foreign Minister, with the Chef de Cabinet, with the King.  Access to all of these people for a DCM, particularly if he were Charg� d'Affaires, which was often the case since we had three ambassadors come and go, was very easy and extremely cordial.</p>
-<p>The only problem with our political reporting there was that we did feel it essential that we follow whatever activities were being undertaken by the so-called Left, which was a labor union.  Its leaders had, of course, been trained in France and were of communist orientation.  In maintaining contact with those leaders we did, from time to time, get into trouble with the Palace which felt that we should remain aloof.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  At that time, the Palestinian issue was a burning issue in a lot of Arab states, what role did that play in Morocco at that time?</hi>
-</p>
-<p>NES:  I would say very little.  Algeria was the key foreign issue.  It was during my tenure in Rabat that Algeria received its independence in accord with the Evian Treaty.  It is interesting that Ben Bella—who, of course, headed up the FLN at that time—I had dealt with quietly and secretly in Tripoli, and I knew him.  So when he flew into Morocco on his way back to Algeria (he flew in actually on an American Air Force plane because he was afraid of the French), I was designated to go down to our air base at Nouasser and greet him.  So Algeria was our principal interest and Palestine very little.</p>
-<p>
-<hi rend="italics">Q:  Then I see that in 1963 you went to London as US diplomatic representative at the Imperial Defense College.  Would you tell us a bit about the Imperial Defense College and how you enjoyed being there?</hi>
-</p>
-<p>NES:  That was certainly a plum assignment as those of my colleagues who had that chance will confirm.  The Defense College is a little bit like our National War College except at a slightly more senior rank and a little more general in its approach to the education of senior officers.  The level of officers was Brigadier or above in the Army and Air Marshal in the Air Force, the age 40-50.  The British Government—I think, with an arrangement with President Eisenhower—asked that we provide a representative from our Foreign Service, the Army, Navy and the Air Force.  And so we did.  We were four Americans each year in a class of about 65.</p>
-<p>These 65 were drawn from the Commonwealth, from the UK, Canada, Australia, New Zealand, India, Nigeria and Pakistan.  It is rather sad to note that the two Nigerian officers there later lost their lives in the civil war in their country.  It was a very stimulating, exciting group of men to work with.  There were no ladies in the class at that time, I am sorry to say.  As one of the Americans, we were treated very royally, given access to every sporting and social event that you could imagine in London.</p>
-<p>The daily routine was very sophisticated and very attuned to the British way of doing things.  You met at 9:00 for coffee and at 9:30 you had a speaker drawn from the top echelons of European or British government or from the NATO headquarters.  You worked with him, talked with him, he spoke with you through lunch.  In the afternoon you broke up into what was known as syndicates, which are little groups, to work on papers that were assigned to you.  There was tea at 4:00 and sherry at 6:00.  You all wandered home alone about 7:00 in time for cocktails!</p>
-<p>
-<hi rend="italics">Q:  Sounds like a very strenuous life!  What particular subject were you involved in?</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>NES:  Of course, everybody was very interested in the United States involvement in Vietnam; but at the end, I was in a group assigned to the preparation of a British defense budget for the next three years.</p>
-<p>
-<hi rend="italics">Q:  From then on, you were plunged into Saigon where you were DCM with the personal rank of Minister.  You had a few other assignments as well.  Particularly with reference to Saigon and what came later, what was the situation in Saigon when you were there and who was your Ambassador?</hi>
-</p>
-<p>NES:  Perhaps I could begin by regaling you with how I was assigned to Saigon in the first place.  I was just finishing up in December the IDC course in London when I got a telephone call to report back to Washington immediately.  I explained that the course wasn't over and that I was in the middle of preparing a British defense budget, but that didn't seem to cut any ice.  So I got on a plane the next morning and flew back.</p>
-<p>I was called up to the Bureau of Far Eastern Affairs for an appointment with Roger Hilsman, the Assistant Secretary.  Roger said, “What would you think about going out to Saigon as Cabot Lodge's deputy?” I expressed some surprise and said, “How has this come about?” He said, “Well, you may recall that when you were in Libya, Cabot Lodge came over there as our UN Ambassador for a visit and you offered him a choice between coming to the Embassy for all sorts of activities, ceremonies, cocktail parties, etc., or taking the Ambassador's car and going out to the Rome ruins at Sabratha and watching the sun set.  [I recommended the latter, which Ambassador Lodge accepted.] When the problem of replacement of our current DCM in Saigon arose, we asked the Ambassador if he had any preference.  We offered him three names and he apparently selected Nes because of his Libyan experience.”</p>
-<p>
-<hi rend="italics">Q:  That sunset must have been very impressive!  After that, you went on to Cairo as DCM and Minister where you were from 1965-67.  Tell us what your experiences were in Cairo, particularly who you saw on business and can you give us just a bit of the flavor of US-Egyptian relations at that rather difficult time?</hi>
-</p>
-<p>NES:  As you probably noticed, I arrived in Cairo in late June 1965.  I found through my Foreign Service experience that when a new DCM is arriving, the ambassador usually arranges it to occur just before the Fourth of July so he can go off on leave and turnover the Fourth of July party to the new DCM.  That is, in fact, what happened.</p>
-<pb facs="0008" n="Page0008"/>
-<p>Before he left, our Ambassador at that time, Luke Battle, took me out into the garden for a little confidential chat.  He gave me quite a scary summary of the deteriorating US-Egyptian relations following the recent burning of the USIS library and the downing of an oil company plane in the desert by Egyptian fighters.  He made it very clear that Washington took the dimmest view of all this and was becoming more and more anti-Nasser, but that he, himself, felt that we should do everything possible to maintain reasonable and normal relations.  He just wanted me to have that view of his before he left for a week or so.</p>
-<p>We had quite a struggle through the next year in maintaining any sort of program assistance for Egypt and I would say that was our principal mission up to the months preceding the so-called June War.  Our relationship, however, with individual Egyptians was absolutely perfect.  I had access to the people you would suppose a DCM could see, not President Nasser, of course.  But I had access to the Foreign Minister and the various area heads in the Foreign Office at any time.  Also to the heads of the various departments of government, particularly on the economic side.  Life in Cairo was very agreeable as far as our relationship with the Egyptians was concerned.  My wife became a close friend of Mrs. Sadat whose husband, and later President, was speaker of the Parliament.  They met to brush up Mrs. Sadat's English every Thursday for a year.</p>
-<p>
-<hi rend="italics">Q:  We have your account of the June War which will become a part of this interview.  Have you had any second thoughts since doing that several months ago?  Do you have anything you would like to add to that?</hi>
-</p>
-<p>NES:  Not with particular reference to the immediate weeks preceding the June War which were captured in the little paper I gave you.  But our relationship with Egypt was very difficult because of the feeling in Washington, particularly in other agencies on the government than the State Department, that Nasser should be penalized for the various activities he was carrying on which we considered contrary to US interests.  Particularly in the Saudi Arabian Peninsula, the Port of Aden and in that general area, which, as you recall, he had quite a substantial land force at the southern end of the Peninsula and was actively involved in the civil war between the two halves of the Yemen.</p>
-<p>We had various embarrassing set-tos with him.  At one point, our AID mission chief in the Yemen for some unknown reason stored a lot of very highly classified cables in his office safe unlocked which Egyptian intelligence got hold of.  Of course they accused us privately (it never went public) with trying to damage their interests in that area and, in particular, to take sides in the civil war. So we had a lot of little difficulties as time went on.</p>
-<pb facs="0009" n="Page0009"/>
-<p>We really worked very hard to persuade Washington that it was in our long-range interests not to drive Nasser into such a corner of frustration that he would lash out in some unreasonable way, either against Israel or Libya, against our interests in Egypt itself.  I would say that to Luke Battle and myself, that was our principal mission during those several years—to try to build and maintain a normal relationship with a very important country in the area.</p>
-<p>
-<hi rend="italics">Q:  There has been a lot of speculation and discussion, pro and con, on Nasser's feelings and attitude towards the United States.  Some people point out that they were very ambivalent.  Can you give us your view of Nasser's feeling and what influenced and caused his anti- American actions?  Were they reflexive as you have suggested or were there more basic reasons?  I come back always to the Palestinian issue and how that impacted on his thinking.</hi>
-</p>
-<p>NES:  Again, it does seem curious to all of us now that the Palestinian issue did not play a major role in our relationship with Egypt, or in fact in Nasser's thinking at the time.  I think he was convinced, rightly or wrongly, that the Johnson Administration was out to get him.  He based this on the fact that we were doing or not doing a lot of fairly minor things.  We were holding up the PL 480 wheat program which was absolutely essential to feed his people.  We had vetoed a nuclear desalting project that was very close to his heart and one in which we had promised him assistance initially.  We had withdrawn a mission by Secretary Rusk who was scheduled to come to Egypt and abruptly canceled.  There were just a whole litany of little things that Nasser felt were demonstrative of the aim of the Johnson Administration to bring him down.</p>
-<p>
-<hi rend="italics">Q:  Could we go back to Saigon.  What was the status of our involvement at that point in Saigon?  What was the situation on the ground with regard to both the French and the US and the Vietnamese?</hi>
-</p>
-<p>NES:  By the time I arrived, we had some 25,000 so-called advisers on the ground out to battalion level in the Vietnamese army for training and advisory functions.  The activities of the communist forces in the South, known as Viet Cong, were obviously increasing day by day, both in taking over villages, particularly in the Delta, but also in a tremendous propaganda effort.  It was very clear that the control and supply of these Viet Cong forces came directly from Hanoi.  We were able to intercept the radio and ground communications to a certain extent.  The heart and mind of the whole operation in South Vietnam centered in Hanoi which meant that it was very hard to get at.</p>
-<pb facs="0010" n="Page0010"/>
-<p>Shortly after my arrival, General Westmoreland arrived to take over command.  We got along very well.  I traveled with him by helicopter and light plane into every provincial capital in South Vietnam which gave me a pretty good bird's eye view of the situation.  It seemed very clear to most of us that the tentacles of the communist effort in the South extended so far into the villages in the countryside that it would be very difficult, if not virtually impossible, to rout them out without going into the heart and brains of the operation in Hanoi, which, of course, would have meant the occupation of North Vietnam as we had occupied Germany and Japan and which was politically unthinkable back home in the United States, or in fact in the Western world.</p>
-<p>General Westmoreland, I think, was still hopeful that the effort we were engaged in in the South could prevail, but I am not sure he was that optimistic.  He told me at one point, if he had the number of troops that were bogged down in the South and could use them for the occupation of the North, we would suffer far fewer casualties than we are suffering now.</p>
-<p>During my brief tenure, we did begin to build up forces.  First of all providing direct air support to the Vietnamese, secondly, naval support off the coast.  But by the time of my departure we hadn't yet introduced any active combat units.  These were to come very briefly thereafter in tremendous numbers as we all know.  But I would say that at the end of my short time there was not too much optimism that we could achieve our objective, which was very simply preserving a non- communist South Vietnam.  We could not achieve that objective without in effect going after the North directly.  My departure from Saigon was sudden and unexpected.  With no warning.  Ambassador Lodge departed to run in the 1964 Presidential elections.  General Taylor was appointed as Ambassador and chose career Ambassador Johnson as his deputy, and so I was “trumped” out of a job.</p>
-<p>
-<hi rend="italics">Q:  I have a couple of general questions and you may not want to answer them.  Of all the people you worked for in the Foreign Service, your ambassadors, senior officers, etc., and you worked with a lot of big names, is there one who stands out in your mind and in your experience as being above all the rest from the standpoint of wisdom, ability to work with people and get jobs done?</hi>
-</p>
-<p>NES:  That is a very easy question to answer because I very much have one person in mind, David Bruce in Paris.  He was a Renaissance man of tremendous charm, tremendous intellect, tremendous abilities.  He wrote a book on the first 14 or 15 Presidents of the United States.  He knew his history.  He was a connoisseur of antique furniture, architecture, of good wines, a crack shot, a good golfer before he injured his back during World War II.  He knew Europe intimately from his experience of heading up OSS operations during World War II.  He was married to a very charming wife, Evangeline.  And he was just a very able person.  I will give you two illustrations.</p>
-<pb facs="0011" n="Page0011"/>
-<p>In the afternoons when things got pretty dull, we used to work at the Embassy until 8:00 in the evening because of the time differences and the cable traffic with Washington, he would come into the outer offices along about 3 or 4 o'clock and say, “David, nothing is going on let's go out shopping.” He would take me out to antique shops and teach me something about antique French furniture.  When his liquor salesman came in, and he would order cases of wine for the Embassy, he would say, “You know, I like this particular wine, can I put an extra case in for you and you can pay me later?” That was his charming social time.</p>
-<p>He was given by the French Government a lovely country house called Chateau de Lanterne on the grounds of the Versailles Gardens and Palace, and he and Evangeline repaired out there every weekend.  Of course it was my job to bring the cables out so that he could read and draft anything and bring them back.  Knowing that I was a very keen golfer, I played at St. Cloud and actually played on the French Golf Team, he always arranged that I bring the cables out Saturday morning so that I could have a quick round of golf and then come back and pick them up afterwards.</p>
-<p>That was the social and sporting side of David Bruce.  But on his professional side he was a fantastic rapporteur.  I remember one night he came back from a dinner party with the Prime Minister in white tie and tails.  He went up to the code room and dictated directly to the operator of the code machine the most concise, beautifully written cable to Washington I have ever read.  He was a pro, a Renaissance man.  I learned so much from him.  I think having been with him gave me a terrific leg-up in the rest of my career.</p>
-<p>
-<hi rend="italics">Q:  That is very nice and I am sure everyone who worked for David Bruce would support you fully.  Now let's get back to you.  You served in a variety of areas, the Far East, Europe, North Africa and in Washington.  Of all your jobs which one did you find the most interesting, rewarding, not necessarily the most enjoyable because you probably had some unattractive times, but do you have a favorite set of experiences in one post that you would like to mention?</hi>
-</p>
-<p>NES:  It is very hard for me to pick out any one post because I was terribly lucky, and as I say, I happened to be in the right spot at the right time many, many times in the Foreign Service.  My wife and I loved all our posts.  We liked the people in all the countries in which we served.  I found something interesting in every post, even in mundane Glasgow, Scotland where I had the job of doing the economic and political reporting in the post war years when the Goebbels area was going communist and light industry was trying to move in and replace heavy industry.  A post where most people would have found it very dull.  I found it very interesting.</p>
-<p>In addition to providing unequaled administrative support, bearing and raising four daughters abroad, my wife shared fully in the substance of my work throughout our career.</p>
-<p>
-<pb facs="0012" n="Page0012"/>
-<hi rend="italics">Q:  Well, let's not forget that you had some rather nice golf courses there.</hi>
-</p>
-<p>NES:  I think that helped!  Paris, of course, working first of all with Ambassador Harriman as part of the Marshall Plan.  I had a lovely office overlooking the Place de la Concorde from the Palais de Talleyrand which I shared with Vernon Walters.  I happened to be the Assistant Political Adviser and Vernon Walters was the Military Adviser.  We got to know each other very well.  Of course, I was delighted to see him move on up and become Deputy Director of CIA and then the head of our UN operation and finally, currently, our Ambassador in Germany.  Paris was an absolute gem in the crown.</p>
-<p>The State Department provided the most difficult times because of the bureaucracy that you run into there and the fact that every minor paper has to be cleared around the Department and through two or three agencies of government.  I think serving in the Department is a very frustrating experience and most officers are delighted to get back into the field.</p>
-<p>Morocco, of course, is the most beautiful country with the most gorgeous sea coast, with farming land, with the high Atlas, with the desert, skiing in the mountains.  Just a tremendous post.  Trying to negotiate our air bases termination was fascinating.  But of all the posts, I think, Morocco was the most enjoyable from a standard of living standpoint.</p>
-<p>Egypt was the most challenging because our difficulties there were mounting.  It was very obvious for the last six months that something was going to break, and we were going to have another Middle Eastern war on our hands.</p>
-<p>
-<hi rend="italics">Q:  Thank you David.  You had a really marvelous career and you retired in 1968 with the Superior Honor Award.</hi>
-</p>
-<p>CAIRO (1967)
-Following is an account of the Six-Day War as viewed from Cairo, Egypt, by David Gulick NES, who was charg� d'affaires ad interim at the time.Ambassador-designate Richard Nolte had arrived in Cairo on May 21 but was unable to present his credentials owing to the crisis culminating in the so-called June “Six-Day War.” David G. Nes, charg� d'affaires, continued to conduct the affairs of the embassy during this period until Egypt broke diplomatic relations with the United States and the embassy was closed. Nes recalls the events immediately preceding the war, including unsuccessful attempts by the United States to prevent a war by allaying Nasser's fears of an Israeli attack. He also describes the Embassy's organization during that period and how the Americans were evacuated to safehavens.</p>
-<p>NES:  Tensions between the “front line” Arab states and Israel had been increasing during the past year—engendered by guerilla attacks across Israel's eastern border and Israeli reaction such as its raid on the Jordanian town of Samu and its later destruction of six Syrian MiGs on the outskirts of Damascus.  A reported statement by Israeli Chief of Staff, General Rabin, on May 12 to the effect that his forces would occupy Damascus and overthrow the regime set the stage for the subsequent events leading up to the “June War.” Meanwhile, Arab criticism of Nasser and demands that he do something intensified.The next day, the fuse was lit when Soviet Ambassador Pojidaev informed the Egyptian Foreign Office Under Secretary Al-Fiki that Israeli troops were moving for attack on the Syrian border.  On instructions from the Department, I called on al-Fiki May 16 and informed him our intelligence reported no unusual troop movements in Israel.  This was passed on to Nasser, who is reported to have considered this demarche as merely the cover for an Israeli attack.  By this time, relations between the United States and Egypt had sunk so low that Nasser seemed to believe that we were in collusion with the Israelis to destroy his regime.  The origin of this belief stems from the history of U.S.-Egyptian relations over several previous years which is beyond the scope of this discussion.  In brief, Nasser seemed to be reaching a degree of frustration bordering on irrationality.From May 13, the events moved quickly to crisis proportions.  During the 14th and 15th, Egyptian troops ostentatiously paraded through the Cairo streets en route to the Sinai.  In my conversation with al-Fiki on the 16th, he explained this move as purely defensive and only designed to respond if Israel attacked Syria massively.
- Ambassador-designate Nolte arrived the evening of May 21 and in remarks to the press discounted any possibility of war or of a crisis situation.  The next day Nasser, in a speech to an officer group, announced that he was closing the Straits of Aqaba to Israeli shipping.  Such a move had always been considered a casus belli by the Israeli government.On the 23rd, President Johnson sent Nasser a personal letter expressing friendship with a plea for avoiding hostilities and offering to send Vice President Humphrey over to discuss the crisis.  On May 26, the provocative editor of al-Ahram, Mohamed Heikal, had published an editorial to the effect that war was inevitable.  In the embassy, we had already begun preparations to evacuate dependents and non-essential personnel, and accomplished their departure easily by chartered aircraft from Cairo to Athens, May 26-29.  My wife and two younger daughters left on home leave orders on the latter date.  (We had been planning to leave July 10 in any event).  On the eve of their departure, Mrs. Anwar Sadat, wife of the future president, telephoned my wife to express sorrow at this distressing turn of events.  She had invited my wife to come to her house once a week to help her with her English for the past year. Needless to say, the week preceding June 5 was one of frenzied diplomatic activity, and the cable traffic between the embassy and Washington kept our communications and secretarial staff working 24 hours a day.While Nasser was obviously endeavoring to soften his provocative moves of the previous week, the embassy had no reason to believe from the cable traffic that Israel would long delay a military strike so as to permit diplomacy or an international naval presence in the straits to de-escalate the crisis.  We began discussing the possibility of a break in diplomatic relations and the further evacuation of both official and non-official Americans should war come.  The embassy, meanwhile, was not kept fully informed of our contacts with the Israeli government, but gained the impression that we had neither requested nor obtained a “no first strike assurance” such as we had asked for and gotten from Egypt.  There was some belief that the Israelis had given us several weeks of grace to “open” the straits by diplomatic or military means; that is, until June ll or thereabouts.As the first days of June approached, plans initiated by the Egyptian government were set in motion to send a delegation to Washington on June 6 headed by their vice president Zakaria Mohieddine.In the embassy, we established a sort of crisis center headed by our very able Arabic speaking political counselor, Dick Parker, assisted by the CIA station chief Bill Bromell, PAO [public affairs officer] Bob Bauer, the administrative counselor, Martin Armstrong, and the consul general.  With dependents and non-essential personnel out of the way, we concentrated on our relations with the key Egyptian ministries, namely foreign and interior, and on the exact location of all American residents, including many distant from Cairo or in the Suez oil fields.By Sunday, June 4, we seemed to have reached a day of quiet and some moderate optimism.  We had a “no first strike” pledge from Nasser.  The Mohieddine Mission was going to Washington, and 11:30 A.M. the next day had been set for our ambassador designate to present his credentials.  There seemed a chance, albeit slim, of a peaceful outcome. During the morning I attended services at the Anglican cathedral and then lunched with Ashraf Ghorbal from the foreign office (later ambassador to Washington) who was organizing the Mohieddine Mission; and after checking the embassy, went out for nine holes of golf with dinner thereafter at the John Dormans (American Research Center) on their Nile River boat.  In fact, we were in the eye of the hurricane.  Cairo that night was a dead city, the streets deserted, building blacked out and car lights blue.On Monday, June 5 the chancery began the day routinely with the 8:00 A.M. staff meeting.  We discussed continuing the evacuation of remaining Americans to Alexandria, the Mohieddine Mission, Nolte's presentation of credentials—who would accompany him and what he could appropriately say to Nasser. As the meeting broke up shortly before 9:00 A.M., Radio Cairo reported Israeli air attacks throughout the country. Outside we could hear explosions in the direction of Cairo West airfield and some anti-aircraft fire, but no Israeli planes were visible over Cairo.  I immediately called Judge and Mrs. Brinton (an elderly American couple retired in Cairo) who awaited an embassy car to take them to the airport for an Athens flight and told them to sit tight.  Shortly thereafter, the Foreign Office called canceling Nolte's presentation of credentials.  The next day, John Dorman arranged for the Brintons to reach Alexandria.Throughout the day Cairo Radio and TV reported gigantic Egyptian air and land victories. The mood throughout the city was euphoric amid periodic air raid sirens which just seemed to stimulate greater enthusiasm. From the BBC we were getting another story. That evening I attended a small garden cocktail party at the Bauers in the midst of which all hell broke loose overhead.  While no Israeli planes could be seen or heard, anti-aircraft fire was intense and showered us with shrapnel, forcing all the guests indoors for the rest of the evening.  A modified diplomatic and intra-Embassy social life continued through the week, but all official Egyptian contacts seemed to disappear.The following morning, June 6, the early morning Cairo Radio broadcast reported that U.S. and U.K. planes had participated in the air attacks of the previous day, and the mood on the streets of Cairo became ugly.  The big lie was obviously orchestrated to explain why Israel alone never could have defeated the Egyptian air force—i.e. shades of Suez.  We advised all Americans except those needed in the embassy crisis center and communications to stay at home. Our communications were switched from commercial channels to our emergency radio links through the Sixth Fleet.  Later that morning, our consul general in Alexandria, David Fritzlan, called on the emergency radio to report his offices were under attack; and that he and the staff had retreated and were barricaded in the communications center on the second floor. Within a few minutes he reported the mob had set fire to the building and his radio went dead.  Very shortly thereafter, a similar distress call was received from our consul in Port Said, whose offices were also under siege.  Happily, within the hour, the British consul in Alexandria called to say that Fritzlan and staff had been evacuated safely and taken to the police station for safety.  The situation in Port Said was similarly resolved.  Our buildings in both cities were virtually destroyed, but no one, miraculously, was injured. In Cairo, we asked the minister of interior for full protection, which was quickly forthcoming and involved a paratroop company around the embassy and small military units at the embassy residence and my residence on Sharia Wilcox in Az-Zamalik. Early that evening, Nolte was called to the foreign office and handed a note breaking diplomatic relations.  I followed up with the chief of protocol requesting that we be permitted to retain under a protecting power twenty-four officers and an adequate support staff, the same complement permitted Britain following the Suez War. This was refused, and further talks were agreed to for the next day. We had strongly recommended to Washington that Spain be requested to handle our interests.  The Spanish ambassador in Cairo, Angel Sagaz, had exceptionally good relations with the Egyptian government and was a very personable, competent career diplomat. The Department reluctantly agreed because they were not enthusiastic about asking the Franco government for anything and feared media and political criticism.At 9:00 P.M. representatives from the interior ministry called at the chancery and demanded that all Americans in Egypt be immediately concentrated in the Cairo Hilton Hotel—an impossible and impractical order based on out-of-date lists, which our consular staff corrected for them.Wednesday, June 7, I spent much of the day in frustration shuttling between the Foreign Office and Spanish embassy seeking agreement on the embassy staff we could leave behind. Back at the chancery, talks were underway with embassy Athens to charter a ship for evacuation from Alexandria.  The Egyptian government had demanded that all Americans, except the agreed number, leave by Saturday, June 10.  This involved about 550 all together including those already in Alexandria and Port Said.  Those in the Suez Gulf oil fields were being exempted.  The mood in Cairo was becoming increasingly threatening as reports of Egyptian defeats filtered in from the BBC and other foreign stations.We had already destroyed classified files and code machines. These were equipped with chemical destruction kits. The Marine sergeant in charge apparently misread the directions, and considerable fire ensued on the chancery roof where the machines and files had been taken. This resulted in consternation among the Egyptian troops “protecting” us who assumed it was a bomb, and the equivalent of five to six alarms were sent in to the neighborhood fire houses.  The resulting confusion and noise was awesome!  The fire was quickly put out without Egyptian assistance.  When things calmed down, we officially turned over the embassy to the Spanish ambassador, lowering the stars and stripes and raising the Spanish flag. Ambassador Sagaz seemed a little overwhelmed by the size and complexity of our compound, which was many times the size of his establishment.Thursday, June 8, we learned from the BBC that Israeli forces were approaching the Suez Canal and had taken Sharm el Sheikh.  Egypt, however, refused a UN sponsored cease-fire.  About mid afternoon, we received an “immediate” message reporting that the U.S. Navy ship Liberty was under attack, presumably by the Egyptians, and planes were being launched from the Sixth Fleet carrier Saratoga for a retaliatory strike against Egyptian targets.  All of us thought, “Well, this will certainly destroy any further Egyptian cooperation for our safety.” An hour or two later, a second “immediate” arrived reporting that the attackers were Israelis.The next day, June 9, we had good news.  Embassy Athens had succeeded in chartering a recently renovated cruise ship, the 3,000 ton Carina built in Glasgow in 1930.  She had accommodations for 150, and we would be 550 minimum.  Also, the Egyptians had laid on a special train from Cairo to Alexandria for 9:00 A.M. Saturday morning, the 10th.  All seemed in order for a non-eventful departure.  The foreign office had finally agreed to our leaving under Spanish protection four officers headed by Dick Parker and some dozen support personnel. They specifically requested that Bill Bromell stay.  Since they had read the Invisible Government [a book about the CIA], this CIA contact was considered as providing a direct channel to the White House if ever needed. [Bromell had been “declared” to the Egyptian government].  In the course of the day, I paid courtesy farewell calls on six Western ambassadors who had been particularly helpful to me as charg� and on the provost at the Anglican cathedral.In the early afternoon, Cairo Radio announced that President Nasser would deliver an important address to the nation that evening. Parker, Bromell, Bauer and I repaired to the ambassador's residence for dinner.  In the 25 minutes of “Mea Culpa” Nasser assumed all responsibility for the defeat and said he was resigning the presidency. It was perfect theater, as within minutes the streets were thronged with mobs chanting “Nasser, Nasser.” During the dinner Ambassador Sagaz called to report that Parker had been declared persona non grata; and so Bromell would be left as senior officer to manage the packing of several hundred households and location for shipment of as many cars left on Cairo streets.  What a fate for a senior CIA Officer!From the chancery we could hear numerous explosions throughout the city only to learn in due course they were intended as a sign of support for Nasser.  At 10:30 P.M., we were called by the interior ministry and informed that our security could not be guaranteed in the daylight on the next morning, and we would have to board our boat train at 2:00 A.M.  That gave us three-and-a-half hours to round up some four hundred Americans and arrange to get them safely to the station.  Leaving Parker in charge, I returned to the Sharia Wilcox residence in an unmarked car with an embassy driver and a marine, both of us carrying several hand grenades.  Hopefully, this would give us a chance to escape from a mob were we to be surrounded and attacked.  At the house, I grabbed two bags already packed, embraced in farewell our tearful cook, Goma, and proceeded back to the chancery, picking up the Pan American Airline representative George Angelis and his wife, Katy, en route.  We encountered one street blocked by demonstrators, we stopped and they passed around us without incident.  Back at the chancery, the crisis team had done a magnificent job in contacting all known Americans, arranging for them to reach the embassy compound.As there was still conflicting advice from the foreign office and interior ministry as to the security situation for a 2:00 A.M. train departure, I sent Bromell out to talk with the director of Intelligence at Heliopolis—also to try to reverse the decision on Parker.  He returned with an affirmative on the first, a negative on the second, and a request that I stay as senior U.S. diplomat.  We replied, without reference to the Department, that I would stay if we could retain the complement of officers and staff originally requested. This was refused.On Saturday, June 10, between 1 and 2 A.M. we began shuttling our people in six embassy cars and a NAMRU [Naval Medical Research Unit] bus to the station accompanied by Egyptian military guards. I sent the Cadillac with two marines around to the residence for Nolte.  Finally, as the last to leave, I closed the chancery door for the final time and affixed the Spanish seal.Aziz, our senior embassy chauffeur, drove the Angelises and me to the station without incident.  There we found the train being loaded efficiently and all personnel seemingly accounted for.  Just before 2:00 A.M. Ambassador Sagaz appeared, having driven himself through still blacked-out Cairo to say farewell—a very courageous and thoughtful gesture.  (He was later assigned as Spanish ambassador to Washington).  The train pulled out at 3:30 A.M. with shades drawn, arriving on the dock in Alexandria at about 7:30 A.M.  And then the greatest hassle of the week ensued.All together, we had some 1500 pieces of baggage which customs insisted on opening and inspecting each and every one except Nolte's and mine.  This took six hours until 3:00 P.M. during which time we were provided neither food, water nor toilet facilities.  During the day, one of our AID officers became seriously ill with an internal hemorrhage.  As he needed immediate surgery, the Egyptian authorities permitted his transfer to a local hospital, where he died shortly after arrival—the only American casualty in Egypt during the war.The Carina docked at 3:00 P.M. Going on board to talk to the captain, I was informed we had to sail by 5:00 P.M or wait until the next morning.  This involved loading those 1500 pieces of baggage now being repacked on the dock in considerable confusion.  Jim Hutchins, our agricultural attach�, quickly solved the problem by forming a living conveyor belt, or bucket brigade, each piece being passed from hand to hand in a human chain to the total astonishment of the watching Egyptian authorities.  By 4:45 P.M. all was aboard, and the Carina sailed for Piraeus.Outside the twelve mile limit, two Sixth Fleet destroyers joined to escort us on to Greece where we reached port at 2:30 P.M. on Sunday, and were met by Ambassador Phil Talbot. The best quote of the voyage came from 89-year-old Judge Brinton, who had joined us on the dock in Alexandria.  When I asked whether he and Mrs. Brinton were comfortable in a cabin I had managed to get for them, he replied, “Well, I haven't had such a nice sea voyage since we were evacuated during the Suez War!”I think there are lessons to be learned from the embassy's involvement in the June War.  Some of them are:</p>
-<p>1. Never, ever should the White House send a politically-appointed ambassador with no diplomatic or embassy-country team management experience to his post in the middle of a developing crisis with a war near at hand.</p>
-<pb facs="0013" n="Page0013"/>
-<p>2. As a crisis situation develops, a small—no larger than six officer-team should be established to deal with both the diplomatic and administrative requirements.  Ideally, they should include the DCM, political counselor, CIA station chief, administration and consular heads.  In our case, we included the PAO because of his excellent local contacts, good judgment and approach to critical problems with both equanimity and a fine sense of humor. Our senior secretary, Mary Pollock, provided office support for the crisis team and did a superb, officer-level job, working 12 hour days or more throughout without complaint.</p>
-<p>3. It is very helpful to have a CIA station chief who is “declared” to the host government so as to establish close working relations with the intelligence and security people.</p>
-<p>4. Pre-crisis evacuation planning is often useless and—as a practical matter is replaced by ad-hoc decisions dictated by the local situation and extent of cooperation by the host government.</p>
-<p>5. Finally, because of understandable communications limitations, the embassy should be prepared to make hour-by-hour decisions without reference to the Department of State.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>DAVID G. NES</p>
+                <p>Interviewed by: Dayton Mak </p>
+                <p>Initial interview date: April 28, 1992</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is an interview with David Nes at his home in Owings
+                        Mills, Maryland. Today is April 28, 1992. David, first of all, I wonder if
+                        you would be good enough to give us a little bit of your background...where
+                        you were raised, went to school, and particularly how you happened to become
+                        interested in the Foreign Service?</hi>
+                </p>
+                <p>NES: Perhaps I should begin by saying that the Nes family moved to York County,
+                    Pennsylvania in 1731, and we remained there as a family up to my generation. So
+                    in effect, my background is of a small Pennsylvania town. I was very fortunate
+                    in getting four years of high school in Baltimore at the Gilman School where I
+                    was a five-day boarder and then moved on to Princeton University.</p>
+                <p>My Foreign Service career really began in the sophomore year when I had the
+                    burden of a very extensive pre-med course in order to follow in the footsteps of
+                    three generations of Neses who had been physicians. I took an elective in modern
+                    European history given by a very popular and celebrated professor known as
+                    Buzzer Hall. I became so enchanted with history that I dropped the medicine,
+                    went to summer school to get the necessary preliminary courses to major in
+                    history. This change was approved by the Dean, so I went on to obtain my degree
+                    in history from Princeton.</p>
+                <p>This type of background persuaded me that the Foreign Service would be the best
+                    place to pursue these interests and particularly the diplomatic field. Princeton
+                    at that time did not provide certain courses that were necessary to pass the
+                    Foreign Service exams which were considerably more extensive, including essay
+                    questions on international law, world trade and finance, etc. So I took a year
+                    at the Graduate School at Harvard in order to fill in these particular gaps.</p>
+                <p>Afterward, having been interviewed by Sumner Wells, he suggested that in order to
+                    get rid of the Ivy school image, that I obviously possessed, I should dirty my
+                    hands by getting on a daily newspaper and working for a year before taking the
+                    Foreign Service exams. I did this. I worked as a district reporter on the
+                    Baltimore Sun for approximately a year covering primarily murders, rapes,
+                    robberies, fires, accidents, etc.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>I then took the Foreign Service exam just before Pearl Harbor. I passed them. But
+                    after Pearl Harbor, there were no positions opening up abroad; so I was assigned
+                    to the so-called Special Division in the State Department which had the primary
+                    responsibility of handling problems incident to the outbreak of war...evacuation
+                    of citizens, guarantee of strategic materials, etc.</p>
+                <p>However, after about a year of this, I asked for military leave of absence, which
+                    was granted, and joined the Army as a private. I got NCO training at Ft. Sill
+                    and then officer training there, eventually ending up as a volunteer in the Mars
+                    Task Force which was engaged in the Burma Campaign. I served as a Pack Artillery
+                    Battery C.O. until the end of hostilities.</p>
+                <p>At the close of the war, I came back in late 1945, and the State Department
+                    reinstated me without any trouble and more-or-less asked what type of post I
+                    would like. Well, I had picked up a little bit of malaria and other things, so I
+                    said, “I would really like a rather cool post.” As a result I was assigned to
+                    Glasgow, Scotland.</p>
+                <p>
+                    <hi rend="italics">Q: They couldn't have done better than that could they, for
+                        that type of post? I notice that you had been Assistant Director of the
+                        Executive Secretariat in Washington and on a Trieste Task Force. Can you
+                        tell us a bit about this Trieste Task Force?</hi>
+                </p>
+                <p>NES: This all happened because during my time in Paris (1949- 52), the last half
+                    of it, I was special assistant to Ambassador David Bruce. When he came back to
+                    the Department as Under Secretary to sort of manage things during the transition
+                    of Administrations from Truman to Eisenhower, he brought me back with him as his
+                    Special Assistant in the Department.</p>
+                <p>After the transition, I was more-or-less out of a job and assigned to the
+                    Executive Secretariat and to a little task force dealing with Trieste which was
+                    headed by Clare Boothe Luce. She was not only a brilliant lady, but very
+                    attractive to boot! We worked with the Yugoslavs and the Italians on a final
+                    settlement of what was a very serious bone of contention at that time between
+                    Italy and Yugoslavia.</p>
+                <p>
+                    <hi rend="italics">Q: That I believe was primarily who owned Trieste?</hi>
+                </p>
+                <p>NES: It was, it was territorial. It was whether Trieste was Yugoslav or
+                    Italian.</p>
+                <p>
+                    <hi rend="italics">Q: Then in 1954, you went on from there as Counselor and
+                        Deputy Chief of Mission in Libya...long before Qadhafi. What were the
+                        problems you had there, and what was your environment at that time in
+                        Tripoli?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>NES: That assignment really illustrates that it helps to be in the right place at
+                    the right time. After my short State Department experience, all of a sudden I
+                    was offered the DCM job in Tripoli and as a very junior officer—I think I was
+                    class-4 at the time—it looked like a tremendous opportunity, and it turned out
+                    to be just that.</p>
+                <p>Our primary interests in Libya revolved around Wheelus Field which was not only a
+                    mammoth US air base but a training base for NATO. Libya provided the most
+                    wonderful training areas for aerial bombardment, close support, etc. because
+                    this could take place not only in the vast desert areas where nobody would be
+                    injured, but also in the Mediterranean, off the coast. Squadrons of NATO planes
+                    would come down from time to time and rotate through there for training.</p>
+                <p>It was also at this time that oil was discovered and the Libyan government very
+                    wisely formed a group of experts from the major oil companies to draft a
+                    petroleum treaty, or law, under which the major companies could apply for
+                    concessions. The Libyans were clever enough to realize that if the companies
+                    actually did this, they would end up not only squabbling among themselves, but
+                    the end result would probably be an arrangement fairly satisfactory for
+                    Libya—which it turned out to be. Of course at that time King Idris was king, and
+                    Ben Halim was Prime Minister. (Incidentally the latter still lives in
+                    considerable luxury in Paris.)</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any other problems, other than the oil and
+                        Wheelus Field? Was the local population reasonably friendly at that
+                        particular point? There was a Palestinian oriented...</hi>
+                </p>
+                <p>NES: They were only Palestinian-oriented in that there were many well educated,
+                    intellectual Palestinians in Libya. In fact they formed the core, the basis, of
+                    the Libya Supreme Court because most of them were lawyers. But, the Palestinian
+                    issue was virtually an unknown, or at least it didn't play a major part in Libya
+                    thinking.</p>
+                <p>They were particularly worried at the time about Egypt which, of course,
+                    historically has always had some coveted eyes on Libya. They sent to Tripoli as
+                    ambassador their top intelligence officer who later became a very good friend of
+                    mine in Egypt when he was Foreign Minister. His name was Mahmoud Riad. We
+                    watched him very closely and he, of course, was a problem for our CIA as far as
+                    his activities were concerned.</p>
+                <p>I would say that we didn't really have any major problems in Libya at that time.
+                    It was a very friendly country.</p>
+                <p>
+                    <hi rend="italics">Q: By 1956 you left Tripoli and came back to Washington and
+                        became Desk Officer for Korean Affairs and then Military Affairs Adviser in
+                        the African Bureau. What were some of the problems you encountered
+                        there?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>NES: It was really quite a startling assignment to have experience in North
+                    Africa and Paris and all of a sudden to be in charge of Korean affairs during a
+                    very tricky period in our relationship with both Korea, Japan and, of course,
+                    North Korea. That is the way the Department operates! Our Assistant Secretary
+                    was Walter Robertson, a charming gentleman, very tough. We got along very
+                    well.</p>
+                <p>The principal issue that I was involved in was the introduction of nuclear
+                    weapons into South Korea in order to save a considerable amount of money which
+                    would have been used to station there two or three more divisions. It was
+                    estimated that if we equipped our artillery with nuclear warheads, we would be
+                    able to reduce our forces very considerably—which is what happened. I gather
+                    from the press today that those nuclear warheads have just recently been
+                    withdrawn.</p>
+                <p>
+                    <hi rend="italics">Q: Did you enjoy that assignment in Washington?</hi>
+                </p>
+                <p>NES: Well, I did, but I really felt I was unqualified—a fish out of water,
+                    dealing with the Far East. At that time the Bureau of African Affairs was just
+                    being created under Julius Holmes, who was a friend of mine. He asked if I would
+                    agree to transfer from the Bureau of Far Eastern Affairs to the new African
+                    Bureau as Military Affairs Adviser which would deal with all the various bases
+                    we had in Africa at that time...in Morocco, Libya, Ethiopia, etc. I said that I
+                    would be delighted, so I moved over and worked under Satterthwaite, who was the
+                    Assistant Secretary, and Joe Palmer, who was the Deputy Assistant Secretary, for
+                    a very happy year-and-a-half.</p>
+                <p>It enabled me to visit all the northern coast of Africa and our various military
+                    bases. Of course I found Morocco very attractive and put in a little work on the
+                    side trying to get assigned there.</p>
+                <p>
+                    <hi rend="italics">Q: So in 1959, you did get assigned there as DCM. Back into
+                        the swim of North Africa, so to speak. You were there until 1962. Who was
+                        your Ambassador at the time and what did you do there? How did you like
+                        it?</hi>
+                </p>
+                <p>NES: It was a wonderful three year assignment. I had three excellent Chiefs of
+                    Mission. Phil Bonsal to begin with. He felt a little bit out of place since he
+                    was a Latin American expert. He was succeeded by Charlie Yost, who, of course,
+                    went on from there to become our head of delegation to the United Nations. He,
+                    in turn, was succeeded by a political appointee, Mr. John Ferguson who was
+                    excellent, charming with a lovely wife, and with whom I worked very well. He was
+                    particularly easy to work with because being inexperienced in running an
+                    Embassy, he turned everything pretty much over to me and conducted the
+                    diplomatic side of things at which he was very adept.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>It was a very, very happy assignment. Mohammad V was the king. He died under very
+                    sudden and curious circumstances during an operation for a very minor deviated
+                    septum. Many people thought he had been done away with. He was succeeded by his
+                    son, Hassan II who was his Chief of Staff at the time.</p>
+                <p>During my tour, they had that terrible earthquake in Agadir where we sent down
+                    ships from the Mediterranean Fleet. Battalions of engineers came from Germany in
+                    order to help save as many people as we could. There were about 10,000 deaths
+                    all together. It was a hell of a thing.</p>
+                <p>The primary interests in Morocco were our three air bases and one navy
+                    communications base. It is very interesting that, as is the usual custom, when
+                    President Eisenhower decided to visit Morocco I was sent up to join him in
+                    Madrid and come down on Air Force I and to brief him on both the protocol he was
+                    to face and the substantive issues which the air bases were paramount. He proved
+                    to be a far more intelligent, quick, knowledgeable person than the press had led
+                    us to believe. I was very impressed with him.</p>
+                <p>On the plane, he turned to his Chief of Staff and asked how much longer the air
+                    bases would be used for the bombers presently stationed there and was told about
+                    two years. He said immediately, “I will tell the King that we are going to get
+                    out in two years.” And that was it.</p>
+                <p>It was a fascinating and beautiful assignment. We had a chance to visit every
+                    province in the Kingdom at one time or another. I would say that it was probably
+                    one of the real highlights of our career.</p>
+                <p>
+                    <hi rend="italics">Q: While you were there who in the Moroccan government did
+                        you deal with and in what language?</hi>
+                </p>
+                <p>NES: French influence was still very strong. Almost all the educated elite in
+                    Morocco spoke French. That was the language which I used with the Foreign
+                    Office, the Foreign Minister, with the Chef de Cabinet, with the King. Access to
+                    all of these people for a DCM, particularly if he were Charg� d'Affaires, which
+                    was often the case since we had three ambassadors come and go, was very easy and
+                    extremely cordial.</p>
+                <p>The only problem with our political reporting there was that we did feel it
+                    essential that we follow whatever activities were being undertaken by the
+                    so-called Left, which was a labor union. Its leaders had, of course, been
+                    trained in France and were of communist orientation. In maintaining contact with
+                    those leaders we did, from time to time, get into trouble with the Palace which
+                    felt that we should remain aloof.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: At that time, the Palestinian issue was a burning issue in
+                        a lot of Arab states, what role did that play in Morocco at that time?</hi>
+                </p>
+                <p>NES: I would say very little. Algeria was the key foreign issue. It was during my
+                    tenure in Rabat that Algeria received its independence in accord with the Evian
+                    Treaty. It is interesting that Ben Bella—who, of course, headed up the FLN at
+                    that time—I had dealt with quietly and secretly in Tripoli, and I knew him. So
+                    when he flew into Morocco on his way back to Algeria (he flew in actually on an
+                    American Air Force plane because he was afraid of the French), I was designated
+                    to go down to our air base at Nouasser and greet him. So Algeria was our
+                    principal interest and Palestine very little.</p>
+                <p>
+                    <hi rend="italics">Q: Then I see that in 1963 you went to London as US
+                        diplomatic representative at the Imperial Defense College. Would you tell us
+                        a bit about the Imperial Defense College and how you enjoyed being
+                        there?</hi>
+                </p>
+                <p>NES: That was certainly a plum assignment as those of my colleagues who had that
+                    chance will confirm. The Defense College is a little bit like our National War
+                    College except at a slightly more senior rank and a little more general in its
+                    approach to the education of senior officers. The level of officers was
+                    Brigadier or above in the Army and Air Marshal in the Air Force, the age 40-50.
+                    The British Government—I think, with an arrangement with President
+                    Eisenhower—asked that we provide a representative from our Foreign Service, the
+                    Army, Navy and the Air Force. And so we did. We were four Americans each year in
+                    a class of about 65.</p>
+                <p>These 65 were drawn from the Commonwealth, from the UK, Canada, Australia, New
+                    Zealand, India, Nigeria and Pakistan. It is rather sad to note that the two
+                    Nigerian officers there later lost their lives in the civil war in their
+                    country. It was a very stimulating, exciting group of men to work with. There
+                    were no ladies in the class at that time, I am sorry to say. As one of the
+                    Americans, we were treated very royally, given access to every sporting and
+                    social event that you could imagine in London.</p>
+                <p>The daily routine was very sophisticated and very attuned to the British way of
+                    doing things. You met at 9:00 for coffee and at 9:30 you had a speaker drawn
+                    from the top echelons of European or British government or from the NATO
+                    headquarters. You worked with him, talked with him, he spoke with you through
+                    lunch. In the afternoon you broke up into what was known as syndicates, which
+                    are little groups, to work on papers that were assigned to you. There was tea at
+                    4:00 and sherry at 6:00. You all wandered home alone about 7:00 in time for
+                    cocktails!</p>
+                <p>
+                    <hi rend="italics">Q: Sounds like a very strenuous life! What particular subject
+                        were you involved in?</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>NES: Of course, everybody was very interested in the United States involvement in
+                    Vietnam; but at the end, I was in a group assigned to the preparation of a
+                    British defense budget for the next three years.</p>
+                <p>
+                    <hi rend="italics">Q: From then on, you were plunged into Saigon where you were
+                        DCM with the personal rank of Minister. You had a few other assignments as
+                        well. Particularly with reference to Saigon and what came later, what was
+                        the situation in Saigon when you were there and who was your
+                        Ambassador?</hi>
+                </p>
+                <p>NES: Perhaps I could begin by regaling you with how I was assigned to Saigon in
+                    the first place. I was just finishing up in December the IDC course in London
+                    when I got a telephone call to report back to Washington immediately. I
+                    explained that the course wasn't over and that I was in the middle of preparing
+                    a British defense budget, but that didn't seem to cut any ice. So I got on a
+                    plane the next morning and flew back.</p>
+                <p>I was called up to the Bureau of Far Eastern Affairs for an appointment with
+                    Roger Hilsman, the Assistant Secretary. Roger said, “What would you think about
+                    going out to Saigon as Cabot Lodge's deputy?” I expressed some surprise and
+                    said, “How has this come about?” He said, “Well, you may recall that when you
+                    were in Libya, Cabot Lodge came over there as our UN Ambassador for a visit and
+                    you offered him a choice between coming to the Embassy for all sorts of
+                    activities, ceremonies, cocktail parties, etc., or taking the Ambassador's car
+                    and going out to the Rome ruins at Sabratha and watching the sun set. [I
+                    recommended the latter, which Ambassador Lodge accepted.] When the problem of
+                    replacement of our current DCM in Saigon arose, we asked the Ambassador if he
+                    had any preference. We offered him three names and he apparently selected Nes
+                    because of his Libyan experience.”</p>
+                <p>
+                    <hi rend="italics">Q: That sunset must have been very impressive! After that,
+                        you went on to Cairo as DCM and Minister where you were from 1965-67. Tell
+                        us what your experiences were in Cairo, particularly who you saw on business
+                        and can you give us just a bit of the flavor of US-Egyptian relations at
+                        that rather difficult time?</hi>
+                </p>
+                <p>NES: As you probably noticed, I arrived in Cairo in late June 1965. I found
+                    through my Foreign Service experience that when a new DCM is arriving, the
+                    ambassador usually arranges it to occur just before the Fourth of July so he can
+                    go off on leave and turnover the Fourth of July party to the new DCM. That is,
+                    in fact, what happened.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>Before he left, our Ambassador at that time, Luke Battle, took me out into the
+                    garden for a little confidential chat. He gave me quite a scary summary of the
+                    deteriorating US-Egyptian relations following the recent burning of the USIS
+                    library and the downing of an oil company plane in the desert by Egyptian
+                    fighters. He made it very clear that Washington took the dimmest view of all
+                    this and was becoming more and more anti-Nasser, but that he, himself, felt that
+                    we should do everything possible to maintain reasonable and normal relations. He
+                    just wanted me to have that view of his before he left for a week or so.</p>
+                <p>We had quite a struggle through the next year in maintaining any sort of program
+                    assistance for Egypt and I would say that was our principal mission up to the
+                    months preceding the so-called June War. Our relationship, however, with
+                    individual Egyptians was absolutely perfect. I had access to the people you
+                    would suppose a DCM could see, not President Nasser, of course. But I had access
+                    to the Foreign Minister and the various area heads in the Foreign Office at any
+                    time. Also to the heads of the various departments of government, particularly
+                    on the economic side. Life in Cairo was very agreeable as far as our
+                    relationship with the Egyptians was concerned. My wife became a close friend of
+                    Mrs. Sadat whose husband, and later President, was speaker of the Parliament.
+                    They met to brush up Mrs. Sadat's English every Thursday for a year.</p>
+                <p>
+                    <hi rend="italics">Q: We have your account of the June War which will become a
+                        part of this interview. Have you had any second thoughts since doing that
+                        several months ago? Do you have anything you would like to add to that?</hi>
+                </p>
+                <p>NES: Not with particular reference to the immediate weeks preceding the June War
+                    which were captured in the little paper I gave you. But our relationship with
+                    Egypt was very difficult because of the feeling in Washington, particularly in
+                    other agencies on the government than the State Department, that Nasser should
+                    be penalized for the various activities he was carrying on which we considered
+                    contrary to US interests. Particularly in the Saudi Arabian Peninsula, the Port
+                    of Aden and in that general area, which, as you recall, he had quite a
+                    substantial land force at the southern end of the Peninsula and was actively
+                    involved in the civil war between the two halves of the Yemen.</p>
+                <p>We had various embarrassing set-tos with him. At one point, our AID mission chief
+                    in the Yemen for some unknown reason stored a lot of very highly classified
+                    cables in his office safe unlocked which Egyptian intelligence got hold of. Of
+                    course they accused us privately (it never went public) with trying to damage
+                    their interests in that area and, in particular, to take sides in the civil war.
+                    So we had a lot of little difficulties as time went on.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>We really worked very hard to persuade Washington that it was in our long-range
+                    interests not to drive Nasser into such a corner of frustration that he would
+                    lash out in some unreasonable way, either against Israel or Libya, against our
+                    interests in Egypt itself. I would say that to Luke Battle and myself, that was
+                    our principal mission during those several years—to try to build and maintain a
+                    normal relationship with a very important country in the area.</p>
+                <p>
+                    <hi rend="italics">Q: There has been a lot of speculation and discussion, pro
+                        and con, on Nasser's feelings and attitude towards the United States. Some
+                        people point out that they were very ambivalent. Can you give us your view
+                        of Nasser's feeling and what influenced and caused his anti- American
+                        actions? Were they reflexive as you have suggested or were there more basic
+                        reasons? I come back always to the Palestinian issue and how that impacted
+                        on his thinking.</hi>
+                </p>
+                <p>NES: Again, it does seem curious to all of us now that the Palestinian issue did
+                    not play a major role in our relationship with Egypt, or in fact in Nasser's
+                    thinking at the time. I think he was convinced, rightly or wrongly, that the
+                    Johnson Administration was out to get him. He based this on the fact that we
+                    were doing or not doing a lot of fairly minor things. We were holding up the PL
+                    480 wheat program which was absolutely essential to feed his people. We had
+                    vetoed a nuclear desalting project that was very close to his heart and one in
+                    which we had promised him assistance initially. We had withdrawn a mission by
+                    Secretary Rusk who was scheduled to come to Egypt and abruptly canceled. There
+                    were just a whole litany of little things that Nasser felt were demonstrative of
+                    the aim of the Johnson Administration to bring him down.</p>
+                <p>
+                    <hi rend="italics">Q: Could we go back to Saigon. What was the status of our
+                        involvement at that point in Saigon? What was the situation on the ground
+                        with regard to both the French and the US and the Vietnamese?</hi>
+                </p>
+                <p>NES: By the time I arrived, we had some 25,000 so-called advisers on the ground
+                    out to battalion level in the Vietnamese army for training and advisory
+                    functions. The activities of the communist forces in the South, known as Viet
+                    Cong, were obviously increasing day by day, both in taking over villages,
+                    particularly in the Delta, but also in a tremendous propaganda effort. It was
+                    very clear that the control and supply of these Viet Cong forces came directly
+                    from Hanoi. We were able to intercept the radio and ground communications to a
+                    certain extent. The heart and mind of the whole operation in South Vietnam
+                    centered in Hanoi which meant that it was very hard to get at.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>Shortly after my arrival, General Westmoreland arrived to take over command. We
+                    got along very well. I traveled with him by helicopter and light plane into
+                    every provincial capital in South Vietnam which gave me a pretty good bird's eye
+                    view of the situation. It seemed very clear to most of us that the tentacles of
+                    the communist effort in the South extended so far into the villages in the
+                    countryside that it would be very difficult, if not virtually impossible, to
+                    rout them out without going into the heart and brains of the operation in Hanoi,
+                    which, of course, would have meant the occupation of North Vietnam as we had
+                    occupied Germany and Japan and which was politically unthinkable back home in
+                    the United States, or in fact in the Western world.</p>
+                <p>General Westmoreland, I think, was still hopeful that the effort we were engaged
+                    in in the South could prevail, but I am not sure he was that optimistic. He told
+                    me at one point, if he had the number of troops that were bogged down in the
+                    South and could use them for the occupation of the North, we would suffer far
+                    fewer casualties than we are suffering now.</p>
+                <p>During my brief tenure, we did begin to build up forces. First of all providing
+                    direct air support to the Vietnamese, secondly, naval support off the coast. But
+                    by the time of my departure we hadn't yet introduced any active combat units.
+                    These were to come very briefly thereafter in tremendous numbers as we all know.
+                    But I would say that at the end of my short time there was not too much optimism
+                    that we could achieve our objective, which was very simply preserving a non-
+                    communist South Vietnam. We could not achieve that objective without in effect
+                    going after the North directly. My departure from Saigon was sudden and
+                    unexpected. With no warning. Ambassador Lodge departed to run in the 1964
+                    Presidential elections. General Taylor was appointed as Ambassador and chose
+                    career Ambassador Johnson as his deputy, and so I was “trumped” out of a
+                    job.</p>
+                <p>
+                    <hi rend="italics">Q: I have a couple of general questions and you may not want
+                        to answer them. Of all the people you worked for in the Foreign Service,
+                        your ambassadors, senior officers, etc., and you worked with a lot of big
+                        names, is there one who stands out in your mind and in your experience as
+                        being above all the rest from the standpoint of wisdom, ability to work with
+                        people and get jobs done?</hi>
+                </p>
+                <p>NES: That is a very easy question to answer because I very much have one person
+                    in mind, David Bruce in Paris. He was a Renaissance man of tremendous charm,
+                    tremendous intellect, tremendous abilities. He wrote a book on the first 14 or
+                    15 Presidents of the United States. He knew his history. He was a connoisseur of
+                    antique furniture, architecture, of good wines, a crack shot, a good golfer
+                    before he injured his back during World War II. He knew Europe intimately from
+                    his experience of heading up OSS operations during World War II. He was married
+                    to a very charming wife, Evangeline. And he was just a very able person. I will
+                    give you two illustrations.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>In the afternoons when things got pretty dull, we used to work at the Embassy
+                    until 8:00 in the evening because of the time differences and the cable traffic
+                    with Washington, he would come into the outer offices along about 3 or 4 o'clock
+                    and say, “David, nothing is going on let's go out shopping.” He would take me
+                    out to antique shops and teach me something about antique French furniture. When
+                    his liquor salesman came in, and he would order cases of wine for the Embassy,
+                    he would say, “You know, I like this particular wine, can I put an extra case in
+                    for you and you can pay me later?” That was his charming social time.</p>
+                <p>He was given by the French Government a lovely country house called Chateau de
+                    Lanterne on the grounds of the Versailles Gardens and Palace, and he and
+                    Evangeline repaired out there every weekend. Of course it was my job to bring
+                    the cables out so that he could read and draft anything and bring them back.
+                    Knowing that I was a very keen golfer, I played at St. Cloud and actually played
+                    on the French Golf Team, he always arranged that I bring the cables out Saturday
+                    morning so that I could have a quick round of golf and then come back and pick
+                    them up afterwards.</p>
+                <p>That was the social and sporting side of David Bruce. But on his professional
+                    side he was a fantastic rapporteur. I remember one night he came back from a
+                    dinner party with the Prime Minister in white tie and tails. He went up to the
+                    code room and dictated directly to the operator of the code machine the most
+                    concise, beautifully written cable to Washington I have ever read. He was a pro,
+                    a Renaissance man. I learned so much from him. I think having been with him gave
+                    me a terrific leg-up in the rest of my career.</p>
+                <p>
+                    <hi rend="italics">Q: That is very nice and I am sure everyone who worked for
+                        David Bruce would support you fully. Now let's get back to you. You served
+                        in a variety of areas, the Far East, Europe, North Africa and in Washington.
+                        Of all your jobs which one did you find the most interesting, rewarding, not
+                        necessarily the most enjoyable because you probably had some unattractive
+                        times, but do you have a favorite set of experiences in one post that you
+                        would like to mention?</hi>
+                </p>
+                <p>NES: It is very hard for me to pick out any one post because I was terribly
+                    lucky, and as I say, I happened to be in the right spot at the right time many,
+                    many times in the Foreign Service. My wife and I loved all our posts. We liked
+                    the people in all the countries in which we served. I found something
+                    interesting in every post, even in mundane Glasgow, Scotland where I had the job
+                    of doing the economic and political reporting in the post war years when the
+                    Goebbels area was going communist and light industry was trying to move in and
+                    replace heavy industry. A post where most people would have found it very dull.
+                    I found it very interesting.</p>
+                <p>In addition to providing unequaled administrative support, bearing and raising
+                    four daughters abroad, my wife shared fully in the substance of my work
+                    throughout our career.</p>
+                <p>
+                    <pb facs="0012" n="Page0012"/>
+                    <hi rend="italics">Q: Well, let's not forget that you had some rather nice golf
+                        courses there.</hi>
+                </p>
+                <p>NES: I think that helped! Paris, of course, working first of all with Ambassador
+                    Harriman as part of the Marshall Plan. I had a lovely office overlooking the
+                    Place de la Concorde from the Palais de Talleyrand which I shared with Vernon
+                    Walters. I happened to be the Assistant Political Adviser and Vernon Walters was
+                    the Military Adviser. We got to know each other very well. Of course, I was
+                    delighted to see him move on up and become Deputy Director of CIA and then the
+                    head of our UN operation and finally, currently, our Ambassador in Germany.
+                    Paris was an absolute gem in the crown.</p>
+                <p>The State Department provided the most difficult times because of the bureaucracy
+                    that you run into there and the fact that every minor paper has to be cleared
+                    around the Department and through two or three agencies of government. I think
+                    serving in the Department is a very frustrating experience and most officers are
+                    delighted to get back into the field.</p>
+                <p>Morocco, of course, is the most beautiful country with the most gorgeous sea
+                    coast, with farming land, with the high Atlas, with the desert, skiing in the
+                    mountains. Just a tremendous post. Trying to negotiate our air bases termination
+                    was fascinating. But of all the posts, I think, Morocco was the most enjoyable
+                    from a standard of living standpoint.</p>
+                <p>Egypt was the most challenging because our difficulties there were mounting. It
+                    was very obvious for the last six months that something was going to break, and
+                    we were going to have another Middle Eastern war on our hands.</p>
+                <p>
+                    <hi rend="italics">Q: Thank you David. You had a really marvelous career and you
+                        retired in 1968 with the Superior Honor Award.</hi>
+                </p>
+                <p>CAIRO (1967) Following is an account of the Six-Day War as viewed from Cairo,
+                    Egypt, by David Gulick NES, who was charg� d'affaires ad interim at the
+                    time.Ambassador-designate Richard Nolte had arrived in Cairo on May 21 but was
+                    unable to present his credentials owing to the crisis culminating in the
+                    so-called June “Six-Day War.” David G. Nes, charg� d'affaires, continued to
+                    conduct the affairs of the embassy during this period until Egypt broke
+                    diplomatic relations with the United States and the embassy was closed. Nes
+                    recalls the events immediately preceding the war, including unsuccessful
+                    attempts by the United States to prevent a war by allaying Nasser's fears of an
+                    Israeli attack. He also describes the Embassy's organization during that period
+                    and how the Americans were evacuated to safehavens.</p>
+                <p>NES: Tensions between the “front line” Arab states and Israel had been increasing
+                    during the past year—engendered by guerilla attacks across Israel's eastern
+                    border and Israeli reaction such as its raid on the Jordanian town of Samu and
+                    its later destruction of six Syrian MiGs on the outskirts of Damascus. A
+                    reported statement by Israeli Chief of Staff, General Rabin, on May 12 to the
+                    effect that his forces would occupy Damascus and overthrow the regime set the
+                    stage for the subsequent events leading up to the “June War.” Meanwhile, Arab
+                    criticism of Nasser and demands that he do something intensified.The next day,
+                    the fuse was lit when Soviet Ambassador Pojidaev informed the Egyptian Foreign
+                    Office Under Secretary Al-Fiki that Israeli troops were moving for attack on the
+                    Syrian border. On instructions from the Department, I called on al-Fiki May 16
+                    and informed him our intelligence reported no unusual troop movements in Israel.
+                    This was passed on to Nasser, who is reported to have considered this demarche
+                    as merely the cover for an Israeli attack. By this time, relations between the
+                    United States and Egypt had sunk so low that Nasser seemed to believe that we
+                    were in collusion with the Israelis to destroy his regime. The origin of this
+                    belief stems from the history of U.S.-Egyptian relations over several previous
+                    years which is beyond the scope of this discussion. In brief, Nasser seemed to
+                    be reaching a degree of frustration bordering on irrationality.From May 13, the
+                    events moved quickly to crisis proportions. During the 14th and 15th, Egyptian
+                    troops ostentatiously paraded through the Cairo streets en route to the Sinai.
+                    In my conversation with al-Fiki on the 16th, he explained this move as purely
+                    defensive and only designed to respond if Israel attacked Syria massively.
+                    Ambassador-designate Nolte arrived the evening of May 21 and in remarks to the
+                    press discounted any possibility of war or of a crisis situation. The next day
+                    Nasser, in a speech to an officer group, announced that he was closing the
+                    Straits of Aqaba to Israeli shipping. Such a move had always been considered a
+                    casus belli by the Israeli government.On the 23rd, President Johnson sent Nasser
+                    a personal letter expressing friendship with a plea for avoiding hostilities and
+                    offering to send Vice President Humphrey over to discuss the crisis. On May 26,
+                    the provocative editor of al-Ahram, Mohamed Heikal, had published an editorial
+                    to the effect that war was inevitable. In the embassy, we had already begun
+                    preparations to evacuate dependents and non-essential personnel, and
+                    accomplished their departure easily by chartered aircraft from Cairo to Athens,
+                    May 26-29. My wife and two younger daughters left on home leave orders on the
+                    latter date. (We had been planning to leave July 10 in any event). On the eve of
+                    their departure, Mrs. Anwar Sadat, wife of the future president, telephoned my
+                    wife to express sorrow at this distressing turn of events. She had invited my
+                    wife to come to her house once a week to help her with her English for the past
+                    year. Needless to say, the week preceding June 5 was one of frenzied diplomatic
+                    activity, and the cable traffic between the embassy and Washington kept our
+                    communications and secretarial staff working 24 hours a day.While Nasser was
+                    obviously endeavoring to soften his provocative moves of the previous week, the
+                    embassy had no reason to believe from the cable traffic that Israel would long
+                    delay a military strike so as to permit diplomacy or an international naval
+                    presence in the straits to de-escalate the crisis. We began discussing the
+                    possibility of a break in diplomatic relations and the further evacuation of
+                    both official and non-official Americans should war come. The embassy,
+                    meanwhile, was not kept fully informed of our contacts with the Israeli
+                    government, but gained the impression that we had neither requested nor obtained
+                    a “no first strike assurance” such as we had asked for and gotten from Egypt.
+                    There was some belief that the Israelis had given us several weeks of grace to
+                    “open” the straits by diplomatic or military means; that is, until June ll or
+                    thereabouts.As the first days of June approached, plans initiated by the
+                    Egyptian government were set in motion to send a delegation to Washington on
+                    June 6 headed by their vice president Zakaria Mohieddine.In the embassy, we
+                    established a sort of crisis center headed by our very able Arabic speaking
+                    political counselor, Dick Parker, assisted by the CIA station chief Bill
+                    Bromell, PAO [public affairs officer] Bob Bauer, the administrative counselor,
+                    Martin Armstrong, and the consul general. With dependents and non-essential
+                    personnel out of the way, we concentrated on our relations with the key Egyptian
+                    ministries, namely foreign and interior, and on the exact location of all
+                    American residents, including many distant from Cairo or in the Suez oil
+                    fields.By Sunday, June 4, we seemed to have reached a day of quiet and some
+                    moderate optimism. We had a “no first strike” pledge from Nasser. The Mohieddine
+                    Mission was going to Washington, and 11:30 A.M. the next day had been set for
+                    our ambassador designate to present his credentials. There seemed a chance,
+                    albeit slim, of a peaceful outcome. During the morning I attended services at
+                    the Anglican cathedral and then lunched with Ashraf Ghorbal from the foreign
+                    office (later ambassador to Washington) who was organizing the Mohieddine
+                    Mission; and after checking the embassy, went out for nine holes of golf with
+                    dinner thereafter at the John Dormans (American Research Center) on their Nile
+                    River boat. In fact, we were in the eye of the hurricane. Cairo that night was a
+                    dead city, the streets deserted, building blacked out and car lights blue.On
+                    Monday, June 5 the chancery began the day routinely with the 8:00 A.M. staff
+                    meeting. We discussed continuing the evacuation of remaining Americans to
+                    Alexandria, the Mohieddine Mission, Nolte's presentation of credentials—who
+                    would accompany him and what he could appropriately say to Nasser. As the
+                    meeting broke up shortly before 9:00 A.M., Radio Cairo reported Israeli air
+                    attacks throughout the country. Outside we could hear explosions in the
+                    direction of Cairo West airfield and some anti-aircraft fire, but no Israeli
+                    planes were visible over Cairo. I immediately called Judge and Mrs. Brinton (an
+                    elderly American couple retired in Cairo) who awaited an embassy car to take
+                    them to the airport for an Athens flight and told them to sit tight. Shortly
+                    thereafter, the Foreign Office called canceling Nolte's presentation of
+                    credentials. The next day, John Dorman arranged for the Brintons to reach
+                    Alexandria.Throughout the day Cairo Radio and TV reported gigantic Egyptian air
+                    and land victories. The mood throughout the city was euphoric amid periodic air
+                    raid sirens which just seemed to stimulate greater enthusiasm. From the BBC we
+                    were getting another story. That evening I attended a small garden cocktail
+                    party at the Bauers in the midst of which all hell broke loose overhead. While
+                    no Israeli planes could be seen or heard, anti-aircraft fire was intense and
+                    showered us with shrapnel, forcing all the guests indoors for the rest of the
+                    evening. A modified diplomatic and intra-Embassy social life continued through
+                    the week, but all official Egyptian contacts seemed to disappear.The following
+                    morning, June 6, the early morning Cairo Radio broadcast reported that U.S. and
+                    U.K. planes had participated in the air attacks of the previous day, and the
+                    mood on the streets of Cairo became ugly. The big lie was obviously orchestrated
+                    to explain why Israel alone never could have defeated the Egyptian air
+                    force—i.e. shades of Suez. We advised all Americans except those needed in the
+                    embassy crisis center and communications to stay at home. Our communications
+                    were switched from commercial channels to our emergency radio links through the
+                    Sixth Fleet. Later that morning, our consul general in Alexandria, David
+                    Fritzlan, called on the emergency radio to report his offices were under attack;
+                    and that he and the staff had retreated and were barricaded in the
+                    communications center on the second floor. Within a few minutes he reported the
+                    mob had set fire to the building and his radio went dead. Very shortly
+                    thereafter, a similar distress call was received from our consul in Port Said,
+                    whose offices were also under siege. Happily, within the hour, the British
+                    consul in Alexandria called to say that Fritzlan and staff had been evacuated
+                    safely and taken to the police station for safety. The situation in Port Said
+                    was similarly resolved. Our buildings in both cities were virtually destroyed,
+                    but no one, miraculously, was injured. In Cairo, we asked the minister of
+                    interior for full protection, which was quickly forthcoming and involved a
+                    paratroop company around the embassy and small military units at the embassy
+                    residence and my residence on Sharia Wilcox in Az-Zamalik. Early that evening,
+                    Nolte was called to the foreign office and handed a note breaking diplomatic
+                    relations. I followed up with the chief of protocol requesting that we be
+                    permitted to retain under a protecting power twenty-four officers and an
+                    adequate support staff, the same complement permitted Britain following the Suez
+                    War. This was refused, and further talks were agreed to for the next day. We had
+                    strongly recommended to Washington that Spain be requested to handle our
+                    interests. The Spanish ambassador in Cairo, Angel Sagaz, had exceptionally good
+                    relations with the Egyptian government and was a very personable, competent
+                    career diplomat. The Department reluctantly agreed because they were not
+                    enthusiastic about asking the Franco government for anything and feared media
+                    and political criticism.At 9:00 P.M. representatives from the interior ministry
+                    called at the chancery and demanded that all Americans in Egypt be immediately
+                    concentrated in the Cairo Hilton Hotel—an impossible and impractical order based
+                    on out-of-date lists, which our consular staff corrected for them.Wednesday,
+                    June 7, I spent much of the day in frustration shuttling between the Foreign
+                    Office and Spanish embassy seeking agreement on the embassy staff we could leave
+                    behind. Back at the chancery, talks were underway with embassy Athens to charter
+                    a ship for evacuation from Alexandria. The Egyptian government had demanded that
+                    all Americans, except the agreed number, leave by Saturday, June 10. This
+                    involved about 550 all together including those already in Alexandria and Port
+                    Said. Those in the Suez Gulf oil fields were being exempted. The mood in Cairo
+                    was becoming increasingly threatening as reports of Egyptian defeats filtered in
+                    from the BBC and other foreign stations.We had already destroyed classified
+                    files and code machines. These were equipped with chemical destruction kits. The
+                    Marine sergeant in charge apparently misread the directions, and considerable
+                    fire ensued on the chancery roof where the machines and files had been taken.
+                    This resulted in consternation among the Egyptian troops “protecting” us who
+                    assumed it was a bomb, and the equivalent of five to six alarms were sent in to
+                    the neighborhood fire houses. The resulting confusion and noise was awesome! The
+                    fire was quickly put out without Egyptian assistance. When things calmed down,
+                    we officially turned over the embassy to the Spanish ambassador, lowering the
+                    stars and stripes and raising the Spanish flag. Ambassador Sagaz seemed a little
+                    overwhelmed by the size and complexity of our compound, which was many times the
+                    size of his establishment.Thursday, June 8, we learned from the BBC that Israeli
+                    forces were approaching the Suez Canal and had taken Sharm el Sheikh. Egypt,
+                    however, refused a UN sponsored cease-fire. About mid afternoon, we received an
+                    “immediate” message reporting that the U.S. Navy ship Liberty was under attack,
+                    presumably by the Egyptians, and planes were being launched from the Sixth Fleet
+                    carrier Saratoga for a retaliatory strike against Egyptian targets. All of us
+                    thought, “Well, this will certainly destroy any further Egyptian cooperation for
+                    our safety.” An hour or two later, a second “immediate” arrived reporting that
+                    the attackers were Israelis.The next day, June 9, we had good news. Embassy
+                    Athens had succeeded in chartering a recently renovated cruise ship, the 3,000
+                    ton Carina built in Glasgow in 1930. She had accommodations for 150, and we
+                    would be 550 minimum. Also, the Egyptians had laid on a special train from Cairo
+                    to Alexandria for 9:00 A.M. Saturday morning, the 10th. All seemed in order for
+                    a non-eventful departure. The foreign office had finally agreed to our leaving
+                    under Spanish protection four officers headed by Dick Parker and some dozen
+                    support personnel. They specifically requested that Bill Bromell stay. Since
+                    they had read the Invisible Government [a book about the CIA], this CIA contact
+                    was considered as providing a direct channel to the White House if ever needed.
+                    [Bromell had been “declared” to the Egyptian government]. In the course of the
+                    day, I paid courtesy farewell calls on six Western ambassadors who had been
+                    particularly helpful to me as charg� and on the provost at the Anglican
+                    cathedral.In the early afternoon, Cairo Radio announced that President Nasser
+                    would deliver an important address to the nation that evening. Parker, Bromell,
+                    Bauer and I repaired to the ambassador's residence for dinner. In the 25 minutes
+                    of “Mea Culpa” Nasser assumed all responsibility for the defeat and said he was
+                    resigning the presidency. It was perfect theater, as within minutes the streets
+                    were thronged with mobs chanting “Nasser, Nasser.” During the dinner Ambassador
+                    Sagaz called to report that Parker had been declared persona non grata; and so
+                    Bromell would be left as senior officer to manage the packing of several hundred
+                    households and location for shipment of as many cars left on Cairo streets. What
+                    a fate for a senior CIA Officer!From the chancery we could hear numerous
+                    explosions throughout the city only to learn in due course they were intended as
+                    a sign of support for Nasser. At 10:30 P.M., we were called by the interior
+                    ministry and informed that our security could not be guaranteed in the daylight
+                    on the next morning, and we would have to board our boat train at 2:00 A.M. That
+                    gave us three-and-a-half hours to round up some four hundred Americans and
+                    arrange to get them safely to the station. Leaving Parker in charge, I returned
+                    to the Sharia Wilcox residence in an unmarked car with an embassy driver and a
+                    marine, both of us carrying several hand grenades. Hopefully, this would give us
+                    a chance to escape from a mob were we to be surrounded and attacked. At the
+                    house, I grabbed two bags already packed, embraced in farewell our tearful cook,
+                    Goma, and proceeded back to the chancery, picking up the Pan American Airline
+                    representative George Angelis and his wife, Katy, en route. We encountered one
+                    street blocked by demonstrators, we stopped and they passed around us without
+                    incident. Back at the chancery, the crisis team had done a magnificent job in
+                    contacting all known Americans, arranging for them to reach the embassy
+                    compound.As there was still conflicting advice from the foreign office and
+                    interior ministry as to the security situation for a 2:00 A.M. train departure,
+                    I sent Bromell out to talk with the director of Intelligence at Heliopolis—also
+                    to try to reverse the decision on Parker. He returned with an affirmative on the
+                    first, a negative on the second, and a request that I stay as senior U.S.
+                    diplomat. We replied, without reference to the Department, that I would stay if
+                    we could retain the complement of officers and staff originally requested. This
+                    was refused.On Saturday, June 10, between 1 and 2 A.M. we began shuttling our
+                    people in six embassy cars and a NAMRU [Naval Medical Research Unit] bus to the
+                    station accompanied by Egyptian military guards. I sent the Cadillac with two
+                    marines around to the residence for Nolte. Finally, as the last to leave, I
+                    closed the chancery door for the final time and affixed the Spanish seal.Aziz,
+                    our senior embassy chauffeur, drove the Angelises and me to the station without
+                    incident. There we found the train being loaded efficiently and all personnel
+                    seemingly accounted for. Just before 2:00 A.M. Ambassador Sagaz appeared, having
+                    driven himself through still blacked-out Cairo to say farewell—a very courageous
+                    and thoughtful gesture. (He was later assigned as Spanish ambassador to
+                    Washington). The train pulled out at 3:30 A.M. with shades drawn, arriving on
+                    the dock in Alexandria at about 7:30 A.M. And then the greatest hassle of the
+                    week ensued.All together, we had some 1500 pieces of baggage which customs
+                    insisted on opening and inspecting each and every one except Nolte's and mine.
+                    This took six hours until 3:00 P.M. during which time we were provided neither
+                    food, water nor toilet facilities. During the day, one of our AID officers
+                    became seriously ill with an internal hemorrhage. As he needed immediate
+                    surgery, the Egyptian authorities permitted his transfer to a local hospital,
+                    where he died shortly after arrival—the only American casualty in Egypt during
+                    the war.The Carina docked at 3:00 P.M. Going on board to talk to the captain, I
+                    was informed we had to sail by 5:00 P.M or wait until the next morning. This
+                    involved loading those 1500 pieces of baggage now being repacked on the dock in
+                    considerable confusion. Jim Hutchins, our agricultural attach�, quickly solved
+                    the problem by forming a living conveyor belt, or bucket brigade, each piece
+                    being passed from hand to hand in a human chain to the total astonishment of the
+                    watching Egyptian authorities. By 4:45 P.M. all was aboard, and the Carina
+                    sailed for Piraeus.Outside the twelve mile limit, two Sixth Fleet destroyers
+                    joined to escort us on to Greece where we reached port at 2:30 P.M. on Sunday,
+                    and were met by Ambassador Phil Talbot. The best quote of the voyage came from
+                    89-year-old Judge Brinton, who had joined us on the dock in Alexandria. When I
+                    asked whether he and Mrs. Brinton were comfortable in a cabin I had managed to
+                    get for them, he replied, “Well, I haven't had such a nice sea voyage since we
+                    were evacuated during the Suez War!”I think there are lessons to be learned from
+                    the embassy's involvement in the June War. Some of them are:</p>
+                <p>1. Never, ever should the White House send a politically-appointed ambassador
+                    with no diplomatic or embassy-country team management experience to his post in
+                    the middle of a developing crisis with a war near at hand.</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>2. As a crisis situation develops, a small—no larger than six officer-team should
+                    be established to deal with both the diplomatic and administrative requirements.
+                    Ideally, they should include the DCM, political counselor, CIA station chief,
+                    administration and consular heads. In our case, we included the PAO because of
+                    his excellent local contacts, good judgment and approach to critical problems
+                    with both equanimity and a fine sense of humor. Our senior secretary, Mary
+                    Pollock, provided office support for the crisis team and did a superb,
+                    officer-level job, working 12 hour days or more throughout without
+                    complaint.</p>
+                <p>3. It is very helpful to have a CIA station chief who is “declared” to the host
+                    government so as to establish close working relations with the intelligence and
+                    security people.</p>
+                <p>4. Pre-crisis evacuation planning is often useless and—as a practical matter is
+                    replaced by ad-hoc decisions dictated by the local situation and extent of
+                    cooperation by the host government.</p>
+                <p>5. Finally, because of understandable communications limitations, the embassy
+                    should be prepared to make hour-by-hour decisions without reference to the
+                    Department of State.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

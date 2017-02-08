@@ -1,591 +1,1166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000382">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Eric Fleisher </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Eric Fleisher </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>ERIC FLEISHER</p>
-<p>Interviewed by: Thomas Dunnigan</p>
-<p>Initial interview date:  June 17, 2002</p>
-<p>Copyright 2003 ADST</p>
-<p>Q: This is Thomas Dunnigan on behalf of the Association for Diplomatic Studies and Training and the Oral History Program.  Today is June 17, 2002.  I will be talking with Eric W. Fleisher, who spent many years in the Foreign Service and became one of the Service's recognized experts on Scandinavia.  Eric, perhaps you might tell us something about your background - your education, your interest in foreign affairs, things of that nature.</p>
-<p>FLEISHER:  I was born here in Washington, DC.  That was considered very unusual, probably still is.  But I grew up in Japan, where my family published the American newspaper, the “Japan Advertizer” in Tokyo.  I came back to the United States just before World War II when the Japanese confiscated our newspaper.  I spent about 15 years in Japan, coming back to the United States occasionally.  My grandfather, the publisher and owner or the newspaper, was liberal enough to grant my father and family home leave.  Home leave in those days meant six months of my father being away from his job in Tokyo. We also would visit Sweden, which was my mother's native land.  I returned to Washington and attended high school at Sidwell Friends.  I entered the Army upon graduation and was assigned to Japanese language training at the Military Intelligence Service Language School at the University of Michigan in Ann Arbor.</p>
-<p>
-<hi rend="italics">Q: Had you already known some Japanese?</hi>
-</p>
-<p>FLEISHER:  Yes.  I grew up speaking Japanese, but I didn't know the characters and I was not familiar with military terminology.  So, for me, it was relatively easy.  For some of my poor colleagues who had to learn both the language and the characters, they had to be pretty smart.  I didn't have to be that smart.</p>
-<p>
-<hi rend="italics">Q: Alright.  Where did you serve in the Army?</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>FLEISHER:  First I was in training in Ann Arbor and in Alabama at Fort McClellan learning and practicing jungle warfare.  The atomic bomb was dropped just as we were preparing for the landing on Kyushu.  A few days after the atomic bomb was dropped the Japanese accepted the Potsdam Declaration and sued for peace.  The landing was scrapped, and I went to Japan to serve in the Occupation for almost two years.</p>
-<p>
-<hi rend="italics">Q: In Tokyo?</hi>
-</p>
-<p>FLEISHER:  Yes.  It was first with what was called the Allied Translator and Interpreter Section, (ATIS), a part of General Headquarters (GHQ) of the Supreme Commander Allied Powers (SCAP).  ATIS consisted of a pool of Japanese linguists from the Allied armed services.  We were assigned to positions requiring a knowledge of the Japanese language. To begin with I did a brief tour with the Graves Registration people locating American fliers who had died or been killed while in captivity.  My job was to go to the local police and say, “Where are they” and find them.  I then served briefly as intelligence officer for the Fifth Royal Gurkha Rifles, stationed in Okayama, the headquarters of the British Commonwealth Occupation Forces (BCOF). The job consisted of being liaison officer for the regiment in its relations with the local Japanese civil authorities and the community.</p>
-<p>I was subsequently assigned to the “Class A” War Crimes trials at the Military Tribunal of the Far East (IMTFE) in Tokyo where I served for the remainder of my tour in Japan.  First I was used as an interpreter for the International Prosecution Section (IPS).  I later did investigative work for the prosecution and did my own interrogations at Sugamo Prison.  I had occasion to meet and speak with many of the principal defendants, including General Hideki Tojo, Grand Admiral of the Imperial Combined Fleets Osami Nagano, Finance Minister Kishi, who after the Occupation became prime minister, and others.</p>
-<p>
-<hi rend="italics">Q: So you were living history right there.</hi>
-</p>
-<p>FLEISHER:  Yes.  That was the high point of my career.  I was a first lieutenant on General MacArthur's staff. At the time I felt nothing in my life could surpass that experience.  Everything after that could only go downhill.</p>
-<p>
-<hi rend="italics">Q: What followed then?  Did you leave the Army?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>FLEISHER:  Yes, as soon as I was able.  Language officers were in short supply and great demand so we had to serve longer than other soldiers who were demobilized on a point system depending upon longevity of service.  Our release was different.  I don't remember exactly what the requirements were, but as soon as I could I took my separation from the Army. At that time, my parents were living in Sweden.  I was accepted at the University of Stockholm.  So, I went there for a year.</p>
-<p>
-<hi rend="italics">Q: So, you had both Japanese and Swedish.</hi>
-</p>
-<p>FLEISHER:  My Swedish was pretty rusty then having had little occasion to use it since the summer of 1939, the last time I was in Sweden.</p>
-<p>
-<hi rend="italics">Q:  But if you were in the university, it must have improved rapidly.</hi>
-</p>
-<p>FLEISHER:  Well, there were a number of American students there at that time, mostly GIs who were leaving the Army in Germany.  The University tailored courses to suit our needs with a heavy emphasis on Swedish language, history, social policy and culture.  Most of the Americans were of Swedish descent and wanted to spend some time learning about their country of origin.  I reacquired my language ability quickly, but never gained the proficiency of my younger siblings who were at home and had had no break during the War in their contact with the language.</p>
-<p>
-<hi rend="italics">Q: And what awakened your interest in foreign affairs?</hi>
-</p>
-<p>FLEISHER:  I was always interested in foreign affairs.  In fact, I had thought that I would go back and work on the “Advertizer.”  That was what everybody thought I was going to do.  But should I not be able to do that, with the War, my thought was to look into the Foreign Service.  I applied to take the Foreign Service Examination.</p>
-<p>
-<hi rend="italics">Q: When did you take the exam?</hi>
-</p>
-<p>FLEISHER:  I came back to the United States in '48 and went to George Washington University.  I finished my college and took the Foreign Service Exam in 1950.  That was a hard five day exam.</p>
-<p>
-<hi rend="italics">Q: That was a long exam.  You were assigned immediately to Germany?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>FLEISHEI was given an assignment to Germany where the Displaced Persons Commission needed people to investigate visa applicants.  We were given provisional appointments pending later confirmation.</p>
-<p>
-<hi rend="italics">Q: How long did that last?</hi>
-</p>
-<p>FLEISHER:  I didn't do that very long.  I did it for about a year.  I felt that being in Germany - and I was newly married then - was very much like the occupation in Japan and I didn't want this occupation type of life as a career.  My second interest was academic.  I thought I would study medieval history.  At that time, the best professor I knew was at the University of Lund in southerSweden.  So, I went to Lund asked Professor Bohlin if I could become one of his graduate students.  He accepted me.  So, I asked to be released from the Foreign Service to complete my education and was told I couldn't do that. If I wanted to pursue that course I would have to resign and take my chances should I later wish to come back into the Foreign Service.  So that is what I did and went on to the University of Lund.  I soon discovered that I could not get a doctorate in medieval history without a great deal more proficiency in Latin, and my GI Bill of Rights would not cover that much time.  So, I switched to modern history and wrote my dissertation on the early diplomatic relations between the United States and Sweden, “A Study in Diplomacy and Commerce, 1776-1828,” or from independence to free trade.</p>
-<p>
-<hi rend="italics">Q: And that lasted until 1953?</hi>
-</p>
-<p>FLEISHER:  To 1953, yes.</p>
-<p>
-<hi rend="italics">Q: And then you came back into the Foreign Service.  How did thahappen.</hi>
-</p>
-<p>FLEISHER:  Well, I sent out a lot of applications to various universities and also one to the Foreign Service, which I didn't think was going to amount to anything because I'd left.  I got an answer from the University of Minnesota that they were very interested in me, but it would be four years before that job would be available.  I had a wife and a daughter and I needed a job then.  But the State Department said that if I would go into the Refugee Relief Program, I'd get a provisional appointment and take it from there.  So, that's what I did.</p>
-<p>Q: So you got reinstated and joined the Refugee Relief Program.  You were sent to the Netherlands?</p>
-<pb facs="0005" n="Page0005"/>
-<p>FLEISHER:  No.  That has been in the Stud Book for years.  I tried to change it.  I was to have gone there.  I was assigned to the Netherlands.  Just a couple days before I was leaving, they changed it.  So, I stayed in Washington and some months later transferred to INR, which was more to my liking anyway because I got to work on the Nordic Countries.</p>
-<p>
-<hi rend="italics">Q: It enlivens your academic training, too.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: So your career in RRP was less than lengthy.  Back to thDepartment and INR.  You worked on Nordic affairs.</hi>
-</p>
-<p>FLEISHER:  Right.  I was promised that I could do political work if I would take a job doing economic work as a starter.  So, I said, “That's fine.”  I think I worked on Denmark on the economic side.  But I realized that my college economics was insufficient.  I took courses at GW at night to improve my knowledge of that field.  Sure enough, within the year, I replaced Harvey Nelson on the political side for Denmark and Iceland.  That's how my career in Nordic Affairs at the State Department started.</p>
-<p>
-<hi rend="italics">Q: did you get to travel to those countries?</hi>
-</p>
-<p>FLEISHER:  Yes.  Then it was up to the mid-career course.  This was before Class 4 was split into two and I went back down from Class 5 to Class 6, which is where I had started. After the mid-career course I was assigned to Copenhagen, first as vice consul replacing Frances Usenick and later John Goff as the junior political officer.  I also had the job as consul on the Faroe Islands.  I might mention how I got this assignment.  Recently at Foreign Service Day, I was very pleased to see that finally Tony Satterthwaite was recognized.  I was to have gone with Tony on that flight and would have been the embassy officer for Greenland.  At the last moment, two colonels came up from Germany and I was the junior officer who was bounced from the flight.  They went up to Greenland and were all killed in a helicopter accident.</p>
-<p>
-<hi rend="italics">Q: So you should have been on that flight.</hi>
-</p>
-<p>FLEISHER:  Yes.  The ambassador was Val Peterson.  He said, “ Eric, you are not destined to go to Greenland sI am assigning you to the Faroe Islands job.” That's how I became consul in the Faeroes.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q: Who was your chief in Copenhagen?</hi>
-</p>
-<p>FLEISHER:  First it was Ward Allen. Then it was Vince Wilbur..</p>
-<p>
-<hi rend="italics">Q: How many were in the Political Section?</hi>
-</p>
-<p>FLEISHER:  We were three.  Of course, we had Pol 2, which included other officers.  My section consisted of the chief, me, and the geographic attache.  Later that was changed and reduced to two, but by that time I had left.</p>
-<p>
-<hi rend="italics">Q: and you had a Labor attache, too?</hi>
-</p>
-<p>FLEISHER:  We had a Labor attache, but in Copenhagen he was in the Economic Section.  In Finland the Labor Attache was in the Political Section.</p>
-<p>
-<hi rend="italics">Q: It's interesting - when I came to Copenhagen 10 years later, hwas tied to the Political Section.</hi>
-</p>
-<p>Did you have any special problems?  FLEISHER: No, no special problems.  It was just challenging.</p>
-<p>
-<hi rend="italics">Q:  Relations with Denmark were on an even keel at that time.</hi>
-</p>
-<p>FLEISHER:  Yes.  And I had complete access to everybody except the Prime Minister.  My DCM after Tony Satterthwaite was “Pardy” Parsons.  He said, “Eric, you've been in INR.  I don't want you to sit behind books and newspapers.  I want you to get down there and meet the people and get out,” which I did.  I got to know a good many politicians and members of Parliament who remained friends for the rest of my life. Among them were Per Haekerup, who became Foreign Minister during my time in Copenhagen, Jens Otto Krag who became Prime Minister and Viggo Kampman who also later became Prime Minister. I remained on a first name basis with them long after my time in Denmark.</p>
-<p>
-<hi rend="italics">Q: Excellent.</hi>
-</p>
-<p>Let's talk a bit about your days in the Faeroes.  That must have beean interesting experience.</p>
-<pb facs="0007" n="Page0007"/>
-<p>FLEISHER:  It was a fascinating experience.  It was the only time I was chief of mission.  It was great.  I was the second American consul there.  I succeeded John Haggeman.  John was an economic officer and a very good student of the Faeroes.  He really laid the groundwork for me.  When I came in there, I was able to just pick up where he had left off.</p>
-<p>
-<hi rend="italics">Q: How long a time did you stay there?</hi>
-</p>
-<p>FLEISHER:  I would go up with the ship, “Tjaldur.”  It would go back down to Copenhagen, come back up, and on the next trip, I'd go back down to Copenhagen.  The main purpose of my job was in connection with the installations we were putting in there under NATO.  My job was to see that these fellows, Western Electric people, who were very highly paid compared to the Faeroese, didn't get in trouble with the local girls and things like that and keep good relations with the local Prime Minister, who became a very good friend of mine, and maintain an even keel.  We did have some consular problems.  There were some Faeroese receiving Social Security checks.  We did have an American, an anthropologist, who went mad and we had to medevac her out through Scotland.  This involved quite a bit of doing.  I finally got her out on a fishing boat. The captain, after some dickering and with the support of the Danish High Commissioner, agreed to take her to the Shetlands.  From there on, it wasn't my problem; it became that of my colleagues in the consulate in Edinburgh, but for them there it was a rather routine matter..</p>
-<p>
-<hi rend="italics">Q: I was going to ask you if there were any resident Americans in thFaeroes.</hi>
-</p>
-<p>FLEISHER:  There were a few, just a handful.  I met several of them.  There were others that I didn't meet because they were spread out over 17 islands, many of them inaccessible during the time that I was there for my consular visits. However, I put a notice in several of the Faeroese newspapers before I went up there, giving dates and times that I would be available for consular services if they wished to see me.</p>
-<p>
-<hi rend="italics">Q: The climate is certainly not conducive to vacations.</hi>
-</p>
-<p>FLEISHER:  Right.  You have to love birds, fish, and whales.  But I did have the opportunity to take our Ambassador out there.  We went up on the “Tjaldur” and visited several of the islands.  An American destroyer paid a visit at that time, and we had a big to-do. We invited the public to visit the ship, which was most appreciated by the people who were mostly fishermen and sailors.</p>
-<p>Q: How were we able to communicate from the Faeroes back to Copenhagen?</p>
-<pb facs="0008" n="Page0008"/>
-<p>FLEISHER:  It was difficult.  I could communicate by telephone.  If necessary, I could use the DanisHigh Commissioner's facilities, which he was kind enough to put at my disposal.</p>
-<p>
-<hi rend="italics">Q: How were you received by the locals?  Were they friendly to you?</hi>
-</p>
-<p>FLEISHER:  Very.</p>
-<p>
-<hi rend="italics">Q: And the Danish officials also?</hi>
-</p>
-<p>FLEISHER:  Yes.  But there again, I had to maintain a balance.  The Faeroe Islands are not part of Denmark. They are constitutionally united with the Crown of Denmark but are semi-autonomous. They have their own legislature and administration. The chief Danish official is not a governor as in any Danish province but a high commissioner. All local laws are passed by the Faroese Parliament, the Lagting. But Denmark is responsible for foreign relations and defense. I was thus required to be accredited by the Danish Government and the Faeroese administration. I presented my consular credentials to the Faeroese prime minister.</p>
-<p>
-<hi rend="italics">Q: Were other countries represented there or not?</hi>
-</p>
-<p>FLEISHER:  Yes.  The consular corps was very interesting.  ThWest Germans were represented.  The British had the largest and most important mission.  The Russian were there, too.  But most were honorary consuls, businesspeople.</p>
-<p>Q:  That is a unique experience, being consul to the Faeroes.  Back in Denmark, Jens Otto Krag became prime minister.  Did that bring many changes in our relationship?</p>
-<p>FLEISHER:  Not really.  Krag followed pretty much the policy laid out by H. C. Hansson, the preceding prime minister.  Actually, Krag was very good for me.  I knew him from earlier student days when he had been lecturer in political science and economics at the University of Stockholm. In Copenhagen I renewed the contact before he became Prime Minister.  He and his wife Helle Virkner, a popular Danish actress on the stage and in films, were good friends and they were in our house and we in theirs on social occasions.  I maintained a friendly and academic relationship with Jens Otto until he died.  He was an interesting person.</p>
-<p>
-<hi rend="italics">Q: He had just stepped down when I arrived shortly thereafter.</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>FLEISHER:  He was not of the old social democratic labor school of H.C. Hanson and Hans Hedtoft. He was an academic and represented the growing element of the new Social Democrats.</p>
-<p>
-<hi rend="italics">Q: It was Per Haekerup who was really running things when I was there.</hi>
-</p>
-<p>FLEISHER: Per and his wife Grethe were among my best friends in Denmark. He was my mentor in learning about Social Democracy and the labor movement in Danish politics. This was, of course, before he became Foreign Minister and later Prime Minister. He gave me one of the greatest professional compliments I have ever received. When my wife and I had dinner alone with the Haekerups just before I left Denmark he said, “Eric, you will never become a Social Democrat, but you understand us.”</p>
-<p>
-<hi rend="italics">Q: In 1963, you were selected for Finnish language training.  Wathis something you had asked for?</hi>
-</p>
-<p>FLEISHER:  No, I had asked to go to Japan.  I spoke Japanese and I always figured that my career was going to be in Japan and that the Nordic countries was just a temporary diversion.  Dick Finn who inspected the post towards the end of my tour in Copenhagen, and who I had known from when he was a naval intelligence Japanese language officer in Tokyo at the end of the War, recommended that I be sent to Japan for my next tour.  That was in the works when I got a letter from Personnel saying that if I would study Finnish for 10 months, I could replace Harvey Nelson, who was chief of the Political Section in Helsinki.  At that time, as a new FSO-4 in Japan, I would be way down the line, whereas in Finland I would have my own section.  So, there was no question.  I opted for Finland.</p>
-<p>
-<hi rend="italics">Q:  Did we have many Finnish language officers?</hi>
-</p>
-<p>FLEISHER:  Not many, no, very few.  We were just a handful and we alknew each other.</p>
-<p>
-<hi rend="italics">Q: Was the training worthwhile?</hi>
-</p>
-<p>FLEISHER:  It was essential.</p>
-<p>
-<hi rend="italics">Q: It's a difficult language.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>FLEISHER:  A very difficult language.  But for a political officer it was absolutely necessary.  If you were going to meet the labor people, the Agrarians (Center Party) or any of the left wing politicians, not to mention the Communists, Finnish was the only language they spoke. Our friends the Conservatives and business people spoke English, but, although influential, they were not among those where the political power lay.</p>
-<p>
-<hi rend="italics">Q: Well, they speak Swedish, some of them, too.</hi>
-</p>
-<p>FLEISHER:  Oh, yes.  That's fine.  I spoke Swedish fluently.  But treach the labor people, people who really were the core...</p>
-<p>
-<hi rend="italics">Q: They were running the country, I guess.</hi>
-</p>
-<p>FLEISHER:  Well, they were partly running the country.  They had considerable influence although the Center Party with President Kekkonnen was in control of domestic affairs and unquestionably so of foreign policy.  But we knew that the Social Democrats were the wave of the future.  The labor movement and the communists...  The labor movement was split into communist and non-communist (social democratic) factions.  If you were going to communicate with these people, which was vital, you had to know Finnish.  I knew it enough to talk business with them.  I didn't use Finnish when I went to the foreign office. There I used English or Swedish.  But when I was talking to labor leaders, it was Finnish.  No matter how bad it was, I could get my ideas across and understand what they said.</p>
-<p>
-<hi rend="italics">Q: Could you read the Finnish language newspapers?</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: That's important, too.</hi>
-</p>
-<p>How many were in your section in Helsinki?</p>
-<p>FLEISHER: That was sort of the same arrangement as in the politicasection in Copenhagen.  My deputy was the Labor attache.</p>
-<p>
-<hi rend="italics">Q: And presumably some very good local employees, too.</hi>
-</p>
-<p>FLEISHER:  We had some good local employees.  In fact, two of them hired.</p>
-<pb facs="0011" n="Page0011"/>
-<p>Q: If one was the Labor attache, you did everything else, I presume.</p>
-<p>FLEISHER:  Well, Paul Canney the labor attach� did everything, too. I did labor also when Paul was away, on home leave or was sick or something...</p>
-<p>
-<hi rend="italics">Q: Paul Canney was an FSO, wasn't he?</hi>
-</p>
-<p>FLEISHER:  He was.  In fact, we were in Finnish language trainintogether.</p>
-<p>
-<hi rend="italics">Q: Did you feel as a section chief that you were micromanaged by thambassador or the DCM or did they leave you alone?</hi>
-</p>
-<p>FLEISHER:  That's interesting.  Tyler Thompson, the ambassador gave me a pretty free reign.  When I came there, I had somewhat of a different point of view regarding Finnish politics from that of my DCM, who held the views of the preceding ambassador.  This was George Ingram, an FSO-2 or 1, and I was an FSO-4.  But Tyler let us hash it out.  I don't think it did my career too much good for the first few years.  But I think George and I came to an understanding and he respected my views, as I did his, and we became very good friends.  In fact, he asked me to come and join him in EUR/SCAN after he left Finland and became country director. I become his deputy and later with his support succeeded him when he retired from the Foreign Service.  But during the first part of my time in Finland, yes, I did feel that George was looking over my shoulder and changing a few things, some maybe for the better, I think, but...</p>
-<p>
-<hi rend="italics">Q: I knew George.  We were colleagues at the National War College.</hi>
-</p>
-<p>I know what you mean.  Did you get to travel around that rather largcountry?</p>
-<p>FLEISHER: Yes, I did.  Tyler was very good about that.  He believed that all of us in the Embassy should get out and meet the people, so I did.  I went to party conventions.  I took any excuse to use the embassy airplane and go up north.  I spoke to the communists and was a guest of the communists.  We talked politics.  I was all over Finland.  I accompanied Tyler on many of the trips.</p>
-<p>
-<hi rend="italics">Q: Did you have to write speeches for him?</hi>
-</p>
-<p>FLEISHER:  No.  Well, I put in some on the political part, but usually the USIA people furnished it.  And Tyler liked to do his own thing.</p>
-<pb facs="0012" n="Page0012"/>
-<p>
-<hi rend="italics">Q:  How influential at that time were the communists in Finland?</hi>
-</p>
-<p>FLEISHER:  They were very influential.  They had pretty close to 30% of the electorate - that is, the communists and their left-wing socialist front organization the SKDL.  The Finnish Peoples Democratic League (SKDL) pretty much followed the Communist Party (FKP) line. During my time, however, a split developed within the communist movement which we followed with great interest. The differences between the communists loyal to Moscow and the Finnish communists, who considered themselves first and foremost nationalist Finns could no longer be contained.  The Finnish communists were really Finnish.  They had fought on the Finnish side against the Soviets in both the Winter War, 1939-40, and the Continuation War, 1941-44.  They were not pro-American, but some of them weren't unfriendly.  I cultivated them.  In fact, their chairman Ele Alenius became a friend.</p>
-<p>
-<hi rend="italics">Q: I think we were concerned, were we not, that President Kekkonnewas getting too friendly with Moscow?</hi>
-</p>
-<p>FLEISHER:  Yes, we were.  In fact, this was a very difficult problem that we had to follow.  The western press said that Kekkonnen was giving Finland away to the Russians.  But that was really not quite so.  Kekkonnen had to follow a very difficult line.  He had to have the friendship and the confidence of the Russians to remain in power in Finland.  On the other hand, he couldn't give the country away and he didn't want to give the country away, I believe.  We think, and I think in retrospect, that he did gave more than was necessary. But to his credit he ceded no Finnish territory and Finland did continue to maintain its democratic institutions and way of life.  He did make concessions such as the purchase of Soviet nuclear reactors instead of Westinghouse reactors, which everyone new were better, and the press was limited in how far it could go in criticizing the Russians.</p>
-<p>
-<hi rend="italics">Q: And the Soviets kept a close eye on Finland.</hi>
-</p>
-<p>FLEISHER:  Indeed.</p>
-<p>
-<hi rend="italics">Q: Why wouldn't Finland join the non-aligned countries?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>FLEISHER:  I think they thought about it, but the fact was that they weren't non-aligned.  The Finns in their hearts were very much aligned.  They showed it to us, American and western diplomats, very openly.  I remember one time going down to the sauna with a Finnish Social Democratic Party leader.  We were talking about Vietnam.  He said, “Eric, why don't you go in and wring that chicken's neck quickly?”</p>
-<p>
-<hi rend="italics">Q: That wasn't what we were hearing all the time in Scandinavia.</hi>
-</p>
-<p>What was the effect in Finland of the ouster of Khrushchev?</p>
-<p>FLEISHER: That's a very interesting question.  I was the first to report the overthrow of Khrushchev.  A friend of mine the publisher of “Helsingin Sanomat,” the largest newspaper in Finland, called me one evening at home.  He was really a friend of America.  His father was also a long time friend of America.  He called me and said, “Eric, I've got a present for you.  This is absolutely real and I promise you on my life.  Khrushchev has just been deposed. Call your people and tell them that.”  I called Tyler and he said, “Well, this is yours.  You call the Department.”  My mistake was that I called the desk officer instead of calling the AS, or at least a DAS.  But I didn't realize that at the time.  I was going through what I knew to be the proper channels. I don't know how far it ever went - if it went up to the AS or to the Secretary.</p>
-<p>
-<hi rend="italics">Q: I didn't realize that you broke the news to Washington.</hi>
-</p>
-<p>FLEISHER:  I never even got a letter of thanks.  I thought I'd be promoted.  Tyler said, “You'll be promoted.”  Anyway, yes, this had a big effect in Finland.  It meant that there was fluidity that hadn't existed before.  Everybody knew it.  But how this was going to play out was the question.  Kekkonnen knew it, too and he realized that he had to reaffirm his power.</p>
-<p>
-<hi rend="italics">Q: Right.  He had been playing with Khrushchev.</hi>
-</p>
-<p>FLEISHER:  Yes.  So things were pretty open and flexible.  You weren't sure what was going to happen, what the political constellation was going to look like, and how it was going effect the Social Democrats.</p>
-<p>
-<hi rend="italics">Q: It must have affected the Finnish communists.</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>FLEISHER:  That it did.  It certainly weakened the Finnish Communist Party, but the so called Stalinists, the hard-line communists were already in decline.  It encouraged defections from the FKP to the SKDL and loosened the hold that the FKP had over the SKDL. As an example it became possible for the Chairman of the SKDL and his wife to come to my home for a dinner party. This would have been unthinkable earlier.</p>
-<p>
-<hi rend="italics">Q: Did you participate when Averil Harriman visited?  FLEISHER:  Yes, I did.  The whole embassy did.</hi>
-</p>
-<p>
-<hi rend="italics">Q: Did he do any good?</hi>
-</p>
-<p>FLEISHER:  Yes.  Well, he spoke very well.  He was a goorepresentative of America.</p>
-<p>
-<hi rend="italics">Q: What did he talk about?  It wasn't Vietnam at that time.</hi>
-</p>
-<p>FLEISHER:  No.  He really talked more about American values ansupport for democracy.  It was more general.</p>
-<p>
-<hi rend="italics">Q: We weren't deeply into Vietnam.  They were just getting into it.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: The election in '66 then brought the Social Democrats into power.What was the Soviet reaction to that?</hi>
-</p>
-<p>FLEISHER:  It was negative. Very negative.  The Soviets were not afraid of the conservatives or the liberals, but they were afraid of the Social Democrats because the Social Democrats worked the same side of the street, the labor movement.  They made it plain by calling several Finnish politicians to Moscow, including Vaino Leskinen, a nationalist Social Democratic leader, who was considered not to be a friend of the USSR, and laying down the law that they didn't want a Social Democratic administration or at least not one that included persons not acceptable to the Soviet Union.  So, the Social Democrats understood that Leskinen and others could not be in a Social Democratic government.  Leskinen went to Moscow to try and make amends with the Soviets, but his visit to Canossa and his “me a culpa” had no effect on the Russians. It was clear to the Social Democrats that if they formed a government it could not include any of their members who had previously opposed the Soviet Union.</p>
-<pb facs="0015" n="Page0015"/>
-<p>Q: Our embassy role presumably was to keep rather quiet and low key during this period and let the Social Democrats handle that with the Soviets?</p>
-<p>FLEISHER:  Yes.  We had no way of projecting power or even very mucleverage. Our influence was limited.</p>
-<p>
-<hi rend="italics">Q: Did the Social Democrats make an alliance with the communists then?</hi>
-</p>
-<p>FLEISHER:  They took the communists into government, but it wasn't an alliance.  Here I think we have to clarify “alliance.”  Finland is often misunderstood to have been an ally of Germany.  Finland was not an ally of Germany.  Finland was a co-belligerent.  They got into the war and they came out of the war on their own. They never became a Nazi vassal state.  They did not turn their Jewish population over to the Germans.  When the Germans requested that they identifJews in Finland the Finns replied, “We have no Jews.  We only have Finns here.”  So, yes the Social Democrats appointed several communists to minor portfolios, but they did not have access to cabinet deliberations on foreign policy or defense.</p>
-<p>
-<hi rend="italics">Q: Secretary Rusk made a visit.  I presume you were involved in that?</hi>
-</p>
-<p>FLEISHER:  Very much so, yes.</p>
-<p>
-<hi rend="italics">Q: Was that successful?</hi>
-</p>
-<p>FLEISHER:  Very successful.  Rusk and Kekkonnen hit it off very well.  I might tell a story about that.  We had a lot of paper traffic before the visit.  One of the messages was from Rusk to the Ambassador.  It said, “I will do everything you suggested, but I will not go into a sauna with Kekkonnen.”  This was something that we knew would be a sticking point in the visit. So, the visit takes place and we go out to Kekkonnen's residence, which was a little ways in the country.  We get there and after a little exchange of pleasantrieKekkonnen took Rusk by the shoulder and said, “Now we go down to the sauna.”  Rusk looked at Tyler and said, “Tyler, you're fired.”</p>
-<p>
-<hi rend="italics">Q: That's very nice.  Then came the 50th anniversary of Finnisindependence, which I gather was a large celebration.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<pb facs="0016" n="Page0016"/>
-<hi rend="italics">Q: The Soviets sent their president, Mr. Podgorny.  Who did we sento that?</hi>
-</p>
-<p>FLEISHER:  I can't remember.  If we did, I don't think it was anybodparticularly...  I don't think we sent anybody.</p>
-<p>
-<hi rend="italics">Q: Maybe it was just the ambassador who represented us.</hi>
-</p>
-<p>FLEISHER:  Yes.  I'm sure it was just the ambassador.  We alremember these important visits.</p>
-<p>
-<hi rend="italics">Q: Yes, of course.</hi>
-</p>
-<p>FLEISHER:  We went around like chickens with our heads cut off.</p>
-<p>
-<hi rend="italics">Q: Were we pleased when the premiership changed in '68?  Mr. Koivistcame in.</hi>
-</p>
-<p>FLEISHER:  Yes, Koivisto became prime minister.  We got along very well with Koivisto, who was primarily an economist, and an intellectual.  We got along well with him.</p>
-<p>
-<hi rend="italics">Q: So there were no policy implications that would harm us?</hi>
-</p>
-<p>FLEISHER:  No, not that I can recall.  It was really pretty much continuation of the same.</p>
-<p>
-<hi rend="italics">Q: What was the Finnish reaction to the Soviet invasion oCzechoslovakia?</hi>
-</p>
-<p>FLEISHER:  Very, very strongly against.  I was up in Lapland on vacation, in Sweden, at the time. I rushed back to the Embassy and when I came in the door the marine guard told me that the ambassador wanted to see me right away.  So, the first thing we thought was, “What's going to be the reaction here?  What's going to happen?”  We thought pretty much that there were going to be pro-Czech demonstrations, but how peaceful would they be?  Well, they did demonstrate and the demonstrations were peaceful, but there was a very large demonstration in front of the Soviet embassy and in other parts of Helsinki.  Yes, the Soviets realized that the people were against them.</p>
-<p>
-<hi rend="italics">Q: The Soviet ambassador must have taken it very low in profile athat time.</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>FLEISHER:  They kept a low profile and they did so for a while. And so did wwe didn't have to do anything. The anti-Soviet atmosphere was clearly in the air.</p>
-<p>Q: I know all over Western Europe that was a shock and it led to a lot of things the Soviets didn't want.  What were Finland's relations with Sweden during this period?</p>
-<p>FLEISHER:  Finland's relations with Sweden were good.  It's a very complicated relationship because it's both a family relationship and a Swedish and Finnish ethnic relationship.  Finland was part of Sweden until 1808 when it was ceded to Russia and became a grand duchy within the Czarist Empire.  But the ties with Sweden were very strong.  The Swedish families who ran most of Finland maintained very close contact with Sweden.  The Swedish language is spoken in much of Finland.  Even when I was there, it was one of the official languages, as French is in Canada.  Yes, and during World War II, many Finns, particularly children, were evacuated to Sweden. A good number of Swedes volunteered to fight in the Finnish army, especially during the Winter War.</p>
-<p>
-<hi rend="italics">Q: They did against Russia.</hi>
-</p>
-<p>FLEISHER:  Yes.  So, it was a very close personal relationship.  Still, there was a vast difference between the Swedes who comprised the upper class and the Finnish speaking lower classes.  So, there was a class antagonism there.  Of course, the official relations were very good.  They coordinated their foreign policy with the other Nordics.  For example, we would make representation for our positions at the foreign office before the opening of the UN General Assembly. Every year we tried to sell our view on Communist Chinese recognition and member ship in the UN.  Our Finnish interlocutors would say, “We'll take you views under consideration and we will discuss them at the Nordic ministers' meeting.” When we would go back later after the Nordic ministers had met they'd say, “Well, the Nordic ministers decided thus and so and there isn't very much we can do about things now.  It wasn't our decision.”</p>
-<p>Q: They had you there.  There was not much you could say about that.  And how about with the other Scandinavians, with the Danes and the Norwegians?</p>
-<p>FLEISHER:  With the Norwegians the relationship is personally a very good one because they are both stepchildren of Sweden, so to speak.  With the Danes, it was more distant but very friendly, yes.</p>
-<p>
-<hi rend="italics">Q: So no real problems.  FLEISHER:  No real problems.</hi>
-</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q: After those interesting years in Helsinki, you came back to thDepartment.  You were on the Scandinavian desk in EUR at the time.</hi>
-</p>
-<p>FLEISHER:  That's right.  Q: What were the problems you were facing there?</p>
-<p>FLEISHER:  Well, Vietnam was the biggest problem.</p>
-<p>
-<hi rend="italics">Q: Because all of the Scandinavian countries opposed our policy,didn't they?</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: And some more belligerently than others.  Did you deal with thayourself?</hi>
-</p>
-<p>FLEISHER:  Yes.  Well, I would usually sit in when Martin Hillenbrand, the Assistant Secretary, when he met with the Nordic ambassadors.  I was usually the notetaker at these meetings. I also usually briefed Marti before he met with senior Nordic leaders.</p>
-<p>The main subject we dealt with the Scandinavians at that time was Vietnam.  Iceland was a little different because we had the base situation and the Icelanders weren't all that interested in Vietnam.  But with the other three and even with Finland to a lesser degree, the main topic was Vietnam.  Of course, at one time, we weren't even seeing any senior Swedish diplomats.  I had a very interesting meeting at that time.  Gunnar Heckscher, who had been my professor at the University of Stockholm - I had worked for him and for his father, Eli Heckscher - came through Washington his way back to Sweden from India, where he had been Swedish Ambassador. He had previously been ambassador to Japan.  We had an informal meeting with U. Alexis Johnson, who I knew from Tokyo.  We lived very close to the Johnsons and I remember when Stephen was born.  Marshall Greene, who had also served in Japan and in Sweden, and I...  And we sat and talked in U. Alexis Johnson's (Deputy Secretary then) office about what we could do about the Swedish situation and Vietnam.  That was a very interesting off the record discussion and one in which I had the satisfaction of having known all the participants personally for many years.</p>
-<p>
-<hi rend="italics">Q: Maybe nothing came out of it at the time, but it probably laid thgroundwork for later smoothing the relations back to normal.</hi>
-</p>
-<p>FLEISHER:  Yes.  And it surely did.  Because we all wanted it.  The irritant was Mr. Palme, who was getting out in front leading demonstrations against us.  It irritated us to no end.</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q: Then, of course, Mr. Palme came over to the States in 1970.</hi>
-</p>
-<p>FLEISHER:  Well, he had been here many times.  He was a student here.  I knew Olaf Palme as a student at the University of Stockholm.  We also kept up a friendly relationship and when I was stationed in Stockholm, and he was prime minister he called me “Eric” and we got along well.  He was, he said, pro-American and I think he did admire many things American, but he made his career as a left-wing socialist. Not coming from the working class, he felt that he had to prove himself with the Social Democratic rank and file. Attacking America was one way of doing this.</p>
-<p>
-<hi rend="italics">Q: He was an intellectual Social Democrat, not a dirty hand workintype.</hi>
-</p>
-<p>FLEISHER:  Right, exactly.</p>
-<p>Q: At this period, the Nordic countries were considering how to get together and they talked about an organization called NORDEC.  Others were more interested in joining Europe, the European Union.  Can you tell us a little bit about what our view was on that or whether we had a view?</p>
-<p>FLEISHER:  I think our view was, fine.  If they join NORDEC as one of the members not tied to NATO well and good. They probably would be drawn in closer to NATO in due course.</p>
-<p>
-<hi rend="italics">Q: By joining the European Union?</hi>
-</p>
-<p>FLEISHER:  No, I thought we meant NORDEC.</p>
-<p>
-<hi rend="italics">Q: Well, yes, I do mean NORDEC, too.</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>FLEISHER:  Yes.  Well, NORDEC was an economic concept to begin with.  The hope was that it would turn into something political.  Our view was generally favorable.  The question of Nordic union goes back to before the turn of the last century.  Initially it was greeted with a great deal of idealistic enthusiasm.  As time went on, however, the basic feeling of Nordic unity came into conflict with that of Nordic individuality.  This was just another one of those flashes in the pan.  In '47 when there was talk really of a Scandinavian union, when the Kalmar talks were held, there was a chance that there could have been a Nordic defense alliance. But with Finland under the shadow of the Soviet Union, Sweden eventually decided that it could not abandon its' neutrality policy that had served it so well since 1815 and turned it down. Subsequently Denmark and Norway went into NATO.  Since then there really was no question but that Denmark and Norway would be aligned in NATO and Sweden and Finland would hold to their neutrality policies. In those days we spoke of the “balance of Scandinavia.”  There was much arguing back and forth as to whether this was a good thing, but it was generally accepted that as long as the Cold War lasted there could be no changes in the alignment. The “system” would adjust to changes in whatever political situation that might arise.</p>
-<p>
-<hi rend="italics">Q: Denmark, Norway, and Iceland went to NATO, didn't they?</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: Sweden and Finland didn't.</hi>
-</p>
-<p>FLEISHER:  Yes.  Well, Finland we knew wouldn't anyway because of the-</p>
-<p>
-<hi rend="italics">Q: The border with the Russians and so forth.</hi>
-</p>
-<p>FLEISHER:  And after 1949 the mutual assistance treaty with thRussians.</p>
-<p>Q: I see.  Tell us something about our reaction to the treatment that the swedes gave our newly appointed ambassador, Mr. Holland when he arrived.</p>
-<p>FLEISHER:  Our reaction was, of course, very negative.  I think the reaction of most Swedes was negative, too.  But it was a vociferous group of mostly young people.  You have to remember, this was the time of Rudi the Red in France and the students in all of Europe were in ferment...  Che Guevara was a great hero.  So, we have to take it in that context.</p>
-<p>
-<hi rend="italics">Q: How long did Ambassador Holland stay?</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>FLEISHER:  He was there about three years.</p>
-<p>
-<hi rend="italics">Q: He was able to tough it out and stay.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: Was he the first black we appointed as ambassador to Sweden?</hi>
-</p>
-<p>FLEISHER:  Yes.  We had, of course, had a black ambassador to Norway,Mr. Wharton...</p>
-<p>
-<hi rend="italics">Q:  But their treatment of him wasn't related to his ethnibackground.  It was related to their hatred of our policy in Vietnam.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  Then eventually in '71, Norway did recognize North Vietnam.  Dithe others go along with that or was it only Norway?</hi>
-</p>
-<p>FLEISHER:  I don't remember.  I think Sweden was first to recognize North Vietnam.  They even sent a fellow, Piere Schourri, there as ambassador.</p>
-<p>
-<hi rend="italics">Q: He was sent as ambassador to Hanoi then.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: But Norway being a NATO country doing it probably irritated-</hi>
-</p>
-<p>FLEISHER:  Norway was the first NATO country, yes.</p>
-<p>
-<hi rend="italics">Q: Did we feel that Norway should join the European EconomiCommunity?</hi>
-</p>
-<p>FLEISHER: Don't think we ever made it an issue or formally advocated it.  I think we probably favored it, as did many Norwegians.  We felt it would serve stability in the Nordic area, and thereby strengthen the NATO's northern flank.  We did favor it as a whole, but we didn't push it.</p>
-<p>
-<pb facs="0022" n="Page0022"/>
-<hi rend="italics">Q: And then, of course, they voted it down anyhow.</hi>
-</p>
-<p>FLEISHER:  They voted it down for the second time.  They did it twicwith a 20 year intervening period.</p>
-<p>Q: We then came to the period where our relations with Sweden deteriorated even further in '72 when we refused to send ambassadors there.  Did we refuse to receive an ambassador here from Sweden?</p>
-<p>FLEISHER:  I think Debesch remained here for a while and then he went home on consultation and didn't come back.  I was then on the desk and I used to deal with Leif Leifland, who was the Swedish charge.  A rather interesting anecdote.  One day, I received call from the NSC.  Palme had done something that made them mad over there.  He said, “Who is our ambassador in Sweden?”  I said, “Oh, Mr. Holland.”  He said, “Well, recall him.”  I said, “ As a matter of fact he's back here on consultation.”  “Well, don't send him back.  Who is the DCM?”  I said, “ John Guthrie.”  “Call him back.”  He said. “He happens to be here on consultation,” I replied. In fact, he was in my office at that moment.  Art Olson, chief of the embassy political section, became charge and remained so for quite a while.</p>
-<p>Q: Yes, he was.  I remember that.  He was charge there and I was charge in Copenhagen at the same time.  Just after the time I arrived in Copenhagen, the Danes did vote to join the Common Market.  The Norwegians didn't.  It was then in '74 that you went to Stockholm?</p>
-<p>FLEISHER: Yes.  Q: And this time as press attache.</p>
-<p>FLEISHER:  Well, I was the victim of the GLOP.  It had been sort of unofficially agreed that I would get one of the DCM jobs in a Nordic country.  But then came Mr. Kissinger, who put into effect this GLOP (Global Outlook Policy) which meant I couldn't go to any of the Nordic countries, not even to Northern Europe. It was then that I came up for reassignment. I was offered going to ISA in the Defense Department or going to USIA.  I went to USIA who were not affected by the GLOP and they said, “Well, we can send you to Sweden.”  So, I went to Stockholm.</p>
-<p>
-<hi rend="italics">Q: No GLOP for USIA.</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>FLEISHER:  No.  So, I went there as press attache.  It was not one of my better assignments because I was a round peg in a square hole.  I was not really a press man, despite my newspaper ancestry.  My father had had that job about 30 years earlier.  A lot of people reminded me of that.  They didn't say so directly, but I felt that they thought “You're not as competent as your old man was.”  Anyway, it was not one of my better posts.  But I had family there.  My brother and sister lived there.  My sister was at the time probably the oldest locally employed American in any of our embassies abroad.  She was there for more than 50 years.  She's just recently retired in the last couple of years.  She ran the residence and handled protocol.  So, it was nice to be with my family.  It was the last couple years of my father's life.  Personally, it was okay, but professionally...</p>
-<p>
-<hi rend="italics">Q: Did we have an ambassador by the time you arrived?</hi>
-</p>
-<p>FLEISHER:  No, we didn't, but we got one.  That was Strausz-Hupe.</p>
-<p>
-<hi rend="italics">Q: Was there still a lingering hostility over Vietnam and Nixon wheyou got there?</hi>
-</p>
-<p>FLEISHER:  Well, not really.</p>
-<p>
-<hi rend="italics">Q: It had disappeared pretty much.</hi>
-</p>
-<p>FLEISHER:  Because it was something that had been fostered by the left-wing, and when the left-wing lost interest, the enthusiasm sort of dissipated.  Not that they favored American policy.  Just like other European countries, the Swedes had two views on the United States, one being admiration and the other, envy.  That remains so today.</p>
-<p>
-<hi rend="italics">Q: Yes.  What were the problems you had to deal with as press attache?</hi>
-</p>
-<p>FLEISHER:  Well, mainly Vietnam.  It was still going on and I woulmake speeches supporting our policy.</p>
-<p>
-<hi rend="italics">Q: Did you travel around the country making speeches?</hi>
-</p>
-<p>FLEISHER:  Yes, I did.  I used every opportunity I could.  I knew I was speaking to a stone wall with the exception of the Conservatives at that time.</p>
-<p>
-<pb facs="0024" n="Page0024"/>
-<hi rend="italics">Q: Was there much embarrassment at our diplomatic boycott there?</hi>
-</p>
-<p>FLEISHER:  If there was, it was in a very small circle.  No, I don't think the average Swede knew about the boycott or really cared.  Their contact with America was quite different - television, the movies, music, American technology and so forth.  Whether they had an ambassador there in the U.S. or we had one here in Sweden didn't affect the average person.</p>
-<p>
-<hi rend="italics">Q: There were strong ties between the two countries.  There alwayhave been.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: What was the affect of the arrival of Ambassador Strausz-Hupe?</hi>
-</p>
-<p>FLEISHER:  Well, it was greeted very favorably.  Of course, there was much talk that now Sweden was being accepted by the Americans.  So, yes, it did have a beneficial effect.  It was a good thing for the relations.  And Vietnam was over by then anyway.</p>
-<p>
-<hi rend="italics">Q: Did you have to arrange press conferences for him?</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: And did you write any speeches for him?</hi>
-</p>
-<p>FLEISHER:  I don't think so.  When he came, my time was pretty short.  I was leaving.  And I really didn't want to extend in that job.  I thought had had enough and would be glad to get back to the Department and do my own thing again.</p>
-<p>
-<hi rend="italics">Q: Then you came back to the Department and went to Personnel.</hi>
-</p>
-<p>FLEISHER:  Yes.</p>
-<p>
-<hi rend="italics">Q: What were you doing there?</hi>
-</p>
-<pb facs="0025" n="Page0025"/>
-<p>FLEISHER:  Well, we were doing a whole revision of the cone system. My job was to standardize the political officer position in the Department at the posts throughout the world.  We did a report, which never went anywhere.  But it was interesting doing it.  And I am sorry that I never served in Personnel before because I learned a lot.  It really was more a learning experience than what I contributed there.  I don't think what I did amounted to very much.</p>
-<p>
-<hi rend="italics">Q: Well, I had four years there and I know what you mean.  I thineverybody should have a tour there.</hi>
-</p>
-<p>FLEISHER:  Absolutely.  Everybody should have a tour.  Everybody should have a tour in consular work and in administration, as well as serving in his or her area of specialization..</p>
-<p>
-<hi rend="italics">Q: You were not long in Personnel I take it.</hi>
-</p>
-<p>FLEISHER:  No.  I went to INR.</p>
-<p>
-<hi rend="italics">Q: You went to INR then?</hi>
-</p>
-<p>FLEISHER:  Yes.  That was my last assignment.</p>
-<p>
-<hi rend="italics">Q: Well, when did you go to work for Pat Derian?</hi>
-</p>
-<p>FLEISHER:  That was when I was at INR.  I was her special assistant for intelligence.  I had a small office which included a number of cats and dogs that the Department didn't know where to put.  It was called Global Issues.  We had north-south issues, human rights, terrorism and counterterrorism.</p>
-<p>
-<hi rend="italics">Q: In those days, we didn't know where to put them but now they'rbig offices in themselves.</hi>
-</p>
-<p>FLEISHER:  So that's what I did.  I was special assistant fointelligence to Pat Derian.</p>
-<p>
-<hi rend="italics">Q: Did you sit near her or over in INR?</hi>
-</p>
-<pb facs="0026" n="Page0026"/>
-<p>FLEISHER:  I sat in INR but I briefed her every morning.  I took the intelligence take to her and briefed her especially regarding matters affecting human rights.  Sometimes I would brief her several times a day and could call her at home whenever I thought that there was something that she should know about immediately.</p>
-<p>
-<hi rend="italics">Q: Did you find that the Department bureaus were ready to cooperatwith you or was it difficult?</hi>
-</p>
-<p>FLEISHER:  Well, it wasn't easy, it was challenging.  My career had been in political and political-military NATO work and stuff like that.  When I went to see Pat for the first time, she brought this to my attention and I said, yes, indeed.  She asked if I had any reservations.  I said, “Yes, I do.”  Then she told me what her ideas were and what she expected to achieve and we agreed we'd try it out for a while.  I really came to admire her.  She was dedicated to human rights as an idealist but learned to be pragmatic and realize what could be reasonably expected from the bureaus.  She learned, and I hope that I had some influence in this regard, getting her to take half a loaf now and come back for more later.  Here I think I may have served a useful purpose in toning her down and also in persuading my colleagues in the Department to see her point of view.  She was devoted to some very good causes, and she saved many people suffering in terrible places with virtually no chance for justice. If there is a Heaven she'll be there.</p>
-<p>
-<hi rend="italics">Q:  What were your relations with the Hill?  Did you have anrelations with the Congress?</hi>
-</p>
-<p>FLEISHER:  Not then.</p>
-<p>Q: Or the White House?</p>
-<p>FLEISHER:  No.  I did when I was country director with both and afterwards when I had retired and worked in the Freedom of Information office in the Department.</p>
-<p>
-<hi rend="italics">Q: What about terrorism?  Did that impede much on your duty?</hi>
-</p>
-<p>FLEISHER:  Well, I briefed Tony Quainton every morning and wenthrough the take, but it wasn't a big deal then.</p>
-<p>
-<hi rend="italics">Q: Not as it has become recently.</hi>
-</p>
-<p>FLEISHER:  No, no, no.</p>
-<p>
-<pb facs="0027" n="Page0027"/>
-<hi rend="italics">Q: How long did you do that and then what happened?</hi>
-</p>
-<p>FLEISHER:  Well, I did that for about three years.  At that time the Department offered some of us with long service and time in grade a golden parachute. That is to say, an opportunity to retire under more favorable conditions than we would have had had we stayed the full time we had left.  I could have stayed a couple more years because I was not yet completely out of time. Had I done so, it would have taken me six years to get the retirement that I was then offered. So I took it.  It also gave my wife an opportunity to do her...  She worked for CIA.</p>
-<p>
-<hi rend="italics">Q: Well, what happened after retirement then?</hi>
-</p>
-<p>FLEISHER:  Well, I went back to work.  When I came back from vacation, the phone was ringing off the hook and I was asked to come back to my old job and do it as a WAE.  While I was doing that-</p>
-<p>Q: Your old job where?  In the Scan desk?</p>
-<p>FLEISHER:  No, in the INR.  Another thing I did there, and that's what brought me back, was that I contributed to the annual preparations for the UN General Assembly in IO.  I did that until Christmas.  Meanwhile, I had applied for the Freedom of Information job and that came through.  So, I went there. It has been a good job.</p>
-<p>
-<hi rend="italics">Q: Did they put you mainly on Nordic affairs to begin with?</hi>
-</p>
-<p>FLEISHER:  I went to EUR first. After a few yearI became a senior reviewer and I am still there. It has been the longest assignment I ever had.  We cover EUR, including the newly independent states of the former Soviet Union, political-military affairs, refugees, human rights, and a number of other cats and dogs.</p>
-<p>
-<hi rend="italics">Q: Well, Eric, I want to ask you, looking back on your career, do yorecommend this for a young man today, the Foreign Service?</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>FLEISHER:  That's something I've thought much about.  I have two sons.  Both have had a moderate interest in foreign affairs and in foreign countries.  So, I've given it a great deal of thought.  I think that if a person is really very interested in foreign affairs and/or wants to make a contribution to world events, very much like a social worker does, that is to say has a certain bit of idealism, yet can also be pragmatic so that he will not become disillusioned and disappointed few years down the pike, yes.  But otherwise, No!  The problems the family faces, and especially today when women are employed, it's very difficult to tell a woman or a man in the case of a Foreign Service woman, that their spouse's career is going to be interrupted for four years while he or she goes to Pakistan or wherever. You really have to love the job to go into this type of work.</p>
-<p>
-<hi rend="italics">Q: Be dedicated to it and love it.</hi>
-</p>
-<p>FLEISHER:  Yes.  Q: That's true.  Well, thank you, Eric.  Any further comments?</p>
-<p>FLEISHER:  No.  Looking back, I think it was a great career.  I had a lot of fun and I have the satisfaction of feeling that I made a contribution, however small, to the events of our times.  I can't think of anything I would rather have done.  Perhaps I might have gone back to Japan and run the family newspaper, but that was not in the cards.</p>
-<p>
-<hi rend="italics">Q: Well, thank you for that.  This is Thomas Dunnigan speaking oJune 17, 2002, ending an interview with Eric Fleisher.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>ERIC FLEISHER</p>
+                <p>Interviewed by: Thomas Dunnigan</p>
+                <p>Initial interview date: June 17, 2002</p>
+                <p>Copyright 2003 ADST</p>
+                <p>Q: This is Thomas Dunnigan on behalf of the Association for Diplomatic Studies
+                    and Training and the Oral History Program. Today is June 17, 2002. I will be
+                    talking with Eric W. Fleisher, who spent many years in the Foreign Service and
+                    became one of the Service's recognized experts on Scandinavia. Eric, perhaps you
+                    might tell us something about your background - your education, your interest in
+                    foreign affairs, things of that nature.</p>
+                <p>FLEISHER: I was born here in Washington, DC. That was considered very unusual,
+                    probably still is. But I grew up in Japan, where my family published the
+                    American newspaper, the “Japan Advertizer” in Tokyo. I came back to the United
+                    States just before World War II when the Japanese confiscated our newspaper. I
+                    spent about 15 years in Japan, coming back to the United States occasionally. My
+                    grandfather, the publisher and owner or the newspaper, was liberal enough to
+                    grant my father and family home leave. Home leave in those days meant six months
+                    of my father being away from his job in Tokyo. We also would visit Sweden, which
+                    was my mother's native land. I returned to Washington and attended high school
+                    at Sidwell Friends. I entered the Army upon graduation and was assigned to
+                    Japanese language training at the Military Intelligence Service Language School
+                    at the University of Michigan in Ann Arbor.</p>
+                <p>
+                    <hi rend="italics">Q: Had you already known some Japanese?</hi>
+                </p>
+                <p>FLEISHER: Yes. I grew up speaking Japanese, but I didn't know the characters and
+                    I was not familiar with military terminology. So, for me, it was relatively
+                    easy. For some of my poor colleagues who had to learn both the language and the
+                    characters, they had to be pretty smart. I didn't have to be that smart.</p>
+                <p>
+                    <hi rend="italics">Q: Alright. Where did you serve in the Army?</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>FLEISHER: First I was in training in Ann Arbor and in Alabama at Fort McClellan
+                    learning and practicing jungle warfare. The atomic bomb was dropped just as we
+                    were preparing for the landing on Kyushu. A few days after the atomic bomb was
+                    dropped the Japanese accepted the Potsdam Declaration and sued for peace. The
+                    landing was scrapped, and I went to Japan to serve in the Occupation for almost
+                    two years.</p>
+                <p>
+                    <hi rend="italics">Q: In Tokyo?</hi>
+                </p>
+                <p>FLEISHER: Yes. It was first with what was called the Allied Translator and
+                    Interpreter Section, (ATIS), a part of General Headquarters (GHQ) of the Supreme
+                    Commander Allied Powers (SCAP). ATIS consisted of a pool of Japanese linguists
+                    from the Allied armed services. We were assigned to positions requiring a
+                    knowledge of the Japanese language. To begin with I did a brief tour with the
+                    Graves Registration people locating American fliers who had died or been killed
+                    while in captivity. My job was to go to the local police and say, “Where are
+                    they” and find them. I then served briefly as intelligence officer for the Fifth
+                    Royal Gurkha Rifles, stationed in Okayama, the headquarters of the British
+                    Commonwealth Occupation Forces (BCOF). The job consisted of being liaison
+                    officer for the regiment in its relations with the local Japanese civil
+                    authorities and the community.</p>
+                <p>I was subsequently assigned to the “Class A” War Crimes trials at the Military
+                    Tribunal of the Far East (IMTFE) in Tokyo where I served for the remainder of my
+                    tour in Japan. First I was used as an interpreter for the International
+                    Prosecution Section (IPS). I later did investigative work for the prosecution
+                    and did my own interrogations at Sugamo Prison. I had occasion to meet and speak
+                    with many of the principal defendants, including General Hideki Tojo, Grand
+                    Admiral of the Imperial Combined Fleets Osami Nagano, Finance Minister Kishi,
+                    who after the Occupation became prime minister, and others.</p>
+                <p>
+                    <hi rend="italics">Q: So you were living history right there.</hi>
+                </p>
+                <p>FLEISHER: Yes. That was the high point of my career. I was a first lieutenant on
+                    General MacArthur's staff. At the time I felt nothing in my life could surpass
+                    that experience. Everything after that could only go downhill.</p>
+                <p>
+                    <hi rend="italics">Q: What followed then? Did you leave the Army?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>FLEISHER: Yes, as soon as I was able. Language officers were in short supply and
+                    great demand so we had to serve longer than other soldiers who were demobilized
+                    on a point system depending upon longevity of service. Our release was
+                    different. I don't remember exactly what the requirements were, but as soon as I
+                    could I took my separation from the Army. At that time, my parents were living
+                    in Sweden. I was accepted at the University of Stockholm. So, I went there for a
+                    year.</p>
+                <p>
+                    <hi rend="italics">Q: So, you had both Japanese and Swedish.</hi>
+                </p>
+                <p>FLEISHER: My Swedish was pretty rusty then having had little occasion to use it
+                    since the summer of 1939, the last time I was in Sweden.</p>
+                <p>
+                    <hi rend="italics">Q: But if you were in the university, it must have improved
+                        rapidly.</hi>
+                </p>
+                <p>FLEISHER: Well, there were a number of American students there at that time,
+                    mostly GIs who were leaving the Army in Germany. The University tailored courses
+                    to suit our needs with a heavy emphasis on Swedish language, history, social
+                    policy and culture. Most of the Americans were of Swedish descent and wanted to
+                    spend some time learning about their country of origin. I reacquired my language
+                    ability quickly, but never gained the proficiency of my younger siblings who
+                    were at home and had had no break during the War in their contact with the
+                    language.</p>
+                <p>
+                    <hi rend="italics">Q: And what awakened your interest in foreign affairs?</hi>
+                </p>
+                <p>FLEISHER: I was always interested in foreign affairs. In fact, I had thought that
+                    I would go back and work on the “Advertizer.” That was what everybody thought I
+                    was going to do. But should I not be able to do that, with the War, my thought
+                    was to look into the Foreign Service. I applied to take the Foreign Service
+                    Examination.</p>
+                <p>
+                    <hi rend="italics">Q: When did you take the exam?</hi>
+                </p>
+                <p>FLEISHER: I came back to the United States in '48 and went to George Washington
+                    University. I finished my college and took the Foreign Service Exam in 1950.
+                    That was a hard five day exam.</p>
+                <p>
+                    <hi rend="italics">Q: That was a long exam. You were assigned immediately to
+                        Germany?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>FLEISHEI was given an assignment to Germany where the Displaced Persons
+                    Commission needed people to investigate visa applicants. We were given
+                    provisional appointments pending later confirmation.</p>
+                <p>
+                    <hi rend="italics">Q: How long did that last?</hi>
+                </p>
+                <p>FLEISHER: I didn't do that very long. I did it for about a year. I felt that
+                    being in Germany - and I was newly married then - was very much like the
+                    occupation in Japan and I didn't want this occupation type of life as a career.
+                    My second interest was academic. I thought I would study medieval history. At
+                    that time, the best professor I knew was at the University of Lund in
+                    southerSweden. So, I went to Lund asked Professor Bohlin if I could become one
+                    of his graduate students. He accepted me. So, I asked to be released from the
+                    Foreign Service to complete my education and was told I couldn't do that. If I
+                    wanted to pursue that course I would have to resign and take my chances should I
+                    later wish to come back into the Foreign Service. So that is what I did and went
+                    on to the University of Lund. I soon discovered that I could not get a doctorate
+                    in medieval history without a great deal more proficiency in Latin, and my GI
+                    Bill of Rights would not cover that much time. So, I switched to modern history
+                    and wrote my dissertation on the early diplomatic relations between the United
+                    States and Sweden, “A Study in Diplomacy and Commerce, 1776-1828,” or from
+                    independence to free trade.</p>
+                <p>
+                    <hi rend="italics">Q: And that lasted until 1953?</hi>
+                </p>
+                <p>FLEISHER: To 1953, yes.</p>
+                <p>
+                    <hi rend="italics">Q: And then you came back into the Foreign Service. How did
+                        thahappen.</hi>
+                </p>
+                <p>FLEISHER: Well, I sent out a lot of applications to various universities and also
+                    one to the Foreign Service, which I didn't think was going to amount to anything
+                    because I'd left. I got an answer from the University of Minnesota that they
+                    were very interested in me, but it would be four years before that job would be
+                    available. I had a wife and a daughter and I needed a job then. But the State
+                    Department said that if I would go into the Refugee Relief Program, I'd get a
+                    provisional appointment and take it from there. So, that's what I did.</p>
+                <p>Q: So you got reinstated and joined the Refugee Relief Program. You were sent to
+                    the Netherlands?</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>FLEISHER: No. That has been in the Stud Book for years. I tried to change it. I
+                    was to have gone there. I was assigned to the Netherlands. Just a couple days
+                    before I was leaving, they changed it. So, I stayed in Washington and some
+                    months later transferred to INR, which was more to my liking anyway because I
+                    got to work on the Nordic Countries.</p>
+                <p>
+                    <hi rend="italics">Q: It enlivens your academic training, too.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: So your career in RRP was less than lengthy. Back to
+                        thDepartment and INR. You worked on Nordic affairs.</hi>
+                </p>
+                <p>FLEISHER: Right. I was promised that I could do political work if I would take a
+                    job doing economic work as a starter. So, I said, “That's fine.” I think I
+                    worked on Denmark on the economic side. But I realized that my college economics
+                    was insufficient. I took courses at GW at night to improve my knowledge of that
+                    field. Sure enough, within the year, I replaced Harvey Nelson on the political
+                    side for Denmark and Iceland. That's how my career in Nordic Affairs at the
+                    State Department started.</p>
+                <p>
+                    <hi rend="italics">Q: did you get to travel to those countries?</hi>
+                </p>
+                <p>FLEISHER: Yes. Then it was up to the mid-career course. This was before Class 4
+                    was split into two and I went back down from Class 5 to Class 6, which is where
+                    I had started. After the mid-career course I was assigned to Copenhagen, first
+                    as vice consul replacing Frances Usenick and later John Goff as the junior
+                    political officer. I also had the job as consul on the Faroe Islands. I might
+                    mention how I got this assignment. Recently at Foreign Service Day, I was very
+                    pleased to see that finally Tony Satterthwaite was recognized. I was to have
+                    gone with Tony on that flight and would have been the embassy officer for
+                    Greenland. At the last moment, two colonels came up from Germany and I was the
+                    junior officer who was bounced from the flight. They went up to Greenland and
+                    were all killed in a helicopter accident.</p>
+                <p>
+                    <hi rend="italics">Q: So you should have been on that flight.</hi>
+                </p>
+                <p>FLEISHER: Yes. The ambassador was Val Peterson. He said, “ Eric, you are not
+                    destined to go to Greenland sI am assigning you to the Faroe Islands job.”
+                    That's how I became consul in the Faeroes.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: Who was your chief in Copenhagen?</hi>
+                </p>
+                <p>FLEISHER: First it was Ward Allen. Then it was Vince Wilbur..</p>
+                <p>
+                    <hi rend="italics">Q: How many were in the Political Section?</hi>
+                </p>
+                <p>FLEISHER: We were three. Of course, we had Pol 2, which included other officers.
+                    My section consisted of the chief, me, and the geographic attache. Later that
+                    was changed and reduced to two, but by that time I had left.</p>
+                <p>
+                    <hi rend="italics">Q: and you had a Labor attache, too?</hi>
+                </p>
+                <p>FLEISHER: We had a Labor attache, but in Copenhagen he was in the Economic
+                    Section. In Finland the Labor Attache was in the Political Section.</p>
+                <p>
+                    <hi rend="italics">Q: It's interesting - when I came to Copenhagen 10 years
+                        later, hwas tied to the Political Section.</hi>
+                </p>
+                <p>Did you have any special problems? FLEISHER: No, no special problems. It was just
+                    challenging.</p>
+                <p>
+                    <hi rend="italics">Q: Relations with Denmark were on an even keel at that
+                        time.</hi>
+                </p>
+                <p>FLEISHER: Yes. And I had complete access to everybody except the Prime Minister.
+                    My DCM after Tony Satterthwaite was “Pardy” Parsons. He said, “Eric, you've been
+                    in INR. I don't want you to sit behind books and newspapers. I want you to get
+                    down there and meet the people and get out,” which I did. I got to know a good
+                    many politicians and members of Parliament who remained friends for the rest of
+                    my life. Among them were Per Haekerup, who became Foreign Minister during my
+                    time in Copenhagen, Jens Otto Krag who became Prime Minister and Viggo Kampman
+                    who also later became Prime Minister. I remained on a first name basis with them
+                    long after my time in Denmark.</p>
+                <p>
+                    <hi rend="italics">Q: Excellent.</hi>
+                </p>
+                <p>Let's talk a bit about your days in the Faeroes. That must have beean interesting
+                    experience.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>FLEISHER: It was a fascinating experience. It was the only time I was chief of
+                    mission. It was great. I was the second American consul there. I succeeded John
+                    Haggeman. John was an economic officer and a very good student of the Faeroes.
+                    He really laid the groundwork for me. When I came in there, I was able to just
+                    pick up where he had left off.</p>
+                <p>
+                    <hi rend="italics">Q: How long a time did you stay there?</hi>
+                </p>
+                <p>FLEISHER: I would go up with the ship, “Tjaldur.” It would go back down to
+                    Copenhagen, come back up, and on the next trip, I'd go back down to Copenhagen.
+                    The main purpose of my job was in connection with the installations we were
+                    putting in there under NATO. My job was to see that these fellows, Western
+                    Electric people, who were very highly paid compared to the Faeroese, didn't get
+                    in trouble with the local girls and things like that and keep good relations
+                    with the local Prime Minister, who became a very good friend of mine, and
+                    maintain an even keel. We did have some consular problems. There were some
+                    Faeroese receiving Social Security checks. We did have an American, an
+                    anthropologist, who went mad and we had to medevac her out through Scotland.
+                    This involved quite a bit of doing. I finally got her out on a fishing boat. The
+                    captain, after some dickering and with the support of the Danish High
+                    Commissioner, agreed to take her to the Shetlands. From there on, it wasn't my
+                    problem; it became that of my colleagues in the consulate in Edinburgh, but for
+                    them there it was a rather routine matter..</p>
+                <p>
+                    <hi rend="italics">Q: I was going to ask you if there were any resident
+                        Americans in thFaeroes.</hi>
+                </p>
+                <p>FLEISHER: There were a few, just a handful. I met several of them. There were
+                    others that I didn't meet because they were spread out over 17 islands, many of
+                    them inaccessible during the time that I was there for my consular visits.
+                    However, I put a notice in several of the Faeroese newspapers before I went up
+                    there, giving dates and times that I would be available for consular services if
+                    they wished to see me.</p>
+                <p>
+                    <hi rend="italics">Q: The climate is certainly not conducive to vacations.</hi>
+                </p>
+                <p>FLEISHER: Right. You have to love birds, fish, and whales. But I did have the
+                    opportunity to take our Ambassador out there. We went up on the “Tjaldur” and
+                    visited several of the islands. An American destroyer paid a visit at that time,
+                    and we had a big to-do. We invited the public to visit the ship, which was most
+                    appreciated by the people who were mostly fishermen and sailors.</p>
+                <p>Q: How were we able to communicate from the Faeroes back to Copenhagen?</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>FLEISHER: It was difficult. I could communicate by telephone. If necessary, I
+                    could use the DanisHigh Commissioner's facilities, which he was kind enough to
+                    put at my disposal.</p>
+                <p>
+                    <hi rend="italics">Q: How were you received by the locals? Were they friendly to
+                        you?</hi>
+                </p>
+                <p>FLEISHER: Very.</p>
+                <p>
+                    <hi rend="italics">Q: And the Danish officials also?</hi>
+                </p>
+                <p>FLEISHER: Yes. But there again, I had to maintain a balance. The Faeroe Islands
+                    are not part of Denmark. They are constitutionally united with the Crown of
+                    Denmark but are semi-autonomous. They have their own legislature and
+                    administration. The chief Danish official is not a governor as in any Danish
+                    province but a high commissioner. All local laws are passed by the Faroese
+                    Parliament, the Lagting. But Denmark is responsible for foreign relations and
+                    defense. I was thus required to be accredited by the Danish Government and the
+                    Faeroese administration. I presented my consular credentials to the Faeroese
+                    prime minister.</p>
+                <p>
+                    <hi rend="italics">Q: Were other countries represented there or not?</hi>
+                </p>
+                <p>FLEISHER: Yes. The consular corps was very interesting. ThWest Germans were
+                    represented. The British had the largest and most important mission. The Russian
+                    were there, too. But most were honorary consuls, businesspeople.</p>
+                <p>Q: That is a unique experience, being consul to the Faeroes. Back in Denmark,
+                    Jens Otto Krag became prime minister. Did that bring many changes in our
+                    relationship?</p>
+                <p>FLEISHER: Not really. Krag followed pretty much the policy laid out by H. C.
+                    Hansson, the preceding prime minister. Actually, Krag was very good for me. I
+                    knew him from earlier student days when he had been lecturer in political
+                    science and economics at the University of Stockholm. In Copenhagen I renewed
+                    the contact before he became Prime Minister. He and his wife Helle Virkner, a
+                    popular Danish actress on the stage and in films, were good friends and they
+                    were in our house and we in theirs on social occasions. I maintained a friendly
+                    and academic relationship with Jens Otto until he died. He was an interesting
+                    person.</p>
+                <p>
+                    <hi rend="italics">Q: He had just stepped down when I arrived shortly
+                        thereafter.</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>FLEISHER: He was not of the old social democratic labor school of H.C. Hanson and
+                    Hans Hedtoft. He was an academic and represented the growing element of the new
+                    Social Democrats.</p>
+                <p>
+                    <hi rend="italics">Q: It was Per Haekerup who was really running things when I
+                        was there.</hi>
+                </p>
+                <p>FLEISHER: Per and his wife Grethe were among my best friends in Denmark. He was
+                    my mentor in learning about Social Democracy and the labor movement in Danish
+                    politics. This was, of course, before he became Foreign Minister and later Prime
+                    Minister. He gave me one of the greatest professional compliments I have ever
+                    received. When my wife and I had dinner alone with the Haekerups just before I
+                    left Denmark he said, “Eric, you will never become a Social Democrat, but you
+                    understand us.”</p>
+                <p>
+                    <hi rend="italics">Q: In 1963, you were selected for Finnish language training.
+                        Wathis something you had asked for?</hi>
+                </p>
+                <p>FLEISHER: No, I had asked to go to Japan. I spoke Japanese and I always figured
+                    that my career was going to be in Japan and that the Nordic countries was just a
+                    temporary diversion. Dick Finn who inspected the post towards the end of my tour
+                    in Copenhagen, and who I had known from when he was a naval intelligence
+                    Japanese language officer in Tokyo at the end of the War, recommended that I be
+                    sent to Japan for my next tour. That was in the works when I got a letter from
+                    Personnel saying that if I would study Finnish for 10 months, I could replace
+                    Harvey Nelson, who was chief of the Political Section in Helsinki. At that time,
+                    as a new FSO-4 in Japan, I would be way down the line, whereas in Finland I
+                    would have my own section. So, there was no question. I opted for Finland.</p>
+                <p>
+                    <hi rend="italics">Q: Did we have many Finnish language officers?</hi>
+                </p>
+                <p>FLEISHER: Not many, no, very few. We were just a handful and we alknew each
+                    other.</p>
+                <p>
+                    <hi rend="italics">Q: Was the training worthwhile?</hi>
+                </p>
+                <p>FLEISHER: It was essential.</p>
+                <p>
+                    <hi rend="italics">Q: It's a difficult language.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>FLEISHER: A very difficult language. But for a political officer it was
+                    absolutely necessary. If you were going to meet the labor people, the Agrarians
+                    (Center Party) or any of the left wing politicians, not to mention the
+                    Communists, Finnish was the only language they spoke. Our friends the
+                    Conservatives and business people spoke English, but, although influential, they
+                    were not among those where the political power lay.</p>
+                <p>
+                    <hi rend="italics">Q: Well, they speak Swedish, some of them, too.</hi>
+                </p>
+                <p>FLEISHER: Oh, yes. That's fine. I spoke Swedish fluently. But treach the labor
+                    people, people who really were the core...</p>
+                <p>
+                    <hi rend="italics">Q: They were running the country, I guess.</hi>
+                </p>
+                <p>FLEISHER: Well, they were partly running the country. They had considerable
+                    influence although the Center Party with President Kekkonnen was in control of
+                    domestic affairs and unquestionably so of foreign policy. But we knew that the
+                    Social Democrats were the wave of the future. The labor movement and the
+                    communists... The labor movement was split into communist and non-communist
+                    (social democratic) factions. If you were going to communicate with these
+                    people, which was vital, you had to know Finnish. I knew it enough to talk
+                    business with them. I didn't use Finnish when I went to the foreign office.
+                    There I used English or Swedish. But when I was talking to labor leaders, it was
+                    Finnish. No matter how bad it was, I could get my ideas across and understand
+                    what they said.</p>
+                <p>
+                    <hi rend="italics">Q: Could you read the Finnish language newspapers?</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: That's important, too.</hi>
+                </p>
+                <p>How many were in your section in Helsinki?</p>
+                <p>FLEISHER: That was sort of the same arrangement as in the politicasection in
+                    Copenhagen. My deputy was the Labor attache.</p>
+                <p>
+                    <hi rend="italics">Q: And presumably some very good local employees, too.</hi>
+                </p>
+                <p>FLEISHER: We had some good local employees. In fact, two of them hired.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>Q: If one was the Labor attache, you did everything else, I presume.</p>
+                <p>FLEISHER: Well, Paul Canney the labor attach� did everything, too. I did labor
+                    also when Paul was away, on home leave or was sick or something...</p>
+                <p>
+                    <hi rend="italics">Q: Paul Canney was an FSO, wasn't he?</hi>
+                </p>
+                <p>FLEISHER: He was. In fact, we were in Finnish language trainintogether.</p>
+                <p>
+                    <hi rend="italics">Q: Did you feel as a section chief that you were micromanaged
+                        by thambassador or the DCM or did they leave you alone?</hi>
+                </p>
+                <p>FLEISHER: That's interesting. Tyler Thompson, the ambassador gave me a pretty
+                    free reign. When I came there, I had somewhat of a different point of view
+                    regarding Finnish politics from that of my DCM, who held the views of the
+                    preceding ambassador. This was George Ingram, an FSO-2 or 1, and I was an FSO-4.
+                    But Tyler let us hash it out. I don't think it did my career too much good for
+                    the first few years. But I think George and I came to an understanding and he
+                    respected my views, as I did his, and we became very good friends. In fact, he
+                    asked me to come and join him in EUR/SCAN after he left Finland and became
+                    country director. I become his deputy and later with his support succeeded him
+                    when he retired from the Foreign Service. But during the first part of my time
+                    in Finland, yes, I did feel that George was looking over my shoulder and
+                    changing a few things, some maybe for the better, I think, but...</p>
+                <p>
+                    <hi rend="italics">Q: I knew George. We were colleagues at the National War
+                        College.</hi>
+                </p>
+                <p>I know what you mean. Did you get to travel around that rather largcountry?</p>
+                <p>FLEISHER: Yes, I did. Tyler was very good about that. He believed that all of us
+                    in the Embassy should get out and meet the people, so I did. I went to party
+                    conventions. I took any excuse to use the embassy airplane and go up north. I
+                    spoke to the communists and was a guest of the communists. We talked politics. I
+                    was all over Finland. I accompanied Tyler on many of the trips.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have to write speeches for him?</hi>
+                </p>
+                <p>FLEISHER: No. Well, I put in some on the political part, but usually the USIA
+                    people furnished it. And Tyler liked to do his own thing.</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>
+                    <hi rend="italics">Q: How influential at that time were the communists in
+                        Finland?</hi>
+                </p>
+                <p>FLEISHER: They were very influential. They had pretty close to 30% of the
+                    electorate - that is, the communists and their left-wing socialist front
+                    organization the SKDL. The Finnish Peoples Democratic League (SKDL) pretty much
+                    followed the Communist Party (FKP) line. During my time, however, a split
+                    developed within the communist movement which we followed with great interest.
+                    The differences between the communists loyal to Moscow and the Finnish
+                    communists, who considered themselves first and foremost nationalist Finns could
+                    no longer be contained. The Finnish communists were really Finnish. They had
+                    fought on the Finnish side against the Soviets in both the Winter War, 1939-40,
+                    and the Continuation War, 1941-44. They were not pro-American, but some of them
+                    weren't unfriendly. I cultivated them. In fact, their chairman Ele Alenius
+                    became a friend.</p>
+                <p>
+                    <hi rend="italics">Q: I think we were concerned, were we not, that President
+                        Kekkonnewas getting too friendly with Moscow?</hi>
+                </p>
+                <p>FLEISHER: Yes, we were. In fact, this was a very difficult problem that we had to
+                    follow. The western press said that Kekkonnen was giving Finland away to the
+                    Russians. But that was really not quite so. Kekkonnen had to follow a very
+                    difficult line. He had to have the friendship and the confidence of the Russians
+                    to remain in power in Finland. On the other hand, he couldn't give the country
+                    away and he didn't want to give the country away, I believe. We think, and I
+                    think in retrospect, that he did gave more than was necessary. But to his credit
+                    he ceded no Finnish territory and Finland did continue to maintain its
+                    democratic institutions and way of life. He did make concessions such as the
+                    purchase of Soviet nuclear reactors instead of Westinghouse reactors, which
+                    everyone new were better, and the press was limited in how far it could go in
+                    criticizing the Russians.</p>
+                <p>
+                    <hi rend="italics">Q: And the Soviets kept a close eye on Finland.</hi>
+                </p>
+                <p>FLEISHER: Indeed.</p>
+                <p>
+                    <hi rend="italics">Q: Why wouldn't Finland join the non-aligned countries?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>FLEISHER: I think they thought about it, but the fact was that they weren't
+                    non-aligned. The Finns in their hearts were very much aligned. They showed it to
+                    us, American and western diplomats, very openly. I remember one time going down
+                    to the sauna with a Finnish Social Democratic Party leader. We were talking
+                    about Vietnam. He said, “Eric, why don't you go in and wring that chicken's neck
+                    quickly?”</p>
+                <p>
+                    <hi rend="italics">Q: That wasn't what we were hearing all the time in
+                        Scandinavia.</hi>
+                </p>
+                <p>What was the effect in Finland of the ouster of Khrushchev?</p>
+                <p>FLEISHER: That's a very interesting question. I was the first to report the
+                    overthrow of Khrushchev. A friend of mine the publisher of “Helsingin Sanomat,”
+                    the largest newspaper in Finland, called me one evening at home. He was really a
+                    friend of America. His father was also a long time friend of America. He called
+                    me and said, “Eric, I've got a present for you. This is absolutely real and I
+                    promise you on my life. Khrushchev has just been deposed. Call your people and
+                    tell them that.” I called Tyler and he said, “Well, this is yours. You call the
+                    Department.” My mistake was that I called the desk officer instead of calling
+                    the AS, or at least a DAS. But I didn't realize that at the time. I was going
+                    through what I knew to be the proper channels. I don't know how far it ever went
+                    - if it went up to the AS or to the Secretary.</p>
+                <p>
+                    <hi rend="italics">Q: I didn't realize that you broke the news to
+                        Washington.</hi>
+                </p>
+                <p>FLEISHER: I never even got a letter of thanks. I thought I'd be promoted. Tyler
+                    said, “You'll be promoted.” Anyway, yes, this had a big effect in Finland. It
+                    meant that there was fluidity that hadn't existed before. Everybody knew it. But
+                    how this was going to play out was the question. Kekkonnen knew it, too and he
+                    realized that he had to reaffirm his power.</p>
+                <p>
+                    <hi rend="italics">Q: Right. He had been playing with Khrushchev.</hi>
+                </p>
+                <p>FLEISHER: Yes. So things were pretty open and flexible. You weren't sure what was
+                    going to happen, what the political constellation was going to look like, and
+                    how it was going effect the Social Democrats.</p>
+                <p>
+                    <hi rend="italics">Q: It must have affected the Finnish communists.</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>FLEISHER: That it did. It certainly weakened the Finnish Communist Party, but the
+                    so called Stalinists, the hard-line communists were already in decline. It
+                    encouraged defections from the FKP to the SKDL and loosened the hold that the
+                    FKP had over the SKDL. As an example it became possible for the Chairman of the
+                    SKDL and his wife to come to my home for a dinner party. This would have been
+                    unthinkable earlier.</p>
+                <p>
+                    <hi rend="italics">Q: Did you participate when Averil Harriman visited?
+                        FLEISHER: Yes, I did. The whole embassy did.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: Did he do any good?</hi>
+                </p>
+                <p>FLEISHER: Yes. Well, he spoke very well. He was a goorepresentative of
+                    America.</p>
+                <p>
+                    <hi rend="italics">Q: What did he talk about? It wasn't Vietnam at that
+                        time.</hi>
+                </p>
+                <p>FLEISHER: No. He really talked more about American values ansupport for
+                    democracy. It was more general.</p>
+                <p>
+                    <hi rend="italics">Q: We weren't deeply into Vietnam. They were just getting
+                        into it.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: The election in '66 then brought the Social Democrats into
+                        power.What was the Soviet reaction to that?</hi>
+                </p>
+                <p>FLEISHER: It was negative. Very negative. The Soviets were not afraid of the
+                    conservatives or the liberals, but they were afraid of the Social Democrats
+                    because the Social Democrats worked the same side of the street, the labor
+                    movement. They made it plain by calling several Finnish politicians to Moscow,
+                    including Vaino Leskinen, a nationalist Social Democratic leader, who was
+                    considered not to be a friend of the USSR, and laying down the law that they
+                    didn't want a Social Democratic administration or at least not one that included
+                    persons not acceptable to the Soviet Union. So, the Social Democrats understood
+                    that Leskinen and others could not be in a Social Democratic government.
+                    Leskinen went to Moscow to try and make amends with the Soviets, but his visit
+                    to Canossa and his “me a culpa” had no effect on the Russians. It was clear to
+                    the Social Democrats that if they formed a government it could not include any
+                    of their members who had previously opposed the Soviet Union.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>Q: Our embassy role presumably was to keep rather quiet and low key during this
+                    period and let the Social Democrats handle that with the Soviets?</p>
+                <p>FLEISHER: Yes. We had no way of projecting power or even very mucleverage. Our
+                    influence was limited.</p>
+                <p>
+                    <hi rend="italics">Q: Did the Social Democrats make an alliance with the
+                        communists then?</hi>
+                </p>
+                <p>FLEISHER: They took the communists into government, but it wasn't an alliance.
+                    Here I think we have to clarify “alliance.” Finland is often misunderstood to
+                    have been an ally of Germany. Finland was not an ally of Germany. Finland was a
+                    co-belligerent. They got into the war and they came out of the war on their own.
+                    They never became a Nazi vassal state. They did not turn their Jewish population
+                    over to the Germans. When the Germans requested that they identifJews in Finland
+                    the Finns replied, “We have no Jews. We only have Finns here.” So, yes the
+                    Social Democrats appointed several communists to minor portfolios, but they did
+                    not have access to cabinet deliberations on foreign policy or defense.</p>
+                <p>
+                    <hi rend="italics">Q: Secretary Rusk made a visit. I presume you were involved
+                        in that?</hi>
+                </p>
+                <p>FLEISHER: Very much so, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Was that successful?</hi>
+                </p>
+                <p>FLEISHER: Very successful. Rusk and Kekkonnen hit it off very well. I might tell
+                    a story about that. We had a lot of paper traffic before the visit. One of the
+                    messages was from Rusk to the Ambassador. It said, “I will do everything you
+                    suggested, but I will not go into a sauna with Kekkonnen.” This was something
+                    that we knew would be a sticking point in the visit. So, the visit takes place
+                    and we go out to Kekkonnen's residence, which was a little ways in the country.
+                    We get there and after a little exchange of pleasantrieKekkonnen took Rusk by
+                    the shoulder and said, “Now we go down to the sauna.” Rusk looked at Tyler and
+                    said, “Tyler, you're fired.”</p>
+                <p>
+                    <hi rend="italics">Q: That's very nice. Then came the 50th anniversary of
+                        Finnisindependence, which I gather was a large celebration.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <pb facs="0016" n="Page0016"/>
+                    <hi rend="italics">Q: The Soviets sent their president, Mr. Podgorny. Who did we
+                        sento that?</hi>
+                </p>
+                <p>FLEISHER: I can't remember. If we did, I don't think it was anybodparticularly...
+                    I don't think we sent anybody.</p>
+                <p>
+                    <hi rend="italics">Q: Maybe it was just the ambassador who represented us.</hi>
+                </p>
+                <p>FLEISHER: Yes. I'm sure it was just the ambassador. We alremember these important
+                    visits.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, of course.</hi>
+                </p>
+                <p>FLEISHER: We went around like chickens with our heads cut off.</p>
+                <p>
+                    <hi rend="italics">Q: Were we pleased when the premiership changed in '68? Mr.
+                        Koivistcame in.</hi>
+                </p>
+                <p>FLEISHER: Yes, Koivisto became prime minister. We got along very well with
+                    Koivisto, who was primarily an economist, and an intellectual. We got along well
+                    with him.</p>
+                <p>
+                    <hi rend="italics">Q: So there were no policy implications that would harm
+                        us?</hi>
+                </p>
+                <p>FLEISHER: No, not that I can recall. It was really pretty much continuation of
+                    the same.</p>
+                <p>
+                    <hi rend="italics">Q: What was the Finnish reaction to the Soviet invasion
+                        oCzechoslovakia?</hi>
+                </p>
+                <p>FLEISHER: Very, very strongly against. I was up in Lapland on vacation, in
+                    Sweden, at the time. I rushed back to the Embassy and when I came in the door
+                    the marine guard told me that the ambassador wanted to see me right away. So,
+                    the first thing we thought was, “What's going to be the reaction here? What's
+                    going to happen?” We thought pretty much that there were going to be pro-Czech
+                    demonstrations, but how peaceful would they be? Well, they did demonstrate and
+                    the demonstrations were peaceful, but there was a very large demonstration in
+                    front of the Soviet embassy and in other parts of Helsinki. Yes, the Soviets
+                    realized that the people were against them.</p>
+                <p>
+                    <hi rend="italics">Q: The Soviet ambassador must have taken it very low in
+                        profile athat time.</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>FLEISHER: They kept a low profile and they did so for a while. And so did wwe
+                    didn't have to do anything. The anti-Soviet atmosphere was clearly in the
+                    air.</p>
+                <p>Q: I know all over Western Europe that was a shock and it led to a lot of things
+                    the Soviets didn't want. What were Finland's relations with Sweden during this
+                    period?</p>
+                <p>FLEISHER: Finland's relations with Sweden were good. It's a very complicated
+                    relationship because it's both a family relationship and a Swedish and Finnish
+                    ethnic relationship. Finland was part of Sweden until 1808 when it was ceded to
+                    Russia and became a grand duchy within the Czarist Empire. But the ties with
+                    Sweden were very strong. The Swedish families who ran most of Finland maintained
+                    very close contact with Sweden. The Swedish language is spoken in much of
+                    Finland. Even when I was there, it was one of the official languages, as French
+                    is in Canada. Yes, and during World War II, many Finns, particularly children,
+                    were evacuated to Sweden. A good number of Swedes volunteered to fight in the
+                    Finnish army, especially during the Winter War.</p>
+                <p>
+                    <hi rend="italics">Q: They did against Russia.</hi>
+                </p>
+                <p>FLEISHER: Yes. So, it was a very close personal relationship. Still, there was a
+                    vast difference between the Swedes who comprised the upper class and the Finnish
+                    speaking lower classes. So, there was a class antagonism there. Of course, the
+                    official relations were very good. They coordinated their foreign policy with
+                    the other Nordics. For example, we would make representation for our positions
+                    at the foreign office before the opening of the UN General Assembly. Every year
+                    we tried to sell our view on Communist Chinese recognition and member ship in
+                    the UN. Our Finnish interlocutors would say, “We'll take you views under
+                    consideration and we will discuss them at the Nordic ministers' meeting.” When
+                    we would go back later after the Nordic ministers had met they'd say, “Well, the
+                    Nordic ministers decided thus and so and there isn't very much we can do about
+                    things now. It wasn't our decision.”</p>
+                <p>Q: They had you there. There was not much you could say about that. And how about
+                    with the other Scandinavians, with the Danes and the Norwegians?</p>
+                <p>FLEISHER: With the Norwegians the relationship is personally a very good one
+                    because they are both stepchildren of Sweden, so to speak. With the Danes, it
+                    was more distant but very friendly, yes.</p>
+                <p>
+                    <hi rend="italics">Q: So no real problems. FLEISHER: No real problems.</hi>
+                </p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: After those interesting years in Helsinki, you came back
+                        to thDepartment. You were on the Scandinavian desk in EUR at the time.</hi>
+                </p>
+                <p>FLEISHER: That's right. Q: What were the problems you were facing there?</p>
+                <p>FLEISHER: Well, Vietnam was the biggest problem.</p>
+                <p>
+                    <hi rend="italics">Q: Because all of the Scandinavian countries opposed our
+                        policy,didn't they?</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: And some more belligerently than others. Did you deal with
+                        thayourself?</hi>
+                </p>
+                <p>FLEISHER: Yes. Well, I would usually sit in when Martin Hillenbrand, the
+                    Assistant Secretary, when he met with the Nordic ambassadors. I was usually the
+                    notetaker at these meetings. I also usually briefed Marti before he met with
+                    senior Nordic leaders.</p>
+                <p>The main subject we dealt with the Scandinavians at that time was Vietnam.
+                    Iceland was a little different because we had the base situation and the
+                    Icelanders weren't all that interested in Vietnam. But with the other three and
+                    even with Finland to a lesser degree, the main topic was Vietnam. Of course, at
+                    one time, we weren't even seeing any senior Swedish diplomats. I had a very
+                    interesting meeting at that time. Gunnar Heckscher, who had been my professor at
+                    the University of Stockholm - I had worked for him and for his father, Eli
+                    Heckscher - came through Washington his way back to Sweden from India, where he
+                    had been Swedish Ambassador. He had previously been ambassador to Japan. We had
+                    an informal meeting with U. Alexis Johnson, who I knew from Tokyo. We lived very
+                    close to the Johnsons and I remember when Stephen was born. Marshall Greene, who
+                    had also served in Japan and in Sweden, and I... And we sat and talked in U.
+                    Alexis Johnson's (Deputy Secretary then) office about what we could do about the
+                    Swedish situation and Vietnam. That was a very interesting off the record
+                    discussion and one in which I had the satisfaction of having known all the
+                    participants personally for many years.</p>
+                <p>
+                    <hi rend="italics">Q: Maybe nothing came out of it at the time, but it probably
+                        laid thgroundwork for later smoothing the relations back to normal.</hi>
+                </p>
+                <p>FLEISHER: Yes. And it surely did. Because we all wanted it. The irritant was Mr.
+                    Palme, who was getting out in front leading demonstrations against us. It
+                    irritated us to no end.</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: Then, of course, Mr. Palme came over to the States in
+                        1970.</hi>
+                </p>
+                <p>FLEISHER: Well, he had been here many times. He was a student here. I knew Olaf
+                    Palme as a student at the University of Stockholm. We also kept up a friendly
+                    relationship and when I was stationed in Stockholm, and he was prime minister he
+                    called me “Eric” and we got along well. He was, he said, pro-American and I
+                    think he did admire many things American, but he made his career as a left-wing
+                    socialist. Not coming from the working class, he felt that he had to prove
+                    himself with the Social Democratic rank and file. Attacking America was one way
+                    of doing this.</p>
+                <p>
+                    <hi rend="italics">Q: He was an intellectual Social Democrat, not a dirty hand
+                        workintype.</hi>
+                </p>
+                <p>FLEISHER: Right, exactly.</p>
+                <p>Q: At this period, the Nordic countries were considering how to get together and
+                    they talked about an organization called NORDEC. Others were more interested in
+                    joining Europe, the European Union. Can you tell us a little bit about what our
+                    view was on that or whether we had a view?</p>
+                <p>FLEISHER: I think our view was, fine. If they join NORDEC as one of the members
+                    not tied to NATO well and good. They probably would be drawn in closer to NATO
+                    in due course.</p>
+                <p>
+                    <hi rend="italics">Q: By joining the European Union?</hi>
+                </p>
+                <p>FLEISHER: No, I thought we meant NORDEC.</p>
+                <p>
+                    <hi rend="italics">Q: Well, yes, I do mean NORDEC, too.</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>FLEISHER: Yes. Well, NORDEC was an economic concept to begin with. The hope was
+                    that it would turn into something political. Our view was generally favorable.
+                    The question of Nordic union goes back to before the turn of the last century.
+                    Initially it was greeted with a great deal of idealistic enthusiasm. As time
+                    went on, however, the basic feeling of Nordic unity came into conflict with that
+                    of Nordic individuality. This was just another one of those flashes in the pan.
+                    In '47 when there was talk really of a Scandinavian union, when the Kalmar talks
+                    were held, there was a chance that there could have been a Nordic defense
+                    alliance. But with Finland under the shadow of the Soviet Union, Sweden
+                    eventually decided that it could not abandon its' neutrality policy that had
+                    served it so well since 1815 and turned it down. Subsequently Denmark and Norway
+                    went into NATO. Since then there really was no question but that Denmark and
+                    Norway would be aligned in NATO and Sweden and Finland would hold to their
+                    neutrality policies. In those days we spoke of the “balance of Scandinavia.”
+                    There was much arguing back and forth as to whether this was a good thing, but
+                    it was generally accepted that as long as the Cold War lasted there could be no
+                    changes in the alignment. The “system” would adjust to changes in whatever
+                    political situation that might arise.</p>
+                <p>
+                    <hi rend="italics">Q: Denmark, Norway, and Iceland went to NATO, didn't
+                        they?</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Sweden and Finland didn't.</hi>
+                </p>
+                <p>FLEISHER: Yes. Well, Finland we knew wouldn't anyway because of the-</p>
+                <p>
+                    <hi rend="italics">Q: The border with the Russians and so forth.</hi>
+                </p>
+                <p>FLEISHER: And after 1949 the mutual assistance treaty with thRussians.</p>
+                <p>Q: I see. Tell us something about our reaction to the treatment that the swedes
+                    gave our newly appointed ambassador, Mr. Holland when he arrived.</p>
+                <p>FLEISHER: Our reaction was, of course, very negative. I think the reaction of
+                    most Swedes was negative, too. But it was a vociferous group of mostly young
+                    people. You have to remember, this was the time of Rudi the Red in France and
+                    the students in all of Europe were in ferment... Che Guevara was a great hero.
+                    So, we have to take it in that context.</p>
+                <p>
+                    <hi rend="italics">Q: How long did Ambassador Holland stay?</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>FLEISHER: He was there about three years.</p>
+                <p>
+                    <hi rend="italics">Q: He was able to tough it out and stay.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Was he the first black we appointed as ambassador to
+                        Sweden?</hi>
+                </p>
+                <p>FLEISHER: Yes. We had, of course, had a black ambassador to Norway,Mr.
+                    Wharton...</p>
+                <p>
+                    <hi rend="italics">Q: But their treatment of him wasn't related to his
+                        ethnibackground. It was related to their hatred of our policy in
+                        Vietnam.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Then eventually in '71, Norway did recognize North
+                        Vietnam. Dithe others go along with that or was it only Norway?</hi>
+                </p>
+                <p>FLEISHER: I don't remember. I think Sweden was first to recognize North Vietnam.
+                    They even sent a fellow, Piere Schourri, there as ambassador.</p>
+                <p>
+                    <hi rend="italics">Q: He was sent as ambassador to Hanoi then.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: But Norway being a NATO country doing it probably
+                        irritated-</hi>
+                </p>
+                <p>FLEISHER: Norway was the first NATO country, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Did we feel that Norway should join the European
+                        EconomiCommunity?</hi>
+                </p>
+                <p>FLEISHER: Don't think we ever made it an issue or formally advocated it. I think
+                    we probably favored it, as did many Norwegians. We felt it would serve stability
+                    in the Nordic area, and thereby strengthen the NATO's northern flank. We did
+                    favor it as a whole, but we didn't push it.</p>
+                <p>
+                    <pb facs="0022" n="Page0022"/>
+                    <hi rend="italics">Q: And then, of course, they voted it down anyhow.</hi>
+                </p>
+                <p>FLEISHER: They voted it down for the second time. They did it twicwith a 20 year
+                    intervening period.</p>
+                <p>Q: We then came to the period where our relations with Sweden deteriorated even
+                    further in '72 when we refused to send ambassadors there. Did we refuse to
+                    receive an ambassador here from Sweden?</p>
+                <p>FLEISHER: I think Debesch remained here for a while and then he went home on
+                    consultation and didn't come back. I was then on the desk and I used to deal
+                    with Leif Leifland, who was the Swedish charge. A rather interesting anecdote.
+                    One day, I received call from the NSC. Palme had done something that made them
+                    mad over there. He said, “Who is our ambassador in Sweden?” I said, “Oh, Mr.
+                    Holland.” He said, “Well, recall him.” I said, “ As a matter of fact he's back
+                    here on consultation.” “Well, don't send him back. Who is the DCM?” I said, “
+                    John Guthrie.” “Call him back.” He said. “He happens to be here on
+                    consultation,” I replied. In fact, he was in my office at that moment. Art
+                    Olson, chief of the embassy political section, became charge and remained so for
+                    quite a while.</p>
+                <p>Q: Yes, he was. I remember that. He was charge there and I was charge in
+                    Copenhagen at the same time. Just after the time I arrived in Copenhagen, the
+                    Danes did vote to join the Common Market. The Norwegians didn't. It was then in
+                    '74 that you went to Stockholm?</p>
+                <p>FLEISHER: Yes. Q: And this time as press attache.</p>
+                <p>FLEISHER: Well, I was the victim of the GLOP. It had been sort of unofficially
+                    agreed that I would get one of the DCM jobs in a Nordic country. But then came
+                    Mr. Kissinger, who put into effect this GLOP (Global Outlook Policy) which meant
+                    I couldn't go to any of the Nordic countries, not even to Northern Europe. It
+                    was then that I came up for reassignment. I was offered going to ISA in the
+                    Defense Department or going to USIA. I went to USIA who were not affected by the
+                    GLOP and they said, “Well, we can send you to Sweden.” So, I went to
+                    Stockholm.</p>
+                <p>
+                    <hi rend="italics">Q: No GLOP for USIA.</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>FLEISHER: No. So, I went there as press attache. It was not one of my better
+                    assignments because I was a round peg in a square hole. I was not really a press
+                    man, despite my newspaper ancestry. My father had had that job about 30 years
+                    earlier. A lot of people reminded me of that. They didn't say so directly, but I
+                    felt that they thought “You're not as competent as your old man was.” Anyway, it
+                    was not one of my better posts. But I had family there. My brother and sister
+                    lived there. My sister was at the time probably the oldest locally employed
+                    American in any of our embassies abroad. She was there for more than 50 years.
+                    She's just recently retired in the last couple of years. She ran the residence
+                    and handled protocol. So, it was nice to be with my family. It was the last
+                    couple years of my father's life. Personally, it was okay, but
+                    professionally...</p>
+                <p>
+                    <hi rend="italics">Q: Did we have an ambassador by the time you arrived?</hi>
+                </p>
+                <p>FLEISHER: No, we didn't, but we got one. That was Strausz-Hupe.</p>
+                <p>
+                    <hi rend="italics">Q: Was there still a lingering hostility over Vietnam and
+                        Nixon wheyou got there?</hi>
+                </p>
+                <p>FLEISHER: Well, not really.</p>
+                <p>
+                    <hi rend="italics">Q: It had disappeared pretty much.</hi>
+                </p>
+                <p>FLEISHER: Because it was something that had been fostered by the left-wing, and
+                    when the left-wing lost interest, the enthusiasm sort of dissipated. Not that
+                    they favored American policy. Just like other European countries, the Swedes had
+                    two views on the United States, one being admiration and the other, envy. That
+                    remains so today.</p>
+                <p>
+                    <hi rend="italics">Q: Yes. What were the problems you had to deal with as press
+                        attache?</hi>
+                </p>
+                <p>FLEISHER: Well, mainly Vietnam. It was still going on and I woulmake speeches
+                    supporting our policy.</p>
+                <p>
+                    <hi rend="italics">Q: Did you travel around the country making speeches?</hi>
+                </p>
+                <p>FLEISHER: Yes, I did. I used every opportunity I could. I knew I was speaking to
+                    a stone wall with the exception of the Conservatives at that time.</p>
+                <p>
+                    <pb facs="0024" n="Page0024"/>
+                    <hi rend="italics">Q: Was there much embarrassment at our diplomatic boycott
+                        there?</hi>
+                </p>
+                <p>FLEISHER: If there was, it was in a very small circle. No, I don't think the
+                    average Swede knew about the boycott or really cared. Their contact with America
+                    was quite different - television, the movies, music, American technology and so
+                    forth. Whether they had an ambassador there in the U.S. or we had one here in
+                    Sweden didn't affect the average person.</p>
+                <p>
+                    <hi rend="italics">Q: There were strong ties between the two countries. There
+                        alwayhave been.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What was the affect of the arrival of Ambassador
+                        Strausz-Hupe?</hi>
+                </p>
+                <p>FLEISHER: Well, it was greeted very favorably. Of course, there was much talk
+                    that now Sweden was being accepted by the Americans. So, yes, it did have a
+                    beneficial effect. It was a good thing for the relations. And Vietnam was over
+                    by then anyway.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have to arrange press conferences for him?</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: And did you write any speeches for him?</hi>
+                </p>
+                <p>FLEISHER: I don't think so. When he came, my time was pretty short. I was
+                    leaving. And I really didn't want to extend in that job. I thought had had
+                    enough and would be glad to get back to the Department and do my own thing
+                    again.</p>
+                <p>
+                    <hi rend="italics">Q: Then you came back to the Department and went to
+                        Personnel.</hi>
+                </p>
+                <p>FLEISHER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What were you doing there?</hi>
+                </p>
+                <pb facs="0025" n="Page0025"/>
+                <p>FLEISHER: Well, we were doing a whole revision of the cone system. My job was to
+                    standardize the political officer position in the Department at the posts
+                    throughout the world. We did a report, which never went anywhere. But it was
+                    interesting doing it. And I am sorry that I never served in Personnel before
+                    because I learned a lot. It really was more a learning experience than what I
+                    contributed there. I don't think what I did amounted to very much.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I had four years there and I know what you mean. I
+                        thineverybody should have a tour there.</hi>
+                </p>
+                <p>FLEISHER: Absolutely. Everybody should have a tour. Everybody should have a tour
+                    in consular work and in administration, as well as serving in his or her area of
+                    specialization..</p>
+                <p>
+                    <hi rend="italics">Q: You were not long in Personnel I take it.</hi>
+                </p>
+                <p>FLEISHER: No. I went to INR.</p>
+                <p>
+                    <hi rend="italics">Q: You went to INR then?</hi>
+                </p>
+                <p>FLEISHER: Yes. That was my last assignment.</p>
+                <p>
+                    <hi rend="italics">Q: Well, when did you go to work for Pat Derian?</hi>
+                </p>
+                <p>FLEISHER: That was when I was at INR. I was her special assistant for
+                    intelligence. I had a small office which included a number of cats and dogs that
+                    the Department didn't know where to put. It was called Global Issues. We had
+                    north-south issues, human rights, terrorism and counterterrorism.</p>
+                <p>
+                    <hi rend="italics">Q: In those days, we didn't know where to put them but now
+                        they'rbig offices in themselves.</hi>
+                </p>
+                <p>FLEISHER: So that's what I did. I was special assistant fointelligence to Pat
+                    Derian.</p>
+                <p>
+                    <hi rend="italics">Q: Did you sit near her or over in INR?</hi>
+                </p>
+                <pb facs="0026" n="Page0026"/>
+                <p>FLEISHER: I sat in INR but I briefed her every morning. I took the intelligence
+                    take to her and briefed her especially regarding matters affecting human rights.
+                    Sometimes I would brief her several times a day and could call her at home
+                    whenever I thought that there was something that she should know about
+                    immediately.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find that the Department bureaus were ready to
+                        cooperatwith you or was it difficult?</hi>
+                </p>
+                <p>FLEISHER: Well, it wasn't easy, it was challenging. My career had been in
+                    political and political-military NATO work and stuff like that. When I went to
+                    see Pat for the first time, she brought this to my attention and I said, yes,
+                    indeed. She asked if I had any reservations. I said, “Yes, I do.” Then she told
+                    me what her ideas were and what she expected to achieve and we agreed we'd try
+                    it out for a while. I really came to admire her. She was dedicated to human
+                    rights as an idealist but learned to be pragmatic and realize what could be
+                    reasonably expected from the bureaus. She learned, and I hope that I had some
+                    influence in this regard, getting her to take half a loaf now and come back for
+                    more later. Here I think I may have served a useful purpose in toning her down
+                    and also in persuading my colleagues in the Department to see her point of view.
+                    She was devoted to some very good causes, and she saved many people suffering in
+                    terrible places with virtually no chance for justice. If there is a Heaven
+                    she'll be there.</p>
+                <p>
+                    <hi rend="italics">Q: What were your relations with the Hill? Did you have
+                        anrelations with the Congress?</hi>
+                </p>
+                <p>FLEISHER: Not then.</p>
+                <p>Q: Or the White House?</p>
+                <p>FLEISHER: No. I did when I was country director with both and afterwards when I
+                    had retired and worked in the Freedom of Information office in the
+                    Department.</p>
+                <p>
+                    <hi rend="italics">Q: What about terrorism? Did that impede much on your
+                        duty?</hi>
+                </p>
+                <p>FLEISHER: Well, I briefed Tony Quainton every morning and wenthrough the take,
+                    but it wasn't a big deal then.</p>
+                <p>
+                    <hi rend="italics">Q: Not as it has become recently.</hi>
+                </p>
+                <p>FLEISHER: No, no, no.</p>
+                <p>
+                    <pb facs="0027" n="Page0027"/>
+                    <hi rend="italics">Q: How long did you do that and then what happened?</hi>
+                </p>
+                <p>FLEISHER: Well, I did that for about three years. At that time the Department
+                    offered some of us with long service and time in grade a golden parachute. That
+                    is to say, an opportunity to retire under more favorable conditions than we
+                    would have had had we stayed the full time we had left. I could have stayed a
+                    couple more years because I was not yet completely out of time. Had I done so,
+                    it would have taken me six years to get the retirement that I was then offered.
+                    So I took it. It also gave my wife an opportunity to do her... She worked for
+                    CIA.</p>
+                <p>
+                    <hi rend="italics">Q: Well, what happened after retirement then?</hi>
+                </p>
+                <p>FLEISHER: Well, I went back to work. When I came back from vacation, the phone
+                    was ringing off the hook and I was asked to come back to my old job and do it as
+                    a WAE. While I was doing that-</p>
+                <p>Q: Your old job where? In the Scan desk?</p>
+                <p>FLEISHER: No, in the INR. Another thing I did there, and that's what brought me
+                    back, was that I contributed to the annual preparations for the UN General
+                    Assembly in IO. I did that until Christmas. Meanwhile, I had applied for the
+                    Freedom of Information job and that came through. So, I went there. It has been
+                    a good job.</p>
+                <p>
+                    <hi rend="italics">Q: Did they put you mainly on Nordic affairs to begin
+                        with?</hi>
+                </p>
+                <p>FLEISHER: I went to EUR first. After a few yearI became a senior reviewer and I
+                    am still there. It has been the longest assignment I ever had. We cover EUR,
+                    including the newly independent states of the former Soviet Union,
+                    political-military affairs, refugees, human rights, and a number of other cats
+                    and dogs.</p>
+                <p>
+                    <hi rend="italics">Q: Well, Eric, I want to ask you, looking back on your
+                        career, do yorecommend this for a young man today, the Foreign Service?</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>FLEISHER: That's something I've thought much about. I have two sons. Both have
+                    had a moderate interest in foreign affairs and in foreign countries. So, I've
+                    given it a great deal of thought. I think that if a person is really very
+                    interested in foreign affairs and/or wants to make a contribution to world
+                    events, very much like a social worker does, that is to say has a certain bit of
+                    idealism, yet can also be pragmatic so that he will not become disillusioned and
+                    disappointed few years down the pike, yes. But otherwise, No! The problems the
+                    family faces, and especially today when women are employed, it's very difficult
+                    to tell a woman or a man in the case of a Foreign Service woman, that their
+                    spouse's career is going to be interrupted for four years while he or she goes
+                    to Pakistan or wherever. You really have to love the job to go into this type of
+                    work.</p>
+                <p>
+                    <hi rend="italics">Q: Be dedicated to it and love it.</hi>
+                </p>
+                <p>FLEISHER: Yes. Q: That's true. Well, thank you, Eric. Any further comments?</p>
+                <p>FLEISHER: No. Looking back, I think it was a great career. I had a lot of fun and
+                    I have the satisfaction of feeling that I made a contribution, however small, to
+                    the events of our times. I can't think of anything I would rather have done.
+                    Perhaps I might have gone back to Japan and run the family newspaper, but that
+                    was not in the cards.</p>
+                <p>
+                    <hi rend="italics">Q: Well, thank you for that. This is Thomas Dunnigan speaking
+                        oJune 17, 2002, ending an interview with Eric Fleisher.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

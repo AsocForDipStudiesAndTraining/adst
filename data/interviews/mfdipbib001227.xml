@@ -1,486 +1,1155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001227">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Robert H.B. Wade </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Robert H.B. Wade </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR ROBERT H. B. WADE</p>
-<p>Interviewed by:  Charles Stuart Kennedy </p>
-<p>Initial interview date:  January 24, 1990</p>
-<p>Copyright 1998 ADST</p>
-<p>[Note:  This transcript was not edited by Ambassador Wade.]</p>
-<p>
-<hi rend="italics">Q:  I wonder if we could start by your giving a little background about where you came from and how you got educated, so people will have an idea of who you are.</hi>
-</p>
-<p>WADE:I was born and reared in a small town in Pennsylvania, Tamaqua, about 100 miles north of Philadelphia.  I attended high school there, and after graduation I went on to Lafayette College in Easton, Pennsylvania, where I took my Bachelor of Arts degree in 1937.</p>
-<p>After graduation, I went abroad for a year's study.  I had won a fellowship, which was administered in those days under the auspices of the Institute of International Education (IIE) in New York, and it provided for a fellowship to go to France for study.</p>
-<p>I chose, of course, to study in Paris.  But everybody chooses that, so I was farmed out to one of the other universities and went to the University of Bordeaux in France for a year's study.</p>
-<p>As it turned out, it was probably a very good thing that I didn't get to Paris because I went to Bordeaux where no one spoke English at all.  And so I spent the whole year speaking nothing but French.  I don't think I spoke a word of English the whole year I was there.  And I did learn to speak French, and went to French classes, and took a degree at the end of the year, which was a Dipl�me des Touts Universitaires, for which I wrote an essay roughly the equivalent of an M.A.</p>
-<p>This whetted my appetite for things French and French literature, so I came back and went to Yale University where I also had a fellowship, a university fellowship, and I took my Ph.D. there in 1942.</p>
-<p>During the last three or four years of my stay there, I also taught at French at Yale College.  I thought I wanted to go into a university career of teaching.  Indeed I think I would have, had World War II not come along.  But with the Draft Board breathing down my neck in 1942, I had to hurry up and get that degree.  I got the degree in June of '42.  I did manage to finish.</p>
-<pb facs="0002" n="Page0002"/>
-<p>While I was putting the finishing touches on my Ph.D. dissertation and still teaching, the Navy came along to Yale, a gentleman named Captain Heinmarsh, who was recruiting for the Japanese Language School.  He said he would take anyone into the program who had a Phi Beta Kappa key or who had been born in Japan.</p>
-<p>Those were the two requirements; you had to have one or the other.  I did happen to have a Phi Beta Kappa key.  I didn't know a word of Japanese, had not been born in Japan, but I interviewed him.  I thought this might be an interesting assignment for the war, and he promised all sorts of things for the teaching of the Japanese language.</p>
-<p>He said that, indeed, we were going to use the most advanced techniques possible, and that we would wake up in the morning thinking Japanese after having heard it in our dreams and sleep.  He made this sound very romantic and very worthwhile.</p>
-<p>So, of course, a number of us there signed up from Yale.  We had quite a contingent from Yale that went out to the Japanese Language School, which was supposed to be in San Francisco.  But at that time they had to move the Nisei out of California, you'll recall.</p>
-<p>
-<hi rend="italics">Q:  The Nisei being the Japanese Americans born in the United States.</hi>
-</p>
-<p>WADE:  So they had to reestablish the school.  They put it in Boulder, Colorado, at the University of Colorado.  I spent a year there studying Japanese.</p>
-<p>
-<hi rend="italics">Q:  I might add here that I went to the Army Language School and took Russian in 1951, and I got exactly the same pitch about living and dreaming and breathing Russian.</hi>
-</p>
-<p>WADE:As it turned out, it wasn't done that way at all.  It was the most disappointing experience.  As one who had studied languages, taken a Ph.D. in French language and literature, and taught French, I was very disappointed in this.</p>
-<p>We learned everything by rote.  One difficulty was, as I told you earlier, we had only a handful of people in this country, native Americans, who knew Japanese.  I think we had maybe four of five Naval Attach�s who had studied in Japan.  And, of course, they weren't available to teach us.So what the Navy had to do was bring in these Nisei.  They picked up truck drivers, gardeners, anybody they could lay their hands on, who spoke Japanese.  And of course, they did speak Japanese well, some of them, but they had never taught anything.  They knew nothing about teaching.</p>
-<pb facs="0003" n="Page0003"/>
-<p>I remember when we were learning all this by rote, I used to say, “Can't you get us a grammar book, so that we can learn some grammar and don't have to learn everything by rote?  We could at least rely on some rules for learning the language.” I distinctly remember one of the teachers telling me, “Well, there is no grammar in Japanese.”</p>
-<p>
-<hi rend="italics">Q:  Any language has construction and grammar.</hi>
-</p>
-<p>WADE:  They didn't know.  They could speak Japanese, they could write Japanese.</p>
-<p>Another thing we did, we spent an inordinate amount of time learning to write Japanese.  And it's a very difficult language, as you know, to write.  We had to learn how to write thousands of these Kanji, the Japanese characters.</p>
-<p>That proved totally useless when we got out in the field.  If they had thought about it beforehand, they wouldn't have done it this way, because who would we be writing to in Japanese?  As language officers we wouldn't be writing to anybody.</p>
-<p>
-<hi rend="italics">Q:  This is a familiar concept, I'm afraid.  That's the academic not really thinking in terms of the practical.</hi>
-</p>
-<p>WADE:  Well, these weren't even the academics.  Heinmarsh, I think, knew Japanese.  His intentions were all right, but once he had recruited, he had nothing to do with the program.  And I think he meant it to be better, but it wasn't.</p>
-<p>We had a woman running it who had lived in Japan.  She was fine, herself, but she simply couldn't get a faculty together that was worth its salt.  So it was a disappointing experience.</p>
-<p>We did learn some Japanese and went out in the field.  I could read it during the war, and we either were translators or interpreters when we'd get out in the field.  We spent too much time learning to write, which we never used.</p>
-<p>After World War II, when I finished my assignment in the Pacific, I was first stationed in Australia at MacArthur's headquarters in a pool of Japanese language officers that included our main Navy, British officers, Australian officers, Dutch, and maybe a few others.</p>
-<p>It was called ATIS, Allied Translators and Interpreters Services.  All of the language people in the Pacific were put in this pool.  And when there was an assignment in the field, they just dipped into the pool and took you out, regardless of your nationality or service.I was chosen to take part in the Leyte invasion.  I was assigned to Tenth Corps of the Army, even though I was a Naval officer.</p>
-<pb facs="0004" n="Page0004"/>
-<p>They asked me what military training I had had, in order to participate in this invasion, and I said, “Well, really, I was in language school; we didn't have any military preparation.” They said, “Well, you'll have to have some.”</p>
-<p>So they sent me out one afternoon to a rifle range.  That was the extent of my military preparation.  I shot for the afternoon on the rifle range.</p>
-<p>I was given a carbine and got into the field.  I was told how to take this apart and put it together.  I had to carry it the whole time I was in the field, but, fortunately, I didn't have to shoot it, because I'm not sure that I would have hit the target.</p>
-<p>Anyway, after the Philippines, my time in the Pacific was up.  The Navy had a rotation policy, contrary to the Army, and after two years you were brought back to the States.</p>
-<p>I was brought back to Washington, where I met my wife who happened to be a WAVE officer during the war.  She was in Communications Services.</p>
-<p>Then at the end of the war, I had to make a major career decision.  I happened to be in the Office of Naval Intelligence (ONI) at the end of the war, doing general intelligence work on the Far East.</p>
-<p>I was briefing the head of ONI daily on what the major events were in the Far East during the preceding 24 hours, going through cable traffic, newspapers, and everything else to put these stories together.  I found that a rather interesting job.</p>
-<p>When it came time for me to leave, they said they would like me to stay on as a civilian — would I be interested.</p>
-<p>I had fully intended to go back to a teaching career, because that's what I set out to do.  Indeed, when I got out, Yale University offered me a teaching position.  But it was coming back to Yale at the magnificent salary of something like $2,800.  That was worth a lot more in those days, but still it was a very small salary.  The Navy offered me practically three times as much.</p>
-<p>We were about to get married, my wife and I, and I thought, gee, I don't know, this is going to be rough trying to go back to a salary like that.  On the other hand, I am interested in an academic career, but do I want to make the sacrifice?  Also I was enjoying what I was doing.  If I hadn't enjoyed was I was doing, it would have made a difference.  But I was, so I decided to stay on.</p>
-<p>I stayed on in Naval Intelligence for several years, doing that same kind of general work.  I was Chief Coordinating Analyst for the Far East.</p>
-<pb facs="0005" n="Page0005"/>
-<p>
-<hi rend="italics">Q:  Because we're concentrating on the foreign affairs side, did you get any feel for how reporting was coming out of embassies as compared to military reporting?  How did they compare and contrast?</hi>
-</p>
-<p>WADE:  This was the end of World War II and right after, the period leading up to the Korean War.  We had a heavy military presence in the Far East, in Japan.  The Supreme Commander of Allied Powers, General MacArthur, was doing most of the reporting out of Japan.  We got a few things eventually.</p>
-<p>
-<hi rend="italics">Q:  So, from a practical point of view, the Foreign Service straight diplomatic side didn't weigh very heavily at that time in the Far East.</hi>
-</p>
-<p>WADE:  Not too heavily in the Far East.  And then after World War II, you had the Red takeover of China, which was a progressive thing by which the Kuomintang were forced out of China.  Again, the military were reporting this for civilians.</p>
-<p>
-<hi rend="italics">Q:  So this must have been your major concentration, wasn't it, what was happening in China at the time?</hi>
-</p>
-<p>WADE:  At the time, yes.  I can distinctly recall keeping a map for the head of ONI, and showing them each day how the situation was changing.  The map was getting redder and redder every day, until the whole country was finally red.</p>
-<p>But in Japan, also, you had MacArthur as the dominant influence there, so it was more of a military situation than political.</p>
-<p>
-<hi rend="italics">Q:  You were doing this from when to when in ONI?</hi>
-</p>
-<p>WADE:  I was there until the early '50s.</p>
-<p>
-<hi rend="italics">Q:  I think I have you from '46 to '54.</hi>
-</p>
-<p>WADE:  In early '54 I went to the Office of the Secretary of Defense.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  Why don't we talk first of the ONI, because later you became involved in the more civilian, State Department side.  How did the Korean War hit the Navy, from your particular vantage point, particularly on the intelligence side?</hi>
-</p>
-<p>WADE:  It was mostly an Army operation, so most of the reporting came out of the Army.  In ONI we got very little reporting from the Navy.  We were concerned more about the Army operations.</p>
-<p>
-<hi rend="italics">Q:  Were there any other concerns of the Navy right after the Korean War started?  Did you get involved in the Taiwan Straits problem at the time?</hi>
-</p>
-<p>WADE:  Quemoy and Matsu were much in the news.</p>
-<p>
-<hi rend="italics">Q:  Were you getting much good information out of China?</hi>
-</p>
-<p>WADE:  Yes, we got pretty good information.  I think we felt we knew what was going on.  I can't recall now, offhand, when we had to close our embassy in China.</p>
-<p>
-<hi rend="italics">Q:  I think just before the Korean War we were moving out.  The last ones were probably out around early 1950.  In Shanghai, there was a strained period when we were hanging on.</hi>
-</p>
-<p>WADE:  That's after the Communists had taken over and that operation was finished.  Then the Communists went into North Korea and helped the North Koreans.  That was our big concern, and whether that would spill over into South Korea.</p>
-<p>
-<hi rend="italics">Q:  Then I have you from 1954 to 1961.</hi>
-</p>
-<p>WADE:  I went to the Office of the Secretary of Defense.  I was located in what is called International Security Affairs (ISA).  They sometimes call it “The Little State Department.” And there I was Director of the Office of National Security Council Affairs.</p>
-<p>The National Security Council (NSC) under the Eisenhower Administration was differently set up than it is today.</p>
-<p>It had, under the Council itself, a Planning Board chaired by the National Security Advisor, who in those days was Bobby Cutler, a Boston fiduciary as he liked to call himself, a Boston banker.  He had been president of the big banks in Boston.  Ike knew him, and I think liked him, and brought him down to head up this Planning Board.</p>
-<pb facs="0007" n="Page0007"/>
-<p>This brought together State, Defense, the Joint Chiefs of Staff, and CIA.  Treasury was brought in later, and the Office of Defense Mobilization (ODM).</p>
-<p>I was the chief liaison between the NSC staff and the Department of Defense.  My responsibilities were to go to the Planning Board and back up the Defense member, to be his deputy when he wasn't able to go, and also to be in working groups below that to represent the Department of Defense. Within the Department of Defense my function was to pull together the views of the Department of Defense with respect to National Security Council papers, the views of the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Joint Chiefs of Staff, and any relevant parts of the Office of the Secretary of Defense, including ISA, “The Little State Department.” And then to brief the Secretary of Defense once a week.</p>
-<p>We had regular weekly meetings, on Thursday, of the National Security Council under Eisenhower.  We briefed the Secretary of Defense the day before for this meeting, which usually had a number of papers we had prepared, wrapped in the working groups in the Planning Board and then gone up.  Ike was very set on staff work.  He wanted very good staff work coming in.  And this was a system that worked perfectly for him, I think.  He liked it, and it had many advantages.</p>
-<p>We had, of course, in those days policy disagreements between the Department of Defense and the Department of State.  This was inevitable on some of these issues.  There would be splits put up to the President on these issues.  One side would take one point of view and the other department another.  Then the President would decide.  These were carefully drafted, so that he could see the differences.</p>
-<p>Ike always wanted the views of the military, independently of anybody else.  So the Joint Chiefs of Staff, as a corporate body, would always give their views, through the Secretary of Defense, to the National Security Council.  The chairman would attend the meeting also.</p>
-<p>These were circulated to the Department of State and others, so that everybody would know what the military implications were of any given policy.</p>
-<p>This I did for eight years.  It was a fascinating job, because it showed me, better than I had ever seen before, how the U.S. Government works at a high level.</p>
-<p>
-<hi rend="italics">Q:  Can you think of any issue, or several issues, that caused either a split or about which there was a lot of discussion on policy that helped you figure out how these things worked?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>WADE:  I remember on the overall national security policy, our policy toward the Soviet Union, the Defense Department was always interested in a tougher policy, a more confrontational policy than the State Department was.  The State Department was more cautious; they wanted more prudent things.  The military were always advocating a slightly stronger position.  This was true in other areas, too.</p>
-<p>We used to take up policy papers.  I remember we had a policy on Italy, a U.S. policy on Italy.  In those days I think Italy may have still been receiving U.S. military assistance from the United States.  And here you had a kind of reversal of the roles. The State Department was always very keen on having military assistance go into these countries.</p>
-<p>The Defense Department was less enthusiastic about it.  They thought the State Department was using this as a crutch for foreign policy.  The Defense argument then was that military assistance should not be used as a crutch for foreign policy, and they thought that the State Department was using it as such.</p>
-<p>
-<hi rend="italics">Q:  How would this be a crutch?</hi>
-</p>
-<p>WADE:  That we were propping up a government or ingratiating ourselves with a government by the use of economic and military assistance when the government ought to be getting its own act together, making more of an effort, itself, for example in the military field, and shouldn't be so reliant on U.S. military assistance.</p>
-<p>
-<hi rend="italics">Q:  Were you involved in the decision process, or monitoring the situation in Vietnam just before Dien Bien Phu?</hi>
-</p>
-<p>WADE:  Yes, yes we were.  I remember the decision was very much against doing that.  Ike, himself, was very much against getting involved in a land war in Asia.</p>
-<p>
-<hi rend="italics">Q:  How about in the Department of Defense?  Was there any feel for going in there?</hi>
-</p>
-<p>WADE:  Not really any feel for going in there, coming to the aid of the French.  It was discussed, but I don't think it was a prolonged discussion because the feeling was not very much for it.</p>
-<p>Another issue that came up at that time, I recall, was that De Gaulle made a pitch to the United States to have a special relationship with the United States, much as the British had.  There was some disposition in the United States Government to consider it at least, but it was turned down in the National Security Council.  Ike went along with that decision.</p>
-<pb facs="0009" n="Page0009"/>
-<p>In retrospect you can ask yourself whether it was a wise one or not, whether we might have been able to do more with the French, and keep the French more closely tied to NATO, if we had developed the special relationship.  They kind of resented our special relationship with Britain.Those were some of the major things.  The Suez crisis...</p>
-<p>
-<hi rend="italics">Q:  I was going to ask about the Suez crisis.  This was October '56 or '57.  But you had the Hungarian uprising and the Suez crisis.  These two, how do they play; how were they seen?</hi>
-</p>
-<p>WADE:  Well, again, in the case of Hungary, the uprising there, there was a little more disposition, I would say, in the Department of Defense to go in and do something about that.</p>
-<p>But the State Department was not anxious at all to get us involved in that.  They felt the consequences would be a war with the USSR.  And so, finally, it was turned down on that basis.  But there was a little more predisposition in Defense to do something about that.</p>
-<p>The Suez crisis was a major event and was embarrassing to the United States, as I recall, because we knew nothing about it.  It had been pulled off without our knowledge.  There was considerable resentment about that for awhile.</p>
-<p>It affected to a certain extent, I think, our special relationship with the British and the Israelis.  And the French, too.  We weren't as close to the French ever as the British, but with the French, too.</p>
-<p>These are the kinds of issues that came before the National Security Council.  It was a more structured organization, in a way, than we had subsequently.</p>
-<p>When Kennedy came in, he threw the whole system out that I had, and started something new, which had disastrous consequences, at first, with the Bay of Pigs.</p>
-<p>The government wasn't organized to deal with it.  I think he later got his act together a little bit.  Every President, though, has to use this National Security Council in the way he sees fit.</p>
-<p>One thing that I will say about the Eisenhower use of it, he was the first one to have a National Security Advisor.</p>
-<p>The Council had been set up under Truman, but Jimmy Lay, the Executive Secretary, functioned as the Advisor to the President.  He was a high-level civil servant, and Eisenhower thought he wanted his own man in there, somebody of his own political persuasion to help him, so that's why he brought Cutler in.</p>
-<pb facs="0010" n="Page0010"/>
-<p>The first National Security Advisor, or Advisor to the President for National Security Affairs, as he was called in those days, Bobby Cutler, would never have dreamed of crossing John Foster Dulles in the way that subsequent National Security Advisors have crossed swords with Secretaries of State.</p>
-<p>Great friction has developed that did not exist in those days.  In the first place, I don't think John Foster Dulles would ever have allowed it.  He would have cut Cutler's head off if he had tried it.  But Cutler had the good sense to know that his role was a coordinating one.Ike had the good sense to know that the government had to function in this way, and that you couldn't have this rivalry.  If it had started, I'm sure he would have put his foot down on it.</p>
-<p>
-<hi rend="italics">Q:  Well you also find later Secretaries of Defense (Casper Weinberger's just one example, but there have been others) that almost pursued the wrong foreign policy.  Did you have a feeling that there were constraints on the Defense Department to stick to its position?</hi>
-</p>
-<p>WADE:  Yes, I think you're absolutely right on that.  The Secretaries of Defense I worked with were Charlie Wilson, very briefly.  I came in at the end of his tenure.  Then I worked with Neil McElroy and Tom Gates.  He was the last one under the Eisenhower Administration.</p>
-<p>
-<hi rend="italics">Q:  You didn't have Louis A. Johnson; you were fortunate.</hi>
-</p>
-<p>WADE:  No, no, that was later, the Vietnam era.  I had those three.  Now the two I knew best were Neil McElroy and Tom Gates.  Neither one of them would have dreamed of taking on any of the responsibilities of the Secretary of State, or speaking out openly on subjects which involved the State Department.</p>
-<p>I remember sometimes at lower levels we would stake out positions at variance with State.  We would present them to the Secretary, and he would say, “Well, you know, this is really the province of the Department of State, and I don't think I'm going to back you up on this.  I'm going to let the State Department have its say.” They would be more inclined to do that.  Not that they always did it.  They often did take a stand at variance, but not strong stands that involved the political end of things.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  You served on both sides in State.  The Department of Defense has their “Little State Department,” the ISA, and they've had it for some time.  I had never dealt with it, and I remember being asked to do efficiency reports for Foreign Service officers assigned there.  I was just flabbergasted to see how big the apparatus was.  Now granted, this was in the Reagan Administration, but I would think that having an organization as big as that within the Pentagon dealing with foreign affairs would tend to have its own momentum and its own policy, irrespective of anything else.  When you get a bureaucracy, when you have something like that, were you feeling any of this?</hi>
-</p>
-<p>WADE:  I was feeling the beginnings of it.  The State Department and, indeed, the Joint Chiefs, the Joint Staff, itself, at times would want to express strong political views on things.</p>
-<p>I think it has grown tremendously since that time.  It was pretty big even in those days.  But now the regions are all represented by a Deputy Assistant Secretary of Defense, and so forth.  They weren't in those days.  That started to grow under McNamara and Paul Nitze, who came in as Assistant Secretary of Defense for ISA in the Kennedy Administration.</p>
-<p>
-<hi rend="italics">Q:  How was the Kennedy Administration, as you saw it in the Department of Defense?  Sometimes when opposing parties come in, there's almost a hostile takeover.  How did things work as you saw them?</hi>
-</p>
-<p>WADE:  This was a very hostile takeover, very hostile takeover.  I'll tell you something.  Eisenhower was a very kind man, I think, and a very trusting man.  He wanted to be helpful to the next administration.  He was not terribly partisan as you know.</p>
-<p>What he did in his last year in office, and he instructed us in the NSC operation to do, was to revise all the NSC policies, which he considered bipartisan, and get them in good order, up-to-date for the next administration.  He thought this was one of the kindest things he could do for any incoming administration, Republican or Democrat.</p>
-<p>So when the Democrats took over, he naturally handed over all of these policies.  Well, they couldn't have cared less.  They threw out every single policy.  They wanted nothing to do with it, absolutely nothing to do with it.  All you had to do in the Department of Defense was say something was done under the Eisenhower Administration and they would want to reverse it.</p>
-<p>I left shortly after that to go over to State, because it was a chaotic situation in Defense for a long time, absolutely chaotic.</p>
-<pb facs="0012" n="Page0012"/>
-<p>They threw out the Planning Board.  They threw out the Operations Coordinating Board, which was the operating arm of the government to carry out national security policy, headed up by the Vice President.  That all went out, which was all right, because, as I say, every president should be able to use the system in his own way, but they didn't have anything to replace it.</p>
-<p>They were floundering around for a long time.  I think this resulted in the Bay of Pigs disaster, because there was no coordinating mechanism in government.  And you do have to, in a government as big as ours, with interests as diverse as ours, have something to pull them together.</p>
-<p>They were then pulled together, finally, by McGeorge Bundy in the White House.  This tended to increase the power of the Special Assistant for National Security Affairs, or the National Security Advisor as he subsequently became known.</p>
-<p>You had, from that time on, the build-up of the powers of the National Security Advisor, which reached its culmination under Kissinger.  He became a focal point, whereas there had been a mechanism before and the power was somewhat disbursed.</p>
-<p>But it was a hostile takeover.  I remember it distinctly.  The new people came in.  They were not disposed to look with favor on anything that had been done previously.</p>
-<p>As I say, all the papers went out.  They said, “These are of no concern to us.” They didn't want to even look at them.  They wanted to start afresh.  So all that work, really, it was almost a year's worth revising all those papers, was kind of wasted effort.  And Ike was very insistent on good staff work.  He wanted everything in good, apple-pie order.</p>
-<p>
-<hi rend="italics">Q:  It's sad, isn't it.  One looks at this over the period of years, a time that is wasted in massaging egos so that they can each feel as though they have created something and owe nothing.  We are talking about the work of professional staffs who are going to look at the same problems.  The problems don't change, and the answers often don't change that much.</hi>
-</p>
-<p>WADE:  That was, of course, the chaos that reigned.  There was real chaos in the government, at least in the Defense Department during that first year of the Kennedy Administration.</p>
-<p>That's when I went over to State.  I was really very happy that an opportunity arose to go over there, because it was much more orderly in State.  I didn't feel the confusion that there was in Defense.  I'm sure Defense ultimately got straightened out, but you had a very strong ego heading up the Department of Defense.</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  We're talking about Robert McNamara.</hi>
-</p>
-<p>WADE:  Robert McNamara.  He did not hesitate to assert himself on any issue and had his own ideas as to what he wanted done.</p>
-<p>There was also great tension between this new crew coming in and the professional military.  The military did not like the new team.  They let it be shown on many occasions.  This was unfortunate, too.</p>
-<p>I don't think McNamara ever did win over the trust of the military.  They had to go along with him on certain things.  He brought back Max Taylor to help him.</p>
-<p>
-<hi rend="italics">Q:  That's [U.S. Air Force] General Maxwell Taylor.</hi>
-</p>
-<p>WADE:  He was more in tune with McNamara than some of the other military leaders, but the others had a rough time at first.</p>
-<p>
-<hi rend="italics">Q:  How did this switch come over?  You went over to...?</hi>
-</p>
-<p>WADE:  Then the Bureau of Educational and Cultural Affairs, CU as it was called in those days, the functions of which have since been transferred to USIA.  That was a very large bureau, the only operating bureau in the State Department at that time.  Do you remember it at all?</p>
-<p>
-<hi rend="italics">Q:  Oh yes, I remember CU very well.</hi>
-</p>
-<p>WADE:  I went over to head up their Multilateral Educational Affairs.  One of my chief responsibilities was UNESCO, because that was the multilateral educational organization that was the most important in those days, and still is.</p>
-<p>But, of course, there were educational activities under the OAS and various other organizations, which we watched, too.  I had other responsibilities, but my chief one really was the backstopping in the bureau of UNESCO.</p>
-<p>I served in that job about a year and a half or two years, during which I used to go over to UNESCO to attend Executive Board meetings.  This is how I became immersed in UNESCO affairs.</p>
-<pb facs="0014" n="Page0014"/>
-<p>I would spend a couple of months of the year over there attending Planning Board meetings or meetings of the General Conference.  I got to know the workings of the organization, the working of the mission.</p>
-<p>Then an opening occurred in 1964 for me to go over there myself.  I was asked to go over to replace the Permanent Representative, who was a political appointee.  There had been two political appointees in a row, both serving 18 months.  The mission was in terrible shape.</p>
-<p>
-<hi rend="italics">Q:  Before we get to that, I wonder if we could go back to talk a little about when you were in CU.  What were our main interests, say with UNESCO.  We're talking about the 1961-64 period.  How do we view UNESCO, particularly your area?  What were our concerns with that?</hi>
-</p>
-<p>WADE:  The '60s were what some people have called “The Golden Era of UNESCO.” It was in its heyday then.  It was doing useful work, and we viewed it rather positively.We had a large national commission, U.S. National Commission for UNESCO.  It was also one of my responsibilities in the department to try to service this, and to supervise the staff that serviced it.</p>
-<p>That commission was set up by Act of Congress, back in the days when UNESCO was started, and had a hundred somewhat powerful citizens on it in the fields of Education, Science, Culture, Mass Communications, and Social Science.</p>
-<p>They were all enthusiastic supporters of UNESCO, because UNESCO was engaged in those days in quite useful work.  So I would say that our attitude toward UNESCO in the department, and the government generally, was quite positive.</p>
-<p>There were things about the organization that we obviously didn't like.  There were problems, but these were minor compared to the problems that we later encountered.</p>
-<p>
-<hi rend="italics">Q:  Later it became almost a swear word.</hi>
-</p>
-<p>WADE:  That's right.  The organization went out of control.  It was a bad word.  It still is to a certain extent.</p>
-<p>
-<hi rend="italics">Q:  So you went there in 1964.  You were saying that things were in pretty bad shape.</hi>
-</p>
-<p>WADE:  Well, yes.  I was perfectly content with my job in the department and going over there occasionally.  But the Planning Board member for the United States at that time was one William Benton, who had been an Assistant Secretary of State and one of the founders of UNESCO.  Do you remember Bill Benton?  He was Assistant Secretary of State for Public Affairs.</p>
-<pb facs="0015" n="Page0015"/>
-<p>
-<hi rend="italics">Q:  I think so.  Was he of Benton and Bowles?</hi>
-</p>
-<p>WADE:  He was the Benton of Benton and Bowles.  That's right.</p>
-<p>
-<hi rend="italics">Q:  This was a major advertising agency.</hi>
-</p>
-<p>WADE:  And then he was later publisher of The Encyclopedia Britannica, which he owned.  He had gone back to UNESCO.  He was asked by Johnson to go back and be the Planning Board member after all these years of absence.</p>
-<p>I still recall when he went back, he said he felt like Thomas Jefferson walking through the walls of the Pentagon (as Thomas Jefferson would if he had come back to Washington and tried to walk through the walls of the Pentagon).  UNESCO was such a different organization.  He had seen it at its very inception in London in 1945, I guess it was.  He was quite a vigorous guy, and he was not satisfied with out mission over there.  He had some political clout, too, because he was a very wealthy man and a contributor to the presidential campaign.</p>
-<p>I did not know this until later, but he went in and raised hell with Kennedy about the state of our mission over there.  He had contributed to Kennedy's campaign, so he could do this.  He said, “I'm not satisfied.” And Kennedy said, “Yes but he's a political appointee, and the incumbent has given money.  I don't know that I can do this.  I don't know that I can remove him.”</p>
-<p>During the conversation, Benton told me, the President set out and asked how much Crane Houseman had given to the campaign.  And they looked it up and came back and said $75,000, which in those days was a pretty sizable contribution.  So, Kennedy was reluctant to remove him for that reason.  I don't know what Benton had contributed, maybe more, but he got his way.  He had him removed.  He thought he was totally incompetent.  He told Kennedy this.  He said, “He's totally incompetent.”</p>
-<p>So then they wanted some professional to go over and pick up the pieces, and try to put the mission back together.</p>
-<p>In the department we sometimes wouldn't hear from the mission for weeks on end.  We didn't know what was going on.  They turned to me, as the professional of the department, and said, “Why don't you go over and pick up the pieces.” To tell you the truth, I was not particularly anxious to do this.  I knew the job would be to put it back together.  I had just gotten everything organized in the department.  I was happy with the operation here.  My wife was doing interior decorating at the time, and she had her own little business</p>
-<pb facs="0016" n="Page0016"/>
-<p>[TAPE ONE, SIDE B INAUDIBLE FOR BRIEF TIME]</p>
-<p>WADE:  I was going to tell you about Abu Simbel.  UNESCO got this operation going with a plan to cut up the temple into a thousand pieces and relocate it several hundred feet higher.  I had the privilege of seeing this temple when it was cut in the thousand pieces lying on the ground before the waters [of the reservoir behind Egypt's Aswan High Dam] had risen.  I thought, my golly, will they ever get that thing together again?  Well, they did, and I went back for the dedication ceremonies.</p>
-<p>Luke Battle, with whom I was associated in CU, had been the Ambassador to Egypt, and he came back for the dedication.  He and I went down to represent the United States at the ceremony for the dedication of Abu Simbel.  It was magnificent to see this thing put back together on high ground.</p>
-<p>An Egyptologist with the Louvre, who was there, told me that he could not see that that thing had ever been disturbed.  He said, “It looks exactly the same.” One of the remarkable things about it was that the seaming of the stones was done by unskilled, Nubian workers, whom they had taught how to do this.  And it was done so beautifully.</p>
-<p>
-<hi rend="italics">Q:  Their ancestors had probably put it together in the beginning.</hi>
-</p>
-<p>WADE:  That's a good point.  That may have been the reason.</p>
-<p>Anyway, this is an example of the type of thing that UNESCO can do well.  They later saw Philae, another temple, restored.  Some of the other temples along the Nile were saved also.</p>
-<p>Angkor Wat [ancient Khmer temple in Cambodia], UNESCO has been instrumental in helping to restore.  This is the kind of thing they can do well in the cultural field, as well as bring ministers of culture from all over the world together to discuss cultural matters.There are five disciplines:  Education, Science, Culture, Mass Communications, and Social Science.</p>
-<p>Mass communications they got into because UNESCO from the beginning was committed to the free flow of information.  That was one of the things that people like Bill Benton, who was there at the founding, insisted on, and Archibald MacLeish, who was there, insisted on and got written into the constitution.</p>
-<p>As a result of this, you got a Department of Mass Communications.  This was fine, and it has done some useful work.  But in later days, and there was just a rumbling of this when I was there, they got into the idea of state control of information.</p>
-<p>
-<pb facs="0017" n="Page0017"/>
-<hi rend="italics">Q:  That's been the most controversial part of the whole UNESCO.</hi>
-</p>
-<p>WADE:  That's right.  This was a disaster as far as the United States was concerned.  There was just a faint rumbling of this while I was there.  But it wasn't a serious problem.</p>
-<p>While I was there, the Director General was Rene Mailleux, a French intellectual who was also a very good administrator.  He brought unusual talent to the organization and was a very, very able man.  He would not allow the thing to get perverted.  He had his critics, too, in this country.  But, by and large, he had a lot of support.  He would not allow the organization to become perverted in the way that it did later on.</p>
-<p>There is that potential for perversion with the communications field.  Similarly, social science.  They got into social science because it was considered an offshoot of the science field.  If you were in natural sciences, you ought to be in the social sciences, too.  So this came along.</p>
-<p>Every country has its own idea about social science problems.  And there's not the unanimity of opinion on them that there is in other areas.  It has been a troublesome area for the United States on many occasions.</p>
-<p>UNESCO, because of its constitution, which starts out: “Since wars begin in the minds of men, it is in the minds of men that the defenses of peace must be constructed...”, felt that this statement gave them some license to go fishing in the peace field.  This is very attractive to an international organization, because if you get into this area, which has all sorts of political overtones and mission, you enhance your prestige.</p>
-<p>We kept pointing out that this was the province of the United Nations, itself, and that we would be trespassing if we got there.  Nevertheless, UNESCO got itself involved, even while I was there, in peace research, arms control and disarmament studies, the economic consequences of disarmament.</p>
-<p>Some of these things were semi-legitimate, like the economic consequences of disarmament, but it would have been wiser to leave it all to the United Nations and stay out of the field.  But they got into it.</p>
-<p>This tended to be a controversial area, particularly between the Soviet Union and us, in UNESCO.  The Soviets were always pushing this, thinking they could make political capital.  We were getting involved in the Vietnam War while I was there, too, and the Soviets thought they could make propaganda out of our involvement by pushing peace research and disarmament.</p>
-<p>Those are the areas in which UNESCO was operating when I was there and, as I say, in most of them doing credible work.</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q:  How did you view the Soviet Union at the time?  The Soviet Union was a member.  Were they serious about the goals, or were they using this purely as a tool for a purpose other than the stated purposes of UNESCO?</hi>
-</p>
-<p>WADE:  I think both were true.  I think they were serious to a certain extent for what they could get out of the organization, and they had certain things that they were interested in.</p>
-<p>Their scientists were genuinely interested in this.  They brought their astronauts [Cosmonauts] to UNESCO to show them off.  They were very proud of their accomplishments.  We brought ours later, too.</p>
-<p>They had some legitimate goals and interests, but they also used it for propaganda purposes.  They also, I knew, had KGB agents on the staff of the mission and were using it for activities other than what was ostensibly the purpose of the organization.</p>
-<p>Our relations with the Soviet Union were very strained.  This was the height of the Cold War.  I know the Soviet Permanent Representative used to come to me and say, “There's only one issue on which I can really cooperate with you, and that's the budget.” And that was true.  They were against increases in the budget for much the same reason we were.  But otherwise there was very little that we could agree on.</p>
-<p>
-<hi rend="italics">Q:  How about relations with the State Department.  That is always important to any mission abroad.  How did you deal with them?  You'd come from the office, but were you getting what you wanted out of the State Department?  Was there interest in what you were doing, or was it sort of grudging?</hi>
-</p>
-<p>WADE:  There was interest in CU in what we were doing, because that was the Bureau of Educational and Cultural Affairs.  There was perhaps less interest in IO, (the International Organization that deals with the United Nations and the specialized agencies), less interest because they had certain responsibilities.</p>
-<p>I worked for both bureaus in the field.  CU had the substantive interest.  IO had the budget and political interest.</p>
-<p>IO had perhaps less interest in the substance, much less interest in the substance.  And they felt that some of the political issues in UNESCO were annoying.  But they supported it, except that they were dead set against these budget increases.  And this always caused problems.</p>
-<pb facs="0019" n="Page0019"/>
-<p>On the other hand, the National Commission for UNESCO, which is this private group of a hundred citizens, a pressure group, always felt the budget was grossly insufficient and should have been increased.  But they didn't have the responsibility for coming up with the money.  The IO did — for getting it out of the Congress.</p>
-<p>
-<hi rend="italics">Q:  Did you find yourself getting instructions from Washington about doing things you thought were more of a political nature rather than going along?  Say, today we're pushing support for Vietnam — so do something here.  I mean was Vietnam an inhibitor?</hi>
-</p>
-<p>WADE:  Vietnam was a great inhibitor.  But it was a subject that we left untouched to the extent we could, because the moment you raised it, you got an awful lot of flak, either at a General Conference, at an Executive Board meeting, or even at a committee meeting of UNESCO.  It was a subject you didn't bring up.  The department never instructed me to bring it up at any point.  They knew the wisdom of keeping quiet about it in an international organization.</p>
-<p>Now it did come up, because others would raise it.  In the Executive Board meeting I would have to ask for right-of-reply to defend our position.  In the General Conference it would come up.  There was strong feeling in the world against that war, you know.</p>
-<p>
-<hi rend="italics">Q.  How about the other bone of contention in multinational things, our support of Israel.  Was this a problem for you?</hi>
-</p>
-<p>WADE:  There were at times attempts, as in the United Nations, to brand Israel as an aggressor or to pass resolutions which were inimical to Israel.  We always were able to get those defeated, or get those stopped before they got out on the table.</p>
-<p>Unfortunately, while I was there, the Israelis were not cooperating with us in UNESCO to the extent to which they should.  After all, we were their biggest supporters.  They should, I think, have given more support.  They would never vote with us, for example, on the budget or things like that.  They gave us support when they wanted to, and when they didn't, they didn't.</p>
-<p>
-<hi rend="italics">Q:  But you didn't feel that we were able to use what amounted to tremendous clout with the Israelis.  I mean, after all, we were supporting them.  Without the United States, Israel probably wouldn't exist.  But we weren't using that to make them vote with us?</hi>
-</p>
-<p>WADE:  We didn't use it, in retrospect, maybe as much as we should have.  The pressure for that would have had to come from Washington.  For reasons I'm not familiar with, they didn't choose to exercise it to the extent they might have.</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  How about Congress.  Did you have any problems with members of Congress coming over, or Congress as a group passing resolutions giving any problems?</hi>
-</p>
-<p>WADE:  No, we had very good support from Congress.  We used to get congressional visits.  I recall Bob McClury, who was a congressman at that time, used to come over periodically on some educational meetings of the universal body of legislators.  I forget what they call that.</p>
-<p>
-<hi rend="italics">Q:  International Parliamentary Union.</hi>
-</p>
-<p>WADE:  That's right, IPU.  He used to come over on that to educational meetings.  He was chairman for a number of years of the Educational Committee.  He was always very interested in the work that UNESCO was then doing, and was very supportive of our work.</p>
-<p>We used to have congressional delegations also come over for the general conferences, which were held every two years.  I recall Chuck Percy came over on one of those.</p>
-<p>
-<hi rend="italics">Q:  He was Senator from Illinois.</hi>
-</p>
-<p>WADE:  He was Senator from Illinois at that time.  He came over as head of the congressional delegation and was appalled at what he thought was a very niggardly stance that we were taking on the budget.  He thought we were not being forthcoming enough at all.  He was very critical of our position.</p>
-<p>I remember his saying to me, “Do you mind if I get on the phone and talk to the White House about this?” I said, “Well, I don't think it's going to do any good, but please feel free.  I'd be delighted if we could get them to change their view on it.” Well, he got on the phone and had it changed.  He got our instructions changed, which shows the good that can come sometimes of a congressional delegation if you get them working for you.</p>
-<p>So we had pretty good working relations with these delegations.  They were helpful, that's what I'm trying to say, I think, they were helpful.</p>
-<p>
-<hi rend="italics">Q:  How about UNESCO and the United Nations.  What was the relationship in a general body?  How did that work as you saw it?</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>WADE:  It's one of the specialized agencies of the United Nations, along with FAO, NCAO in Montreal, IAEA in Vienna, the ILO in Geneva, and the WHO, World Health Organization.  These are all specialized agencies of the U.N.  They work with the U.N., but the U.N. doesn't really exercise any formal control over them.  They're pretty much independent, but they're all kind of satellites.</p>
-<p>
-<hi rend="italics">Q:  Satellites, but they didn't look towards the United Nations as an organization.  They operated on their own?</hi>
-</p>
-<p>WADE:  They operated almost entirely on their own.  There was a meeting once or twice a year, under U.N. auspices of the Directors General of these specialized agencies.  They got together with the Secretary General of the United Nations and discussed problems, common problems.  That's as far as it went.  But anything in the way of supervision, no.  Submitted reports, yes, to the U.N., but it was perfunctory.  They were satellites and pretty independent.</p>
-<p>
-<hi rend="italics">Q:  You left UNESCO in 1969.  Was this because of a change in administration?  The Nixon Administration came in and they put somebody else in?.</hi>
-</p>
-<p>WADE:  Well, I had been there five years.  I had the longest tenure of any United States Permanent Representative to UNESCO, before or since.  So I had already overstayed my — I hope not overstayed my welcome — but I had perhaps overstayed a bit.  I should have left perhaps after four years, but I stayed five.  And then when Nixon came in, I was offered a presidential appointment as Assistant Director of the Arms Control and Disarmament Agency.</p>
-<p>
-<hi rend="italics">Q:  How come?  I mean, here you are dealing with education and other things of this nature.  All of a sudden you're in arms control.</hi>
-</p>
-<p>WADE:  That's a good question.  I was asked that same question at my confirmation hearing by Senator Sparkman.  The only thing I could think of was to quote that sentence at the beginning of the constitution of UNESCO: “Since wars begin in the minds of men...the defense of peace must be constructed.”</p>
-<p>UNESCO, as I told you, had been in arms control, disarmament studies, and things of that sort.  So it wasn't as much of a leap into the unknown as it might have been.  Also I had this defense background in national security affairs.</p>
-<pb facs="0022" n="Page0022"/>
-<p>I had known Gerry Smith (Girard C. Smith), who was then Director of the Arms Control and Disarmament Agency.  I had known him in the Eisenhower Administration when he was Assistant Secretary of State for Policy Planning.  We had worked together to a certain extent then.  There was this opening on his staff.</p>
-<p>I happened to know some people in White House personnel office.  This was not something I initiated myself.  As a matter of fact, I was perfectly happy in Paris.  I think I would have stayed there another year or so if nothing had happened.</p>
-<p>I got this call saying would you be interested in talking with Gerry Smith; he would like to talk to you about this job.  So I came back and talked to him about it.  Since it was a presidential appointment, I accepted it.</p>
-<p>
-<hi rend="italics">Q:  What was the job?</hi>
-</p>
-<p>WADE:  It was Assistant Director of what was called the Economics Bureau.  And I said to Gerry, “You know I'm not an economist.” He said, “Well, I don't want an economist, I want somebody who can manage economists.”</p>
-<p>It also had the social sciences in it, too, studies, arms trade, and things like that.  It was a kind of catch-all bureau.</p>
-<p>We did studies on the economic consequences of disarmament.  A lot those had been done.  You see, the Act of the ACDA, Arms Control and Disarmament Agency, stipulated that there should be established in the agency a general fund of knowledge.  That's very broad, but it gave the Congress and the Administration an opportunity to do a heck of a lot of studies that had never been done before, some of which were useful, some less useful.</p>
-<p>Hubert Humphrey, I think, was the one who was responsible for that idea, setting up this general fund of knowledge.  It's a good idea if you watch it carefully.  When I came in, though, I found that we were doing all sorts of studies and contracting for all sorts of works: books on the Soviet Union, books on Communist China, and so forth, only a small part of which had really anything to do with arms control.</p>
-<p>We also had a dissertation support program and were giving money to students to write dissertations on arms control subjects.  When I looked into some of the things that were being done, I was kind of appalled.</p>
-<pb facs="0023" n="Page0023"/>
-<p>One of these studies, a Ph.D. dissertation, had to do with the study of rats, and how by injecting them you could create killer rats and tame rats.  I don't know whether this was supposed to have some significance for mankind or not, but anyway I could see that this sort of thing was going to give us trouble on the Hill.</p>
-<p>
-<hi rend="italics">Q:  That sounds like injecting people to make them more tranquil or something like that, wow!</hi>
-</p>
-<p>WADE:  And it almost did get us into trouble.  I know I had to go up and testify on the budget with Gerry.  An article in Time Magazine talked about this research, and they mentioned that it was funded by the Arms Control and Disarmament Agency.  And Rooney, you remember Congressman Rooney?</p>
-<p>
-<hi rend="italics">Q:  Oh yes, John Rooney of Brooklyn.</hi>
-</p>
-<p>WADE:  He was conducting the hearings, and I thought, “Oh boy, am I ever in for trouble!” On the way up, Gerry said, “If we get into that rat research, you will have to answer it, because I don't know anything about it.”</p>
-<p>I didn't really have a good defense on it because it shouldn't have been done.  We were trying to exercise restraint in the agency, I guess.  It had been approved before I got there, and the thought was you don't interfere in academic studies.</p>
-<p>But anyway, fortunately, Rooney did not bring that up.  He must not have seen it, his staff must have missed it, and I was very surprised.</p>
-<p>Instead, he got onto something entirely different and spent the hearing on the fact that the Assistant Directors had TV sets in their offices.  He had just learned this, and he was furious about it.</p>
-<p>Gerry said, “Well, all the Assistant Secretaries of State have TV sets in their offices.  Our Assistant Directors are supposed to be on the same level as Assistant Secretaries of State, so what's the difference, why can't we?”</p>
-<p>Rooney said, “That is not true.  They do not have them.” He turned to a member of his staff and said, “Go out and call the Secretary of State's office and ask them whether the Assistant Secretaries of State have TVs in their offices.” We knew all of them did.</p>
-<p>The answer came back during the hearing: “No there aren't any.” So Rooney said, “See, I was right.” And so he said to Gerry, “You get rid of those TVs.</p>
-<pb facs="0024" n="Page0024"/>
-<p>I don't know what happened to the TVs, but they had to go out.  But he spent the whole hearing on that.</p>
-<p>
-<hi rend="italics">Q:  So this was the type of thing that you would get into, which in many ways was fortunate.  I mean, you know, big deal.</hi>
-</p>
-<p>WADE:  But he missed some of the bigger things because of that.  Anyway, one of my jobs was (and Gerry was very interested in getting this done, too) to review this and see what was legitimate and what wasn't.</p>
-<p>We cut out a lot of that research.  In the first place, a lot had been done.  Secondly, we had rather high-priced help in the department — GS-17s supervising contracts for this.  They weren't doing anything substantive, themselves, they were just supervising contracts.  As a result, we finally made a cut in staff and got rid of some of that.</p>
-<p>
-<hi rend="italics">Q:  After that, what was the main focus of what you were doing?</hi>
-</p>
-<p>WADE:  We brought out a publication, which involved a major effort of the bureau, on world military expenditures.  You may have seen it over the years.  It's still brought out, I think, by the Arms Control and Disarmament Agency, periodically.  We used to do it every year.</p>
-<p>The Defense Department never liked it.  And I can see why.  It was comparing apples and oranges, in a way.  It was the opportunity costs that were missed by building certain things.  In other words, if you didn't build a bomber, you could construct two hospitals, that sort of thing.</p>
-<p>But we did assess, keep track of, world military expenditures.  And we estimated, along with CIA, the Soviet military expenditures and tried to get a picture of military expenditures throughout the world.</p>
-<p>
-<hi rend="italics">Q:  Did you feel you were getting fairly good information from the Central Intelligence Agency?</hi>
-</p>
-<p>WADE:  Yes, I think they did the best they could.  It was a hard job, because the Soviets released practically nothing in those days on their military budget.  We did know what they had, and then we had to try to estimate what that would cost in the Soviet Union.  It was a very approximate figure.</p>
-<p>
-<hi rend="italics">Q:  Were you trying to, I won't say skew it, but if you had two figures, would you take the higher figure?</hi>
-</p>
-<pb facs="0025" n="Page0025"/>
-<p>WADE:  No, we really tried to put it down as we saw it, to try to get it as accurate as possible.  We didn't have to skew it because their expenditures were very high, and still are, as a matter of fact.</p>
-<p>Despite all the things that have happened, I think Judge Webster said this yesterday, the world situation has changed tremendously, but their expenditures on military haven't come down all that much.  They will, I think, but they haven't yet.</p>
-<p>
-<hi rend="italics">Q:  Judge Webster is the head of the CIA.  What was our view, as you saw it?  How did you see the Soviets, the people around you, at that time?  We're speaking of the '69 to '73 period.</hi>
-</p>
-<p>WADE:  Well, it was then still “The Evil Empire,” I guess.  They had, you see, caught up by that time and were militarily just about equal with us in the strategic field.  They had overwhelming conventional superiority, which gave us great pause.</p>
-<p>We weren't so concerned about that earlier on when we had superiority in the nuclear field, because we felt that they couldn't move in the conventional field with impunity knowing that we could knock them out very easily with our strategic weapons.</p>
-<p>All this changed when they reached superiority.  Then it became more imperative than ever to get some kind of arms control agreement.</p>
-<p>The SALT I was the first such serious effort that we had.  Even in those days, though, I think it was recognized that something had to be done about the conventional forces.  But it wasn't until much later that we got really going on that.</p>
-<p>
-<hi rend="italics">Q:  Well, how about one of the pet things of the Department of Defense, and actually the State Department is often a willing cosponsor of arms sales.  I mean we use arms sales for all sorts of reasons.  Obviously, here in an arms control agency there's no point in selling fancy tanks to Peru.  But maybe the Peruvian military likes it.  What sort of role would you all play?</hi>
-</p>
-<p>WADE:  I had in my bureau a unit that dealt exclusively with arms control, arms transfers.  It reviewed every one of these.</p>
-<p>As a matter of fact, there was agreement in the government that the arms control agency would give its views on these arms transfers.  But we weren't very successful with it.</p>
-<pb facs="0026" n="Page0026"/>
-<p>We did make our views known.  We were opposed to the kind of thing that you just mentioned, and would make the case as strongly as we could.  But we were almost always overruled for political reasons.  The comeback always was: Well, there are overriding political reasons why we have to do it.</p>
-<p>
-<hi rend="italics">Q:  How often this has been used for whatever it is.</hi>
-</p>
-<p>WADE:  So I can't say that we had any great success.  We tried, and you're absolutely right, it should be one of the purposes of an arms control agency to try to control that.  As I say, we did our best, but I don't think we had much success.</p>
-<p>
-<hi rend="italics">Q:  What was Girard Smith's operating style?</hi>
-</p>
-<p>WADE:  He is a very clever negotiator.  I always said you could never give Gerry Smith a wooden nickel — he'd never accept it.  I think he was a very able negotiator.  He was the negotiator on SALT I, the sole negotiator.  He had a team with him, but he was the chief negotiator.</p>
-<p>He's detailed all this in his book Double Talk.  He was absolutely right for the job at that time.  He was tough with the Soviets, and yet he knew how to work with them well enough to get an agreement.  I think he was undercut in much of what he was doing by Kissinger, as he details in the book.  Kissinger, you know, was conducting back-burner negotiations with the Soviet Union.</p>
-<p>
-<hi rend="italics">Q:  Yes, I've come across this also in talking to George West, who was carrying on what turned out to be the Helsinki Accords.  Kissinger, who was at that time National Security Advisor, was telling the Soviet Ambassador: Well we really don't care about that.  There was a lot of this going on. WADE:  There was a lot of it going on, and the unfortunate thing was that Gerry Smith was never informed of what was taking place.  Whereas Semyonov, the Soviet representative in Vienna and Helsinki where the talks were held, was always informed of what was going on.  It put our man at a distinct disadvantage, and that was very unfortunate.  That should really have never happened.</hi>
-</p>
-<p>
-<hi rend="italics">Q:  Trying to get this picture, you have the head of the NSC, National Security Advisor Henry Kissinger, who, at the time, was from your vantage point not playing a healthy role.</hi>
-</p>
-<p>WADE:  Less than helpful.  I was not particularly involved in the SALT negotiations in my bureau.  But I know from what went on, from reading Gerry's book and talking to him, also, that he had problems with Kissinger.</p>
-<pb facs="0027" n="Page0027"/>
-<p>
-<hi rend="italics">Q:  I take it that you had some hostile forces around you.  One was the NSC, which had a SALT agenda.  The other one was the Department of Defense, which didn't want you to mess around with their selling of arms because there's the profit.  You get rid of your old tanks so you can buy some new tanks.  And then actually the State Department, which had all those overwhelming political reasons for doing something.  You must have felt somewhat isolated, didn't you?</hi>
-</p>
-<p>WADE:  That's true, although we were[n't?] located in the Department of State, you knew and felt a closeness with State.  They weren't always supportive, but they were more supportive than anybody else.  I will say this, they were more supportive than the NSC or certainly the Department of Defense in those days.</p>
-<p>
-<hi rend="italics">Q:  Then you retired, is that right?</hi>
-</p>
-<p>WADE:  Yes, '73.</p>
-<p>
-<hi rend="italics">Q:  What was your impression of the Department of State at the time you retired?  Did you think it was an effective instrument, non-effective?</hi>
-</p>
-<p>WADE:  Oh, I think it was then a very effective instrument of foreign policy.  Organizations always have their problems, but I think it was doing very well.  So well, that I was an advocate at the time of incorporating the Arms Control and Disarmament Agency into the Department of State.  I still feel that would be a good thing.  They have to work hand in glove.  I don't think it should be a separate agency.</p>
-<p>I had very positive feelings about the Department of State.  I have a very high regard for all the Foreign Service officers with whom I served, most of them, not all of them.  I think they've done a great job.  I think the department does a great job.</p>
-<p>The department has had a real problem, though, as I see it from my vantage point over the years.  First, you had the International Security Affairs, “The Little State Department,” in the Pentagon.  Then you had this enormous growth in power and prestige of the NSC staff, something that didn't exist when I was associated with the NSC, but which I've seen grow and grow and grow.  And you've had this conflict in successive administrations between the National Security Advisor and the Secretary of State, both Republicans.</p>
-<p>This is the first time, the Bush Administration, that I can recall that we have had a really harmonious relationship between the NSC staff and the Secretary of State.  No conflict whatsoever.</p>
-<pb facs="0028" n="Page0028"/>
-<p>I think that's a tribute to both Brent Scowcroft and Jim Baker.  I think Scowcroft knows that it would be futile for him to try to get into a hassle with Baker.  I think he knows that Baker is very close to the President, and realizes also that State should be supreme.</p>
-<p>
-<hi rend="italics">Q:  You're back to the Dulles/Eisenhower, Acheson/Truman relationship.  Two very close, compatible people.  That's when it works.</hi>
-</p>
-<p>WADE:  Yes, and you couldn't possibly have a third person coming between and trying to steal the power.  It certainly has been a problem in the intervening administrations.  A terrible problem.</p>
-<p>I'm glad to see this development.  I think it strengthens the hand of the department, because you don't have this other power center over there working at odds with the department.</p>
-<p>
-<hi rend="italics">Q:  And also with the Department of Defense, because there is this temptation for the Department of Defense to start running with foreign policy matters, too.</hi>
-</p>
-<p>WADE:  That's right.  I don't think you're going to see that with Cheney, either.  Cheney has the advantage of having worked in the White House as Chief of Staff to President Ford.  He knows how things should operate, and knows that Defense shouldn't be meddling too much in these affairs where they have no business.</p>
-<p>Defense has a legitimate interest in many, many things, but they shouldn't be overstepping and trying to get into the political area.</p>
-<p>
-<hi rend="italics">Q:  I think Casper Weinberger, who was Secretary of Defense for a long time, really wanted to be Secretary of State.  I want to thank you very much.  I've enjoyed this.</hi>
-</p>
-<p>WADE:  Well, I have, too.  It's been a pleasure.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR ROBERT H. B. WADE</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: January 24, 1990</p>
+                <p>Copyright 1998 ADST</p>
+                <p>[Note: This transcript was not edited by Ambassador Wade.]</p>
+                <p>
+                    <hi rend="italics">Q: I wonder if we could start by your giving a little
+                        background about where you came from and how you got educated, so people
+                        will have an idea of who you are.</hi>
+                </p>
+                <p>WADE:I was born and reared in a small town in Pennsylvania, Tamaqua, about 100
+                    miles north of Philadelphia. I attended high school there, and after graduation
+                    I went on to Lafayette College in Easton, Pennsylvania, where I took my Bachelor
+                    of Arts degree in 1937.</p>
+                <p>After graduation, I went abroad for a year's study. I had won a fellowship, which
+                    was administered in those days under the auspices of the Institute of
+                    International Education (IIE) in New York, and it provided for a fellowship to
+                    go to France for study.</p>
+                <p>I chose, of course, to study in Paris. But everybody chooses that, so I was
+                    farmed out to one of the other universities and went to the University of
+                    Bordeaux in France for a year's study.</p>
+                <p>As it turned out, it was probably a very good thing that I didn't get to Paris
+                    because I went to Bordeaux where no one spoke English at all. And so I spent the
+                    whole year speaking nothing but French. I don't think I spoke a word of English
+                    the whole year I was there. And I did learn to speak French, and went to French
+                    classes, and took a degree at the end of the year, which was a Dipl�me des Touts
+                    Universitaires, for which I wrote an essay roughly the equivalent of an M.A.</p>
+                <p>This whetted my appetite for things French and French literature, so I came back
+                    and went to Yale University where I also had a fellowship, a university
+                    fellowship, and I took my Ph.D. there in 1942.</p>
+                <p>During the last three or four years of my stay there, I also taught at French at
+                    Yale College. I thought I wanted to go into a university career of teaching.
+                    Indeed I think I would have, had World War II not come along. But with the Draft
+                    Board breathing down my neck in 1942, I had to hurry up and get that degree. I
+                    got the degree in June of '42. I did manage to finish.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>While I was putting the finishing touches on my Ph.D. dissertation and still
+                    teaching, the Navy came along to Yale, a gentleman named Captain Heinmarsh, who
+                    was recruiting for the Japanese Language School. He said he would take anyone
+                    into the program who had a Phi Beta Kappa key or who had been born in Japan.</p>
+                <p>Those were the two requirements; you had to have one or the other. I did happen
+                    to have a Phi Beta Kappa key. I didn't know a word of Japanese, had not been
+                    born in Japan, but I interviewed him. I thought this might be an interesting
+                    assignment for the war, and he promised all sorts of things for the teaching of
+                    the Japanese language.</p>
+                <p>He said that, indeed, we were going to use the most advanced techniques possible,
+                    and that we would wake up in the morning thinking Japanese after having heard it
+                    in our dreams and sleep. He made this sound very romantic and very
+                    worthwhile.</p>
+                <p>So, of course, a number of us there signed up from Yale. We had quite a
+                    contingent from Yale that went out to the Japanese Language School, which was
+                    supposed to be in San Francisco. But at that time they had to move the Nisei out
+                    of California, you'll recall.</p>
+                <p>
+                    <hi rend="italics">Q: The Nisei being the Japanese Americans born in the United
+                        States.</hi>
+                </p>
+                <p>WADE: So they had to reestablish the school. They put it in Boulder, Colorado, at
+                    the University of Colorado. I spent a year there studying Japanese.</p>
+                <p>
+                    <hi rend="italics">Q: I might add here that I went to the Army Language School
+                        and took Russian in 1951, and I got exactly the same pitch about living and
+                        dreaming and breathing Russian.</hi>
+                </p>
+                <p>WADE:As it turned out, it wasn't done that way at all. It was the most
+                    disappointing experience. As one who had studied languages, taken a Ph.D. in
+                    French language and literature, and taught French, I was very disappointed in
+                    this.</p>
+                <p>We learned everything by rote. One difficulty was, as I told you earlier, we had
+                    only a handful of people in this country, native Americans, who knew Japanese. I
+                    think we had maybe four of five Naval Attach�s who had studied in Japan. And, of
+                    course, they weren't available to teach us.So what the Navy had to do was bring
+                    in these Nisei. They picked up truck drivers, gardeners, anybody they could lay
+                    their hands on, who spoke Japanese. And of course, they did speak Japanese well,
+                    some of them, but they had never taught anything. They knew nothing about
+                    teaching.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>I remember when we were learning all this by rote, I used to say, “Can't you get
+                    us a grammar book, so that we can learn some grammar and don't have to learn
+                    everything by rote? We could at least rely on some rules for learning the
+                    language.” I distinctly remember one of the teachers telling me, “Well, there is
+                    no grammar in Japanese.”</p>
+                <p>
+                    <hi rend="italics">Q: Any language has construction and grammar.</hi>
+                </p>
+                <p>WADE: They didn't know. They could speak Japanese, they could write Japanese.</p>
+                <p>Another thing we did, we spent an inordinate amount of time learning to write
+                    Japanese. And it's a very difficult language, as you know, to write. We had to
+                    learn how to write thousands of these Kanji, the Japanese characters.</p>
+                <p>That proved totally useless when we got out in the field. If they had thought
+                    about it beforehand, they wouldn't have done it this way, because who would we
+                    be writing to in Japanese? As language officers we wouldn't be writing to
+                    anybody.</p>
+                <p>
+                    <hi rend="italics">Q: This is a familiar concept, I'm afraid. That's the
+                        academic not really thinking in terms of the practical.</hi>
+                </p>
+                <p>WADE: Well, these weren't even the academics. Heinmarsh, I think, knew Japanese.
+                    His intentions were all right, but once he had recruited, he had nothing to do
+                    with the program. And I think he meant it to be better, but it wasn't.</p>
+                <p>We had a woman running it who had lived in Japan. She was fine, herself, but she
+                    simply couldn't get a faculty together that was worth its salt. So it was a
+                    disappointing experience.</p>
+                <p>We did learn some Japanese and went out in the field. I could read it during the
+                    war, and we either were translators or interpreters when we'd get out in the
+                    field. We spent too much time learning to write, which we never used.</p>
+                <p>After World War II, when I finished my assignment in the Pacific, I was first
+                    stationed in Australia at MacArthur's headquarters in a pool of Japanese
+                    language officers that included our main Navy, British officers, Australian
+                    officers, Dutch, and maybe a few others.</p>
+                <p>It was called ATIS, Allied Translators and Interpreters Services. All of the
+                    language people in the Pacific were put in this pool. And when there was an
+                    assignment in the field, they just dipped into the pool and took you out,
+                    regardless of your nationality or service.I was chosen to take part in the Leyte
+                    invasion. I was assigned to Tenth Corps of the Army, even though I was a Naval
+                    officer.</p>
+                <pb facs="0004" n="Page0004"/>
+                <p>They asked me what military training I had had, in order to participate in this
+                    invasion, and I said, “Well, really, I was in language school; we didn't have
+                    any military preparation.” They said, “Well, you'll have to have some.”</p>
+                <p>So they sent me out one afternoon to a rifle range. That was the extent of my
+                    military preparation. I shot for the afternoon on the rifle range.</p>
+                <p>I was given a carbine and got into the field. I was told how to take this apart
+                    and put it together. I had to carry it the whole time I was in the field, but,
+                    fortunately, I didn't have to shoot it, because I'm not sure that I would have
+                    hit the target.</p>
+                <p>Anyway, after the Philippines, my time in the Pacific was up. The Navy had a
+                    rotation policy, contrary to the Army, and after two years you were brought back
+                    to the States.</p>
+                <p>I was brought back to Washington, where I met my wife who happened to be a WAVE
+                    officer during the war. She was in Communications Services.</p>
+                <p>Then at the end of the war, I had to make a major career decision. I happened to
+                    be in the Office of Naval Intelligence (ONI) at the end of the war, doing
+                    general intelligence work on the Far East.</p>
+                <p>I was briefing the head of ONI daily on what the major events were in the Far
+                    East during the preceding 24 hours, going through cable traffic, newspapers, and
+                    everything else to put these stories together. I found that a rather interesting
+                    job.</p>
+                <p>When it came time for me to leave, they said they would like me to stay on as a
+                    civilian — would I be interested.</p>
+                <p>I had fully intended to go back to a teaching career, because that's what I set
+                    out to do. Indeed, when I got out, Yale University offered me a teaching
+                    position. But it was coming back to Yale at the magnificent salary of something
+                    like $2,800. That was worth a lot more in those days, but still it was a very
+                    small salary. The Navy offered me practically three times as much.</p>
+                <p>We were about to get married, my wife and I, and I thought, gee, I don't know,
+                    this is going to be rough trying to go back to a salary like that. On the other
+                    hand, I am interested in an academic career, but do I want to make the
+                    sacrifice? Also I was enjoying what I was doing. If I hadn't enjoyed was I was
+                    doing, it would have made a difference. But I was, so I decided to stay on.</p>
+                <p>I stayed on in Naval Intelligence for several years, doing that same kind of
+                    general work. I was Chief Coordinating Analyst for the Far East.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>
+                    <hi rend="italics">Q: Because we're concentrating on the foreign affairs side,
+                        did you get any feel for how reporting was coming out of embassies as
+                        compared to military reporting? How did they compare and contrast?</hi>
+                </p>
+                <p>WADE: This was the end of World War II and right after, the period leading up to
+                    the Korean War. We had a heavy military presence in the Far East, in Japan. The
+                    Supreme Commander of Allied Powers, General MacArthur, was doing most of the
+                    reporting out of Japan. We got a few things eventually.</p>
+                <p>
+                    <hi rend="italics">Q: So, from a practical point of view, the Foreign Service
+                        straight diplomatic side didn't weigh very heavily at that time in the Far
+                        East.</hi>
+                </p>
+                <p>WADE: Not too heavily in the Far East. And then after World War II, you had the
+                    Red takeover of China, which was a progressive thing by which the Kuomintang
+                    were forced out of China. Again, the military were reporting this for
+                    civilians.</p>
+                <p>
+                    <hi rend="italics">Q: So this must have been your major concentration, wasn't
+                        it, what was happening in China at the time?</hi>
+                </p>
+                <p>WADE: At the time, yes. I can distinctly recall keeping a map for the head of
+                    ONI, and showing them each day how the situation was changing. The map was
+                    getting redder and redder every day, until the whole country was finally
+                    red.</p>
+                <p>But in Japan, also, you had MacArthur as the dominant influence there, so it was
+                    more of a military situation than political.</p>
+                <p>
+                    <hi rend="italics">Q: You were doing this from when to when in ONI?</hi>
+                </p>
+                <p>WADE: I was there until the early '50s.</p>
+                <p>
+                    <hi rend="italics">Q: I think I have you from '46 to '54.</hi>
+                </p>
+                <p>WADE: In early '54 I went to the Office of the Secretary of Defense.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: Why don't we talk first of the ONI, because later you
+                        became involved in the more civilian, State Department side. How did the
+                        Korean War hit the Navy, from your particular vantage point, particularly on
+                        the intelligence side?</hi>
+                </p>
+                <p>WADE: It was mostly an Army operation, so most of the reporting came out of the
+                    Army. In ONI we got very little reporting from the Navy. We were concerned more
+                    about the Army operations.</p>
+                <p>
+                    <hi rend="italics">Q: Were there any other concerns of the Navy right after the
+                        Korean War started? Did you get involved in the Taiwan Straits problem at
+                        the time?</hi>
+                </p>
+                <p>WADE: Quemoy and Matsu were much in the news.</p>
+                <p>
+                    <hi rend="italics">Q: Were you getting much good information out of China?</hi>
+                </p>
+                <p>WADE: Yes, we got pretty good information. I think we felt we knew what was going
+                    on. I can't recall now, offhand, when we had to close our embassy in China.</p>
+                <p>
+                    <hi rend="italics">Q: I think just before the Korean War we were moving out. The
+                        last ones were probably out around early 1950. In Shanghai, there was a
+                        strained period when we were hanging on.</hi>
+                </p>
+                <p>WADE: That's after the Communists had taken over and that operation was finished.
+                    Then the Communists went into North Korea and helped the North Koreans. That was
+                    our big concern, and whether that would spill over into South Korea.</p>
+                <p>
+                    <hi rend="italics">Q: Then I have you from 1954 to 1961.</hi>
+                </p>
+                <p>WADE: I went to the Office of the Secretary of Defense. I was located in what is
+                    called International Security Affairs (ISA). They sometimes call it “The Little
+                    State Department.” And there I was Director of the Office of National Security
+                    Council Affairs.</p>
+                <p>The National Security Council (NSC) under the Eisenhower Administration was
+                    differently set up than it is today.</p>
+                <p>It had, under the Council itself, a Planning Board chaired by the National
+                    Security Advisor, who in those days was Bobby Cutler, a Boston fiduciary as he
+                    liked to call himself, a Boston banker. He had been president of the big banks
+                    in Boston. Ike knew him, and I think liked him, and brought him down to head up
+                    this Planning Board.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>This brought together State, Defense, the Joint Chiefs of Staff, and CIA.
+                    Treasury was brought in later, and the Office of Defense Mobilization (ODM).</p>
+                <p>I was the chief liaison between the NSC staff and the Department of Defense. My
+                    responsibilities were to go to the Planning Board and back up the Defense
+                    member, to be his deputy when he wasn't able to go, and also to be in working
+                    groups below that to represent the Department of Defense. Within the Department
+                    of Defense my function was to pull together the views of the Department of
+                    Defense with respect to National Security Council papers, the views of the
+                    Secretary of the Army, the Secretary of the Navy, the Secretary of the Air
+                    Force, the Joint Chiefs of Staff, and any relevant parts of the Office of the
+                    Secretary of Defense, including ISA, “The Little State Department.” And then to
+                    brief the Secretary of Defense once a week.</p>
+                <p>We had regular weekly meetings, on Thursday, of the National Security Council
+                    under Eisenhower. We briefed the Secretary of Defense the day before for this
+                    meeting, which usually had a number of papers we had prepared, wrapped in the
+                    working groups in the Planning Board and then gone up. Ike was very set on staff
+                    work. He wanted very good staff work coming in. And this was a system that
+                    worked perfectly for him, I think. He liked it, and it had many advantages.</p>
+                <p>We had, of course, in those days policy disagreements between the Department of
+                    Defense and the Department of State. This was inevitable on some of these
+                    issues. There would be splits put up to the President on these issues. One side
+                    would take one point of view and the other department another. Then the
+                    President would decide. These were carefully drafted, so that he could see the
+                    differences.</p>
+                <p>Ike always wanted the views of the military, independently of anybody else. So
+                    the Joint Chiefs of Staff, as a corporate body, would always give their views,
+                    through the Secretary of Defense, to the National Security Council. The chairman
+                    would attend the meeting also.</p>
+                <p>These were circulated to the Department of State and others, so that everybody
+                    would know what the military implications were of any given policy.</p>
+                <p>This I did for eight years. It was a fascinating job, because it showed me,
+                    better than I had ever seen before, how the U.S. Government works at a high
+                    level.</p>
+                <p>
+                    <hi rend="italics">Q: Can you think of any issue, or several issues, that caused
+                        either a split or about which there was a lot of discussion on policy that
+                        helped you figure out how these things worked?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>WADE: I remember on the overall national security policy, our policy toward the
+                    Soviet Union, the Defense Department was always interested in a tougher policy,
+                    a more confrontational policy than the State Department was. The State
+                    Department was more cautious; they wanted more prudent things. The military were
+                    always advocating a slightly stronger position. This was true in other areas,
+                    too.</p>
+                <p>We used to take up policy papers. I remember we had a policy on Italy, a U.S.
+                    policy on Italy. In those days I think Italy may have still been receiving U.S.
+                    military assistance from the United States. And here you had a kind of reversal
+                    of the roles. The State Department was always very keen on having military
+                    assistance go into these countries.</p>
+                <p>The Defense Department was less enthusiastic about it. They thought the State
+                    Department was using this as a crutch for foreign policy. The Defense argument
+                    then was that military assistance should not be used as a crutch for foreign
+                    policy, and they thought that the State Department was using it as such.</p>
+                <p>
+                    <hi rend="italics">Q: How would this be a crutch?</hi>
+                </p>
+                <p>WADE: That we were propping up a government or ingratiating ourselves with a
+                    government by the use of economic and military assistance when the government
+                    ought to be getting its own act together, making more of an effort, itself, for
+                    example in the military field, and shouldn't be so reliant on U.S. military
+                    assistance.</p>
+                <p>
+                    <hi rend="italics">Q: Were you involved in the decision process, or monitoring
+                        the situation in Vietnam just before Dien Bien Phu?</hi>
+                </p>
+                <p>WADE: Yes, yes we were. I remember the decision was very much against doing that.
+                    Ike, himself, was very much against getting involved in a land war in Asia.</p>
+                <p>
+                    <hi rend="italics">Q: How about in the Department of Defense? Was there any feel
+                        for going in there?</hi>
+                </p>
+                <p>WADE: Not really any feel for going in there, coming to the aid of the French. It
+                    was discussed, but I don't think it was a prolonged discussion because the
+                    feeling was not very much for it.</p>
+                <p>Another issue that came up at that time, I recall, was that De Gaulle made a
+                    pitch to the United States to have a special relationship with the United
+                    States, much as the British had. There was some disposition in the United States
+                    Government to consider it at least, but it was turned down in the National
+                    Security Council. Ike went along with that decision.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>In retrospect you can ask yourself whether it was a wise one or not, whether we
+                    might have been able to do more with the French, and keep the French more
+                    closely tied to NATO, if we had developed the special relationship. They kind of
+                    resented our special relationship with Britain.Those were some of the major
+                    things. The Suez crisis...</p>
+                <p>
+                    <hi rend="italics">Q: I was going to ask about the Suez crisis. This was October
+                        '56 or '57. But you had the Hungarian uprising and the Suez crisis. These
+                        two, how do they play; how were they seen?</hi>
+                </p>
+                <p>WADE: Well, again, in the case of Hungary, the uprising there, there was a little
+                    more disposition, I would say, in the Department of Defense to go in and do
+                    something about that.</p>
+                <p>But the State Department was not anxious at all to get us involved in that. They
+                    felt the consequences would be a war with the USSR. And so, finally, it was
+                    turned down on that basis. But there was a little more predisposition in Defense
+                    to do something about that.</p>
+                <p>The Suez crisis was a major event and was embarrassing to the United States, as I
+                    recall, because we knew nothing about it. It had been pulled off without our
+                    knowledge. There was considerable resentment about that for awhile.</p>
+                <p>It affected to a certain extent, I think, our special relationship with the
+                    British and the Israelis. And the French, too. We weren't as close to the French
+                    ever as the British, but with the French, too.</p>
+                <p>These are the kinds of issues that came before the National Security Council. It
+                    was a more structured organization, in a way, than we had subsequently.</p>
+                <p>When Kennedy came in, he threw the whole system out that I had, and started
+                    something new, which had disastrous consequences, at first, with the Bay of
+                    Pigs.</p>
+                <p>The government wasn't organized to deal with it. I think he later got his act
+                    together a little bit. Every President, though, has to use this National
+                    Security Council in the way he sees fit.</p>
+                <p>One thing that I will say about the Eisenhower use of it, he was the first one to
+                    have a National Security Advisor.</p>
+                <p>The Council had been set up under Truman, but Jimmy Lay, the Executive Secretary,
+                    functioned as the Advisor to the President. He was a high-level civil servant,
+                    and Eisenhower thought he wanted his own man in there, somebody of his own
+                    political persuasion to help him, so that's why he brought Cutler in.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>The first National Security Advisor, or Advisor to the President for National
+                    Security Affairs, as he was called in those days, Bobby Cutler, would never have
+                    dreamed of crossing John Foster Dulles in the way that subsequent National
+                    Security Advisors have crossed swords with Secretaries of State.</p>
+                <p>Great friction has developed that did not exist in those days. In the first
+                    place, I don't think John Foster Dulles would ever have allowed it. He would
+                    have cut Cutler's head off if he had tried it. But Cutler had the good sense to
+                    know that his role was a coordinating one.Ike had the good sense to know that
+                    the government had to function in this way, and that you couldn't have this
+                    rivalry. If it had started, I'm sure he would have put his foot down on it.</p>
+                <p>
+                    <hi rend="italics">Q: Well you also find later Secretaries of Defense (Casper
+                        Weinberger's just one example, but there have been others) that almost
+                        pursued the wrong foreign policy. Did you have a feeling that there were
+                        constraints on the Defense Department to stick to its position?</hi>
+                </p>
+                <p>WADE: Yes, I think you're absolutely right on that. The Secretaries of Defense I
+                    worked with were Charlie Wilson, very briefly. I came in at the end of his
+                    tenure. Then I worked with Neil McElroy and Tom Gates. He was the last one under
+                    the Eisenhower Administration.</p>
+                <p>
+                    <hi rend="italics">Q: You didn't have Louis A. Johnson; you were fortunate.</hi>
+                </p>
+                <p>WADE: No, no, that was later, the Vietnam era. I had those three. Now the two I
+                    knew best were Neil McElroy and Tom Gates. Neither one of them would have
+                    dreamed of taking on any of the responsibilities of the Secretary of State, or
+                    speaking out openly on subjects which involved the State Department.</p>
+                <p>I remember sometimes at lower levels we would stake out positions at variance
+                    with State. We would present them to the Secretary, and he would say, “Well, you
+                    know, this is really the province of the Department of State, and I don't think
+                    I'm going to back you up on this. I'm going to let the State Department have its
+                    say.” They would be more inclined to do that. Not that they always did it. They
+                    often did take a stand at variance, but not strong stands that involved the
+                    political end of things.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: You served on both sides in State. The Department of
+                        Defense has their “Little State Department,” the ISA, and they've had it for
+                        some time. I had never dealt with it, and I remember being asked to do
+                        efficiency reports for Foreign Service officers assigned there. I was just
+                        flabbergasted to see how big the apparatus was. Now granted, this was in the
+                        Reagan Administration, but I would think that having an organization as big
+                        as that within the Pentagon dealing with foreign affairs would tend to have
+                        its own momentum and its own policy, irrespective of anything else. When you
+                        get a bureaucracy, when you have something like that, were you feeling any
+                        of this?</hi>
+                </p>
+                <p>WADE: I was feeling the beginnings of it. The State Department and, indeed, the
+                    Joint Chiefs, the Joint Staff, itself, at times would want to express strong
+                    political views on things.</p>
+                <p>I think it has grown tremendously since that time. It was pretty big even in
+                    those days. But now the regions are all represented by a Deputy Assistant
+                    Secretary of Defense, and so forth. They weren't in those days. That started to
+                    grow under McNamara and Paul Nitze, who came in as Assistant Secretary of
+                    Defense for ISA in the Kennedy Administration.</p>
+                <p>
+                    <hi rend="italics">Q: How was the Kennedy Administration, as you saw it in the
+                        Department of Defense? Sometimes when opposing parties come in, there's
+                        almost a hostile takeover. How did things work as you saw them?</hi>
+                </p>
+                <p>WADE: This was a very hostile takeover, very hostile takeover. I'll tell you
+                    something. Eisenhower was a very kind man, I think, and a very trusting man. He
+                    wanted to be helpful to the next administration. He was not terribly partisan as
+                    you know.</p>
+                <p>What he did in his last year in office, and he instructed us in the NSC operation
+                    to do, was to revise all the NSC policies, which he considered bipartisan, and
+                    get them in good order, up-to-date for the next administration. He thought this
+                    was one of the kindest things he could do for any incoming administration,
+                    Republican or Democrat.</p>
+                <p>So when the Democrats took over, he naturally handed over all of these policies.
+                    Well, they couldn't have cared less. They threw out every single policy. They
+                    wanted nothing to do with it, absolutely nothing to do with it. All you had to
+                    do in the Department of Defense was say something was done under the Eisenhower
+                    Administration and they would want to reverse it.</p>
+                <p>I left shortly after that to go over to State, because it was a chaotic situation
+                    in Defense for a long time, absolutely chaotic.</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>They threw out the Planning Board. They threw out the Operations Coordinating
+                    Board, which was the operating arm of the government to carry out national
+                    security policy, headed up by the Vice President. That all went out, which was
+                    all right, because, as I say, every president should be able to use the system
+                    in his own way, but they didn't have anything to replace it.</p>
+                <p>They were floundering around for a long time. I think this resulted in the Bay of
+                    Pigs disaster, because there was no coordinating mechanism in government. And
+                    you do have to, in a government as big as ours, with interests as diverse as
+                    ours, have something to pull them together.</p>
+                <p>They were then pulled together, finally, by McGeorge Bundy in the White House.
+                    This tended to increase the power of the Special Assistant for National Security
+                    Affairs, or the National Security Advisor as he subsequently became known.</p>
+                <p>You had, from that time on, the build-up of the powers of the National Security
+                    Advisor, which reached its culmination under Kissinger. He became a focal point,
+                    whereas there had been a mechanism before and the power was somewhat
+                    disbursed.</p>
+                <p>But it was a hostile takeover. I remember it distinctly. The new people came in.
+                    They were not disposed to look with favor on anything that had been done
+                    previously.</p>
+                <p>As I say, all the papers went out. They said, “These are of no concern to us.”
+                    They didn't want to even look at them. They wanted to start afresh. So all that
+                    work, really, it was almost a year's worth revising all those papers, was kind
+                    of wasted effort. And Ike was very insistent on good staff work. He wanted
+                    everything in good, apple-pie order.</p>
+                <p>
+                    <hi rend="italics">Q: It's sad, isn't it. One looks at this over the period of
+                        years, a time that is wasted in massaging egos so that they can each feel as
+                        though they have created something and owe nothing. We are talking about the
+                        work of professional staffs who are going to look at the same problems. The
+                        problems don't change, and the answers often don't change that much.</hi>
+                </p>
+                <p>WADE: That was, of course, the chaos that reigned. There was real chaos in the
+                    government, at least in the Defense Department during that first year of the
+                    Kennedy Administration.</p>
+                <p>That's when I went over to State. I was really very happy that an opportunity
+                    arose to go over there, because it was much more orderly in State. I didn't feel
+                    the confusion that there was in Defense. I'm sure Defense ultimately got
+                    straightened out, but you had a very strong ego heading up the Department of
+                    Defense.</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: We're talking about Robert McNamara.</hi>
+                </p>
+                <p>WADE: Robert McNamara. He did not hesitate to assert himself on any issue and had
+                    his own ideas as to what he wanted done.</p>
+                <p>There was also great tension between this new crew coming in and the professional
+                    military. The military did not like the new team. They let it be shown on many
+                    occasions. This was unfortunate, too.</p>
+                <p>I don't think McNamara ever did win over the trust of the military. They had to
+                    go along with him on certain things. He brought back Max Taylor to help him.</p>
+                <p>
+                    <hi rend="italics">Q: That's [U.S. Air Force] General Maxwell Taylor.</hi>
+                </p>
+                <p>WADE: He was more in tune with McNamara than some of the other military leaders,
+                    but the others had a rough time at first.</p>
+                <p>
+                    <hi rend="italics">Q: How did this switch come over? You went over to...?</hi>
+                </p>
+                <p>WADE: Then the Bureau of Educational and Cultural Affairs, CU as it was called in
+                    those days, the functions of which have since been transferred to USIA. That was
+                    a very large bureau, the only operating bureau in the State Department at that
+                    time. Do you remember it at all?</p>
+                <p>
+                    <hi rend="italics">Q: Oh yes, I remember CU very well.</hi>
+                </p>
+                <p>WADE: I went over to head up their Multilateral Educational Affairs. One of my
+                    chief responsibilities was UNESCO, because that was the multilateral educational
+                    organization that was the most important in those days, and still is.</p>
+                <p>But, of course, there were educational activities under the OAS and various other
+                    organizations, which we watched, too. I had other responsibilities, but my chief
+                    one really was the backstopping in the bureau of UNESCO.</p>
+                <p>I served in that job about a year and a half or two years, during which I used to
+                    go over to UNESCO to attend Executive Board meetings. This is how I became
+                    immersed in UNESCO affairs.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>I would spend a couple of months of the year over there attending Planning Board
+                    meetings or meetings of the General Conference. I got to know the workings of
+                    the organization, the working of the mission.</p>
+                <p>Then an opening occurred in 1964 for me to go over there myself. I was asked to
+                    go over to replace the Permanent Representative, who was a political appointee.
+                    There had been two political appointees in a row, both serving 18 months. The
+                    mission was in terrible shape.</p>
+                <p>
+                    <hi rend="italics">Q: Before we get to that, I wonder if we could go back to
+                        talk a little about when you were in CU. What were our main interests, say
+                        with UNESCO. We're talking about the 1961-64 period. How do we view UNESCO,
+                        particularly your area? What were our concerns with that?</hi>
+                </p>
+                <p>WADE: The '60s were what some people have called “The Golden Era of UNESCO.” It
+                    was in its heyday then. It was doing useful work, and we viewed it rather
+                    positively.We had a large national commission, U.S. National Commission for
+                    UNESCO. It was also one of my responsibilities in the department to try to
+                    service this, and to supervise the staff that serviced it.</p>
+                <p>That commission was set up by Act of Congress, back in the days when UNESCO was
+                    started, and had a hundred somewhat powerful citizens on it in the fields of
+                    Education, Science, Culture, Mass Communications, and Social Science.</p>
+                <p>They were all enthusiastic supporters of UNESCO, because UNESCO was engaged in
+                    those days in quite useful work. So I would say that our attitude toward UNESCO
+                    in the department, and the government generally, was quite positive.</p>
+                <p>There were things about the organization that we obviously didn't like. There
+                    were problems, but these were minor compared to the problems that we later
+                    encountered.</p>
+                <p>
+                    <hi rend="italics">Q: Later it became almost a swear word.</hi>
+                </p>
+                <p>WADE: That's right. The organization went out of control. It was a bad word. It
+                    still is to a certain extent.</p>
+                <p>
+                    <hi rend="italics">Q: So you went there in 1964. You were saying that things
+                        were in pretty bad shape.</hi>
+                </p>
+                <p>WADE: Well, yes. I was perfectly content with my job in the department and going
+                    over there occasionally. But the Planning Board member for the United States at
+                    that time was one William Benton, who had been an Assistant Secretary of State
+                    and one of the founders of UNESCO. Do you remember Bill Benton? He was Assistant
+                    Secretary of State for Public Affairs.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>
+                    <hi rend="italics">Q: I think so. Was he of Benton and Bowles?</hi>
+                </p>
+                <p>WADE: He was the Benton of Benton and Bowles. That's right.</p>
+                <p>
+                    <hi rend="italics">Q: This was a major advertising agency.</hi>
+                </p>
+                <p>WADE: And then he was later publisher of The Encyclopedia Britannica, which he
+                    owned. He had gone back to UNESCO. He was asked by Johnson to go back and be the
+                    Planning Board member after all these years of absence.</p>
+                <p>I still recall when he went back, he said he felt like Thomas Jefferson walking
+                    through the walls of the Pentagon (as Thomas Jefferson would if he had come back
+                    to Washington and tried to walk through the walls of the Pentagon). UNESCO was
+                    such a different organization. He had seen it at its very inception in London in
+                    1945, I guess it was. He was quite a vigorous guy, and he was not satisfied with
+                    out mission over there. He had some political clout, too, because he was a very
+                    wealthy man and a contributor to the presidential campaign.</p>
+                <p>I did not know this until later, but he went in and raised hell with Kennedy
+                    about the state of our mission over there. He had contributed to Kennedy's
+                    campaign, so he could do this. He said, “I'm not satisfied.” And Kennedy said,
+                    “Yes but he's a political appointee, and the incumbent has given money. I don't
+                    know that I can do this. I don't know that I can remove him.”</p>
+                <p>During the conversation, Benton told me, the President set out and asked how much
+                    Crane Houseman had given to the campaign. And they looked it up and came back
+                    and said $75,000, which in those days was a pretty sizable contribution. So,
+                    Kennedy was reluctant to remove him for that reason. I don't know what Benton
+                    had contributed, maybe more, but he got his way. He had him removed. He thought
+                    he was totally incompetent. He told Kennedy this. He said, “He's totally
+                    incompetent.”</p>
+                <p>So then they wanted some professional to go over and pick up the pieces, and try
+                    to put the mission back together.</p>
+                <p>In the department we sometimes wouldn't hear from the mission for weeks on end.
+                    We didn't know what was going on. They turned to me, as the professional of the
+                    department, and said, “Why don't you go over and pick up the pieces.” To tell
+                    you the truth, I was not particularly anxious to do this. I knew the job would
+                    be to put it back together. I had just gotten everything organized in the
+                    department. I was happy with the operation here. My wife was doing interior
+                    decorating at the time, and she had her own little business</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>[TAPE ONE, SIDE B INAUDIBLE FOR BRIEF TIME]</p>
+                <p>WADE: I was going to tell you about Abu Simbel. UNESCO got this operation going
+                    with a plan to cut up the temple into a thousand pieces and relocate it several
+                    hundred feet higher. I had the privilege of seeing this temple when it was cut
+                    in the thousand pieces lying on the ground before the waters [of the reservoir
+                    behind Egypt's Aswan High Dam] had risen. I thought, my golly, will they ever
+                    get that thing together again? Well, they did, and I went back for the
+                    dedication ceremonies.</p>
+                <p>Luke Battle, with whom I was associated in CU, had been the Ambassador to Egypt,
+                    and he came back for the dedication. He and I went down to represent the United
+                    States at the ceremony for the dedication of Abu Simbel. It was magnificent to
+                    see this thing put back together on high ground.</p>
+                <p>An Egyptologist with the Louvre, who was there, told me that he could not see
+                    that that thing had ever been disturbed. He said, “It looks exactly the same.”
+                    One of the remarkable things about it was that the seaming of the stones was
+                    done by unskilled, Nubian workers, whom they had taught how to do this. And it
+                    was done so beautifully.</p>
+                <p>
+                    <hi rend="italics">Q: Their ancestors had probably put it together in the
+                        beginning.</hi>
+                </p>
+                <p>WADE: That's a good point. That may have been the reason.</p>
+                <p>Anyway, this is an example of the type of thing that UNESCO can do well. They
+                    later saw Philae, another temple, restored. Some of the other temples along the
+                    Nile were saved also.</p>
+                <p>Angkor Wat [ancient Khmer temple in Cambodia], UNESCO has been instrumental in
+                    helping to restore. This is the kind of thing they can do well in the cultural
+                    field, as well as bring ministers of culture from all over the world together to
+                    discuss cultural matters.There are five disciplines: Education, Science,
+                    Culture, Mass Communications, and Social Science.</p>
+                <p>Mass communications they got into because UNESCO from the beginning was committed
+                    to the free flow of information. That was one of the things that people like
+                    Bill Benton, who was there at the founding, insisted on, and Archibald MacLeish,
+                    who was there, insisted on and got written into the constitution.</p>
+                <p>As a result of this, you got a Department of Mass Communications. This was fine,
+                    and it has done some useful work. But in later days, and there was just a
+                    rumbling of this when I was there, they got into the idea of state control of
+                    information.</p>
+                <p>
+                    <pb facs="0017" n="Page0017"/>
+                    <hi rend="italics">Q: That's been the most controversial part of the whole
+                        UNESCO.</hi>
+                </p>
+                <p>WADE: That's right. This was a disaster as far as the United States was
+                    concerned. There was just a faint rumbling of this while I was there. But it
+                    wasn't a serious problem.</p>
+                <p>While I was there, the Director General was Rene Mailleux, a French intellectual
+                    who was also a very good administrator. He brought unusual talent to the
+                    organization and was a very, very able man. He would not allow the thing to get
+                    perverted. He had his critics, too, in this country. But, by and large, he had a
+                    lot of support. He would not allow the organization to become perverted in the
+                    way that it did later on.</p>
+                <p>There is that potential for perversion with the communications field. Similarly,
+                    social science. They got into social science because it was considered an
+                    offshoot of the science field. If you were in natural sciences, you ought to be
+                    in the social sciences, too. So this came along.</p>
+                <p>Every country has its own idea about social science problems. And there's not the
+                    unanimity of opinion on them that there is in other areas. It has been a
+                    troublesome area for the United States on many occasions.</p>
+                <p>UNESCO, because of its constitution, which starts out: “Since wars begin in the
+                    minds of men, it is in the minds of men that the defenses of peace must be
+                    constructed...”, felt that this statement gave them some license to go fishing
+                    in the peace field. This is very attractive to an international organization,
+                    because if you get into this area, which has all sorts of political overtones
+                    and mission, you enhance your prestige.</p>
+                <p>We kept pointing out that this was the province of the United Nations, itself,
+                    and that we would be trespassing if we got there. Nevertheless, UNESCO got
+                    itself involved, even while I was there, in peace research, arms control and
+                    disarmament studies, the economic consequences of disarmament.</p>
+                <p>Some of these things were semi-legitimate, like the economic consequences of
+                    disarmament, but it would have been wiser to leave it all to the United Nations
+                    and stay out of the field. But they got into it.</p>
+                <p>This tended to be a controversial area, particularly between the Soviet Union and
+                    us, in UNESCO. The Soviets were always pushing this, thinking they could make
+                    political capital. We were getting involved in the Vietnam War while I was
+                    there, too, and the Soviets thought they could make propaganda out of our
+                    involvement by pushing peace research and disarmament.</p>
+                <p>Those are the areas in which UNESCO was operating when I was there and, as I say,
+                    in most of them doing credible work.</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: How did you view the Soviet Union at the time? The Soviet
+                        Union was a member. Were they serious about the goals, or were they using
+                        this purely as a tool for a purpose other than the stated purposes of
+                        UNESCO?</hi>
+                </p>
+                <p>WADE: I think both were true. I think they were serious to a certain extent for
+                    what they could get out of the organization, and they had certain things that
+                    they were interested in.</p>
+                <p>Their scientists were genuinely interested in this. They brought their astronauts
+                    [Cosmonauts] to UNESCO to show them off. They were very proud of their
+                    accomplishments. We brought ours later, too.</p>
+                <p>They had some legitimate goals and interests, but they also used it for
+                    propaganda purposes. They also, I knew, had KGB agents on the staff of the
+                    mission and were using it for activities other than what was ostensibly the
+                    purpose of the organization.</p>
+                <p>Our relations with the Soviet Union were very strained. This was the height of
+                    the Cold War. I know the Soviet Permanent Representative used to come to me and
+                    say, “There's only one issue on which I can really cooperate with you, and
+                    that's the budget.” And that was true. They were against increases in the budget
+                    for much the same reason we were. But otherwise there was very little that we
+                    could agree on.</p>
+                <p>
+                    <hi rend="italics">Q: How about relations with the State Department. That is
+                        always important to any mission abroad. How did you deal with them? You'd
+                        come from the office, but were you getting what you wanted out of the State
+                        Department? Was there interest in what you were doing, or was it sort of
+                        grudging?</hi>
+                </p>
+                <p>WADE: There was interest in CU in what we were doing, because that was the Bureau
+                    of Educational and Cultural Affairs. There was perhaps less interest in IO, (the
+                    International Organization that deals with the United Nations and the
+                    specialized agencies), less interest because they had certain
+                    responsibilities.</p>
+                <p>I worked for both bureaus in the field. CU had the substantive interest. IO had
+                    the budget and political interest.</p>
+                <p>IO had perhaps less interest in the substance, much less interest in the
+                    substance. And they felt that some of the political issues in UNESCO were
+                    annoying. But they supported it, except that they were dead set against these
+                    budget increases. And this always caused problems.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>On the other hand, the National Commission for UNESCO, which is this private
+                    group of a hundred citizens, a pressure group, always felt the budget was
+                    grossly insufficient and should have been increased. But they didn't have the
+                    responsibility for coming up with the money. The IO did — for getting it out of
+                    the Congress.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find yourself getting instructions from Washington
+                        about doing things you thought were more of a political nature rather than
+                        going along? Say, today we're pushing support for Vietnam — so do something
+                        here. I mean was Vietnam an inhibitor?</hi>
+                </p>
+                <p>WADE: Vietnam was a great inhibitor. But it was a subject that we left untouched
+                    to the extent we could, because the moment you raised it, you got an awful lot
+                    of flak, either at a General Conference, at an Executive Board meeting, or even
+                    at a committee meeting of UNESCO. It was a subject you didn't bring up. The
+                    department never instructed me to bring it up at any point. They knew the wisdom
+                    of keeping quiet about it in an international organization.</p>
+                <p>Now it did come up, because others would raise it. In the Executive Board meeting
+                    I would have to ask for right-of-reply to defend our position. In the General
+                    Conference it would come up. There was strong feeling in the world against that
+                    war, you know.</p>
+                <p>
+                    <hi rend="italics">Q. How about the other bone of contention in multinational
+                        things, our support of Israel. Was this a problem for you?</hi>
+                </p>
+                <p>WADE: There were at times attempts, as in the United Nations, to brand Israel as
+                    an aggressor or to pass resolutions which were inimical to Israel. We always
+                    were able to get those defeated, or get those stopped before they got out on the
+                    table.</p>
+                <p>Unfortunately, while I was there, the Israelis were not cooperating with us in
+                    UNESCO to the extent to which they should. After all, we were their biggest
+                    supporters. They should, I think, have given more support. They would never vote
+                    with us, for example, on the budget or things like that. They gave us support
+                    when they wanted to, and when they didn't, they didn't.</p>
+                <p>
+                    <hi rend="italics">Q: But you didn't feel that we were able to use what amounted
+                        to tremendous clout with the Israelis. I mean, after all, we were supporting
+                        them. Without the United States, Israel probably wouldn't exist. But we
+                        weren't using that to make them vote with us?</hi>
+                </p>
+                <p>WADE: We didn't use it, in retrospect, maybe as much as we should have. The
+                    pressure for that would have had to come from Washington. For reasons I'm not
+                    familiar with, they didn't choose to exercise it to the extent they might
+                    have.</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: How about Congress. Did you have any problems with members
+                        of Congress coming over, or Congress as a group passing resolutions giving
+                        any problems?</hi>
+                </p>
+                <p>WADE: No, we had very good support from Congress. We used to get congressional
+                    visits. I recall Bob McClury, who was a congressman at that time, used to come
+                    over periodically on some educational meetings of the universal body of
+                    legislators. I forget what they call that.</p>
+                <p>
+                    <hi rend="italics">Q: International Parliamentary Union.</hi>
+                </p>
+                <p>WADE: That's right, IPU. He used to come over on that to educational meetings. He
+                    was chairman for a number of years of the Educational Committee. He was always
+                    very interested in the work that UNESCO was then doing, and was very supportive
+                    of our work.</p>
+                <p>We used to have congressional delegations also come over for the general
+                    conferences, which were held every two years. I recall Chuck Percy came over on
+                    one of those.</p>
+                <p>
+                    <hi rend="italics">Q: He was Senator from Illinois.</hi>
+                </p>
+                <p>WADE: He was Senator from Illinois at that time. He came over as head of the
+                    congressional delegation and was appalled at what he thought was a very
+                    niggardly stance that we were taking on the budget. He thought we were not being
+                    forthcoming enough at all. He was very critical of our position.</p>
+                <p>I remember his saying to me, “Do you mind if I get on the phone and talk to the
+                    White House about this?” I said, “Well, I don't think it's going to do any good,
+                    but please feel free. I'd be delighted if we could get them to change their view
+                    on it.” Well, he got on the phone and had it changed. He got our instructions
+                    changed, which shows the good that can come sometimes of a congressional
+                    delegation if you get them working for you.</p>
+                <p>So we had pretty good working relations with these delegations. They were
+                    helpful, that's what I'm trying to say, I think, they were helpful.</p>
+                <p>
+                    <hi rend="italics">Q: How about UNESCO and the United Nations. What was the
+                        relationship in a general body? How did that work as you saw it?</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>WADE: It's one of the specialized agencies of the United Nations, along with FAO,
+                    NCAO in Montreal, IAEA in Vienna, the ILO in Geneva, and the WHO, World Health
+                    Organization. These are all specialized agencies of the U.N. They work with the
+                    U.N., but the U.N. doesn't really exercise any formal control over them. They're
+                    pretty much independent, but they're all kind of satellites.</p>
+                <p>
+                    <hi rend="italics">Q: Satellites, but they didn't look towards the United
+                        Nations as an organization. They operated on their own?</hi>
+                </p>
+                <p>WADE: They operated almost entirely on their own. There was a meeting once or
+                    twice a year, under U.N. auspices of the Directors General of these specialized
+                    agencies. They got together with the Secretary General of the United Nations and
+                    discussed problems, common problems. That's as far as it went. But anything in
+                    the way of supervision, no. Submitted reports, yes, to the U.N., but it was
+                    perfunctory. They were satellites and pretty independent.</p>
+                <p>
+                    <hi rend="italics">Q: You left UNESCO in 1969. Was this because of a change in
+                        administration? The Nixon Administration came in and they put somebody else
+                        in?.</hi>
+                </p>
+                <p>WADE: Well, I had been there five years. I had the longest tenure of any United
+                    States Permanent Representative to UNESCO, before or since. So I had already
+                    overstayed my — I hope not overstayed my welcome — but I had perhaps overstayed
+                    a bit. I should have left perhaps after four years, but I stayed five. And then
+                    when Nixon came in, I was offered a presidential appointment as Assistant
+                    Director of the Arms Control and Disarmament Agency.</p>
+                <p>
+                    <hi rend="italics">Q: How come? I mean, here you are dealing with education and
+                        other things of this nature. All of a sudden you're in arms control.</hi>
+                </p>
+                <p>WADE: That's a good question. I was asked that same question at my confirmation
+                    hearing by Senator Sparkman. The only thing I could think of was to quote that
+                    sentence at the beginning of the constitution of UNESCO: “Since wars begin in
+                    the minds of men...the defense of peace must be constructed.”</p>
+                <p>UNESCO, as I told you, had been in arms control, disarmament studies, and things
+                    of that sort. So it wasn't as much of a leap into the unknown as it might have
+                    been. Also I had this defense background in national security affairs.</p>
+                <pb facs="0022" n="Page0022"/>
+                <p>I had known Gerry Smith (Girard C. Smith), who was then Director of the Arms
+                    Control and Disarmament Agency. I had known him in the Eisenhower Administration
+                    when he was Assistant Secretary of State for Policy Planning. We had worked
+                    together to a certain extent then. There was this opening on his staff.</p>
+                <p>I happened to know some people in White House personnel office. This was not
+                    something I initiated myself. As a matter of fact, I was perfectly happy in
+                    Paris. I think I would have stayed there another year or so if nothing had
+                    happened.</p>
+                <p>I got this call saying would you be interested in talking with Gerry Smith; he
+                    would like to talk to you about this job. So I came back and talked to him about
+                    it. Since it was a presidential appointment, I accepted it.</p>
+                <p>
+                    <hi rend="italics">Q: What was the job?</hi>
+                </p>
+                <p>WADE: It was Assistant Director of what was called the Economics Bureau. And I
+                    said to Gerry, “You know I'm not an economist.” He said, “Well, I don't want an
+                    economist, I want somebody who can manage economists.”</p>
+                <p>It also had the social sciences in it, too, studies, arms trade, and things like
+                    that. It was a kind of catch-all bureau.</p>
+                <p>We did studies on the economic consequences of disarmament. A lot those had been
+                    done. You see, the Act of the ACDA, Arms Control and Disarmament Agency,
+                    stipulated that there should be established in the agency a general fund of
+                    knowledge. That's very broad, but it gave the Congress and the Administration an
+                    opportunity to do a heck of a lot of studies that had never been done before,
+                    some of which were useful, some less useful.</p>
+                <p>Hubert Humphrey, I think, was the one who was responsible for that idea, setting
+                    up this general fund of knowledge. It's a good idea if you watch it carefully.
+                    When I came in, though, I found that we were doing all sorts of studies and
+                    contracting for all sorts of works: books on the Soviet Union, books on
+                    Communist China, and so forth, only a small part of which had really anything to
+                    do with arms control.</p>
+                <p>We also had a dissertation support program and were giving money to students to
+                    write dissertations on arms control subjects. When I looked into some of the
+                    things that were being done, I was kind of appalled.</p>
+                <pb facs="0023" n="Page0023"/>
+                <p>One of these studies, a Ph.D. dissertation, had to do with the study of rats, and
+                    how by injecting them you could create killer rats and tame rats. I don't know
+                    whether this was supposed to have some significance for mankind or not, but
+                    anyway I could see that this sort of thing was going to give us trouble on the
+                    Hill.</p>
+                <p>
+                    <hi rend="italics">Q: That sounds like injecting people to make them more
+                        tranquil or something like that, wow!</hi>
+                </p>
+                <p>WADE: And it almost did get us into trouble. I know I had to go up and testify on
+                    the budget with Gerry. An article in Time Magazine talked about this research,
+                    and they mentioned that it was funded by the Arms Control and Disarmament
+                    Agency. And Rooney, you remember Congressman Rooney?</p>
+                <p>
+                    <hi rend="italics">Q: Oh yes, John Rooney of Brooklyn.</hi>
+                </p>
+                <p>WADE: He was conducting the hearings, and I thought, “Oh boy, am I ever in for
+                    trouble!” On the way up, Gerry said, “If we get into that rat research, you will
+                    have to answer it, because I don't know anything about it.”</p>
+                <p>I didn't really have a good defense on it because it shouldn't have been done. We
+                    were trying to exercise restraint in the agency, I guess. It had been approved
+                    before I got there, and the thought was you don't interfere in academic
+                    studies.</p>
+                <p>But anyway, fortunately, Rooney did not bring that up. He must not have seen it,
+                    his staff must have missed it, and I was very surprised.</p>
+                <p>Instead, he got onto something entirely different and spent the hearing on the
+                    fact that the Assistant Directors had TV sets in their offices. He had just
+                    learned this, and he was furious about it.</p>
+                <p>Gerry said, “Well, all the Assistant Secretaries of State have TV sets in their
+                    offices. Our Assistant Directors are supposed to be on the same level as
+                    Assistant Secretaries of State, so what's the difference, why can't we?”</p>
+                <p>Rooney said, “That is not true. They do not have them.” He turned to a member of
+                    his staff and said, “Go out and call the Secretary of State's office and ask
+                    them whether the Assistant Secretaries of State have TVs in their offices.” We
+                    knew all of them did.</p>
+                <p>The answer came back during the hearing: “No there aren't any.” So Rooney said,
+                    “See, I was right.” And so he said to Gerry, “You get rid of those TVs.</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>I don't know what happened to the TVs, but they had to go out. But he spent the
+                    whole hearing on that.</p>
+                <p>
+                    <hi rend="italics">Q: So this was the type of thing that you would get into,
+                        which in many ways was fortunate. I mean, you know, big deal.</hi>
+                </p>
+                <p>WADE: But he missed some of the bigger things because of that. Anyway, one of my
+                    jobs was (and Gerry was very interested in getting this done, too) to review
+                    this and see what was legitimate and what wasn't.</p>
+                <p>We cut out a lot of that research. In the first place, a lot had been done.
+                    Secondly, we had rather high-priced help in the department — GS-17s supervising
+                    contracts for this. They weren't doing anything substantive, themselves, they
+                    were just supervising contracts. As a result, we finally made a cut in staff and
+                    got rid of some of that.</p>
+                <p>
+                    <hi rend="italics">Q: After that, what was the main focus of what you were
+                        doing?</hi>
+                </p>
+                <p>WADE: We brought out a publication, which involved a major effort of the bureau,
+                    on world military expenditures. You may have seen it over the years. It's still
+                    brought out, I think, by the Arms Control and Disarmament Agency, periodically.
+                    We used to do it every year.</p>
+                <p>The Defense Department never liked it. And I can see why. It was comparing apples
+                    and oranges, in a way. It was the opportunity costs that were missed by building
+                    certain things. In other words, if you didn't build a bomber, you could
+                    construct two hospitals, that sort of thing.</p>
+                <p>But we did assess, keep track of, world military expenditures. And we estimated,
+                    along with CIA, the Soviet military expenditures and tried to get a picture of
+                    military expenditures throughout the world.</p>
+                <p>
+                    <hi rend="italics">Q: Did you feel you were getting fairly good information from
+                        the Central Intelligence Agency?</hi>
+                </p>
+                <p>WADE: Yes, I think they did the best they could. It was a hard job, because the
+                    Soviets released practically nothing in those days on their military budget. We
+                    did know what they had, and then we had to try to estimate what that would cost
+                    in the Soviet Union. It was a very approximate figure.</p>
+                <p>
+                    <hi rend="italics">Q: Were you trying to, I won't say skew it, but if you had
+                        two figures, would you take the higher figure?</hi>
+                </p>
+                <pb facs="0025" n="Page0025"/>
+                <p>WADE: No, we really tried to put it down as we saw it, to try to get it as
+                    accurate as possible. We didn't have to skew it because their expenditures were
+                    very high, and still are, as a matter of fact.</p>
+                <p>Despite all the things that have happened, I think Judge Webster said this
+                    yesterday, the world situation has changed tremendously, but their expenditures
+                    on military haven't come down all that much. They will, I think, but they
+                    haven't yet.</p>
+                <p>
+                    <hi rend="italics">Q: Judge Webster is the head of the CIA. What was our view,
+                        as you saw it? How did you see the Soviets, the people around you, at that
+                        time? We're speaking of the '69 to '73 period.</hi>
+                </p>
+                <p>WADE: Well, it was then still “The Evil Empire,” I guess. They had, you see,
+                    caught up by that time and were militarily just about equal with us in the
+                    strategic field. They had overwhelming conventional superiority, which gave us
+                    great pause.</p>
+                <p>We weren't so concerned about that earlier on when we had superiority in the
+                    nuclear field, because we felt that they couldn't move in the conventional field
+                    with impunity knowing that we could knock them out very easily with our
+                    strategic weapons.</p>
+                <p>All this changed when they reached superiority. Then it became more imperative
+                    than ever to get some kind of arms control agreement.</p>
+                <p>The SALT I was the first such serious effort that we had. Even in those days,
+                    though, I think it was recognized that something had to be done about the
+                    conventional forces. But it wasn't until much later that we got really going on
+                    that.</p>
+                <p>
+                    <hi rend="italics">Q: Well, how about one of the pet things of the Department of
+                        Defense, and actually the State Department is often a willing cosponsor of
+                        arms sales. I mean we use arms sales for all sorts of reasons. Obviously,
+                        here in an arms control agency there's no point in selling fancy tanks to
+                        Peru. But maybe the Peruvian military likes it. What sort of role would you
+                        all play?</hi>
+                </p>
+                <p>WADE: I had in my bureau a unit that dealt exclusively with arms control, arms
+                    transfers. It reviewed every one of these.</p>
+                <p>As a matter of fact, there was agreement in the government that the arms control
+                    agency would give its views on these arms transfers. But we weren't very
+                    successful with it.</p>
+                <pb facs="0026" n="Page0026"/>
+                <p>We did make our views known. We were opposed to the kind of thing that you just
+                    mentioned, and would make the case as strongly as we could. But we were almost
+                    always overruled for political reasons. The comeback always was: Well, there are
+                    overriding political reasons why we have to do it.</p>
+                <p>
+                    <hi rend="italics">Q: How often this has been used for whatever it is.</hi>
+                </p>
+                <p>WADE: So I can't say that we had any great success. We tried, and you're
+                    absolutely right, it should be one of the purposes of an arms control agency to
+                    try to control that. As I say, we did our best, but I don't think we had much
+                    success.</p>
+                <p>
+                    <hi rend="italics">Q: What was Girard Smith's operating style?</hi>
+                </p>
+                <p>WADE: He is a very clever negotiator. I always said you could never give Gerry
+                    Smith a wooden nickel — he'd never accept it. I think he was a very able
+                    negotiator. He was the negotiator on SALT I, the sole negotiator. He had a team
+                    with him, but he was the chief negotiator.</p>
+                <p>He's detailed all this in his book Double Talk. He was absolutely right for the
+                    job at that time. He was tough with the Soviets, and yet he knew how to work
+                    with them well enough to get an agreement. I think he was undercut in much of
+                    what he was doing by Kissinger, as he details in the book. Kissinger, you know,
+                    was conducting back-burner negotiations with the Soviet Union.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, I've come across this also in talking to George West,
+                        who was carrying on what turned out to be the Helsinki Accords. Kissinger,
+                        who was at that time National Security Advisor, was telling the Soviet
+                        Ambassador: Well we really don't care about that. There was a lot of this
+                        going on. WADE: There was a lot of it going on, and the unfortunate thing
+                        was that Gerry Smith was never informed of what was taking place. Whereas
+                        Semyonov, the Soviet representative in Vienna and Helsinki where the talks
+                        were held, was always informed of what was going on. It put our man at a
+                        distinct disadvantage, and that was very unfortunate. That should really
+                        have never happened.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: Trying to get this picture, you have the head of the NSC,
+                        National Security Advisor Henry Kissinger, who, at the time, was from your
+                        vantage point not playing a healthy role.</hi>
+                </p>
+                <p>WADE: Less than helpful. I was not particularly involved in the SALT negotiations
+                    in my bureau. But I know from what went on, from reading Gerry's book and
+                    talking to him, also, that he had problems with Kissinger.</p>
+                <pb facs="0027" n="Page0027"/>
+                <p>
+                    <hi rend="italics">Q: I take it that you had some hostile forces around you. One
+                        was the NSC, which had a SALT agenda. The other one was the Department of
+                        Defense, which didn't want you to mess around with their selling of arms
+                        because there's the profit. You get rid of your old tanks so you can buy
+                        some new tanks. And then actually the State Department, which had all those
+                        overwhelming political reasons for doing something. You must have felt
+                        somewhat isolated, didn't you?</hi>
+                </p>
+                <p>WADE: That's true, although we were[n't?] located in the Department of State, you
+                    knew and felt a closeness with State. They weren't always supportive, but they
+                    were more supportive than anybody else. I will say this, they were more
+                    supportive than the NSC or certainly the Department of Defense in those
+                    days.</p>
+                <p>
+                    <hi rend="italics">Q: Then you retired, is that right?</hi>
+                </p>
+                <p>WADE: Yes, '73.</p>
+                <p>
+                    <hi rend="italics">Q: What was your impression of the Department of State at the
+                        time you retired? Did you think it was an effective instrument,
+                        non-effective?</hi>
+                </p>
+                <p>WADE: Oh, I think it was then a very effective instrument of foreign policy.
+                    Organizations always have their problems, but I think it was doing very well. So
+                    well, that I was an advocate at the time of incorporating the Arms Control and
+                    Disarmament Agency into the Department of State. I still feel that would be a
+                    good thing. They have to work hand in glove. I don't think it should be a
+                    separate agency.</p>
+                <p>I had very positive feelings about the Department of State. I have a very high
+                    regard for all the Foreign Service officers with whom I served, most of them,
+                    not all of them. I think they've done a great job. I think the department does a
+                    great job.</p>
+                <p>The department has had a real problem, though, as I see it from my vantage point
+                    over the years. First, you had the International Security Affairs, “The Little
+                    State Department,” in the Pentagon. Then you had this enormous growth in power
+                    and prestige of the NSC staff, something that didn't exist when I was associated
+                    with the NSC, but which I've seen grow and grow and grow. And you've had this
+                    conflict in successive administrations between the National Security Advisor and
+                    the Secretary of State, both Republicans.</p>
+                <p>This is the first time, the Bush Administration, that I can recall that we have
+                    had a really harmonious relationship between the NSC staff and the Secretary of
+                    State. No conflict whatsoever.</p>
+                <pb facs="0028" n="Page0028"/>
+                <p>I think that's a tribute to both Brent Scowcroft and Jim Baker. I think Scowcroft
+                    knows that it would be futile for him to try to get into a hassle with Baker. I
+                    think he knows that Baker is very close to the President, and realizes also that
+                    State should be supreme.</p>
+                <p>
+                    <hi rend="italics">Q: You're back to the Dulles/Eisenhower, Acheson/Truman
+                        relationship. Two very close, compatible people. That's when it works.</hi>
+                </p>
+                <p>WADE: Yes, and you couldn't possibly have a third person coming between and
+                    trying to steal the power. It certainly has been a problem in the intervening
+                    administrations. A terrible problem.</p>
+                <p>I'm glad to see this development. I think it strengthens the hand of the
+                    department, because you don't have this other power center over there working at
+                    odds with the department.</p>
+                <p>
+                    <hi rend="italics">Q: And also with the Department of Defense, because there is
+                        this temptation for the Department of Defense to start running with foreign
+                        policy matters, too.</hi>
+                </p>
+                <p>WADE: That's right. I don't think you're going to see that with Cheney, either.
+                    Cheney has the advantage of having worked in the White House as Chief of Staff
+                    to President Ford. He knows how things should operate, and knows that Defense
+                    shouldn't be meddling too much in these affairs where they have no business.</p>
+                <p>Defense has a legitimate interest in many, many things, but they shouldn't be
+                    overstepping and trying to get into the political area.</p>
+                <p>
+                    <hi rend="italics">Q: I think Casper Weinberger, who was Secretary of Defense
+                        for a long time, really wanted to be Secretary of State. I want to thank you
+                        very much. I've enjoyed this.</hi>
+                </p>
+                <p>WADE: Well, I have, too. It's been a pleasure.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

@@ -1,446 +1,1190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000439">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Robert Granick </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Robert Granick </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>ROBERT GRANICK</p>
-<p>Interviewed by:  William Knight </p>
-<p>Initial interview date:  June 18, 1992</p>
-<p>Copyright 1998 ADST</p>
-<p>[Note:  This transcript was not edited by Mr. Granick.]</p>
-<p>
-<hi rend="italics">Q:  Robert, the floor is yours.</hi>
-</p>
-<p>GRANICK:  I entered the State Department in 1963 as Deputy Executive Director for ARA.  Actually I was brought in having worked for the Office of Personnel Management.  I had entered government as a management intern in '51 and I worked for the Office of Personnel Management in a number of administrative jobs over the years.  I was brought in when the State Department decided to put together the Administrative Bureau in ARA with the Administrative Bureau in AID.  This was the experiment under President Johnson and was under the leadership of Ambassador Mann and I don't mean just back to back - this was truly a merger of not only State and AID but also the President wanted Ambassador Mann to have control over USIA, the Department of Defense, and all other agencies having business with South America.  It never worked out very well.</p>
-<p>
-<hi rend="italics">Q:  Why?</hi>
-</p>
-<p>GRANICK:  Well part of the reason was, of course, resistance.  But I think that could have been overcome.</p>
-<p>
-<hi rend="italics">Q:  Resistance from...</hi>
-</p>
-<p>GRANICK:  From the other agencies and from AID particularly, but USIA didn't like it, or defense and the others.  But I think it could have been overcome since the President wanted it and Tom Mann was given not only the title of Assistant Secretary for ARA but he also was also Special Assistant to the President for Latin America.  And he had an office in the White House as well as an office in the Department.</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q:  So that gave him the authority over the other agencies which usually the State Department wouldn't have for itself?</hi>
-</p>
-<p>GRANICK:  Exactly, and there was an order from the President giving him this kind of leadership and authority.</p>
-<p>
-<hi rend="italics">Q:  But there was no similar amalgamation of USIA, this was just AID and State, well, management?</hi>
-</p>
-<p>GRANICK:  The experiment included AID because AID at the time was in the Department and because we were physically co-located in the Department.  There was more of a physical amalgamation however.  The idea was that Mann would be over all of these various agencies.  I'm getting ahead of myself.  In the Department also, in addition to being physically located together, they did bring me in, for example, to be the head of Personnel for both State and AID, and they had Jules Sugarman.  I don't know if you remember Jules Sugarman.  Jules was brought in also to be the Finance Officer for both State and AID, in other words, all the agencies were affected, but AID was more affected than the others for many reasons.  As you know AID was always closer to us with the dotted line and so forth and ostensibly we had tremendous administrative control over AID.</p>
-<p>
-<hi rend="italics">Q:  What year is it again that you came in?</hi>
-</p>
-<p>GRANICK:  '63.</p>
-<p>
-<hi rend="italics">Q:  You would have had 10 years before you came in?</hi>
-</p>
-<p>GRANICK:  That's right.  12 years actually.  We could talk about this for a couple of minutes because it's very interesting.  I took it very seriously, as did Jules Sugarman, and I don't mean seriously in the sense of taking over but rather trying to make the amalgamation work - particularly between State and AID - to see of we couldn't use the people available and the money available more efficiently.  And Jules and I actually worked out a system for example where State and AID personnel would be interchangeable.  We worked out a system right up to a meeting with AID where I used to call lights on/lights off.  We had all the jobs outlined in both AID and State in Latin America, and we were going to change people.  As one person changed to one job, lets say from State, a light would go on there for State and the AID person left the light would go out on their board.  But then we would put the AID person in one of our jobs and the light would go on, etc., etc.  we called it lights on/lights off.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q:  You actually had a wall thing with these lights?</hi>
-</p>
-<p>GRANICK:  Not actually lights, but with stickers which we called lights.  But we got to this meeting, we had it worked out very well, and the working stiffs were very enthusiastic about this because they saw this as an opportunity to get a lot of new experiences.  But AID realized that if this worked, top management of AID...in fact at the meeting I was up against the Chief Counsel of AID.  They realized that if this worked, then we'd begin to go to other bureaus and eventually, they thought, absorb all of AID.</p>
-<p>
-<hi rend="italics">Q:  That's pertinent right now where the same thing is being debated, you know, combining AID and State again.</hi>
-</p>
-<p>GRANICK:  Oh, I didn't realize that, well it makes sense.  And so we got up to the point where I had agreement from all the working stiffs, you know, Division Chiefs and so forth, even Bureau Chiefs and I said we're prepared to go ahead with this.  The Chief Counsel of AID got up and said, “Well Mr. Granick, thank you very much for an excellent presentation and we'll certainly get back to you.”</p>
-<p>
-<hi rend="italics">Q:  Don't call me, I'll call you.</hi>
-</p>
-<p>GRANICK:  That's right.  And I got up and I was agitated and I said “but, but, but.” I said I think this is ready to go.  And she smiled benignly and she said, “Well, Mr. Granick says we're ready to go, so lets go”, and she walked out.  And I was standing there with egg on my face.  But anyway, I tried to bring it up again, Jules and I took it up to Mann and he was pushing it, but we could not break through AID.  By that time Tom Mann had enough troubles.</p>
-<p>
-<hi rend="italics">Q:  It never went to the President then?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>GRANICK:  It never went to the President.  In all fairness, I don't think Tom Mann wanted to push it to the President either.  He didn't feel it was of enough consequence considering all the other problems he had on his plate, or whatever.  I'm not privy to everything that went on behind closed doors, but I know we could never get him...we tried to get him to push it to the President and he wouldn't do it.  He really didn't take hold of a lot of the privileges he had.  For example, he was supposed to have a car, because of his office in the White House of his own.  He had this office over there which he hardly ever used.  The President gave him all kinds of power to take over things that were done in USIA and the Department of Defense and it was a big job in the Department itself.  Ambassador Mann was an extremely talented and strong man but he was not a bureaucratic in-fighter and I'm sure there were many other reasons I'm not privy to, but for whatever the reasons he ran the State Department.  He let us play around with our ideas on trying to pull the rest of it together.  Rodger Abraham was the Executive Director at that time and Rodger was very, very strong on going ahead.  He was constantly trying to push Mr. Mann to do these things but he would just go so far and stop.  Anyway, that was the thrilling time that I came in.  And it was a fabulous job and I loved it and had fun with it.</p>
-<p>
-<hi rend="italics">Q:  How long had you had that?</hi>
-</p>
-<p>GRANICK:  I had that from '63 to '66.  Three years.</p>
-<p>
-<hi rend="italics">Q:  But then were you able effectively to function as the head of Personnel?</hi>
-</p>
-<p>GRANICK:  In Latin America, you mean?</p>
-<p>
-<hi rend="italics">Q:  In Latin America.</hi>
-</p>
-<p>GRANICK:  I would say no.  They knew I had the title and in fact we tried to get them to do away with their Director of Personnel in the AID Bureau, my counterpart.  What they did was they changed his title to something else, but in effect they all came to him anyway and I was constantly trying to get them to work with me.  They would work with him and he would come to me.  But they always used him as an interspiele.</p>
-<p>
-<hi rend="italics">Q:  So you were presented with a fait accompli on assignments?</hi>
-</p>
-<p>GRANICK:  Oh yes, pretty much.  Don't misunderstand me, we did get some people in AID jobs, we got some AID people in State jobs, but we could never complete a planned activated program that would go to work on its own.  It was always pulling teeth, one assignment at a time.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  Do you think it would have worked if it had been permitted to?</hi>
-</p>
-<p>GRANICK:  Well, yes.  It's hypothetical.  I think certainly the way we had it worked out with the funding, and as I say the people involved were very excited because we made a very great effort to assure the AID people, for example, that this was not, as many people tried to make out higher up, a power grab by State; that we were truly interested in allowing all people to have the experience of working in AID, in State, and would be scrupulously fair in the assignments and the jobs they got and so forth.  So the working stiffs I think were pretty excited by it.  They believed us.  But as I say I'm almost certain that AID was working very hard, from what I say and from what I heard, AID was working very hard to make sure it didn't work because next would be Africa and then....</p>
-<p>
-<hi rend="italics">Q:  They just wanted to stay independent?</hi>
-</p>
-<p>GRANICK:  Of course, after all, one of the main reasons for doing this and I'm sure it is now is that you're replicating the whole administrative superstructure and we could have done away with a lot of that.  But we were far from doing that.  Everybody was still in place, and still earning a paycheck.  But still they could look down the road and not like it.  Not want it to happen.</p>
-<p>
-<hi rend="italics">Q:  You can tell Perot about this.</hi>
-</p>
-<p>GRANICK:  Oh, Perot, please.  Anyway, it was fascinating times.  But that's how I started.  It was a fantastic introduction to the State Department.  And then from there I went on to be Administrative Officer in Mexico City and once again I was thrown into an entirely different kind of situation.  But my background prepared me for what I had, a lot of administrative, particularly in personnel, and that's primarily what they wanted me to do.  Tan Baber was the Administrator Counselor in Mexico and I had two titles, Deputy Counselor for Administration and Administrative Officer.  So I was Mr. inside and he was Mr. outside.</p>
-<p>
-<hi rend="italics">Q:  What was the difference in what you actually did?</hi>
-</p>
-<p>GRANICK:  That's a good question.  I guess I would say that he would deal a lot with the other agencies.  He would work a lot on the setting up of budgets.  He would meet with the Ambassador quite often on what the Ambassador wanted done.  As you know, the Administrative Officer has a lot to do beside running the embassy, and the Ambassador used Tan a lot.  Tan was a very effective Counselor for administration.  And he would use him for a lot of projects.  Tan was quite content to let me deal with the Division Chiefs, GSO, Budget and so forth.</p>
-<pb facs="0006" n="Page0006"/>
-<p>
-<hi rend="italics">Q:  What kinds of projects...in other words, you were sort of the DCM to his Ambassador?</hi>
-</p>
-<p>GRANICK:  That's right.  And also, he took off a lot.  He was gone a lot.  He went back to the States on home leave and also sometimes we'd go to other posts.  That's another thing.  Mexico had 12 or 13 or 16 posts - that went up and down as they closed them - but he would also travel a lot to the constituent posts and leave me in charge.  I'd be in complete charge when he was gone as a DCM would be to the Ambassador.  But I worked very hard, too, when he was there, trying to make sure there was a big boost of training in the embassy and that our personnel rules and regulations were in place.  People knew where they stood.  People had the proper position descriptions and I think I mentioned to you the other day that I had a couple of extra duties which were fabulous.  The Olympics took place in '68.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>GRANICK:  And not only was I in charge of the Olympic Attach� who had a staff of 2 or 3 but also at that time a lot of the Mexicans left tried to stop the Olympics because they felt Mexico was spending too much money on it, money that should have been spent for the betterment of the people.  And it wasn't just protests and throwing rocks and eggs, they were actually firebombing American schools, American buildings and because of my position as the liaison between the embassy and the school board I became the person who would decide each morning if they'd open the schools depending on what other agencies at the embassy would tell me.  I'll be circumspect.  Depending on what intelligence there was, every morning the head of the American school would call me and I would tell him yes or no you should open today depending on what the plans were that we heard about, for firebombing or terrorizing the kids.  They'd drive by and scream at them and things like that, and threaten to kidnap them and so forth.  And then the head of the American school would tell the school that had a lot of American kids in it whether they should open it up.  It was kind of a hierarchy and that was a fabulous experience.</p>
-<p>
-<hi rend="italics">Q:  I think it would be interesting to describe the whole setup that you established to handle all of the details of the Olympics.</hi>
-</p>
-<p>GRANICK:  Well, I don't want to imply in any way that I was running the Olympic Attach�'s office.  He was a professional who had come out of Texas.  He had been something in charge of athletics in the city and he knew what he was doing and he would come to me primarily for money or when he had problems but I pretty much let him run...</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q:  So he had a lot of contacts with the Mexican counterparts?</hi>
-</p>
-<p>GRANICK:  Exactly.</p>
-<p>
-<hi rend="italics">Q:  Even the police?</hi>
-</p>
-<p>GRANICK:  The police and the Mexican government.  And he spent a lot of time out at the Olympic village and I got involved also.  Some of his staff was dealing with the commercial aspects of it, that is the selling of T-shirts and stuff like that, could they put an American flag on it, could they do this or that.  Also as always there was a matter of tickets.  Who got tickets and who didn't.  He had people to handle that.  But when things got real tough if somebody was complaining about not getting tickets or Americans felt they had been slighted, then they'd send them to me.  He'd always use me as the next level up to take care of it, but I didn't get involved in the day to day nitty-gritty.  The one thing I did get involved in was the Ambassador asked me to put on a show at the embassy using the Olympic cultural people.  In don't know if you remember this or not, but I'm not sure it's ever been done again.  Mexico decided that in addition to the physical or athletic Olympics to have a cultural Olympics and they brought stars down from all the countries around the world.  From the states we had Duke Ellington, for example, and Jimmy Lundsford and Count Basie, a lot of jazz greats.  So I had to again work with the Olympic Attach� and work with the Mexican government too directly in this case and make sure we did get these people in and we gave them a fabulous show there at the embassy.  That was just one of the little details.  Now, to go back to the terrorism which occurred by the left to stop the Olympics.  Not only were they firebombing or terrorizing the schools but also they were constantly harassing and threatening the embassy.</p>
-<p>
-<hi rend="italics">Q:  Now this was before the Olympics or during?</hi>
-</p>
-<p>GRANICK:  Before the Olympics, they still had hopes of stopping it.  And I'll tell you what the climax was in a moment.  I didn't mention this the other day, but I remember one day for example there were thousands of them marching down Paseo de la Reforma and we always had these swat teams, these riot swat teams, Mexican toughies on the side streets and one day I was shocked to look out of my window and see tanks in the side streets.  Well they were going to have a big demonstration that afternoon, the parade came by and suddenly someone shouted an order and the crowd broke and began to rush the embassy.  Thousands of them.  And the police were trying to hold them back but they would not have succeeded.</p>
-<p>
-<hi rend="italics">Q:  Did you have those great iron gates closed?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>GRANICK:  Yes.  They were all closed.  But I'm sure they had ladders and things, they were going to try to invade the embassy.  Well they didn't see the tanks of course and I'll never forget this as long as I live.  All of a sudden you heard rrrrumblerrrrumblerrrrumble and these tanks came around the front out of the side streets and they set up a phalanx outside of the embassy and this is the part that's most frightening, those huge guns came down and pointed right at the crowd and the crowd stopped and then just broke into a thousand pieces and took off.  Oh yes.  And I'm convinced they would have shot.  The reason I say that is the final turmoil and the final terror was the government invited all of the ringleaders of these groups that were trying to stop the Olympics to a big meeting in a big square in downtown New Mexico.  It's called the Court of the Four Cultures.  I don't know whether you've heard of it or not but they've got ruins there, the Old Mexico and the New Mexico and the Future Mexico and so forth.  Very large, it's ringed by apartment and office buildings.  Well, the opposition came, and they had been pretty thoroughly beaten, but they were still trying.  The government obviously thought they still had some pep left because when they got them all in the square they open fired on them.  Now this didn't get too much publicity, it did get some publicity and particularly in the foreign press.  They killed a lot of them.  The number is still in dispute.</p>
-<p>
-<hi rend="italics">Q:  This is still in the same time period, just before the Olympics?</hi>
-</p>
-<p>GRANICK:  Just before the Olympics.  That was the end of the protests.  Suffice it to say, Bill, I can't prove this, they killed hundreds.  The government I think at the time just said some people were killed they never gave a figure, but I think it was hundreds.  They had bloody pictures all over the newspapers.  The foreign press played it up large, I don't know how large it was here but they killed enough and that was the end of that.  They put an end to that.  So then things went on and the Olympics were held and we had the usual problems with tourists and people complaining about being mistreated or not getting their hotel room or not getting tickets.  We used to sleep in the office quite often.  I had a cot, we couldn't go home.  There was just too much going on.  During the days of the protests we never went home at all.  We had a command post set up there.  But it went off and the Olympics were very successful and Mexico recouped most of its money, but those were hectic, wonderful days.  I could go on in this vein, or I wrote down a couple of notes here of things that interest me particularly in the administrative field if you'd like to, but go ahead and ask questions first if you want to.</p>
-<p>
-<hi rend="italics">Q:  Let me just ask one thing that interests me.  You had in effect, three at least that we've covered so far, major types of service and the first was outside the State Department.  And then you came into State in Washington and then you had the foreign service in Mexico City.  Is there anything that you would like to say about the difference of the working circumstances in these three different fields?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>GRANICK:  Yes, and before we leave I would like to mention that I was privileged to be in the office of the Inspector General for many years in several positions so I also saw how that was.</p>
-<p>
-<hi rend="italics">Q:  Right, I'm interested in the differences in the essential working environment in these different fields.</hi>
-</p>
-<p>GRANICK:  Okay, lets take overseas, I was impressed overseas with the high quality of both the Officer Corps and Clerical Corps.</p>
-<p>
-<hi rend="italics">Q:  Higher than your staffs before that?</hi>
-</p>
-<p>GRANICK:  Well, what you have in the State, what you HAD in the State Department, I always have to be careful.  I've been out four years now, but certainly whenever I say anything it's when I was there obviously.  I have not followed the new marvelous changes of which I'm sure there are many, but what we had overseas was tremendously high quality officers and tremendously high quality secretaries, clerical help and foreign service nationals.  I won't go into it in great depth unless you want me to but I just want to touch on the fact, and this is one of the things I had in my notes.  One of the things that bothered my greatly in spite of the fact that we had very high level nationals in Mexico and as an Inspector I saw them all over the world, they were never given, as far as I'm concerned, enough to do commensurate with what we paid them.  I think we assuaged on guilt and maybe enhanced our ego by overpaying our nationals but as far as I'm concerned, the only international organization that actually holds down our nationals, with a corporation, I know there's a difference.</p>
-<p>
-<hi rend="italics">Q:  You mean on substance on the degree of importance of the work they're given?</hi>
-</p>
-<p>GRANICK:  No, I realize that we're not a business, I realize there are classified and intelligence concerns but I think it goes beyond that.  I think we misused or underutilized certainly the nationals that we had there.  In fact, I went back to do a special project as an Inspector only about 8 years ago when I talked with a fellow who was the highest national in USIA.  He'd been a good friend of mine and he said that he was sorry now that he went to work for the embassy, even though he loved the people in the embassy and he was tremendously regarded, but he said “I never was ever able to do the level of work I was capable of.” He said the lowest American officer, you know how this worked, the lowest American junior officer would come in and do co-op work that I had been doing, if he felt like it, take it over, this is the USIA.  But the same thing happens in State.  That's something we can discuss at length if you want.  I have strong feelings about that.  But in the Department itself, the officer level is very high, the quality is extremely high.  The clerical level is awful, just terrible, this is part of the Washington syndrome.</p>
-<pb facs="0010" n="Page0010"/>
-<p>
-<hi rend="italics">Q:  Now is that because they are civil service so they are subject to all the rules of civil service?</hi>
-</p>
-<p>GRANICK:  No, no they're poor quality.  No, I think that's another thing we have to be clear about.  The other agencies have civil service employees and some of the finest employees you'll find are civil service employees, they go up to a very high level and they get paid high money and they do a wonderful job.  In the State Department, I think it's a Washington problem, but we certainly seem to get some of the worst in terms of quality that I've seen, and in important clerical jobs, too.</p>
-<p>
-<hi rend="italics">Q:  In my career, I had I suppose about half of my time in Washington, and I always had very, very high quality clerical people.  Maybe the substantive jobs.  These were partly desk and then partly aviation and negotiating and then inspecting.</hi>
-</p>
-<p>GRANICK:  You're getting professional people I think.  When I say clerical I mean down at the 4, 5, 6, 7 level.</p>
-<p>
-<hi rend="italics">Q:  I mean the people you would have as your secretaries and your file people and so forth, they were always very good.</hi>
-</p>
-<p>GRANICK:  Well, yes, I don't want to cope with too big a brush, obviously there were exceptions.</p>
-<p>
-<hi rend="italics">Q:  I've heard a lot of people now make this same point about State, that the clerical staff is really in very poor shape.</hi>
-</p>
-<p>GRANICK:  There are people who were working in State at the time I was there at the lower clerical levels that I don't think should be working anywhere until they were better trained and better educated.  In the Inspection Corps, for example, where you need highly qualified secretaries, this was probably our Achilles Heel.  It held up reports, it caused tremendous problems.  I really feel very strongly, well, I don't know how it is now, but the time I was there we were still having difficulty recruiting people so you kind of took what you could get.  But I would certainly say that if that is not the case any longer, if we have a choice of what we take, we should be extremely selective because the best person in the world if he has poor help can be held back.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  But what about the degree of management control over that staff.  If a manager really wanted to improve the level of his staff would he have the power effectively to do it or would it all be tied up in knots of grievance procedures and all the rest of it.</hi>
-</p>
-<p>GRANICK:  I'll tell you what I try to do and what a lot of us try to do in the Inspector General's office.  We try to give these ladies training.  And up to a certain point, that improved them.  And certainly, and I'm not in any way saying they weren't, well, most of them were cooperative and pleasant.  A lot of them were undereducated and had not been trained and yes, you bring up a good point.  I think part of the fault has to be the officers.  A lot of officers don't want to be bothered, will not take the time or don't have the gumption sometimes to take on people in the clerical service.  They won't manage them.  I remember one experiment we tried where each team would control it's own secretaries, it was disastrous because the Senior Inspectors simply could not face down these ladies.  They could gripe up a storm but they simply would not face down.  They'd maybe yell at them sometimes, but just did not want to work with them or help them, you have to be fair about that.  But again, sometimes the quality was such that there wasn't much to work with.  I know there are exceptions.  There are a lot of wonderful people working in the IG's office, and I still see them, still enjoy them and like to talk with them, but I guess what I'm saying is we took in people I don't think should have been hired.  Lets put it like that.</p>
-<p>
-<hi rend="italics">Q:  Well I know that's true in the Department of Labor because I have a special contact in the Department of Labor, but I think they're worse off than the State is.</hi>
-</p>
-<p>GRANICK:  It was just a constant battle.  A constant battle to get the work out in a efficient manner in a quality manner.</p>
-<p>
-<hi rend="italics">Q:  Did you, in those roles in the State Department, have an awful lot to do with the unions?</hi>
-</p>
-<p>GRANICK:  No.</p>
-<p>
-<hi rend="italics">Q:  Because in Labor, they do.  The unions have representatives and a lot of these issues have to be discussed with the labor unions.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>GRANICK:  No, in fact the State unions do not push themselves forward very much at all.  They're pretty quiescent, and quite frankly, I hadn't thought about it before, but I think one of the reasons is I think State is very generous in its classification and its perks and it's not very hard-nosed when it comes to discipline.  I think that's part of the reason the unions don't show their face very often, don't get too involved because there isn't that much reason to.  I always thought that the clerical staff in State was horrendously overrated, overclassified.  That was one of my specialties in my background was position classification and when I was with the Office of Personnel Management, so I understood classification.  It was awful at State, just awful, horrendous.</p>
-<p>
-<hi rend="italics">Q:  Basically an upward creep.</hi>
-</p>
-<p>GRANICK:  Oh yes, upward stampede.</p>
-<p>
-<hi rend="italics">Q:  And then you get overcrowded at the top with low quality people.</hi>
-</p>
-<p>GRANICK:  That's right, and they get to a certain grade level, they don't have to work hard anymore because they're making a decent salary.  But no, I didn't face the unions very often.</p>
-<p>
-<hi rend="italics">Q:  Now I don't know where we were.</hi>
-</p>
-<p>GRANICK:  Well you were asking me the difference between the quality of people and any problems, domestic as well as foreign.</p>
-<p>
-<hi rend="italics">Q:  That's right, and the functioning systems that you had, any differences that there might have been among the various....</hi>
-</p>
-<p>GRANICK:  Well the functioning system of course, I don't know how it is now, when I was leaving, I retired in '88, there was much more control being exerted over local personnel or national personnel.  Something I had been for for many many years, because there was grade creep, awful grade creep overseas too.  So as I said I think we assuaged our guilt and enhanced our ego by overpaying but...I've lost my train of thought...</p>
-<p>
-<hi rend="italics">Q:  You've covered it basically.</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>GRANICK:  One thing we haven't talked about overseas which I'd like to get into because I think it's terribly important, I don't know what's going on now, has to do with contract personnel overseas.  Now, I know after years and years of yelling at the top of my lungs they finally did something about contract personnel.  The OMB actually gave us jobs to do away with a lot of contract personnel.  You know for years and years we were using contract personnel as nationals.  There was no difference and the whole idea of cutting back on nationals was to save money.  Back in Johnson's time again, when we had those tremendous cuts.  But the Department could not do its job and so they began to hire contract people and pretty soon they worked for 5, 10, 15 years and they thought of themselves as employees, but they weren't.  They weren't supposed to be, they were supposed to be non-personnel services with no rights, no retirement, none of that but they were getting all of it and so as an Inspector...</p>
-<p>
-<hi rend="italics">Q:  They were getting it?</hi>
-</p>
-<p>GRANICK:  Oh, yes, it was being built into their contract, so they were getting health and retirement, everything, not official civil service retirement but they were paying it into their contract in such a way that they were getting it.  And severance payments, the whole works.</p>
-<p>
-<hi rend="italics">Q:  But, do you know, Bob, when I was inspecting, and this was really a long time ago, this was like 18 years ago, we were identifying the use of contracts without a lot of these marginal protections as an evil because here these people were working for year after year without a lot of these protections and so in effect what I see is a pendulum effect.  We would point out an evil and then you say it went the other way too far and so in effect you had a permanent bureaucracy that was established as contract people.</hi>
-</p>
-<p>GRANICK:  That's right, it cut both ways, we also hit them where we saw people who had nothing.  They'd work for 15, 20 years thinking they were employees and then suddenly, good-bye and thank you, maybe a thank you, and that would be the end of it.  But then no, after we told them that you can do this they began making it more and more a regular personnel system as part of the staff which was also evil because there were no controls on them.  One of the things I would hit constantly, for example, was that there was no control on the money.  They would get a million dollars for one year to work with locals and find out that wasn't enough.  So even though the contact was written for a million, they'd spend two million and there was no official document.  They just got the money or would use the money from someplace else to pay these people.  But there was no document covering it so financially it was also not being done correctly.</p>
-<p>
-<hi rend="italics">Q:  Were these basically American citizens overseas?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>GRANICK:  No, these were mostly nationals.  But there are also Americans.  And that's one of the things I wanted to mention when I said I wanted to make sure we got into this because I was talking to a Senior Inspector just the other day and some of the things that we discovered when I was inspecting are still going on.  In fact in one place the same guy was there.  Americans who come there and live in a foreign country and get these very lucrative contracts to fix cars, for example, and often will fix other people's cars on the side or import parts ostensibly for our cars and use the parts for other people's cars, and so forth.  Building up a tremendous business where Uncle Sam is helping them and also being paid a tremendous contract price to run this garage.  This is just one.  I found a lot of this going on with contractors who were running our PXs overseas.  We don't call them PXs, but you know, the government store.  The American clubs would often build up tremendously lucrative contracts for themselves.</p>
-<p>
-<hi rend="italics">Q:  But then, here in an embassy where this is going on, what kind of procedures or structures would you have to try to keep control of it?</hi>
-</p>
-<p>GRANICK:  Well the first line of defense of course is your Administrative Officer.  And now you get into a very interesting area that I wanted to talk about.  The Administrative Officer has the responsibility to keep this under control.  But this isn't nearly as much of a pressure or a drive as giving the people at the embassy, from the Ambassador on down, what they want.  The Administrative Officer's job primarily is keeping the Ambassador, the DCM, and the rest of the people at the embassy happy.  And if he can get them what they want, money, the material, the perks, they're happy.  And if Washington doesn't slap his wrist or an Inspector doesn't come along, which they do all the time, doesn't need to change and give him a hard time, he's in clover.  Because he gets written up as being an excellent Administrative Officer and a can-do person.  As one Administrative. Officer who's very successful once told me, the worst thing you can do as an Administrative Officer is say no.  Find some way to do it.  I understand that, I have no problem with that, but only if it's legal and reasonably efficient.  I do not believe you always have to say yes if it means giving away the store or bending the rules so much that they break which is constant problem overseas.  And you'll get a kick out of this, I won't mention any names, but I keep hearing stories about “X” Inspectors who go out and become Ambassadors or high level officials and how quickly they forget what they learned in Washington about what's right and what's wrong.  They want to lead a nice, comfortable life also, and I understand this, but it's a problem in these days of tight budgets.  And I think the Administrative Officer should be the one to do an efficient job, to do a conscientious job, to help the embassy get it's policy and programs done but in a reasonably efficient and cost effective manner.</p>
-<p>
-<hi rend="italics">Q:  I guess what I was really asking, suppose an Administrative Officer really wants to run a tight ship on this question of honesty because we're talking about things that are essentially dishonest.  Does he have the mechanisms and the procedures in his skills to prevent such finagling.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>GRANICK:  Well now when you say procedures, he knows what he's doing, he knows what's going on.  He's smart, if that's what you mean.  Ad there are rules, there's lots of rules in the books to tell him what he can do or what he shouldn't do.</p>
-<p>
-<hi rend="italics">Q:  Alright, but do his books tell him how he can sniff out somebody that's finagling?</hi>
-</p>
-<p>GRANICK:  We're talking about two different things, here.  We're talking about sub rosa finagling, I think that's what you're talking about.  Would he know if somebody was cheating on their budget or if somebody was bending the rules behind his back?</p>
-<p>
-<hi rend="italics">Q:  Or, an example that I ran into, was diverting building materials from the embassy to build one's own vacation home out in the woods.</hi>
-</p>
-<p>GRANICK:  Who would be doing this, the Ambassador?</p>
-<p>
-<hi rend="italics">Q:  This would be, in the case I'm thinking of, a local employee.  Would the Administrative Officer have the devices which should have brought this to light?</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>GRANICK:  Not him specifically.  The GSO should be reading work orders, should be reading bills of lading of materials coming in and the most, to me, the simplest kind of oversight he could see a thousand gallons of paint coming in and two orders for painting that would consume no more than a hundred.  Yes, that's just simple management.  Which gets me into training which we don't do very much of.  But anybody worth his salt would be doing oversight work.  Plus an Administrative Officer who goes around as I always did visiting the GSO and talking to people and going to parties should hear, “Boy Jose really did a job on his home.” Now if it was me, I would immediately get suspicious.  My ears would perk up; “Oh, really, what did he do?” and so forth and so on.  “Oh, he's got a beautiful home out there, he just painted it” and so forth and so on.  I would expect my GSO also to hear things.  As I say I would be expecting him to look at work orders, bills of lading to listen to his people when they talk.  It's very hard to cover up something like that.  The warehouse ______.  There has to be a pretty broad conspiracy to cover up this kind of thing.  But if nobody cares, then it's very easy.  I guess what I'm saying is there are definitely management ways, administrative ways of sniffing these things out.  But I wasn't talking about that, I was talking about your buddies doing it, not the locals.  I mean the Administrative Officer himself or the Commercial Officer, the Economic Officer, the Ambassador or the DCM bending the rules a little bit.  I would address that question.  I don't know of an Administrative Officer who would immediately raise the issue.  He would stand on his head, he'd try to caution the Ambassador or he'd maybe give hints, lets say it's the Ambassador.  “Sir I don't really think you should be doing that.” But it would drive him insane and he certainly would not just come right out and write Washington.  I don't know anyone who would do that.  Your career is over.  Now they have an Ambassador, as you know, who abused, to use your example, building materials.  But it didn't come from the Administrative Officer, it came from an anonymous note from the embassy to the Inspectors.</p>
-<p>
-<hi rend="italics">Q:  I have heard of a couple of cases where the DCM wrote back and blew the whistle.</hi>
-</p>
-<p>GRANICK:  Yes, and it's tough on him isn't it, very tough.  You have to see what happens to him after that.</p>
-<p>
-<hi rend="italics">Q:  The case I'm thinking of, the fellow came out fine.</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>GRANICK:  Well that's good, that's encouraging.  It doesn't happen too often.  Also there is kind of a conspiracy of silence.  You know, the good ol' boys, we're all good ol' boys.  We all hate to blow the whistle.  But to go back to your original question, we know our problem being part of a club and liking each other and working closely with each other is another problem overseas.  We work very closely with each other and no one likes to snitch on one of his buddies.  But to answer your question more directly, again, yes there are many ways of sniffing these things out.  They should not happen.  When I was Administrative Officer I would berate a GSO if he didn't tell me immediately if something was going on and I would stumble upon things and say what's going on here.  By the same token, I do not think that an Administrative Officer is doing his job, and I found a lot of these too, if he's very tight and tries to save money and not give people what they're entitled to.  That's the other side of the coin, the obverse.  I remember berating one Administrative Officer who was always sending money back to Washington.  That's fine if you've done all that you have to do and you still have money left over.  He would save money and would not do things that needed doing.  That's the obverse, of course, that also is not good management.  That happened quite frequently.  They'd try to make a name for themselves by not doing what has to be done.  An Administrative Officer has an awful lot overseas particularly, and an awful lot of leeway in what he can do.  We know that from inspecting.  He can be a tremendous boon to the embassy, get things done, keep things nice and fresh and run things efficiently and be fair to people and keep everybody happy, it can be done.  Because as far as I'm concerned, I don't know what's going on now but even in the days with little money, I just don't remember not having enough money to do what had to be done.  Particularly if you did it right and didn't waste it.  Washington has always been very generous with its posts.</p>
-<p>
-<hi rend="italics">Q:  There was always a lot of problem with phasing it over the year with people carefully saving some money so they wouldn't run out.  Then they spend a lot in the last couple of months and then congress complains about that.</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>GRANICK:  Well, you know how they try to stop that.  There was no spending in the last three months, or something like that, that's one thing I found as an Inspector.  You come across a lot of backdating.  They try to mock the bills as before the three months and so forth.  It's very tough, and do you know what part of that is?  That's another thing I meant to talk to you about.  In Mexico I had a terrible time getting the Economic Officer and the Political Officer to work with me on budgeting.  They just did not want to sit down and work with me in budget.  They'd say, well here's how much I need and it would be last year's plus and increment above last year.  And I said, what do you intend doing with this, what do you have in mind.  Give me an idea of your program because maybe I can work...  “Oh, Bob, don't worry about it.  Just give me what I need” and so forth, and then of course if it didn't work out and they needed even more.  They say “I need more” and you could just throttle them because if they had thought about it, it is something they could have anticipated.  But my experience has been that the “substantive” people just don't want to be bothered with administration unless there's no money, unless they don't get what they want.  And, lord knows that they have a lot of important things to do, but it's always a joke.  Inspectors will tell the Ambassador all the things that have gone wrong in the embassy, the administrative things.  You've gone through this, I have of course, and the Ambassador would roll his eyes and say “I wish I had known about that.” In fact, I won't mention names again but somebody who knows better than that.  It happens that recently they were inspected after being very high up in the Inspection Corps.  This individual used to always make jokes about it “and we told the Ambassador and you know what he did, he rolled his eyes, 'I wish I'd known about that'” this fellow would say.  “Can you imagine an Ambassador not knowing what's going on in his own embassy.” Well recently he was inspected and he rolled his eyes and said “I wish I'd known about that.” It all depends on who's bull is being gored.  But no, an embassy overseas, I don't understand how anybody can get away with anything without the Ambassador, DCM or Administrative Officer knowing about it because so much information is being passed around, both officially during the day and socially at night.  You've got to keep your ear to the ground and take action on it.  Well, I'm interested in what you said, you said that once again they're trying to bring AID into the State, amalgamating.</p>
-<p>
-<hi rend="italics">Q:  I've just seen this mentioned in the newspapers, that this is again being debated.</hi>
-</p>
-<p>GRANICK:  I just thought I would always like to see more assistance coming down from Washington to the posts.  I'd like to see a strong Under Secretary for management.  Someone who really cared, not only about the stellar program and the stellar problems in the department, but someone who would take an interest in the posts and come down and visit or take more interest in the kind of problems the posts have.  I think too often they're just up there in the stars.</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q:  But if you retired four years ago, you had several years of the cutbacks of staff and I wonder whether, I mean the budget was really beginning to be tight long before you retired and I wonder what your feeling is as to the impact on the effectiveness of the job being done by those cutbacks.</hi>
-</p>
-<p>GRANICK:  I simply have not seen any downturn in the job.  Either in the department or overseas.  In fact I lived through many, many cuts, tremendous cuts, both in personnel and money and it always amazed the hell out of me that somehow we always got the job done in the State Department.  Now I realize people worked very hard, we put in how ever many hours had to be worked and all that, but it may sound very naive of me and again I'm not present in all the various aspects of the Department's work, but I simply did not see any great loss of effectiveness.  There always seemed to be money from somewhere.  We have tremendous fungibility in the money in the State Department.  I can remember old John Thomas, remember John Thomas?  I brought something up to him one time where I felt money was not being used in the proper manner for what it was intended and he looked at me, he said “Bob, how do you think I paid for all of Kissinger's travel?” You know, they're always pulling money from every angle, every corner of the State Department to pay for the Secretary's travel.  They have to.  What are you going to do, it has to be done.  But no, the answer is I just haven't seen any tremendous downturn.  I wanted to mention a couple of other things too that I think are important, training, for example.  Except for the specialist training put on by the bureaus and FSI which I think they do beautifully, when I was in the State Department I was always trying to get more training in a more systemic way.  Like administration, will stick with administration, that's what I know.  Even the way people are used, we have such a rich mix of people coming in.  Our recruitment pool is probably one of the finest, richest in the world as far as I'm concerned, the richest of any Department.</p>
-<p>
-<hi rend="italics">Q:  Oh, the substantive side, you mean.</hi>
-</p>
-<p>GRANICK:  No, I mean all sides, I mean administrative also.  I think people come in to be Administrative Officers.  Have we changed again, by the way?  We used to have cones.  Are we still bringing people in in cones or not.</p>
-<p>
-<hi rend="italics">Q:  I don't know exactly.</hi>
-</p>
-<p>GRANICK:  Because I read something in the paper that they're going to change that again.  I never can say it in French, you know the more things change, the more they stay the same.  I mean we have a tremendously talented, rich pool of people who are drawn into the State Department for all of our work, economic, administrative...</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  Except the clerical, you see.</hi>
-</p>
-<p>GRANICK:  Oh forget the clerical, I'm not talking about clerical, that's a whole different problem.  I want to just go in for a moment into the administrative offices.  This is my own little concern that I've had for years.  I don't like the way the State Department brings in people, intelligent people and throws them out to the small posts as Administrative Officers.  Sometimes they aren't even Administrative people, they're consular types or others.  They have no job for them, and they throw them out as Administrative Officers.  Or they have one turn as a Personnel Officer and then they put them out in a small African post.  Now I know they need them, but as far as I'm concerned, I don't care what has to be done, you should take these highly intelligent people and give them three or four turns in the big posts under highly experienced people in GSO, in Personnel, in Budget, Security, wherever, then you send them out to a small post as Administrative Officer and that's when you really see what you've got.  Is this person going to make an Administrative Officer?  But he has enough background and training in the various administrative disciplines to do a job.</p>
-<p>
-<hi rend="italics">Q:  He knows what he can do and can't do.</hi>
-</p>
-<p>GRANICK:  Exactly, and some of those African posts are the most difficult in the world.  And so often I go out there and I couldn't believe it.  They'd send some kid out there who didn't know his you-know-what from a hole in the ground and expect him to function and keep those people well and keep them doing their jobs properly.  So I don't care how I'd rearrange things, but I'd make sure the Administrative types went through training not so much in the classroom, although some of that is always worthwhile, but I mean out in the field under tremendously good people.  And then I'd start them up the line with better and better administrative posts until you hit the big European posts and the Asian posts and so forth.  But I think training has been fantastically overlooked in that regard.  I want to mention also I would like to see the Ambassadors take as much interest in the Administrative activities of their agencies as they do the program activities.  I think the Ambassadors have done a good job of overseeing AID, USIA and defense in what programs they're carrying on and how they fit in with the State policy of course.  Inspectors look at that very closely.  But we also used to look at how they were handling personnel housing and the other administrative aspects of the other agencies.</p>
-<p>
-<hi rend="italics">Q:  Now, how would they do that?</hi>
-</p>
-<p>GRANICK:  Well, they do that because the other agencies are supposed to put in their budgets through the DCM and Ambassador and they see what they're going to spend money on.</p>
-<p>
-<hi rend="italics">Q:  The budget time is the time when the Ambassador would do that?</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>GRANICK:  Oh, yes, absolutely.  At that time, he'd call in his Administrative Officers and DCM of course and say I want a breakdown on what they're spending on housing.  And also, the Ambassador, as you know, is supposed to constantly determine how many people should be in a post.  He has tremendous power in that regard.  A lot of them don't want to utilize it.  Some of them do.  I would like to see the Ambassadors really take charge of what the other agencies are doing but unfortunately they don't like to do that, most of them.  Again, it's the old management bugaboo, but we're not managers, management is not our bag, as old _______ once said.</p>
-<p>
-<hi rend="italics">Q:  Now this was very much on the carpet 20 years ago so I'm interested, do many Ambassadors actually require a cutback of staff of other agencies if they think they're too big?</hi>
-</p>
-<p>GRANICK:  Well, it's required of them, and I think, again, this waxes and wanes depending on the Bureau of the Budget and depending on the management in the State Department and so forth.  There had been times when tremendous pressure was put on from the White House to make sure Ambassadors did recommend cuts.  In fact, did you know there had been programs, UPRAD, remember UPRAD?  And there's been programs like that constantly where the Ambassador is responsible for sending in lists of people, not only of State Department, of all the agencies that can be cut, and I don't think it should be done just during the periods when they have these cutting programs.  I think it should be a part of his duty as an ongoing commitment to constantly oversee other agencies and their personnel and their housing allowances and the money they're spending on various comforts.  This can really harm morale, it happened a lot of times.  I'd see where AID was doing a lot of things for their people that State was not doing.  They shouldn't have been doing that because I think there's also a law, a rule that all the agencies should be spending about the same amount on giving their people the same amount of comforts and so forth.</p>
-<p>
-<hi rend="italics">Q:  Well maybe on the giving circumstances but on representation, for example, the military always was basically unlimited and we were really on pennies.</hi>
-</p>
-<p>GRANICK:  That improved a little bit after Rooney left.  Remember he wouldn't let us go over a million dollars?</p>
-<p>
-<hi rend="italics">Q:  The liquor fund.</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>GRANICK:  The liquor fund, that's right.  And of course he was the biggest souse in the world.  He used to go out with Crockett, that's how Crockett got up so high in the beginning.  He got attention, he was a very good man, but I mean he got attention because he used to go out with Rooney and they'd drink together.  Rooney loved to drink but he always used to make fun of the State Department's booze fund.  But anyway, I think representation, speaking of that, is done fairly well.  We came across a couple of Ambassadors who tended to hog it, but for the most part I though they gave it out rather fairly.</p>
-<p>
-<hi rend="italics">Q:  Well, it depends on the circumstances, in Europe where the cost is so high, I think it was almost laughably inadequate.</hi>
-</p>
-<p>GRANICK:  Yes for the lower people.</p>
-<p>
-<hi rend="italics">Q:  Well, I mean not too low.  You'd go down to the economic Officer, really number one or two and they'd have enough money for one party a year and then there wives would be making the hors-d'oeuvres for three days before the party and so forth.</hi>
-</p>
-<p>GRANICK:  What wives do this anymore.  He's a very luck man.</p>
-<p>
-<hi rend="italics">Q:  But where you couldn't afford servants and ....</hi>
-</p>
-<p>GRANICK:  Well, you know in Paris and Rome where you have a Career Ambassador they had to get money from the State Department, they couldn't hack it.  I mean extra money in addition to the fund as you know.  Arthur Hartman, they had to get additional money.  He's a private citizen and he did some very wonderful things.  And then went the Forth of July.  I was inspecting and they had hotdog stands and peanut wagons and a real American Forth of July.</p>
-<p>
-<hi rend="italics">Q:  Well, that's what we switched to in Manila, because previously the Ambassador would give a party at his residence and any American in town was welcome to show up and that just took practically the whole representational money for the year.  So they turned it in to a sort of a softball and out door picnic.</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>GRANICK:  That's all you can do, sure.  I remember in Mexico we had our Fourth of July party and I had a heck of a time getting rid of one guy who said “I'm an American citizen and I heard about this big party and I'm coming.” “I sorry sir but we only can invite certain people, and foreign dignitaries.” “What, your inviting foreigners and I'm here and I can't.....” It took me to hours, he was going to go to the President.  Those were some of the fun things that happened.  But I like the strong Ambassadors and I like the Ambassadors who do keep control over all the agencies and some of them can do it, but golly it takes a lot of muscle, a lot of guts, but the law is on their side.  I guess they keep repeating that letter from the President.  I suppose that still stands.</p>
-<p>
-<hi rend="italics">Q:  Yes, that goes back to Kennedy.  That letter still is repeated as a matter of fact I think it's even been strengthened in the last few years.</hi>
-</p>
-<p>GRANICK:  Oh it has to be because the Ambassador is the only one that has the possible control needed.</p>
-<p>
-<hi rend="italics">Q:  I might just interject for the tape that this is a letter which instructs the Ambassador that they are to be responsible for overseeing the other agencies that are at the post.  Because in Washington, the State Department does not have that authority.  But overseas the Ambassador has it because he is a representative of the President, and so this is the way the State Department can exercise some degree of supervision over other agencies overseas.</hi>
-</p>
-<p>GRANICK:  And the letter specifies that he has control over every single agency including Defense except for the military command.</p>
-<p>
-<hi rend="italics">Q:  Specified and Something Command.</hi>
-</p>
-<p>GRANICK:  Yes, that right, but other than that he has the control, power.  They resist, but he has the power.</p>
-<p>
-<hi rend="italics">Q:  Well particularly the Military Attach�s resist any attempt to control what they report on, they're very jealous about that.</hi>
-</p>
-<p>GRANICK:  And I know in our inspections one of the most difficult problems for Ambassadors was the back door stuff.  Where agencies would send stuff in and not put it through the Ambassador.  He had to clamp down very quickly and very hard on that because very often some of the things being done were not in line with what he wanted done or what he considered to be the policy of the Department or the President.</p>
-<pb facs="0024" n="Page0024"/>
-<p>
-<hi rend="italics">Q:  Well, what's next on your list?</hi>
-</p>
-<p>GRANICK:  I think I've covered it pretty well.  I'd be happy to answer other questions you might have.</p>
-<p>
-<hi rend="italics">Q:  I don't think I have any other questions.  Do you have any thoughts maybe on the Department's structure on handling administrative matters.  They didn't used to have a Under Secretary for management did they?</hi>
-</p>
-<p>GRANICK:  No, they used to have, as a matter of fact, an Assistant Secretary and then they had a Deputy Under Secretary and then they finally made him an Under Secretary.</p>
-<p>
-<hi rend="italics">Q:  Has that made any difference in the effectiveness of the job?</hi>
-</p>
-<p>GRANICK:  Now here again, I don't know what's happening behind the doors or what he can get from the Secretary now that he has a much larger post.  I just don't know.  I haven't seen any real change as far as I'm concerned.  It's the person in the job.  When it's an Assistant Secretary, you had a real powerful person in there.  He got done what had to be done.  Crockett came in and was made a Deputy Under Secretary and then went up to Under Secretary.  Oh I think they probably get more money for the office, I think they have a larger fund to try things out that they want to try out because they're up there.  I suppose the accouterments of power are real and probably give them access perhaps to the Secretary, and as I say, more money.  But as far as actual power, I'm a great believer in the individual and I can't think of an example I can give you where things have changed because the title was raised.  I just can't do that.</p>
-<p>
-<hi rend="italics">Q:  And what about other management experiments in your experience.  Have they really changed effectiveness of operations?</hi>
-</p>
-<p>GRANICK:  In the management reorganizations I think probably, and I think of this as management of course, the most interesting and provocative reorganization has been in personnel.  As you know, and this you know is closest to the heart, most people who work in State, as so many people have said, our only resource is personnel.  But they've changed the system so often, and I don't know what's happening now, I presume they're still going with the system which is fraught with problems and complexities where people write in and say what assignment they want rather than leaving it to... is that still the way it's done, do you know?</p>
-<p>
-<pb facs="0025" n="Page0025"/>
-<hi rend="italics">Q:  As far as I know.</hi>
-</p>
-<p>GRANICK:  That, of course, although I think it's much fairer, has caused the Department tremendous problems in trying to meet all the expectations that people have plus this business about trying to get wives to go along with the husbands if they are both Foreign Service Officers.</p>
-<p>
-<hi rend="italics">Q:  That's terribly difficult.</hi>
-</p>
-<p>GRANICK:  Very difficult.  And it's getting much more difficult as more and more foreign service wives and husbands, well, people marry and go into the foreign service, two professionals in the service.  Remember discussions they had on this when they had about five or six of them. They were very delighted with the fact that they could send people out and I said yes, but what's going to happen when you have 30 or 40.</p>
-<p>
-<hi rend="italics">Q:  Now I think there's 80 or something like that.</hi>
-</p>
-<p>GRANICK:  It's going to be impossible.  I think something's going to have to be done about that.  I don't think they can sustain that.  I don't know how you feel about that.</p>
-<p>
-<hi rend="italics">Q:  Well, this is a major problem.  On Foreign Service Day there was a lot of talk about that and it's a major problem and they're struggling with it.  I think they'll always be struggling with it.</hi>
-</p>
-<p>GRANICK:  It causes tremendous morale problems not only with the married folks but the people who feel they're euchred out of jobs because they had to place Mrs. So and So or Mr. So and So with his wife, and vice versa.</p>
-<p>
-<hi rend="italics">Q:  Well, it's causing divorces and separations and things</hi>
-</p>
-<pb facs="0026" n="Page0026"/>
-<p>GRANICK:  Oh really, you mean if they can't go together, or the husband wants to take, or the wife, and they can't take the spouse, and they say “what do you mean?” Yes I can see that.  That's a big problem.  I've also, to get back your management question, strictly management. You know, I was chuckling the other day I don't know what made me think of it, but what ever happened to zero-based budgeting?  All of these fantastic plans to start with a zero budget every year.  Oh God, what a mess.  And Crockett, as you probably know, had a wonderful system in mind where every post, every bureau, every office would actually have to plan at the beginning of the year what they were going to do, how many people they were going to use, how much money was going to be needed, and they had it all written out in little dibs and dabs down to the last dot and crossed T.  None of that stuff seems to work in the State Department.  I think it's too labor intensive is what it is.  It takes too much of your time to keep track of how many things you're supposed to be doing.  To try and answer your question in fewer words, as far as I can tell, none of these management reevaluations have made many changes, many differences.  The State Department still runs on the individual.  And an individual still wants the people he wants working with him and he still wants the people he wants assigned to him and he wants to promote who he wants to promote and so forth.  This is no different than any other, I suppose, business organization although, I think it's more intensive in the State Department.  Again, because of the close knit quality of the organization, it's just more intensive.  But no, I haven't seen any management revolution or change make any great difference as far as I can remember.  I just haven't seen it.  Is that the sign by the way in their new campus, has that happened yet?</p>
-<p>
-<hi rend="italics">Q:  They're not there yet.  The buildings are up, but I think they move in next year.</hi>
-</p>
-<p>GRANICK:  I hope that having a campus like that will kind of move them towards a more structured kind of training.  As I was saying, not only for officers but for clerical too if we start getting the quality of people that can be trained.  I think we need an awful lot of that in the State.</p>
-<p>
-<hi rend="italics">Q:  Well we seem to be running dry, unless you have any parting shots.</hi>
-</p>
-<p>GRANICK:  No, no parting shots.  I would just like to give a little kudo at the end.  End with a kudo if possible I always say.  The years I spent in State were certainly the most rewarding years of my life up to now.</p>
-<p>
-<hi rend="italics">Q:  You found it more satisfying than OPM.</hi>
-</p>
-<pb facs="0027" n="Page0027"/>
-<p>GRANICK:  Oh yes.  I can't imaging working for a better place or better people and certainly had more excitement and intellectual stimulation which is why I started out this whole conversation with the high quality of the officers and the people I worked for.  I came over into an exciting job, but I quickly acclimated to the ambiance and certainly to the culture of the organization.  I just think it's a fabulous place.</p>
-<p>
-<hi rend="italics">Q:  I felt the same way.  And I felt the promotion system and the assignment system worked quite well up through the ranks until you really begin to be fairly high and then I think it sort of comes apart.</hi>
-</p>
-<p>GRANICK:  And I'm sure this is true in any organization.  It gets harder and harder to choose, of course, and more and more reasons come into play for choice.</p>
-<p>
-<hi rend="italics">Q:  Well, and then the personal element of the people at the time plays a bigger and bigger role.</hi>
-</p>
-<p>GRANICK:  I remember so well I was in an Executive Director job and I was trying to tell this individual who I felt would make the best Inspectors and I had written out their qualifications and the reasons I thought these would be good, and these wouldn't be so good.  He just gave it a cursory glance and looked at me and he says, but you don't know these people and I do.  Talk about personal, he made his choices based on who he knew.  Some of them were the same as the ones I had chosen, but he was not going on my lengthy write ups at all.  No, it's a very personalized service, that's part of its charm, I guess.  But those, of course, who don't make it don't think it's so charming.  Oh god, I remember when I first came in State some people who were selected out, good people, highly intelligent.  Bitterness, I've never seen such bitterness in my life.  They felt, of course, that they were being thrown out at a time when they felt most productive.  That's probably the most difficult aspect of the foreign service system is when you have to leave, forced to leave at a time when you still have a lot to give.  It's painful.</p>
-<p>
-<hi rend="italics">Q:  The great difficulty used to be in the ages of about 40 to 50 when you could not yet retire, you had children that were facing the college years and if you were selected out in that period it was almost devastating.  I think they've gotten away from that, I'm not sure what the systems are, but I think there are provisions now that have sort of solved that problem.</hi>
-</p>
-<p>GRANICK:  Yes, they carry you up to a higher age.  But I'm talking about people, it wasn't a matter of age, they were probably 59, 60, they just felt that it wasn't time for them to go.  No one feels that it's time for them to go.  It happens all the time in athletics.</p>
-<p>
-<hi rend="italics">Q:  Okay, I think that's it and I think that's very useful.</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>GRANICK:  It was fun.</p>
-<p>
-<hi rend="italics">Q:  Thank you very much.</hi>
-</p>
-<p>GRANICK:  My pleasure.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>ROBERT GRANICK</p>
+                <p>Interviewed by: William Knight </p>
+                <p>Initial interview date: June 18, 1992</p>
+                <p>Copyright 1998 ADST</p>
+                <p>[Note: This transcript was not edited by Mr. Granick.]</p>
+                <p>
+                    <hi rend="italics">Q: Robert, the floor is yours.</hi>
+                </p>
+                <p>GRANICK: I entered the State Department in 1963 as Deputy Executive Director for
+                    ARA. Actually I was brought in having worked for the Office of Personnel
+                    Management. I had entered government as a management intern in '51 and I worked
+                    for the Office of Personnel Management in a number of administrative jobs over
+                    the years. I was brought in when the State Department decided to put together
+                    the Administrative Bureau in ARA with the Administrative Bureau in AID. This was
+                    the experiment under President Johnson and was under the leadership of
+                    Ambassador Mann and I don't mean just back to back - this was truly a merger of
+                    not only State and AID but also the President wanted Ambassador Mann to have
+                    control over USIA, the Department of Defense, and all other agencies having
+                    business with South America. It never worked out very well.</p>
+                <p>
+                    <hi rend="italics">Q: Why?</hi>
+                </p>
+                <p>GRANICK: Well part of the reason was, of course, resistance. But I think that
+                    could have been overcome.</p>
+                <p>
+                    <hi rend="italics">Q: Resistance from...</hi>
+                </p>
+                <p>GRANICK: From the other agencies and from AID particularly, but USIA didn't like
+                    it, or defense and the others. But I think it could have been overcome since the
+                    President wanted it and Tom Mann was given not only the title of Assistant
+                    Secretary for ARA but he also was also Special Assistant to the President for
+                    Latin America. And he had an office in the White House as well as an office in
+                    the Department.</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: So that gave him the authority over the other agencies
+                        which usually the State Department wouldn't have for itself?</hi>
+                </p>
+                <p>GRANICK: Exactly, and there was an order from the President giving him this kind
+                    of leadership and authority.</p>
+                <p>
+                    <hi rend="italics">Q: But there was no similar amalgamation of USIA, this was
+                        just AID and State, well, management?</hi>
+                </p>
+                <p>GRANICK: The experiment included AID because AID at the time was in the
+                    Department and because we were physically co-located in the Department. There
+                    was more of a physical amalgamation however. The idea was that Mann would be
+                    over all of these various agencies. I'm getting ahead of myself. In the
+                    Department also, in addition to being physically located together, they did
+                    bring me in, for example, to be the head of Personnel for both State and AID,
+                    and they had Jules Sugarman. I don't know if you remember Jules Sugarman. Jules
+                    was brought in also to be the Finance Officer for both State and AID, in other
+                    words, all the agencies were affected, but AID was more affected than the others
+                    for many reasons. As you know AID was always closer to us with the dotted line
+                    and so forth and ostensibly we had tremendous administrative control over
+                    AID.</p>
+                <p>
+                    <hi rend="italics">Q: What year is it again that you came in?</hi>
+                </p>
+                <p>GRANICK: '63.</p>
+                <p>
+                    <hi rend="italics">Q: You would have had 10 years before you came in?</hi>
+                </p>
+                <p>GRANICK: That's right. 12 years actually. We could talk about this for a couple
+                    of minutes because it's very interesting. I took it very seriously, as did Jules
+                    Sugarman, and I don't mean seriously in the sense of taking over but rather
+                    trying to make the amalgamation work - particularly between State and AID - to
+                    see of we couldn't use the people available and the money available more
+                    efficiently. And Jules and I actually worked out a system for example where
+                    State and AID personnel would be interchangeable. We worked out a system right
+                    up to a meeting with AID where I used to call lights on/lights off. We had all
+                    the jobs outlined in both AID and State in Latin America, and we were going to
+                    change people. As one person changed to one job, lets say from State, a light
+                    would go on there for State and the AID person left the light would go out on
+                    their board. But then we would put the AID person in one of our jobs and the
+                    light would go on, etc., etc. we called it lights on/lights off.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q: You actually had a wall thing with these lights?</hi>
+                </p>
+                <p>GRANICK: Not actually lights, but with stickers which we called lights. But we
+                    got to this meeting, we had it worked out very well, and the working stiffs were
+                    very enthusiastic about this because they saw this as an opportunity to get a
+                    lot of new experiences. But AID realized that if this worked, top management of
+                    AID...in fact at the meeting I was up against the Chief Counsel of AID. They
+                    realized that if this worked, then we'd begin to go to other bureaus and
+                    eventually, they thought, absorb all of AID.</p>
+                <p>
+                    <hi rend="italics">Q: That's pertinent right now where the same thing is being
+                        debated, you know, combining AID and State again.</hi>
+                </p>
+                <p>GRANICK: Oh, I didn't realize that, well it makes sense. And so we got up to the
+                    point where I had agreement from all the working stiffs, you know, Division
+                    Chiefs and so forth, even Bureau Chiefs and I said we're prepared to go ahead
+                    with this. The Chief Counsel of AID got up and said, “Well Mr. Granick, thank
+                    you very much for an excellent presentation and we'll certainly get back to
+                    you.”</p>
+                <p>
+                    <hi rend="italics">Q: Don't call me, I'll call you.</hi>
+                </p>
+                <p>GRANICK: That's right. And I got up and I was agitated and I said “but, but,
+                    but.” I said I think this is ready to go. And she smiled benignly and she said,
+                    “Well, Mr. Granick says we're ready to go, so lets go”, and she walked out. And
+                    I was standing there with egg on my face. But anyway, I tried to bring it up
+                    again, Jules and I took it up to Mann and he was pushing it, but we could not
+                    break through AID. By that time Tom Mann had enough troubles.</p>
+                <p>
+                    <hi rend="italics">Q: It never went to the President then?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>GRANICK: It never went to the President. In all fairness, I don't think Tom Mann
+                    wanted to push it to the President either. He didn't feel it was of enough
+                    consequence considering all the other problems he had on his plate, or whatever.
+                    I'm not privy to everything that went on behind closed doors, but I know we
+                    could never get him...we tried to get him to push it to the President and he
+                    wouldn't do it. He really didn't take hold of a lot of the privileges he had.
+                    For example, he was supposed to have a car, because of his office in the White
+                    House of his own. He had this office over there which he hardly ever used. The
+                    President gave him all kinds of power to take over things that were done in USIA
+                    and the Department of Defense and it was a big job in the Department itself.
+                    Ambassador Mann was an extremely talented and strong man but he was not a
+                    bureaucratic in-fighter and I'm sure there were many other reasons I'm not privy
+                    to, but for whatever the reasons he ran the State Department. He let us play
+                    around with our ideas on trying to pull the rest of it together. Rodger Abraham
+                    was the Executive Director at that time and Rodger was very, very strong on
+                    going ahead. He was constantly trying to push Mr. Mann to do these things but he
+                    would just go so far and stop. Anyway, that was the thrilling time that I came
+                    in. And it was a fabulous job and I loved it and had fun with it.</p>
+                <p>
+                    <hi rend="italics">Q: How long had you had that?</hi>
+                </p>
+                <p>GRANICK: I had that from '63 to '66. Three years.</p>
+                <p>
+                    <hi rend="italics">Q: But then were you able effectively to function as the head
+                        of Personnel?</hi>
+                </p>
+                <p>GRANICK: In Latin America, you mean?</p>
+                <p>
+                    <hi rend="italics">Q: In Latin America.</hi>
+                </p>
+                <p>GRANICK: I would say no. They knew I had the title and in fact we tried to get
+                    them to do away with their Director of Personnel in the AID Bureau, my
+                    counterpart. What they did was they changed his title to something else, but in
+                    effect they all came to him anyway and I was constantly trying to get them to
+                    work with me. They would work with him and he would come to me. But they always
+                    used him as an interspiele.</p>
+                <p>
+                    <hi rend="italics">Q: So you were presented with a fait accompli on
+                        assignments?</hi>
+                </p>
+                <p>GRANICK: Oh yes, pretty much. Don't misunderstand me, we did get some people in
+                    AID jobs, we got some AID people in State jobs, but we could never complete a
+                    planned activated program that would go to work on its own. It was always
+                    pulling teeth, one assignment at a time.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: Do you think it would have worked if it had been permitted
+                        to?</hi>
+                </p>
+                <p>GRANICK: Well, yes. It's hypothetical. I think certainly the way we had it worked
+                    out with the funding, and as I say the people involved were very excited because
+                    we made a very great effort to assure the AID people, for example, that this was
+                    not, as many people tried to make out higher up, a power grab by State; that we
+                    were truly interested in allowing all people to have the experience of working
+                    in AID, in State, and would be scrupulously fair in the assignments and the jobs
+                    they got and so forth. So the working stiffs I think were pretty excited by it.
+                    They believed us. But as I say I'm almost certain that AID was working very
+                    hard, from what I say and from what I heard, AID was working very hard to make
+                    sure it didn't work because next would be Africa and then....</p>
+                <p>
+                    <hi rend="italics">Q: They just wanted to stay independent?</hi>
+                </p>
+                <p>GRANICK: Of course, after all, one of the main reasons for doing this and I'm
+                    sure it is now is that you're replicating the whole administrative
+                    superstructure and we could have done away with a lot of that. But we were far
+                    from doing that. Everybody was still in place, and still earning a paycheck. But
+                    still they could look down the road and not like it. Not want it to happen.</p>
+                <p>
+                    <hi rend="italics">Q: You can tell Perot about this.</hi>
+                </p>
+                <p>GRANICK: Oh, Perot, please. Anyway, it was fascinating times. But that's how I
+                    started. It was a fantastic introduction to the State Department. And then from
+                    there I went on to be Administrative Officer in Mexico City and once again I was
+                    thrown into an entirely different kind of situation. But my background prepared
+                    me for what I had, a lot of administrative, particularly in personnel, and
+                    that's primarily what they wanted me to do. Tan Baber was the Administrator
+                    Counselor in Mexico and I had two titles, Deputy Counselor for Administration
+                    and Administrative Officer. So I was Mr. inside and he was Mr. outside.</p>
+                <p>
+                    <hi rend="italics">Q: What was the difference in what you actually did?</hi>
+                </p>
+                <p>GRANICK: That's a good question. I guess I would say that he would deal a lot
+                    with the other agencies. He would work a lot on the setting up of budgets. He
+                    would meet with the Ambassador quite often on what the Ambassador wanted done.
+                    As you know, the Administrative Officer has a lot to do beside running the
+                    embassy, and the Ambassador used Tan a lot. Tan was a very effective Counselor
+                    for administration. And he would use him for a lot of projects. Tan was quite
+                    content to let me deal with the Division Chiefs, GSO, Budget and so forth.</p>
+                <pb facs="0006" n="Page0006"/>
+                <p>
+                    <hi rend="italics">Q: What kinds of projects...in other words, you were sort of
+                        the DCM to his Ambassador?</hi>
+                </p>
+                <p>GRANICK: That's right. And also, he took off a lot. He was gone a lot. He went
+                    back to the States on home leave and also sometimes we'd go to other posts.
+                    That's another thing. Mexico had 12 or 13 or 16 posts - that went up and down as
+                    they closed them - but he would also travel a lot to the constituent posts and
+                    leave me in charge. I'd be in complete charge when he was gone as a DCM would be
+                    to the Ambassador. But I worked very hard, too, when he was there, trying to
+                    make sure there was a big boost of training in the embassy and that our
+                    personnel rules and regulations were in place. People knew where they stood.
+                    People had the proper position descriptions and I think I mentioned to you the
+                    other day that I had a couple of extra duties which were fabulous. The Olympics
+                    took place in '68.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>GRANICK: And not only was I in charge of the Olympic Attach� who had a staff of 2
+                    or 3 but also at that time a lot of the Mexicans left tried to stop the Olympics
+                    because they felt Mexico was spending too much money on it, money that should
+                    have been spent for the betterment of the people. And it wasn't just protests
+                    and throwing rocks and eggs, they were actually firebombing American schools,
+                    American buildings and because of my position as the liaison between the embassy
+                    and the school board I became the person who would decide each morning if they'd
+                    open the schools depending on what other agencies at the embassy would tell me.
+                    I'll be circumspect. Depending on what intelligence there was, every morning the
+                    head of the American school would call me and I would tell him yes or no you
+                    should open today depending on what the plans were that we heard about, for
+                    firebombing or terrorizing the kids. They'd drive by and scream at them and
+                    things like that, and threaten to kidnap them and so forth. And then the head of
+                    the American school would tell the school that had a lot of American kids in it
+                    whether they should open it up. It was kind of a hierarchy and that was a
+                    fabulous experience.</p>
+                <p>
+                    <hi rend="italics">Q: I think it would be interesting to describe the whole
+                        setup that you established to handle all of the details of the
+                        Olympics.</hi>
+                </p>
+                <p>GRANICK: Well, I don't want to imply in any way that I was running the Olympic
+                    Attach�'s office. He was a professional who had come out of Texas. He had been
+                    something in charge of athletics in the city and he knew what he was doing and
+                    he would come to me primarily for money or when he had problems but I pretty
+                    much let him run...</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: So he had a lot of contacts with the Mexican
+                        counterparts?</hi>
+                </p>
+                <p>GRANICK: Exactly.</p>
+                <p>
+                    <hi rend="italics">Q: Even the police?</hi>
+                </p>
+                <p>GRANICK: The police and the Mexican government. And he spent a lot of time out at
+                    the Olympic village and I got involved also. Some of his staff was dealing with
+                    the commercial aspects of it, that is the selling of T-shirts and stuff like
+                    that, could they put an American flag on it, could they do this or that. Also as
+                    always there was a matter of tickets. Who got tickets and who didn't. He had
+                    people to handle that. But when things got real tough if somebody was
+                    complaining about not getting tickets or Americans felt they had been slighted,
+                    then they'd send them to me. He'd always use me as the next level up to take
+                    care of it, but I didn't get involved in the day to day nitty-gritty. The one
+                    thing I did get involved in was the Ambassador asked me to put on a show at the
+                    embassy using the Olympic cultural people. In don't know if you remember this or
+                    not, but I'm not sure it's ever been done again. Mexico decided that in addition
+                    to the physical or athletic Olympics to have a cultural Olympics and they
+                    brought stars down from all the countries around the world. From the states we
+                    had Duke Ellington, for example, and Jimmy Lundsford and Count Basie, a lot of
+                    jazz greats. So I had to again work with the Olympic Attach� and work with the
+                    Mexican government too directly in this case and make sure we did get these
+                    people in and we gave them a fabulous show there at the embassy. That was just
+                    one of the little details. Now, to go back to the terrorism which occurred by
+                    the left to stop the Olympics. Not only were they firebombing or terrorizing the
+                    schools but also they were constantly harassing and threatening the embassy.</p>
+                <p>
+                    <hi rend="italics">Q: Now this was before the Olympics or during?</hi>
+                </p>
+                <p>GRANICK: Before the Olympics, they still had hopes of stopping it. And I'll tell
+                    you what the climax was in a moment. I didn't mention this the other day, but I
+                    remember one day for example there were thousands of them marching down Paseo de
+                    la Reforma and we always had these swat teams, these riot swat teams, Mexican
+                    toughies on the side streets and one day I was shocked to look out of my window
+                    and see tanks in the side streets. Well they were going to have a big
+                    demonstration that afternoon, the parade came by and suddenly someone shouted an
+                    order and the crowd broke and began to rush the embassy. Thousands of them. And
+                    the police were trying to hold them back but they would not have succeeded.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have those great iron gates closed?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>GRANICK: Yes. They were all closed. But I'm sure they had ladders and things,
+                    they were going to try to invade the embassy. Well they didn't see the tanks of
+                    course and I'll never forget this as long as I live. All of a sudden you heard
+                    rrrrumblerrrrumblerrrrumble and these tanks came around the front out of the
+                    side streets and they set up a phalanx outside of the embassy and this is the
+                    part that's most frightening, those huge guns came down and pointed right at the
+                    crowd and the crowd stopped and then just broke into a thousand pieces and took
+                    off. Oh yes. And I'm convinced they would have shot. The reason I say that is
+                    the final turmoil and the final terror was the government invited all of the
+                    ringleaders of these groups that were trying to stop the Olympics to a big
+                    meeting in a big square in downtown New Mexico. It's called the Court of the
+                    Four Cultures. I don't know whether you've heard of it or not but they've got
+                    ruins there, the Old Mexico and the New Mexico and the Future Mexico and so
+                    forth. Very large, it's ringed by apartment and office buildings. Well, the
+                    opposition came, and they had been pretty thoroughly beaten, but they were still
+                    trying. The government obviously thought they still had some pep left because
+                    when they got them all in the square they open fired on them. Now this didn't
+                    get too much publicity, it did get some publicity and particularly in the
+                    foreign press. They killed a lot of them. The number is still in dispute.</p>
+                <p>
+                    <hi rend="italics">Q: This is still in the same time period, just before the
+                        Olympics?</hi>
+                </p>
+                <p>GRANICK: Just before the Olympics. That was the end of the protests. Suffice it
+                    to say, Bill, I can't prove this, they killed hundreds. The government I think
+                    at the time just said some people were killed they never gave a figure, but I
+                    think it was hundreds. They had bloody pictures all over the newspapers. The
+                    foreign press played it up large, I don't know how large it was here but they
+                    killed enough and that was the end of that. They put an end to that. So then
+                    things went on and the Olympics were held and we had the usual problems with
+                    tourists and people complaining about being mistreated or not getting their
+                    hotel room or not getting tickets. We used to sleep in the office quite often. I
+                    had a cot, we couldn't go home. There was just too much going on. During the
+                    days of the protests we never went home at all. We had a command post set up
+                    there. But it went off and the Olympics were very successful and Mexico recouped
+                    most of its money, but those were hectic, wonderful days. I could go on in this
+                    vein, or I wrote down a couple of notes here of things that interest me
+                    particularly in the administrative field if you'd like to, but go ahead and ask
+                    questions first if you want to.</p>
+                <p>
+                    <hi rend="italics">Q: Let me just ask one thing that interests me. You had in
+                        effect, three at least that we've covered so far, major types of service and
+                        the first was outside the State Department. And then you came into State in
+                        Washington and then you had the foreign service in Mexico City. Is there
+                        anything that you would like to say about the difference of the working
+                        circumstances in these three different fields?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>GRANICK: Yes, and before we leave I would like to mention that I was privileged
+                    to be in the office of the Inspector General for many years in several positions
+                    so I also saw how that was.</p>
+                <p>
+                    <hi rend="italics">Q: Right, I'm interested in the differences in the essential
+                        working environment in these different fields.</hi>
+                </p>
+                <p>GRANICK: Okay, lets take overseas, I was impressed overseas with the high quality
+                    of both the Officer Corps and Clerical Corps.</p>
+                <p>
+                    <hi rend="italics">Q: Higher than your staffs before that?</hi>
+                </p>
+                <p>GRANICK: Well, what you have in the State, what you HAD in the State Department,
+                    I always have to be careful. I've been out four years now, but certainly
+                    whenever I say anything it's when I was there obviously. I have not followed the
+                    new marvelous changes of which I'm sure there are many, but what we had overseas
+                    was tremendously high quality officers and tremendously high quality
+                    secretaries, clerical help and foreign service nationals. I won't go into it in
+                    great depth unless you want me to but I just want to touch on the fact, and this
+                    is one of the things I had in my notes. One of the things that bothered my
+                    greatly in spite of the fact that we had very high level nationals in Mexico and
+                    as an Inspector I saw them all over the world, they were never given, as far as
+                    I'm concerned, enough to do commensurate with what we paid them. I think we
+                    assuaged on guilt and maybe enhanced our ego by overpaying our nationals but as
+                    far as I'm concerned, the only international organization that actually holds
+                    down our nationals, with a corporation, I know there's a difference.</p>
+                <p>
+                    <hi rend="italics">Q: You mean on substance on the degree of importance of the
+                        work they're given?</hi>
+                </p>
+                <p>GRANICK: No, I realize that we're not a business, I realize there are classified
+                    and intelligence concerns but I think it goes beyond that. I think we misused or
+                    underutilized certainly the nationals that we had there. In fact, I went back to
+                    do a special project as an Inspector only about 8 years ago when I talked with a
+                    fellow who was the highest national in USIA. He'd been a good friend of mine and
+                    he said that he was sorry now that he went to work for the embassy, even though
+                    he loved the people in the embassy and he was tremendously regarded, but he said
+                    “I never was ever able to do the level of work I was capable of.” He said the
+                    lowest American officer, you know how this worked, the lowest American junior
+                    officer would come in and do co-op work that I had been doing, if he felt like
+                    it, take it over, this is the USIA. But the same thing happens in State. That's
+                    something we can discuss at length if you want. I have strong feelings about
+                    that. But in the Department itself, the officer level is very high, the quality
+                    is extremely high. The clerical level is awful, just terrible, this is part of
+                    the Washington syndrome.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>
+                    <hi rend="italics">Q: Now is that because they are civil service so they are
+                        subject to all the rules of civil service?</hi>
+                </p>
+                <p>GRANICK: No, no they're poor quality. No, I think that's another thing we have to
+                    be clear about. The other agencies have civil service employees and some of the
+                    finest employees you'll find are civil service employees, they go up to a very
+                    high level and they get paid high money and they do a wonderful job. In the
+                    State Department, I think it's a Washington problem, but we certainly seem to
+                    get some of the worst in terms of quality that I've seen, and in important
+                    clerical jobs, too.</p>
+                <p>
+                    <hi rend="italics">Q: In my career, I had I suppose about half of my time in
+                        Washington, and I always had very, very high quality clerical people. Maybe
+                        the substantive jobs. These were partly desk and then partly aviation and
+                        negotiating and then inspecting.</hi>
+                </p>
+                <p>GRANICK: You're getting professional people I think. When I say clerical I mean
+                    down at the 4, 5, 6, 7 level.</p>
+                <p>
+                    <hi rend="italics">Q: I mean the people you would have as your secretaries and
+                        your file people and so forth, they were always very good.</hi>
+                </p>
+                <p>GRANICK: Well, yes, I don't want to cope with too big a brush, obviously there
+                    were exceptions.</p>
+                <p>
+                    <hi rend="italics">Q: I've heard a lot of people now make this same point about
+                        State, that the clerical staff is really in very poor shape.</hi>
+                </p>
+                <p>GRANICK: There are people who were working in State at the time I was there at
+                    the lower clerical levels that I don't think should be working anywhere until
+                    they were better trained and better educated. In the Inspection Corps, for
+                    example, where you need highly qualified secretaries, this was probably our
+                    Achilles Heel. It held up reports, it caused tremendous problems. I really feel
+                    very strongly, well, I don't know how it is now, but the time I was there we
+                    were still having difficulty recruiting people so you kind of took what you
+                    could get. But I would certainly say that if that is not the case any longer, if
+                    we have a choice of what we take, we should be extremely selective because the
+                    best person in the world if he has poor help can be held back.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: But what about the degree of management control over that
+                        staff. If a manager really wanted to improve the level of his staff would he
+                        have the power effectively to do it or would it all be tied up in knots of
+                        grievance procedures and all the rest of it.</hi>
+                </p>
+                <p>GRANICK: I'll tell you what I try to do and what a lot of us try to do in the
+                    Inspector General's office. We try to give these ladies training. And up to a
+                    certain point, that improved them. And certainly, and I'm not in any way saying
+                    they weren't, well, most of them were cooperative and pleasant. A lot of them
+                    were undereducated and had not been trained and yes, you bring up a good point.
+                    I think part of the fault has to be the officers. A lot of officers don't want
+                    to be bothered, will not take the time or don't have the gumption sometimes to
+                    take on people in the clerical service. They won't manage them. I remember one
+                    experiment we tried where each team would control it's own secretaries, it was
+                    disastrous because the Senior Inspectors simply could not face down these
+                    ladies. They could gripe up a storm but they simply would not face down. They'd
+                    maybe yell at them sometimes, but just did not want to work with them or help
+                    them, you have to be fair about that. But again, sometimes the quality was such
+                    that there wasn't much to work with. I know there are exceptions. There are a
+                    lot of wonderful people working in the IG's office, and I still see them, still
+                    enjoy them and like to talk with them, but I guess what I'm saying is we took in
+                    people I don't think should have been hired. Lets put it like that.</p>
+                <p>
+                    <hi rend="italics">Q: Well I know that's true in the Department of Labor because
+                        I have a special contact in the Department of Labor, but I think they're
+                        worse off than the State is.</hi>
+                </p>
+                <p>GRANICK: It was just a constant battle. A constant battle to get the work out in
+                    a efficient manner in a quality manner.</p>
+                <p>
+                    <hi rend="italics">Q: Did you, in those roles in the State Department, have an
+                        awful lot to do with the unions?</hi>
+                </p>
+                <p>GRANICK: No.</p>
+                <p>
+                    <hi rend="italics">Q: Because in Labor, they do. The unions have representatives
+                        and a lot of these issues have to be discussed with the labor unions.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>GRANICK: No, in fact the State unions do not push themselves forward very much at
+                    all. They're pretty quiescent, and quite frankly, I hadn't thought about it
+                    before, but I think one of the reasons is I think State is very generous in its
+                    classification and its perks and it's not very hard-nosed when it comes to
+                    discipline. I think that's part of the reason the unions don't show their face
+                    very often, don't get too involved because there isn't that much reason to. I
+                    always thought that the clerical staff in State was horrendously overrated,
+                    overclassified. That was one of my specialties in my background was position
+                    classification and when I was with the Office of Personnel Management, so I
+                    understood classification. It was awful at State, just awful, horrendous.</p>
+                <p>
+                    <hi rend="italics">Q: Basically an upward creep.</hi>
+                </p>
+                <p>GRANICK: Oh yes, upward stampede.</p>
+                <p>
+                    <hi rend="italics">Q: And then you get overcrowded at the top with low quality
+                        people.</hi>
+                </p>
+                <p>GRANICK: That's right, and they get to a certain grade level, they don't have to
+                    work hard anymore because they're making a decent salary. But no, I didn't face
+                    the unions very often.</p>
+                <p>
+                    <hi rend="italics">Q: Now I don't know where we were.</hi>
+                </p>
+                <p>GRANICK: Well you were asking me the difference between the quality of people and
+                    any problems, domestic as well as foreign.</p>
+                <p>
+                    <hi rend="italics">Q: That's right, and the functioning systems that you had,
+                        any differences that there might have been among the various....</hi>
+                </p>
+                <p>GRANICK: Well the functioning system of course, I don't know how it is now, when
+                    I was leaving, I retired in '88, there was much more control being exerted over
+                    local personnel or national personnel. Something I had been for for many many
+                    years, because there was grade creep, awful grade creep overseas too. So as I
+                    said I think we assuaged our guilt and enhanced our ego by overpaying but...I've
+                    lost my train of thought...</p>
+                <p>
+                    <hi rend="italics">Q: You've covered it basically.</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>GRANICK: One thing we haven't talked about overseas which I'd like to get into
+                    because I think it's terribly important, I don't know what's going on now, has
+                    to do with contract personnel overseas. Now, I know after years and years of
+                    yelling at the top of my lungs they finally did something about contract
+                    personnel. The OMB actually gave us jobs to do away with a lot of contract
+                    personnel. You know for years and years we were using contract personnel as
+                    nationals. There was no difference and the whole idea of cutting back on
+                    nationals was to save money. Back in Johnson's time again, when we had those
+                    tremendous cuts. But the Department could not do its job and so they began to
+                    hire contract people and pretty soon they worked for 5, 10, 15 years and they
+                    thought of themselves as employees, but they weren't. They weren't supposed to
+                    be, they were supposed to be non-personnel services with no rights, no
+                    retirement, none of that but they were getting all of it and so as an
+                    Inspector...</p>
+                <p>
+                    <hi rend="italics">Q: They were getting it?</hi>
+                </p>
+                <p>GRANICK: Oh, yes, it was being built into their contract, so they were getting
+                    health and retirement, everything, not official civil service retirement but
+                    they were paying it into their contract in such a way that they were getting it.
+                    And severance payments, the whole works.</p>
+                <p>
+                    <hi rend="italics">Q: But, do you know, Bob, when I was inspecting, and this was
+                        really a long time ago, this was like 18 years ago, we were identifying the
+                        use of contracts without a lot of these marginal protections as an evil
+                        because here these people were working for year after year without a lot of
+                        these protections and so in effect what I see is a pendulum effect. We would
+                        point out an evil and then you say it went the other way too far and so in
+                        effect you had a permanent bureaucracy that was established as contract
+                        people.</hi>
+                </p>
+                <p>GRANICK: That's right, it cut both ways, we also hit them where we saw people who
+                    had nothing. They'd work for 15, 20 years thinking they were employees and then
+                    suddenly, good-bye and thank you, maybe a thank you, and that would be the end
+                    of it. But then no, after we told them that you can do this they began making it
+                    more and more a regular personnel system as part of the staff which was also
+                    evil because there were no controls on them. One of the things I would hit
+                    constantly, for example, was that there was no control on the money. They would
+                    get a million dollars for one year to work with locals and find out that wasn't
+                    enough. So even though the contact was written for a million, they'd spend two
+                    million and there was no official document. They just got the money or would use
+                    the money from someplace else to pay these people. But there was no document
+                    covering it so financially it was also not being done correctly.</p>
+                <p>
+                    <hi rend="italics">Q: Were these basically American citizens overseas?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>GRANICK: No, these were mostly nationals. But there are also Americans. And
+                    that's one of the things I wanted to mention when I said I wanted to make sure
+                    we got into this because I was talking to a Senior Inspector just the other day
+                    and some of the things that we discovered when I was inspecting are still going
+                    on. In fact in one place the same guy was there. Americans who come there and
+                    live in a foreign country and get these very lucrative contracts to fix cars,
+                    for example, and often will fix other people's cars on the side or import parts
+                    ostensibly for our cars and use the parts for other people's cars, and so forth.
+                    Building up a tremendous business where Uncle Sam is helping them and also being
+                    paid a tremendous contract price to run this garage. This is just one. I found a
+                    lot of this going on with contractors who were running our PXs overseas. We
+                    don't call them PXs, but you know, the government store. The American clubs
+                    would often build up tremendously lucrative contracts for themselves.</p>
+                <p>
+                    <hi rend="italics">Q: But then, here in an embassy where this is going on, what
+                        kind of procedures or structures would you have to try to keep control of
+                        it?</hi>
+                </p>
+                <p>GRANICK: Well the first line of defense of course is your Administrative Officer.
+                    And now you get into a very interesting area that I wanted to talk about. The
+                    Administrative Officer has the responsibility to keep this under control. But
+                    this isn't nearly as much of a pressure or a drive as giving the people at the
+                    embassy, from the Ambassador on down, what they want. The Administrative
+                    Officer's job primarily is keeping the Ambassador, the DCM, and the rest of the
+                    people at the embassy happy. And if he can get them what they want, money, the
+                    material, the perks, they're happy. And if Washington doesn't slap his wrist or
+                    an Inspector doesn't come along, which they do all the time, doesn't need to
+                    change and give him a hard time, he's in clover. Because he gets written up as
+                    being an excellent Administrative Officer and a can-do person. As one
+                    Administrative. Officer who's very successful once told me, the worst thing you
+                    can do as an Administrative Officer is say no. Find some way to do it. I
+                    understand that, I have no problem with that, but only if it's legal and
+                    reasonably efficient. I do not believe you always have to say yes if it means
+                    giving away the store or bending the rules so much that they break which is
+                    constant problem overseas. And you'll get a kick out of this, I won't mention
+                    any names, but I keep hearing stories about “X” Inspectors who go out and become
+                    Ambassadors or high level officials and how quickly they forget what they
+                    learned in Washington about what's right and what's wrong. They want to lead a
+                    nice, comfortable life also, and I understand this, but it's a problem in these
+                    days of tight budgets. And I think the Administrative Officer should be the one
+                    to do an efficient job, to do a conscientious job, to help the embassy get it's
+                    policy and programs done but in a reasonably efficient and cost effective
+                    manner.</p>
+                <p>
+                    <hi rend="italics">Q: I guess what I was really asking, suppose an
+                        Administrative Officer really wants to run a tight ship on this question of
+                        honesty because we're talking about things that are essentially dishonest.
+                        Does he have the mechanisms and the procedures in his skills to prevent such
+                        finagling.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>GRANICK: Well now when you say procedures, he knows what he's doing, he knows
+                    what's going on. He's smart, if that's what you mean. Ad there are rules,
+                    there's lots of rules in the books to tell him what he can do or what he
+                    shouldn't do.</p>
+                <p>
+                    <hi rend="italics">Q: Alright, but do his books tell him how he can sniff out
+                        somebody that's finagling?</hi>
+                </p>
+                <p>GRANICK: We're talking about two different things, here. We're talking about sub
+                    rosa finagling, I think that's what you're talking about. Would he know if
+                    somebody was cheating on their budget or if somebody was bending the rules
+                    behind his back?</p>
+                <p>
+                    <hi rend="italics">Q: Or, an example that I ran into, was diverting building
+                        materials from the embassy to build one's own vacation home out in the
+                        woods.</hi>
+                </p>
+                <p>GRANICK: Who would be doing this, the Ambassador?</p>
+                <p>
+                    <hi rend="italics">Q: This would be, in the case I'm thinking of, a local
+                        employee. Would the Administrative Officer have the devices which should
+                        have brought this to light?</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>GRANICK: Not him specifically. The GSO should be reading work orders, should be
+                    reading bills of lading of materials coming in and the most, to me, the simplest
+                    kind of oversight he could see a thousand gallons of paint coming in and two
+                    orders for painting that would consume no more than a hundred. Yes, that's just
+                    simple management. Which gets me into training which we don't do very much of.
+                    But anybody worth his salt would be doing oversight work. Plus an Administrative
+                    Officer who goes around as I always did visiting the GSO and talking to people
+                    and going to parties should hear, “Boy Jose really did a job on his home.” Now
+                    if it was me, I would immediately get suspicious. My ears would perk up; “Oh,
+                    really, what did he do?” and so forth and so on. “Oh, he's got a beautiful home
+                    out there, he just painted it” and so forth and so on. I would expect my GSO
+                    also to hear things. As I say I would be expecting him to look at work orders,
+                    bills of lading to listen to his people when they talk. It's very hard to cover
+                    up something like that. The warehouse ______. There has to be a pretty broad
+                    conspiracy to cover up this kind of thing. But if nobody cares, then it's very
+                    easy. I guess what I'm saying is there are definitely management ways,
+                    administrative ways of sniffing these things out. But I wasn't talking about
+                    that, I was talking about your buddies doing it, not the locals. I mean the
+                    Administrative Officer himself or the Commercial Officer, the Economic Officer,
+                    the Ambassador or the DCM bending the rules a little bit. I would address that
+                    question. I don't know of an Administrative Officer who would immediately raise
+                    the issue. He would stand on his head, he'd try to caution the Ambassador or
+                    he'd maybe give hints, lets say it's the Ambassador. “Sir I don't really think
+                    you should be doing that.” But it would drive him insane and he certainly would
+                    not just come right out and write Washington. I don't know anyone who would do
+                    that. Your career is over. Now they have an Ambassador, as you know, who abused,
+                    to use your example, building materials. But it didn't come from the
+                    Administrative Officer, it came from an anonymous note from the embassy to the
+                    Inspectors.</p>
+                <p>
+                    <hi rend="italics">Q: I have heard of a couple of cases where the DCM wrote back
+                        and blew the whistle.</hi>
+                </p>
+                <p>GRANICK: Yes, and it's tough on him isn't it, very tough. You have to see what
+                    happens to him after that.</p>
+                <p>
+                    <hi rend="italics">Q: The case I'm thinking of, the fellow came out fine.</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>GRANICK: Well that's good, that's encouraging. It doesn't happen too often. Also
+                    there is kind of a conspiracy of silence. You know, the good ol' boys, we're all
+                    good ol' boys. We all hate to blow the whistle. But to go back to your original
+                    question, we know our problem being part of a club and liking each other and
+                    working closely with each other is another problem overseas. We work very
+                    closely with each other and no one likes to snitch on one of his buddies. But to
+                    answer your question more directly, again, yes there are many ways of sniffing
+                    these things out. They should not happen. When I was Administrative Officer I
+                    would berate a GSO if he didn't tell me immediately if something was going on
+                    and I would stumble upon things and say what's going on here. By the same token,
+                    I do not think that an Administrative Officer is doing his job, and I found a
+                    lot of these too, if he's very tight and tries to save money and not give people
+                    what they're entitled to. That's the other side of the coin, the obverse. I
+                    remember berating one Administrative Officer who was always sending money back
+                    to Washington. That's fine if you've done all that you have to do and you still
+                    have money left over. He would save money and would not do things that needed
+                    doing. That's the obverse, of course, that also is not good management. That
+                    happened quite frequently. They'd try to make a name for themselves by not doing
+                    what has to be done. An Administrative Officer has an awful lot overseas
+                    particularly, and an awful lot of leeway in what he can do. We know that from
+                    inspecting. He can be a tremendous boon to the embassy, get things done, keep
+                    things nice and fresh and run things efficiently and be fair to people and keep
+                    everybody happy, it can be done. Because as far as I'm concerned, I don't know
+                    what's going on now but even in the days with little money, I just don't
+                    remember not having enough money to do what had to be done. Particularly if you
+                    did it right and didn't waste it. Washington has always been very generous with
+                    its posts.</p>
+                <p>
+                    <hi rend="italics">Q: There was always a lot of problem with phasing it over the
+                        year with people carefully saving some money so they wouldn't run out. Then
+                        they spend a lot in the last couple of months and then congress complains
+                        about that.</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>GRANICK: Well, you know how they try to stop that. There was no spending in the
+                    last three months, or something like that, that's one thing I found as an
+                    Inspector. You come across a lot of backdating. They try to mock the bills as
+                    before the three months and so forth. It's very tough, and do you know what part
+                    of that is? That's another thing I meant to talk to you about. In Mexico I had a
+                    terrible time getting the Economic Officer and the Political Officer to work
+                    with me on budgeting. They just did not want to sit down and work with me in
+                    budget. They'd say, well here's how much I need and it would be last year's plus
+                    and increment above last year. And I said, what do you intend doing with this,
+                    what do you have in mind. Give me an idea of your program because maybe I can
+                    work... “Oh, Bob, don't worry about it. Just give me what I need” and so forth,
+                    and then of course if it didn't work out and they needed even more. They say “I
+                    need more” and you could just throttle them because if they had thought about
+                    it, it is something they could have anticipated. But my experience has been that
+                    the “substantive” people just don't want to be bothered with administration
+                    unless there's no money, unless they don't get what they want. And, lord knows
+                    that they have a lot of important things to do, but it's always a joke.
+                    Inspectors will tell the Ambassador all the things that have gone wrong in the
+                    embassy, the administrative things. You've gone through this, I have of course,
+                    and the Ambassador would roll his eyes and say “I wish I had known about that.”
+                    In fact, I won't mention names again but somebody who knows better than that. It
+                    happens that recently they were inspected after being very high up in the
+                    Inspection Corps. This individual used to always make jokes about it “and we
+                    told the Ambassador and you know what he did, he rolled his eyes, 'I wish I'd
+                    known about that'” this fellow would say. “Can you imagine an Ambassador not
+                    knowing what's going on in his own embassy.” Well recently he was inspected and
+                    he rolled his eyes and said “I wish I'd known about that.” It all depends on
+                    who's bull is being gored. But no, an embassy overseas, I don't understand how
+                    anybody can get away with anything without the Ambassador, DCM or Administrative
+                    Officer knowing about it because so much information is being passed around,
+                    both officially during the day and socially at night. You've got to keep your
+                    ear to the ground and take action on it. Well, I'm interested in what you said,
+                    you said that once again they're trying to bring AID into the State,
+                    amalgamating.</p>
+                <p>
+                    <hi rend="italics">Q: I've just seen this mentioned in the newspapers, that this
+                        is again being debated.</hi>
+                </p>
+                <p>GRANICK: I just thought I would always like to see more assistance coming down
+                    from Washington to the posts. I'd like to see a strong Under Secretary for
+                    management. Someone who really cared, not only about the stellar program and the
+                    stellar problems in the department, but someone who would take an interest in
+                    the posts and come down and visit or take more interest in the kind of problems
+                    the posts have. I think too often they're just up there in the stars.</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: But if you retired four years ago, you had several years
+                        of the cutbacks of staff and I wonder whether, I mean the budget was really
+                        beginning to be tight long before you retired and I wonder what your feeling
+                        is as to the impact on the effectiveness of the job being done by those
+                        cutbacks.</hi>
+                </p>
+                <p>GRANICK: I simply have not seen any downturn in the job. Either in the department
+                    or overseas. In fact I lived through many, many cuts, tremendous cuts, both in
+                    personnel and money and it always amazed the hell out of me that somehow we
+                    always got the job done in the State Department. Now I realize people worked
+                    very hard, we put in how ever many hours had to be worked and all that, but it
+                    may sound very naive of me and again I'm not present in all the various aspects
+                    of the Department's work, but I simply did not see any great loss of
+                    effectiveness. There always seemed to be money from somewhere. We have
+                    tremendous fungibility in the money in the State Department. I can remember old
+                    John Thomas, remember John Thomas? I brought something up to him one time where
+                    I felt money was not being used in the proper manner for what it was intended
+                    and he looked at me, he said “Bob, how do you think I paid for all of
+                    Kissinger's travel?” You know, they're always pulling money from every angle,
+                    every corner of the State Department to pay for the Secretary's travel. They
+                    have to. What are you going to do, it has to be done. But no, the answer is I
+                    just haven't seen any tremendous downturn. I wanted to mention a couple of other
+                    things too that I think are important, training, for example. Except for the
+                    specialist training put on by the bureaus and FSI which I think they do
+                    beautifully, when I was in the State Department I was always trying to get more
+                    training in a more systemic way. Like administration, will stick with
+                    administration, that's what I know. Even the way people are used, we have such a
+                    rich mix of people coming in. Our recruitment pool is probably one of the
+                    finest, richest in the world as far as I'm concerned, the richest of any
+                    Department.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, the substantive side, you mean.</hi>
+                </p>
+                <p>GRANICK: No, I mean all sides, I mean administrative also. I think people come in
+                    to be Administrative Officers. Have we changed again, by the way? We used to
+                    have cones. Are we still bringing people in in cones or not.</p>
+                <p>
+                    <hi rend="italics">Q: I don't know exactly.</hi>
+                </p>
+                <p>GRANICK: Because I read something in the paper that they're going to change that
+                    again. I never can say it in French, you know the more things change, the more
+                    they stay the same. I mean we have a tremendously talented, rich pool of people
+                    who are drawn into the State Department for all of our work, economic,
+                    administrative...</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: Except the clerical, you see.</hi>
+                </p>
+                <p>GRANICK: Oh forget the clerical, I'm not talking about clerical, that's a whole
+                    different problem. I want to just go in for a moment into the administrative
+                    offices. This is my own little concern that I've had for years. I don't like the
+                    way the State Department brings in people, intelligent people and throws them
+                    out to the small posts as Administrative Officers. Sometimes they aren't even
+                    Administrative people, they're consular types or others. They have no job for
+                    them, and they throw them out as Administrative Officers. Or they have one turn
+                    as a Personnel Officer and then they put them out in a small African post. Now I
+                    know they need them, but as far as I'm concerned, I don't care what has to be
+                    done, you should take these highly intelligent people and give them three or
+                    four turns in the big posts under highly experienced people in GSO, in
+                    Personnel, in Budget, Security, wherever, then you send them out to a small post
+                    as Administrative Officer and that's when you really see what you've got. Is
+                    this person going to make an Administrative Officer? But he has enough
+                    background and training in the various administrative disciplines to do a
+                    job.</p>
+                <p>
+                    <hi rend="italics">Q: He knows what he can do and can't do.</hi>
+                </p>
+                <p>GRANICK: Exactly, and some of those African posts are the most difficult in the
+                    world. And so often I go out there and I couldn't believe it. They'd send some
+                    kid out there who didn't know his you-know-what from a hole in the ground and
+                    expect him to function and keep those people well and keep them doing their jobs
+                    properly. So I don't care how I'd rearrange things, but I'd make sure the
+                    Administrative types went through training not so much in the classroom,
+                    although some of that is always worthwhile, but I mean out in the field under
+                    tremendously good people. And then I'd start them up the line with better and
+                    better administrative posts until you hit the big European posts and the Asian
+                    posts and so forth. But I think training has been fantastically overlooked in
+                    that regard. I want to mention also I would like to see the Ambassadors take as
+                    much interest in the Administrative activities of their agencies as they do the
+                    program activities. I think the Ambassadors have done a good job of overseeing
+                    AID, USIA and defense in what programs they're carrying on and how they fit in
+                    with the State policy of course. Inspectors look at that very closely. But we
+                    also used to look at how they were handling personnel housing and the other
+                    administrative aspects of the other agencies.</p>
+                <p>
+                    <hi rend="italics">Q: Now, how would they do that?</hi>
+                </p>
+                <p>GRANICK: Well, they do that because the other agencies are supposed to put in
+                    their budgets through the DCM and Ambassador and they see what they're going to
+                    spend money on.</p>
+                <p>
+                    <hi rend="italics">Q: The budget time is the time when the Ambassador would do
+                        that?</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>GRANICK: Oh, yes, absolutely. At that time, he'd call in his Administrative
+                    Officers and DCM of course and say I want a breakdown on what they're spending
+                    on housing. And also, the Ambassador, as you know, is supposed to constantly
+                    determine how many people should be in a post. He has tremendous power in that
+                    regard. A lot of them don't want to utilize it. Some of them do. I would like to
+                    see the Ambassadors really take charge of what the other agencies are doing but
+                    unfortunately they don't like to do that, most of them. Again, it's the old
+                    management bugaboo, but we're not managers, management is not our bag, as old
+                    _______ once said.</p>
+                <p>
+                    <hi rend="italics">Q: Now this was very much on the carpet 20 years ago so I'm
+                        interested, do many Ambassadors actually require a cutback of staff of other
+                        agencies if they think they're too big?</hi>
+                </p>
+                <p>GRANICK: Well, it's required of them, and I think, again, this waxes and wanes
+                    depending on the Bureau of the Budget and depending on the management in the
+                    State Department and so forth. There had been times when tremendous pressure was
+                    put on from the White House to make sure Ambassadors did recommend cuts. In
+                    fact, did you know there had been programs, UPRAD, remember UPRAD? And there's
+                    been programs like that constantly where the Ambassador is responsible for
+                    sending in lists of people, not only of State Department, of all the agencies
+                    that can be cut, and I don't think it should be done just during the periods
+                    when they have these cutting programs. I think it should be a part of his duty
+                    as an ongoing commitment to constantly oversee other agencies and their
+                    personnel and their housing allowances and the money they're spending on various
+                    comforts. This can really harm morale, it happened a lot of times. I'd see where
+                    AID was doing a lot of things for their people that State was not doing. They
+                    shouldn't have been doing that because I think there's also a law, a rule that
+                    all the agencies should be spending about the same amount on giving their people
+                    the same amount of comforts and so forth.</p>
+                <p>
+                    <hi rend="italics">Q: Well maybe on the giving circumstances but on
+                        representation, for example, the military always was basically unlimited and
+                        we were really on pennies.</hi>
+                </p>
+                <p>GRANICK: That improved a little bit after Rooney left. Remember he wouldn't let
+                    us go over a million dollars?</p>
+                <p>
+                    <hi rend="italics">Q: The liquor fund.</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>GRANICK: The liquor fund, that's right. And of course he was the biggest souse in
+                    the world. He used to go out with Crockett, that's how Crockett got up so high
+                    in the beginning. He got attention, he was a very good man, but I mean he got
+                    attention because he used to go out with Rooney and they'd drink together.
+                    Rooney loved to drink but he always used to make fun of the State Department's
+                    booze fund. But anyway, I think representation, speaking of that, is done fairly
+                    well. We came across a couple of Ambassadors who tended to hog it, but for the
+                    most part I though they gave it out rather fairly.</p>
+                <p>
+                    <hi rend="italics">Q: Well, it depends on the circumstances, in Europe where the
+                        cost is so high, I think it was almost laughably inadequate.</hi>
+                </p>
+                <p>GRANICK: Yes for the lower people.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I mean not too low. You'd go down to the economic
+                        Officer, really number one or two and they'd have enough money for one party
+                        a year and then there wives would be making the hors-d'oeuvres for three
+                        days before the party and so forth.</hi>
+                </p>
+                <p>GRANICK: What wives do this anymore. He's a very luck man.</p>
+                <p>
+                    <hi rend="italics">Q: But where you couldn't afford servants and ....</hi>
+                </p>
+                <p>GRANICK: Well, you know in Paris and Rome where you have a Career Ambassador they
+                    had to get money from the State Department, they couldn't hack it. I mean extra
+                    money in addition to the fund as you know. Arthur Hartman, they had to get
+                    additional money. He's a private citizen and he did some very wonderful things.
+                    And then went the Forth of July. I was inspecting and they had hotdog stands and
+                    peanut wagons and a real American Forth of July.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's what we switched to in Manila, because
+                        previously the Ambassador would give a party at his residence and any
+                        American in town was welcome to show up and that just took practically the
+                        whole representational money for the year. So they turned it in to a sort of
+                        a softball and out door picnic.</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>GRANICK: That's all you can do, sure. I remember in Mexico we had our Fourth of
+                    July party and I had a heck of a time getting rid of one guy who said “I'm an
+                    American citizen and I heard about this big party and I'm coming.” “I sorry sir
+                    but we only can invite certain people, and foreign dignitaries.” “What, your
+                    inviting foreigners and I'm here and I can't.....” It took me to hours, he was
+                    going to go to the President. Those were some of the fun things that happened.
+                    But I like the strong Ambassadors and I like the Ambassadors who do keep control
+                    over all the agencies and some of them can do it, but golly it takes a lot of
+                    muscle, a lot of guts, but the law is on their side. I guess they keep repeating
+                    that letter from the President. I suppose that still stands.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, that goes back to Kennedy. That letter still is
+                        repeated as a matter of fact I think it's even been strengthened in the last
+                        few years.</hi>
+                </p>
+                <p>GRANICK: Oh it has to be because the Ambassador is the only one that has the
+                    possible control needed.</p>
+                <p>
+                    <hi rend="italics">Q: I might just interject for the tape that this is a letter
+                        which instructs the Ambassador that they are to be responsible for
+                        overseeing the other agencies that are at the post. Because in Washington,
+                        the State Department does not have that authority. But overseas the
+                        Ambassador has it because he is a representative of the President, and so
+                        this is the way the State Department can exercise some degree of supervision
+                        over other agencies overseas.</hi>
+                </p>
+                <p>GRANICK: And the letter specifies that he has control over every single agency
+                    including Defense except for the military command.</p>
+                <p>
+                    <hi rend="italics">Q: Specified and Something Command.</hi>
+                </p>
+                <p>GRANICK: Yes, that right, but other than that he has the control, power. They
+                    resist, but he has the power.</p>
+                <p>
+                    <hi rend="italics">Q: Well particularly the Military Attach�s resist any attempt
+                        to control what they report on, they're very jealous about that.</hi>
+                </p>
+                <p>GRANICK: And I know in our inspections one of the most difficult problems for
+                    Ambassadors was the back door stuff. Where agencies would send stuff in and not
+                    put it through the Ambassador. He had to clamp down very quickly and very hard
+                    on that because very often some of the things being done were not in line with
+                    what he wanted done or what he considered to be the policy of the Department or
+                    the President.</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>
+                    <hi rend="italics">Q: Well, what's next on your list?</hi>
+                </p>
+                <p>GRANICK: I think I've covered it pretty well. I'd be happy to answer other
+                    questions you might have.</p>
+                <p>
+                    <hi rend="italics">Q: I don't think I have any other questions. Do you have any
+                        thoughts maybe on the Department's structure on handling administrative
+                        matters. They didn't used to have a Under Secretary for management did
+                        they?</hi>
+                </p>
+                <p>GRANICK: No, they used to have, as a matter of fact, an Assistant Secretary and
+                    then they had a Deputy Under Secretary and then they finally made him an Under
+                    Secretary.</p>
+                <p>
+                    <hi rend="italics">Q: Has that made any difference in the effectiveness of the
+                        job?</hi>
+                </p>
+                <p>GRANICK: Now here again, I don't know what's happening behind the doors or what
+                    he can get from the Secretary now that he has a much larger post. I just don't
+                    know. I haven't seen any real change as far as I'm concerned. It's the person in
+                    the job. When it's an Assistant Secretary, you had a real powerful person in
+                    there. He got done what had to be done. Crockett came in and was made a Deputy
+                    Under Secretary and then went up to Under Secretary. Oh I think they probably
+                    get more money for the office, I think they have a larger fund to try things out
+                    that they want to try out because they're up there. I suppose the accouterments
+                    of power are real and probably give them access perhaps to the Secretary, and as
+                    I say, more money. But as far as actual power, I'm a great believer in the
+                    individual and I can't think of an example I can give you where things have
+                    changed because the title was raised. I just can't do that.</p>
+                <p>
+                    <hi rend="italics">Q: And what about other management experiments in your
+                        experience. Have they really changed effectiveness of operations?</hi>
+                </p>
+                <p>GRANICK: In the management reorganizations I think probably, and I think of this
+                    as management of course, the most interesting and provocative reorganization has
+                    been in personnel. As you know, and this you know is closest to the heart, most
+                    people who work in State, as so many people have said, our only resource is
+                    personnel. But they've changed the system so often, and I don't know what's
+                    happening now, I presume they're still going with the system which is fraught
+                    with problems and complexities where people write in and say what assignment
+                    they want rather than leaving it to... is that still the way it's done, do you
+                    know?</p>
+                <p>
+                    <pb facs="0025" n="Page0025"/>
+                    <hi rend="italics">Q: As far as I know.</hi>
+                </p>
+                <p>GRANICK: That, of course, although I think it's much fairer, has caused the
+                    Department tremendous problems in trying to meet all the expectations that
+                    people have plus this business about trying to get wives to go along with the
+                    husbands if they are both Foreign Service Officers.</p>
+                <p>
+                    <hi rend="italics">Q: That's terribly difficult.</hi>
+                </p>
+                <p>GRANICK: Very difficult. And it's getting much more difficult as more and more
+                    foreign service wives and husbands, well, people marry and go into the foreign
+                    service, two professionals in the service. Remember discussions they had on this
+                    when they had about five or six of them. They were very delighted with the fact
+                    that they could send people out and I said yes, but what's going to happen when
+                    you have 30 or 40.</p>
+                <p>
+                    <hi rend="italics">Q: Now I think there's 80 or something like that.</hi>
+                </p>
+                <p>GRANICK: It's going to be impossible. I think something's going to have to be
+                    done about that. I don't think they can sustain that. I don't know how you feel
+                    about that.</p>
+                <p>
+                    <hi rend="italics">Q: Well, this is a major problem. On Foreign Service Day
+                        there was a lot of talk about that and it's a major problem and they're
+                        struggling with it. I think they'll always be struggling with it.</hi>
+                </p>
+                <p>GRANICK: It causes tremendous morale problems not only with the married folks but
+                    the people who feel they're euchred out of jobs because they had to place Mrs.
+                    So and So or Mr. So and So with his wife, and vice versa.</p>
+                <p>
+                    <hi rend="italics">Q: Well, it's causing divorces and separations and
+                        things</hi>
+                </p>
+                <pb facs="0026" n="Page0026"/>
+                <p>GRANICK: Oh really, you mean if they can't go together, or the husband wants to
+                    take, or the wife, and they can't take the spouse, and they say “what do you
+                    mean?” Yes I can see that. That's a big problem. I've also, to get back your
+                    management question, strictly management. You know, I was chuckling the other
+                    day I don't know what made me think of it, but what ever happened to zero-based
+                    budgeting? All of these fantastic plans to start with a zero budget every year.
+                    Oh God, what a mess. And Crockett, as you probably know, had a wonderful system
+                    in mind where every post, every bureau, every office would actually have to plan
+                    at the beginning of the year what they were going to do, how many people they
+                    were going to use, how much money was going to be needed, and they had it all
+                    written out in little dibs and dabs down to the last dot and crossed T. None of
+                    that stuff seems to work in the State Department. I think it's too labor
+                    intensive is what it is. It takes too much of your time to keep track of how
+                    many things you're supposed to be doing. To try and answer your question in
+                    fewer words, as far as I can tell, none of these management reevaluations have
+                    made many changes, many differences. The State Department still runs on the
+                    individual. And an individual still wants the people he wants working with him
+                    and he still wants the people he wants assigned to him and he wants to promote
+                    who he wants to promote and so forth. This is no different than any other, I
+                    suppose, business organization although, I think it's more intensive in the
+                    State Department. Again, because of the close knit quality of the organization,
+                    it's just more intensive. But no, I haven't seen any management revolution or
+                    change make any great difference as far as I can remember. I just haven't seen
+                    it. Is that the sign by the way in their new campus, has that happened yet?</p>
+                <p>
+                    <hi rend="italics">Q: They're not there yet. The buildings are up, but I think
+                        they move in next year.</hi>
+                </p>
+                <p>GRANICK: I hope that having a campus like that will kind of move them towards a
+                    more structured kind of training. As I was saying, not only for officers but for
+                    clerical too if we start getting the quality of people that can be trained. I
+                    think we need an awful lot of that in the State.</p>
+                <p>
+                    <hi rend="italics">Q: Well we seem to be running dry, unless you have any
+                        parting shots.</hi>
+                </p>
+                <p>GRANICK: No, no parting shots. I would just like to give a little kudo at the
+                    end. End with a kudo if possible I always say. The years I spent in State were
+                    certainly the most rewarding years of my life up to now.</p>
+                <p>
+                    <hi rend="italics">Q: You found it more satisfying than OPM.</hi>
+                </p>
+                <pb facs="0027" n="Page0027"/>
+                <p>GRANICK: Oh yes. I can't imaging working for a better place or better people and
+                    certainly had more excitement and intellectual stimulation which is why I
+                    started out this whole conversation with the high quality of the officers and
+                    the people I worked for. I came over into an exciting job, but I quickly
+                    acclimated to the ambiance and certainly to the culture of the organization. I
+                    just think it's a fabulous place.</p>
+                <p>
+                    <hi rend="italics">Q: I felt the same way. And I felt the promotion system and
+                        the assignment system worked quite well up through the ranks until you
+                        really begin to be fairly high and then I think it sort of comes apart.</hi>
+                </p>
+                <p>GRANICK: And I'm sure this is true in any organization. It gets harder and harder
+                    to choose, of course, and more and more reasons come into play for choice.</p>
+                <p>
+                    <hi rend="italics">Q: Well, and then the personal element of the people at the
+                        time plays a bigger and bigger role.</hi>
+                </p>
+                <p>GRANICK: I remember so well I was in an Executive Director job and I was trying
+                    to tell this individual who I felt would make the best Inspectors and I had
+                    written out their qualifications and the reasons I thought these would be good,
+                    and these wouldn't be so good. He just gave it a cursory glance and looked at me
+                    and he says, but you don't know these people and I do. Talk about personal, he
+                    made his choices based on who he knew. Some of them were the same as the ones I
+                    had chosen, but he was not going on my lengthy write ups at all. No, it's a very
+                    personalized service, that's part of its charm, I guess. But those, of course,
+                    who don't make it don't think it's so charming. Oh god, I remember when I first
+                    came in State some people who were selected out, good people, highly
+                    intelligent. Bitterness, I've never seen such bitterness in my life. They felt,
+                    of course, that they were being thrown out at a time when they felt most
+                    productive. That's probably the most difficult aspect of the foreign service
+                    system is when you have to leave, forced to leave at a time when you still have
+                    a lot to give. It's painful.</p>
+                <p>
+                    <hi rend="italics">Q: The great difficulty used to be in the ages of about 40 to
+                        50 when you could not yet retire, you had children that were facing the
+                        college years and if you were selected out in that period it was almost
+                        devastating. I think they've gotten away from that, I'm not sure what the
+                        systems are, but I think there are provisions now that have sort of solved
+                        that problem.</hi>
+                </p>
+                <p>GRANICK: Yes, they carry you up to a higher age. But I'm talking about people, it
+                    wasn't a matter of age, they were probably 59, 60, they just felt that it wasn't
+                    time for them to go. No one feels that it's time for them to go. It happens all
+                    the time in athletics.</p>
+                <p>
+                    <hi rend="italics">Q: Okay, I think that's it and I think that's very
+                        useful.</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>GRANICK: It was fun.</p>
+                <p>
+                    <hi rend="italics">Q: Thank you very much.</hi>
+                </p>
+                <p>GRANICK: My pleasure.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

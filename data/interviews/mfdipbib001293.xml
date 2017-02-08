@@ -1,716 +1,1502 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001293">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with William Howard Wriggins </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with William Howard Wriggins </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR WILLIAM HOWARD WRIGGINS</p>
-<p>Interviewed by:  Paul D. McCusker </p>
-<p>Initial interview date:  March 8, 1995</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q: This is Paul McCusker, interviewing Howard Wriggins, former ambassador to Sri Lanka.  Today is Wednesday, March 8, 1995.  We're at Paul's home in Pelham, Westchester County, New York, about a half hour's drive from Riverdale in the Bronx, where Professor Wriggins lives.  Howard, would you please identify yourself, spelling out your last name, if you would, and kindly give me, for the record, your date and place of birth.</hi>
-</p>
-<p>WRIGGINS:  My name is Wriggins, Howard Wriggins, and my last name is spelled W-R-I-G-G-I-N- S.  Why the “W” is there, I haven't the slightest idea; it's caused me a lot of trouble.  Born on February 14, 1918, in Philadelphia.</p>
-<p>
-<hi rend="italics">Q:  How did you get involved in foreign affairs in the first place?  Could you start at the beginning?</hi>
-</p>
-<p>WRIGGINS:  Well, that's a long history, and I'll encapsulate it.  I think my start was when I began to build shortwave sets when I was a kid, probably about 14 or 15.  In those days, you had to go to a store and buy the different parts.  You couldn't get it all put together, or even kits.</p>
-<p>
-<hi rend="italics">Q:  Oh, I remember the days of crystal sets.</hi>
-</p>
-<p>WRIGGINS:  I used to listen to Britain; the BBC overseas service was active even then.  And Germany, the Nazi program was very interesting.  That got me interested.</p>
-<p>I went to a Quaker school, Germantown Friends, in Philadelphia, and, of course, they were very active in various peace movements.  And I had many, many friends who had worked during World War I in the Quaker overseas relief programs.</p>
-<p>Another part of it was, my father was a businessman who had a retail shop in Philadelphia and used to travel quite a lot to Western Europe each year.  So that was all part of it.</p>
-<pb facs="0002" n="Page0002"/>
-<p>I thought of the Foreign Service, while I was still in high school, as one of the things I might do.  At Dartmouth, where I was an undergraduate, I took international relations.  So all of this was very natural.</p>
-<p>In the Spring of 1941, well before Pearl Harbor, I agreed to join a Quaker program run by the American Friends Service Committee for training overseas relief workers. And in the spring of 1942 I flew to Lisbon as assistant in their Lisbon refugee office.</p>
-<p>During World War II, I was with the Quakers (AFSC), and served also in North Africa, Egypt and Italy and France, altogether five and a half years.  So, overseas was part of my growing up, really, and so it was logical.</p>
-<p>
-<hi rend="italics">Q:  And what did you do, then, when you got out of the service?</hi>
-</p>
-<p>WRIGGINS:  I returned to the States in December 1946, and after six months in New York working at the United Nations for the AFSC, I went to graduate school and got a Ph.D. at Yale in International Politics.</p>
-<p>
-<hi rend="italics">Q:  What year was that?</hi>
-</p>
-<p>WRIGGINS:  I finished my Ph.D. in '52.  I began graduate school in 1947, and interrupted my graduate work when the Quakers had an emergency relief program set up in the Gaza Strip.  For the first four years after the first Arab-Israeli War, the League of Red Cross Societies, the American Friends Service Committee, and the International Red Cross each had a segment of the refugee service program for the Palestine refugees.  Eventually, the U.N. took that over and have been running it since.  Had I known what I know now about what happened to the folks who fled to the camps in Gaza, I wouldn't have had anything to do with it.  But, at the time, we thought it was an emergency thing that...</p>
-<p>
-<hi rend="italics">Q:  Was going to be over shortly.</hi>
-</p>
-<p>WRIGGINS:  We thought it would be over in a year or two.  But these poor people have been there ever since.</p>
-<p>
-<hi rend="italics">Q:  What did you do after you got your Ph.D.?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>WRIGGINS:  Well, before that, I guess one of the most interesting things during World War II was that I was in Lisbon for a year and a half, where we were trying to get Central European, mostly Jewish, but also non-Jewish, refugees out of Western Europe, and help them get established in Portugal until we could get them visas and residence permits elsewhere.</p>
-<p>I began teaching international politics and comparative politics at Vassar in 1952.  I taught there for three years. My main fields were international politics and comparative politics.</p>
-<p>
-<hi rend="italics">Q:  That was when it was all women.</hi>
-</p>
-<p>WRIGGINS:  It was all women then, very bright women.  I was so thankful for the brighties who came in from the Bronx and other parts of New York City.  Many of the WASP girls were so well brought up they wouldn't challenge you. But the others would. That was fun and a wonderful place to start teaching.</p>
-<p>And then I got a grant to go to Sri Lanka (Ceylon then) from the Rockefeller Foundation.  Those were the happy days when there was money and not much talent interested in these things.  So I went in to talk to them, and when I described what I wanted to do, they said, “Well, you can't do this in one year.  Why don't you take two?”</p>
-<p>I said, “Well, if there's enough money for it, I will.  And I'll be delighted.”</p>
-<p>In those days, there was more money than people, so I was very lucky.  I took my wife and our two children to Ceylon; our third child was born there.</p>
-<p>
-<hi rend="italics">Q:  What sort of work were you doing for the Rockefeller Foundation there?</hi>
-</p>
-<p>WRIGGINS:  I was writing a book.  I was very much interested in underdeveloped countries.  From the time I worked in the Middle East with the Quakers, in Egypt, and Palestine a little bit, and Lebanon, I became interested in this great historic movement of colonial countries into independence.  That transition seemed to be very worth some serious study.</p>
-<p>During the two years we were in Ceylon they had an historic election, in which the challenger, Mr. Bandaranaike, used the language and ethnic issues to bring down the incumbent government. My book, Ceylon: Dilemmas of a New Nations (Princeton, 1960) turned into a detailed analysis of that election and the way language and cultural issues were misused for competitive politics purposes. The book was really a political history of Ceylon's first decade of independence and remains a classic that all the educated Sri Lankans know.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  What led you to concentrate particularly on Ceylon, among all of the countries you'd seen?</hi>
-</p>
-<p>WRIGGINS:  Well, I could make it a long story, but the short story is that I was bilingual in French, because I'd taken my Dartmouth junior year at the Science Pols. in Paris.  The last year and a half of my Quaker work had been running the Friends program in France.  So I was bilingual, and I thought it would be great to make a study like this in Morocco or Algeria or Tunisia, which would have been the logical place to do it.  But, in Algeria, anyway, there was sort of an independence movement going, and I didn't really want to take my family there.  And there were certain riots in Morocco, too.</p>
-<p>
-<hi rend="italics">Q:  So you went to a nice, peaceful island like Ceylon.</hi>
-</p>
-<p>WRIGGINS:  So I moved around.  And I knew that if I were in the Middle East, I'd have to learn Arabic, and I really didn't have any wish to do that.  I had a good British friend who had been head of the Colombo Plan, and he and his American wife had successfully had two children in Ceylon.</p>
-<p>Then, as I looked closer at Ceylon, it proved to be interesting, because it had ethnic problems and multilingual problems and an elite that was really socially and culturally quite far from the masses of people.  So, in a number of ways, it was like other colonial countries. But it was also unique, because they had had adult franchise ever since 1932.  They got adult franchise only a year and a half after the British women got the franchise!  So they had a long practice of democratic competitive politics, which was also one of the things that made it particularly interesting.</p>
-<p>Some people said, if you're going to do this, you ought to go to India, because India counts in the international system, which, of course, in a way, was true.  But I thought, India, was too large - you could lose yourself in India.  What can you do in a year, or even two?  And I didn't really think of myself as a South Asia specialist then.  This was just kind of two years off.  But, as it turned out, I then became concentrated, to some extent, on South Asia, although never gave up the international politics side.  So that's how I got to Ceylon.</p>
-<p>
-<hi rend="italics">Q:  So far, except for your serving in the Quaker efforts in World War II, you haven't gotten close to government, as near as I can tell.  When did you start association with the government?</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>WRIGGINS:  Well, when I came back from Ceylon, and while I was completing that book, Ceylon: Dilemmas of a New Nations, I was asked if I would be interested in working in the Library of Congress in the Legislative Reference Service (now the Congressional Research Service).  One of my close friends at Yale, where I did my graduate work, was Roger Hilsman.  Hilsman first went to Washington after military service, as Chief of the Foreign Affairs Division of the Legislative Reference Service.  He and I had always had a very interesting back and forth because of his military background and my non-military background.  And he asked me if I'd be interested in his job as he moved up in the organization.  I'd always had a hankering for somehow getting involved in Washington, and I thought, what a wonderful way to do it!  And it turned out to be so.</p>
-<p>
-<hi rend="italics">Q:  It's not very far from Philadelphia, after all.</hi>
-</p>
-<p>WRIGGINS:  No, well, that wasn't important, as far as I was concerned.  I was really very inspired by some of the people I had known overseas who had come out of Washington experience.  I had about four months in North Africa, working with a Quaker program in Algiers, and the OFFRO, which was the predecessor to UNRRA.  There were some wonderful OFFRO people there, who had all been very much involved in Washington New Deal activities.  I was quite inspired by these fellows; I thought they were serious, creative people.  Maybe that was one of the things that led me to be interested in Washington.</p>
-<p>Anyhow, I got deeply imbedded in the Library of Congress. Working with congressmen and senators was a wonderful experience, thought aggravating and at times exhausting.  Sometimes they almost drove me crazy because they were so unreasonably impatient. But I learned just an enormous amount. I came to have a lot of respect for the way in which they were such fast learners.  I also came to see that part of the game on the Hill was political theater in the House and Senate but also how much of it is also terribly serious business. I came to know people like Hubert Humphrey, Scoop Jackson, Lyndon Johnson, Chester Bowles, Ken Keating - these were able and impressive men.</p>
-<p>
-<hi rend="italics">Q:  You would hope so.  Now was it Margaret Hoover who got you then into the State Department?</hi>
-</p>
-<p>WRIGGINS:  No, I have no idea how I was invited to join the State Department.  While I was working in the Library of Congress, I became involved with a group from the Brookings Institution, and we began to talk about “political development”, to balance a bit the preoccupation with economic development.  We knew, from the work of a lot of us in Third World countries, that really the political institutional structures were of critical importance.  So we began struggling with this, and that's why I wrote some papers about this subject, and they got circulated.  I don't know who it was who pushed my name forward at State.</p>
-<pb facs="0006" n="Page0006"/>
-<p>One day, I was called up by George Morgan, the Executive Secretary of S/P, and he said would you be interested in coming over and talking to us.  I said, sure.  To work on the Policy Planning Council, there was no job in Washington at that time that I would have been more interested in.</p>
-<p>
-<hi rend="italics">Q:  Who was running the Policy Planning Council?</hi>
-</p>
-<p>WRIGGINS:  Well, at that time, George McGhee was the head of it.  George Morgan was the man who talked to me about coming over, and then I talked to George McGhee.  I'm very grateful to both of them, because they opened up a great opportunity for me.</p>
-<p>
-<hi rend="italics">Q:  How long did you stay in Policy Planning?</hi>
-</p>
-<p>WRIGGINS:  I was there for quite a while, given the history of the Policy Planning Council.  People are usually there for two years or two and a half, but I stayed four and a half.  One of those years, I was on leave.  I went to SAIS, in Washington, Johns Hopkins, and began drafting a book on what I called the Ruler's Imperative, which was the problems of Third World leaders staying in power.</p>
-<p>
-<hi rend="italics">Q:  It was an exciting time.</hi>
-</p>
-<p>WRIGGINS:  I adopted quite the wrong hypothesis.  My problem was that I thought, How do these people stay in power?  On the contrary, most of them, once they got there...</p>
-<p>
-<hi rend="italics">Q:  Became president for life.</hi>
-</p>
-<p>WRIGGINS:  They tended to stay for a long time.  So the basic assumption under which I wrote that book was totally wrong. Still, it had long seemed to me that my political science colleagues were striving for a basic theory, designing complex “political systems” and all that. But what really drove politics was the desire of ambitious men (and women) to get into key positions, and once there, how to stay there, as long as they could.  The book proved useful in that intermediate level of abstraction - many examples but little high level theorizing.</p>
-<p>
-<hi rend="italics">Q:  Of course, in that connection, I always think of Sukarno, who called himself president for life.  He didn't make it.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>WRIGGINS:  He didn't make it, thank goodness.</p>
-<p>
-<hi rend="italics">Q:  Suharto didn't call himself president for life, and he's almost made it.  He hasn't died yet.</hi>
-</p>
-<p>WRIGGINS:  What a remarkable fellow he must have been.  I mean, what they have done to that country, compared to what it was when Sukarno left.</p>
-<p>
-<hi rend="italics">Q:  Well, that's because he was smart enough to let the economists and the Western-trained Mafia run the show. Anyway, so you only had a year at SAIS.WRIGGINS:  Then I went back to the Policy Planning Council.  Then, when Walt Rostow went over to the National Security Council he asked me to go over with him to the NSC.  as his NESA man.</hi>
-</p>
-<p>I'll just take a funny moment on that one.  I had been asked to join the faculty of Columbia to start their Southern Asian Institute.  I felt I was running out of intellectual steam.  Anyway, the very day I was going to take my family up to Columbia, to show them New York and what life could be like there, alternative ways of thinking about how we should make the transition, because I'd already been asked and agreed to go, Walt called me and said that he'd just been asked by the president to come over and head his National Security Council staff, would I go over with him?  That completely disrupted my family plans, but I'm glad that it did.  The National Security Council was something you wouldn't turn down, especially if the particular assignment fitted your qualifications.</p>
-<p>
-<hi rend="italics">Q:  Of course not.</hi>
-</p>
-<p>WRIGGINS:  So I had a year and a half on that.  And then I went to Columbia in '67.</p>
-<p>
-<hi rend="italics">Q:  In '67, you started at Columbia.  But tell me about the National Security Council.  Were you, at that point, concentrating on South Asia?</hi>
-</p>
-<p>WRIGGINS:  South Asia and the Near East were my beat, because while I was in the Policy Planning Council, I was mainly South Asia. But I had a lot to do with the Middle East, too.  Bill Polk was really the Policy Planning Council's guy on the Near East, but because of my interest in India and Pakistan, and because of Pakistan's connection to the Gulf, I tried to keep up with that, too.  So then, when Walt asked me to go over, I took the NEA slot.</p>
-<pb facs="0008" n="Page0008"/>
-<p>But there was a splendid man who was already there, Hal Saunders, working on Arab-Israel problems.  Saunders became one of my heroes.  I mean, he was a marvelous person; who worked so long and patiently on Arab-Israeli relations.  He was allegedly my deputy, which was kind of absurd.  He knew so much more about the Middle East than I did, so I more or less left that to him.  So, I really focused mainly on South Asia.</p>
-<p>
-<hi rend="italics">Q:  When you went to Columbia in '67, were you again in the South Asia field?</hi>
-</p>
-<p>WRIGGINS:  I was asked to join the Political Science Department to work on both international politics, which was my Ph.D. subject, and South Asia, on which I was a self-taught South Asianist, and to start the Southern Asian Institute, analogous to the other regional institutes at Columbia.  Andrew Cordier was dean of the School of International Affairs when I was asked to join the Columbia faculty. Quite coincidentally, I had known Andy Cordier before, because one of my tasks with the American Friends Service Committee before I went to graduate school was to help start the Quaker United Nations program, which you may know about.  Elmore Jackson, who was the person who worked with Clarence Pickett on the U.N., and I were working around the U.N., so I knew Andy from that incarnation. That had nothing to do with my appointment at Columbia, which was a faculty affair. But it did help me once I got the Southern Asian Institute under way.</p>
-<p>
-<hi rend="italics">Q:  Cordier was already...</hi>
-</p>
-<p>WRIGGINS:  When I was interviewed, he was already dean of the School of International Affairs.  It was a joint appointment to the Political Science Department and the School of International Affairs.</p>
-<p>
-<hi rend="italics">Q:  You were there for a while, about ten years.</hi>
-</p>
-<p>WRIGGINS:  Yes, I was there for ten years.  And then I went off to Sri Lanka, which is really what we're talking about.</p>
-<p>
-<hi rend="italics">Q:  That's right.  We're getting to that.</hi>
-</p>
-<p>WRIGGINS:  It's the long way around.</p>
-<p>
-<hi rend="italics">Q:  Well, that's okay.  How did you...</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>WRIGGINS:  How did I do that?  How did that happen?</p>
-<p>
-<hi rend="italics">Q:  You don't volunteer for the job.  Somebody has to ask you to be ambassador.</hi>
-</p>
-<p>WRIGGINS:  That's true.</p>
-<p>
-<hi rend="italics">Q:  Or maybe you did volunteer, I don't know.</hi>
-</p>
-<p>WRIGGINS:  Well, in a way.  Not for this specific job.  The Policy Planning Council was a very interesting and visible job, and so was the Library of Congress.  So I got to know a lot of people, and some of the things I did in the State Department helped me generate a rather large network.By now I had had an unusual combination of experiences.  I had spent two years in Ceylon (now Sri Lanka) and was one of the few Americans who had written a consequential book on the place and was a recognized specialist on South Asia.  I had had experience on the Hill in a high-speed research operation, and was not intimidated by Congressmen and Senators the way many foreign service officers seem to be. I had had four years on the Seventh Floor of the State Department and a year and a half in the basement of the White House.</p>
-<p>Not many candidates for political appointments could say as much.</p>
-<p>When Jimmy Carter came in, I said to myself, hey, wait a minute; I know a lot of these people, I have had unusual experience; maybe I can be useful. I've always been a Democrat, and so I did put up my hand.  I wrote Averell Harriman, and I wrote Cy Vance, and I wrote a number of people, just one New Year's weekend.  Instead of going to India, as I usually did in that season, I stayed home and wrote a number of letters.  I still remember that decision.</p>
-<p>Nothing happened, nothing happened, no word back at all.  And then, suddenly, I was called by Warren Christopher if I'd come in and talk about going to Sri Lanka.  I said, “Sure, I'll be happy to talk to you.”</p>
-<p>
-<hi rend="italics">Q:  Obviously, somebody had been going over your background.  It wasn't exactly a hit or miss...</hi>
-</p>
-<p>WRIGGINS:  No, no.</p>
-<p>
-<hi rend="italics">Q:  It wasn't because of your major political contributions to Carter.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>WRIGGINS:  Oh, no.  Actually, I had worked for Hubert Humphrey in that primary campaign.  I wrote some papers for him on foreign policy generally, though it didn't matter.  He lost abysmally; he didn't make it.  And so Carter owed me nothing.</p>
-<p>But, anyway, that's how it happened.</p>
-<p>
-<hi rend="italics">Q:  I see.  Now I guess you got this appointment at a very delicate moment in the history of Sri Lanka.</hi>
-</p>
-<p>WRIGGINS:  Oh, a very interesting moment, yes.</p>
-<p>
-<hi rend="italics">Q:  What was going on when you arrived?</hi>
-</p>
-<p>WRIGGINS:  Well, they'd just had an election, as I mentioned in my note to you, in which a new man, Jayawardene, had won hands down.  I mean, an overwhelming victory.</p>
-<p>
-<hi rend="italics">Q:  Well, I guess people were sick and tired of the...</hi>
-</p>
-<p>WRIGGINS:  They were all sick and tired of the Bandaranaike government, which had been a combination of representatives of three leftist parties in key positions in the cabinet.  They had severe economic and public order problems and all kinds of things, and so the population was very enthusiastic about this new man.</p>
-<p>But there were serious ethnic riots on our arrival.  I remember, there were curfews and police everywhere, and it was a very difficult time.  And it was about five or six days before the curfew was lifted.  This wasn't the Ceylon I'd known before, which had been a very peaceful place.</p>
-<p>
-<hi rend="italics">Q:  Except you had known the new prime minister.</hi>
-</p>
-<p>WRIGGINS:  Yes, I had known him since my first research stay; and every visit I made since then, say every two years, he was one of the people I had gone to see. So we were more than casual acquaintances.</p>
-<p>
-<hi rend="italics">Q:  Was he prime minister or president?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>WRIGGINS:  Well, he was prime minister until they changed the constitution, and then he became president.  It's an innovation which I think they'll change.  They'll go back to their old way, I believe.</p>
-<p>
-<hi rend="italics">Q:  Who would be the chief of state, then, if they went back to prime minister?</hi>
-</p>
-<p>WRIGGINS:  The president would be the symbolic head of state.</p>
-<p>
-<hi rend="italics">Q:  I see, but not the political man.</hi>
-</p>
-<p>WRIGGINS:  A queenly role, rather than an executive role.</p>
-<p>
-<hi rend="italics">Q:  Of course, the ethnic conflicts, as you referred to them, had been going on before you came there.  So you stepped into it.</hi>
-</p>
-<p>WRIGGINS:  That's right.  As I thought about it at the time, the ethnic conflicts had really begun when I was there the first time.  As I said, Mr. Bandaranaike had seized on the language question and made it his political vehicle for getting into power.  For the first ten years of independence, they had followed a multilingual policy, under which about ten percent of the population spoke English, about 20 percent spoke Tamil, and the rest spoke Sinhalese.  But Mr. Bandaranaike decided that he'd get to power by promising Sinhalese only.  And any of us who have worked in South Asia know that as soon as you set a match to the linguistic and ethnic tinderbox, you have terrible problems.</p>
-<p>
-<hi rend="italics">Q:  Even in places like Ireland.</hi>
-</p>
-<p>WRIGGINS:  Yes, you bet.  Mr. Bandaranaike once told me, the first time I was there, “Professor Wriggins, I've never known an issue as good as the language issue to excite people.”</p>
-<p>And I thought to myself, “You foolish man!  you don't know what you've begun.”</p>
-<p>He had a kind of false conception of public opinion, I call it the faucet view. You could turn these things on and you could turn them off again.  But, of course, you couldn't.  So, after each succeeding election, there had been some ethnic violence.  But nothing as serious as what occurred at this time.  I don't know how many people were killed; maybe 500 people were killed.  Of course, this was nothing compared to what happened in 1983, after we left.  But, while we were there officially, things were not bad, although I knew that this was one of those problems government needed to deal with very vigorously.  And it seemed to me, they were cautious.</p>
-<pb facs="0012" n="Page0012"/>
-<p>
-<hi rend="italics">Q:  The new Jayawardene regime apparently stopped the leftist trend.</hi>
-</p>
-<p>WRIGGINS:  Yes, very much so.</p>
-<p>
-<hi rend="italics">Q:  Then you must have been deluged with all kinds of do-gooders (we call them aid do-mores).</hi>
-</p>
-<p>WRIGGINS:  Well, it was a very interesting period.  The most significant thing, from the point of view of getting the record on this, is that Jayawardene undertook a complete shift in economic policy.  Instead of following the sort of Fabian Socialist tradition of Nehru and previous governments in Ceylon, he opened the economy up and took most of the regulations off.  He had a lot of help from the Bank and Fund, who thought this was marvelous, to find a democratic government that had seen the light and was really following liberal economic principles.</p>
-<p>
-<hi rend="italics">Q:  Except for the mention of democracy, I'd say you're describing Indonesia in 1966.</hi>
-</p>
-<p>WRIGGINS:  Very good.  Yes, exactly.  It was really quite amazing to watch this.  Jayawardene was very impressed with Singapore.  I never heard him mention Indonesia as an example, but Singapore certainly was.  And it made an enormous difference.  When we first went there, most of the stores were virtually empty, but within six months, everything was there.  People were buying all kinds of things, goods were coming in, shops were being painted, and so on.  So that it was economically a very lively time, a very promising time, and the outsiders were cheering; to see a former “socialist” country join the free market club!.  And so a lot of foreign businessmen came pouring in.</p>
-<p>One interesting aspect of Sri Lanka is that they have very heavy rains that are highly seasonal, as anybody who's been in monsoon country knows, but Sri Lanka had a very sophisticated hydraulic society from about the 1st Century B.C. until about the 12th Century.  There are very substantial and impressive ruins in what is normally thought of as a dry zone.  But this dry zone was irrigated through a very elaborate series of channels or reservoirs, or “tanks” as they are called.</p>
-<p>Previous AID and government programs had planned a number of dams for developing this hydraulic society.  And Jayawardene comes in and says, “A 40-year plan?  Why can't we do it faster than that?  And let's see if we can't do four or five at once.” I thought this was foolish.  I thought of how Menderes in Turkey had pushed an enormously rapid program of capital investment, military bases, all kinds of things.</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  And infrastructure.</hi>
-</p>
-<p>WRIGGINS:  Inflation got going at such a pace that everybody got angry at him, there was a military coup, and in the end he was killed.  And I worried about this with Jayawardene.  I tried to get material from USIS and various other places about Menderes.  But, of course, the process was so cumbersome that I never got anything.</p>
-<p>
-<hi rend="italics">Q:  Did they ever finish the dams?</hi>
-</p>
-<p>WRIGGINS:  Oh sure, they have.  I mean, it was quite astonishing what was accomplished.  Let's see, the Germans, the British, the Swedes, and the Canadians all agreed to build dams and within ten years, they were all built and functioning.</p>
-<p>
-<hi rend="italics">Q:  And no Eastern European country, neither the Russians nor...</hi>
-</p>
-<p>WRIGGINS:  No, no, they weren't interested.</p>
-<p>
-<hi rend="italics">Q:  They'd lost the battle.</hi>
-</p>
-<p>WRIGGINS:  With Jayawardene's change in economic policy, they weren't interested any more.  And he wouldn't have been interested in having them.</p>
-<p>Anyway, here we have a bunch of donors competing against each other for dam sites.  And one of them, I think it was the Japanese, in the end, got squeezed out - they donated a hospital instead!</p>
-<p>
-<hi rend="italics">Q:  Unusual.</hi>
-</p>
-<p>WRIGGINS:  I much would have preferred for the Americans to build a dam than to get involved in the downstream channeling and agricultural water control.  Very difficult stuff to handle.  But Jimmy Carter had stopped building dams in the United States, for ecological reasons, and so we couldn't build a dam.</p>
-<p>
-<pb facs="0014" n="Page0014"/>
-<hi rend="italics">Q:  Tell me, having myself served in a developing country, Indonesia was my first... and I've talked to enough other people whom I've interviewed for this program of oral history to know that relationships between the ambassador or the little State Department entourage in any post, and the AID mission often were strained, depending upon the personalities of the ambassador or the AID director, how do you feel, over your period of three years or so, that you got along?</hi>
-</p>
-<p>WRIGGINS:  Well, that's an interesting question.  I was much concerned about the development program, having been in Sri Lanka in the 1950's when the first aid program began; started, by the way, by Jim Grant who ultimately became head of UNICEF.  From the Policy Planning side, I'd watched and been connected to a lot of AID programs in the countries I was interested in, and because I'd spent time in Sri Lanka before.  And the first AID director, named Tom Arndt, was a very cooperative, very interesting young man.  He was willing to recognize that I knew quite a lot about Sri Lanka.  We worked closely together, and I enjoyed him.  Of course, his mission was very small.  This was the very beginning of it.  And so, from his point of view, there was no reason to be anxious.  But, after about a year, he went off to something else, and a gal took his place.  I can't remember her name.</p>
-<p>
-<hi rend="italics">Q:  Is that an intentional lapse?</hi>
-</p>
-<p>WRIGGINS:  I'm sure it's a Freudian thing; I just can't remember the lady's name.  She was really a pain, because she wanted to have as little to do with the embassy as possible.  My experience in South Asia as a scholar suggested to me that sometimes there is validity — if you want to do certain things, the less association you have with the embassy, the better.  And so I understood part of her orientation toward this.</p>
-<p>
-<hi rend="italics">Q:  But, on the other hand, it kind of destroys the concept of the country team.</hi>
-</p>
-<p>WRIGGINS:  Yes, it wasn't really very helpful.  She was in fact very uncooperative, as if the less you had to do with the embassy, the better.  So I had to really go around, clandestinely, in various ways, to find out.  I had no reason to suspect that there was any hanky-panky going on, or anything wrong with it; I was just damned curious.  It wasn't that I was trying to check up on her, really, but I was trying to be perfectly clear about what was going on.</p>
-<p>
-<hi rend="italics">Q:  Well, I think the ambassador is entitled to know what's going on at a post.</hi>
-</p>
-<p>WRIGGINS:  Yes, that's true.  Also, you learn a lot about what's going on politically through the people who are actually out in the field.  So I had a lot of personal contact with them, but it was all kind of sub rosa.  Very stupid.</p>
-<p>
-<pb facs="0015" n="Page0015"/>
-<hi rend="italics">Q:  Trying to keep the director of the AID mission out of the loop.</hi>
-</p>
-<p>WRIGGINS:  Well, yeah, it was really stupid.  I think she was quite effective, and she had a very rapidly growing organization to deal with.  There were a lot of specific congressional requirements; the whole contracting structure is enormously cumbersome.  So she had her own problems, and she ran a good show, but she was just a pain in the neck.</p>
-<p>
-<hi rend="italics">Q:  Well, I've seen that to be the case in other circumstances.</hi>
-</p>
-<p>WRIGGINS:  Sure.  As far as I was concerned, it was totally unnecessary.  It was just one more thing.</p>
-<p>
-<hi rend="italics">Q:  You did have a very good DCM (deputy chief of mission).</hi>
-</p>
-<p>WRIGGINS:  Oh, yeah, Herb Levin.</p>
-<p>
-<hi rend="italics">Q:  Herb Levin was to become an acquaintance of mine in New York here.</hi>
-</p>
-<p>WRIGGINS:  Oh, Herb was marvelous.  I thought he was great fun.</p>
-<p>
-<hi rend="italics">Q:  He thinks very highly of you, too, I might say.</hi>
-</p>
-<p>WRIGGINS:  Oh, well, good.</p>
-<p>
-<hi rend="italics">Q:  He was working at the U.N., after I retired.</hi>
-</p>
-<p>WRIGGINS:  Yes, he had a big job there for a while.</p>
-<p>
-<hi rend="italics">Q:  He got caught in the RIF (reduction in force) which particularly affected senior Americans, and he was out.  But I understand he's still doing something with China.</hi>
-</p>
-<p>WRIGGINS:  He's working with Cy Vance and Henry Kissinger now.  Yes, he lands on his feet.</p>
-<p>
-<hi rend="italics">Q:  Well, that's good.</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>WRIGGINS:  He's very able.  Oh, he's a terrific man.  I just dumped all the administrative stuff on him.  I think the DCM job is probably the worst job in the embassy.</p>
-<p>
-<hi rend="italics">Q:  Well, that's what everybody says, but it's difficult to get to be an ambassador unless you're a DCM, someplace.</hi>
-</p>
-<p>WRIGGINS:  Yes, I'm sure that's true.</p>
-<p>
-<hi rend="italics">Q:  That's what happened to Frank Galbraith, who was my DCM in Jakarta when I first got there.  Eventually, he became ambassador first to Singapore and then to Indonesia, where he had started his career as an Indonesian language officer.</hi>
-</p>
-<p>WRIGGINS:  That's good.  That's unusual.</p>
-<p>
-<hi rend="italics">Q:  That's right.  Well, he passed on, but I won't talk any more about Frank Galbraith.</hi>
-</p>
-<p>Again, as a, let's say, non-career Foreign Service officer, despite your history with the State Department and with the National Security Council, I know you're aware of...  First of all, let me say, this interview is off the record.  You need not feel particularly feel by any classified rules, if there are things you don't want to talk about.  We've all had experience, at whatever posts we've been in, with our, shall we say, sometimes unhelpful colleagues from another part of the government, the Central Intelligence Agency.</p>
-<p>WRIGGINS:  Oh, yes, right.</p>
-<p>
-<hi rend="italics">Q:  I make it a habit to ask tough questions about the relationships and what you feel they should have been, or might have been, or should be, not just were, in your case, but should have been.</hi>
-</p>
-<p>WRIGGINS:  Yes, this is a good question.  It's a puzzle to me, too, because at the time I was there, we'd already had the... what was the big commission expos� of the CIA, the Senator from Utah?  Frank Church.</p>
-<p>
-<hi rend="italics">Q:  Oh, Senator Church, who was chairman of the Foreign Relations Committee.</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>WRIGGINS:  We'd had the Church Committee investigation of the CIA, and they were somewhat under wraps.  I had remembered, from my previous periodic visits, that they were sometimes quite active, it seemed to me.  I was never fully knowledgeable, but I knew some of their guys; they were asking the same kind of questions about the political system that I was asking, as a scholar.  And so we were sometimes in touch with each other.  And it did seem to me that some of them were really, at periods, quite active in... I never knew what, exactly, maybe providing funds for various kinds of activities.</p>
-<p>
-<hi rend="italics">Q:  Would you say that since you arrived after the election of an anti-leftist regime in Sri Lanka, the CIA was in any way responsible for that, shall we say, from their point of view, victory?</hi>
-</p>
-<p>WRIGGINS:  Oh, no, I don't think so.  I believe it was a virtually completely homegrown operation.  Everybody was so angry at them, and they'd been so unreasonable, and, you know, all kinds of things.  Maybe there was some financing, but if so I never knew.  I never inquired about it; it wasn't necessary.  It does seem to me that the thing was so thoroughgoing and inherently domestic that we can't claim much credit for it, even if we should want to for some obscure reason.</p>
-<p>
-<hi rend="italics">Q:  I'm glad to hear you say that.  Some people think that the Central Intelligence Agency had something to do with the felicitous outcome of the abortive coup in 1965 in Indonesia.  But that's absolutely not true.  There is no way that the Agency could have influenced it.</hi>
-</p>
-<p>WRIGGINS:  That's right.  Okay.  So, no, I don't think so.</p>
-<p>And so, because of the Church Committee and various things, they were, I felt, under a sense of restraint.  And that was fine by me.  There was no reason to be active.  I mean, this government was perfectly friendly to us.  They were falling all over themselves to be nice to us, and their policy was perfectly congenial, so, you know, what's the point?</p>
-<p>There were certain things they were doing.  They were bugging certain places, meetings and so on.</p>
-<p>They did perform one service, and that is, they provided the material to me to pass to the president (which they had derived I don't know where) about some people with Middle Eastern training who had taken over property opposite the president's residence.</p>
-<p>
-<hi rend="italics">Q:  Potential terrorists?</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>WRIGGINS:  And allegedly tied in with some Tamil groups who had been training with the PLO in Lebanon.  I saw the list of names of the people who turned up in one of the camps, and there were quite a few that looked like Sri Lankan Tamil names.  So there was a connection there that they were able to alert the government to.  But, beyond that, I often wondered what in hell they did.</p>
-<p>
-<hi rend="italics">Q:  Weren't there an awful lot of them?</hi>
-</p>
-<p>WRIGGINS:  No, no, no.  There were only three.</p>
-<p>
-<hi rend="italics">Q:  Oh, really.  I see.</hi>
-</p>
-<p>WRIGGINS:  One was busy in the visa department, and the other two, I couldn't quite figure out what they were doing.  But it didn't bother me.</p>
-<p>
-<hi rend="italics">Q:  They didn't bother you, so you didn't bother them.</hi>
-</p>
-<p>WRIGGINS:  Yes, that's right.  Although I did have an interesting thought.  I got to know the Czech Ambassador very well, and we played tennis together.  He was a very interesting fellow.</p>
-<p>WRIGGINS:I speculated to myself, well, now I wonder if he might jump ship?  And if he did jump ship, I was very glad those guys were there.  But he didn't jump ship.</p>
-<p>
-<hi rend="italics">Q:  Well, they would have sent somebody in, anyway, if you had an inkling from the Czech that he was interested.  Or they would have arranged to meet him outside the embassy.</hi>
-</p>
-<p>WRIGGINS:  Oh, yes, sure.</p>
-<p>
-<hi rend="italics">Q:  Well, this was, of course, after '68, wasn't it?</hi>
-</p>
-<p>WRIGGINS:  Oh, yes.</p>
-<p>
-<hi rend="italics">Q:  So he was not a Dubcek representative.</hi>
-</p>
-<p>WRIGGINS:No.  But he turned up again.  I've seen him since at Columbia;...</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q:  Still playing tennis?</hi>
-</p>
-<p>WRIGGINS:  I guess.</p>
-<p>
-<hi rend="italics">Q:  Now let's get into the nitty gritty about the separatist movement.  I'm appalled by what I read fairly recently in the papers.</hi>
-</p>
-<p>WRIGGINS:  It's been a tragic decline; particularly hard on the people of Jaffna, but a great diversion of resources from other, more needed domestic developments.</p>
-<p>
-<hi rend="italics">Q:  Well, what's happened, I mean, since 1983.  I read one article which talks about at least 40,000 people...</hi>
-</p>
-<p>WRIGGINS:  I think that's probably true.</p>
-<p>
-<hi rend="italics">Q:  Now I gather that the Tamil group, a minority... and it is still a minority of only about 12 percent, I think, isn't it?  Somewhere around there?</hi>
-</p>
-<p>WRIGGINS:  Well, there are two Tamil elements in Sri Lanka, which are often confused.</p>
-<p>One is the estate workers who were brought in from South India.  They are coolies, and they are low, very low, caste.  They've been up in the up country, manning the tea and rubber estates.  And they, on the whole, have not been involved in this separatism.</p>
-<p>
-<hi rend="italics">Q:  When you say “up country,” let me get the geography.  You're not talking about Jaffna Province.</hi>
-</p>
-<p>WRIGGINS:  No.  Jaffna's on sea level.</p>
-<p>
-<hi rend="italics">Q:  I see.  Oh, in the highlands.</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>WRIGGINS:  The island has a core that rises to 6,500 feet.  In the area above sea level, as the air is cooler, that's where the rain condenses, as in Indonesia's mountains.  So the Tamil population there is pretty isolated and encapsulated in their estates.  And they've had a political leader who's been very clever, a fellow named Thondaman.  Thondaman has worked very closely with the United National Party and collaborated with Jayawardene, and, as a result, kept the Tamil estate workers quiet, but he won a lot of rights for the Tamil estate workers, education etc. in return.  So that's one group.</p>
-<p>The second group, however, is the Sri Lanka Tamils, and they have been there for well over a thousand years.  In my view, they're as much Sri Lankans as the Sinhalese, although the Sinhalese may, in fact, have come earlier.  Quite a few of the indigenous Tamil families came in the 14th, 15th, and 16th Centuries.  But, for an American, these are people who typically have been there for generations and generations.</p>
-<p>
-<hi rend="italics">Q:  They're natives.</hi>
-</p>
-<p>WRIGGINS:  Yes, they are.  They, too, are natives.</p>
-<p>Anyway, I guess encapsulating the story somewhat, I put it to myself this way: during the British colonial period, the American missionaries were given the right to have schools in the Tamil areas.  The British reserved to themselves the education of the majority population.  In the British Empire (I don't know how it was in the Dutch), the British assigned the task of education to religious bodies.  So it was the American missionary schools in Jaffna that were far more energetic in training people for practical skills: engineering, medicine, accountancy, things like that, while the British schools stuck more to the traditional British arts curriculum.  So that, during the colonial period, it was the Tamils who found wonderful opportunities in the bureaucracy.  The British were quite willing to have the minority perform these necessary tasks.  And they did that in quite a few of their colonial areas.  So, at independence and post-independence, you have a lot of Tamils in relatively senior bureaucratic positions, because the British depended on large numbers of local folks to manage their bureaucracy.</p>
-<p>So, following independence, the Sinhalese looked around, and they found that a lot of the senior positions were manned by Tamils.  Whenever they needed to get any responsible official, quite disproportionate to their number of 12 percent, there was always a Tamil there.  And disproportionately in the schools, the Tamils.  Maybe 50 percent of medical-doctor candidates would be Tamils, and maybe even 50 percent of the engineers.  There would be some elements of the bureaucracy that were being entirely manned by Tamils, as you bring in your cousins and your brothers and your nephews.  The Irrigation Department and Public Works Department and quite a few were Tamil preserves, just like the New York police, for a while, were Irish.</p>
-<p>
-<pb facs="0021" n="Page0021"/>
-<hi rend="italics">Q:  It's changed now.</hi>
-</p>
-<p>WRIGGINS:  Yes.  So, as I said, Bandaranaike saw the Sinhalese language as the thing to get him going politically.</p>
-<p>Mrs. Bandaranaike then went further.  She began to cut back on the proportion of university positions that could be taken by Tamils.</p>
-<p>
-<hi rend="italics">Q:  You mean a quota system.</hi>
-</p>
-<p>WRIGGINS:  Yes, a quota system.  And so a well-educated Tamil father could see that his son was not going to have the same kind of opportunities he'd had, and the son could see that he was not going to have the same kind of opportunities that his Dad had had.  Under Mrs. Bandaranaike, this became quite acute.  So that, by the time this election came along, the Tamils were organized.</p>
-<p>For a long time, they had tried to promote a federal structure, which would mean a decentralization of the highly centralized administrative and political systems that the British had organized in order for to control the place.  But the federal issue became always a Tamil issue.  And so you couldn't conceive of changing the highly centralized system to a federal system because that would be giving the Tamils the right to change “our” constitution.  That's outrageous, they're only a minority of 12 percent.  So we can't accommodate them in this way.  And Mrs. Bandaranaike refused to work on serious decentralization.</p>
-<p>There were, however, two examples of negotiated and mutually agreed decentralization proposals.  In each case, they were negotiated by the government with the Tamil leaders and accepted both by the Tamil leaders and accepted by the Sinhalese leaders.  But then in each case there would be a public uproar, and the Sinhalese leaders wouldn't dare to implement it.  So, the Tamils came to distrust offers by the Sinhalese leaders. And the Sinhalese distrusted the ultimate aims of the Tamils, because there were 60 million Tamils over in India, and over 3 million Tamils in Sri Lanka. The Sinhalese reasoned, if the Tamils are able to gain some autonomy in their area, sooner or later they're going to hook up with the Indian Tamils and either break away entirely, or bring the Indian Tamils in to swamp us.</p>
-<p>
-<hi rend="italics">Q:  With the Indian Tamils.</hi>
-</p>
-<p>WRIGGINS:  Yes. So you get these worst-case anxieties on both sides. We have the paradox that two communities acting as of they are both suffering from a minority complex.</p>
-<p>
-<pb facs="0022" n="Page0022"/>
-<hi rend="italics">Q:  Because of the mainland.</hi>
-</p>
-<p>WRIGGINS:  Because of the mainland.  And the Tamils know they're a minority because they are a minority on the island, an increasingly disadvantaged minority.</p>
-<p>Anyway, that's the background.  By the time the election came along, then, the young Tamils were demanding independence.</p>
-<p>
-<hi rend="italics">Q:  Independence under a federal system?</hi>
-</p>
-<p>WRIGGINS:  No, Tamil Eelam, “We will have our own state.”</p>
-<p>Now we all remember, those of us who are South Asianists, the Pakistan-India partition.  But we also recall that large numbers of Pakistani, looking back, who think that Jinnah and some of the others at his period, were really using this as a bargaining ploy, attempting to gain stronger guarantees for the Muslim minority in Nehru's India.  And some of the Tamil leaders at first may have been using the call for independence as a bargaining ploy, or perhaps just to stay ahead of the youths who were taking the call for Eelam seriously.  But the youngsters began to take this seriously.  So a real momentum gets going.</p>
-<p>One of my real senses of failure here is that I was not able to level with Jayawardene on my anxiety about his country.  I feared that if he didn't move more rapidly toward devolution of power as Tamil demands for independence became strident, something awful could well happen.  But I also knew that this shrewd politician had been in politics for 35 or 40 years.  He was a very smart man; he knew the mood of the place a lot better than I did.  I also knew that, in 1956, he had lost his seat in parliament because he had been associated with a party that had not gotten onto this language bandwagon, and so he had been out of parliament for three years.  No fun for somebody like that.  So who am I to tell him what he ought to do?  Anyhow, I didn't.</p>
-<p>But I was also in close touch with many Tamils.  There was a complicated negotiation going on between Jayawardene, on the one hand, and the Parliamentary leaders of the Tamil movement, on the other.  But it seemed to me that these negotiations never got anywhere.  And you know in this part of the world, how you can do things for symbolic reasons; but you really don't take them seriously, you just string people along?  It seemed to me that at times Jayawardene was really stringing the Tamil leadership along, although I must say the Tamil leadership was not very distinguished, as compared to the previous generation, who had been very, very able people.</p>
-<p>
-<hi rend="italics">Q:  Because they'd been trained by the British, you mean?</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>WRIGGINS:  Well, they were lawyers; they were highly educated.  They'd been trained in the British and the American schools, or whatever.  And the younger people were just of a different educational generation, so they were less well-trained, perhaps not quite up to the challenge of the times, which by this time faced a far more radicalized youth than had their predecessors.  And Jayawardene himself is fairly aristocratic, so he really didn't have the sense of fellowship and personal chemistry with these more modest people than he had had with their more distinguished and professional predecessors.  Anyhow, they did not take advantage of the opportunities that seemed to me to have been there.  As a result, in 1981, there was a set of riots, and then, in 1983, the whole place blew up.</p>
-<p>
-<hi rend="italics">Q:  It certainly did blow up.</hi>
-</p>
-<p>WRIGGINS:  Yes, it did.</p>
-<p>
-<hi rend="italics">Q:  And that was the beginning, of course, of what you could really call a civil war.</hi>
-</p>
-<p>WRIGGINS:  Yes, right, that's true.</p>
-<p>
-<hi rend="italics">Q:  How much of the...</hi>
-</p>
-<p>WRIGGINS:  Fortunately, it didn't happen while I was there.</p>
-<p>
-<hi rend="italics">Q:  Not on your watch.</hi>
-</p>
-<p>WRIGGINS:  I'm thankful for that.</p>
-<p>
-<hi rend="italics">Q:  But, on the other hand, I think you feel a regret about the fact that you were not able to convey some sense of impending doom to Jayawardene.</hi>
-</p>
-<p>WRIGGINS:  Yes, that's right.</p>
-<p>
-<hi rend="italics">Q:  Which may be your major frustration from your tour of duty there.</hi>
-</p>
-<pb facs="0024" n="Page0024"/>
-<p>WRIGGINS:  Oh, absolutely.  Let me just make this a little more vivid.  I can still see an evening in which there was Jayawardene and myself and our two wives, and three other couples, the man with whom I wrote that book and his wife, and one of them who was just recently assassinated, Gamini Dissanayake and his wife, just this group.</p>
-<p>
-<hi rend="italics">Q:  His wife survived.</hi>
-</p>
-<p>WRIGGINS:  Yes, his wife survived.  It was on the tip of my tongue to say, “you know, we're all here, this is a family evening, we're among friends.  Let me tell you what really worries me.” But I didn't do it.  And I still feel I should have.  It's kind of absurd, but I still look back on that as a real opportunity missed.</p>
-<p>
-<hi rend="italics">Q:  Of course, but then there were opportunities that you took advantage of as well.</hi>
-</p>
-<p>WRIGGINS:  Yes, that's true.</p>
-<p>
-<hi rend="italics">Q:  Really, everything balances out.</hi>
-</p>
-<p>WRIGGINS:  I know, but when we're exploring these things...that recollection remains vivid.</p>
-<p>
-<hi rend="italics">Q:  I don't think we've quite finished the separatism business.  We just touched on the beginning of the violence.  Now, the violence consisted of the assassination of a lot of important people, particularly recently, in 1993 and 1994.  The way you presented it, it sounds as though there was this kind of, sure, next generation of Tamils, but no explanation of how it became so utterly violent, on both sides.</hi>
-</p>
-<p>WRIGGINS:  Well, it's a very complicated thing, because there were actually two different sources of political violence, one within the Sinhalese community.</p>
-<p>In 1971, a year after Mrs. Bandaranaike became prime minister, there was a youth rebellion in the Sinhalese areas, in which something like 15,000 young people took part in a kind of wild effort to seize power— a politically romantic revolution led by somebody who had had some training in Moscow and who thought seriously of a one-night seizure of power.  He was a real charismatic figure, who must also have been a considerable organizer.  They attacked 75 police stations in one night.</p>
-<p>Well, even on a small island, to be able to organize something like that, secretively, and take so many people by surprise, was really quite astonishing.</p>
-<pb facs="0025" n="Page0025"/>
-<p>Mrs. Bandaranaike was very strong and vigorous in repressing it.  Fourteen thousand of them were put in various reeducation centers, and quite a few of those who were “reeducated” came back and participated in the political system and were normal citizens.  But a group of them was arrested and tried, and the leader, Rohan Wijaweera and his closest associates were given life sentences.</p>
-<p>When he came to power, Jayawardene released them, because he realized that they would be more critical of Mrs. Bandaranaike and her party than they would be of him.  And so, too clever by half, really, because in the 1980s, the old leadership reemerged and contributed to the enormous violence within the Sinhalese community.  But that really didn't occur until the Tamils had gained momentum.</p>
-<p>One could sketch the sequence.  For instance, you begin your guerilla movement by picking off policemen.  And then the government no longer can count on the police.  Then he the army is sent in to restore order. The previous government had stopped recruiting Tamils, so most of the army are now only Sinhalese speakers, so they don't understand the language of the people for whom they're supposed to be providing order.  And then this movement gains a kind of momentum.  It's a self-generating business.  As the police become more severe and apparently arbitrary, then the Tamil guerilla leaders have more of a following.  So you get this terrible vicious circle going.  Jayawardene was unable to break through this, and so he increased the military pressure.</p>
-<p>And then, as a result of anti-Tamil riots in 1983, many Tamils fled to India, and because of understandable sympathy, the Tamils gained support from Tamil N_du in southern India.  Mrs. Gandhi had two reasons for contributing to supporting this movement.  One, she knew that if she didn't support it, she would lose votes in south India, in Tamil N_du.  So that's a domestic political reason.  Another reason was that she wanted to bring pressure to bear on Jayawardene so that hopefully, he would be somewhat less independent of India, I believe.  And she wanted to be sure that Jayawardene didn't do anything with the United States that would work to India's disadvantage.  In other words, she wanted a kind of deterrent threat, by intensifying the Tamil difficulties that Jayawardene would face.  This was a really nasty.</p>
-<p>
-<hi rend="italics">Q:  How long did that period last, her contribution, shall we say?</hi>
-</p>
-<pb facs="0026" n="Page0026"/>
-<p>WRIGGINS:  Well, I don't think she really got going, although my colleague, who's written a book on this subject, thinks she did begin earlier.  I don't think she got really going until the 1983 eruption in Colombo, when large numbers of Tamils fled to Madras for safety.  Then, Tamil political leaders, seeing they could be heroes for the voters in Madras if they garlanded and welcomed as heroes Sri Lankan Tamils who came for rest and to reequip themselves.  This further frightened the Sinhalese. And so this kind of vicious circle gets going.  But it was not only for vote-getting purposes. She also had the Indian intelligence service, RAW, help these fighters by setting up training camps, safe houses, radio communication with Jaffna, etc.</p>
-<p>
-<hi rend="italics">Q:  On the mainland.</hi>
-</p>
-<p>WRIGGINS:  On the mainland.</p>
-<p>
-<hi rend="italics">Q:  And re-exporting them.</hi>
-</p>
-<p>WRIGGINS:  And exporting them back, yes.  So she played really a dog-in-the-manger role here.  Many of my Sri Lankan Sinhalese friends say, “well, of course, if she hadn't done this, we'd have been able to deal with it.”Q:  Well, I don't know about that.  She did it, so that's a hypothesis and nothing more.  You mentioned the Sinhalese factions, and one of them, I guess, is this extreme group.</p>
-<p>WRIGGINS:  The JVP.</p>
-<p>
-<hi rend="italics">Q:  I know you're watching what happens there all the time, and that's why I don't mind asking you what the current situation is.  Do you see that as a possible...</hi>
-</p>
-<p>WRIGGINS:  A return of the JVP?</p>
-<p>
-<hi rend="italics">Q:  Yes, is it going to harden the line between the Tamils and the Sinhalese?</hi>
-</p>
-<p>WRIGGINS:  Frankly, I don't think it affects that very much.</p>
-<pb facs="0027" n="Page0027"/>
-<p>First, on the JVP.  At one point, it looked as if a stalemate had virtually been achieved between the Colombo Government and the Tamil Eelam movement.  At that point, Jayawardene asked the Indians to come in as peacekeepers, and to help disarm the Tamil movements.  The reaction among this group of Sinhalese to that invitation to the Indians was enormous, much more than Jayawardene expected. He obviously touched a very sensitive nerve; the longstanding historic Sinhalese fear of India burst to the surface. That's when the JVP revived their violent attack on the Colombo establishment that had had the nerve to invite the Indians in.  The degree of violence of these people was just amazing.</p>
-<p>For instance, they would take a particular professional group, like the electricians who were running a public electric service, and say, “If you go to work tomorrow, we will kill some of your people.” And they would.  Then they went to the garbage collectors.  They'd take different parts of public service.  But they went even further.  They went to hospitals and said, “If the nurses come tomorrow...” This is a degree of unfeeling that's just almost unbelievable.  And they killed some nurses.  They even picked off some doctors.  And then they were foolish enough to say to the army, “If you don't stop killing us, we will begin to attack you, as individuals.” Then they began to pick off some officers and attack their families.  And that was the end of it!  Then there was real repression, a real crackdown.  I have no idea how many were killed.  Nobody will admit how many were killed.  But to stop this thing, the repression among the Sinhalese was very great...many disappearances, many suspects summarily killed by ununiformed death squads, etc.</p>
-<p>I happened to be on the island at the time when they found, exposed, and captured Wijaweera, the head of this Sinhalese extremist program. He and his top aides were identified, arrested and shortly after Wijaweera was taped for television, urging his followers to give up, he was killed by the army units that had found him. Colombo heaved a collective sigh of relief.</p>
-<p>
-<hi rend="italics">Q:  Was that the Tiger leader?</hi>
-</p>
-<p>WRIGGINS:  No. no. This was the leader of the extremist Sinhalese movement that had erupted after Jayawardene invited the Indian “peacekeepers” in to help deal with the Tamils.</p>
-<p>So they repressed that, and I think that's finished for now.  It may come up again; it shows how volatile the Sinhalese community can be; it suggests that many grievances persist within the Sinhalese community. But I don't expect that to return any time soon.</p>
-<p>The Tamil problem is of a different order. The Tamil leader, V. Prabhakaran, had proved to be a much harder customer. He has some of the same charismatic leadership qualities and inspires highly unusual degrees of dedication. The readiness of his followers for self-sacrifice is quite remarkable. He is also a far more sophisticated and ruthless political leader.</p>
-<p>
-<pb facs="0028" n="Page0028"/>
-<hi rend="italics">Q:  He must be.  He must be.</hi>
-</p>
-<p>WRIGGINS:  And there are caste issues involved.  I don't want to spend too much time on it, but there's a caste implication to it.  There's caste in both Sinhalese and Tamil societies.  But the Sinhalese caste system is very casual and relaxed compared to the Indian.  The Jaffna one has been much more severe, more like the Indian system.</p>
-<p>
-<hi rend="italics">Q:  You mean it's more rigid than the Indian?</hi>
-</p>
-<p>WRIGGINS:  Well, perhaps. But by comparison with caste in the south of Sri Lanka, it has been historically more rigid, more like India's in more traditional parts of India.  Almost all the political leaders of the north, of the Jaffna area, had been of upper caste vellalas.  The agricultural caste are generally considered to be the top status group in both the Sinhalese and Tamil communities.  The lawyers and the doctors and the professional people and all those who had tried to work the deals and compromises with Colombo, they were all Tamil vellalas.  The people who are heading the LTTE, by contrast, are fisher caste, which in the Sri Lankan system is fairly low.</p>
-<p>
-<hi rend="italics">Q:  LTTE is the Liberation Tiger Tamil Eelam.</hi>
-</p>
-<p>WRIGGINS:  Yes, that's their official title in English. The lower-caste folks who dominate the LTTE, are now in charge.  While some of the young, upper-caste people also joined in their “national liberation struggle,”, the fact that, through this eruption, the lower-caste people are now running things contributes, in my view, to the intractability of finding a peaceful solution.  How could they imagine that, if they reach a deal with these people in Colombo, they will still be able to be top dogs? Rather, they must fear they will be pressed back down again to the inferior position they used to occupy before the struggle.</p>
-<p>
-<hi rend="italics">Q:  And defers...</hi>
-</p>
-<p>WRIGGINS:  It makes it harder to reach a deal.</p>
-<p>
-<pb facs="0029" n="Page0029"/>
-<hi rend="italics">Q:  Exactly.  I don't know what more we can say on the current situation, in the light of your own experience.  Perhaps we might turn, in our remaining few minutes here, to a sort of general U.S. foreign affairs approach, particularly in the light, I think, of what people fear is happening under the major turnabout of American politics this past year.  Let me ask you, first of all, a specific reference to the Foreign Service.  We touched on it briefly.  I want to get back also to the CIA, but let's take the Foreign Service first.  When I came into the Foreign Service in 1950, I was highly impressed with the quality of the Foreign Service officers.</hi>
-</p>
-<p>WRIGGINS:  Oh, I was too.</p>
-<p>
-<hi rend="italics">Q:  I continued...  I still do, as far as that's concerned.  I must say I have a different picture of the way the Department of State and the Foreign Service are conducting their business these days.  Now I'm not reflecting upon the political appointees who run the organization—your contact with Warren Christopher in the early days of the Carter administration, or his position now.  You've continued to travel, obviously.  What is your impression?  Do you think that the Foreign Service officer corps has deteriorated in quality?</hi>
-</p>
-<p>WRIGGINS:  That's very hard to say.  Though, yes, I think it has.  Now why do I think that?</p>
-<p>
-<hi rend="italics">Q:  Let me ask you, is that possibly a reflection of the general deterioration in the quality of our educational product in this country?</hi>
-</p>
-<p>WRIGGINS:  Well, I don't know about that.  As a professor...</p>
-<p>
-<hi rend="italics">Q:  As a professor, you hate to say.</hi>
-</p>
-<p>WRIGGINS:  I'm reluctant to accept that sweeping a view. My experience contradicts what you say. Of course, my sample is very small, because I'm dealing with graduate students at Columbia.  I think they're just as bright as any I've ever taught anywhere; just as able. And a number have come back to graduate work after having worked in the “real world.”</p>
-<p>
-<hi rend="italics">Q:  Well, that's very interesting.</hi>
-</p>
-<p>WRIGGINS:  I'm very impressed with the group.  The people who come to the graduate school or the School of International Affairs, I think, are top drawer, and numbers of them go out and get fantastic jobs.  So that's not the problem with the Foreign Service.</p>
-<p>
-<pb facs="0030" n="Page0030"/>
-<hi rend="italics">Q:  Okay.  Do many of them move into the Foreign Service?</hi>
-</p>
-<p>WRIGGINS:  No, very few.  Some are interested in the Foreign Service, but they don't want to start at the bottom.</p>
-<p>
-<hi rend="italics">Q:  Everybody wants to start at the top.</hi>
-</p>
-<p>WRIGGINS:  Well, okay.  But there's something special about the Foreign Service, I think.  Because it seems as if often someone who is specialized in one area is immediately sent somewhere else, as if the Service doesn't respect anyone who has gone to the trouble to develop a specialized interest. But more importantly, by comparison with many other professions and especially NGO's, genuine responsibility comes very slowly.</p>
-<p>
-<hi rend="italics">Q:  Absolutely.  Sure.</hi>
-</p>
-<p>WRIGGINS:  And so, able, impatient, well-trained people are just not going to put up with this slow boat career.  It still looks as if it's a...</p>
-<p>
-<hi rend="italics">Q:  Old boys' network.</hi>
-</p>
-<p>WRIGGINS:  Pre-World War II kind of approach to personnel.  I may not be reading it correctly. That may be wrong, I don't know.  You asked me earlier if I would encourage my son or daughter to do this, and, quite honestly, I would not.  I 'm uncomfortable about that; since we need good people in the Service. But there it is.</p>
-<p>
-<hi rend="italics">Q:  You shouldn't be.  You shouldn't be.</hi>
-</p>
-<p>WRIGGINS:  When students come along who are interested, I don't actively discourage them, as some of my colleagues do. But I think part of it is that it's no longer as distinguished a service as it was.</p>
-<p>
-<hi rend="italics">Q:  Plus the fact that it has even less support among the American public than it used to have.  It's hard to believe, because it never had much support — the cookie-duster and striped-pants crowd and all that.  But I see less today, despite the efforts of the American Foreign Service Association and its retired component.  I don't see that there's any chance for, let's say, Congress to recognize that the budget of the Foreign Service, or the foreign affairs budget in general, is already about as small as it can get.</hi>
-</p>
-<pb facs="0031" n="Page0031"/>
-<p>WRIGGINS:  I have a slightly different view of that.  It seems to me that, now, we are moving more into a trade orientation for our foreign enterprise.  Now the liability of this is that it could all go to the Department of Commerce.</p>
-<p>
-<hi rend="italics">Q:  A liability, or a plus?</hi>
-</p>
-<p>WRIGGINS:  Well, from the point of view of the “Foreign Service” as such, if all the interest goes to the Department of Commerce then it's a liability.  But, apart from that, it seems to me that our growing awareness of the importance of foreign representation in order to promote our commerce, that could be a way in which this notion could change.</p>
-<p>
-<hi rend="italics">Q:  Well, I never saw much enthusiasm amongst the Foreign Service organization. for commercial work.</hi>
-</p>
-<p>WRIGGINS:  No, but that has to change.</p>
-<p>
-<hi rend="italics">Q:  Well, we said that four years ago: It's got to change; we have to increase our exports and all that.  I was in export promotion for a while.  We are in a different ball game, and I think maybe you're right.</hi>
-</p>
-<p>WRIGGINS:  But I do have the sense that people I have met in overseas posts strike me as more like (I'm going to sound like a snob here) like ordinary civil servants in their orientation toward their jobs than I think was the case earlier, when more saw it as a lifetime career.</p>
-<p>
-<hi rend="italics">Q:  I think that's true.  And much of that, unfortunately, is due, I believe, to the influence of international terrorism.  Now, the consular officer is behind bullet-proof glass.  It's even hard to get into a commercial library, which is supposed to be open to the public.  And there is a sense, on the part of Foreign Service officers, of insulation from the local population, which is absolutely the wrong way to go.  And I, to a great extent, blame this on the fact that Americans have been the object of attack.</hi>
-</p>
-<p>Let me get back to the subject.  Right now, there is a hue and cry because of the Aldrich Ames case and various other major disasters on the part of our intelligence equipment.  Daniel Patrick Moynihan, for example, for whom I have a very high regard...</p>
-<p>WRIGGINS:  Yes, I do, too, but every once in a while, he really...</p>
-<p>
-<pb facs="0032" n="Page0032"/>
-<hi rend="italics">Q:  Well, he sort of raised the trial balloon of let's just abolish the Agency.  I must say I have considerable sympathy for that point of view, because it has been nothing... and I'm sure you've experienced this in Sri Lanka, all around the world, wherever I've been, particularly, of course, at the United Nations, I've experienced that the CIA has been nothing but a millstone around the neck of any Americans involved in foreign affairs, and that it's time at least we changed the name and reduced the visible presence.  I don't know, maybe it's impossible to abolish it.  Ambassador Nick Platt, for example, who heads the Asia Society now, doesn't think we can ever get rid of whatever it is, and that we have to keep an intelligence service, because every nation's got to have one.  Now I don't know whether that's true or not, but let's assume for a moment it is.  But surely it can be cut back.  I never found that they were a great deal of help in anything I saw them do.  But then I'm not that...</hi>
-</p>
-<p>WRIGGINS:  Well, I have a different kind of an example.  Maybe it could have been handled in a different way.  When I was on Policy Planning, we were trying to develop a joint policy for South Asia by a simultaneous exploration of policy towards both India and Pakistan.  And the only place we could find talent to pursue this in a sustained way was the analytic side of the Agency, because they have people stacked up there.  I got Jim Spain, who turned out later to be ambassador in Turkey, in Tanzania, and in Sri Lanka, and Bill Barnes, who turned out to be a staff member of the Japan Society, but he was at the Agency at the time, and the three of us were able to do this.  It was the first time that there had ever been a collective, careful policy study, not something that State Department people think about.</p>
-<p>To be sure, four months later, India and Pakistan had a war, a contingency we had not taken into account.  But these people had, as a result of that, thought about India and Pakistan together.  At one time, the two American ambassadors were not on speaking terms!  The American ambassadors couldn't even talk to each other...</p>
-<p>So I don't like the abolition idea.  I think that's foolish.  I think we probably could cut it back.  I think Casey was a disaster.</p>
-<p>
-<hi rend="italics">Q:  I think so, too.</hi>
-</p>
-<p>WRIGGINS:  Oh, just a scandalous man.  I mean, some of the things that happened at that time were just awful.</p>
-<p>
-<hi rend="italics">Q:  Well, that's one of the things that gives it a bad name, but there are so many other things that it doesn't seem to me to be worth the candle.</hi>
-</p>
-<pb facs="0033" n="Page0033"/>
-<p>WRIGGINS:  I know, it does a lot of us harm.  And, of course, we get this game played in France just last week.</p>
-<p>
-<hi rend="italics">Q:  That's for internal French political purposes.</hi>
-</p>
-<p>WRIGGINS:  Well, I know.  And the French have been doing this to us for years.Anyway, I must say, when I was on Policy Planning, the analysts in the Agency were excellent.  And I never had to know enough about the agency's operational side.</p>
-<p>
-<hi rend="italics">Q:  Well, I guess that's a subject that you and I are not going to resolve.</hi>
-</p>
-<p>WRIGGINS:  No, we certainly aren't.</p>
-<p>But I am troubled by the sense that the Foreign Service is more like just the Civil Service than it used to be.  And I feel that there's a conscious effort to make it like that.</p>
-<p>
-<hi rend="italics">Q:  Well, that's really too bad, because, of course, there was always the prestige, the elite group and all that, which I think it has lost to a great extent, partly because the Foreign Service has become a housekeeping administration for all the other agencies that are in the field, including the CIA.</hi>
-</p>
-<p>WRIGGINS:  Yes, of course.</p>
-<p>
-<hi rend="italics">Q:  Mind you, a big part of what the Department of State does is to administer space abroad for other agencies.  I mean, the FBI.  I can't begin to tell you the number of agencies that operate abroad, the Immigration Service, the Foreign Agricultural Service...</hi>
-</p>
-<p>WRIGGINS:  Somehow we have to, and I think we do, keep that administrative function.  I was very impressed by what the administrative people were able to do in Sri Lanka.  They sometimes left me breathless.  There was one that I didn't do so well with, but on the whole, I think they were wonderful guys.  It was incredible what they were able to do, under difficult conditions.</p>
-<p>
-<hi rend="italics">Q:  Particularly in all the developing countries, but even in the developed countries.</hi>
-</p>
-<pb facs="0034" n="Page0034"/>
-<p>WRIGGINS:  One thing I'd like to say for the record.  I got involved in this biography of Jayawardene.  And my Sri Lankan historian friend and I had, as I said, about 25 to 30 hours of interviews with him, while I was still ambassador.  I look back on that, and that was a bit nutty...  Herb Levin, my DCM, said, “Don't do it,”</p>
-<p>
-<hi rend="italics">Q:  Well, you found you could do it.</hi>
-</p>
-<p>WRIGGINS:  Well, it was such a fascinating way of getting to know this man, his entourage and the country's inner workings, at least during that period.</p>
-<p>
-<hi rend="italics">Q:  Who is deSilva?</hi>
-</p>
-<p>WRIGGINS:  He's a Sri Lankan, Professor K. M. deSilva's their leading historian, trained in Edinburgh; has written many books on Sri Lanka. He's had fellowships in numerous visits to Great Britain, Woodrow Wilson Center, USIP, etc. We'd been friends for years, and we'd collaborated on writing some essays before that, then we thought we could do this together.</p>
-<p>
-<hi rend="italics">Q:  Why not?  You're on a par.</hi>
-</p>
-<p>WRIGGINS:  Quite honestly, I would have found the Ambassadorial job intellectually very dull if I hadn't done something like this.  So, from that point of view, it was interesting.  But as a rule, I should think it is likely to make the ambassador/author identify too closely with the head of state.</p>
-<p>
-<hi rend="italics">Q:  Well, you had to get permission, didn't you, before you started?</hi>
-</p>
-<p>WRIGGINS:  Yes.</p>
-<p>
-<hi rend="italics">Q:  Well, of course, this is obviously a very good way to get to know a lot more than you would otherwise.</hi>
-</p>
-<p>WRIGGINS:  Yes, that's true.</p>
-<p>
-<hi rend="italics">Q:  I think perhaps if Howard Jones in Indonesia had the same approach to Sukarno, “Let us write your autobiography...,” He may have straightened out.</hi>
-</p>
-<pb facs="0035" n="Page0035"/>
-<p>WRIGGINS:  It came out all right, I think.  I don't think it did any harm.  But, of course, it did no harm because we had few major interests in Sri Lanka, after all.</p>
-<p>
-<hi rend="italics">Q:  There's no oil there.</hi>
-</p>
-<p>WRIGGINS:  There's no oil there; there was no resources.  There were beaches, and there were places for the navy crews to R&amp;R; as good as any in the Indian Ocean. And while I was there, there were never any political difficulties or incidents that came to my attention.  Of course, if the Russians had gained control of the island, it would have been troublesome. In one sense, our interest was a preemptive kind of thing. And the original reason for my interest had been their working democracy, different as it is in fact from Great Britain or the US.  And their voice at the UN has pretty consistently been on the side of good sense, mainly constructive from our point of view though often firmly in the Nonaligned corner.</p>
-<p>In any event, when I began to do the same ceremonial things three times, I thought that maybe it was time to quit. To be completely honest, however, when the inevitable cable came saying time's up, I must own I tried to postpone the day a bit longer in order to carry forward more interviews with Jayawardene! But the Department insisted and so we came home via China, just as the Russians moved into Afghanistan.</p>
-<p>Anyhow, I had a wonderful time.  It pulled together so many threads, my experience with international politics and comparative politics of underdeveloped countries and the problems of political leadership.  You know, it all came together.</p>
-<p>
-<hi rend="italics">Q:  Well, Howard, unless you have something else you'd particularly like to add for the record.</hi>
-</p>
-<p>WRIGGINS:  I think that's about it.</p>
-<p>
-<hi rend="italics">Q:  We talked about your frustration.  I don't think we talked about something you feel was a significant accomplishment on your time there, other than the biography.</hi>
-</p>
-<p>WRIGGINS:  Well, in one sense, things went very well while I was there.  It was really a piece of cake, because there were no problems.  I mean, there were administrative problems. I was worried that there would be too many Americans running around.  In the past, we'd seen what had happened to the shah, and we'd seen other places where the presence of Americans became so large as to be a liability...</p>
-<p>
-<hi rend="italics">Q:  Haile Selassie.</hi>
-</p>
-<pb facs="0036" n="Page0036"/>
-<p>WRIGGINS:  Haile Selassie, although I don't, well, okay, yes, Haile Selassie.  So I was worried about that.  And that didn't happen.</p>
-<p>
-<hi rend="italics">Q:  You were like Marshall Green.  Poor Howard Jones puts up with Sukarno all those years and years.  He finally gets shoved out of the way; he'd been there too long already.  Marshall Green comes in.  Within four months, there's a coup...  Indonesia did not go Communist.  Remarkable.</hi>
-</p>
-<p>Well, thank you very much, Howard, for this interview.  We'll bring it to an end.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR WILLIAM HOWARD WRIGGINS</p>
+                <p>Interviewed by: Paul D. McCusker </p>
+                <p>Initial interview date: March 8, 1995</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is Paul McCusker, interviewing Howard Wriggins,
+                        former ambassador to Sri Lanka. Today is Wednesday, March 8, 1995. We're at
+                        Paul's home in Pelham, Westchester County, New York, about a half hour's
+                        drive from Riverdale in the Bronx, where Professor Wriggins lives. Howard,
+                        would you please identify yourself, spelling out your last name, if you
+                        would, and kindly give me, for the record, your date and place of
+                        birth.</hi>
+                </p>
+                <p>WRIGGINS: My name is Wriggins, Howard Wriggins, and my last name is spelled
+                    W-R-I-G-G-I-N- S. Why the “W” is there, I haven't the slightest idea; it's
+                    caused me a lot of trouble. Born on February 14, 1918, in Philadelphia.</p>
+                <p>
+                    <hi rend="italics">Q: How did you get involved in foreign affairs in the first
+                        place? Could you start at the beginning?</hi>
+                </p>
+                <p>WRIGGINS: Well, that's a long history, and I'll encapsulate it. I think my start
+                    was when I began to build shortwave sets when I was a kid, probably about 14 or
+                    15. In those days, you had to go to a store and buy the different parts. You
+                    couldn't get it all put together, or even kits.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, I remember the days of crystal sets.</hi>
+                </p>
+                <p>WRIGGINS: I used to listen to Britain; the BBC overseas service was active even
+                    then. And Germany, the Nazi program was very interesting. That got me
+                    interested.</p>
+                <p>I went to a Quaker school, Germantown Friends, in Philadelphia, and, of course,
+                    they were very active in various peace movements. And I had many, many friends
+                    who had worked during World War I in the Quaker overseas relief programs.</p>
+                <p>Another part of it was, my father was a businessman who had a retail shop in
+                    Philadelphia and used to travel quite a lot to Western Europe each year. So that
+                    was all part of it.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>I thought of the Foreign Service, while I was still in high school, as one of the
+                    things I might do. At Dartmouth, where I was an undergraduate, I took
+                    international relations. So all of this was very natural.</p>
+                <p>In the Spring of 1941, well before Pearl Harbor, I agreed to join a Quaker
+                    program run by the American Friends Service Committee for training overseas
+                    relief workers. And in the spring of 1942 I flew to Lisbon as assistant in their
+                    Lisbon refugee office.</p>
+                <p>During World War II, I was with the Quakers (AFSC), and served also in North
+                    Africa, Egypt and Italy and France, altogether five and a half years. So,
+                    overseas was part of my growing up, really, and so it was logical.</p>
+                <p>
+                    <hi rend="italics">Q: And what did you do, then, when you got out of the
+                        service?</hi>
+                </p>
+                <p>WRIGGINS: I returned to the States in December 1946, and after six months in New
+                    York working at the United Nations for the AFSC, I went to graduate school and
+                    got a Ph.D. at Yale in International Politics.</p>
+                <p>
+                    <hi rend="italics">Q: What year was that?</hi>
+                </p>
+                <p>WRIGGINS: I finished my Ph.D. in '52. I began graduate school in 1947, and
+                    interrupted my graduate work when the Quakers had an emergency relief program
+                    set up in the Gaza Strip. For the first four years after the first Arab-Israeli
+                    War, the League of Red Cross Societies, the American Friends Service Committee,
+                    and the International Red Cross each had a segment of the refugee service
+                    program for the Palestine refugees. Eventually, the U.N. took that over and have
+                    been running it since. Had I known what I know now about what happened to the
+                    folks who fled to the camps in Gaza, I wouldn't have had anything to do with it.
+                    But, at the time, we thought it was an emergency thing that...</p>
+                <p>
+                    <hi rend="italics">Q: Was going to be over shortly.</hi>
+                </p>
+                <p>WRIGGINS: We thought it would be over in a year or two. But these poor people
+                    have been there ever since.</p>
+                <p>
+                    <hi rend="italics">Q: What did you do after you got your Ph.D.?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>WRIGGINS: Well, before that, I guess one of the most interesting things during
+                    World War II was that I was in Lisbon for a year and a half, where we were
+                    trying to get Central European, mostly Jewish, but also non-Jewish, refugees out
+                    of Western Europe, and help them get established in Portugal until we could get
+                    them visas and residence permits elsewhere.</p>
+                <p>I began teaching international politics and comparative politics at Vassar in
+                    1952. I taught there for three years. My main fields were international politics
+                    and comparative politics.</p>
+                <p>
+                    <hi rend="italics">Q: That was when it was all women.</hi>
+                </p>
+                <p>WRIGGINS: It was all women then, very bright women. I was so thankful for the
+                    brighties who came in from the Bronx and other parts of New York City. Many of
+                    the WASP girls were so well brought up they wouldn't challenge you. But the
+                    others would. That was fun and a wonderful place to start teaching.</p>
+                <p>And then I got a grant to go to Sri Lanka (Ceylon then) from the Rockefeller
+                    Foundation. Those were the happy days when there was money and not much talent
+                    interested in these things. So I went in to talk to them, and when I described
+                    what I wanted to do, they said, “Well, you can't do this in one year. Why don't
+                    you take two?”</p>
+                <p>I said, “Well, if there's enough money for it, I will. And I'll be
+                    delighted.”</p>
+                <p>In those days, there was more money than people, so I was very lucky. I took my
+                    wife and our two children to Ceylon; our third child was born there.</p>
+                <p>
+                    <hi rend="italics">Q: What sort of work were you doing for the Rockefeller
+                        Foundation there?</hi>
+                </p>
+                <p>WRIGGINS: I was writing a book. I was very much interested in underdeveloped
+                    countries. From the time I worked in the Middle East with the Quakers, in Egypt,
+                    and Palestine a little bit, and Lebanon, I became interested in this great
+                    historic movement of colonial countries into independence. That transition
+                    seemed to be very worth some serious study.</p>
+                <p>During the two years we were in Ceylon they had an historic election, in which
+                    the challenger, Mr. Bandaranaike, used the language and ethnic issues to bring
+                    down the incumbent government. My book, Ceylon: Dilemmas of a New Nations
+                    (Princeton, 1960) turned into a detailed analysis of that election and the way
+                    language and cultural issues were misused for competitive politics purposes. The
+                    book was really a political history of Ceylon's first decade of independence and
+                    remains a classic that all the educated Sri Lankans know.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: What led you to concentrate particularly on Ceylon, among
+                        all of the countries you'd seen?</hi>
+                </p>
+                <p>WRIGGINS: Well, I could make it a long story, but the short story is that I was
+                    bilingual in French, because I'd taken my Dartmouth junior year at the Science
+                    Pols. in Paris. The last year and a half of my Quaker work had been running the
+                    Friends program in France. So I was bilingual, and I thought it would be great
+                    to make a study like this in Morocco or Algeria or Tunisia, which would have
+                    been the logical place to do it. But, in Algeria, anyway, there was sort of an
+                    independence movement going, and I didn't really want to take my family there.
+                    And there were certain riots in Morocco, too.</p>
+                <p>
+                    <hi rend="italics">Q: So you went to a nice, peaceful island like Ceylon.</hi>
+                </p>
+                <p>WRIGGINS: So I moved around. And I knew that if I were in the Middle East, I'd
+                    have to learn Arabic, and I really didn't have any wish to do that. I had a good
+                    British friend who had been head of the Colombo Plan, and he and his American
+                    wife had successfully had two children in Ceylon.</p>
+                <p>Then, as I looked closer at Ceylon, it proved to be interesting, because it had
+                    ethnic problems and multilingual problems and an elite that was really socially
+                    and culturally quite far from the masses of people. So, in a number of ways, it
+                    was like other colonial countries. But it was also unique, because they had had
+                    adult franchise ever since 1932. They got adult franchise only a year and a half
+                    after the British women got the franchise! So they had a long practice of
+                    democratic competitive politics, which was also one of the things that made it
+                    particularly interesting.</p>
+                <p>Some people said, if you're going to do this, you ought to go to India, because
+                    India counts in the international system, which, of course, in a way, was true.
+                    But I thought, India, was too large - you could lose yourself in India. What can
+                    you do in a year, or even two? And I didn't really think of myself as a South
+                    Asia specialist then. This was just kind of two years off. But, as it turned
+                    out, I then became concentrated, to some extent, on South Asia, although never
+                    gave up the international politics side. So that's how I got to Ceylon.</p>
+                <p>
+                    <hi rend="italics">Q: So far, except for your serving in the Quaker efforts in
+                        World War II, you haven't gotten close to government, as near as I can tell.
+                        When did you start association with the government?</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>WRIGGINS: Well, when I came back from Ceylon, and while I was completing that
+                    book, Ceylon: Dilemmas of a New Nations, I was asked if I would be interested in
+                    working in the Library of Congress in the Legislative Reference Service (now the
+                    Congressional Research Service). One of my close friends at Yale, where I did my
+                    graduate work, was Roger Hilsman. Hilsman first went to Washington after
+                    military service, as Chief of the Foreign Affairs Division of the Legislative
+                    Reference Service. He and I had always had a very interesting back and forth
+                    because of his military background and my non-military background. And he asked
+                    me if I'd be interested in his job as he moved up in the organization. I'd
+                    always had a hankering for somehow getting involved in Washington, and I
+                    thought, what a wonderful way to do it! And it turned out to be so.</p>
+                <p>
+                    <hi rend="italics">Q: It's not very far from Philadelphia, after all.</hi>
+                </p>
+                <p>WRIGGINS: No, well, that wasn't important, as far as I was concerned. I was
+                    really very inspired by some of the people I had known overseas who had come out
+                    of Washington experience. I had about four months in North Africa, working with
+                    a Quaker program in Algiers, and the OFFRO, which was the predecessor to UNRRA.
+                    There were some wonderful OFFRO people there, who had all been very much
+                    involved in Washington New Deal activities. I was quite inspired by these
+                    fellows; I thought they were serious, creative people. Maybe that was one of the
+                    things that led me to be interested in Washington.</p>
+                <p>Anyhow, I got deeply imbedded in the Library of Congress. Working with
+                    congressmen and senators was a wonderful experience, thought aggravating and at
+                    times exhausting. Sometimes they almost drove me crazy because they were so
+                    unreasonably impatient. But I learned just an enormous amount. I came to have a
+                    lot of respect for the way in which they were such fast learners. I also came to
+                    see that part of the game on the Hill was political theater in the House and
+                    Senate but also how much of it is also terribly serious business. I came to know
+                    people like Hubert Humphrey, Scoop Jackson, Lyndon Johnson, Chester Bowles, Ken
+                    Keating - these were able and impressive men.</p>
+                <p>
+                    <hi rend="italics">Q: You would hope so. Now was it Margaret Hoover who got you
+                        then into the State Department?</hi>
+                </p>
+                <p>WRIGGINS: No, I have no idea how I was invited to join the State Department.
+                    While I was working in the Library of Congress, I became involved with a group
+                    from the Brookings Institution, and we began to talk about “political
+                    development”, to balance a bit the preoccupation with economic development. We
+                    knew, from the work of a lot of us in Third World countries, that really the
+                    political institutional structures were of critical importance. So we began
+                    struggling with this, and that's why I wrote some papers about this subject, and
+                    they got circulated. I don't know who it was who pushed my name forward at
+                    State.</p>
+                <pb facs="0006" n="Page0006"/>
+                <p>One day, I was called up by George Morgan, the Executive Secretary of S/P, and he
+                    said would you be interested in coming over and talking to us. I said, sure. To
+                    work on the Policy Planning Council, there was no job in Washington at that time
+                    that I would have been more interested in.</p>
+                <p>
+                    <hi rend="italics">Q: Who was running the Policy Planning Council?</hi>
+                </p>
+                <p>WRIGGINS: Well, at that time, George McGhee was the head of it. George Morgan was
+                    the man who talked to me about coming over, and then I talked to George McGhee.
+                    I'm very grateful to both of them, because they opened up a great opportunity
+                    for me.</p>
+                <p>
+                    <hi rend="italics">Q: How long did you stay in Policy Planning?</hi>
+                </p>
+                <p>WRIGGINS: I was there for quite a while, given the history of the Policy Planning
+                    Council. People are usually there for two years or two and a half, but I stayed
+                    four and a half. One of those years, I was on leave. I went to SAIS, in
+                    Washington, Johns Hopkins, and began drafting a book on what I called the
+                    Ruler's Imperative, which was the problems of Third World leaders staying in
+                    power.</p>
+                <p>
+                    <hi rend="italics">Q: It was an exciting time.</hi>
+                </p>
+                <p>WRIGGINS: I adopted quite the wrong hypothesis. My problem was that I thought,
+                    How do these people stay in power? On the contrary, most of them, once they got
+                    there...</p>
+                <p>
+                    <hi rend="italics">Q: Became president for life.</hi>
+                </p>
+                <p>WRIGGINS: They tended to stay for a long time. So the basic assumption under
+                    which I wrote that book was totally wrong. Still, it had long seemed to me that
+                    my political science colleagues were striving for a basic theory, designing
+                    complex “political systems” and all that. But what really drove politics was the
+                    desire of ambitious men (and women) to get into key positions, and once there,
+                    how to stay there, as long as they could. The book proved useful in that
+                    intermediate level of abstraction - many examples but little high level
+                    theorizing.</p>
+                <p>
+                    <hi rend="italics">Q: Of course, in that connection, I always think of Sukarno,
+                        who called himself president for life. He didn't make it.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>WRIGGINS: He didn't make it, thank goodness.</p>
+                <p>
+                    <hi rend="italics">Q: Suharto didn't call himself president for life, and he's
+                        almost made it. He hasn't died yet.</hi>
+                </p>
+                <p>WRIGGINS: What a remarkable fellow he must have been. I mean, what they have done
+                    to that country, compared to what it was when Sukarno left.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's because he was smart enough to let the
+                        economists and the Western-trained Mafia run the show. Anyway, so you only
+                        had a year at SAIS.WRIGGINS: Then I went back to the Policy Planning
+                        Council. Then, when Walt Rostow went over to the National Security Council
+                        he asked me to go over with him to the NSC. as his NESA man.</hi>
+                </p>
+                <p>I'll just take a funny moment on that one. I had been asked to join the faculty
+                    of Columbia to start their Southern Asian Institute. I felt I was running out of
+                    intellectual steam. Anyway, the very day I was going to take my family up to
+                    Columbia, to show them New York and what life could be like there, alternative
+                    ways of thinking about how we should make the transition, because I'd already
+                    been asked and agreed to go, Walt called me and said that he'd just been asked
+                    by the president to come over and head his National Security Council staff,
+                    would I go over with him? That completely disrupted my family plans, but I'm
+                    glad that it did. The National Security Council was something you wouldn't turn
+                    down, especially if the particular assignment fitted your qualifications.</p>
+                <p>
+                    <hi rend="italics">Q: Of course not.</hi>
+                </p>
+                <p>WRIGGINS: So I had a year and a half on that. And then I went to Columbia in
+                    '67.</p>
+                <p>
+                    <hi rend="italics">Q: In '67, you started at Columbia. But tell me about the
+                        National Security Council. Were you, at that point, concentrating on South
+                        Asia?</hi>
+                </p>
+                <p>WRIGGINS: South Asia and the Near East were my beat, because while I was in the
+                    Policy Planning Council, I was mainly South Asia. But I had a lot to do with the
+                    Middle East, too. Bill Polk was really the Policy Planning Council's guy on the
+                    Near East, but because of my interest in India and Pakistan, and because of
+                    Pakistan's connection to the Gulf, I tried to keep up with that, too. So then,
+                    when Walt asked me to go over, I took the NEA slot.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>But there was a splendid man who was already there, Hal Saunders, working on
+                    Arab-Israel problems. Saunders became one of my heroes. I mean, he was a
+                    marvelous person; who worked so long and patiently on Arab-Israeli relations. He
+                    was allegedly my deputy, which was kind of absurd. He knew so much more about
+                    the Middle East than I did, so I more or less left that to him. So, I really
+                    focused mainly on South Asia.</p>
+                <p>
+                    <hi rend="italics">Q: When you went to Columbia in '67, were you again in the
+                        South Asia field?</hi>
+                </p>
+                <p>WRIGGINS: I was asked to join the Political Science Department to work on both
+                    international politics, which was my Ph.D. subject, and South Asia, on which I
+                    was a self-taught South Asianist, and to start the Southern Asian Institute,
+                    analogous to the other regional institutes at Columbia. Andrew Cordier was dean
+                    of the School of International Affairs when I was asked to join the Columbia
+                    faculty. Quite coincidentally, I had known Andy Cordier before, because one of
+                    my tasks with the American Friends Service Committee before I went to graduate
+                    school was to help start the Quaker United Nations program, which you may know
+                    about. Elmore Jackson, who was the person who worked with Clarence Pickett on
+                    the U.N., and I were working around the U.N., so I knew Andy from that
+                    incarnation. That had nothing to do with my appointment at Columbia, which was a
+                    faculty affair. But it did help me once I got the Southern Asian Institute under
+                    way.</p>
+                <p>
+                    <hi rend="italics">Q: Cordier was already...</hi>
+                </p>
+                <p>WRIGGINS: When I was interviewed, he was already dean of the School of
+                    International Affairs. It was a joint appointment to the Political Science
+                    Department and the School of International Affairs.</p>
+                <p>
+                    <hi rend="italics">Q: You were there for a while, about ten years.</hi>
+                </p>
+                <p>WRIGGINS: Yes, I was there for ten years. And then I went off to Sri Lanka, which
+                    is really what we're talking about.</p>
+                <p>
+                    <hi rend="italics">Q: That's right. We're getting to that.</hi>
+                </p>
+                <p>WRIGGINS: It's the long way around.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's okay. How did you...</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>WRIGGINS: How did I do that? How did that happen?</p>
+                <p>
+                    <hi rend="italics">Q: You don't volunteer for the job. Somebody has to ask you
+                        to be ambassador.</hi>
+                </p>
+                <p>WRIGGINS: That's true.</p>
+                <p>
+                    <hi rend="italics">Q: Or maybe you did volunteer, I don't know.</hi>
+                </p>
+                <p>WRIGGINS: Well, in a way. Not for this specific job. The Policy Planning Council
+                    was a very interesting and visible job, and so was the Library of Congress. So I
+                    got to know a lot of people, and some of the things I did in the State
+                    Department helped me generate a rather large network.By now I had had an unusual
+                    combination of experiences. I had spent two years in Ceylon (now Sri Lanka) and
+                    was one of the few Americans who had written a consequential book on the place
+                    and was a recognized specialist on South Asia. I had had experience on the Hill
+                    in a high-speed research operation, and was not intimidated by Congressmen and
+                    Senators the way many foreign service officers seem to be. I had had four years
+                    on the Seventh Floor of the State Department and a year and a half in the
+                    basement of the White House.</p>
+                <p>Not many candidates for political appointments could say as much.</p>
+                <p>When Jimmy Carter came in, I said to myself, hey, wait a minute; I know a lot of
+                    these people, I have had unusual experience; maybe I can be useful. I've always
+                    been a Democrat, and so I did put up my hand. I wrote Averell Harriman, and I
+                    wrote Cy Vance, and I wrote a number of people, just one New Year's weekend.
+                    Instead of going to India, as I usually did in that season, I stayed home and
+                    wrote a number of letters. I still remember that decision.</p>
+                <p>Nothing happened, nothing happened, no word back at all. And then, suddenly, I
+                    was called by Warren Christopher if I'd come in and talk about going to Sri
+                    Lanka. I said, “Sure, I'll be happy to talk to you.”</p>
+                <p>
+                    <hi rend="italics">Q: Obviously, somebody had been going over your background.
+                        It wasn't exactly a hit or miss...</hi>
+                </p>
+                <p>WRIGGINS: No, no.</p>
+                <p>
+                    <hi rend="italics">Q: It wasn't because of your major political contributions to
+                        Carter.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>WRIGGINS: Oh, no. Actually, I had worked for Hubert Humphrey in that primary
+                    campaign. I wrote some papers for him on foreign policy generally, though it
+                    didn't matter. He lost abysmally; he didn't make it. And so Carter owed me
+                    nothing.</p>
+                <p>But, anyway, that's how it happened.</p>
+                <p>
+                    <hi rend="italics">Q: I see. Now I guess you got this appointment at a very
+                        delicate moment in the history of Sri Lanka.</hi>
+                </p>
+                <p>WRIGGINS: Oh, a very interesting moment, yes.</p>
+                <p>
+                    <hi rend="italics">Q: What was going on when you arrived?</hi>
+                </p>
+                <p>WRIGGINS: Well, they'd just had an election, as I mentioned in my note to you, in
+                    which a new man, Jayawardene, had won hands down. I mean, an overwhelming
+                    victory.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I guess people were sick and tired of the...</hi>
+                </p>
+                <p>WRIGGINS: They were all sick and tired of the Bandaranaike government, which had
+                    been a combination of representatives of three leftist parties in key positions
+                    in the cabinet. They had severe economic and public order problems and all kinds
+                    of things, and so the population was very enthusiastic about this new man.</p>
+                <p>But there were serious ethnic riots on our arrival. I remember, there were
+                    curfews and police everywhere, and it was a very difficult time. And it was
+                    about five or six days before the curfew was lifted. This wasn't the Ceylon I'd
+                    known before, which had been a very peaceful place.</p>
+                <p>
+                    <hi rend="italics">Q: Except you had known the new prime minister.</hi>
+                </p>
+                <p>WRIGGINS: Yes, I had known him since my first research stay; and every visit I
+                    made since then, say every two years, he was one of the people I had gone to
+                    see. So we were more than casual acquaintances.</p>
+                <p>
+                    <hi rend="italics">Q: Was he prime minister or president?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>WRIGGINS: Well, he was prime minister until they changed the constitution, and
+                    then he became president. It's an innovation which I think they'll change.
+                    They'll go back to their old way, I believe.</p>
+                <p>
+                    <hi rend="italics">Q: Who would be the chief of state, then, if they went back
+                        to prime minister?</hi>
+                </p>
+                <p>WRIGGINS: The president would be the symbolic head of state.</p>
+                <p>
+                    <hi rend="italics">Q: I see, but not the political man.</hi>
+                </p>
+                <p>WRIGGINS: A queenly role, rather than an executive role.</p>
+                <p>
+                    <hi rend="italics">Q: Of course, the ethnic conflicts, as you referred to them,
+                        had been going on before you came there. So you stepped into it.</hi>
+                </p>
+                <p>WRIGGINS: That's right. As I thought about it at the time, the ethnic conflicts
+                    had really begun when I was there the first time. As I said, Mr. Bandaranaike
+                    had seized on the language question and made it his political vehicle for
+                    getting into power. For the first ten years of independence, they had followed a
+                    multilingual policy, under which about ten percent of the population spoke
+                    English, about 20 percent spoke Tamil, and the rest spoke Sinhalese. But Mr.
+                    Bandaranaike decided that he'd get to power by promising Sinhalese only. And any
+                    of us who have worked in South Asia know that as soon as you set a match to the
+                    linguistic and ethnic tinderbox, you have terrible problems.</p>
+                <p>
+                    <hi rend="italics">Q: Even in places like Ireland.</hi>
+                </p>
+                <p>WRIGGINS: Yes, you bet. Mr. Bandaranaike once told me, the first time I was
+                    there, “Professor Wriggins, I've never known an issue as good as the language
+                    issue to excite people.”</p>
+                <p>And I thought to myself, “You foolish man! you don't know what you've begun.”</p>
+                <p>He had a kind of false conception of public opinion, I call it the faucet view.
+                    You could turn these things on and you could turn them off again. But, of
+                    course, you couldn't. So, after each succeeding election, there had been some
+                    ethnic violence. But nothing as serious as what occurred at this time. I don't
+                    know how many people were killed; maybe 500 people were killed. Of course, this
+                    was nothing compared to what happened in 1983, after we left. But, while we were
+                    there officially, things were not bad, although I knew that this was one of
+                    those problems government needed to deal with very vigorously. And it seemed to
+                    me, they were cautious.</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>
+                    <hi rend="italics">Q: The new Jayawardene regime apparently stopped the leftist
+                        trend.</hi>
+                </p>
+                <p>WRIGGINS: Yes, very much so.</p>
+                <p>
+                    <hi rend="italics">Q: Then you must have been deluged with all kinds of
+                        do-gooders (we call them aid do-mores).</hi>
+                </p>
+                <p>WRIGGINS: Well, it was a very interesting period. The most significant thing,
+                    from the point of view of getting the record on this, is that Jayawardene
+                    undertook a complete shift in economic policy. Instead of following the sort of
+                    Fabian Socialist tradition of Nehru and previous governments in Ceylon, he
+                    opened the economy up and took most of the regulations off. He had a lot of help
+                    from the Bank and Fund, who thought this was marvelous, to find a democratic
+                    government that had seen the light and was really following liberal economic
+                    principles.</p>
+                <p>
+                    <hi rend="italics">Q: Except for the mention of democracy, I'd say you're
+                        describing Indonesia in 1966.</hi>
+                </p>
+                <p>WRIGGINS: Very good. Yes, exactly. It was really quite amazing to watch this.
+                    Jayawardene was very impressed with Singapore. I never heard him mention
+                    Indonesia as an example, but Singapore certainly was. And it made an enormous
+                    difference. When we first went there, most of the stores were virtually empty,
+                    but within six months, everything was there. People were buying all kinds of
+                    things, goods were coming in, shops were being painted, and so on. So that it
+                    was economically a very lively time, a very promising time, and the outsiders
+                    were cheering; to see a former “socialist” country join the free market club!.
+                    And so a lot of foreign businessmen came pouring in.</p>
+                <p>One interesting aspect of Sri Lanka is that they have very heavy rains that are
+                    highly seasonal, as anybody who's been in monsoon country knows, but Sri Lanka
+                    had a very sophisticated hydraulic society from about the 1st Century B.C. until
+                    about the 12th Century. There are very substantial and impressive ruins in what
+                    is normally thought of as a dry zone. But this dry zone was irrigated through a
+                    very elaborate series of channels or reservoirs, or “tanks” as they are
+                    called.</p>
+                <p>Previous AID and government programs had planned a number of dams for developing
+                    this hydraulic society. And Jayawardene comes in and says, “A 40-year plan? Why
+                    can't we do it faster than that? And let's see if we can't do four or five at
+                    once.” I thought this was foolish. I thought of how Menderes in Turkey had
+                    pushed an enormously rapid program of capital investment, military bases, all
+                    kinds of things.</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: And infrastructure.</hi>
+                </p>
+                <p>WRIGGINS: Inflation got going at such a pace that everybody got angry at him,
+                    there was a military coup, and in the end he was killed. And I worried about
+                    this with Jayawardene. I tried to get material from USIS and various other
+                    places about Menderes. But, of course, the process was so cumbersome that I
+                    never got anything.</p>
+                <p>
+                    <hi rend="italics">Q: Did they ever finish the dams?</hi>
+                </p>
+                <p>WRIGGINS: Oh sure, they have. I mean, it was quite astonishing what was
+                    accomplished. Let's see, the Germans, the British, the Swedes, and the Canadians
+                    all agreed to build dams and within ten years, they were all built and
+                    functioning.</p>
+                <p>
+                    <hi rend="italics">Q: And no Eastern European country, neither the Russians
+                        nor...</hi>
+                </p>
+                <p>WRIGGINS: No, no, they weren't interested.</p>
+                <p>
+                    <hi rend="italics">Q: They'd lost the battle.</hi>
+                </p>
+                <p>WRIGGINS: With Jayawardene's change in economic policy, they weren't interested
+                    any more. And he wouldn't have been interested in having them.</p>
+                <p>Anyway, here we have a bunch of donors competing against each other for dam
+                    sites. And one of them, I think it was the Japanese, in the end, got squeezed
+                    out - they donated a hospital instead!</p>
+                <p>
+                    <hi rend="italics">Q: Unusual.</hi>
+                </p>
+                <p>WRIGGINS: I much would have preferred for the Americans to build a dam than to
+                    get involved in the downstream channeling and agricultural water control. Very
+                    difficult stuff to handle. But Jimmy Carter had stopped building dams in the
+                    United States, for ecological reasons, and so we couldn't build a dam.</p>
+                <p>
+                    <pb facs="0014" n="Page0014"/>
+                    <hi rend="italics">Q: Tell me, having myself served in a developing country,
+                        Indonesia was my first... and I've talked to enough other people whom I've
+                        interviewed for this program of oral history to know that relationships
+                        between the ambassador or the little State Department entourage in any post,
+                        and the AID mission often were strained, depending upon the personalities of
+                        the ambassador or the AID director, how do you feel, over your period of
+                        three years or so, that you got along?</hi>
+                </p>
+                <p>WRIGGINS: Well, that's an interesting question. I was much concerned about the
+                    development program, having been in Sri Lanka in the 1950's when the first aid
+                    program began; started, by the way, by Jim Grant who ultimately became head of
+                    UNICEF. From the Policy Planning side, I'd watched and been connected to a lot
+                    of AID programs in the countries I was interested in, and because I'd spent time
+                    in Sri Lanka before. And the first AID director, named Tom Arndt, was a very
+                    cooperative, very interesting young man. He was willing to recognize that I knew
+                    quite a lot about Sri Lanka. We worked closely together, and I enjoyed him. Of
+                    course, his mission was very small. This was the very beginning of it. And so,
+                    from his point of view, there was no reason to be anxious. But, after about a
+                    year, he went off to something else, and a gal took his place. I can't remember
+                    her name.</p>
+                <p>
+                    <hi rend="italics">Q: Is that an intentional lapse?</hi>
+                </p>
+                <p>WRIGGINS: I'm sure it's a Freudian thing; I just can't remember the lady's name.
+                    She was really a pain, because she wanted to have as little to do with the
+                    embassy as possible. My experience in South Asia as a scholar suggested to me
+                    that sometimes there is validity — if you want to do certain things, the less
+                    association you have with the embassy, the better. And so I understood part of
+                    her orientation toward this.</p>
+                <p>
+                    <hi rend="italics">Q: But, on the other hand, it kind of destroys the concept of
+                        the country team.</hi>
+                </p>
+                <p>WRIGGINS: Yes, it wasn't really very helpful. She was in fact very uncooperative,
+                    as if the less you had to do with the embassy, the better. So I had to really go
+                    around, clandestinely, in various ways, to find out. I had no reason to suspect
+                    that there was any hanky-panky going on, or anything wrong with it; I was just
+                    damned curious. It wasn't that I was trying to check up on her, really, but I
+                    was trying to be perfectly clear about what was going on.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I think the ambassador is entitled to know what's
+                        going on at a post.</hi>
+                </p>
+                <p>WRIGGINS: Yes, that's true. Also, you learn a lot about what's going on
+                    politically through the people who are actually out in the field. So I had a lot
+                    of personal contact with them, but it was all kind of sub rosa. Very stupid.</p>
+                <p>
+                    <pb facs="0015" n="Page0015"/>
+                    <hi rend="italics">Q: Trying to keep the director of the AID mission out of the
+                        loop.</hi>
+                </p>
+                <p>WRIGGINS: Well, yeah, it was really stupid. I think she was quite effective, and
+                    she had a very rapidly growing organization to deal with. There were a lot of
+                    specific congressional requirements; the whole contracting structure is
+                    enormously cumbersome. So she had her own problems, and she ran a good show, but
+                    she was just a pain in the neck.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I've seen that to be the case in other
+                        circumstances.</hi>
+                </p>
+                <p>WRIGGINS: Sure. As far as I was concerned, it was totally unnecessary. It was
+                    just one more thing.</p>
+                <p>
+                    <hi rend="italics">Q: You did have a very good DCM (deputy chief of
+                        mission).</hi>
+                </p>
+                <p>WRIGGINS: Oh, yeah, Herb Levin.</p>
+                <p>
+                    <hi rend="italics">Q: Herb Levin was to become an acquaintance of mine in New
+                        York here.</hi>
+                </p>
+                <p>WRIGGINS: Oh, Herb was marvelous. I thought he was great fun.</p>
+                <p>
+                    <hi rend="italics">Q: He thinks very highly of you, too, I might say.</hi>
+                </p>
+                <p>WRIGGINS: Oh, well, good.</p>
+                <p>
+                    <hi rend="italics">Q: He was working at the U.N., after I retired.</hi>
+                </p>
+                <p>WRIGGINS: Yes, he had a big job there for a while.</p>
+                <p>
+                    <hi rend="italics">Q: He got caught in the RIF (reduction in force) which
+                        particularly affected senior Americans, and he was out. But I understand
+                        he's still doing something with China.</hi>
+                </p>
+                <p>WRIGGINS: He's working with Cy Vance and Henry Kissinger now. Yes, he lands on
+                    his feet.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's good.</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>WRIGGINS: He's very able. Oh, he's a terrific man. I just dumped all the
+                    administrative stuff on him. I think the DCM job is probably the worst job in
+                    the embassy.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's what everybody says, but it's difficult to
+                        get to be an ambassador unless you're a DCM, someplace.</hi>
+                </p>
+                <p>WRIGGINS: Yes, I'm sure that's true.</p>
+                <p>
+                    <hi rend="italics">Q: That's what happened to Frank Galbraith, who was my DCM in
+                        Jakarta when I first got there. Eventually, he became ambassador first to
+                        Singapore and then to Indonesia, where he had started his career as an
+                        Indonesian language officer.</hi>
+                </p>
+                <p>WRIGGINS: That's good. That's unusual.</p>
+                <p>
+                    <hi rend="italics">Q: That's right. Well, he passed on, but I won't talk any
+                        more about Frank Galbraith.</hi>
+                </p>
+                <p>Again, as a, let's say, non-career Foreign Service officer, despite your history
+                    with the State Department and with the National Security Council, I know you're
+                    aware of... First of all, let me say, this interview is off the record. You need
+                    not feel particularly feel by any classified rules, if there are things you
+                    don't want to talk about. We've all had experience, at whatever posts we've been
+                    in, with our, shall we say, sometimes unhelpful colleagues from another part of
+                    the government, the Central Intelligence Agency.</p>
+                <p>WRIGGINS: Oh, yes, right.</p>
+                <p>
+                    <hi rend="italics">Q: I make it a habit to ask tough questions about the
+                        relationships and what you feel they should have been, or might have been,
+                        or should be, not just were, in your case, but should have been.</hi>
+                </p>
+                <p>WRIGGINS: Yes, this is a good question. It's a puzzle to me, too, because at the
+                    time I was there, we'd already had the... what was the big commission expos� of
+                    the CIA, the Senator from Utah? Frank Church.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, Senator Church, who was chairman of the Foreign
+                        Relations Committee.</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>WRIGGINS: We'd had the Church Committee investigation of the CIA, and they were
+                    somewhat under wraps. I had remembered, from my previous periodic visits, that
+                    they were sometimes quite active, it seemed to me. I was never fully
+                    knowledgeable, but I knew some of their guys; they were asking the same kind of
+                    questions about the political system that I was asking, as a scholar. And so we
+                    were sometimes in touch with each other. And it did seem to me that some of them
+                    were really, at periods, quite active in... I never knew what, exactly, maybe
+                    providing funds for various kinds of activities.</p>
+                <p>
+                    <hi rend="italics">Q: Would you say that since you arrived after the election of
+                        an anti-leftist regime in Sri Lanka, the CIA was in any way responsible for
+                        that, shall we say, from their point of view, victory?</hi>
+                </p>
+                <p>WRIGGINS: Oh, no, I don't think so. I believe it was a virtually completely
+                    homegrown operation. Everybody was so angry at them, and they'd been so
+                    unreasonable, and, you know, all kinds of things. Maybe there was some
+                    financing, but if so I never knew. I never inquired about it; it wasn't
+                    necessary. It does seem to me that the thing was so thoroughgoing and inherently
+                    domestic that we can't claim much credit for it, even if we should want to for
+                    some obscure reason.</p>
+                <p>
+                    <hi rend="italics">Q: I'm glad to hear you say that. Some people think that the
+                        Central Intelligence Agency had something to do with the felicitous outcome
+                        of the abortive coup in 1965 in Indonesia. But that's absolutely not true.
+                        There is no way that the Agency could have influenced it.</hi>
+                </p>
+                <p>WRIGGINS: That's right. Okay. So, no, I don't think so.</p>
+                <p>And so, because of the Church Committee and various things, they were, I felt,
+                    under a sense of restraint. And that was fine by me. There was no reason to be
+                    active. I mean, this government was perfectly friendly to us. They were falling
+                    all over themselves to be nice to us, and their policy was perfectly congenial,
+                    so, you know, what's the point?</p>
+                <p>There were certain things they were doing. They were bugging certain places,
+                    meetings and so on.</p>
+                <p>They did perform one service, and that is, they provided the material to me to
+                    pass to the president (which they had derived I don't know where) about some
+                    people with Middle Eastern training who had taken over property opposite the
+                    president's residence.</p>
+                <p>
+                    <hi rend="italics">Q: Potential terrorists?</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>WRIGGINS: And allegedly tied in with some Tamil groups who had been training with
+                    the PLO in Lebanon. I saw the list of names of the people who turned up in one
+                    of the camps, and there were quite a few that looked like Sri Lankan Tamil
+                    names. So there was a connection there that they were able to alert the
+                    government to. But, beyond that, I often wondered what in hell they did.</p>
+                <p>
+                    <hi rend="italics">Q: Weren't there an awful lot of them?</hi>
+                </p>
+                <p>WRIGGINS: No, no, no. There were only three.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, really. I see.</hi>
+                </p>
+                <p>WRIGGINS: One was busy in the visa department, and the other two, I couldn't
+                    quite figure out what they were doing. But it didn't bother me.</p>
+                <p>
+                    <hi rend="italics">Q: They didn't bother you, so you didn't bother them.</hi>
+                </p>
+                <p>WRIGGINS: Yes, that's right. Although I did have an interesting thought. I got to
+                    know the Czech Ambassador very well, and we played tennis together. He was a
+                    very interesting fellow.</p>
+                <p>WRIGGINS:I speculated to myself, well, now I wonder if he might jump ship? And if
+                    he did jump ship, I was very glad those guys were there. But he didn't jump
+                    ship.</p>
+                <p>
+                    <hi rend="italics">Q: Well, they would have sent somebody in, anyway, if you had
+                        an inkling from the Czech that he was interested. Or they would have
+                        arranged to meet him outside the embassy.</hi>
+                </p>
+                <p>WRIGGINS: Oh, yes, sure.</p>
+                <p>
+                    <hi rend="italics">Q: Well, this was, of course, after '68, wasn't it?</hi>
+                </p>
+                <p>WRIGGINS: Oh, yes.</p>
+                <p>
+                    <hi rend="italics">Q: So he was not a Dubcek representative.</hi>
+                </p>
+                <p>WRIGGINS:No. But he turned up again. I've seen him since at Columbia;...</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: Still playing tennis?</hi>
+                </p>
+                <p>WRIGGINS: I guess.</p>
+                <p>
+                    <hi rend="italics">Q: Now let's get into the nitty gritty about the separatist
+                        movement. I'm appalled by what I read fairly recently in the papers.</hi>
+                </p>
+                <p>WRIGGINS: It's been a tragic decline; particularly hard on the people of Jaffna,
+                    but a great diversion of resources from other, more needed domestic
+                    developments.</p>
+                <p>
+                    <hi rend="italics">Q: Well, what's happened, I mean, since 1983. I read one
+                        article which talks about at least 40,000 people...</hi>
+                </p>
+                <p>WRIGGINS: I think that's probably true.</p>
+                <p>
+                    <hi rend="italics">Q: Now I gather that the Tamil group, a minority... and it is
+                        still a minority of only about 12 percent, I think, isn't it? Somewhere
+                        around there?</hi>
+                </p>
+                <p>WRIGGINS: Well, there are two Tamil elements in Sri Lanka, which are often
+                    confused.</p>
+                <p>One is the estate workers who were brought in from South India. They are coolies,
+                    and they are low, very low, caste. They've been up in the up country, manning
+                    the tea and rubber estates. And they, on the whole, have not been involved in
+                    this separatism.</p>
+                <p>
+                    <hi rend="italics">Q: When you say “up country,” let me get the geography.
+                        You're not talking about Jaffna Province.</hi>
+                </p>
+                <p>WRIGGINS: No. Jaffna's on sea level.</p>
+                <p>
+                    <hi rend="italics">Q: I see. Oh, in the highlands.</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>WRIGGINS: The island has a core that rises to 6,500 feet. In the area above sea
+                    level, as the air is cooler, that's where the rain condenses, as in Indonesia's
+                    mountains. So the Tamil population there is pretty isolated and encapsulated in
+                    their estates. And they've had a political leader who's been very clever, a
+                    fellow named Thondaman. Thondaman has worked very closely with the United
+                    National Party and collaborated with Jayawardene, and, as a result, kept the
+                    Tamil estate workers quiet, but he won a lot of rights for the Tamil estate
+                    workers, education etc. in return. So that's one group.</p>
+                <p>The second group, however, is the Sri Lanka Tamils, and they have been there for
+                    well over a thousand years. In my view, they're as much Sri Lankans as the
+                    Sinhalese, although the Sinhalese may, in fact, have come earlier. Quite a few
+                    of the indigenous Tamil families came in the 14th, 15th, and 16th Centuries.
+                    But, for an American, these are people who typically have been there for
+                    generations and generations.</p>
+                <p>
+                    <hi rend="italics">Q: They're natives.</hi>
+                </p>
+                <p>WRIGGINS: Yes, they are. They, too, are natives.</p>
+                <p>Anyway, I guess encapsulating the story somewhat, I put it to myself this way:
+                    during the British colonial period, the American missionaries were given the
+                    right to have schools in the Tamil areas. The British reserved to themselves the
+                    education of the majority population. In the British Empire (I don't know how it
+                    was in the Dutch), the British assigned the task of education to religious
+                    bodies. So it was the American missionary schools in Jaffna that were far more
+                    energetic in training people for practical skills: engineering, medicine,
+                    accountancy, things like that, while the British schools stuck more to the
+                    traditional British arts curriculum. So that, during the colonial period, it was
+                    the Tamils who found wonderful opportunities in the bureaucracy. The British
+                    were quite willing to have the minority perform these necessary tasks. And they
+                    did that in quite a few of their colonial areas. So, at independence and
+                    post-independence, you have a lot of Tamils in relatively senior bureaucratic
+                    positions, because the British depended on large numbers of local folks to
+                    manage their bureaucracy.</p>
+                <p>So, following independence, the Sinhalese looked around, and they found that a
+                    lot of the senior positions were manned by Tamils. Whenever they needed to get
+                    any responsible official, quite disproportionate to their number of 12 percent,
+                    there was always a Tamil there. And disproportionately in the schools, the
+                    Tamils. Maybe 50 percent of medical-doctor candidates would be Tamils, and maybe
+                    even 50 percent of the engineers. There would be some elements of the
+                    bureaucracy that were being entirely manned by Tamils, as you bring in your
+                    cousins and your brothers and your nephews. The Irrigation Department and Public
+                    Works Department and quite a few were Tamil preserves, just like the New York
+                    police, for a while, were Irish.</p>
+                <p>
+                    <pb facs="0021" n="Page0021"/>
+                    <hi rend="italics">Q: It's changed now.</hi>
+                </p>
+                <p>WRIGGINS: Yes. So, as I said, Bandaranaike saw the Sinhalese language as the
+                    thing to get him going politically.</p>
+                <p>Mrs. Bandaranaike then went further. She began to cut back on the proportion of
+                    university positions that could be taken by Tamils.</p>
+                <p>
+                    <hi rend="italics">Q: You mean a quota system.</hi>
+                </p>
+                <p>WRIGGINS: Yes, a quota system. And so a well-educated Tamil father could see that
+                    his son was not going to have the same kind of opportunities he'd had, and the
+                    son could see that he was not going to have the same kind of opportunities that
+                    his Dad had had. Under Mrs. Bandaranaike, this became quite acute. So that, by
+                    the time this election came along, the Tamils were organized.</p>
+                <p>For a long time, they had tried to promote a federal structure, which would mean
+                    a decentralization of the highly centralized administrative and political
+                    systems that the British had organized in order for to control the place. But
+                    the federal issue became always a Tamil issue. And so you couldn't conceive of
+                    changing the highly centralized system to a federal system because that would be
+                    giving the Tamils the right to change “our” constitution. That's outrageous,
+                    they're only a minority of 12 percent. So we can't accommodate them in this way.
+                    And Mrs. Bandaranaike refused to work on serious decentralization.</p>
+                <p>There were, however, two examples of negotiated and mutually agreed
+                    decentralization proposals. In each case, they were negotiated by the government
+                    with the Tamil leaders and accepted both by the Tamil leaders and accepted by
+                    the Sinhalese leaders. But then in each case there would be a public uproar, and
+                    the Sinhalese leaders wouldn't dare to implement it. So, the Tamils came to
+                    distrust offers by the Sinhalese leaders. And the Sinhalese distrusted the
+                    ultimate aims of the Tamils, because there were 60 million Tamils over in India,
+                    and over 3 million Tamils in Sri Lanka. The Sinhalese reasoned, if the Tamils
+                    are able to gain some autonomy in their area, sooner or later they're going to
+                    hook up with the Indian Tamils and either break away entirely, or bring the
+                    Indian Tamils in to swamp us.</p>
+                <p>
+                    <hi rend="italics">Q: With the Indian Tamils.</hi>
+                </p>
+                <p>WRIGGINS: Yes. So you get these worst-case anxieties on both sides. We have the
+                    paradox that two communities acting as of they are both suffering from a
+                    minority complex.</p>
+                <p>
+                    <pb facs="0022" n="Page0022"/>
+                    <hi rend="italics">Q: Because of the mainland.</hi>
+                </p>
+                <p>WRIGGINS: Because of the mainland. And the Tamils know they're a minority because
+                    they are a minority on the island, an increasingly disadvantaged minority.</p>
+                <p>Anyway, that's the background. By the time the election came along, then, the
+                    young Tamils were demanding independence.</p>
+                <p>
+                    <hi rend="italics">Q: Independence under a federal system?</hi>
+                </p>
+                <p>WRIGGINS: No, Tamil Eelam, “We will have our own state.”</p>
+                <p>Now we all remember, those of us who are South Asianists, the Pakistan-India
+                    partition. But we also recall that large numbers of Pakistani, looking back, who
+                    think that Jinnah and some of the others at his period, were really using this
+                    as a bargaining ploy, attempting to gain stronger guarantees for the Muslim
+                    minority in Nehru's India. And some of the Tamil leaders at first may have been
+                    using the call for independence as a bargaining ploy, or perhaps just to stay
+                    ahead of the youths who were taking the call for Eelam seriously. But the
+                    youngsters began to take this seriously. So a real momentum gets going.</p>
+                <p>One of my real senses of failure here is that I was not able to level with
+                    Jayawardene on my anxiety about his country. I feared that if he didn't move
+                    more rapidly toward devolution of power as Tamil demands for independence became
+                    strident, something awful could well happen. But I also knew that this shrewd
+                    politician had been in politics for 35 or 40 years. He was a very smart man; he
+                    knew the mood of the place a lot better than I did. I also knew that, in 1956,
+                    he had lost his seat in parliament because he had been associated with a party
+                    that had not gotten onto this language bandwagon, and so he had been out of
+                    parliament for three years. No fun for somebody like that. So who am I to tell
+                    him what he ought to do? Anyhow, I didn't.</p>
+                <p>But I was also in close touch with many Tamils. There was a complicated
+                    negotiation going on between Jayawardene, on the one hand, and the Parliamentary
+                    leaders of the Tamil movement, on the other. But it seemed to me that these
+                    negotiations never got anywhere. And you know in this part of the world, how you
+                    can do things for symbolic reasons; but you really don't take them seriously,
+                    you just string people along? It seemed to me that at times Jayawardene was
+                    really stringing the Tamil leadership along, although I must say the Tamil
+                    leadership was not very distinguished, as compared to the previous generation,
+                    who had been very, very able people.</p>
+                <p>
+                    <hi rend="italics">Q: Because they'd been trained by the British, you mean?</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>WRIGGINS: Well, they were lawyers; they were highly educated. They'd been trained
+                    in the British and the American schools, or whatever. And the younger people
+                    were just of a different educational generation, so they were less well-trained,
+                    perhaps not quite up to the challenge of the times, which by this time faced a
+                    far more radicalized youth than had their predecessors. And Jayawardene himself
+                    is fairly aristocratic, so he really didn't have the sense of fellowship and
+                    personal chemistry with these more modest people than he had had with their more
+                    distinguished and professional predecessors. Anyhow, they did not take advantage
+                    of the opportunities that seemed to me to have been there. As a result, in 1981,
+                    there was a set of riots, and then, in 1983, the whole place blew up.</p>
+                <p>
+                    <hi rend="italics">Q: It certainly did blow up.</hi>
+                </p>
+                <p>WRIGGINS: Yes, it did.</p>
+                <p>
+                    <hi rend="italics">Q: And that was the beginning, of course, of what you could
+                        really call a civil war.</hi>
+                </p>
+                <p>WRIGGINS: Yes, right, that's true.</p>
+                <p>
+                    <hi rend="italics">Q: How much of the...</hi>
+                </p>
+                <p>WRIGGINS: Fortunately, it didn't happen while I was there.</p>
+                <p>
+                    <hi rend="italics">Q: Not on your watch.</hi>
+                </p>
+                <p>WRIGGINS: I'm thankful for that.</p>
+                <p>
+                    <hi rend="italics">Q: But, on the other hand, I think you feel a regret about
+                        the fact that you were not able to convey some sense of impending doom to
+                        Jayawardene.</hi>
+                </p>
+                <p>WRIGGINS: Yes, that's right.</p>
+                <p>
+                    <hi rend="italics">Q: Which may be your major frustration from your tour of duty
+                        there.</hi>
+                </p>
+                <pb facs="0024" n="Page0024"/>
+                <p>WRIGGINS: Oh, absolutely. Let me just make this a little more vivid. I can still
+                    see an evening in which there was Jayawardene and myself and our two wives, and
+                    three other couples, the man with whom I wrote that book and his wife, and one
+                    of them who was just recently assassinated, Gamini Dissanayake and his wife,
+                    just this group.</p>
+                <p>
+                    <hi rend="italics">Q: His wife survived.</hi>
+                </p>
+                <p>WRIGGINS: Yes, his wife survived. It was on the tip of my tongue to say, “you
+                    know, we're all here, this is a family evening, we're among friends. Let me tell
+                    you what really worries me.” But I didn't do it. And I still feel I should have.
+                    It's kind of absurd, but I still look back on that as a real opportunity
+                    missed.</p>
+                <p>
+                    <hi rend="italics">Q: Of course, but then there were opportunities that you took
+                        advantage of as well.</hi>
+                </p>
+                <p>WRIGGINS: Yes, that's true.</p>
+                <p>
+                    <hi rend="italics">Q: Really, everything balances out.</hi>
+                </p>
+                <p>WRIGGINS: I know, but when we're exploring these things...that recollection
+                    remains vivid.</p>
+                <p>
+                    <hi rend="italics">Q: I don't think we've quite finished the separatism
+                        business. We just touched on the beginning of the violence. Now, the
+                        violence consisted of the assassination of a lot of important people,
+                        particularly recently, in 1993 and 1994. The way you presented it, it sounds
+                        as though there was this kind of, sure, next generation of Tamils, but no
+                        explanation of how it became so utterly violent, on both sides.</hi>
+                </p>
+                <p>WRIGGINS: Well, it's a very complicated thing, because there were actually two
+                    different sources of political violence, one within the Sinhalese community.</p>
+                <p>In 1971, a year after Mrs. Bandaranaike became prime minister, there was a youth
+                    rebellion in the Sinhalese areas, in which something like 15,000 young people
+                    took part in a kind of wild effort to seize power— a politically romantic
+                    revolution led by somebody who had had some training in Moscow and who thought
+                    seriously of a one-night seizure of power. He was a real charismatic figure, who
+                    must also have been a considerable organizer. They attacked 75 police stations
+                    in one night.</p>
+                <p>Well, even on a small island, to be able to organize something like that,
+                    secretively, and take so many people by surprise, was really quite
+                    astonishing.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>Mrs. Bandaranaike was very strong and vigorous in repressing it. Fourteen
+                    thousand of them were put in various reeducation centers, and quite a few of
+                    those who were “reeducated” came back and participated in the political system
+                    and were normal citizens. But a group of them was arrested and tried, and the
+                    leader, Rohan Wijaweera and his closest associates were given life
+                    sentences.</p>
+                <p>When he came to power, Jayawardene released them, because he realized that they
+                    would be more critical of Mrs. Bandaranaike and her party than they would be of
+                    him. And so, too clever by half, really, because in the 1980s, the old
+                    leadership reemerged and contributed to the enormous violence within the
+                    Sinhalese community. But that really didn't occur until the Tamils had gained
+                    momentum.</p>
+                <p>One could sketch the sequence. For instance, you begin your guerilla movement by
+                    picking off policemen. And then the government no longer can count on the
+                    police. Then he the army is sent in to restore order. The previous government
+                    had stopped recruiting Tamils, so most of the army are now only Sinhalese
+                    speakers, so they don't understand the language of the people for whom they're
+                    supposed to be providing order. And then this movement gains a kind of momentum.
+                    It's a self-generating business. As the police become more severe and apparently
+                    arbitrary, then the Tamil guerilla leaders have more of a following. So you get
+                    this terrible vicious circle going. Jayawardene was unable to break through
+                    this, and so he increased the military pressure.</p>
+                <p>And then, as a result of anti-Tamil riots in 1983, many Tamils fled to India, and
+                    because of understandable sympathy, the Tamils gained support from Tamil N_du in
+                    southern India. Mrs. Gandhi had two reasons for contributing to supporting this
+                    movement. One, she knew that if she didn't support it, she would lose votes in
+                    south India, in Tamil N_du. So that's a domestic political reason. Another
+                    reason was that she wanted to bring pressure to bear on Jayawardene so that
+                    hopefully, he would be somewhat less independent of India, I believe. And she
+                    wanted to be sure that Jayawardene didn't do anything with the United States
+                    that would work to India's disadvantage. In other words, she wanted a kind of
+                    deterrent threat, by intensifying the Tamil difficulties that Jayawardene would
+                    face. This was a really nasty.</p>
+                <p>
+                    <hi rend="italics">Q: How long did that period last, her contribution, shall we
+                        say?</hi>
+                </p>
+                <pb facs="0026" n="Page0026"/>
+                <p>WRIGGINS: Well, I don't think she really got going, although my colleague, who's
+                    written a book on this subject, thinks she did begin earlier. I don't think she
+                    got really going until the 1983 eruption in Colombo, when large numbers of
+                    Tamils fled to Madras for safety. Then, Tamil political leaders, seeing they
+                    could be heroes for the voters in Madras if they garlanded and welcomed as
+                    heroes Sri Lankan Tamils who came for rest and to reequip themselves. This
+                    further frightened the Sinhalese. And so this kind of vicious circle gets going.
+                    But it was not only for vote-getting purposes. She also had the Indian
+                    intelligence service, RAW, help these fighters by setting up training camps,
+                    safe houses, radio communication with Jaffna, etc.</p>
+                <p>
+                    <hi rend="italics">Q: On the mainland.</hi>
+                </p>
+                <p>WRIGGINS: On the mainland.</p>
+                <p>
+                    <hi rend="italics">Q: And re-exporting them.</hi>
+                </p>
+                <p>WRIGGINS: And exporting them back, yes. So she played really a dog-in-the-manger
+                    role here. Many of my Sri Lankan Sinhalese friends say, “well, of course, if she
+                    hadn't done this, we'd have been able to deal with it.”Q: Well, I don't know
+                    about that. She did it, so that's a hypothesis and nothing more. You mentioned
+                    the Sinhalese factions, and one of them, I guess, is this extreme group.</p>
+                <p>WRIGGINS: The JVP.</p>
+                <p>
+                    <hi rend="italics">Q: I know you're watching what happens there all the time,
+                        and that's why I don't mind asking you what the current situation is. Do you
+                        see that as a possible...</hi>
+                </p>
+                <p>WRIGGINS: A return of the JVP?</p>
+                <p>
+                    <hi rend="italics">Q: Yes, is it going to harden the line between the Tamils and
+                        the Sinhalese?</hi>
+                </p>
+                <p>WRIGGINS: Frankly, I don't think it affects that very much.</p>
+                <pb facs="0027" n="Page0027"/>
+                <p>First, on the JVP. At one point, it looked as if a stalemate had virtually been
+                    achieved between the Colombo Government and the Tamil Eelam movement. At that
+                    point, Jayawardene asked the Indians to come in as peacekeepers, and to help
+                    disarm the Tamil movements. The reaction among this group of Sinhalese to that
+                    invitation to the Indians was enormous, much more than Jayawardene expected. He
+                    obviously touched a very sensitive nerve; the longstanding historic Sinhalese
+                    fear of India burst to the surface. That's when the JVP revived their violent
+                    attack on the Colombo establishment that had had the nerve to invite the Indians
+                    in. The degree of violence of these people was just amazing.</p>
+                <p>For instance, they would take a particular professional group, like the
+                    electricians who were running a public electric service, and say, “If you go to
+                    work tomorrow, we will kill some of your people.” And they would. Then they went
+                    to the garbage collectors. They'd take different parts of public service. But
+                    they went even further. They went to hospitals and said, “If the nurses come
+                    tomorrow...” This is a degree of unfeeling that's just almost unbelievable. And
+                    they killed some nurses. They even picked off some doctors. And then they were
+                    foolish enough to say to the army, “If you don't stop killing us, we will begin
+                    to attack you, as individuals.” Then they began to pick off some officers and
+                    attack their families. And that was the end of it! Then there was real
+                    repression, a real crackdown. I have no idea how many were killed. Nobody will
+                    admit how many were killed. But to stop this thing, the repression among the
+                    Sinhalese was very great...many disappearances, many suspects summarily killed
+                    by ununiformed death squads, etc.</p>
+                <p>I happened to be on the island at the time when they found, exposed, and captured
+                    Wijaweera, the head of this Sinhalese extremist program. He and his top aides
+                    were identified, arrested and shortly after Wijaweera was taped for television,
+                    urging his followers to give up, he was killed by the army units that had found
+                    him. Colombo heaved a collective sigh of relief.</p>
+                <p>
+                    <hi rend="italics">Q: Was that the Tiger leader?</hi>
+                </p>
+                <p>WRIGGINS: No. no. This was the leader of the extremist Sinhalese movement that
+                    had erupted after Jayawardene invited the Indian “peacekeepers” in to help deal
+                    with the Tamils.</p>
+                <p>So they repressed that, and I think that's finished for now. It may come up
+                    again; it shows how volatile the Sinhalese community can be; it suggests that
+                    many grievances persist within the Sinhalese community. But I don't expect that
+                    to return any time soon.</p>
+                <p>The Tamil problem is of a different order. The Tamil leader, V. Prabhakaran, had
+                    proved to be a much harder customer. He has some of the same charismatic
+                    leadership qualities and inspires highly unusual degrees of dedication. The
+                    readiness of his followers for self-sacrifice is quite remarkable. He is also a
+                    far more sophisticated and ruthless political leader.</p>
+                <p>
+                    <pb facs="0028" n="Page0028"/>
+                    <hi rend="italics">Q: He must be. He must be.</hi>
+                </p>
+                <p>WRIGGINS: And there are caste issues involved. I don't want to spend too much
+                    time on it, but there's a caste implication to it. There's caste in both
+                    Sinhalese and Tamil societies. But the Sinhalese caste system is very casual and
+                    relaxed compared to the Indian. The Jaffna one has been much more severe, more
+                    like the Indian system.</p>
+                <p>
+                    <hi rend="italics">Q: You mean it's more rigid than the Indian?</hi>
+                </p>
+                <p>WRIGGINS: Well, perhaps. But by comparison with caste in the south of Sri Lanka,
+                    it has been historically more rigid, more like India's in more traditional parts
+                    of India. Almost all the political leaders of the north, of the Jaffna area, had
+                    been of upper caste vellalas. The agricultural caste are generally considered to
+                    be the top status group in both the Sinhalese and Tamil communities. The lawyers
+                    and the doctors and the professional people and all those who had tried to work
+                    the deals and compromises with Colombo, they were all Tamil vellalas. The people
+                    who are heading the LTTE, by contrast, are fisher caste, which in the Sri Lankan
+                    system is fairly low.</p>
+                <p>
+                    <hi rend="italics">Q: LTTE is the Liberation Tiger Tamil Eelam.</hi>
+                </p>
+                <p>WRIGGINS: Yes, that's their official title in English. The lower-caste folks who
+                    dominate the LTTE, are now in charge. While some of the young, upper-caste
+                    people also joined in their “national liberation struggle,”, the fact that,
+                    through this eruption, the lower-caste people are now running things
+                    contributes, in my view, to the intractability of finding a peaceful solution.
+                    How could they imagine that, if they reach a deal with these people in Colombo,
+                    they will still be able to be top dogs? Rather, they must fear they will be
+                    pressed back down again to the inferior position they used to occupy before the
+                    struggle.</p>
+                <p>
+                    <hi rend="italics">Q: And defers...</hi>
+                </p>
+                <p>WRIGGINS: It makes it harder to reach a deal.</p>
+                <p>
+                    <pb facs="0029" n="Page0029"/>
+                    <hi rend="italics">Q: Exactly. I don't know what more we can say on the current
+                        situation, in the light of your own experience. Perhaps we might turn, in
+                        our remaining few minutes here, to a sort of general U.S. foreign affairs
+                        approach, particularly in the light, I think, of what people fear is
+                        happening under the major turnabout of American politics this past year. Let
+                        me ask you, first of all, a specific reference to the Foreign Service. We
+                        touched on it briefly. I want to get back also to the CIA, but let's take
+                        the Foreign Service first. When I came into the Foreign Service in 1950, I
+                        was highly impressed with the quality of the Foreign Service officers.</hi>
+                </p>
+                <p>WRIGGINS: Oh, I was too.</p>
+                <p>
+                    <hi rend="italics">Q: I continued... I still do, as far as that's concerned. I
+                        must say I have a different picture of the way the Department of State and
+                        the Foreign Service are conducting their business these days. Now I'm not
+                        reflecting upon the political appointees who run the organization—your
+                        contact with Warren Christopher in the early days of the Carter
+                        administration, or his position now. You've continued to travel, obviously.
+                        What is your impression? Do you think that the Foreign Service officer corps
+                        has deteriorated in quality?</hi>
+                </p>
+                <p>WRIGGINS: That's very hard to say. Though, yes, I think it has. Now why do I
+                    think that?</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you, is that possibly a reflection of the
+                        general deterioration in the quality of our educational product in this
+                        country?</hi>
+                </p>
+                <p>WRIGGINS: Well, I don't know about that. As a professor...</p>
+                <p>
+                    <hi rend="italics">Q: As a professor, you hate to say.</hi>
+                </p>
+                <p>WRIGGINS: I'm reluctant to accept that sweeping a view. My experience contradicts
+                    what you say. Of course, my sample is very small, because I'm dealing with
+                    graduate students at Columbia. I think they're just as bright as any I've ever
+                    taught anywhere; just as able. And a number have come back to graduate work
+                    after having worked in the “real world.”</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's very interesting.</hi>
+                </p>
+                <p>WRIGGINS: I'm very impressed with the group. The people who come to the graduate
+                    school or the School of International Affairs, I think, are top drawer, and
+                    numbers of them go out and get fantastic jobs. So that's not the problem with
+                    the Foreign Service.</p>
+                <p>
+                    <pb facs="0030" n="Page0030"/>
+                    <hi rend="italics">Q: Okay. Do many of them move into the Foreign Service?</hi>
+                </p>
+                <p>WRIGGINS: No, very few. Some are interested in the Foreign Service, but they
+                    don't want to start at the bottom.</p>
+                <p>
+                    <hi rend="italics">Q: Everybody wants to start at the top.</hi>
+                </p>
+                <p>WRIGGINS: Well, okay. But there's something special about the Foreign Service, I
+                    think. Because it seems as if often someone who is specialized in one area is
+                    immediately sent somewhere else, as if the Service doesn't respect anyone who
+                    has gone to the trouble to develop a specialized interest. But more importantly,
+                    by comparison with many other professions and especially NGO's, genuine
+                    responsibility comes very slowly.</p>
+                <p>
+                    <hi rend="italics">Q: Absolutely. Sure.</hi>
+                </p>
+                <p>WRIGGINS: And so, able, impatient, well-trained people are just not going to put
+                    up with this slow boat career. It still looks as if it's a...</p>
+                <p>
+                    <hi rend="italics">Q: Old boys' network.</hi>
+                </p>
+                <p>WRIGGINS: Pre-World War II kind of approach to personnel. I may not be reading it
+                    correctly. That may be wrong, I don't know. You asked me earlier if I would
+                    encourage my son or daughter to do this, and, quite honestly, I would not. I 'm
+                    uncomfortable about that; since we need good people in the Service. But there it
+                    is.</p>
+                <p>
+                    <hi rend="italics">Q: You shouldn't be. You shouldn't be.</hi>
+                </p>
+                <p>WRIGGINS: When students come along who are interested, I don't actively
+                    discourage them, as some of my colleagues do. But I think part of it is that
+                    it's no longer as distinguished a service as it was.</p>
+                <p>
+                    <hi rend="italics">Q: Plus the fact that it has even less support among the
+                        American public than it used to have. It's hard to believe, because it never
+                        had much support — the cookie-duster and striped-pants crowd and all that.
+                        But I see less today, despite the efforts of the American Foreign Service
+                        Association and its retired component. I don't see that there's any chance
+                        for, let's say, Congress to recognize that the budget of the Foreign
+                        Service, or the foreign affairs budget in general, is already about as small
+                        as it can get.</hi>
+                </p>
+                <pb facs="0031" n="Page0031"/>
+                <p>WRIGGINS: I have a slightly different view of that. It seems to me that, now, we
+                    are moving more into a trade orientation for our foreign enterprise. Now the
+                    liability of this is that it could all go to the Department of Commerce.</p>
+                <p>
+                    <hi rend="italics">Q: A liability, or a plus?</hi>
+                </p>
+                <p>WRIGGINS: Well, from the point of view of the “Foreign Service” as such, if all
+                    the interest goes to the Department of Commerce then it's a liability. But,
+                    apart from that, it seems to me that our growing awareness of the importance of
+                    foreign representation in order to promote our commerce, that could be a way in
+                    which this notion could change.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I never saw much enthusiasm amongst the Foreign
+                        Service organization. for commercial work.</hi>
+                </p>
+                <p>WRIGGINS: No, but that has to change.</p>
+                <p>
+                    <hi rend="italics">Q: Well, we said that four years ago: It's got to change; we
+                        have to increase our exports and all that. I was in export promotion for a
+                        while. We are in a different ball game, and I think maybe you're right.</hi>
+                </p>
+                <p>WRIGGINS: But I do have the sense that people I have met in overseas posts strike
+                    me as more like (I'm going to sound like a snob here) like ordinary civil
+                    servants in their orientation toward their jobs than I think was the case
+                    earlier, when more saw it as a lifetime career.</p>
+                <p>
+                    <hi rend="italics">Q: I think that's true. And much of that, unfortunately, is
+                        due, I believe, to the influence of international terrorism. Now, the
+                        consular officer is behind bullet-proof glass. It's even hard to get into a
+                        commercial library, which is supposed to be open to the public. And there is
+                        a sense, on the part of Foreign Service officers, of insulation from the
+                        local population, which is absolutely the wrong way to go. And I, to a great
+                        extent, blame this on the fact that Americans have been the object of
+                        attack.</hi>
+                </p>
+                <p>Let me get back to the subject. Right now, there is a hue and cry because of the
+                    Aldrich Ames case and various other major disasters on the part of our
+                    intelligence equipment. Daniel Patrick Moynihan, for example, for whom I have a
+                    very high regard...</p>
+                <p>WRIGGINS: Yes, I do, too, but every once in a while, he really...</p>
+                <p>
+                    <pb facs="0032" n="Page0032"/>
+                    <hi rend="italics">Q: Well, he sort of raised the trial balloon of let's just
+                        abolish the Agency. I must say I have considerable sympathy for that point
+                        of view, because it has been nothing... and I'm sure you've experienced this
+                        in Sri Lanka, all around the world, wherever I've been, particularly, of
+                        course, at the United Nations, I've experienced that the CIA has been
+                        nothing but a millstone around the neck of any Americans involved in foreign
+                        affairs, and that it's time at least we changed the name and reduced the
+                        visible presence. I don't know, maybe it's impossible to abolish it.
+                        Ambassador Nick Platt, for example, who heads the Asia Society now, doesn't
+                        think we can ever get rid of whatever it is, and that we have to keep an
+                        intelligence service, because every nation's got to have one. Now I don't
+                        know whether that's true or not, but let's assume for a moment it is. But
+                        surely it can be cut back. I never found that they were a great deal of help
+                        in anything I saw them do. But then I'm not that...</hi>
+                </p>
+                <p>WRIGGINS: Well, I have a different kind of an example. Maybe it could have been
+                    handled in a different way. When I was on Policy Planning, we were trying to
+                    develop a joint policy for South Asia by a simultaneous exploration of policy
+                    towards both India and Pakistan. And the only place we could find talent to
+                    pursue this in a sustained way was the analytic side of the Agency, because they
+                    have people stacked up there. I got Jim Spain, who turned out later to be
+                    ambassador in Turkey, in Tanzania, and in Sri Lanka, and Bill Barnes, who turned
+                    out to be a staff member of the Japan Society, but he was at the Agency at the
+                    time, and the three of us were able to do this. It was the first time that there
+                    had ever been a collective, careful policy study, not something that State
+                    Department people think about.</p>
+                <p>To be sure, four months later, India and Pakistan had a war, a contingency we had
+                    not taken into account. But these people had, as a result of that, thought about
+                    India and Pakistan together. At one time, the two American ambassadors were not
+                    on speaking terms! The American ambassadors couldn't even talk to each
+                    other...</p>
+                <p>So I don't like the abolition idea. I think that's foolish. I think we probably
+                    could cut it back. I think Casey was a disaster.</p>
+                <p>
+                    <hi rend="italics">Q: I think so, too.</hi>
+                </p>
+                <p>WRIGGINS: Oh, just a scandalous man. I mean, some of the things that happened at
+                    that time were just awful.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's one of the things that gives it a bad name,
+                        but there are so many other things that it doesn't seem to me to be worth
+                        the candle.</hi>
+                </p>
+                <pb facs="0033" n="Page0033"/>
+                <p>WRIGGINS: I know, it does a lot of us harm. And, of course, we get this game
+                    played in France just last week.</p>
+                <p>
+                    <hi rend="italics">Q: That's for internal French political purposes.</hi>
+                </p>
+                <p>WRIGGINS: Well, I know. And the French have been doing this to us for
+                    years.Anyway, I must say, when I was on Policy Planning, the analysts in the
+                    Agency were excellent. And I never had to know enough about the agency's
+                    operational side.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I guess that's a subject that you and I are not
+                        going to resolve.</hi>
+                </p>
+                <p>WRIGGINS: No, we certainly aren't.</p>
+                <p>But I am troubled by the sense that the Foreign Service is more like just the
+                    Civil Service than it used to be. And I feel that there's a conscious effort to
+                    make it like that.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's really too bad, because, of course, there was
+                        always the prestige, the elite group and all that, which I think it has lost
+                        to a great extent, partly because the Foreign Service has become a
+                        housekeeping administration for all the other agencies that are in the
+                        field, including the CIA.</hi>
+                </p>
+                <p>WRIGGINS: Yes, of course.</p>
+                <p>
+                    <hi rend="italics">Q: Mind you, a big part of what the Department of State does
+                        is to administer space abroad for other agencies. I mean, the FBI. I can't
+                        begin to tell you the number of agencies that operate abroad, the
+                        Immigration Service, the Foreign Agricultural Service...</hi>
+                </p>
+                <p>WRIGGINS: Somehow we have to, and I think we do, keep that administrative
+                    function. I was very impressed by what the administrative people were able to do
+                    in Sri Lanka. They sometimes left me breathless. There was one that I didn't do
+                    so well with, but on the whole, I think they were wonderful guys. It was
+                    incredible what they were able to do, under difficult conditions.</p>
+                <p>
+                    <hi rend="italics">Q: Particularly in all the developing countries, but even in
+                        the developed countries.</hi>
+                </p>
+                <pb facs="0034" n="Page0034"/>
+                <p>WRIGGINS: One thing I'd like to say for the record. I got involved in this
+                    biography of Jayawardene. And my Sri Lankan historian friend and I had, as I
+                    said, about 25 to 30 hours of interviews with him, while I was still ambassador.
+                    I look back on that, and that was a bit nutty... Herb Levin, my DCM, said,
+                    “Don't do it,”</p>
+                <p>
+                    <hi rend="italics">Q: Well, you found you could do it.</hi>
+                </p>
+                <p>WRIGGINS: Well, it was such a fascinating way of getting to know this man, his
+                    entourage and the country's inner workings, at least during that period.</p>
+                <p>
+                    <hi rend="italics">Q: Who is deSilva?</hi>
+                </p>
+                <p>WRIGGINS: He's a Sri Lankan, Professor K. M. deSilva's their leading historian,
+                    trained in Edinburgh; has written many books on Sri Lanka. He's had fellowships
+                    in numerous visits to Great Britain, Woodrow Wilson Center, USIP, etc. We'd been
+                    friends for years, and we'd collaborated on writing some essays before that,
+                    then we thought we could do this together.</p>
+                <p>
+                    <hi rend="italics">Q: Why not? You're on a par.</hi>
+                </p>
+                <p>WRIGGINS: Quite honestly, I would have found the Ambassadorial job intellectually
+                    very dull if I hadn't done something like this. So, from that point of view, it
+                    was interesting. But as a rule, I should think it is likely to make the
+                    ambassador/author identify too closely with the head of state.</p>
+                <p>
+                    <hi rend="italics">Q: Well, you had to get permission, didn't you, before you
+                        started?</hi>
+                </p>
+                <p>WRIGGINS: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Well, of course, this is obviously a very good way to get
+                        to know a lot more than you would otherwise.</hi>
+                </p>
+                <p>WRIGGINS: Yes, that's true.</p>
+                <p>
+                    <hi rend="italics">Q: I think perhaps if Howard Jones in Indonesia had the same
+                        approach to Sukarno, “Let us write your autobiography...,” He may have
+                        straightened out.</hi>
+                </p>
+                <pb facs="0035" n="Page0035"/>
+                <p>WRIGGINS: It came out all right, I think. I don't think it did any harm. But, of
+                    course, it did no harm because we had few major interests in Sri Lanka, after
+                    all.</p>
+                <p>
+                    <hi rend="italics">Q: There's no oil there.</hi>
+                </p>
+                <p>WRIGGINS: There's no oil there; there was no resources. There were beaches, and
+                    there were places for the navy crews to R&amp;R; as good as any in the Indian
+                    Ocean. And while I was there, there were never any political difficulties or
+                    incidents that came to my attention. Of course, if the Russians had gained
+                    control of the island, it would have been troublesome. In one sense, our
+                    interest was a preemptive kind of thing. And the original reason for my interest
+                    had been their working democracy, different as it is in fact from Great Britain
+                    or the US. And their voice at the UN has pretty consistently been on the side of
+                    good sense, mainly constructive from our point of view though often firmly in
+                    the Nonaligned corner.</p>
+                <p>In any event, when I began to do the same ceremonial things three times, I
+                    thought that maybe it was time to quit. To be completely honest, however, when
+                    the inevitable cable came saying time's up, I must own I tried to postpone the
+                    day a bit longer in order to carry forward more interviews with Jayawardene! But
+                    the Department insisted and so we came home via China, just as the Russians
+                    moved into Afghanistan.</p>
+                <p>Anyhow, I had a wonderful time. It pulled together so many threads, my experience
+                    with international politics and comparative politics of underdeveloped countries
+                    and the problems of political leadership. You know, it all came together.</p>
+                <p>
+                    <hi rend="italics">Q: Well, Howard, unless you have something else you'd
+                        particularly like to add for the record.</hi>
+                </p>
+                <p>WRIGGINS: I think that's about it.</p>
+                <p>
+                    <hi rend="italics">Q: We talked about your frustration. I don't think we talked
+                        about something you feel was a significant accomplishment on your time
+                        there, other than the biography.</hi>
+                </p>
+                <p>WRIGGINS: Well, in one sense, things went very well while I was there. It was
+                    really a piece of cake, because there were no problems. I mean, there were
+                    administrative problems. I was worried that there would be too many Americans
+                    running around. In the past, we'd seen what had happened to the shah, and we'd
+                    seen other places where the presence of Americans became so large as to be a
+                    liability...</p>
+                <p>
+                    <hi rend="italics">Q: Haile Selassie.</hi>
+                </p>
+                <pb facs="0036" n="Page0036"/>
+                <p>WRIGGINS: Haile Selassie, although I don't, well, okay, yes, Haile Selassie. So I
+                    was worried about that. And that didn't happen.</p>
+                <p>
+                    <hi rend="italics">Q: You were like Marshall Green. Poor Howard Jones puts up
+                        with Sukarno all those years and years. He finally gets shoved out of the
+                        way; he'd been there too long already. Marshall Green comes in. Within four
+                        months, there's a coup... Indonesia did not go Communist. Remarkable.</hi>
+                </p>
+                <p>Well, thank you very much, Howard, for this interview. We'll bring it to an
+                    end.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

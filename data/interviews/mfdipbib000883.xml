@@ -1,770 +1,1303 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000883">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Arthur Joseph Olsen </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Arthur Joseph Olsen </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>ARTHUR JOSEPH OLSEN</p>
-<p>Interviewed by:  Tom Dunnigan </p>
-<p>Initial interview date:  February 24, 1997</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Art has had a long career in the field of foreign affairs, unique in many cases, because he saw from both the journalist's perspective and from the diplomat's.  Art, why don't you start off by telling us something of your background and how you got interested in the field.</hi>
-</p>
-<p>OLSEN:  I was educated at Santa Clara University in California.  I became interested in journalism at that point, and I spent one year at the graduate school of journalism at Columbia University.  My journalistic career was interrupted by World War II.  So I spent close to four years in the Marine Corps.</p>
-<p>
-<hi rend="italics">Q:  Tell us a little about your service in the Marines.  Where were you?</hi>
-</p>
-<p>OLSEN:  I was mostly in the Pacific theater, central Pacific, primarily.  We made several landings during the years that I was out there.  I survived without any serious injuries or anything like that.  But some difficult times during that period.</p>
-<p>
-<hi rend="italics">Q:  Yes, there were some bloody campaigns there.  So, after your military career, you came back and became a journalist.</hi>
-</p>
-<p>OLSEN:  That's right, I came back to New York, where I had already been working for United Press for a few months before I went into the Marine Corps.  I went back to United Press, working in New York for about four years altogether, when I was hired by The New York Times to join their foreign staff.  So I became a foreign correspondent with The New York Times for the next 10 years abroad.</p>
-<p>
-<hi rend="italics">Q:  Tell me, do you get any training to become a foreign correspondent, or are you just hit on the shoulder and told you're a foreign correspondent, here you go?</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>OLSEN:  They look into your experience that you have.  There's no special training for it.  I guess they try to teach you on the job, so to speak.  That's the way that the Foreign Service works it for The New York Times.</p>
-<p>
-<hi rend="italics">Q:  Where did you go on your first foreign assignment?</hi>
-</p>
-<p>OLSEN:  Germany.  I spent two or three years there.</p>
-<p>
-<hi rend="italics">Q:  In Bonn, Berlin, or...</hi>
-</p>
-<p>OLSEN:  Bonn, with a lot of time spent in Berlin during the time of the Cold War era and the time leading up to the Berlin Wall situation.  I was in Warsaw for a few years.  Then I came back after three years in Warsaw, which was a kind of roving job in which I went to Eastern Europe and also the Soviet Union on short-term jobs of one type or another.  So I've had a lot of experience in Eastern Europe.</p>
-<p>
-<hi rend="italics">Q:  You certainly did.  And those were not happy days in Eastern Europe.</hi>
-</p>
-<p>OLSEN:  They were difficult times.</p>
-<p>
-<hi rend="italics">Q:  Difficult times.  Let me just ask, and you needn't answer this.  Did you get any particular scoops in your journalistic career that you're proud of?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>OLSEN:  Well, there was an interesting time when I was in Warsaw, for example.  Everybody was trying to figure out what Khrushchev was telling the story about what was going on in the Soviet Union during those years after Stalin.  During the winter of 1962, there was a major conference of Communist parties in Moscow.  And everybody expected that there was going to be some kind of a revelation about what was going on.  Gomulka and Cyrenkevich, who was his number-two man in the system, were the only two people who went from Poland to there.  Everyone was trying to get news about what was going on.  When the thing was over with, there had been a private talk, and I had a contact who told me what had happened to Beria during that time when he was finally brought down.  There was a pretty good story on that.  So I filed that off to The New York Times.  The Le Monde correspondent there, from other sources, got a similar story, so both of those were coming out at the same time.  Gomulka, I learned later on, was furious that this news was coming out.  And he ordered a big search to find out who in the hell had told this story.  Of course, I was not going to break down my source, and neither was John Wetz, the Le Monde guy.  But that caused a real ruckus within the party in Warsaw, and they wound up searching my house when I was absent, looking for documents of one type or another, which I never kept.</p>
-<p>
-<hi rend="italics">Q:  Let's hope they never found him, whoever the leaker was over there.</hi>
-</p>
-<p>OLSEN:  Anyhow, they ransacked my house.</p>
-<p>
-<hi rend="italics">Q:  That was certainly an interesting time in your career, I'm sure.  Did you have close contacts with our embassies while you were a correspondent?</hi>
-</p>
-<p>OLSEN:  Yes, very frequently I did.  I exchanged information with the embassies, particularly in Warsaw, and in Germany also quite a bit.</p>
-<p>After I finished my second tour in Germany, I was assigned to South America, to Argentina.  I was down there for a relatively short period of time, because I had been sort of recruited, so to speak, by the Foreign Service, saying why don't you join the team.  George McGhee, who was then the ambassador, was particularly one of those who was urging me on in this.</p>
-<p>
-<hi rend="italics">Q:  Oh, Ambassador McGhee was, eh?</hi>
-</p>
-<p>OLSEN:  He was.</p>
-<p>
-<hi rend="italics">Q:  The old boss.</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>OLSEN:  And that really led to my joining the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  Well, that's the other part of your career.  I'm glad you made the change, from our point of view, anyhow.  Did you make the decision while you were in Argentina, to move?</hi>
-</p>
-<p>OLSEN:  Yes, while I was in Argentina.  They had called me, so to speak, and said are you ready to come?  And so I said, yes, I'm ready.</p>
-<p>
-<hi rend="italics">Q:  How did they bring you in, as a lateral-entry FSO?</hi>
-</p>
-<p>OLSEN:  That's right, lateral entry, giving me the FSR II level.</p>
-<p>
-<hi rend="italics">Q:  Excellent.  That showed good judgment on our part.  Your first job in the State Department, I gather, was back in Washington, in the Bureau of European Affairs.</hi>
-</p>
-<p>OLSEN:  Exactly, yes.</p>
-<p>
-<hi rend="italics">Q:  And you were a public affairs officer for the bureau.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Who was our assistant secretary then?</hi>
-</p>
-<p>OLSEN:  John Leddy was.</p>
-<p>
-<hi rend="italics">Q:  What were some of the issues you faced in that job?</hi>
-</p>
-<p>OLSEN:  Almost as soon as I walked into the job, that was the time that De Gaulle took a walk on NATO.  He threw NATO out of France. ...everybody I knew who was in intelligence.  That was a real ruckus in terms of anxiety or chagrin, I would guess you'd call it.</p>
-<p>
-<hi rend="italics">Q:  Were we mad, or were we just resigned to it?</hi>
-</p>
-<p>OLSEN:  Mostly mad.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  Mostly mad, that's what I thought.</hi>
-</p>
-<p>OLSEN:  The one who was particularly mad was Bob Schaetzel.</p>
-<p>
-<hi rend="italics">Q:  Yes, because Schaetzel was building Europe in those days.</hi>
-</p>
-<p>OLSEN:  That's right, he was a real Monnet man from the start.  He was the one who really, really had smoke coming through his ears.</p>
-<p>
-<hi rend="italics">Q:  Even Bob, tall as he was, couldn't outmatch De Gaulle, I don't think, in that regard.  I imagine U.S.-French relations were an important part of your portfolio all the time you were in that job.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  But later we tried to repair things, I gather.  President Johnson wanted to smooth things over.  We didn't like the idea that we were being called hegemonists ... Europe, by De Gaulle.  That made us furious.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Did you have to prepare the daily press guidance for...</hi>
-</p>
-<p>OLSEN:  For Bob McCloskey, yes.</p>
-<p>
-<hi rend="italics">Q:  How about writing speeches, did you get into that?</hi>
-</p>
-<p>OLSEN:  Yes, I wrote a couple of speeches for Leddy and his successor.</p>
-<p>
-<hi rend="italics">Q:  Martin Hillenbrand.</hi>
-</p>
-<p>OLSEN:  And then, later, Walt Stoessel.</p>
-<p>
-<hi rend="italics">Q:  In other words, you were never far away from your typewriter in those days, I'll bet.</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>OLSEN:  Right.</p>
-<p>
-<hi rend="italics">Q:  Then there was the meeting in 1967 with the President and Kosygin up at Glassboro.  Were you in on that or not?</hi>
-</p>
-<p>OLSEN:  I was not present at that, no.</p>
-<p>
-<hi rend="italics">Q:  But I'm sure there were questions you had to answer as time went on.  And we signed a consular treaty there, beginning to thaw things a little bit.  Then, of course, there was, in '68, the invasion of Czechoslovakia, which set things back quite a bit.  How did that impinge on what you were doing?</hi>
-</p>
-<p>OLSEN:  Not very directly, because the reaction was in Czechoslovakia, not very much in Washington.  We were sort of bystanders, so to speak.  And so I didn't have a very active participation in that event.</p>
-<p>
-<hi rend="italics">Q:  Again, we were mad, but weren't going to do anything about it, I guess.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Now did you get involved at all in the 1968 election campaign, the Nixon-Humphrey fight?  Did foreign policy play much of a role there?  Of course, Vietnam was the big issue.</hi>
-</p>
-<p>OLSEN:  I would say that I didn't have very much involvement in that.  I'm trying to think of any particular insights.  I remember escorting some foreign journalists to meet with McNamara, for example, that kind of activity, which bore upon 1968 and that period.  So that's the kind of work that I was doing at that time.</p>
-<p>
-<hi rend="italics">Q:  We were under some criticism from foreign journalists in those days, too.</hi>
-</p>
-<p>OLSEN:  We sure were.</p>
-<p>
-<hi rend="italics">Q:  Particularly, McNamara.  Then there was the change of administration, when Nixon took over from Johnson.  Did that affect you in any way in what you were doing?</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>OLSEN:  Naturally, it did, very severely, because McCloskey was long in the job, and he was eager to move on.  He stayed with Rusk right to the end, but when Rogers came in, he saw that as an opportunity to move on himself.  Bob decided that I would be the proper successor for him, and he proposed me to Rogers.  So I had a couple of meetings with Rogers, and he said, “Okay, we'll go ahead with you.”</p>
-<p>
-<hi rend="italics">Q:  Well, congratulations.</hi>
-</p>
-<p>OLSEN:  Then came the firestorm, so to speak, because Goldwater, who had been the candidate of the Republicans in 1964, was attacked by the Democrats as an extreme conservative.  At that time, in '64, I was working for The New York Times in Bonn.  So I knew that there was a contact going on between the far right, the Sudeten-German-type crowd, who were enthusiastic about the conservative movement in the United States, and they were involved in... correspondence with the Goldwater team.  And so I was present at a luncheon in which one of these members of the Adenauer cabinet was the guest of honor, and he was a Sudeten type.  And he was kind of boasting about... Goldwater and his friends.  So I wrote a story, a sidebar kind of story, because what was really happening was in San Francisco.  But The Times had this piece, which the Democrats picked up on.  They used that to...</p>
-<p>
-<hi rend="italics">Q:  Prove that Goldwater was an extremist.</hi>
-</p>
-<p>OLSEN:  Was an extremist.  So Goldwater never forgot.  So, four years later, when I was about to become a spokesman for the Department, Goldwater blew a whistle on me.  The White House said they've got a real problem with this guy.  And there was considerable back and forth as to what they were going to do about this.  Rogers backed off and said...</p>
-<p>
-<hi rend="italics">Q:  The long arm of revenge, eh?</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Well, that's too bad, because I think you would have done a great job there as spokesman.</hi>
-</p>
-<p>OLSEN:  Anyhow, that made a big flap in the paper...</p>
-<p>
-<hi rend="italics">Q:  Absolutely.  Early in his administration, President Nixon made a trip to Europe, sort of touching base at the capitals of Western Europe.  Did you go along on that?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>OLSEN:  No.</p>
-<p>
-<hi rend="italics">Q:  Obviously, you were holding it very closely at the...  About that time, Willy Brandt came out with his Ostpolitik.  Did we welcome that at first, or were we a little hesitant?</hi>
-</p>
-<p>OLSEN:  I think we were a little hesitant.</p>
-<p>
-<hi rend="italics">Q:  That was my recollection, too.  We embraced it later, when it was successful.</hi>
-</p>
-<p>OLSEN:  That's correct.</p>
-<p>
-<hi rend="italics">Q:  At that moment, for the Nixon administration to grasp onto this would have been difficult.  And the Warsaw talks were going on at this time, too, between our ambassador, Walt Stoessel, and the Chinese.  Was that handled through EUR or through the Far Eastern people, or did you backstop us?</hi>
-</p>
-<p>OLSEN:  No, it was EUR, because it was EUR through Stoessel to the States.</p>
-<p>
-<hi rend="italics">Q:  I see, okay.</hi>
-</p>
-<p>OLSEN:  The meeting took place in Warsaw, with Jake Beam primarily the talk man.  And then Rogers was... his people would fly down from Stockholm to...</p>
-<p>
-<hi rend="italics">Q:  Participate.</hi>
-</p>
-<p>OLSEN:  Participate or to brief the team on what he wanted them to say.  So back and forth between Stockholm and Warsaw and then Stockholm... and DC</p>
-<p>
-<hi rend="italics">Q:  Did we ask our press attach� in the embassy in Warsaw to handle the press there?</hi>
-</p>
-<p>OLSEN:  It was very tight.  I knew it was taking place, but there was no briefing afterwards.</p>
-<p>
-<pb facs="0009" n="Page0009"/>
-<hi rend="italics">Q:  And then, in the midst of all this, we had the De Gaulle resignation, which caused some fluttering in the dovecote, I know.  We weren't quite sure what was going to happen after that.  And the president made a trip to Bucharest, Romania, which surprised some people, because the president didn't go to Communist countries very often, but he did that.  And it was about that time that the Warsaw Pact countries began their drumbeat for an all-European conference.  I gather, at the time, we were not at all enthusiastic about that idea, either.</hi>
-</p>
-<p>OLSEN:  That's right, we were not.</p>
-<p>
-<hi rend="italics">Q:  I remember being overseas and getting our instructions to damp down the enthusiasm for this.  They weren't at all sure it was a good idea.  I guess another question I have to ask you is, was our European policy run by Henry Kissinger out of the White House at that time?  Did we have much independence at the Department to do things?</hi>
-</p>
-<p>OLSEN:  Kissinger, as you know, was a heavy-handed operator.  He understood his job.  When he was in the National Security Council, he really took over from Rogers, who was a nice fellow who handled things nicely, but he was never in Nixon's inner circle.  Kissinger was, in many respects, running the Department.</p>
-<p>
-<hi rend="italics">Q:  So you had to watch what the White House press spokesman was saying, among other things, I imagine.  Or perhaps you were told sometimes what he expected you to say.</hi>
-</p>
-<p>OLSEN:  There's one little anecdote.  It was decided in the Department that there should be an annual assessment of what we had accomplished during the past year.  And so the idea was to develop a book, sort of a history account of what went on.  I was involved quite a bit in developing some of the chapters on this thing.  Kissinger got wind of what Rogers was up to with this... of what we'd accomplished, and he got into it himself.  He had charged over at the top...</p>
-<p>
-<hi rend="italics">Q:  I'll tell you what we've accomplished.</hi>
-</p>
-<p>OLSEN:  He created his own thing.  So our efforts were never really taken very seriously, because Kissinger had overrun us.</p>
-<p>
-<hi rend="italics">Q:  Were you still there when President Pompidou paid his visit, sort of restoring our relations again?</hi>
-</p>
-<p>OLSEN:  I can't remember that I was involved in any...</p>
-<pb facs="0010" n="Page0010"/>
-<p>
-<hi rend="italics">Q:  And how about demonstrations.  Were there many around the Department in those days that concerned you?  This was the era of demonstrations.</hi>
-</p>
-<p>OLSEN:  First of all, after I was shot down on the spokesman job, Rogers was a little bit unhappy about it, because I was thinking I was going to leave the Department.  Rogers said, “Don't do it.  Please don't do it.  We'll give you another job.  What would you like to do?” So he had a EUR kind of a checklist about what possible jobs that they had.  And one of them was political counselor in Stockholm.  And so I agreed to take that.  So Rogers moved ahead then and moved me into there.  The other man was about to leave, so it was not a question of pushing the guy out.</p>
-<p>
-<hi rend="italics">Q:  I'm glad you raised that, because I was about to ask you how this came about, whether you asked for Stockholm.  But it was really due to Senator Goldwater doing you in that you got to Stockholm.  One last question about your service back in the Department before we get into the Stockholm era.  Was there any effect on what you were able to do, or the bureau, any effect of the Vietnam War, which was raging at the time you were there?</hi>
-</p>
-<p>OLSEN:  I was detailed to head a sort of team of, I guess, three of us, four maybe, to travel around the country and talk to universities, that kind of thing, and to argue the Vietnam case.  I would be the political side of this thing, so to speak.  I had a partner who was talking about creating an infrastructure sort of helping out the South Vietnamese to create this sort of a solid system...  So, anyhow, we were...</p>
-<p>
-<hi rend="italics">Q:  Would you have a military colleague along, or how did you field those questions?</hi>
-</p>
-<p>OLSEN:  I had a hard time, believe me.</p>
-<p>
-<hi rend="italics">Q:  No military colleague with you.</hi>
-</p>
-<p>OLSEN:  I had one, you're right, there was one military fellow, who talked about the military missions, specifically.  Anyhow, we traveled the country for about six months or maybe a year, in which I would be going out for 10 days then come back and go out again.</p>
-<p>
-<hi rend="italics">Q:  Did you run into much hostility as such?</hi>
-</p>
-<p>OLSEN:  Sure, a lot.</p>
-<pb facs="0011" n="Page0011"/>
-<p>
-<hi rend="italics">Q:  Where was it worst?  Or is that easy to say?</hi>
-</p>
-<p>OLSEN:  I think the northeast was the toughest.</p>
-<p>
-<hi rend="italics">Q:  The Ivy League area.</hi>
-</p>
-<p>OLSEN:  Yes.  And the Midwest was a little bit less on the attack, as opposed to the East.</p>
-<p>
-<hi rend="italics">Q:  Was this after the Kent State shooting and so forth or before that?</hi>
-</p>
-<p>OLSEN:  Before that.</p>
-<p>
-<hi rend="italics">Q:  It probably would have been even worse afterwards.</hi>
-</p>
-<p>OLSEN:  I think so.</p>
-<p>
-<hi rend="italics">Q:  Well, I think that pretty well sums up your first tour in the Department.  Anything else you'd like to add about those years?</hi>
-</p>
-<p>OLSEN:  We talked about the demonstrations and so forth.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>OLSEN:  I left there in '71 to go to Stockholm, so it was just at the time when those demonstrations were beginning.  I was gone by then, but I remember particularly my wife ... kept her behind for several months to drive up.  And that was when they were marching through the streets and making a hell of a noise.  So that was a rough time.</p>
-<p>
-<hi rend="italics">Q:  I was overseas then, so I didn't see it in '71.  I remember the riots in '68, but that was different.  Well, so you went to Stockholm to our embassy there.  Who was the ambassador when you arrived?</hi>
-</p>
-<p>OLSEN:  Brud Holland [Jerome H. Holland], a black man.</p>
-<p>
-<pb facs="0012" n="Page0012"/>
-<hi rend="italics">Q:  From Cornell, a football player?</hi>
-</p>
-<p>OLSEN:  That's right, he was an All American football player.</p>
-<p>
-<hi rend="italics">Q:  Had he been a success as ambassador?</hi>
-</p>
-<p>OLSEN:  He did a pretty good job.  They gave him a hard time at the start.</p>
-<p>
-<hi rend="italics">Q:  Oh, I can imagine, yes.  Why, because of his color, or because of our policies?</hi>
-</p>
-<p>OLSEN:  Both.  He spoke up strongly in favor of Nixon and his policies and so forth.  The activists jumped on him pretty hard, calling him Nixon's nigger and that kind of thing.  But he started off pretty well, and he made some friends.</p>
-<p>
-<hi rend="italics">Q:  Good.</hi>
-</p>
-<p>OLSEN:  He was not a political ambassador; he was sort of a PR ambassador.  He did a pretty good job at that.</p>
-<p>
-<hi rend="italics">Q:  I think it would have been hard on anybody being ambassador in Sweden at that time, as you yourself experienced later.  And the DCM was...</hi>
-</p>
-<p>OLSEN:  John Guthrie.</p>
-<p>
-<hi rend="italics">Q:  John Guthrie, oh, yes, I knew him.  OLSEN:  Brud Holland resigned in September of 1972.  The Nixon team hadn't made up their mind what they were going to do about who the ambassador should be.  At the same time, the Swedes were finishing up with their ambassador, who had been here for several years and was retiring.</hi>
-</p>
-<p>
-<hi rend="italics">Q:  Out of Washington.</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>OLSEN:  Out of Washington.  So there were no ambassadors there for about three months, in both directions.  It was not because anybody was holding it up, but because no one was getting around to...  And so John Guthrie was charg�.  Finally, they decided, toward the end of '72, that they were going to exchange ambassadors.  Or at least Sweden was; they were ready to go ahead.  I'm not sure how far we were.</p>
-<p>
-<hi rend="italics">Q:  We hadn't asked for agr�ment for anyone?</hi>
-</p>
-<p>OLSEN:  No.  So Guthrie had decided to take a Christmas leave.  He left the embassy probably about the 15th or so of December, and went to Washington to stay with friends.  He was spending the holidays there.</p>
-<p>
-<hi rend="italics">Q:  Leaving you in charge in Stockholm.</hi>
-</p>
-<p>OLSEN:  Leaving me in charge, because I was the next guy in line.  At that time, the negotiations with the Vietnamese, in Washington and in Paris, had all kind of come to a stall.  ... we almost got the deal, but it broke down.</p>
-<p>
-<hi rend="italics">Q:  Oh, that was the light-at-the-end-of-the-tunnel time, wasn't it?</hi>
-</p>
-<p>OLSEN:  That's right.  And so the reaction of the U.S. government was to resume the war, and particularly to bomb Hanoi.  That was about the 19th of December or something like that.  Palme, who was...</p>
-<p>
-<hi rend="italics">Q:  Palme being the Swedish prime minister at the time.</hi>
-</p>
-<p>OLSEN:  The Swedish prime minister, exactly.  He was one who took an active view of all these events.  And so when they began the bombing of Hanoi, Palme went on the TV to denounce this.  He likened the Nixon bombing of Hanoi to Ouradour and other Nazi outrages.</p>
-<p>
-<hi rend="italics">Q:  The Holocaust, in other words.</hi>
-</p>
-<p>OLSEN:  The Holocaust, yes.  Reuters put in a thing about what he had said.  Our political officer, Paul Storing at that time, had a kind of a habit of recording important statements by the prime minister, particularly in this case when Palme was talking about Christmas and so forth.  So he was recording this speech.</p>
-<p>
-<pb facs="0014" n="Page0014"/>
-<hi rend="italics">Q:  You had it on tape, in other words.</hi>
-</p>
-<p>OLSEN:  That's right.  And so, back in Washington, actually Nixon was down in Florida at that time, when they saw this thing on the Reuters, they were inflamed.  Nixon got Kissinger on the horn and said, “Pull our ambassador out of that place.”</p>
-<p>Kissinger said, “We don't have one.”</p>
-<p>Nixon said, “Pull out the charg�.”</p>
-<p>... authority... “tell him to stay there.” And so he said, “Well, get the guy out of there.”</p>
-<p>And Kissinger said, “Well, we're kind of down...  We'd better just stand where we are.”</p>
-<p>And so I wound up as the charg�.</p>
-<p>
-<hi rend="italics">Q:  That's how you became our man in Stockholm, was it.</hi>
-</p>
-<p>OLSEN:  That's right.  They wouldn't let Guthrie come back, and they wouldn't let the Swedes send their new ambassador.  And, almost for two years, I wound up as charg� d'affaires.</p>
-<p>
-<hi rend="italics">Q:  Yes, I remember, you had a long period as charg� there.  And relations were pretty much frozen, in effect.  Was there much antipathy toward Americans from the average Swede?</hi>
-</p>
-<p>OLSEN:  No.  No, there were two ways you could handle this kind of thing.  You could circle the wagons, so to speak, and just hope that things would go away.  Or take the other view, which was to have an active embassy and make contact with all kinds of people.  That's what I decided to do.</p>
-<p>
-<hi rend="italics">Q:  The Swedes were willing to talk and relate with you and so forth.</hi>
-</p>
-<p>OLSEN:  That's right.  And so I had a good number of friends among the Swedes, including the guys from the Foreign Office.  Willy Wachtmeister was the number-three man in the Swedish Foreign Service.  I forget his title.  Anyhow, he was my basic interlocutor.</p>
-<p>
-<hi rend="italics">Q:  Later ambassador here.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>OLSEN:  That's right.  He was finally made the ambassador here.  When the ice broke, he was the ambassador who was sent.</p>
-<p>
-<hi rend="italics">Q:  Did you ever have to talk to Palme or not, or get a chance to?</hi>
-</p>
-<p>OLSEN:  I had a kind of a curious situation in which there was a young man, whose name I forget now, who was kind of the aide-de-camp of Palme.  You know, he was kind of his gofer, so to speak.  He was a young guy whom I had met along the way, before he had that particular job.  So I thought, well, I might as well maintain this contact with this guy, now that he's with Palme's office.  So I would call him up and say I'd come around and have a chat with him.  And so I'd do that from time to time, maybe once a month or six weeks or something like that.  I never got anything that was truly news out of him, but...</p>
-<p>
-<hi rend="italics">Q:  Kept it open, the pipeline.</hi>
-</p>
-<p>OLSEN:  I kept it open.  And Palme, once or twice, strode in from his office from across the door and walked in there when I was sitting there talking to I forget his name.  So he sat down there and he wanted to talk.  And so he talked not so much about U.S.-Soviet relations, but other issues of one type or another.  You know, what he thought was happening in the Soviet Union, from our point of view, that kind of...</p>
-<p>
-<hi rend="italics">Q:  Well, he had good sources there, I'm sure.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  The Swedes always have had.</hi>
-</p>
-<p>OLSEN:  And he also was interested in American politics and wanted to know how things were going.  Anyhow, once or twice, I met Palme like that, because otherwise I never was allowed to get anywhere near him.</p>
-<p>
-<hi rend="italics">Q:  Did you go around making speeches in the country?  Were you asked by anybody?  Or was USIA able to send you out?</hi>
-</p>
-<p>OLSEN:  No, I didn't do any of that kind of thing.</p>
-<p>
-<pb facs="0016" n="Page0016"/>
-<hi rend="italics">Q:  Did anybody on the staff?  In most countries, you know, in friendly countries, in western Europe, we're deluged by speech invitations.</hi>
-</p>
-<p>OLSEN:  I think the USIA, particularly the cultural attach�, he was pretty active in doing the rounds and doing that kind of thing that you're talking about.  And Jodie Lewinsohn, who was public affairs officer.  We didn't have a counselor there.</p>
-<p>
-<hi rend="italics">Q:  A public affairs officer, probably.</hi>
-</p>
-<p>OLSEN:  She ran a very active... bringing in American speakers and performers.</p>
-<p>
-<hi rend="italics">Q:  Good.</hi>
-</p>
-<p>OLSEN:  Operation.</p>
-<p>
-<hi rend="italics">Q:  Very important, I think.</hi>
-</p>
-<p>OLSEN:  Her office was attacked a couple of times, with broken windows and that kind of stuff.  But she, with my encouragement, had a... The Fulbright exchanges and the cultural exchanges back and forth continued exactly as they had been before.  Anyhow, travel grants were continued, and I regarded those as the most useful exchanges that we ever had.  A number of these people who became prime ministers, Carl...  for example, were among those who were on the list.</p>
-<p>
-<hi rend="italics">Q:  We try to pick out the comers.</hi>
-</p>
-<p>OLSEN:  Exactly.</p>
-<p>
-<hi rend="italics">Q:  Did you have a problem with deserting American soldiers who made their way into Sweden?</hi>
-</p>
-<p>OLSEN:  Not really.  Occasionally, one or two of them would come around to the embassy to talk to us.  But, by and large, we didn't try to harass them in any respects.</p>
-<p>
-<hi rend="italics">Q:  When they came around, were they received by the military attach�, or by one of the political officers?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>OLSEN:  I think, usually, we used the political officer.</p>
-<p>
-<hi rend="italics">Q:  But they didn't cause any trouble to the embassy.</hi>
-</p>
-<p>OLSEN:  Not at all, no.</p>
-<p>
-<hi rend="italics">Q:  We had them occasionally in Denmark, but generally they were on their way to Sweden, because the Danes, being a NATO country, would send them back to their units.  Now there was an election in 1973 that was fairly well deadlocked, I gather, between the powers, and it threatened the Socialists, who'd been in power for many years, I believe, in Sweden.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Could you say a word about that and the effect it had.</hi>
-</p>
-<p>OLSEN:  The Socialists were somewhat in trouble during that period of time.  As you pointed out, the thing was almost a deadlock, and they depended upon some Communist votes to help them make it through.  The centralist crowd, which used to be sort of marginal, was coming on strong under this young politician, Falldin, who eventually, years later, became prime minister.  But, anyhow, this centralist group represented a significant opposition to the Palme regime.</p>
-<p>
-<hi rend="italics">Q:  More friendly to our point of view on things, or not?</hi>
-</p>
-<p>OLSEN:  I used to talk to Falldin, who was not very much interested in foreign affairs, and so he was not interested in talking about Vietnam and that kind of stuff.  He was a country boy, and he was interested in his own country and not in anybody else's.</p>
-<p>
-<hi rend="italics">Q:  Not unknown among politicians.</hi>
-</p>
-<p>OLSEN:  I tried to get him to travel to the United States, but he didn't want to go.</p>
-<p>
-<hi rend="italics">Q:  Were you there when Ambassador Strausz-Hup� came?  Tell us a little bit about that and how that worked out.</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>OLSEN:  Okay.  That was when the ice broke and Henry... decided they were going to have an ambassador here.  Strausz-Hup� then was the ambassador of Belgium, so they chose him to be the man who would open things up.  I went down to Brussels to sort of brief him on the situation and how things were going and so forth.  Then I returned, and he brought with him his DCM.</p>
-<p>Okay, that's the end of my tour in Sweden.  And, curiously, it was a kind of a trade-off, so to speak, because I was sent down to Brussels to be the political counselor there.</p>
-<p>
-<hi rend="italics">Q:  Was that an assignment you asked for?</hi>
-</p>
-<p>OLSEN:  There were some options they offered me, and I thought that was a better one.</p>
-<p>
-<hi rend="italics">Q:  Who was the ambassador when you arrived there?</hi>
-</p>
-<p>OLSEN:  Leonard Firestone.  He arrived almost identically with me, and with our new DCM there.</p>
-<p>
-<hi rend="italics">Q:  Who was the DCM, by the way?</hi>
-</p>
-<p>OLSEN:  John Renner.</p>
-<p>
-<hi rend="italics">Q:  John Renner, oh yes.  Well, what were the issues that you faced when you got there as political counselor in Brussels?</hi>
-</p>
-<p>OLSEN:  We didn't have any serious issues.  We had a big problem about organizing the embassy, because there were some real problems with the administrative section, the people who had been there.  They brought in a new admin. counselor, and there was a kind of a housecleaning.</p>
-<p>
-<hi rend="italics">Q:  So everybody was new in the top echelons of the embassy.</hi>
-</p>
-<p>OLSEN:  That's right, including most of my staff as the political counselor.  Two of them arrived at the same time I did, and the one who was there left about the same time.  Anyhow, we had...  in those days, but, as you pointed out, we didn't have any really significant...</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q:  Bilateral relations.</hi>
-</p>
-<p>OLSEN:  Bilateral problems at all.</p>
-<p>
-<hi rend="italics">Q:  I wanted to ask you what were the complications of having three American missions in one city — the Common Market, NATO, and the embassy?</hi>
-</p>
-<p>OLSEN:  Well, you know, the embassy was number one in the pecking order.  I think NATO was probably looked upon as number two, and the EC ambassador was number three.</p>
-<p>We did have a little problem about who was in charge of making big decisions.  For example, we would get a major visitor from the State Department.</p>
-<p>
-<hi rend="italics">Q:  Or a senator.</hi>
-</p>
-<p>OLSEN:  Or a senator or something like that.  And the embassy was the one that took charge of these kinds of things.  Actually, we never had any serious difficulties, but we did have to...</p>
-<p>
-<hi rend="italics">Q:  Coerce.</hi>
-</p>
-<p>OLSEN:  Kind of negotiate with...</p>
-<p>
-<hi rend="italics">Q:  Well, and it also depended upon the chiefs of mission in each one, too.  Some are a little more sensitive than others about these matters.  Speak a little bit about the corrosiveness of the language problem in Belgium, and how that affected things that you did and what was going on.</hi>
-</p>
-<p>OLSEN:  Almost all Belgians were able to speak English, particularly the Flemish, because, for them, that was more important... Flemish...  And they didn't much like to speak French, but some of them had to do so.  Now, on the French side, the Walloons, they are kind of like the French, they like to speak French.  You know, I was about a Class III French-speaker, which means you could carry on an ordinary conversation, but you can't really negotiate big business.  So I had some contact with the French side of the game.  But I had one political officer, Andre Havez, who was brought up speaking French, and so he was a really first-hand French-speaker in the embassy.  The others were like myself, or maybe a little better than that... French.  But I can also say that most of the people that I dealt with at the high levels tended to be good English-speaking types.  So that's the way things worked.</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  Yes.  Did military sales take much of your time?</hi>
-</p>
-<p>OLSEN:  Oh, yes, particularly during the whole period of time they were selling the F-16s.  John Renner took that to be his own problem.  There was an awful lot of going back and forth.  The MAG people were there, working hard on the job.  It took an awful lot of time up for the embassy to carry on these negotiations.</p>
-<p>
-<hi rend="italics">Q:  Meanwhile, the Belgians are keeping an eye on what the Dutch were doing, I know, and vice versa, so that they went in that together.</hi>
-</p>
-<p>OLSEN:  Exactly.</p>
-<p>
-<hi rend="italics">Q:  Were you there when the Lockheed scandal broke?  Do you remember, there was...  Certainly, in Holland, Prince Bernhard was taking money.  And I gather, in Belgium, there was somewhat the same situation.</hi>
-</p>
-<p>OLSEN:  Not exactly, no.  At least not when I was there.</p>
-<p>
-<hi rend="italics">Q:  Did you have to deal any with Belgium's colonial problems?</hi>
-</p>
-<p>OLSEN:  A little bit.  Mobutu had a residence in Brussels, and he spent some time there.  The Belgian Foreign Ministry had a major officer whose whole job was to deal with the Belgian situation.  And I was also was in a relation with him.  I never met Mobutu.  I met some of his henchmen.  So, yes, there was some back and forth, particularly regarding the misuse of funds and that kind of thing.  We were instrumental in finding a German specialist in financial affairs, who was invited to go down there and look over the books and see if he could straighten things out.  He was down there for about six months or a year.  He came back and said, “You can't do anything with this crowd.  There is no way in which you can balance the books or anything like that.” So he resigned.</p>
-<p>
-<hi rend="italics">Q:  We're talking about a period 20 years ago, and I gather things haven't changed that much in that regards.</hi>
-</p>
-<p>OLSEN:  I think you're quite right.</p>
-<p>
-<hi rend="italics">Q:  During the course of your tour, you moved up to become DCM in Brussels.  How did this happen?  Tell me a little about that.</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>OLSEN:  It was getting toward the end of my three-year tour, and I was about to be relieved.  The new ambassador succeeding Len Firestone was a lady ambassador.</p>
-<p>
-<hi rend="italics">Q:  Mrs. Chambers.</hi>
-</p>
-<p>OLSEN:  She did not get on well with John Renner.  He made some mistakes in terms of handling...</p>
-<p>
-<hi rend="italics">Q:  I've always thought, Art, to interpose, it isn't the ambassador's duty to get along with the DCM, it's rather the reverse.  Excuse me for interpolating.</hi>
-</p>
-<p>OLSEN:  Do you want me to talk...</p>
-<p>
-<hi rend="italics">Q:  Of course.</hi>
-</p>
-<p>OLSEN:  Well, she flew into Paris, and then she was going to stay there for a day or so, and then come in by train...</p>
-<p>
-<hi rend="italics">Q:  Good idea.</hi>
-</p>
-<p>OLSEN:  To Brussels.  There was the annual, or biannual, air show going on at that time.</p>
-<p>
-<hi rend="italics">Q:  In Paris.</hi>
-</p>
-<p>OLSEN:  Renner was acting charg� at that time, because Firestone had left, and she hadn't quite arrived yet.  And so he went down there to represent the United States at the air show.  He was very, very pleased to be doing that.  He didn't tell Mrs. Chambers anything about it.</p>
-<p>
-<hi rend="italics">Q:  And she was in Paris at the time?</hi>
-</p>
-<p>OLSEN:  That's right.  She arrived in Paris when he was down there, and he didn't bother to get in touch with her.  So she took the train up.  And so I mobilized the whole embassy.  We all got...</p>
-<p>
-<pb facs="0022" n="Page0022"/>
-<hi rend="italics">Q:  Go down and meet her at the station, yes.</hi>
-</p>
-<p>OLSEN:  At the station, we all were standing there, 10 people in a row, to greet her.  But Renner was not there.  So I rose to the occasion and escorted her into the embassy, and had her meet the staff who were there, and got things organized a little bit.  So she settled in.  Renner showed up about two days later, I guess, when the air show was over with.  When she found out that she had been bypassed, she didn't like that at all.  Furthermore, as time went by, a very short period of time, he was managing the embassy before she got there.  And he realized that she was not an experienced diplomat, so he thought, well, I'll continue to run the embassy, and she can do as she wishes...</p>
-<p>
-<hi rend="italics">Q:  As long as she agrees, that's fine.</hi>
-</p>
-<p>OLSEN:  Yes, well, she didn't like the idea that he was going to run the store.  I was having a farewell party; I was going to be leaving.  It was an evening party, and I got a phone call about 10 o'clock, from her, and she said, “You are my new DCM.”</p>
-<p>
-<hi rend="italics">Q:  I haven't had a drink, have I?  Well, bowl me over.</hi>
-</p>
-<p>OLSEN:  It really did, because here I am, saying farewell.  There was a kind of an embarrassment, I must say.  Anyhow, she got rid of Renner, to put it in a hard way.</p>
-<p>
-<hi rend="italics">Q:  It's not surprising.  Art, you've had two non-career ambassadors you worked for in Brussels, Leonard Firestone and Anne Cox Chambers.  Discuss how effective they were, and contrast them, and their relation to the Belgians, and what they were sent there to do.</hi>
-</p>
-<p>OLSEN:  Leonard Firestone knew that he was not an experienced diplomat, and he relied heavily upon Renner and myself, in particular, to help him...  He was pleased to see that we were carrying him along and making sure that he was out in front at all times.  He dismissed a couple of people that he thought were not up to it.  One of them was the military attach�.  I guess he just didn't take a liking to him; I'm not sure why.  He wasn't doing any harm.  Anyhow, Firestone was a pleasant, friendly fellow, who was ready to talk to the Belgian people and officials and people like that, particularly those who could speak English.  So we got along quite well.</p>
-<p>
-<hi rend="italics">Q:  So he'd meet with the prime minister and foreign minister and people like this.</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>OLSEN:  Yes, he could get along with people.  He was a cordial gentleman, so there weren't any real problems at all.</p>
-<p>Anne Chambers was a little different.  She wanted to be seen as the boss, and she made sure that the admin. counselor and the econ. counselor and myself, particularly, her...</p>
-<p>
-<hi rend="italics">Q:  Her team, in other words.</hi>
-</p>
-<p>OLSEN:  Her team were just kind of holding her up.  So she was very active and... things like bringing in her friends from Atlanta and that kind of stuff.  And she had some rather dubious friends, dubious from our point of view, friends who were around the embassy.  One of them I ... can't stay here any longer.  He wasn't cleared for any classified stuff or anything like that, so we didn't want him around at all.</p>
-<p>
-<hi rend="italics">Q:  Did she accept that?</hi>
-</p>
-<p>OLSEN:  She accepted it.  I tried to explain to her that you really can't... a person like that.  She understood that.</p>
-<p>
-<hi rend="italics">Q:  She had a journalistic background, hadn't she?</hi>
-</p>
-<p>OLSEN:  Oh, she was a Cox.</p>
-<p>
-<hi rend="italics">Q:  Of an Atlanta newspaper chain there, the Cox newspaper.  Had she been active in journalism herself, or only on the owner's side?</hi>
-</p>
-<p>OLSEN:  She was... the owner, but she was also kind of a hands-on owner, because she inherited this Cox Communications, which is a huge... position.  She was a millionaire, I would say.</p>
-<p>
-<hi rend="italics">Q:  I guess my question was, did she take a particular interest in what USIS was doing and our public relations aspect there?</hi>
-</p>
-<pb facs="0024" n="Page0024"/>
-<p>OLSEN:  To some extent, the answer is yes.  The cultural counselor, for example, kind of stepped forward and kind of led her around in the cultural world.  So she did pretty well on that.  She was not terribly interested in making friends with people at the Foreign Office, for example.  I can think of one or two who she kind of struck a friendship with...  But, by and large, in things like the big negotiating on the F-16, that kind of stuff, she didn't want a hand in that in that.  But she was watching what was going on.</p>
-<p>
-<hi rend="italics">Q:  She wanted to know what you were doing.  Did she go around the country making a speeches, or was she asked to?</hi>
-</p>
-<p>OLSEN:  She was asked to, but she couldn't do it in French.  In Public Affairs, she was a constant...  and told that she had French, and so he came by and spoke to her in French.  And we found out that she was pretty weak in French.  She had learned it 23 years ago, and didn't have much.  And so he said to somebody, which she overheard had been... to her, that she was not useful as a French speaker at all.  She didn't like that one bit.  And so it didn't take very long for her to say, on your way.  She threw him out.</p>
-<p>
-<hi rend="italics">Q:  Things were taken personally there.</hi>
-</p>
-<p>OLSEN:  That's right.  She was used to running a big store, and she was not up to being maltreated.</p>
-<p>So, anyhow, I stayed... for most of my three-year tour as the...</p>
-<p>
-<hi rend="italics">Q:  In 1978, President Carter paid a visit to Belgium.</hi>
-</p>
-<p>OLSEN:  Yes, he did.</p>
-<p>
-<hi rend="italics">Q:  Can you say something about that?</hi>
-</p>
-<p>OLSEN:  Yes.  President Carter had an entourage who were basically not very experienced in traveling abroad, but he brought him with him anyhow.  And there were a few interesting contretemps.  He went first to France, and he went out to the Normandy area.  This was in January, I think, when he made this tour.  He went out there with Giscard D'Estaing.  Giscard knew it was cold, so he had a heavy coat on.  Carter was there just in a suit, and he was freezing.  The next stop was Belgium, and he was greeted at the airport.  By then, the weather had changed quite a bit.  But he wasn't about to make any more mistakes, so he was there with a heavy coat, and everybody else was...  That was a kind of a curious thing.</p>
-<pb facs="0025" n="Page0025"/>
-<p>Anyhow, I had two experiences.  One was Nixon's last trip before he got brought down.  He was just traveling around Europe.</p>
-<p>
-<hi rend="italics">Q:  This was Nixon coming to Brussels, I guess.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  On that famous last tour he made.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  In '74.</hi>
-</p>
-<p>OLSEN:  That's right.  And so I was one of those who was standing in the line, so to speak, greeting him and sort of escorting him and Kissinger...  The ambassador at that time, I guess, was still Firestone.  So Firestone was to be his...  I remember the new ambassadors to NATO and EC were a little bit burned when they weren't up in the top row of anything that was going on.  Anyhow, Nixon was just going by, I think.  Then the Carter came in... Mrs. Carter, Rosalynn, she wanted to do a number of things.  And so... was interested to be her escort through all of this....  Brussels... one thing or another, I forget all...  Anyhow, she had more to do with the royal family than I did it.</p>
-<p>
-<hi rend="italics">Q:  It often happened that way.</hi>
-</p>
-<p>OLSEN:  Anyhow, Carter handled himself quite well.</p>
-<p>
-<hi rend="italics">Q:  Well, he was a friend of Mrs. Chambers, anyhow, I gather.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  So that helped him.</hi>
-</p>
-<p>OLSEN:  Exactly.</p>
-<p>
-<pb facs="0026" n="Page0026"/>
-<hi rend="italics">Q:  Well, during your period there, the Belgian prime minister kept coming and going, I gather, as a result of the language problem, basically.</hi>
-</p>
-<p>OLSEN:  Yes.  During the time that I was the political counselor, I made friends with Martens and with Tindemans.  Both of them at that time were rising politicians, but not yet prime ministers.  Martens was the head of the Christian Democratic Party, and Tindemans was also in that party, and he was the first one to come up as the prime minister.  Even before he was prime minister, he and I would go to have lunch every once in a while.  He was much interested in the United States, what were we doing and how we felt about things, and how they felt, and how we felt about Brussels.  Anyhow, we had pretty good friendly relationships.  A similar good relationship with Martens, who obviously was an ambitious leader, and, as it turned out, later on, he became prime minister for a long period of time.  So those two were, you might say, my good friends from the point of view of establishing relationships with people encountered.</p>
-<p>
-<hi rend="italics">Q:  Yes, I think you did very well in that regard.  You picked two out of the three prime ministers while you were there as good friends.  Apparently, they had no problems with the U.S.-Belgian relationship.</hi>
-</p>
-<p>OLSEN:  Never very serious ones at that time.</p>
-<p>
-<hi rend="italics">Q:  While you were there, I gather, toward the end of your tour, the Belgians approved what they called regional autonomy, which really sets in concrete what everyone knows had been going on for years, I guess, that there are a couple of regions there.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Could you say anything about that.</hi>
-</p>
-<p>OLSEN:  Well, that wasn't achieved by the time that I left.  But I knew what they were working toward.  To this day, they haven't really resolved this question.  Things were tilting in favor of the Flemings, because that's where all the big industry was, and the demographics were heavily on the side of the Flemish.  And so the even balance that they've been working on for all these years, with Brussels city being the biggest problem about how do you separate..., the balance of power was switching towards the Flemish.  And to this day, I think that's still the case.  I don't know how that will come to an end.</p>
-<p>
-<pb facs="0027" n="Page0027"/>
-<hi rend="italics">Q:  That's what I wanted to ask you.  I guess my last question is what do you see for Belgium's future?  I mean, will it be saved by being folded into Europe?  Or will it eventually be torn apart on the language problems?</hi>
-</p>
-<p>OLSEN:  I don't think it will ever be torn apart.  They created Belgium out of old duchies and that sort of thing, and it's hung together for 100 years or more.</p>
-<p>
-<hi rend="italics">Q:  Yes, since 1830.  So it's been quite a while.</hi>
-</p>
-<p>OLSEN:  That's right.  So I don't see that Belgium is ever going to collapse.  And their relationship with the other two countries, The Netherlands and Luxembourg, will remain a triumvirate.</p>
-<p>
-<hi rend="italics">Q:  Benelux is going to stay.</hi>
-</p>
-<p>OLSEN:  Benelux is going to stay.  I don't see it collapsing, particularly if Europe becomes EC, so all over.  Benelux will just fit nicely in..., which probably will somewhat ease the tensions between the Walloons and the Flemings.</p>
-<p>
-<hi rend="italics">Q:  Well, those were six exciting and interesting years you had in Belgium.</hi>
-</p>
-<p>OLSEN:  That's right.</p>
-<p>
-<hi rend="italics">Q:  But they had to come to an end.  And then you came back to Washington and went into the Board of Foreign Service Examiners.</hi>
-</p>
-<p>OLSEN:  That's correct.</p>
-<p>
-<hi rend="italics">Q:  Were you there for the change of administration in '80 and '81, from Carter to Reagan?</hi>
-</p>
-<p>OLSEN:  Yes, that's right.  I guess I arrived there about the time that...</p>
-<p>
-<hi rend="italics">Q:  Did that have any effect at all on B/EX, personalities or new guidelines or anything?</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>OLSEN:  Not really.  No, that did not.  And I worked there for about two years, I guess.  I was seconded to a highly classified operation which... of the government situation.  I'm not sure whether I should be talking to you about it or not.  I'm supposed to have been sworn to secrecy forever and ever.</p>
-<p>
-<hi rend="italics">Q:  Back to your BEX experience.  Did you sit on many panels, examining candidates?</hi>
-</p>
-<p>OLSEN:  Yes.</p>
-<p>
-<hi rend="italics">Q:  How many people were on each panel?  How many examiners?</hi>
-</p>
-<p>OLSEN:  At that time, we had three at each time.</p>
-<p>
-<hi rend="italics">Q:  Were they all State, or did you include USIA or any other outside agency?</hi>
-</p>
-<p>OLSEN:  No.  During my time, no.  They were all...</p>
-<p>
-<hi rend="italics">Q:  Perhaps USIA examined their own candidates, and State examined theirs.  What was your general impression of the candidates coming before you?</hi>
-</p>
-<p>OLSEN:  I would say that one thing that struck me was that young candidates coming out of universities and graduate students were fewer than I had expected.  We were getting a lot of Ph.D. candidates and people who had worked for a while, the 30-year-old types, and they were the ones who were tending to dominate the positions.</p>
-<p>
-<hi rend="italics">Q:  In some ways, I imagine that's all to the good.  There are some drawbacks to that, the fact that their expectations are higher, often, when they come into the Service, and so forth.  Perhaps the idea of going out to issue visas for two years in some hole is not quite what they counted on.</hi>
-</p>
-<p>OLSEN:  Not when you're 30 years old, no.</p>
-<p>
-<hi rend="italics">Q:  Did we seem to be getting the best people?  Were you satisfied that the quality was holding up?</hi>
-</p>
-<pb facs="0029" n="Page0029"/>
-<p>OLSEN:  I thought the quality was holding up, because we were kind of tough on sorting them out.  Not the ones who were getting the high marks were the minority.</p>
-<p>
-<hi rend="italics">Q:  How about minorities, using that word, and women?  Were we getting enough of those applying?  Or did we have special standards?</hi>
-</p>
-<p>OLSEN:  That was during a period in which the Department was feeling the pressure to bring in a lot of people.  And so we had quite a few coming in from USIS, being brought in just because they were black or...</p>
-<p>
-<hi rend="italics">Q:  They had not passed the written examination, I think.</hi>
-</p>
-<p>OLSEN:  That's it exactly.  And they were just brought in.  We had quite a number of those, and some of them were terribly unprepared.  I thought it was not a very successful exercise.  But when you're talking about the ordinary candidates, it was pretty heavily white males who were getting in there.  But there were more and more successful girls.  But they still were a definite minority.  In terms of Asians and blacks, not too many successful.</p>
-<p>
-<hi rend="italics">Q:  Geographic distribution, did you look for that at all?  Or did you just take the candidates as they came?</hi>
-</p>
-<p>OLSEN:  Well, they caused us to travel all over the country.  And so you go out to California, go out to Honolulu, go up to Alaska.</p>
-<p>
-<hi rend="italics">Q:  You did travel then.</hi>
-</p>
-<p>OLSEN: Yes, I did.  So they did it on purpose, to get a cross section of the United States.  That's why you have these travels.</p>
-<p>
-<hi rend="italics">Q:  How did you panel members resolve your differences of opinion?  Did you vote, or did you try to reach consensus?</hi>
-</p>
-<p>OLSEN:  Tried to reach consensus. ... two to one against...  We would sit down there and agree on marks.  The way that BEX was working when I was there was we had three officers, as a rule, examining each candidate.  And when it was over with, we would have a meeting among ourselves.  Let's say I was a 6.6 and my other colleague was 5 to 6.4, and that kind of thing.  And so we would work it out so... agreed judgment of this candidate.</p>
-<pb facs="0030" n="Page0030"/>
-<p>
-<hi rend="italics">Q:  And then you'd sort of rank order them on a list or not?</hi>
-</p>
-<p>OLSEN:  No.</p>
-<p>
-<hi rend="italics">Q:  So you'd just send in the raw scores to Washington.</hi>
-</p>
-<p>OLSEN:  That's basically what we did.  We were not ranking...  Let's say we traveled and interviewed 20 people.  We wouldn't go 1 to 20.  Maybe we'd bust out 10 of them, and the other 10 would be sent in to the head of the BEX.</p>
-<p>
-<hi rend="italics">Q:  You were agreed that certain ones weren't going to make it anyhow.</hi>
-</p>
-<p>OLSEN:  That's right.  And the others may or may not have passed judgement through the BEX system.</p>
-<p>
-<hi rend="italics">Q:  Are you satisfied, from your experience there and your experience throughout your career, that the written exam plus the oral exam is the best way to get our new officers?  Or could there be a better system?</hi>
-</p>
-<p>OLSEN:  I don't know that there's a better system.  I think that a combination of the oral exam, which is one in which you are measuring intellectual background and intellectual activity, on the oral side of the thing, has to do with your ability to present yourself and to deal with problems that you might come up with, not necessarily bearing upon how brilliant you are.  You know, we had things like the situation was to come in as a new consul, and there on your desk is a whole bunch of things, which you have to sort out, which is the most important, and what you should do, whether you throw them away or whatever.  And that's a judgment question that measures...</p>
-<p>
-<hi rend="italics">Q:  Well, I always thought that the oral exam is the absolute essential part of selecting any candidate, because you can always find people to pass the written, but the purpose of diplomacy is to persuade other people, not just to pass written exams, and this you see in the oral.</hi>
-</p>
-<pb facs="0031" n="Page0031"/>
-<p>OLSEN:  One of the good things we had on the, and I'm sure they're still doing it, would be the setting up a situation in some country in which, say, you have a number of opportunities to spend $50,000, on a new bridge or something like that, or to send students abroad to study, or whatever, and you have these four people around the table, six people, and there was nobody who was in charge, but they would discuss themselves how would you spend your $50,000.  And it would be interesting to see who takes charge and manages himself, and who just sits there and does nothing, and who was in between.  And we had four observers sitting there watching.  And so you... yourself who was doing things right.</p>
-<p>
-<hi rend="italics">Q:  Oh, yes, that sounds like a fascinating drill.</hi>
-</p>
-<p>OLSEN:  And what it is is to measure ability to lead groups, to understand what other people are doing, and whether we should be able to negotiate with them.  And you get somebody who's absolutely insistent upon, I'm going to have my way or not, and that's a bad way to come out.  So that measures...</p>
-<p>
-<hi rend="italics">Q:  Yes, that's an experiment I have not been in on, but it sounds like it would be very useful.  In thinking of who's going to become ambassador, a fellow who had his own way, maybe.  Well, Art, looking back, how do you view the Foreign Service as a career these days?  Would you recommend it to a young person or not?</hi>
-</p>
-<p>OLSEN:  Yes, I would.  I still think that the Foreign Service has a role to play in the world.  It's more complex than it was when I was in, 15 years back.  We've got many more embassies.  There are so many... problems that you get.  But I would think that the Foreign Service would still be an interesting career.</p>
-<p>
-<hi rend="italics">Q:  All right.  Any final thoughts or comments over your long years of involvement with foreign affairs?</hi>
-</p>
-<p>OLSEN:  Yes, I would say these comments, that I believe that the Foreign Service, which has been pretty much overrun by the National Security Council and that sort of thing, and has taken a number of Foreign Service officers into the back benches, so to speak, I think that's unfortunate, because I think the Foreign Service officers should be able to have as much of an impact upon decisions in the Foreign Service and of the United States' foreign affairs, and that should never come to an end.</p>
-<p>
-<pb facs="0032" n="Page0032"/>
-<hi rend="italics">Q:  Thank you very much.  This is Tom Dunnigan, and I've been talking today with Art Olsen on behalf of the Foreign Service Oral History Program and the Association for Diplomatic Studies and Training.  The date is February 24, 1997.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>ARTHUR JOSEPH OLSEN</p>
+                <p>Interviewed by: Tom Dunnigan </p>
+                <p>Initial interview date: February 24, 1997</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Art has had a long career in the field of foreign affairs,
+                        unique in many cases, because he saw from both the journalist's perspective
+                        and from the diplomat's. Art, why don't you start off by telling us
+                        something of your background and how you got interested in the field.</hi>
+                </p>
+                <p>OLSEN: I was educated at Santa Clara University in California. I became
+                    interested in journalism at that point, and I spent one year at the graduate
+                    school of journalism at Columbia University. My journalistic career was
+                    interrupted by World War II. So I spent close to four years in the Marine
+                    Corps.</p>
+                <p>
+                    <hi rend="italics">Q: Tell us a little about your service in the Marines. Where
+                        were you?</hi>
+                </p>
+                <p>OLSEN: I was mostly in the Pacific theater, central Pacific, primarily. We made
+                    several landings during the years that I was out there. I survived without any
+                    serious injuries or anything like that. But some difficult times during that
+                    period.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, there were some bloody campaigns there. So, after
+                        your military career, you came back and became a journalist.</hi>
+                </p>
+                <p>OLSEN: That's right, I came back to New York, where I had already been working
+                    for United Press for a few months before I went into the Marine Corps. I went
+                    back to United Press, working in New York for about four years altogether, when
+                    I was hired by The New York Times to join their foreign staff. So I became a
+                    foreign correspondent with The New York Times for the next 10 years abroad.</p>
+                <p>
+                    <hi rend="italics">Q: Tell me, do you get any training to become a foreign
+                        correspondent, or are you just hit on the shoulder and told you're a foreign
+                        correspondent, here you go?</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>OLSEN: They look into your experience that you have. There's no special training
+                    for it. I guess they try to teach you on the job, so to speak. That's the way
+                    that the Foreign Service works it for The New York Times.</p>
+                <p>
+                    <hi rend="italics">Q: Where did you go on your first foreign assignment?</hi>
+                </p>
+                <p>OLSEN: Germany. I spent two or three years there.</p>
+                <p>
+                    <hi rend="italics">Q: In Bonn, Berlin, or...</hi>
+                </p>
+                <p>OLSEN: Bonn, with a lot of time spent in Berlin during the time of the Cold War
+                    era and the time leading up to the Berlin Wall situation. I was in Warsaw for a
+                    few years. Then I came back after three years in Warsaw, which was a kind of
+                    roving job in which I went to Eastern Europe and also the Soviet Union on
+                    short-term jobs of one type or another. So I've had a lot of experience in
+                    Eastern Europe.</p>
+                <p>
+                    <hi rend="italics">Q: You certainly did. And those were not happy days in
+                        Eastern Europe.</hi>
+                </p>
+                <p>OLSEN: They were difficult times.</p>
+                <p>
+                    <hi rend="italics">Q: Difficult times. Let me just ask, and you needn't answer
+                        this. Did you get any particular scoops in your journalistic career that
+                        you're proud of?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>OLSEN: Well, there was an interesting time when I was in Warsaw, for example.
+                    Everybody was trying to figure out what Khrushchev was telling the story about
+                    what was going on in the Soviet Union during those years after Stalin. During
+                    the winter of 1962, there was a major conference of Communist parties in Moscow.
+                    And everybody expected that there was going to be some kind of a revelation
+                    about what was going on. Gomulka and Cyrenkevich, who was his number-two man in
+                    the system, were the only two people who went from Poland to there. Everyone was
+                    trying to get news about what was going on. When the thing was over with, there
+                    had been a private talk, and I had a contact who told me what had happened to
+                    Beria during that time when he was finally brought down. There was a pretty good
+                    story on that. So I filed that off to The New York Times. The Le Monde
+                    correspondent there, from other sources, got a similar story, so both of those
+                    were coming out at the same time. Gomulka, I learned later on, was furious that
+                    this news was coming out. And he ordered a big search to find out who in the
+                    hell had told this story. Of course, I was not going to break down my source,
+                    and neither was John Wetz, the Le Monde guy. But that caused a real ruckus
+                    within the party in Warsaw, and they wound up searching my house when I was
+                    absent, looking for documents of one type or another, which I never kept.</p>
+                <p>
+                    <hi rend="italics">Q: Let's hope they never found him, whoever the leaker was
+                        over there.</hi>
+                </p>
+                <p>OLSEN: Anyhow, they ransacked my house.</p>
+                <p>
+                    <hi rend="italics">Q: That was certainly an interesting time in your career, I'm
+                        sure. Did you have close contacts with our embassies while you were a
+                        correspondent?</hi>
+                </p>
+                <p>OLSEN: Yes, very frequently I did. I exchanged information with the embassies,
+                    particularly in Warsaw, and in Germany also quite a bit.</p>
+                <p>After I finished my second tour in Germany, I was assigned to South America, to
+                    Argentina. I was down there for a relatively short period of time, because I had
+                    been sort of recruited, so to speak, by the Foreign Service, saying why don't
+                    you join the team. George McGhee, who was then the ambassador, was particularly
+                    one of those who was urging me on in this.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, Ambassador McGhee was, eh?</hi>
+                </p>
+                <p>OLSEN: He was.</p>
+                <p>
+                    <hi rend="italics">Q: The old boss.</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>OLSEN: And that really led to my joining the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's the other part of your career. I'm glad you
+                        made the change, from our point of view, anyhow. Did you make the decision
+                        while you were in Argentina, to move?</hi>
+                </p>
+                <p>OLSEN: Yes, while I was in Argentina. They had called me, so to speak, and said
+                    are you ready to come? And so I said, yes, I'm ready.</p>
+                <p>
+                    <hi rend="italics">Q: How did they bring you in, as a lateral-entry FSO?</hi>
+                </p>
+                <p>OLSEN: That's right, lateral entry, giving me the FSR II level.</p>
+                <p>
+                    <hi rend="italics">Q: Excellent. That showed good judgment on our part. Your
+                        first job in the State Department, I gather, was back in Washington, in the
+                        Bureau of European Affairs.</hi>
+                </p>
+                <p>OLSEN: Exactly, yes.</p>
+                <p>
+                    <hi rend="italics">Q: And you were a public affairs officer for the bureau.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Who was our assistant secretary then?</hi>
+                </p>
+                <p>OLSEN: John Leddy was.</p>
+                <p>
+                    <hi rend="italics">Q: What were some of the issues you faced in that job?</hi>
+                </p>
+                <p>OLSEN: Almost as soon as I walked into the job, that was the time that De Gaulle
+                    took a walk on NATO. He threw NATO out of France. ...everybody I knew who was in
+                    intelligence. That was a real ruckus in terms of anxiety or chagrin, I would
+                    guess you'd call it.</p>
+                <p>
+                    <hi rend="italics">Q: Were we mad, or were we just resigned to it?</hi>
+                </p>
+                <p>OLSEN: Mostly mad.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: Mostly mad, that's what I thought.</hi>
+                </p>
+                <p>OLSEN: The one who was particularly mad was Bob Schaetzel.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, because Schaetzel was building Europe in those
+                        days.</hi>
+                </p>
+                <p>OLSEN: That's right, he was a real Monnet man from the start. He was the one who
+                    really, really had smoke coming through his ears.</p>
+                <p>
+                    <hi rend="italics">Q: Even Bob, tall as he was, couldn't outmatch De Gaulle, I
+                        don't think, in that regard. I imagine U.S.-French relations were an
+                        important part of your portfolio all the time you were in that job.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: But later we tried to repair things, I gather. President
+                        Johnson wanted to smooth things over. We didn't like the idea that we were
+                        being called hegemonists ... Europe, by De Gaulle. That made us
+                        furious.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have to prepare the daily press guidance
+                        for...</hi>
+                </p>
+                <p>OLSEN: For Bob McCloskey, yes.</p>
+                <p>
+                    <hi rend="italics">Q: How about writing speeches, did you get into that?</hi>
+                </p>
+                <p>OLSEN: Yes, I wrote a couple of speeches for Leddy and his successor.</p>
+                <p>
+                    <hi rend="italics">Q: Martin Hillenbrand.</hi>
+                </p>
+                <p>OLSEN: And then, later, Walt Stoessel.</p>
+                <p>
+                    <hi rend="italics">Q: In other words, you were never far away from your
+                        typewriter in those days, I'll bet.</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>OLSEN: Right.</p>
+                <p>
+                    <hi rend="italics">Q: Then there was the meeting in 1967 with the President and
+                        Kosygin up at Glassboro. Were you in on that or not?</hi>
+                </p>
+                <p>OLSEN: I was not present at that, no.</p>
+                <p>
+                    <hi rend="italics">Q: But I'm sure there were questions you had to answer as
+                        time went on. And we signed a consular treaty there, beginning to thaw
+                        things a little bit. Then, of course, there was, in '68, the invasion of
+                        Czechoslovakia, which set things back quite a bit. How did that impinge on
+                        what you were doing?</hi>
+                </p>
+                <p>OLSEN: Not very directly, because the reaction was in Czechoslovakia, not very
+                    much in Washington. We were sort of bystanders, so to speak. And so I didn't
+                    have a very active participation in that event.</p>
+                <p>
+                    <hi rend="italics">Q: Again, we were mad, but weren't going to do anything about
+                        it, I guess.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Now did you get involved at all in the 1968 election
+                        campaign, the Nixon-Humphrey fight? Did foreign policy play much of a role
+                        there? Of course, Vietnam was the big issue.</hi>
+                </p>
+                <p>OLSEN: I would say that I didn't have very much involvement in that. I'm trying
+                    to think of any particular insights. I remember escorting some foreign
+                    journalists to meet with McNamara, for example, that kind of activity, which
+                    bore upon 1968 and that period. So that's the kind of work that I was doing at
+                    that time.</p>
+                <p>
+                    <hi rend="italics">Q: We were under some criticism from foreign journalists in
+                        those days, too.</hi>
+                </p>
+                <p>OLSEN: We sure were.</p>
+                <p>
+                    <hi rend="italics">Q: Particularly, McNamara. Then there was the change of
+                        administration, when Nixon took over from Johnson. Did that affect you in
+                        any way in what you were doing?</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>OLSEN: Naturally, it did, very severely, because McCloskey was long in the job,
+                    and he was eager to move on. He stayed with Rusk right to the end, but when
+                    Rogers came in, he saw that as an opportunity to move on himself. Bob decided
+                    that I would be the proper successor for him, and he proposed me to Rogers. So I
+                    had a couple of meetings with Rogers, and he said, “Okay, we'll go ahead with
+                    you.”</p>
+                <p>
+                    <hi rend="italics">Q: Well, congratulations.</hi>
+                </p>
+                <p>OLSEN: Then came the firestorm, so to speak, because Goldwater, who had been the
+                    candidate of the Republicans in 1964, was attacked by the Democrats as an
+                    extreme conservative. At that time, in '64, I was working for The New York Times
+                    in Bonn. So I knew that there was a contact going on between the far right, the
+                    Sudeten-German-type crowd, who were enthusiastic about the conservative movement
+                    in the United States, and they were involved in... correspondence with the
+                    Goldwater team. And so I was present at a luncheon in which one of these members
+                    of the Adenauer cabinet was the guest of honor, and he was a Sudeten type. And
+                    he was kind of boasting about... Goldwater and his friends. So I wrote a story,
+                    a sidebar kind of story, because what was really happening was in San Francisco.
+                    But The Times had this piece, which the Democrats picked up on. They used that
+                    to...</p>
+                <p>
+                    <hi rend="italics">Q: Prove that Goldwater was an extremist.</hi>
+                </p>
+                <p>OLSEN: Was an extremist. So Goldwater never forgot. So, four years later, when I
+                    was about to become a spokesman for the Department, Goldwater blew a whistle on
+                    me. The White House said they've got a real problem with this guy. And there was
+                    considerable back and forth as to what they were going to do about this. Rogers
+                    backed off and said...</p>
+                <p>
+                    <hi rend="italics">Q: The long arm of revenge, eh?</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's too bad, because I think you would have done
+                        a great job there as spokesman.</hi>
+                </p>
+                <p>OLSEN: Anyhow, that made a big flap in the paper...</p>
+                <p>
+                    <hi rend="italics">Q: Absolutely. Early in his administration, President Nixon
+                        made a trip to Europe, sort of touching base at the capitals of Western
+                        Europe. Did you go along on that?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>OLSEN: No.</p>
+                <p>
+                    <hi rend="italics">Q: Obviously, you were holding it very closely at the...
+                        About that time, Willy Brandt came out with his Ostpolitik. Did we welcome
+                        that at first, or were we a little hesitant?</hi>
+                </p>
+                <p>OLSEN: I think we were a little hesitant.</p>
+                <p>
+                    <hi rend="italics">Q: That was my recollection, too. We embraced it later, when
+                        it was successful.</hi>
+                </p>
+                <p>OLSEN: That's correct.</p>
+                <p>
+                    <hi rend="italics">Q: At that moment, for the Nixon administration to grasp onto
+                        this would have been difficult. And the Warsaw talks were going on at this
+                        time, too, between our ambassador, Walt Stoessel, and the Chinese. Was that
+                        handled through EUR or through the Far Eastern people, or did you backstop
+                        us?</hi>
+                </p>
+                <p>OLSEN: No, it was EUR, because it was EUR through Stoessel to the States.</p>
+                <p>
+                    <hi rend="italics">Q: I see, okay.</hi>
+                </p>
+                <p>OLSEN: The meeting took place in Warsaw, with Jake Beam primarily the talk man.
+                    And then Rogers was... his people would fly down from Stockholm to...</p>
+                <p>
+                    <hi rend="italics">Q: Participate.</hi>
+                </p>
+                <p>OLSEN: Participate or to brief the team on what he wanted them to say. So back
+                    and forth between Stockholm and Warsaw and then Stockholm... and DC</p>
+                <p>
+                    <hi rend="italics">Q: Did we ask our press attach� in the embassy in Warsaw to
+                        handle the press there?</hi>
+                </p>
+                <p>OLSEN: It was very tight. I knew it was taking place, but there was no briefing
+                    afterwards.</p>
+                <p>
+                    <pb facs="0009" n="Page0009"/>
+                    <hi rend="italics">Q: And then, in the midst of all this, we had the De Gaulle
+                        resignation, which caused some fluttering in the dovecote, I know. We
+                        weren't quite sure what was going to happen after that. And the president
+                        made a trip to Bucharest, Romania, which surprised some people, because the
+                        president didn't go to Communist countries very often, but he did that. And
+                        it was about that time that the Warsaw Pact countries began their drumbeat
+                        for an all-European conference. I gather, at the time, we were not at all
+                        enthusiastic about that idea, either.</hi>
+                </p>
+                <p>OLSEN: That's right, we were not.</p>
+                <p>
+                    <hi rend="italics">Q: I remember being overseas and getting our instructions to
+                        damp down the enthusiasm for this. They weren't at all sure it was a good
+                        idea. I guess another question I have to ask you is, was our European policy
+                        run by Henry Kissinger out of the White House at that time? Did we have much
+                        independence at the Department to do things?</hi>
+                </p>
+                <p>OLSEN: Kissinger, as you know, was a heavy-handed operator. He understood his
+                    job. When he was in the National Security Council, he really took over from
+                    Rogers, who was a nice fellow who handled things nicely, but he was never in
+                    Nixon's inner circle. Kissinger was, in many respects, running the
+                    Department.</p>
+                <p>
+                    <hi rend="italics">Q: So you had to watch what the White House press spokesman
+                        was saying, among other things, I imagine. Or perhaps you were told
+                        sometimes what he expected you to say.</hi>
+                </p>
+                <p>OLSEN: There's one little anecdote. It was decided in the Department that there
+                    should be an annual assessment of what we had accomplished during the past year.
+                    And so the idea was to develop a book, sort of a history account of what went
+                    on. I was involved quite a bit in developing some of the chapters on this thing.
+                    Kissinger got wind of what Rogers was up to with this... of what we'd
+                    accomplished, and he got into it himself. He had charged over at the top...</p>
+                <p>
+                    <hi rend="italics">Q: I'll tell you what we've accomplished.</hi>
+                </p>
+                <p>OLSEN: He created his own thing. So our efforts were never really taken very
+                    seriously, because Kissinger had overrun us.</p>
+                <p>
+                    <hi rend="italics">Q: Were you still there when President Pompidou paid his
+                        visit, sort of restoring our relations again?</hi>
+                </p>
+                <p>OLSEN: I can't remember that I was involved in any...</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>
+                    <hi rend="italics">Q: And how about demonstrations. Were there many around the
+                        Department in those days that concerned you? This was the era of
+                        demonstrations.</hi>
+                </p>
+                <p>OLSEN: First of all, after I was shot down on the spokesman job, Rogers was a
+                    little bit unhappy about it, because I was thinking I was going to leave the
+                    Department. Rogers said, “Don't do it. Please don't do it. We'll give you
+                    another job. What would you like to do?” So he had a EUR kind of a checklist
+                    about what possible jobs that they had. And one of them was political counselor
+                    in Stockholm. And so I agreed to take that. So Rogers moved ahead then and moved
+                    me into there. The other man was about to leave, so it was not a question of
+                    pushing the guy out.</p>
+                <p>
+                    <hi rend="italics">Q: I'm glad you raised that, because I was about to ask you
+                        how this came about, whether you asked for Stockholm. But it was really due
+                        to Senator Goldwater doing you in that you got to Stockholm. One last
+                        question about your service back in the Department before we get into the
+                        Stockholm era. Was there any effect on what you were able to do, or the
+                        bureau, any effect of the Vietnam War, which was raging at the time you were
+                        there?</hi>
+                </p>
+                <p>OLSEN: I was detailed to head a sort of team of, I guess, three of us, four
+                    maybe, to travel around the country and talk to universities, that kind of
+                    thing, and to argue the Vietnam case. I would be the political side of this
+                    thing, so to speak. I had a partner who was talking about creating an
+                    infrastructure sort of helping out the South Vietnamese to create this sort of a
+                    solid system... So, anyhow, we were...</p>
+                <p>
+                    <hi rend="italics">Q: Would you have a military colleague along, or how did you
+                        field those questions?</hi>
+                </p>
+                <p>OLSEN: I had a hard time, believe me.</p>
+                <p>
+                    <hi rend="italics">Q: No military colleague with you.</hi>
+                </p>
+                <p>OLSEN: I had one, you're right, there was one military fellow, who talked about
+                    the military missions, specifically. Anyhow, we traveled the country for about
+                    six months or maybe a year, in which I would be going out for 10 days then come
+                    back and go out again.</p>
+                <p>
+                    <hi rend="italics">Q: Did you run into much hostility as such?</hi>
+                </p>
+                <p>OLSEN: Sure, a lot.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>
+                    <hi rend="italics">Q: Where was it worst? Or is that easy to say?</hi>
+                </p>
+                <p>OLSEN: I think the northeast was the toughest.</p>
+                <p>
+                    <hi rend="italics">Q: The Ivy League area.</hi>
+                </p>
+                <p>OLSEN: Yes. And the Midwest was a little bit less on the attack, as opposed to
+                    the East.</p>
+                <p>
+                    <hi rend="italics">Q: Was this after the Kent State shooting and so forth or
+                        before that?</hi>
+                </p>
+                <p>OLSEN: Before that.</p>
+                <p>
+                    <hi rend="italics">Q: It probably would have been even worse afterwards.</hi>
+                </p>
+                <p>OLSEN: I think so.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I think that pretty well sums up your first tour in
+                        the Department. Anything else you'd like to add about those years?</hi>
+                </p>
+                <p>OLSEN: We talked about the demonstrations and so forth.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>OLSEN: I left there in '71 to go to Stockholm, so it was just at the time when
+                    those demonstrations were beginning. I was gone by then, but I remember
+                    particularly my wife ... kept her behind for several months to drive up. And
+                    that was when they were marching through the streets and making a hell of a
+                    noise. So that was a rough time.</p>
+                <p>
+                    <hi rend="italics">Q: I was overseas then, so I didn't see it in '71. I remember
+                        the riots in '68, but that was different. Well, so you went to Stockholm to
+                        our embassy there. Who was the ambassador when you arrived?</hi>
+                </p>
+                <p>OLSEN: Brud Holland [Jerome H. Holland], a black man.</p>
+                <p>
+                    <pb facs="0012" n="Page0012"/>
+                    <hi rend="italics">Q: From Cornell, a football player?</hi>
+                </p>
+                <p>OLSEN: That's right, he was an All American football player.</p>
+                <p>
+                    <hi rend="italics">Q: Had he been a success as ambassador?</hi>
+                </p>
+                <p>OLSEN: He did a pretty good job. They gave him a hard time at the start.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, I can imagine, yes. Why, because of his color, or
+                        because of our policies?</hi>
+                </p>
+                <p>OLSEN: Both. He spoke up strongly in favor of Nixon and his policies and so
+                    forth. The activists jumped on him pretty hard, calling him Nixon's nigger and
+                    that kind of thing. But he started off pretty well, and he made some
+                    friends.</p>
+                <p>
+                    <hi rend="italics">Q: Good.</hi>
+                </p>
+                <p>OLSEN: He was not a political ambassador; he was sort of a PR ambassador. He did
+                    a pretty good job at that.</p>
+                <p>
+                    <hi rend="italics">Q: I think it would have been hard on anybody being
+                        ambassador in Sweden at that time, as you yourself experienced later. And
+                        the DCM was...</hi>
+                </p>
+                <p>OLSEN: John Guthrie.</p>
+                <p>
+                    <hi rend="italics">Q: John Guthrie, oh, yes, I knew him. OLSEN: Brud Holland
+                        resigned in September of 1972. The Nixon team hadn't made up their mind what
+                        they were going to do about who the ambassador should be. At the same time,
+                        the Swedes were finishing up with their ambassador, who had been here for
+                        several years and was retiring.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: Out of Washington.</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>OLSEN: Out of Washington. So there were no ambassadors there for about three
+                    months, in both directions. It was not because anybody was holding it up, but
+                    because no one was getting around to... And so John Guthrie was charg�. Finally,
+                    they decided, toward the end of '72, that they were going to exchange
+                    ambassadors. Or at least Sweden was; they were ready to go ahead. I'm not sure
+                    how far we were.</p>
+                <p>
+                    <hi rend="italics">Q: We hadn't asked for agr�ment for anyone?</hi>
+                </p>
+                <p>OLSEN: No. So Guthrie had decided to take a Christmas leave. He left the embassy
+                    probably about the 15th or so of December, and went to Washington to stay with
+                    friends. He was spending the holidays there.</p>
+                <p>
+                    <hi rend="italics">Q: Leaving you in charge in Stockholm.</hi>
+                </p>
+                <p>OLSEN: Leaving me in charge, because I was the next guy in line. At that time,
+                    the negotiations with the Vietnamese, in Washington and in Paris, had all kind
+                    of come to a stall. ... we almost got the deal, but it broke down.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, that was the light-at-the-end-of-the-tunnel time,
+                        wasn't it?</hi>
+                </p>
+                <p>OLSEN: That's right. And so the reaction of the U.S. government was to resume the
+                    war, and particularly to bomb Hanoi. That was about the 19th of December or
+                    something like that. Palme, who was...</p>
+                <p>
+                    <hi rend="italics">Q: Palme being the Swedish prime minister at the time.</hi>
+                </p>
+                <p>OLSEN: The Swedish prime minister, exactly. He was one who took an active view of
+                    all these events. And so when they began the bombing of Hanoi, Palme went on the
+                    TV to denounce this. He likened the Nixon bombing of Hanoi to Ouradour and other
+                    Nazi outrages.</p>
+                <p>
+                    <hi rend="italics">Q: The Holocaust, in other words.</hi>
+                </p>
+                <p>OLSEN: The Holocaust, yes. Reuters put in a thing about what he had said. Our
+                    political officer, Paul Storing at that time, had a kind of a habit of recording
+                    important statements by the prime minister, particularly in this case when Palme
+                    was talking about Christmas and so forth. So he was recording this speech.</p>
+                <p>
+                    <pb facs="0014" n="Page0014"/>
+                    <hi rend="italics">Q: You had it on tape, in other words.</hi>
+                </p>
+                <p>OLSEN: That's right. And so, back in Washington, actually Nixon was down in
+                    Florida at that time, when they saw this thing on the Reuters, they were
+                    inflamed. Nixon got Kissinger on the horn and said, “Pull our ambassador out of
+                    that place.”</p>
+                <p>Kissinger said, “We don't have one.”</p>
+                <p>Nixon said, “Pull out the charg�.”</p>
+                <p>... authority... “tell him to stay there.” And so he said, “Well, get the guy out
+                    of there.”</p>
+                <p>And Kissinger said, “Well, we're kind of down... We'd better just stand where we
+                    are.”</p>
+                <p>And so I wound up as the charg�.</p>
+                <p>
+                    <hi rend="italics">Q: That's how you became our man in Stockholm, was it.</hi>
+                </p>
+                <p>OLSEN: That's right. They wouldn't let Guthrie come back, and they wouldn't let
+                    the Swedes send their new ambassador. And, almost for two years, I wound up as
+                    charg� d'affaires.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, I remember, you had a long period as charg� there.
+                        And relations were pretty much frozen, in effect. Was there much antipathy
+                        toward Americans from the average Swede?</hi>
+                </p>
+                <p>OLSEN: No. No, there were two ways you could handle this kind of thing. You could
+                    circle the wagons, so to speak, and just hope that things would go away. Or take
+                    the other view, which was to have an active embassy and make contact with all
+                    kinds of people. That's what I decided to do.</p>
+                <p>
+                    <hi rend="italics">Q: The Swedes were willing to talk and relate with you and so
+                        forth.</hi>
+                </p>
+                <p>OLSEN: That's right. And so I had a good number of friends among the Swedes,
+                    including the guys from the Foreign Office. Willy Wachtmeister was the
+                    number-three man in the Swedish Foreign Service. I forget his title. Anyhow, he
+                    was my basic interlocutor.</p>
+                <p>
+                    <hi rend="italics">Q: Later ambassador here.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>OLSEN: That's right. He was finally made the ambassador here. When the ice broke,
+                    he was the ambassador who was sent.</p>
+                <p>
+                    <hi rend="italics">Q: Did you ever have to talk to Palme or not, or get a chance
+                        to?</hi>
+                </p>
+                <p>OLSEN: I had a kind of a curious situation in which there was a young man, whose
+                    name I forget now, who was kind of the aide-de-camp of Palme. You know, he was
+                    kind of his gofer, so to speak. He was a young guy whom I had met along the way,
+                    before he had that particular job. So I thought, well, I might as well maintain
+                    this contact with this guy, now that he's with Palme's office. So I would call
+                    him up and say I'd come around and have a chat with him. And so I'd do that from
+                    time to time, maybe once a month or six weeks or something like that. I never
+                    got anything that was truly news out of him, but...</p>
+                <p>
+                    <hi rend="italics">Q: Kept it open, the pipeline.</hi>
+                </p>
+                <p>OLSEN: I kept it open. And Palme, once or twice, strode in from his office from
+                    across the door and walked in there when I was sitting there talking to I forget
+                    his name. So he sat down there and he wanted to talk. And so he talked not so
+                    much about U.S.-Soviet relations, but other issues of one type or another. You
+                    know, what he thought was happening in the Soviet Union, from our point of view,
+                    that kind of...</p>
+                <p>
+                    <hi rend="italics">Q: Well, he had good sources there, I'm sure.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: The Swedes always have had.</hi>
+                </p>
+                <p>OLSEN: And he also was interested in American politics and wanted to know how
+                    things were going. Anyhow, once or twice, I met Palme like that, because
+                    otherwise I never was allowed to get anywhere near him.</p>
+                <p>
+                    <hi rend="italics">Q: Did you go around making speeches in the country? Were you
+                        asked by anybody? Or was USIA able to send you out?</hi>
+                </p>
+                <p>OLSEN: No, I didn't do any of that kind of thing.</p>
+                <p>
+                    <pb facs="0016" n="Page0016"/>
+                    <hi rend="italics">Q: Did anybody on the staff? In most countries, you know, in
+                        friendly countries, in western Europe, we're deluged by speech
+                        invitations.</hi>
+                </p>
+                <p>OLSEN: I think the USIA, particularly the cultural attach�, he was pretty active
+                    in doing the rounds and doing that kind of thing that you're talking about. And
+                    Jodie Lewinsohn, who was public affairs officer. We didn't have a counselor
+                    there.</p>
+                <p>
+                    <hi rend="italics">Q: A public affairs officer, probably.</hi>
+                </p>
+                <p>OLSEN: She ran a very active... bringing in American speakers and performers.</p>
+                <p>
+                    <hi rend="italics">Q: Good.</hi>
+                </p>
+                <p>OLSEN: Operation.</p>
+                <p>
+                    <hi rend="italics">Q: Very important, I think.</hi>
+                </p>
+                <p>OLSEN: Her office was attacked a couple of times, with broken windows and that
+                    kind of stuff. But she, with my encouragement, had a... The Fulbright exchanges
+                    and the cultural exchanges back and forth continued exactly as they had been
+                    before. Anyhow, travel grants were continued, and I regarded those as the most
+                    useful exchanges that we ever had. A number of these people who became prime
+                    ministers, Carl... for example, were among those who were on the list.</p>
+                <p>
+                    <hi rend="italics">Q: We try to pick out the comers.</hi>
+                </p>
+                <p>OLSEN: Exactly.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have a problem with deserting American soldiers
+                        who made their way into Sweden?</hi>
+                </p>
+                <p>OLSEN: Not really. Occasionally, one or two of them would come around to the
+                    embassy to talk to us. But, by and large, we didn't try to harass them in any
+                    respects.</p>
+                <p>
+                    <hi rend="italics">Q: When they came around, were they received by the military
+                        attach�, or by one of the political officers?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>OLSEN: I think, usually, we used the political officer.</p>
+                <p>
+                    <hi rend="italics">Q: But they didn't cause any trouble to the embassy.</hi>
+                </p>
+                <p>OLSEN: Not at all, no.</p>
+                <p>
+                    <hi rend="italics">Q: We had them occasionally in Denmark, but generally they
+                        were on their way to Sweden, because the Danes, being a NATO country, would
+                        send them back to their units. Now there was an election in 1973 that was
+                        fairly well deadlocked, I gather, between the powers, and it threatened the
+                        Socialists, who'd been in power for many years, I believe, in Sweden.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Could you say a word about that and the effect it
+                        had.</hi>
+                </p>
+                <p>OLSEN: The Socialists were somewhat in trouble during that period of time. As you
+                    pointed out, the thing was almost a deadlock, and they depended upon some
+                    Communist votes to help them make it through. The centralist crowd, which used
+                    to be sort of marginal, was coming on strong under this young politician,
+                    Falldin, who eventually, years later, became prime minister. But, anyhow, this
+                    centralist group represented a significant opposition to the Palme regime.</p>
+                <p>
+                    <hi rend="italics">Q: More friendly to our point of view on things, or not?</hi>
+                </p>
+                <p>OLSEN: I used to talk to Falldin, who was not very much interested in foreign
+                    affairs, and so he was not interested in talking about Vietnam and that kind of
+                    stuff. He was a country boy, and he was interested in his own country and not in
+                    anybody else's.</p>
+                <p>
+                    <hi rend="italics">Q: Not unknown among politicians.</hi>
+                </p>
+                <p>OLSEN: I tried to get him to travel to the United States, but he didn't want to
+                    go.</p>
+                <p>
+                    <hi rend="italics">Q: Were you there when Ambassador Strausz-Hup� came? Tell us
+                        a little bit about that and how that worked out.</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>OLSEN: Okay. That was when the ice broke and Henry... decided they were going to
+                    have an ambassador here. Strausz-Hup� then was the ambassador of Belgium, so
+                    they chose him to be the man who would open things up. I went down to Brussels
+                    to sort of brief him on the situation and how things were going and so forth.
+                    Then I returned, and he brought with him his DCM.</p>
+                <p>Okay, that's the end of my tour in Sweden. And, curiously, it was a kind of a
+                    trade-off, so to speak, because I was sent down to Brussels to be the political
+                    counselor there.</p>
+                <p>
+                    <hi rend="italics">Q: Was that an assignment you asked for?</hi>
+                </p>
+                <p>OLSEN: There were some options they offered me, and I thought that was a better
+                    one.</p>
+                <p>
+                    <hi rend="italics">Q: Who was the ambassador when you arrived there?</hi>
+                </p>
+                <p>OLSEN: Leonard Firestone. He arrived almost identically with me, and with our new
+                    DCM there.</p>
+                <p>
+                    <hi rend="italics">Q: Who was the DCM, by the way?</hi>
+                </p>
+                <p>OLSEN: John Renner.</p>
+                <p>
+                    <hi rend="italics">Q: John Renner, oh yes. Well, what were the issues that you
+                        faced when you got there as political counselor in Brussels?</hi>
+                </p>
+                <p>OLSEN: We didn't have any serious issues. We had a big problem about organizing
+                    the embassy, because there were some real problems with the administrative
+                    section, the people who had been there. They brought in a new admin. counselor,
+                    and there was a kind of a housecleaning.</p>
+                <p>
+                    <hi rend="italics">Q: So everybody was new in the top echelons of the
+                        embassy.</hi>
+                </p>
+                <p>OLSEN: That's right, including most of my staff as the political counselor. Two
+                    of them arrived at the same time I did, and the one who was there left about the
+                    same time. Anyhow, we had... in those days, but, as you pointed out, we didn't
+                    have any really significant...</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: Bilateral relations.</hi>
+                </p>
+                <p>OLSEN: Bilateral problems at all.</p>
+                <p>
+                    <hi rend="italics">Q: I wanted to ask you what were the complications of having
+                        three American missions in one city — the Common Market, NATO, and the
+                        embassy?</hi>
+                </p>
+                <p>OLSEN: Well, you know, the embassy was number one in the pecking order. I think
+                    NATO was probably looked upon as number two, and the EC ambassador was number
+                    three.</p>
+                <p>We did have a little problem about who was in charge of making big decisions. For
+                    example, we would get a major visitor from the State Department.</p>
+                <p>
+                    <hi rend="italics">Q: Or a senator.</hi>
+                </p>
+                <p>OLSEN: Or a senator or something like that. And the embassy was the one that took
+                    charge of these kinds of things. Actually, we never had any serious
+                    difficulties, but we did have to...</p>
+                <p>
+                    <hi rend="italics">Q: Coerce.</hi>
+                </p>
+                <p>OLSEN: Kind of negotiate with...</p>
+                <p>
+                    <hi rend="italics">Q: Well, and it also depended upon the chiefs of mission in
+                        each one, too. Some are a little more sensitive than others about these
+                        matters. Speak a little bit about the corrosiveness of the language problem
+                        in Belgium, and how that affected things that you did and what was going
+                        on.</hi>
+                </p>
+                <p>OLSEN: Almost all Belgians were able to speak English, particularly the Flemish,
+                    because, for them, that was more important... Flemish... And they didn't much
+                    like to speak French, but some of them had to do so. Now, on the French side,
+                    the Walloons, they are kind of like the French, they like to speak French. You
+                    know, I was about a Class III French-speaker, which means you could carry on an
+                    ordinary conversation, but you can't really negotiate big business. So I had
+                    some contact with the French side of the game. But I had one political officer,
+                    Andre Havez, who was brought up speaking French, and so he was a really
+                    first-hand French-speaker in the embassy. The others were like myself, or maybe
+                    a little better than that... French. But I can also say that most of the people
+                    that I dealt with at the high levels tended to be good English-speaking types.
+                    So that's the way things worked.</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: Yes. Did military sales take much of your time?</hi>
+                </p>
+                <p>OLSEN: Oh, yes, particularly during the whole period of time they were selling
+                    the F-16s. John Renner took that to be his own problem. There was an awful lot
+                    of going back and forth. The MAG people were there, working hard on the job. It
+                    took an awful lot of time up for the embassy to carry on these negotiations.</p>
+                <p>
+                    <hi rend="italics">Q: Meanwhile, the Belgians are keeping an eye on what the
+                        Dutch were doing, I know, and vice versa, so that they went in that
+                        together.</hi>
+                </p>
+                <p>OLSEN: Exactly.</p>
+                <p>
+                    <hi rend="italics">Q: Were you there when the Lockheed scandal broke? Do you
+                        remember, there was... Certainly, in Holland, Prince Bernhard was taking
+                        money. And I gather, in Belgium, there was somewhat the same situation.</hi>
+                </p>
+                <p>OLSEN: Not exactly, no. At least not when I was there.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have to deal any with Belgium's colonial
+                        problems?</hi>
+                </p>
+                <p>OLSEN: A little bit. Mobutu had a residence in Brussels, and he spent some time
+                    there. The Belgian Foreign Ministry had a major officer whose whole job was to
+                    deal with the Belgian situation. And I was also was in a relation with him. I
+                    never met Mobutu. I met some of his henchmen. So, yes, there was some back and
+                    forth, particularly regarding the misuse of funds and that kind of thing. We
+                    were instrumental in finding a German specialist in financial affairs, who was
+                    invited to go down there and look over the books and see if he could straighten
+                    things out. He was down there for about six months or a year. He came back and
+                    said, “You can't do anything with this crowd. There is no way in which you can
+                    balance the books or anything like that.” So he resigned.</p>
+                <p>
+                    <hi rend="italics">Q: We're talking about a period 20 years ago, and I gather
+                        things haven't changed that much in that regards.</hi>
+                </p>
+                <p>OLSEN: I think you're quite right.</p>
+                <p>
+                    <hi rend="italics">Q: During the course of your tour, you moved up to become DCM
+                        in Brussels. How did this happen? Tell me a little about that.</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>OLSEN: It was getting toward the end of my three-year tour, and I was about to be
+                    relieved. The new ambassador succeeding Len Firestone was a lady ambassador.</p>
+                <p>
+                    <hi rend="italics">Q: Mrs. Chambers.</hi>
+                </p>
+                <p>OLSEN: She did not get on well with John Renner. He made some mistakes in terms
+                    of handling...</p>
+                <p>
+                    <hi rend="italics">Q: I've always thought, Art, to interpose, it isn't the
+                        ambassador's duty to get along with the DCM, it's rather the reverse. Excuse
+                        me for interpolating.</hi>
+                </p>
+                <p>OLSEN: Do you want me to talk...</p>
+                <p>
+                    <hi rend="italics">Q: Of course.</hi>
+                </p>
+                <p>OLSEN: Well, she flew into Paris, and then she was going to stay there for a day
+                    or so, and then come in by train...</p>
+                <p>
+                    <hi rend="italics">Q: Good idea.</hi>
+                </p>
+                <p>OLSEN: To Brussels. There was the annual, or biannual, air show going on at that
+                    time.</p>
+                <p>
+                    <hi rend="italics">Q: In Paris.</hi>
+                </p>
+                <p>OLSEN: Renner was acting charg� at that time, because Firestone had left, and she
+                    hadn't quite arrived yet. And so he went down there to represent the United
+                    States at the air show. He was very, very pleased to be doing that. He didn't
+                    tell Mrs. Chambers anything about it.</p>
+                <p>
+                    <hi rend="italics">Q: And she was in Paris at the time?</hi>
+                </p>
+                <p>OLSEN: That's right. She arrived in Paris when he was down there, and he didn't
+                    bother to get in touch with her. So she took the train up. And so I mobilized
+                    the whole embassy. We all got...</p>
+                <p>
+                    <pb facs="0022" n="Page0022"/>
+                    <hi rend="italics">Q: Go down and meet her at the station, yes.</hi>
+                </p>
+                <p>OLSEN: At the station, we all were standing there, 10 people in a row, to greet
+                    her. But Renner was not there. So I rose to the occasion and escorted her into
+                    the embassy, and had her meet the staff who were there, and got things organized
+                    a little bit. So she settled in. Renner showed up about two days later, I guess,
+                    when the air show was over with. When she found out that she had been bypassed,
+                    she didn't like that at all. Furthermore, as time went by, a very short period
+                    of time, he was managing the embassy before she got there. And he realized that
+                    she was not an experienced diplomat, so he thought, well, I'll continue to run
+                    the embassy, and she can do as she wishes...</p>
+                <p>
+                    <hi rend="italics">Q: As long as she agrees, that's fine.</hi>
+                </p>
+                <p>OLSEN: Yes, well, she didn't like the idea that he was going to run the store. I
+                    was having a farewell party; I was going to be leaving. It was an evening party,
+                    and I got a phone call about 10 o'clock, from her, and she said, “You are my new
+                    DCM.”</p>
+                <p>
+                    <hi rend="italics">Q: I haven't had a drink, have I? Well, bowl me over.</hi>
+                </p>
+                <p>OLSEN: It really did, because here I am, saying farewell. There was a kind of an
+                    embarrassment, I must say. Anyhow, she got rid of Renner, to put it in a hard
+                    way.</p>
+                <p>
+                    <hi rend="italics">Q: It's not surprising. Art, you've had two non-career
+                        ambassadors you worked for in Brussels, Leonard Firestone and Anne Cox
+                        Chambers. Discuss how effective they were, and contrast them, and their
+                        relation to the Belgians, and what they were sent there to do.</hi>
+                </p>
+                <p>OLSEN: Leonard Firestone knew that he was not an experienced diplomat, and he
+                    relied heavily upon Renner and myself, in particular, to help him... He was
+                    pleased to see that we were carrying him along and making sure that he was out
+                    in front at all times. He dismissed a couple of people that he thought were not
+                    up to it. One of them was the military attach�. I guess he just didn't take a
+                    liking to him; I'm not sure why. He wasn't doing any harm. Anyhow, Firestone was
+                    a pleasant, friendly fellow, who was ready to talk to the Belgian people and
+                    officials and people like that, particularly those who could speak English. So
+                    we got along quite well.</p>
+                <p>
+                    <hi rend="italics">Q: So he'd meet with the prime minister and foreign minister
+                        and people like this.</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>OLSEN: Yes, he could get along with people. He was a cordial gentleman, so there
+                    weren't any real problems at all.</p>
+                <p>Anne Chambers was a little different. She wanted to be seen as the boss, and she
+                    made sure that the admin. counselor and the econ. counselor and myself,
+                    particularly, her...</p>
+                <p>
+                    <hi rend="italics">Q: Her team, in other words.</hi>
+                </p>
+                <p>OLSEN: Her team were just kind of holding her up. So she was very active and...
+                    things like bringing in her friends from Atlanta and that kind of stuff. And she
+                    had some rather dubious friends, dubious from our point of view, friends who
+                    were around the embassy. One of them I ... can't stay here any longer. He wasn't
+                    cleared for any classified stuff or anything like that, so we didn't want him
+                    around at all.</p>
+                <p>
+                    <hi rend="italics">Q: Did she accept that?</hi>
+                </p>
+                <p>OLSEN: She accepted it. I tried to explain to her that you really can't... a
+                    person like that. She understood that.</p>
+                <p>
+                    <hi rend="italics">Q: She had a journalistic background, hadn't she?</hi>
+                </p>
+                <p>OLSEN: Oh, she was a Cox.</p>
+                <p>
+                    <hi rend="italics">Q: Of an Atlanta newspaper chain there, the Cox newspaper.
+                        Had she been active in journalism herself, or only on the owner's side?</hi>
+                </p>
+                <p>OLSEN: She was... the owner, but she was also kind of a hands-on owner, because
+                    she inherited this Cox Communications, which is a huge... position. She was a
+                    millionaire, I would say.</p>
+                <p>
+                    <hi rend="italics">Q: I guess my question was, did she take a particular
+                        interest in what USIS was doing and our public relations aspect there?</hi>
+                </p>
+                <pb facs="0024" n="Page0024"/>
+                <p>OLSEN: To some extent, the answer is yes. The cultural counselor, for example,
+                    kind of stepped forward and kind of led her around in the cultural world. So she
+                    did pretty well on that. She was not terribly interested in making friends with
+                    people at the Foreign Office, for example. I can think of one or two who she
+                    kind of struck a friendship with... But, by and large, in things like the big
+                    negotiating on the F-16, that kind of stuff, she didn't want a hand in that in
+                    that. But she was watching what was going on.</p>
+                <p>
+                    <hi rend="italics">Q: She wanted to know what you were doing. Did she go around
+                        the country making a speeches, or was she asked to?</hi>
+                </p>
+                <p>OLSEN: She was asked to, but she couldn't do it in French. In Public Affairs, she
+                    was a constant... and told that she had French, and so he came by and spoke to
+                    her in French. And we found out that she was pretty weak in French. She had
+                    learned it 23 years ago, and didn't have much. And so he said to somebody, which
+                    she overheard had been... to her, that she was not useful as a French speaker at
+                    all. She didn't like that one bit. And so it didn't take very long for her to
+                    say, on your way. She threw him out.</p>
+                <p>
+                    <hi rend="italics">Q: Things were taken personally there.</hi>
+                </p>
+                <p>OLSEN: That's right. She was used to running a big store, and she was not up to
+                    being maltreated.</p>
+                <p>So, anyhow, I stayed... for most of my three-year tour as the...</p>
+                <p>
+                    <hi rend="italics">Q: In 1978, President Carter paid a visit to Belgium.</hi>
+                </p>
+                <p>OLSEN: Yes, he did.</p>
+                <p>
+                    <hi rend="italics">Q: Can you say something about that?</hi>
+                </p>
+                <p>OLSEN: Yes. President Carter had an entourage who were basically not very
+                    experienced in traveling abroad, but he brought him with him anyhow. And there
+                    were a few interesting contretemps. He went first to France, and he went out to
+                    the Normandy area. This was in January, I think, when he made this tour. He went
+                    out there with Giscard D'Estaing. Giscard knew it was cold, so he had a heavy
+                    coat on. Carter was there just in a suit, and he was freezing. The next stop was
+                    Belgium, and he was greeted at the airport. By then, the weather had changed
+                    quite a bit. But he wasn't about to make any more mistakes, so he was there with
+                    a heavy coat, and everybody else was... That was a kind of a curious thing.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>Anyhow, I had two experiences. One was Nixon's last trip before he got brought
+                    down. He was just traveling around Europe.</p>
+                <p>
+                    <hi rend="italics">Q: This was Nixon coming to Brussels, I guess.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: On that famous last tour he made.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: In '74.</hi>
+                </p>
+                <p>OLSEN: That's right. And so I was one of those who was standing in the line, so
+                    to speak, greeting him and sort of escorting him and Kissinger... The ambassador
+                    at that time, I guess, was still Firestone. So Firestone was to be his... I
+                    remember the new ambassadors to NATO and EC were a little bit burned when they
+                    weren't up in the top row of anything that was going on. Anyhow, Nixon was just
+                    going by, I think. Then the Carter came in... Mrs. Carter, Rosalynn, she wanted
+                    to do a number of things. And so... was interested to be her escort through all
+                    of this.... Brussels... one thing or another, I forget all... Anyhow, she had
+                    more to do with the royal family than I did it.</p>
+                <p>
+                    <hi rend="italics">Q: It often happened that way.</hi>
+                </p>
+                <p>OLSEN: Anyhow, Carter handled himself quite well.</p>
+                <p>
+                    <hi rend="italics">Q: Well, he was a friend of Mrs. Chambers, anyhow, I
+                        gather.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: So that helped him.</hi>
+                </p>
+                <p>OLSEN: Exactly.</p>
+                <p>
+                    <pb facs="0026" n="Page0026"/>
+                    <hi rend="italics">Q: Well, during your period there, the Belgian prime minister
+                        kept coming and going, I gather, as a result of the language problem,
+                        basically.</hi>
+                </p>
+                <p>OLSEN: Yes. During the time that I was the political counselor, I made friends
+                    with Martens and with Tindemans. Both of them at that time were rising
+                    politicians, but not yet prime ministers. Martens was the head of the Christian
+                    Democratic Party, and Tindemans was also in that party, and he was the first one
+                    to come up as the prime minister. Even before he was prime minister, he and I
+                    would go to have lunch every once in a while. He was much interested in the
+                    United States, what were we doing and how we felt about things, and how they
+                    felt, and how we felt about Brussels. Anyhow, we had pretty good friendly
+                    relationships. A similar good relationship with Martens, who obviously was an
+                    ambitious leader, and, as it turned out, later on, he became prime minister for
+                    a long period of time. So those two were, you might say, my good friends from
+                    the point of view of establishing relationships with people encountered.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, I think you did very well in that regard. You picked
+                        two out of the three prime ministers while you were there as good friends.
+                        Apparently, they had no problems with the U.S.-Belgian relationship.</hi>
+                </p>
+                <p>OLSEN: Never very serious ones at that time.</p>
+                <p>
+                    <hi rend="italics">Q: While you were there, I gather, toward the end of your
+                        tour, the Belgians approved what they called regional autonomy, which really
+                        sets in concrete what everyone knows had been going on for years, I guess,
+                        that there are a couple of regions there.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Could you say anything about that.</hi>
+                </p>
+                <p>OLSEN: Well, that wasn't achieved by the time that I left. But I knew what they
+                    were working toward. To this day, they haven't really resolved this question.
+                    Things were tilting in favor of the Flemings, because that's where all the big
+                    industry was, and the demographics were heavily on the side of the Flemish. And
+                    so the even balance that they've been working on for all these years, with
+                    Brussels city being the biggest problem about how do you separate..., the
+                    balance of power was switching towards the Flemish. And to this day, I think
+                    that's still the case. I don't know how that will come to an end.</p>
+                <p>
+                    <pb facs="0027" n="Page0027"/>
+                    <hi rend="italics">Q: That's what I wanted to ask you. I guess my last question
+                        is what do you see for Belgium's future? I mean, will it be saved by being
+                        folded into Europe? Or will it eventually be torn apart on the language
+                        problems?</hi>
+                </p>
+                <p>OLSEN: I don't think it will ever be torn apart. They created Belgium out of old
+                    duchies and that sort of thing, and it's hung together for 100 years or
+                    more.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, since 1830. So it's been quite a while.</hi>
+                </p>
+                <p>OLSEN: That's right. So I don't see that Belgium is ever going to collapse. And
+                    their relationship with the other two countries, The Netherlands and Luxembourg,
+                    will remain a triumvirate.</p>
+                <p>
+                    <hi rend="italics">Q: Benelux is going to stay.</hi>
+                </p>
+                <p>OLSEN: Benelux is going to stay. I don't see it collapsing, particularly if
+                    Europe becomes EC, so all over. Benelux will just fit nicely in..., which
+                    probably will somewhat ease the tensions between the Walloons and the
+                    Flemings.</p>
+                <p>
+                    <hi rend="italics">Q: Well, those were six exciting and interesting years you
+                        had in Belgium.</hi>
+                </p>
+                <p>OLSEN: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: But they had to come to an end. And then you came back to
+                        Washington and went into the Board of Foreign Service Examiners.</hi>
+                </p>
+                <p>OLSEN: That's correct.</p>
+                <p>
+                    <hi rend="italics">Q: Were you there for the change of administration in '80 and
+                        '81, from Carter to Reagan?</hi>
+                </p>
+                <p>OLSEN: Yes, that's right. I guess I arrived there about the time that...</p>
+                <p>
+                    <hi rend="italics">Q: Did that have any effect at all on B/EX, personalities or
+                        new guidelines or anything?</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>OLSEN: Not really. No, that did not. And I worked there for about two years, I
+                    guess. I was seconded to a highly classified operation which... of the
+                    government situation. I'm not sure whether I should be talking to you about it
+                    or not. I'm supposed to have been sworn to secrecy forever and ever.</p>
+                <p>
+                    <hi rend="italics">Q: Back to your BEX experience. Did you sit on many panels,
+                        examining candidates?</hi>
+                </p>
+                <p>OLSEN: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: How many people were on each panel? How many
+                        examiners?</hi>
+                </p>
+                <p>OLSEN: At that time, we had three at each time.</p>
+                <p>
+                    <hi rend="italics">Q: Were they all State, or did you include USIA or any other
+                        outside agency?</hi>
+                </p>
+                <p>OLSEN: No. During my time, no. They were all...</p>
+                <p>
+                    <hi rend="italics">Q: Perhaps USIA examined their own candidates, and State
+                        examined theirs. What was your general impression of the candidates coming
+                        before you?</hi>
+                </p>
+                <p>OLSEN: I would say that one thing that struck me was that young candidates coming
+                    out of universities and graduate students were fewer than I had expected. We
+                    were getting a lot of Ph.D. candidates and people who had worked for a while,
+                    the 30-year-old types, and they were the ones who were tending to dominate the
+                    positions.</p>
+                <p>
+                    <hi rend="italics">Q: In some ways, I imagine that's all to the good. There are
+                        some drawbacks to that, the fact that their expectations are higher, often,
+                        when they come into the Service, and so forth. Perhaps the idea of going out
+                        to issue visas for two years in some hole is not quite what they counted
+                        on.</hi>
+                </p>
+                <p>OLSEN: Not when you're 30 years old, no.</p>
+                <p>
+                    <hi rend="italics">Q: Did we seem to be getting the best people? Were you
+                        satisfied that the quality was holding up?</hi>
+                </p>
+                <pb facs="0029" n="Page0029"/>
+                <p>OLSEN: I thought the quality was holding up, because we were kind of tough on
+                    sorting them out. Not the ones who were getting the high marks were the
+                    minority.</p>
+                <p>
+                    <hi rend="italics">Q: How about minorities, using that word, and women? Were we
+                        getting enough of those applying? Or did we have special standards?</hi>
+                </p>
+                <p>OLSEN: That was during a period in which the Department was feeling the pressure
+                    to bring in a lot of people. And so we had quite a few coming in from USIS,
+                    being brought in just because they were black or...</p>
+                <p>
+                    <hi rend="italics">Q: They had not passed the written examination, I think.</hi>
+                </p>
+                <p>OLSEN: That's it exactly. And they were just brought in. We had quite a number of
+                    those, and some of them were terribly unprepared. I thought it was not a very
+                    successful exercise. But when you're talking about the ordinary candidates, it
+                    was pretty heavily white males who were getting in there. But there were more
+                    and more successful girls. But they still were a definite minority. In terms of
+                    Asians and blacks, not too many successful.</p>
+                <p>
+                    <hi rend="italics">Q: Geographic distribution, did you look for that at all? Or
+                        did you just take the candidates as they came?</hi>
+                </p>
+                <p>OLSEN: Well, they caused us to travel all over the country. And so you go out to
+                    California, go out to Honolulu, go up to Alaska.</p>
+                <p>
+                    <hi rend="italics">Q: You did travel then.</hi>
+                </p>
+                <p>OLSEN: Yes, I did. So they did it on purpose, to get a cross section of the
+                    United States. That's why you have these travels.</p>
+                <p>
+                    <hi rend="italics">Q: How did you panel members resolve your differences of
+                        opinion? Did you vote, or did you try to reach consensus?</hi>
+                </p>
+                <p>OLSEN: Tried to reach consensus. ... two to one against... We would sit down
+                    there and agree on marks. The way that BEX was working when I was there was we
+                    had three officers, as a rule, examining each candidate. And when it was over
+                    with, we would have a meeting among ourselves. Let's say I was a 6.6 and my
+                    other colleague was 5 to 6.4, and that kind of thing. And so we would work it
+                    out so... agreed judgment of this candidate.</p>
+                <pb facs="0030" n="Page0030"/>
+                <p>
+                    <hi rend="italics">Q: And then you'd sort of rank order them on a list or
+                        not?</hi>
+                </p>
+                <p>OLSEN: No.</p>
+                <p>
+                    <hi rend="italics">Q: So you'd just send in the raw scores to Washington.</hi>
+                </p>
+                <p>OLSEN: That's basically what we did. We were not ranking... Let's say we traveled
+                    and interviewed 20 people. We wouldn't go 1 to 20. Maybe we'd bust out 10 of
+                    them, and the other 10 would be sent in to the head of the BEX.</p>
+                <p>
+                    <hi rend="italics">Q: You were agreed that certain ones weren't going to make it
+                        anyhow.</hi>
+                </p>
+                <p>OLSEN: That's right. And the others may or may not have passed judgement through
+                    the BEX system.</p>
+                <p>
+                    <hi rend="italics">Q: Are you satisfied, from your experience there and your
+                        experience throughout your career, that the written exam plus the oral exam
+                        is the best way to get our new officers? Or could there be a better
+                        system?</hi>
+                </p>
+                <p>OLSEN: I don't know that there's a better system. I think that a combination of
+                    the oral exam, which is one in which you are measuring intellectual background
+                    and intellectual activity, on the oral side of the thing, has to do with your
+                    ability to present yourself and to deal with problems that you might come up
+                    with, not necessarily bearing upon how brilliant you are. You know, we had
+                    things like the situation was to come in as a new consul, and there on your desk
+                    is a whole bunch of things, which you have to sort out, which is the most
+                    important, and what you should do, whether you throw them away or whatever. And
+                    that's a judgment question that measures...</p>
+                <p>
+                    <hi rend="italics">Q: Well, I always thought that the oral exam is the absolute
+                        essential part of selecting any candidate, because you can always find
+                        people to pass the written, but the purpose of diplomacy is to persuade
+                        other people, not just to pass written exams, and this you see in the
+                        oral.</hi>
+                </p>
+                <pb facs="0031" n="Page0031"/>
+                <p>OLSEN: One of the good things we had on the, and I'm sure they're still doing it,
+                    would be the setting up a situation in some country in which, say, you have a
+                    number of opportunities to spend $50,000, on a new bridge or something like
+                    that, or to send students abroad to study, or whatever, and you have these four
+                    people around the table, six people, and there was nobody who was in charge, but
+                    they would discuss themselves how would you spend your $50,000. And it would be
+                    interesting to see who takes charge and manages himself, and who just sits there
+                    and does nothing, and who was in between. And we had four observers sitting
+                    there watching. And so you... yourself who was doing things right.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, yes, that sounds like a fascinating drill.</hi>
+                </p>
+                <p>OLSEN: And what it is is to measure ability to lead groups, to understand what
+                    other people are doing, and whether we should be able to negotiate with them.
+                    And you get somebody who's absolutely insistent upon, I'm going to have my way
+                    or not, and that's a bad way to come out. So that measures...</p>
+                <p>
+                    <hi rend="italics">Q: Yes, that's an experiment I have not been in on, but it
+                        sounds like it would be very useful. In thinking of who's going to become
+                        ambassador, a fellow who had his own way, maybe. Well, Art, looking back,
+                        how do you view the Foreign Service as a career these days? Would you
+                        recommend it to a young person or not?</hi>
+                </p>
+                <p>OLSEN: Yes, I would. I still think that the Foreign Service has a role to play in
+                    the world. It's more complex than it was when I was in, 15 years back. We've got
+                    many more embassies. There are so many... problems that you get. But I would
+                    think that the Foreign Service would still be an interesting career.</p>
+                <p>
+                    <hi rend="italics">Q: All right. Any final thoughts or comments over your long
+                        years of involvement with foreign affairs?</hi>
+                </p>
+                <p>OLSEN: Yes, I would say these comments, that I believe that the Foreign Service,
+                    which has been pretty much overrun by the National Security Council and that
+                    sort of thing, and has taken a number of Foreign Service officers into the back
+                    benches, so to speak, I think that's unfortunate, because I think the Foreign
+                    Service officers should be able to have as much of an impact upon decisions in
+                    the Foreign Service and of the United States' foreign affairs, and that should
+                    never come to an end.</p>
+                <p>
+                    <pb facs="0032" n="Page0032"/>
+                    <hi rend="italics">Q: Thank you very much. This is Tom Dunnigan, and I've been
+                        talking today with Art Olsen on behalf of the Foreign Service Oral History
+                        Program and the Association for Diplomatic Studies and Training. The date is
+                        February 24, 1997.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

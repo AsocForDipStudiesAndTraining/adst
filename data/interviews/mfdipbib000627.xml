@@ -1,632 +1,1246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000627">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Frances Knight </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Frances Knight </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>FRANCES KNIGHT</p>
-<p>Interviewed by:  Charles Stuart Kennedy </p>
-<p>Initial interview date:  June 16, 1987</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Over the years of 1955 to 1977, I have indirectly worked for Miss Knight as consular officer at American embassies and consulates abroad, issuing and renewing passports, and looking to her office for general supervision.I wonder if you could describe a bit about your general background, where you were born, where you grew up, and your education before you came to Washington.</hi>
-</p>
-<p>KNIGHT:  Well, I was born in Newport, Rhode Island, where my parents spent the summers, and I enjoyed it there very much, because it's a beautiful state, and it was sort of our home away from home.</p>
-<p>
-<hi rend="italics">Q:  Where was your home?</hi>
-</p>
-<p>KNIGHT:  We lived for many, many years in New York.  We only had, I think, as I recall now, two and a half residences in New York, and my parents were very active in many things.  My mother was very active in teaching people how to dress and how to sew.  She was really quite brilliant about looking a person over and suggesting what would make that person feel important in the way of dress, in the way of taking care of their appearance.  She was very good at teaching old people how to dress.  As you probably know—I think we all do—that some of the clothes that were available—well, and still are—are not particularly flattering to people.  People make mistakes in buying certain types of clothing that don't do them any good.  It doesn't do them any harm, but it doesn't help them.</p>
-<p>
-<hi rend="italics">Q:  It doesn't bring out their best.</hi>
-</p>
-<p>KNIGHT:  Right.  So she was good at that sort of thing, and she liked to work with young people.  I went through Hunter.  To start back, the entry school, the grammar school, the high school, and the college, so I had gone through all that in New York.</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q:  I noticed your biography mentions you went to schools in France, Czechoslovakia, and Monaco.</hi>
-</p>
-<p>KNIGHT:  Yes, yes.  But these were short term.</p>
-<p>
-<hi rend="italics">Q:  Were you picking up languages at the time?</hi>
-</p>
-<p>KNIGHT:  Well, my mother was Czechoslovakian.  That was my first language.</p>
-<p>
-<hi rend="italics">Q:  Oh, I see.</hi>
-</p>
-<p>KNIGHT:  And my mother and father spoke German most of the time and my mother taught me to speak French, so I actually spoke French and German before I spoke English because of all our traveling, they were really much more accustomed at home to speaking foreign languages, and I picked it up.</p>
-<p>
-<hi rend="italics">Q:  What sort of business was your father in?</hi>
-</p>
-<p>KNIGHT:  He had what, I guess you would call a tourist bureau.  Of course, in those days, there was very little of that.</p>
-<p>
-<hi rend="italics">Q:  I know.  You had Cook's Travel Office, and that was about it.</hi>
-</p>
-<p>KNIGHT:  That was it.  You had Cook's.  You either had that or you didn't go.  But my father was very good on traveling as he knew so many people.  He was an Englishman and very well known in England.  He was in the Royal Air Force.  That man with the wonderful voice in the early part of the war broadcast that “England expects every man to do his duty” or the like.  And that was the day my father went into the Royal Air Force to fight World War I.</p>
-<p>
-<hi rend="italics">Q:  I guess you must have been very proud of him.</hi>
-</p>
-<p>KNIGHT:  Yes.</p>
-<p>
-<hi rend="italics">Q:  You went to Hunter College while it was part of Columbia University?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>KNIGHT:  Yes but, I never graduated from Hunter; in those days, college, university were like an open book.  You would go in and out and in and out.  If it was necessary for the family to go to Europe, well, we'd go to Europe instead of taking courses.</p>
-<p>
-<hi rend="italics">Q:  This was an excellent education for your later work with the State Department.</hi>
-</p>
-<p>KNIGHT:  Yes.</p>
-<p>
-<hi rend="italics">Q:  What brought you to Washington to work?</hi>
-</p>
-<p>KNIGHT:  Well, that was back in '34, '35.  Of course, if you recall, there was so much in the papers about the Roosevelt Administration, the big changes happening in Washington.  And my husband, Wayne Parrish, who was, widely known for his tremendous interest in aviation, and the result of that was that he wanted to come to Washington to make his mark in the aviation business.  Q:  You were married in New York.  What year were you married?</p>
-<p>KNIGHT:  That's a horrible request of you, because I never remember.  I never have remembered, and my husband said, “Honestly, I don't know how the hell you don't remember your wedding date.” (Laughs)</p>
-<p>
-<hi rend="italics">Q:  No problem there.  You came to Washington in 1934, so obviously you were married before that.</hi>
-</p>
-<p>KNIGHT:  Yes.  He was a reporter, and an excellent writer.</p>
-<p>
-<hi rend="italics">Q:  What type of work did you initially do when you came to Washington?</hi>
-</p>
-<p>KNIGHT:  Well, when I came to Washington, Wayne followed me to Washington.  I decided to come because of the Roosevelt Administration.  I was very curious about it.  It had a tremendous amount of publicity, because it was very new and different.</p>
-<p>
-<hi rend="italics">Q:  And it was a feeling of activism and change.</hi>
-</p>
-<p>KNIGHT:  So the first thing I did was to go to the Civil Service Commission and ask whether they had any openings. And they did.  I took a battery of aptitude tests, 11 altogether. It's a whole listing that they give you, and you have to check it off as to type of work it would be.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  I understand.</hi>
-</p>
-<p>KNIGHT:  But you see, that was the Thirties.  And under the Roosevelt Administration, there were so many changes, and a lot of jobs opened up, because things became bigger and bigger.  I happened to run into some friends from New York who said, “Oh, we know a senator in Washington.  Why don't you go to see him?”I said, “Well, I don't know any senators.” I didn't know any congressmen.  So this friend, who really was a friend of my mother's, wrote to one of the senators and said, “I have a friend that's coming to Washington.  I don't know how long she'll be there, but please be good to her,” and gave me his address.  I went up to the Hill, and I visited not only that one person, but several others on the Hill, and I found myself saying, “Well, you know, it's sort of fun to be up here on the Hill and talking to all these very, very important people.” Of course, the longer I stayed in Washington, the less entranced I got.  People were nice and fine, but I found that there was an awful lot of muddling in those days.  Today I can understand it.  That early administration from Franklin D. Roosevelt was a tough one, very, very tough.  It was a complete change, and it changed everything in Washington.  It was interesting.I got a job, and when I say I got a job, it was a peculiar job, because I just walked into the Commerce Department and ran into a number of the people who had been assigned to make this great change in Washington, based on a deeper understanding of what the public was looking for, what the public had to be educated on.  It was a big change in government, and while the Roosevelt Administration did have its weak points, everybody worked hard.  There wasn't such a thing as, for instance, going out for a two-hour lunch.  There wasn't such a thing as saying, “No, I can't do it because I'm leaving this afternoon at 5:00.”</p>
-<p>
-<hi rend="italics">Q:  There was a feeling of urgency and necessity.</hi>
-</p>
-<p>KNIGHT:  That's right.  And it was a good feeling, and it was a feeling that, I think, encouraged people to do things.</p>
-<p>
-<hi rend="italics">Q:  Of course.</hi>
-</p>
-<p>KNIGHT:  People were staying in the Department of Commerce offices until 6:00 and 7:00 in the evening.</p>
-<p>
-<hi rend="italics">Q:  There was a feeling, I believe, in those days of purpose, and you were feeling you were doing something, rather than time-serving.</hi>
-</p>
-<p>KNIGHT:  Right.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  Moving ahead, before you were assigned to the Passport Office, had you had a chance to observe its workings and all?  Did you have any feeling for the Passport Office?</hi>
-</p>
-<p>KNIGHT:  Not at all, because I was actually more concerned with the Senate and the House.</p>
-<p>
-<hi rend="italics">Q:  What were you doing more or less immediately prior to being assigned to the Passport Office?</hi>
-</p>
-<p>KNIGHT:  I worked for Congressman John Taber from Auburn, New York.  He came from New York, and he was Chairman of the House Appropriations Committee, which gave him a lot of clout.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>KNIGHT:  And he was a close personal friend of the family in New York that my mother and I knew, and there was some telephone calls and conversations and so on.  So one day I was told to go to his office and visit with him.  He was a very stern person, New England, stern.  He worked always.  He got into the office early in the morning and he stayed late at night.  He was that type of person.  That was his job, and he was going to stick with it as long as he could possibly stay there.</p>
-<p>So I talked to him, only just a very short conversation, and he said, “Why don't you come in here and work for me?  Look at the piles of paper I've got around here.” He said, “It's not an easy job, but you'll learn a lot.” And that's the way I started.  That's the only way I started.  I didn't know anyone else.  I didn't know the names of the senators or congressmen. Obviously, coming from New York, I wasn't really concerned with any of that.</p>
-<p>But John Taber was known in Washington as having a tremendous voice.  The first thing I learned about him was from a young lady in his office who said to me, “Be careful.  Don't get him mad or upset about something, because he'll shout at you, and you'll have your eardrums burst.”</p>
-<p>And I said, “What do you mean?” And she said, “He made a speech in the House of Representatives and somebody interrupted him and he got angry, and he shouted.  And the man next to him lost his hearing.” Well, very fortunately, it was not permanent. So he was known as a tremendous speaker and he became chairman of a very important committee, and that was the House Appropriations Committee.  From there, I went on.</p>
-<p>
-<hi rend="italics">Q:  Why the Passport Office?  This was in 1955.</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>KNIGHT:  Well, you see, I was in different other jobs in the meantime.  For instance, I was called by the White House.  I was still working in the Civil Service.  Whatever happened to come up, sometimes the Civil Service Commission would call me and say, “Could you come down and spend so much time at such and such a project?”</p>
-<p>Remember, that was in the early days of the Roosevelt Administration, and everybody was trying hard to do something that was worthwhile, and most of it was difficult, because there was so little preparation prior to the Roosevelt Administration.  Apparently, Roosevelt came in there and the place was a mess.  Washington was a mess.  There were so many things that were done that were either done badly or not at all.</p>
-<p>So I stayed on, and little by little learned about government, and I thought, “Well, everything I've learned, everything I've been told is true: it's a mess.” I wasn't very happy about having come to Washington and getting into the government, until I met what they called the New Dealers.  They were the people who started in a completely new environment in Washington, with President Roosevelt , who was very, very active.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>KNIGHT:  One day the President wanted someone who could contact Mrs. Roosevelt for him when she was giving exercise classes.  She was exercising the personnel of a certain office that was in the triangular building at Dupont Circle.  Mrs. Roosevelt had an office there, and as she got to know the girls and women who were working in that building, and she said, “I think it's outrageous that they work all day long, have their lunch at their desks.  I want them to have exercise on the roof.” So Mrs. Roosevelt set up an exercise committee, and she herself took part in it.</p>
-<p>The President said to one of his aides, “I've got to get somebody to go up and get in touch with my wife and work out something to keep her away from exercising on the roof of that building.”</p>
-<p>
-<hi rend="italics">Q:  On Massachusetts and Dupont Circle, yes.</hi>
-</p>
-<p>KNIGHT:  It's still there.  She had this thing going up, and sure enough, the President was right.  The press got into it.  I was called to the White House, who said, “You've got to get the press out of there.  They must not talk to Mrs. Roosevelt, they must not see her running around the roof doing these exercises with the staff.  And the President is very concerned about it.  The President's wife shouldn't be doing this sort of thing.  What are you doing?”</p>
-<pb facs="0007" n="Page0007"/>
-<p>I said, “I'm not doing anything.  I'm working here.  I don't have any assignment with Mrs. Roosevelt.  I haven't talked to Mrs. Roosevelt.  I don't even know what office she's in.”</p>
-<p>With Mrs. Roosevelt, it wasn't a question of what office; she was all over the place.  She'd stop into an office, she'd talk to the girls, go downstairs, she'd go upstairs, she was on the roof.  And the President just got to the point where he was scared to death that it would become a joke, the President's wife doing all this monkey business.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>KNIGHT:  So then I was again called.  This was another call from the White House.  “Get rid of the press.  Don't have the press go up with Mrs. Roosevelt to do these calisthenics.”</p>
-<p>And I remember the first girl that came in was AP [Associated Press], and I said, “I can't help you.  I simply can't help you.  I can't tell you where she is.  I don't know anything about it.” Well, that was the AP, and they were upset, and they stuck around and stuck around, and I called the White House and said, “There's nothing I can do.  The press comes in.  You can't lock the doors and simply say that they can't talk to the President's wife if she wants to talk to the press.”</p>
-<p>Well, to make a long story short, we got through with that particular thing, but it was difficult.</p>
-<p>
-<hi rend="italics">Q:  Moving somewhat ahead now, you went to the Passport Office in 1955.  Had you asked for that position?</hi>
-</p>
-<p>KNIGHT:  No, no, no.</p>
-<p>
-<hi rend="italics">Q:  The Passport Office had been run, if I recall, for 27 years by Ruth Shipley, who was sort of a power unto herself in Washington.</hi>
-</p>
-<p>KNIGHT:  She retired.</p>
-<p>
-<hi rend="italics">Q:  She retired.  Why were you brought in for that?</hi>
-</p>
-<p>KNIGHT:  She wanted me to come.  She recommended me to take her place when she retired.</p>
-<p>
-<hi rend="italics">Q:  Had you worked in the Passport Office at all?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>KNIGHT:  No, except that I knew her like everybody else because she had been there a long time, but she was not very popular, not only with the staff, but with the people who were asking for passports.</p>
-<p>
-<hi rend="italics">Q:  My understanding was that the Passport Office was not in a very organized state at the time.</hi>
-</p>
-<p>KNIGHT:  No, no.</p>
-<p>
-<hi rend="italics">Q:  How did you find it when you arrived?</hi>
-</p>
-<p>KNIGHT:  It was a mess.  It was an absolute mess, because in the first place, I don't think Mrs. Shipley believed in excessive travel, you know.</p>
-<p>
-<hi rend="italics">Q:  She was the wrong person for that.</hi>
-</p>
-<p>KNIGHT:  That's right.  She had no interest in travel herself.  She personally did very little traveling, as far as I know, because I never remember her [traveling].  She took a liking to me (Laughs) and I think I was very fortunate that she liked me, because there were very, very few people that Mrs. Shipley did like.  She could not stand her constituency.  If a person lost a passport, or if a passport was stolen, she said, “Well, that's not my fault; it's their fault.  Let them worry about it.” She never tried and I remember she said, “It's not my business to take care of the people in the United States who want to go abroad and lose their passports or lose their papers.  The Americans don't know how to travel anyway.  They have no business going out of the country.” That was her idea.  She would say, “What do you want to go to Europe for?  Isn't this country good enough for you?” And the other thing is, if a person asked too many questions or if they were trying to get some information from the Passport Office, it would annoy her, she would say, “Well, we're not here to give you information on where you should go in Europe.  Go to a travel agency.” In a way, she was correct, but she, in a way, brought this on herself.</p>
-<p>The Congress was—and is today—always looking for something to do for a constituent which might be useful or helpful to the congressman.</p>
-<p>
-<hi rend="italics">Q:  Make the constituent indebted to the congressman.  Yes.</hi>
-</p>
-<p>KNIGHT:  And this is something Mrs. Shipley never did.</p>
-<p>
-<hi rend="italics">Q:  Was it that she didn't understand it or didn't care?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>KNIGHT:  She said, “It's not my business.  If they want to do something for their constituent, let them do it.  I'm not going to do it.”</p>
-<p>
-<hi rend="italics">Q:  Why wasn't something done about this?  Why did this sort of attitude exist in a key position, I mean, somebody with that type of attitude remain there so long?</hi>
-</p>
-<p>KNIGHT:  That's just what I was going to say.  She was there a long time, she knew more about the State Department than most of the people in the State Department, including the Secretary of State.  (Laughs) She never really considered herself as an employee.  Everything was done well and correctly, but I never found her to consider herself as one of the staff doing anything.</p>
-<p>
-<hi rend="italics">Q:  It was her office.</hi>
-</p>
-<p>KNIGHT:  It was her office, period, and you did it the way she wanted it done, you see.  If you lost your passport, it was stupid.  That was one of the things I remember so well.  People lose their passports, of course, they're careless, and there is a certain amount of stupidity, but what do you do about it?  You change it, you see.  But she wouldn't.  She said, “If they lost the passport, that's their business; that's not mine.”Q:  How did the staff feel about her in the Passport Office?</p>
-<p>KNIGHT:  She wasn't liked by the staff.</p>
-<p>
-<hi rend="italics">Q:  What was the problem?</hi>
-</p>
-<p>KNIGHT:  She was never really very friendly with the staff, and she disliked blacks.  She disliked the blacks very much.</p>
-<p>
-<hi rend="italics">Q:  Did she come from the South or from Washington?</hi>
-</p>
-<p>KNIGHT:  Yes, I think so.  There was enough of the South to keep this in her mind, and it's too bad.</p>
-<p>
-<hi rend="italics">Q:  Was a good proportion of the people working in the Passport Office black at that time?</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>KNIGHT:  No.  There were some and they were not trained properly.  When I came in, I had a real problem.  I stopped the drinking.  I mean, I went down one day, within the first week or ten days, and found that in the basement, right after lunch, they had bottles of whiskey there.</p>
-<p>
-<hi rend="italics">Q:  This is the old Winder Building, was it?</hi>
-</p>
-<p>KNIGHT:  Yes.  They were having a ball.  Mrs. Shipley was of another generation.  During her stay in the Passport Office, she ran it—period.  She did it her way, and she resented anyone coming into it or getting into it.</p>
-<p>
-<hi rend="italics">Q:  You had, by this time, developed a reputation for being a good administrator.  Why would she pick you rather than some . . .</hi>
-</p>
-<p>KNIGHT:  She didn't pick me.  It was the Secretary of State that picked me.</p>
-<p>
-<hi rend="italics">Q:  You were saying that she had recommended you.</hi>
-</p>
-<p>KNIGHT:  Well, there's something about Mrs. Shipley.  She knew when to stop something, and when she found out that the Secretary of State called me into his office and said, “We've got to do something about this situation.”</p>
-<p>
-<hi rend="italics">Q:  This was Foster Dulles?</hi>
-</p>
-<p>KNIGHT:  It was Foster Dulles.  He was concerned about Mrs. Shipley, because she was having problems with Congress.  That was the reason they were changing.</p>
-<p>
-<hi rend="italics">Q:  She was not responsive to Congress.</hi>
-</p>
-<p>KNIGHT:  She was not responsive to Congress; she didn't like the Congress; she was not interested in helping them with their constituencies.  She would say, for instance, “Well, Congressman So-and-so has a problem.  He's got a stupid person in his place, and he's trying to tell us to do such and such a thing to take care of that person's passport.  I won't do it.”</p>
-<p>
-<hi rend="italics">Q:  So you were really brought in by Secretary Dulles to clean up the mess as he saw it.</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>KNIGHT:  Absolutely.  The members of Congress were getting to the point where they were actually telling him, “You've got to do something about that Passport Office.  It simply is not working well.  We have a constituent, a very important person, that put so and so into the Senate or into the House and so on, and this woman is saying that she won't send them a passport for three weeks.  The man wants to leave next week; she says, 'No, I'm not going to send it to you.  I'm too busy.'” So you see, she had a very strong will, she had a very strong will.  Now she was good to me, but people did not like her.  She was too stern.  She had a stern background. Her son told me this, that she was very stern with people.</p>
-<p>
-<hi rend="italics">Q:  What type of things did you set about to do when you took over the Passport Office?  What were some of your priorities?</hi>
-</p>
-<p>KNIGHT:  Well, the first thing was to get the employees to work together.  Secondly, to stop the drinking in the basement.  And they never knew when I would come down, but I was down three and four times a day, just passing by, saying, “What are you boys doing?  What are all these whiskey bottles over here?” Now she never went down in the basement; she wouldn't dream of going down into the basement to see what was going on.  I found whiskey bottles in the toilets in the building.  Actually, people in the Passport Office were bringing in drinks.  I certainly know of at least one man who had a bottle of whiskey with him every day.</p>
-<p>
-<hi rend="italics">Q:  These were people from a variety of ranks, too?</hi>
-</p>
-<p>KNIGHT:  Oh, yes.</p>
-<p>
-<hi rend="italics">Q:  It wasn't just some of the messengers and the like?</hi>
-</p>
-<p>KNIGHT:  Oh, no.</p>
-<p>
-<hi rend="italics">Q:  This was sort of endemic throughout.  What about the system they had, the filing system?</hi>
-</p>
-<p>KNIGHT:  Terrible.  Terrible.  And, of course, it took six weeks or more to get a passport.  The first thing that I did was to say , “A passport request from any place in the United States by an American citizen requires and that we have a record of it, and the passport will be issued within a matter of three days.”</p>
-<p>
-<hi rend="italics">Q:  That's remarkable.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>KNIGHT:  And we did that.</p>
-<p>
-<hi rend="italics">Q:  Did you have much opposition from your staff to begin with?</hi>
-</p>
-<p>KNIGHT:  No, none, because they didn't like Mrs. Shipley, you see.</p>
-<p>
-<hi rend="italics">Q:  So you had a group going with you rather than against you.</hi>
-</p>
-<p>KNIGHT:  That's right.  I had a group that became very useful, and they are there today.  I've got two lawyers out of that group.  After a while, it worked out quite well, because the staff was actually good.  She had a good staff.  She wasn't friendly with them.  She never, never said to them, “You did a good job,” or “You didn't do a good job.  This is the way it should have been done.” They did not like her.  They considered her too stern.</p>
-<p>
-<hi rend="italics">Q:  So when you came in, you didn't bring a core of other people to take over?</hi>
-</p>
-<p>KNIGHT:  No.</p>
-<p>
-<hi rend="italics">Q:  It was just you working with the staff that was there.</hi>
-</p>
-<p>KNIGHT:  Yes.  Then, of course, I had the help at the time—of those who were in charge of the State Department.</p>
-<p>
-<hi rend="italics">Q:  Was it Scott McCleod?</hi>
-</p>
-<p>KNIGHT:  Scott, yes. I never could figure out what Scott McCleod did until he left.  (Laughs) Until he left for Europe, and he bought himself—I think he hired the horses, but anyway, he found himself a place where he bought some silver harnessing for the horses, and he never got over there.  (Laughs) He never got over there.  Scott enjoyed traveling.</p>
-<p>
-<hi rend="italics">Q:  Yes.  He was the Director of the Bureau of Security and Consular Affairs and went to become Ambassador to Ireland.</hi>
-</p>
-<p>KNIGHT:  That's right.  He was a good guy.  He was a good guy.  He really didn't work very hard, but he was . . .</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  But he had quite a reputation as being Senator McCarthy's hatchet man.</hi>
-</p>
-<p>KNIGHT:  I know.</p>
-<p>
-<hi rend="italics">Q:  Was this deserved?</hi>
-</p>
-<p>KNIGHT:  No.  No.</p>
-<p>
-<hi rend="italics">Q:  He didn't leave much impression on the State Department, I remember.</hi>
-</p>
-<p>KNIGHT:  No.  He was one of these go-betweens.  He knew a lot of people on the Hill; that helped him some.  I really don't know.  I think he was most happy when he was overseas, when he got the job.</p>
-<p>
-<hi rend="italics">Q:  In Ireland, yes.  One of the anomalies of the State Department has always been the Passport Office, especially under Ruth Shipley and your term, which really comes to almost 49 years, when you put the two together, that it is in the State Department, yet it's not.  Even at the very beginning, did you feel that anybody was supervising you, or were you more or less told to go it alone, and as long as you produced, everybody was happy?</hi>
-</p>
-<p>KNIGHT:  You see, having worked for John Taber and Congressman Wigglesworth, another good, staunch friend of mine, and John Taber, and I knew a number of others. I had a great deal of help from the Hill.  Without even thinking of it in that way, I saw to it that I had a section made in the Passport Office so that if a member of Congress or someone at the White House or an important person had a problem with a passport, we were there to take care of it immediately, within a matter of hours or a day or two.  What we came up with was that members of Congress who had constituents who would call them up and say, “I had a death in my family, I'm leaving tomorrow, I need a passport, I'm going to London, I'm going to Paris, a family member died,” and these Congressmen would say, “My God!  How can we help?  Whom do we go to?”And when this came to my attention, I said, “Let us do that for you.  Let us do that for the Congress,” which is what we did.  We set up a system that in an emergency any member of Congress, whether in the House or Senate, could immediately call us, give us the name of the person, the address, we would check it out, and if at all possible, we will see to it that within a matter of 24 hours, they would get a passport, even if it was a temporary passport, to allow them to go.  In the case of a death, we would give them a temporary passport.  We would have a number on it, and make a copy of it.  This is the way we started, so that in the final analysis, the greatest help I ever had was from members of Congress.  They still call me for one thing or another.  Sometimes it has nothing to do with passports!</p>
-<pb facs="0014" n="Page0014"/>
-<p>
-<hi rend="italics">Q:  As a serving passport officer abroad, I know we all felt the same urgency that you had, that if there was a problem, sometimes your office would call and say, “So and so is on a plane, and we didn't have a chance to give them a passport.” So when I was a passport officer in Frankfurt, we would call the Frankfurt Customs and say, “Look, so and so is coming on a plane without a passport.  We guarantee everything—we'll give them a passport here.” It worked very well.</hi>
-</p>
-<p>KNIGHT:  And they never forgot it.  At least the person that got that service never forgot it.</p>
-<p>
-<hi rend="italics">Q:  No, no.  This is the way government should work.</hi>
-</p>
-<p>KNIGHT:  That's right.</p>
-<p>
-<hi rend="italics">Q:  Did you have any special sort of recruitment program for getting new people in to your staff?</hi>
-</p>
-<p>KNIGHT:  No, as a matter of fact, I kept almost everybody.  I got two lawyers—they're still there.  They keep calling me.  The staff became very proud of the office, because we had good newspaper coverage, number one.  This was during the period of time when a lot of reporters were going back and forth to Europe and they always came to the Passport Office to get their passports immediately, within not a matter of an hour, but immediately they had to get a passport.  So we got good help from the newspapers, the New York Times, Washington Post, etc. We also had a great deal of support from the Congress, because I kept an eye on the Congress.  Any congressman or senator that called the Passport Office talked to me immediately, no matter what was going on.  He was supposed to have the right to talk to me and say what he needed, when he needed it.  I guess I was the only one in the federal government that would say to members of Congress, “Do you have a messenger service?  I don't have a messenger service.  If you need the thing today, please send somebody over with it, and I'll have it ready for you.” This is the way we operated.</p>
-<p>
-<hi rend="italics">Q:  The passport business, of course, at that time was expanding geometrically, I think.</hi>
-</p>
-<p>KNIGHT:  Yes.</p>
-<p>
-<hi rend="italics">Q:  How did you arrange having offices in other parts of the United States?</hi>
-</p>
-<p>KNIGHT:  I established offices in New York, Chicago, and Los Angeles.</p>
-<p>
-<pb facs="0015" n="Page0015"/>
-<hi rend="italics">Q:  We were talking about your establishing some branch offices.  That had not been done before?</hi>
-</p>
-<p>KNIGHT:  No.</p>
-<p>
-<hi rend="italics">Q:  Everybody had to mail their application to the Passport Office?</hi>
-</p>
-<p>KNIGHT:  Yes.</p>
-<p>
-<hi rend="italics">Q:  That itself must have taken quite a bit of time.</hi>
-</p>
-<p>KNIGHT:  Well, you see, Mrs. Shipley would not have done that, scouting around the place, whereas I set up passport agencies in New York, in Chicago, in Los Angeles, and Denver.  All those states were absolutely delighted to have a part of the Passport Office there. I also arranged with the telephone companies for them to have the same numbers.  It was an easy way for people to call and say, “I'm going to England tomorrow.  I need a passport, I need this, I need that.” And it also saved us an awful lot of work.  These offices around those particular states didn't cost us anything.</p>
-<p>
-<hi rend="italics">Q:  How was that?</hi>
-</p>
-<p>KNIGHT:  Well, the State Department claimed it didn't have any money and the states were delighted to think that they had something similar to the Passport Office watching out for their people.</p>
-<p>
-<hi rend="italics">Q:  Who paid for the offices?</hi>
-</p>
-<p>KNIGHT:  I don't know.  I didn't ask.  (Laughs) It was none of my business, and I just didn't ask.</p>
-<p>
-<hi rend="italics">Q:  (Laughs) You know, I was told by one of your admirers just yesterday, a retired Foreign Service officer, who said, “Please have Miss Knight tell about how you avoided losing your passport agency moved, which was in Rockefeller Center.” They were going to move it away somewhere, and I was told this is a classic example bureaucratic in-fighting. What happened?</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>Miss. Knight:  Well, in the first place, I called Nelson Rockefeller.  Nobody else ever called him, I don't think.  He pulled people.  But Nelson Rockefeller was in Washington at the time, he was in the House, and I found out about it, so I made an appointment, and sat down to talk to him.  There's his picture over there.  Of course, he knew an awful lot of people in Washington, and he was well known.  I told him about the situation, and that the State Department would not set up an office in the Rockefeller Center.  They wouldn't buy an office.  I suggested that New York was an important city, and we could do a great job if we could get a passport office in the Rockefeller Center.  Of course, the State Department said, “That's crazy.  You can't do a thing like that.”</p>
-<p>And I said, “Well, I think you can, because, first of all, it would be good; secondly, let me see what I can do with the mayor, talk to the mayor about it, and do it for free.  I don't think we should pay for an office there.  I think we're doing something for New York City.”</p>
-<p>So it worked out great. I went to New York and went over to Sixth Avenue to the bank, and I said, “I'm from the Passport Office, and we want to move.  How about a passport agency in this area in Rockefeller Center?  If I can get permission to establish such a place here in the building, I'm going to need some chairs and need stuff, and I can't get them from the State Department, because that means moving them from Washington, D.C., to New York.  Apparently that is a tremendous move for the Washington people.”</p>
-<p>So then I went to two other places on Sixth Avenue.  I went to the bank.  The bank gave me high chairs for free, so that people could, instead of standing in line, sit in the chairs, along the counter and fill out the forms, and turn them over. So it all worked out fine.  People said it would never work, that we would never get it done; well, we did.</p>
-<p>
-<hi rend="italics">Q:  What did Nelson Rockefeller do for you?</hi>
-</p>
-<p>KNIGHT:  He gave us free rent.  We had free everything—free rent, an office, telephone, and everything else, which he paid for.  I didn't have to ask the government to do it.  I wouldn't have gotten it anyway.  If I had asked the State Department, they never would have paid for all this, but Nelson Rockefeller did.  I got to know him pretty well, as a matter of fact.  He would call every so often to see whether the Rockefeller Center was giving us good service, and I'd say, “Are you kidding?  Of course they are.”</p>
-<p>
-<hi rend="italics">Q:  At one point later on, I think this was in the early Seventies, they brought the post offices in.  How did this work?</hi>
-</p>
-<p>KNIGHT:  I was against it.  I was absolutely against it.</p>
-<p>
-<pb facs="0017" n="Page0017"/>
-<hi rend="italics">Q:  What was the problem?  This was the idea of bringing post offices in, each post office would act as basically a little passport agency.</hi>
-</p>
-<p>KNIGHT:  It was a mistake.  It was a mistake.  I think it passed along in a small post office, in a small town, but a place like New York or Philadelphia.  It was somebody's idea.  I don't know who in the State Department got that idea..  No, but it didn't work out.</p>
-<p>
-<hi rend="italics">Q:  I know that you were responsible for something which I thought was quite necessary, and that was getting the diplomatic passport limited.  Before they were unlimited.  I held an unlimited diplomatic passport, but I was always nervous about it, because many people didn't turn them in, there were too many, and also they were given to members of Congress and to distinguished people, and there were a lot floating around.  Did you have much of a battle to get those limited?</hi>
-</p>
-<p>KNIGHT:  I was absolutely against it, and as of today, somebody in the State Department has gone ahead and said, “Give everybody two passports.”~ Everybody gets two passports, two exact passports.</p>
-<p>And I said, “The guy's either drunk or he's crazy.” You give somebody two of anything like that, and they're going to lose one.</p>
-<p>
-<hi rend="italics">Q:  Oh, yes, or sell them.</hi>
-</p>
-<p>KNIGHT:  Sure.  Now, the American passport runs from $500 to maybe $1,000 in Italy.  There's an outfit there, a tobacco shop in Rome, and they'll pay that much for an American passport, regardless of who brings it in.  They never know anything about anybody, and they have never discussed it, nothing.  They sell American passports for between $500 to $1,000, depending on who the person is.</p>
-<p>Now I was told about the two passports recently.  The State Department is always so worried about not being loved, you know.  If there's a mistake or something like that, they're all upset over it, because the State Department never makes a mistake, they never do this wrong, they never do that wrong.  The result is that at the present time, some character in the State Department wants people to get two passports.  So I let it be known that if they do that, there will always be one passport missing somewhere around.  It's crazy.  If a person can't take care of a passport, maybe he shouldn't be allowed to travel.</p>
-<p>
-<hi rend="italics">Q:  You're sounding like Ruth Shipley now.  (Laughs)</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>KNIGHT:  That's right.  You know, if a person doesn't know what to do with a passport and loses a passport and it's lost and lost and lost, there's something wrong with a person like that.</p>
-<p>
-<hi rend="italics">Q:  I know what you say.  Turning to the more political side of passport work, you came to the Passport Office at a time that was still quite a bit of political tension between the two political parties—the Democrats were out, and had not been out too long.  You came in in 1955, and the Republicans came into office attacking, I was told, using the motto of “communism, corruption, and conspiracy,” which is a phrase I heard someone say was accredited to you.  (Laughs)</hi>
-</p>
-<p>KNIGHT:  (Laughs) Could be!  Could be!</p>
-<p>
-<hi rend="italics">Q:  How did you get involved in what amounted to somewhat partisan politics at the time, coming from the Republican Party?</hi>
-</p>
-<p>KNIGHT:  Yes, but I got to know most of the congressmen and senators on the Hill, because when their constituents needed a passport, they wanted to get the credit of having called the Passport Office and saying, “We want a passport issued within 2:00 tomorrow afternoon,” you see.  Now that makes the guy look pretty smart, you see.  He can pick up the phone and call his constituents and say, “I've taken care of the whole thing.” And I always said, “Go ahead.  That's fine.”</p>
-<p>
-<hi rend="italics">Q:  But we're talking about the great debate that went on for ten or more years over—it was used under the generic term of the right to travel, but these were basically people who were members of the Communist Party or affiliated with the Communist Party.  You became more or less on one side of this controversy rather strongly, as opposed to those who wanted more right to travel.  Coming from sort of a bureaucratic position, how did you get into this particular controversy?</hi>
-</p>
-<p>KNIGHT:  Well, actually, bureaucratic is the right term.  This was a position which was taken by the administration.  Actually, the whole thing sort of died.  It passed away.</p>
-<p>
-<hi rend="italics">Q:  Today I find—I went through the old files.  I wonder what the problem was.  I mean, it really didn't make a lot of difference who traveled one way or the other in the long run, but people got very partisan on this whole issue.</hi>
-</p>
-<pb facs="0019" n="Page0019"/>
-<p>KNIGHT:  There wasn't a government—well, if you think back, who made the decisions in that time?  The State Department had very little use for the Passport Office.  The State Department was busy with a lot of other things, you see, and the Passport Office never really got a tremendous amount of background or backing.</p>
-<p>
-<hi rend="italics">Q:  I have to say this as a consular officer, this is true for consular work, which included passport and visa work.  As a general rule, the State Department, those who ran the State Department would prefer to be out of the whole consular business entirely.</hi>
-</p>
-<p>KNIGHT:  That's right.  That's right.</p>
-<p>
-<hi rend="italics">Q:  But in reading the old files, the old newspaper files, one gets the feeling that you were representing a much harder line policy regarding the travel of people of left-wing views than did many people, certainly in the media world, but also even within the administration, but at the same time, you were following administration policy at the time.</hi>
-</p>
-<p>KNIGHT:  Yes.  I don't recall having any problem with what you just said.  Of course, the Passport Office is not in a position and never has been in a position of saying, “No, you can't travel.” I mean, it isn't up to the Passport Office; that is up to the Administration.</p>
-<p>
-<hi rend="italics">Q:  Or Congress passing a bill.</hi>
-</p>
-<p>KNIGHT:  Or Congress.  It's not the Passport Office, because the Passport Office is a working office, issuing passports to American citizens.</p>
-<p>
-<hi rend="italics">Q:  What were your relations with the FBI, as far as controlling who traveled and who didn't travel at that time?</hi>
-</p>
-<p>KNIGHT:  Well, I knew J. Edgar Hoover well, and because of my previous work in John Taber's office and William Wigglesworth, the fact that I knew many, many other members of Congress, both the House and the Senate, I never had any real problem with them.  As I say, I made it absolutely a most important thing that members of Congress were served right away, and I had within the Passport Office, a section.  This woman is still in Washington, a very, very clever, smart, hard worker, who took care, under my general direction, of any member of Congress, regardless of where he was, if he had a constituent that needed a passport, we got it for him, because it was the congressman that got the credit for it.</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  I understand.</hi>
-</p>
-<p>KNIGHT:  And the result was that we had the Congress going with us, regardless of what happened.  I don't think anybody could have killed the Passport Office in those days.</p>
-<p>
-<hi rend="italics">Q:  I know one of the things that there was articles in the paper about, a time-honored custom in the State Department that you seemed to have received the heat from this, and that was on the lookout list.  As I recall, the Passport Office used to send out, say, “Be on the lookout for so and so.” Sometimes these were political people that probably the FBI was concerned about, just to say, “If anything comes to your attention, please let us know.” But also these would be for criminal types or confidence types, or deadbeats.  I mean, it was really, “If these people come to your attention and need services, please let us know.” But do you recall the circumstances—there was a man, and I looked it up, his name was H. Stewart Hughes.  There was a lookout notice for him.  He was a Harvard professor.</hi>
-</p>
-<p>KNIGHT:  Stewart Hughes?</p>
-<p>
-<hi rend="italics">Q:  This was 1966.  I think it was just one of—it's just a name, but maybe you recall the incident.  He was a person considered of left-wing political views, and a notice went out, and it came to the attention of Congress, particularly Senator Kennedy, as Hughes was from Harvard.  There was quite a fuss made of this.</hi>
-</p>
-<p>KNIGHT:  Yes, that's right.</p>
-<p>
-<hi rend="italics">Q:  How did this type of lookout notice get started, do you know?</hi>
-</p>
-<p>KNIGHT:  Well, I don't know.  Since it was a passport situation, it probably would have gone into the Passport Office as to what was the reason for whatever happened.  I mean, if Stewart Hughes was not given a passport, there must have been some reason.</p>
-<p>
-<hi rend="italics">Q:  Well, he was given a passport, but it was the lookout notice.  He was just one of some others, I think.  That was just a name that I happened to notice.</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>KNIGHT:  The lookout notice, there again, this was something that the Passport Office did, but it was a lookout to find out what—it had nothing to do with interrogation or why was he going to such and such a place, why was he taking a trip.  That was none of our business.  We couldn't care less what he was doing.  The thing is, if the FBI or any other agency in government had information that that person had some contacts in, say, the Soviet Union, well, it was up to that person to get it through to the State Department.  It wasn't the Passport Office that was involved.  The Passport Office is pretty far down the line, really.  It's a convenience to the public, that's all.</p>
-<p>
-<hi rend="italics">Q:  What were your relations with the various Secretaries of State, such as Dulles, Rusk?</hi>
-</p>
-<p>KNIGHT:  Dulles was a good friend of mine.  Well, he was the one who really hired me.</p>
-<p>
-<hi rend="italics">Q:  He hired you.</hi>
-</p>
-<p>KNIGHT:  Yes, yes.  I remember he called me to his office, and he said that I had been recommended by members of Congress to him, and that Mrs. Shipley was retiring, and that it had been suggested to him that I was a proper person for that job, because I had been working in the government over the years.  So I think that from that standpoint, it was all right.  I remember so well that Dulles said to me—when I was in the waiting room outside his office, it was just a small one, half the size of this, a lot of chairs, I was sitting like this towards the door, and I was watching the door, and the door moved just a little bit, and a little bit more.  I thought I saw a person's eye.  Sure enough, it was Dulles.  Dulles was opening the door just a little bit to find out what I looked like, you know, and he had already known that I was there.  So then he made an effort to open the door, as though he had not been looking through the door.  I remember that very well.</p>
-<p>He invited me into his office, and he said, “Well, I just want to discuss with you the fact that you have been recommended by members of Congress and by the Secretary for the Passport Office.  Mrs. Shipley is leaving, she's retiring, and you've got a reputation of being very tough with people.”</p>
-<p>And I looked at him, and I said, “Well, what about you?  You're tough with people.  I know about all your toughness.” (Laughs) And we started talking, and that was it.  Out of that small, insignificant conversation, he said, “When can you start?” That was it.</p>
-<p>
-<hi rend="italics">Q:  Did you have any more dealings with him?</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>KNIGHT:  (Laughs) No!  (Laughs) The thing just evaporated, and the next thing that happened, I was in that office.  Well, I can understand why some people thought I was a little strange.  I telephoned to a couple of congressmen and senators, and said, “One of these days, in the next week or so, why don't you stop by the Passport Office?  I want to show you something.” And three of them came in, including John Taber.  John Taber was a large man, he was heavy, and I took them into the basement of the Passport Office, which was . . .</p>
-<p>
-<hi rend="italics">Q:  The Winder Building.</hi>
-</p>
-<p>KNIGHT:  Right.  And a very old building.  John Taber, because I had been working for him, I called him, he said, “I'll be right over.  I'll be right over.” He must have taken a cab and came over.  I said, “I want you to look at something in the basement, and that's where we keep all our records.  There's an underground path from the Passport Office into what was then called the War Department.”</p>
-<p>
-<hi rend="italics">Q:  What's now called the Executive Office Building, the Grant Building?</hi>
-</p>
-<p>KNIGHT:  Yes.  There's an underground passage.  And that was wired.  I took John Taber over there.  He was a heavy guy, and he walked to the opening of that thing, and the floor broke, and his foot went through.  His whole foot went through the floor.  He wasn't hurt, but it was very useful to me, and I said to him, “You see this building is in such bad shape, that anybody coming down here could hurt themselves, could break an ankle.  I have to come down here every day.  Now listen.  The place is full of not squirrels, but rats.  The State Department won't do a thing about it.”</p>
-<p>“Well,” he said, “find out about that.  It's a State Department building, isn't it?</p>
-<p>I said, “It's a Passport Office building under the State Department.  Yes, I would say that it's part of the State Department.”</p>
-<p>He said, “All right.” He then decided to go through the whole office.  I showed him some things.  I showed him an open cesspool that was in the back of the building.  The stink was awful.  Couldn't get anybody in the State Department to do anything.  He made a note of it.</p>
-<p>So in due course, he had Wigglesworth, himself, and their wives come to this Passport Office, and I took them through that basement—rats, bugs, everything.  I said, “It's absolutely incredible the State Department won't do anything to this building.  They want to tear it down, and I don't think it should be torn down, because they had prisoners go through this underground.” See, this goes under the street.</p>
-<p>
-<pb facs="0023" n="Page0023"/>
-<hi rend="italics">Q:  Yes, under 17th Street, I think it is.</hi>
-</p>
-<p>KNIGHT:  Under the street.  I said, “You know, the prisoners were taken under the street from the other building, which was the War Department building, and they had an inquisition there on these people.” So Taber brought his wife.  I didn't say anything to them, but the wives were down there, and, of course, they saw the rats and screamed because they were scared to death of the rats.  I said, “The rats aren't going to do anything to you.”</p>
-<p>So little by little, we got the thing done.  But the State Department didn't raise a finger to clean that place up, that building, the old Winder Building.  It was absolutely terrible.  The elevators were bad.  Oh, it was just awful.</p>
-<p>
-<hi rend="italics">Q:  Did you have any relation, outside of being left alone by—well, Christian Herter was only in a short time, but Dean Rusk and then Rogers.</hi>
-</p>
-<p>KNIGHT:  Rogers was the worst.</p>
-<p>
-<hi rend="italics">Q:  Why was he the worst?</hi>
-</p>
-<p>KNIGHT:  He was the worst.  He had no interest in the Passport Office.  As a matter of fact, I think he considered it a nuisance.  He didn't want it in part of the State Department, no.</p>
-<p>
-<hi rend="italics">Q:  Did you feel this?</hi>
-</p>
-<p>KNIGHT:  Yes, I went to see him several times, and I found him to be rude.</p>
-<p>
-<hi rend="italics">Q:  I would have thought that you two New Yorkers could have talked to each other.</hi>
-</p>
-<p>KNIGHT:  No, I thought he was rude.  And then again, we were talking about staffing and one thing and another, and I remember he said to me, “Well, you've got a big staff in the Passport Office, and maybe sometimes it's too big, isn't it?”</p>
-<p>And I said, “No, I think you're talking about your own staff.  We don't have a big staff.  We have a staff that's necessary to serve the public when they need passports, and that's about all, and to be sure that the passport is taken care of and not sold.”</p>
-<p>And he said, “Well, that's ridiculous.  What do you mean about selling a passport?”</p>
-<pb facs="0024" n="Page0024"/>
-<p>I said, “Because an American passport can be sold from anywhere from $500 to $1,000 in Rome.  It's a simple thing.  Everybody knows that.  You can sell your passport.” As a matter of fact, we have the record of one family where the two daughters went to Italy, to Rome, and they sold their passports.  They told us that they had lost the passport or that the passport was stolen.  By checking with certain people, I think the British, we found out that they didn't them; they sold them.</p>
-<p>So I told that to Rogers, and Rogers said, “Well, I don't see that that's any of your business.”</p>
-<p>And I said, “I think it is my business if I'm running the Passport Office.  I don't want American passports sold around Europe.”</p>
-<p>And he said, “Well, maybe you're taking too rough a size on this thing.”</p>
-<p>And I said, “No, I don't think so.  I think it's very important to be sure that the United States passport is authentic, that it's not sold, that it's not lost.  It's an important document, and I think we ought to keep it that way.”</p>
-<p>He was a very peculiar guy.  I did say one thing that I think burned him up.  I needed additional personnel, two lawyers, actually, that are still there.  I finally got them, but he didn't do anything to help.  I remember that bringing this in, and I said, “Well, when you consider the amount of work that we have coming into that office from 9:00 in the morning until closing, and how many of us work overtime to keep that passport operation going full, full shift, we work and work and work, and we try to get people to understand how to take care of the passports, not to loan them to somebody else.  We just found a case where a woman loaned her passport to somebody else because she said the woman didn't have a passport, a friend of hers, so she said, 'Take my passport.'” So, you know, he had a very, very little knowledge of what was going on.  He just didn't know and he didn't support us.  I said, “I do need some additional personnel.”</p>
-<p>He said, “Well, you have a lot.”</p>
-<p>I said, “I do not have a lot.  I have a very small office.  Actually, we work overtime, we work Saturdays.  If you will excuse the expression, you have a very high personnel, and they're not always very busy.” And I think he resented that.  (Laughs) But it was true.</p>
-<p>
-<hi rend="italics">Q:  I know that there is no secret about the lack of respect, you might say, between you and Abba Schwartz.</hi>
-</p>
-<p>KNIGHT:  Oh, he was terrible.  He was dumb.  Too much monkey business.</p>
-<p>
-<pb facs="0025" n="Page0025"/>
-<hi rend="italics">Q:  What was he doing?</hi>
-</p>
-<p>KNIGHT:  He was looking for a job.  He just wanted a job.  He wanted to be recognized.  Nobody liked him.  I don't know what was the matter with him.  Nobody knew what he was aiming for, what was he doing in the government?</p>
-<p>
-<hi rend="italics">Q:  My only knowledge of Abba Schwartz was that I came back, I was the chief of the consular section in Yugoslavia, Belgrade, and I came back to make a call on him, and I was told he didn't see consular officers.  Since we were the people who did his work for him, I'll never forget that.</hi>
-</p>
-<p>KNIGHT:  No, he was a very peculiar guy.</p>
-<p>
-<hi rend="italics">Q:  But it seemed as though you two were in a real head-on confrontation when he was trying to get you kicked upstairs and out of the Passport Office.  And what happened was he eventually was reorganized out of his job.  Were you involved in that?</hi>
-</p>
-<p>KNIGHT:  Yes.</p>
-<p>
-<hi rend="italics">Q:  What happened?</hi>
-</p>
-<p>KNIGHT:  He was no good.  He had nothing to go on.  I don't know whether he was a friend of somebody's who put him in the job.  I don't know who put him in the job, but he was a nothing.  You see, having been in the government since 1933, '34, I don't think that the government should sit back and take care of people just because they happen to have a congressman or a senator who needs the money, because that's what happens.  [Telephone interruption]</p>
-<p>
-<hi rend="italics">Q:  We were just finishing up talking about Abba Schwartz.  Did he try to ease you out?</hi>
-</p>
-<p>KNIGHT:  Yes, yes.</p>
-<p>
-<hi rend="italics">Q:  How did this take place?</hi>
-</p>
-<p>KNIGHT:  Well, I never figured out what he was after.  He had a bad reputation to start off with.  I don't know who brought him into the government, do you?</p>
-<p>
-<pb facs="0026" n="Page0026"/>
-<hi rend="italics">Q:  I was trying to think.  He was sponsored by—was it Robert Kennedy or not?</hi>
-</p>
-<p>KNIGHT:  Yes.</p>
-<p>
-<hi rend="italics">Q:  I sort of think it was Robert Kennedy.</hi>
-</p>
-<p>KNIGHT:  That's right.  That's right.  But he was, of course, greatly disliked by the staff, the lawyers, for instance.  They had no use for him.  He just wanted to run the whole place, and, of course, he didn't know anything about it.  He didn't know anything about passports—he knew some people in the Congress.  I don't know whom he knew in the Congress.  He may have known Kennedy.  I don't know.  He got a big push from somebody, but the Passport Office people just hated him, absolutely hated him, and he was very rude to most people.</p>
-<p>
-<hi rend="italics">Q:  You had so many people heading that Bureau of Security and Consular Affairs.  You mentioned in one newspaper account, that it was like a railroad station.</hi>
-</p>
-<p>KNIGHT:  Yes, yes.</p>
-<p>
-<hi rend="italics">Q:  In ten years there had been ten occupants or something.  I have to say that this was the bureau out of which I worked, but I was overseas.  I can't even remember their names.  The one, however, who made quite a strong impression was Barbara Watson, who I think did a great deal of good for the consular corps as such, I think gave them new clout and respect and all that.  But again . . .</hi>
-</p>
-<p>KNIGHT:  She traveled.</p>
-<p>
-<hi rend="italics">Q:  She traveled a great deal, but I had a feeling there that you two were sort of head to head on a lot of things.</hi>
-</p>
-<p>KNIGHT:  She wanted to meddle into everything, you see, and she didn't know enough about the Passport Office.  I don't know whether she had any support from of Congress.  I don't remember any, but she may have had some.</p>
-<p>
-<hi rend="italics">Q:  She may have had some.  Her father was a judge in New York City, and so she came from . . .</hi>
-</p>
-<p>KNIGHT:  She had a sister.</p>
-<pb facs="0027" n="Page0027"/>
-<p>
-<hi rend="italics">Q:  Yes.  I think she had some political connections.</hi>
-</p>
-<p>KNIGHT:  For some reason or other, she resented the Passport Office, and she resented these two lawyers that are still there.  I picked them out.  They're very good, and they're not afraid to say what is necessary to be said to people.  Of course, they resented her, because she meddled.  I think she had a law degree.</p>
-<p>
-<hi rend="italics">Q:  Yes, she had a law degree.</hi>
-</p>
-<p>KNIGHT:  Well, she used that on these two lawyers that did all the passport operations.  I mean, would attempt legal work.  She resented them.</p>
-<p>
-<hi rend="italics">Q:  What sort of issues would she meddle in on passports?</hi>
-</p>
-<p>KNIGHT:  Oh, she meddled in virtually everything.  For instance, she resented very, very much that I knew so many members of Congress.  At one point, she ordered me not to have any contacts with the Congress.  I said, “That's ridiculous.  In the Passport Office, these guys make their living out of the Passport Office to some extent.  A constituent calls a congressman or a senator, and they want a passport right away quick.  They call us, and we give it to them within 24 hours.  What else do you need?  It's very simple.” Well, she never understood that—never.  She became very, very nasty to the two lawyers.  You see, they're still there.  They're good lawyers, and I don't like lawyers, generally speaking.  I mean, I don't like them, I don't trust them, but then I don't trust doctors.  She was pretty close to Abba Schwartz, too.</p>
-<p>
-<hi rend="italics">Q:  Yes, I think at one point, yes.</hi>
-</p>
-<p>KNIGHT:  But she seemed to resent the Passport Office, because we did get a lot of publicity in the newspapers, too.</p>
-<p>
-<hi rend="italics">Q:  Did she ever come over to your office?</hi>
-</p>
-<p>KNIGHT:  No.</p>
-<p>
-<hi rend="italics">Q:  In fact, did any Secretary of State ever come to the Passport Office while you were there?</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>KNIGHT:  Yes, one of them.  (Laughs) I can't remember which one it is.</p>
-<p>
-<hi rend="italics">Q:  Rusk?  Dulles?  Rogers?  Herter?</hi>
-</p>
-<p>KNIGHT:  Wait a minute.  Herter, I think.</p>
-<p>
-<hi rend="italics">Q:  Christian Herter.</hi>
-</p>
-<p>KNIGHT:  Yes.  Christian Herter.  Yes, he came by.  He came by on K Street, and he looked in through the window, and I happened to see him.  I thought, “What the hell is he doing looking through the window?” where we had lines of persons, you see, waiting for passports.  And they were all in line at the four windows.  We had four windows and four girls handling passport issuances.  I opened up the door, and I said, “What are you doing looking through the window?  Why don't you come in?” (Laughs) Yes, he was all right.  Very few people ever came from the State Department to the Passport Office.  We were always stuck on K Street.</p>
-<p>
-<hi rend="italics">Q:  I really think this is about it.</hi>
-</p>
-<p>KNIGHT:  I don't know of anything else.</p>
-<p>
-<hi rend="italics">Q:  How did you feel about leaving?  Was this voluntary or sort of forced?</hi>
-</p>
-<p>KNIGHT:  No, no, no forced leaving.  I don't know.  The thing sort of—it didn't get the support.  It didn't get the support.  A great many people in the State Department resented the Passport Office, because the Passport Office got a lot of publicity, you see.  But I don't think it was supported by the State Department.  They thought we were getting too much publicity, and I think maybe the Secretary was too kind to us or something.  I just think that had something to do with it.</p>
-<p>
-<hi rend="italics">Q:  When you left, you left with no great regrets?</hi>
-</p>
-<p>KNIGHT:  No, no.  Well, as a matter of fact, the Passport Office is giving me a big to-do next month.</p>
-<p>
-<hi rend="italics">Q:  How wonderful!</hi>
-</p>
-<pb facs="0029" n="Page0029"/>
-<p>KNIGHT:  Yes.  Every year they do it, the whole staff.</p>
-<p>
-<hi rend="italics">Q:  You certainly left your mark on the Passport Office for the good.</hi>
-</p>
-<p>KNIGHT:  It's been very good.</p>
-<p>
-<hi rend="italics">Q:  You instilled a sense of service, which I don't think had been there certainly before or, really, in many government agencies.  It's remarkable.</hi>
-</p>
-<p>KNIGHT:  No, the Passport Office, first of all, got publicity, it made the staff feel good that they were recognized.  I had important people coming in to see them, and I would take them through the shop and show them what we had, you see.  That was all very important to them.  They were recognized, you see.  They did their work well.</p>
-<p>
-<hi rend="italics">Q:  We might close right there.  This has been very interesting to me.  As I say, I'm an old passport hand myself.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>FRANCES KNIGHT</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: June 16, 1987</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Over the years of 1955 to 1977, I have indirectly worked
+                        for Miss Knight as consular officer at American embassies and consulates
+                        abroad, issuing and renewing passports, and looking to her office for
+                        general supervision.I wonder if you could describe a bit about your general
+                        background, where you were born, where you grew up, and your education
+                        before you came to Washington.</hi>
+                </p>
+                <p>KNIGHT: Well, I was born in Newport, Rhode Island, where my parents spent the
+                    summers, and I enjoyed it there very much, because it's a beautiful state, and
+                    it was sort of our home away from home.</p>
+                <p>
+                    <hi rend="italics">Q: Where was your home?</hi>
+                </p>
+                <p>KNIGHT: We lived for many, many years in New York. We only had, I think, as I
+                    recall now, two and a half residences in New York, and my parents were very
+                    active in many things. My mother was very active in teaching people how to dress
+                    and how to sew. She was really quite brilliant about looking a person over and
+                    suggesting what would make that person feel important in the way of dress, in
+                    the way of taking care of their appearance. She was very good at teaching old
+                    people how to dress. As you probably know—I think we all do—that some of the
+                    clothes that were available—well, and still are—are not particularly flattering
+                    to people. People make mistakes in buying certain types of clothing that don't
+                    do them any good. It doesn't do them any harm, but it doesn't help them.</p>
+                <p>
+                    <hi rend="italics">Q: It doesn't bring out their best.</hi>
+                </p>
+                <p>KNIGHT: Right. So she was good at that sort of thing, and she liked to work with
+                    young people. I went through Hunter. To start back, the entry school, the
+                    grammar school, the high school, and the college, so I had gone through all that
+                    in New York.</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: I noticed your biography mentions you went to schools in
+                        France, Czechoslovakia, and Monaco.</hi>
+                </p>
+                <p>KNIGHT: Yes, yes. But these were short term.</p>
+                <p>
+                    <hi rend="italics">Q: Were you picking up languages at the time?</hi>
+                </p>
+                <p>KNIGHT: Well, my mother was Czechoslovakian. That was my first language.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, I see.</hi>
+                </p>
+                <p>KNIGHT: And my mother and father spoke German most of the time and my mother
+                    taught me to speak French, so I actually spoke French and German before I spoke
+                    English because of all our traveling, they were really much more accustomed at
+                    home to speaking foreign languages, and I picked it up.</p>
+                <p>
+                    <hi rend="italics">Q: What sort of business was your father in?</hi>
+                </p>
+                <p>KNIGHT: He had what, I guess you would call a tourist bureau. Of course, in those
+                    days, there was very little of that.</p>
+                <p>
+                    <hi rend="italics">Q: I know. You had Cook's Travel Office, and that was about
+                        it.</hi>
+                </p>
+                <p>KNIGHT: That was it. You had Cook's. You either had that or you didn't go. But my
+                    father was very good on traveling as he knew so many people. He was an
+                    Englishman and very well known in England. He was in the Royal Air Force. That
+                    man with the wonderful voice in the early part of the war broadcast that
+                    “England expects every man to do his duty” or the like. And that was the day my
+                    father went into the Royal Air Force to fight World War I.</p>
+                <p>
+                    <hi rend="italics">Q: I guess you must have been very proud of him.</hi>
+                </p>
+                <p>KNIGHT: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: You went to Hunter College while it was part of Columbia
+                        University?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>KNIGHT: Yes but, I never graduated from Hunter; in those days, college,
+                    university were like an open book. You would go in and out and in and out. If it
+                    was necessary for the family to go to Europe, well, we'd go to Europe instead of
+                    taking courses.</p>
+                <p>
+                    <hi rend="italics">Q: This was an excellent education for your later work with
+                        the State Department.</hi>
+                </p>
+                <p>KNIGHT: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What brought you to Washington to work?</hi>
+                </p>
+                <p>KNIGHT: Well, that was back in '34, '35. Of course, if you recall, there was so
+                    much in the papers about the Roosevelt Administration, the big changes happening
+                    in Washington. And my husband, Wayne Parrish, who was, widely known for his
+                    tremendous interest in aviation, and the result of that was that he wanted to
+                    come to Washington to make his mark in the aviation business. Q: You were
+                    married in New York. What year were you married?</p>
+                <p>KNIGHT: That's a horrible request of you, because I never remember. I never have
+                    remembered, and my husband said, “Honestly, I don't know how the hell you don't
+                    remember your wedding date.” (Laughs)</p>
+                <p>
+                    <hi rend="italics">Q: No problem there. You came to Washington in 1934, so
+                        obviously you were married before that.</hi>
+                </p>
+                <p>KNIGHT: Yes. He was a reporter, and an excellent writer.</p>
+                <p>
+                    <hi rend="italics">Q: What type of work did you initially do when you came to
+                        Washington?</hi>
+                </p>
+                <p>KNIGHT: Well, when I came to Washington, Wayne followed me to Washington. I
+                    decided to come because of the Roosevelt Administration. I was very curious
+                    about it. It had a tremendous amount of publicity, because it was very new and
+                    different.</p>
+                <p>
+                    <hi rend="italics">Q: And it was a feeling of activism and change.</hi>
+                </p>
+                <p>KNIGHT: So the first thing I did was to go to the Civil Service Commission and
+                    ask whether they had any openings. And they did. I took a battery of aptitude
+                    tests, 11 altogether. It's a whole listing that they give you, and you have to
+                    check it off as to type of work it would be.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: I understand.</hi>
+                </p>
+                <p>KNIGHT: But you see, that was the Thirties. And under the Roosevelt
+                    Administration, there were so many changes, and a lot of jobs opened up, because
+                    things became bigger and bigger. I happened to run into some friends from New
+                    York who said, “Oh, we know a senator in Washington. Why don't you go to see
+                    him?”I said, “Well, I don't know any senators.” I didn't know any congressmen.
+                    So this friend, who really was a friend of my mother's, wrote to one of the
+                    senators and said, “I have a friend that's coming to Washington. I don't know
+                    how long she'll be there, but please be good to her,” and gave me his address. I
+                    went up to the Hill, and I visited not only that one person, but several others
+                    on the Hill, and I found myself saying, “Well, you know, it's sort of fun to be
+                    up here on the Hill and talking to all these very, very important people.” Of
+                    course, the longer I stayed in Washington, the less entranced I got. People were
+                    nice and fine, but I found that there was an awful lot of muddling in those
+                    days. Today I can understand it. That early administration from Franklin D.
+                    Roosevelt was a tough one, very, very tough. It was a complete change, and it
+                    changed everything in Washington. It was interesting.I got a job, and when I say
+                    I got a job, it was a peculiar job, because I just walked into the Commerce
+                    Department and ran into a number of the people who had been assigned to make
+                    this great change in Washington, based on a deeper understanding of what the
+                    public was looking for, what the public had to be educated on. It was a big
+                    change in government, and while the Roosevelt Administration did have its weak
+                    points, everybody worked hard. There wasn't such a thing as, for instance, going
+                    out for a two-hour lunch. There wasn't such a thing as saying, “No, I can't do
+                    it because I'm leaving this afternoon at 5:00.”</p>
+                <p>
+                    <hi rend="italics">Q: There was a feeling of urgency and necessity.</hi>
+                </p>
+                <p>KNIGHT: That's right. And it was a good feeling, and it was a feeling that, I
+                    think, encouraged people to do things.</p>
+                <p>
+                    <hi rend="italics">Q: Of course.</hi>
+                </p>
+                <p>KNIGHT: People were staying in the Department of Commerce offices until 6:00 and
+                    7:00 in the evening.</p>
+                <p>
+                    <hi rend="italics">Q: There was a feeling, I believe, in those days of purpose,
+                        and you were feeling you were doing something, rather than
+                        time-serving.</hi>
+                </p>
+                <p>KNIGHT: Right.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: Moving ahead, before you were assigned to the Passport
+                        Office, had you had a chance to observe its workings and all? Did you have
+                        any feeling for the Passport Office?</hi>
+                </p>
+                <p>KNIGHT: Not at all, because I was actually more concerned with the Senate and the
+                    House.</p>
+                <p>
+                    <hi rend="italics">Q: What were you doing more or less immediately prior to
+                        being assigned to the Passport Office?</hi>
+                </p>
+                <p>KNIGHT: I worked for Congressman John Taber from Auburn, New York. He came from
+                    New York, and he was Chairman of the House Appropriations Committee, which gave
+                    him a lot of clout.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>KNIGHT: And he was a close personal friend of the family in New York that my
+                    mother and I knew, and there was some telephone calls and conversations and so
+                    on. So one day I was told to go to his office and visit with him. He was a very
+                    stern person, New England, stern. He worked always. He got into the office early
+                    in the morning and he stayed late at night. He was that type of person. That was
+                    his job, and he was going to stick with it as long as he could possibly stay
+                    there.</p>
+                <p>So I talked to him, only just a very short conversation, and he said, “Why don't
+                    you come in here and work for me? Look at the piles of paper I've got around
+                    here.” He said, “It's not an easy job, but you'll learn a lot.” And that's the
+                    way I started. That's the only way I started. I didn't know anyone else. I
+                    didn't know the names of the senators or congressmen. Obviously, coming from New
+                    York, I wasn't really concerned with any of that.</p>
+                <p>But John Taber was known in Washington as having a tremendous voice. The first
+                    thing I learned about him was from a young lady in his office who said to me,
+                    “Be careful. Don't get him mad or upset about something, because he'll shout at
+                    you, and you'll have your eardrums burst.”</p>
+                <p>And I said, “What do you mean?” And she said, “He made a speech in the House of
+                    Representatives and somebody interrupted him and he got angry, and he shouted.
+                    And the man next to him lost his hearing.” Well, very fortunately, it was not
+                    permanent. So he was known as a tremendous speaker and he became chairman of a
+                    very important committee, and that was the House Appropriations Committee. From
+                    there, I went on.</p>
+                <p>
+                    <hi rend="italics">Q: Why the Passport Office? This was in 1955.</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>KNIGHT: Well, you see, I was in different other jobs in the meantime. For
+                    instance, I was called by the White House. I was still working in the Civil
+                    Service. Whatever happened to come up, sometimes the Civil Service Commission
+                    would call me and say, “Could you come down and spend so much time at such and
+                    such a project?”</p>
+                <p>Remember, that was in the early days of the Roosevelt Administration, and
+                    everybody was trying hard to do something that was worthwhile, and most of it
+                    was difficult, because there was so little preparation prior to the Roosevelt
+                    Administration. Apparently, Roosevelt came in there and the place was a mess.
+                    Washington was a mess. There were so many things that were done that were either
+                    done badly or not at all.</p>
+                <p>So I stayed on, and little by little learned about government, and I thought,
+                    “Well, everything I've learned, everything I've been told is true: it's a mess.”
+                    I wasn't very happy about having come to Washington and getting into the
+                    government, until I met what they called the New Dealers. They were the people
+                    who started in a completely new environment in Washington, with President
+                    Roosevelt , who was very, very active.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>KNIGHT: One day the President wanted someone who could contact Mrs. Roosevelt for
+                    him when she was giving exercise classes. She was exercising the personnel of a
+                    certain office that was in the triangular building at Dupont Circle. Mrs.
+                    Roosevelt had an office there, and as she got to know the girls and women who
+                    were working in that building, and she said, “I think it's outrageous that they
+                    work all day long, have their lunch at their desks. I want them to have exercise
+                    on the roof.” So Mrs. Roosevelt set up an exercise committee, and she herself
+                    took part in it.</p>
+                <p>The President said to one of his aides, “I've got to get somebody to go up and
+                    get in touch with my wife and work out something to keep her away from
+                    exercising on the roof of that building.”</p>
+                <p>
+                    <hi rend="italics">Q: On Massachusetts and Dupont Circle, yes.</hi>
+                </p>
+                <p>KNIGHT: It's still there. She had this thing going up, and sure enough, the
+                    President was right. The press got into it. I was called to the White House, who
+                    said, “You've got to get the press out of there. They must not talk to Mrs.
+                    Roosevelt, they must not see her running around the roof doing these exercises
+                    with the staff. And the President is very concerned about it. The President's
+                    wife shouldn't be doing this sort of thing. What are you doing?”</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>I said, “I'm not doing anything. I'm working here. I don't have any assignment
+                    with Mrs. Roosevelt. I haven't talked to Mrs. Roosevelt. I don't even know what
+                    office she's in.”</p>
+                <p>With Mrs. Roosevelt, it wasn't a question of what office; she was all over the
+                    place. She'd stop into an office, she'd talk to the girls, go downstairs, she'd
+                    go upstairs, she was on the roof. And the President just got to the point where
+                    he was scared to death that it would become a joke, the President's wife doing
+                    all this monkey business.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>KNIGHT: So then I was again called. This was another call from the White House.
+                    “Get rid of the press. Don't have the press go up with Mrs. Roosevelt to do
+                    these calisthenics.”</p>
+                <p>And I remember the first girl that came in was AP [Associated Press], and I said,
+                    “I can't help you. I simply can't help you. I can't tell you where she is. I
+                    don't know anything about it.” Well, that was the AP, and they were upset, and
+                    they stuck around and stuck around, and I called the White House and said,
+                    “There's nothing I can do. The press comes in. You can't lock the doors and
+                    simply say that they can't talk to the President's wife if she wants to talk to
+                    the press.”</p>
+                <p>Well, to make a long story short, we got through with that particular thing, but
+                    it was difficult.</p>
+                <p>
+                    <hi rend="italics">Q: Moving somewhat ahead now, you went to the Passport Office
+                        in 1955. Had you asked for that position?</hi>
+                </p>
+                <p>KNIGHT: No, no, no.</p>
+                <p>
+                    <hi rend="italics">Q: The Passport Office had been run, if I recall, for 27
+                        years by Ruth Shipley, who was sort of a power unto herself in
+                        Washington.</hi>
+                </p>
+                <p>KNIGHT: She retired.</p>
+                <p>
+                    <hi rend="italics">Q: She retired. Why were you brought in for that?</hi>
+                </p>
+                <p>KNIGHT: She wanted me to come. She recommended me to take her place when she
+                    retired.</p>
+                <p>
+                    <hi rend="italics">Q: Had you worked in the Passport Office at all?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>KNIGHT: No, except that I knew her like everybody else because she had been there
+                    a long time, but she was not very popular, not only with the staff, but with the
+                    people who were asking for passports.</p>
+                <p>
+                    <hi rend="italics">Q: My understanding was that the Passport Office was not in a
+                        very organized state at the time.</hi>
+                </p>
+                <p>KNIGHT: No, no.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find it when you arrived?</hi>
+                </p>
+                <p>KNIGHT: It was a mess. It was an absolute mess, because in the first place, I
+                    don't think Mrs. Shipley believed in excessive travel, you know.</p>
+                <p>
+                    <hi rend="italics">Q: She was the wrong person for that.</hi>
+                </p>
+                <p>KNIGHT: That's right. She had no interest in travel herself. She personally did
+                    very little traveling, as far as I know, because I never remember her
+                    [traveling]. She took a liking to me (Laughs) and I think I was very fortunate
+                    that she liked me, because there were very, very few people that Mrs. Shipley
+                    did like. She could not stand her constituency. If a person lost a passport, or
+                    if a passport was stolen, she said, “Well, that's not my fault; it's their
+                    fault. Let them worry about it.” She never tried and I remember she said, “It's
+                    not my business to take care of the people in the United States who want to go
+                    abroad and lose their passports or lose their papers. The Americans don't know
+                    how to travel anyway. They have no business going out of the country.” That was
+                    her idea. She would say, “What do you want to go to Europe for? Isn't this
+                    country good enough for you?” And the other thing is, if a person asked too many
+                    questions or if they were trying to get some information from the Passport
+                    Office, it would annoy her, she would say, “Well, we're not here to give you
+                    information on where you should go in Europe. Go to a travel agency.” In a way,
+                    she was correct, but she, in a way, brought this on herself.</p>
+                <p>The Congress was—and is today—always looking for something to do for a
+                    constituent which might be useful or helpful to the congressman.</p>
+                <p>
+                    <hi rend="italics">Q: Make the constituent indebted to the congressman.
+                        Yes.</hi>
+                </p>
+                <p>KNIGHT: And this is something Mrs. Shipley never did.</p>
+                <p>
+                    <hi rend="italics">Q: Was it that she didn't understand it or didn't care?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>KNIGHT: She said, “It's not my business. If they want to do something for their
+                    constituent, let them do it. I'm not going to do it.”</p>
+                <p>
+                    <hi rend="italics">Q: Why wasn't something done about this? Why did this sort of
+                        attitude exist in a key position, I mean, somebody with that type of
+                        attitude remain there so long?</hi>
+                </p>
+                <p>KNIGHT: That's just what I was going to say. She was there a long time, she knew
+                    more about the State Department than most of the people in the State Department,
+                    including the Secretary of State. (Laughs) She never really considered herself
+                    as an employee. Everything was done well and correctly, but I never found her to
+                    consider herself as one of the staff doing anything.</p>
+                <p>
+                    <hi rend="italics">Q: It was her office.</hi>
+                </p>
+                <p>KNIGHT: It was her office, period, and you did it the way she wanted it done, you
+                    see. If you lost your passport, it was stupid. That was one of the things I
+                    remember so well. People lose their passports, of course, they're careless, and
+                    there is a certain amount of stupidity, but what do you do about it? You change
+                    it, you see. But she wouldn't. She said, “If they lost the passport, that's
+                    their business; that's not mine.”Q: How did the staff feel about her in the
+                    Passport Office?</p>
+                <p>KNIGHT: She wasn't liked by the staff.</p>
+                <p>
+                    <hi rend="italics">Q: What was the problem?</hi>
+                </p>
+                <p>KNIGHT: She was never really very friendly with the staff, and she disliked
+                    blacks. She disliked the blacks very much.</p>
+                <p>
+                    <hi rend="italics">Q: Did she come from the South or from Washington?</hi>
+                </p>
+                <p>KNIGHT: Yes, I think so. There was enough of the South to keep this in her mind,
+                    and it's too bad.</p>
+                <p>
+                    <hi rend="italics">Q: Was a good proportion of the people working in the
+                        Passport Office black at that time?</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>KNIGHT: No. There were some and they were not trained properly. When I came in, I
+                    had a real problem. I stopped the drinking. I mean, I went down one day, within
+                    the first week or ten days, and found that in the basement, right after lunch,
+                    they had bottles of whiskey there.</p>
+                <p>
+                    <hi rend="italics">Q: This is the old Winder Building, was it?</hi>
+                </p>
+                <p>KNIGHT: Yes. They were having a ball. Mrs. Shipley was of another generation.
+                    During her stay in the Passport Office, she ran it—period. She did it her way,
+                    and she resented anyone coming into it or getting into it.</p>
+                <p>
+                    <hi rend="italics">Q: You had, by this time, developed a reputation for being a
+                        good administrator. Why would she pick you rather than some . . .</hi>
+                </p>
+                <p>KNIGHT: She didn't pick me. It was the Secretary of State that picked me.</p>
+                <p>
+                    <hi rend="italics">Q: You were saying that she had recommended you.</hi>
+                </p>
+                <p>KNIGHT: Well, there's something about Mrs. Shipley. She knew when to stop
+                    something, and when she found out that the Secretary of State called me into his
+                    office and said, “We've got to do something about this situation.”</p>
+                <p>
+                    <hi rend="italics">Q: This was Foster Dulles?</hi>
+                </p>
+                <p>KNIGHT: It was Foster Dulles. He was concerned about Mrs. Shipley, because she
+                    was having problems with Congress. That was the reason they were changing.</p>
+                <p>
+                    <hi rend="italics">Q: She was not responsive to Congress.</hi>
+                </p>
+                <p>KNIGHT: She was not responsive to Congress; she didn't like the Congress; she was
+                    not interested in helping them with their constituencies. She would say, for
+                    instance, “Well, Congressman So-and-so has a problem. He's got a stupid person
+                    in his place, and he's trying to tell us to do such and such a thing to take
+                    care of that person's passport. I won't do it.”</p>
+                <p>
+                    <hi rend="italics">Q: So you were really brought in by Secretary Dulles to clean
+                        up the mess as he saw it.</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>KNIGHT: Absolutely. The members of Congress were getting to the point where they
+                    were actually telling him, “You've got to do something about that Passport
+                    Office. It simply is not working well. We have a constituent, a very important
+                    person, that put so and so into the Senate or into the House and so on, and this
+                    woman is saying that she won't send them a passport for three weeks. The man
+                    wants to leave next week; she says, 'No, I'm not going to send it to you. I'm
+                    too busy.'” So you see, she had a very strong will, she had a very strong will.
+                    Now she was good to me, but people did not like her. She was too stern. She had
+                    a stern background. Her son told me this, that she was very stern with
+                    people.</p>
+                <p>
+                    <hi rend="italics">Q: What type of things did you set about to do when you took
+                        over the Passport Office? What were some of your priorities?</hi>
+                </p>
+                <p>KNIGHT: Well, the first thing was to get the employees to work together.
+                    Secondly, to stop the drinking in the basement. And they never knew when I would
+                    come down, but I was down three and four times a day, just passing by, saying,
+                    “What are you boys doing? What are all these whiskey bottles over here?” Now she
+                    never went down in the basement; she wouldn't dream of going down into the
+                    basement to see what was going on. I found whiskey bottles in the toilets in the
+                    building. Actually, people in the Passport Office were bringing in drinks. I
+                    certainly know of at least one man who had a bottle of whiskey with him every
+                    day.</p>
+                <p>
+                    <hi rend="italics">Q: These were people from a variety of ranks, too?</hi>
+                </p>
+                <p>KNIGHT: Oh, yes.</p>
+                <p>
+                    <hi rend="italics">Q: It wasn't just some of the messengers and the like?</hi>
+                </p>
+                <p>KNIGHT: Oh, no.</p>
+                <p>
+                    <hi rend="italics">Q: This was sort of endemic throughout. What about the system
+                        they had, the filing system?</hi>
+                </p>
+                <p>KNIGHT: Terrible. Terrible. And, of course, it took six weeks or more to get a
+                    passport. The first thing that I did was to say , “A passport request from any
+                    place in the United States by an American citizen requires and that we have a
+                    record of it, and the passport will be issued within a matter of three
+                    days.”</p>
+                <p>
+                    <hi rend="italics">Q: That's remarkable.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>KNIGHT: And we did that.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have much opposition from your staff to begin
+                        with?</hi>
+                </p>
+                <p>KNIGHT: No, none, because they didn't like Mrs. Shipley, you see.</p>
+                <p>
+                    <hi rend="italics">Q: So you had a group going with you rather than against
+                        you.</hi>
+                </p>
+                <p>KNIGHT: That's right. I had a group that became very useful, and they are there
+                    today. I've got two lawyers out of that group. After a while, it worked out
+                    quite well, because the staff was actually good. She had a good staff. She
+                    wasn't friendly with them. She never, never said to them, “You did a good job,”
+                    or “You didn't do a good job. This is the way it should have been done.” They
+                    did not like her. They considered her too stern.</p>
+                <p>
+                    <hi rend="italics">Q: So when you came in, you didn't bring a core of other
+                        people to take over?</hi>
+                </p>
+                <p>KNIGHT: No.</p>
+                <p>
+                    <hi rend="italics">Q: It was just you working with the staff that was
+                        there.</hi>
+                </p>
+                <p>KNIGHT: Yes. Then, of course, I had the help at the time—of those who were in
+                    charge of the State Department.</p>
+                <p>
+                    <hi rend="italics">Q: Was it Scott McCleod?</hi>
+                </p>
+                <p>KNIGHT: Scott, yes. I never could figure out what Scott McCleod did until he
+                    left. (Laughs) Until he left for Europe, and he bought himself—I think he hired
+                    the horses, but anyway, he found himself a place where he bought some silver
+                    harnessing for the horses, and he never got over there. (Laughs) He never got
+                    over there. Scott enjoyed traveling.</p>
+                <p>
+                    <hi rend="italics">Q: Yes. He was the Director of the Bureau of Security and
+                        Consular Affairs and went to become Ambassador to Ireland.</hi>
+                </p>
+                <p>KNIGHT: That's right. He was a good guy. He was a good guy. He really didn't work
+                    very hard, but he was . . .</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: But he had quite a reputation as being Senator McCarthy's
+                        hatchet man.</hi>
+                </p>
+                <p>KNIGHT: I know.</p>
+                <p>
+                    <hi rend="italics">Q: Was this deserved?</hi>
+                </p>
+                <p>KNIGHT: No. No.</p>
+                <p>
+                    <hi rend="italics">Q: He didn't leave much impression on the State Department, I
+                        remember.</hi>
+                </p>
+                <p>KNIGHT: No. He was one of these go-betweens. He knew a lot of people on the Hill;
+                    that helped him some. I really don't know. I think he was most happy when he was
+                    overseas, when he got the job.</p>
+                <p>
+                    <hi rend="italics">Q: In Ireland, yes. One of the anomalies of the State
+                        Department has always been the Passport Office, especially under Ruth
+                        Shipley and your term, which really comes to almost 49 years, when you put
+                        the two together, that it is in the State Department, yet it's not. Even at
+                        the very beginning, did you feel that anybody was supervising you, or were
+                        you more or less told to go it alone, and as long as you produced, everybody
+                        was happy?</hi>
+                </p>
+                <p>KNIGHT: You see, having worked for John Taber and Congressman Wigglesworth,
+                    another good, staunch friend of mine, and John Taber, and I knew a number of
+                    others. I had a great deal of help from the Hill. Without even thinking of it in
+                    that way, I saw to it that I had a section made in the Passport Office so that
+                    if a member of Congress or someone at the White House or an important person had
+                    a problem with a passport, we were there to take care of it immediately, within
+                    a matter of hours or a day or two. What we came up with was that members of
+                    Congress who had constituents who would call them up and say, “I had a death in
+                    my family, I'm leaving tomorrow, I need a passport, I'm going to London, I'm
+                    going to Paris, a family member died,” and these Congressmen would say, “My God!
+                    How can we help? Whom do we go to?”And when this came to my attention, I said,
+                    “Let us do that for you. Let us do that for the Congress,” which is what we did.
+                    We set up a system that in an emergency any member of Congress, whether in the
+                    House or Senate, could immediately call us, give us the name of the person, the
+                    address, we would check it out, and if at all possible, we will see to it that
+                    within a matter of 24 hours, they would get a passport, even if it was a
+                    temporary passport, to allow them to go. In the case of a death, we would give
+                    them a temporary passport. We would have a number on it, and make a copy of it.
+                    This is the way we started, so that in the final analysis, the greatest help I
+                    ever had was from members of Congress. They still call me for one thing or
+                    another. Sometimes it has nothing to do with passports!</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>
+                    <hi rend="italics">Q: As a serving passport officer abroad, I know we all felt
+                        the same urgency that you had, that if there was a problem, sometimes your
+                        office would call and say, “So and so is on a plane, and we didn't have a
+                        chance to give them a passport.” So when I was a passport officer in
+                        Frankfurt, we would call the Frankfurt Customs and say, “Look, so and so is
+                        coming on a plane without a passport. We guarantee everything—we'll give
+                        them a passport here.” It worked very well.</hi>
+                </p>
+                <p>KNIGHT: And they never forgot it. At least the person that got that service never
+                    forgot it.</p>
+                <p>
+                    <hi rend="italics">Q: No, no. This is the way government should work.</hi>
+                </p>
+                <p>KNIGHT: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any special sort of recruitment program for
+                        getting new people in to your staff?</hi>
+                </p>
+                <p>KNIGHT: No, as a matter of fact, I kept almost everybody. I got two
+                    lawyers—they're still there. They keep calling me. The staff became very proud
+                    of the office, because we had good newspaper coverage, number one. This was
+                    during the period of time when a lot of reporters were going back and forth to
+                    Europe and they always came to the Passport Office to get their passports
+                    immediately, within not a matter of an hour, but immediately they had to get a
+                    passport. So we got good help from the newspapers, the New York Times,
+                    Washington Post, etc. We also had a great deal of support from the Congress,
+                    because I kept an eye on the Congress. Any congressman or senator that called
+                    the Passport Office talked to me immediately, no matter what was going on. He
+                    was supposed to have the right to talk to me and say what he needed, when he
+                    needed it. I guess I was the only one in the federal government that would say
+                    to members of Congress, “Do you have a messenger service? I don't have a
+                    messenger service. If you need the thing today, please send somebody over with
+                    it, and I'll have it ready for you.” This is the way we operated.</p>
+                <p>
+                    <hi rend="italics">Q: The passport business, of course, at that time was
+                        expanding geometrically, I think.</hi>
+                </p>
+                <p>KNIGHT: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: How did you arrange having offices in other parts of the
+                        United States?</hi>
+                </p>
+                <p>KNIGHT: I established offices in New York, Chicago, and Los Angeles.</p>
+                <p>
+                    <pb facs="0015" n="Page0015"/>
+                    <hi rend="italics">Q: We were talking about your establishing some branch
+                        offices. That had not been done before?</hi>
+                </p>
+                <p>KNIGHT: No.</p>
+                <p>
+                    <hi rend="italics">Q: Everybody had to mail their application to the Passport
+                        Office?</hi>
+                </p>
+                <p>KNIGHT: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: That itself must have taken quite a bit of time.</hi>
+                </p>
+                <p>KNIGHT: Well, you see, Mrs. Shipley would not have done that, scouting around the
+                    place, whereas I set up passport agencies in New York, in Chicago, in Los
+                    Angeles, and Denver. All those states were absolutely delighted to have a part
+                    of the Passport Office there. I also arranged with the telephone companies for
+                    them to have the same numbers. It was an easy way for people to call and say,
+                    “I'm going to England tomorrow. I need a passport, I need this, I need that.”
+                    And it also saved us an awful lot of work. These offices around those particular
+                    states didn't cost us anything.</p>
+                <p>
+                    <hi rend="italics">Q: How was that?</hi>
+                </p>
+                <p>KNIGHT: Well, the State Department claimed it didn't have any money and the
+                    states were delighted to think that they had something similar to the Passport
+                    Office watching out for their people.</p>
+                <p>
+                    <hi rend="italics">Q: Who paid for the offices?</hi>
+                </p>
+                <p>KNIGHT: I don't know. I didn't ask. (Laughs) It was none of my business, and I
+                    just didn't ask.</p>
+                <p>
+                    <hi rend="italics">Q: (Laughs) You know, I was told by one of your admirers just
+                        yesterday, a retired Foreign Service officer, who said, “Please have Miss
+                        Knight tell about how you avoided losing your passport agency moved, which
+                        was in Rockefeller Center.” They were going to move it away somewhere, and I
+                        was told this is a classic example bureaucratic in-fighting. What
+                        happened?</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>Miss. Knight: Well, in the first place, I called Nelson Rockefeller. Nobody else
+                    ever called him, I don't think. He pulled people. But Nelson Rockefeller was in
+                    Washington at the time, he was in the House, and I found out about it, so I made
+                    an appointment, and sat down to talk to him. There's his picture over there. Of
+                    course, he knew an awful lot of people in Washington, and he was well known. I
+                    told him about the situation, and that the State Department would not set up an
+                    office in the Rockefeller Center. They wouldn't buy an office. I suggested that
+                    New York was an important city, and we could do a great job if we could get a
+                    passport office in the Rockefeller Center. Of course, the State Department said,
+                    “That's crazy. You can't do a thing like that.”</p>
+                <p>And I said, “Well, I think you can, because, first of all, it would be good;
+                    secondly, let me see what I can do with the mayor, talk to the mayor about it,
+                    and do it for free. I don't think we should pay for an office there. I think
+                    we're doing something for New York City.”</p>
+                <p>So it worked out great. I went to New York and went over to Sixth Avenue to the
+                    bank, and I said, “I'm from the Passport Office, and we want to move. How about
+                    a passport agency in this area in Rockefeller Center? If I can get permission to
+                    establish such a place here in the building, I'm going to need some chairs and
+                    need stuff, and I can't get them from the State Department, because that means
+                    moving them from Washington, D.C., to New York. Apparently that is a tremendous
+                    move for the Washington people.”</p>
+                <p>So then I went to two other places on Sixth Avenue. I went to the bank. The bank
+                    gave me high chairs for free, so that people could, instead of standing in line,
+                    sit in the chairs, along the counter and fill out the forms, and turn them over.
+                    So it all worked out fine. People said it would never work, that we would never
+                    get it done; well, we did.</p>
+                <p>
+                    <hi rend="italics">Q: What did Nelson Rockefeller do for you?</hi>
+                </p>
+                <p>KNIGHT: He gave us free rent. We had free everything—free rent, an office,
+                    telephone, and everything else, which he paid for. I didn't have to ask the
+                    government to do it. I wouldn't have gotten it anyway. If I had asked the State
+                    Department, they never would have paid for all this, but Nelson Rockefeller did.
+                    I got to know him pretty well, as a matter of fact. He would call every so often
+                    to see whether the Rockefeller Center was giving us good service, and I'd say,
+                    “Are you kidding? Of course they are.”</p>
+                <p>
+                    <hi rend="italics">Q: At one point later on, I think this was in the early
+                        Seventies, they brought the post offices in. How did this work?</hi>
+                </p>
+                <p>KNIGHT: I was against it. I was absolutely against it.</p>
+                <p>
+                    <pb facs="0017" n="Page0017"/>
+                    <hi rend="italics">Q: What was the problem? This was the idea of bringing post
+                        offices in, each post office would act as basically a little passport
+                        agency.</hi>
+                </p>
+                <p>KNIGHT: It was a mistake. It was a mistake. I think it passed along in a small
+                    post office, in a small town, but a place like New York or Philadelphia. It was
+                    somebody's idea. I don't know who in the State Department got that idea.. No,
+                    but it didn't work out.</p>
+                <p>
+                    <hi rend="italics">Q: I know that you were responsible for something which I
+                        thought was quite necessary, and that was getting the diplomatic passport
+                        limited. Before they were unlimited. I held an unlimited diplomatic
+                        passport, but I was always nervous about it, because many people didn't turn
+                        them in, there were too many, and also they were given to members of
+                        Congress and to distinguished people, and there were a lot floating around.
+                        Did you have much of a battle to get those limited?</hi>
+                </p>
+                <p>KNIGHT: I was absolutely against it, and as of today, somebody in the State
+                    Department has gone ahead and said, “Give everybody two passports.”~ Everybody
+                    gets two passports, two exact passports.</p>
+                <p>And I said, “The guy's either drunk or he's crazy.” You give somebody two of
+                    anything like that, and they're going to lose one.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, yes, or sell them.</hi>
+                </p>
+                <p>KNIGHT: Sure. Now, the American passport runs from $500 to maybe $1,000 in Italy.
+                    There's an outfit there, a tobacco shop in Rome, and they'll pay that much for
+                    an American passport, regardless of who brings it in. They never know anything
+                    about anybody, and they have never discussed it, nothing. They sell American
+                    passports for between $500 to $1,000, depending on who the person is.</p>
+                <p>Now I was told about the two passports recently. The State Department is always
+                    so worried about not being loved, you know. If there's a mistake or something
+                    like that, they're all upset over it, because the State Department never makes a
+                    mistake, they never do this wrong, they never do that wrong. The result is that
+                    at the present time, some character in the State Department wants people to get
+                    two passports. So I let it be known that if they do that, there will always be
+                    one passport missing somewhere around. It's crazy. If a person can't take care
+                    of a passport, maybe he shouldn't be allowed to travel.</p>
+                <p>
+                    <hi rend="italics">Q: You're sounding like Ruth Shipley now. (Laughs)</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>KNIGHT: That's right. You know, if a person doesn't know what to do with a
+                    passport and loses a passport and it's lost and lost and lost, there's something
+                    wrong with a person like that.</p>
+                <p>
+                    <hi rend="italics">Q: I know what you say. Turning to the more political side of
+                        passport work, you came to the Passport Office at a time that was still
+                        quite a bit of political tension between the two political parties—the
+                        Democrats were out, and had not been out too long. You came in in 1955, and
+                        the Republicans came into office attacking, I was told, using the motto of
+                        “communism, corruption, and conspiracy,” which is a phrase I heard someone
+                        say was accredited to you. (Laughs)</hi>
+                </p>
+                <p>KNIGHT: (Laughs) Could be! Could be!</p>
+                <p>
+                    <hi rend="italics">Q: How did you get involved in what amounted to somewhat
+                        partisan politics at the time, coming from the Republican Party?</hi>
+                </p>
+                <p>KNIGHT: Yes, but I got to know most of the congressmen and senators on the Hill,
+                    because when their constituents needed a passport, they wanted to get the credit
+                    of having called the Passport Office and saying, “We want a passport issued
+                    within 2:00 tomorrow afternoon,” you see. Now that makes the guy look pretty
+                    smart, you see. He can pick up the phone and call his constituents and say,
+                    “I've taken care of the whole thing.” And I always said, “Go ahead. That's
+                    fine.”</p>
+                <p>
+                    <hi rend="italics">Q: But we're talking about the great debate that went on for
+                        ten or more years over—it was used under the generic term of the right to
+                        travel, but these were basically people who were members of the Communist
+                        Party or affiliated with the Communist Party. You became more or less on one
+                        side of this controversy rather strongly, as opposed to those who wanted
+                        more right to travel. Coming from sort of a bureaucratic position, how did
+                        you get into this particular controversy?</hi>
+                </p>
+                <p>KNIGHT: Well, actually, bureaucratic is the right term. This was a position which
+                    was taken by the administration. Actually, the whole thing sort of died. It
+                    passed away.</p>
+                <p>
+                    <hi rend="italics">Q: Today I find—I went through the old files. I wonder what
+                        the problem was. I mean, it really didn't make a lot of difference who
+                        traveled one way or the other in the long run, but people got very partisan
+                        on this whole issue.</hi>
+                </p>
+                <pb facs="0019" n="Page0019"/>
+                <p>KNIGHT: There wasn't a government—well, if you think back, who made the decisions
+                    in that time? The State Department had very little use for the Passport Office.
+                    The State Department was busy with a lot of other things, you see, and the
+                    Passport Office never really got a tremendous amount of background or
+                    backing.</p>
+                <p>
+                    <hi rend="italics">Q: I have to say this as a consular officer, this is true for
+                        consular work, which included passport and visa work. As a general rule, the
+                        State Department, those who ran the State Department would prefer to be out
+                        of the whole consular business entirely.</hi>
+                </p>
+                <p>KNIGHT: That's right. That's right.</p>
+                <p>
+                    <hi rend="italics">Q: But in reading the old files, the old newspaper files, one
+                        gets the feeling that you were representing a much harder line policy
+                        regarding the travel of people of left-wing views than did many people,
+                        certainly in the media world, but also even within the administration, but
+                        at the same time, you were following administration policy at the time.</hi>
+                </p>
+                <p>KNIGHT: Yes. I don't recall having any problem with what you just said. Of
+                    course, the Passport Office is not in a position and never has been in a
+                    position of saying, “No, you can't travel.” I mean, it isn't up to the Passport
+                    Office; that is up to the Administration.</p>
+                <p>
+                    <hi rend="italics">Q: Or Congress passing a bill.</hi>
+                </p>
+                <p>KNIGHT: Or Congress. It's not the Passport Office, because the Passport Office is
+                    a working office, issuing passports to American citizens.</p>
+                <p>
+                    <hi rend="italics">Q: What were your relations with the FBI, as far as
+                        controlling who traveled and who didn't travel at that time?</hi>
+                </p>
+                <p>KNIGHT: Well, I knew J. Edgar Hoover well, and because of my previous work in
+                    John Taber's office and William Wigglesworth, the fact that I knew many, many
+                    other members of Congress, both the House and the Senate, I never had any real
+                    problem with them. As I say, I made it absolutely a most important thing that
+                    members of Congress were served right away, and I had within the Passport
+                    Office, a section. This woman is still in Washington, a very, very clever,
+                    smart, hard worker, who took care, under my general direction, of any member of
+                    Congress, regardless of where he was, if he had a constituent that needed a
+                    passport, we got it for him, because it was the congressman that got the credit
+                    for it.</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: I understand.</hi>
+                </p>
+                <p>KNIGHT: And the result was that we had the Congress going with us, regardless of
+                    what happened. I don't think anybody could have killed the Passport Office in
+                    those days.</p>
+                <p>
+                    <hi rend="italics">Q: I know one of the things that there was articles in the
+                        paper about, a time-honored custom in the State Department that you seemed
+                        to have received the heat from this, and that was on the lookout list. As I
+                        recall, the Passport Office used to send out, say, “Be on the lookout for so
+                        and so.” Sometimes these were political people that probably the FBI was
+                        concerned about, just to say, “If anything comes to your attention, please
+                        let us know.” But also these would be for criminal types or confidence
+                        types, or deadbeats. I mean, it was really, “If these people come to your
+                        attention and need services, please let us know.” But do you recall the
+                        circumstances—there was a man, and I looked it up, his name was H. Stewart
+                        Hughes. There was a lookout notice for him. He was a Harvard professor.</hi>
+                </p>
+                <p>KNIGHT: Stewart Hughes?</p>
+                <p>
+                    <hi rend="italics">Q: This was 1966. I think it was just one of—it's just a
+                        name, but maybe you recall the incident. He was a person considered of
+                        left-wing political views, and a notice went out, and it came to the
+                        attention of Congress, particularly Senator Kennedy, as Hughes was from
+                        Harvard. There was quite a fuss made of this.</hi>
+                </p>
+                <p>KNIGHT: Yes, that's right.</p>
+                <p>
+                    <hi rend="italics">Q: How did this type of lookout notice get started, do you
+                        know?</hi>
+                </p>
+                <p>KNIGHT: Well, I don't know. Since it was a passport situation, it probably would
+                    have gone into the Passport Office as to what was the reason for whatever
+                    happened. I mean, if Stewart Hughes was not given a passport, there must have
+                    been some reason.</p>
+                <p>
+                    <hi rend="italics">Q: Well, he was given a passport, but it was the lookout
+                        notice. He was just one of some others, I think. That was just a name that I
+                        happened to notice.</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>KNIGHT: The lookout notice, there again, this was something that the Passport
+                    Office did, but it was a lookout to find out what—it had nothing to do with
+                    interrogation or why was he going to such and such a place, why was he taking a
+                    trip. That was none of our business. We couldn't care less what he was doing.
+                    The thing is, if the FBI or any other agency in government had information that
+                    that person had some contacts in, say, the Soviet Union, well, it was up to that
+                    person to get it through to the State Department. It wasn't the Passport Office
+                    that was involved. The Passport Office is pretty far down the line, really. It's
+                    a convenience to the public, that's all.</p>
+                <p>
+                    <hi rend="italics">Q: What were your relations with the various Secretaries of
+                        State, such as Dulles, Rusk?</hi>
+                </p>
+                <p>KNIGHT: Dulles was a good friend of mine. Well, he was the one who really hired
+                    me.</p>
+                <p>
+                    <hi rend="italics">Q: He hired you.</hi>
+                </p>
+                <p>KNIGHT: Yes, yes. I remember he called me to his office, and he said that I had
+                    been recommended by members of Congress to him, and that Mrs. Shipley was
+                    retiring, and that it had been suggested to him that I was a proper person for
+                    that job, because I had been working in the government over the years. So I
+                    think that from that standpoint, it was all right. I remember so well that
+                    Dulles said to me—when I was in the waiting room outside his office, it was just
+                    a small one, half the size of this, a lot of chairs, I was sitting like this
+                    towards the door, and I was watching the door, and the door moved just a little
+                    bit, and a little bit more. I thought I saw a person's eye. Sure enough, it was
+                    Dulles. Dulles was opening the door just a little bit to find out what I looked
+                    like, you know, and he had already known that I was there. So then he made an
+                    effort to open the door, as though he had not been looking through the door. I
+                    remember that very well.</p>
+                <p>He invited me into his office, and he said, “Well, I just want to discuss with
+                    you the fact that you have been recommended by members of Congress and by the
+                    Secretary for the Passport Office. Mrs. Shipley is leaving, she's retiring, and
+                    you've got a reputation of being very tough with people.”</p>
+                <p>And I looked at him, and I said, “Well, what about you? You're tough with people.
+                    I know about all your toughness.” (Laughs) And we started talking, and that was
+                    it. Out of that small, insignificant conversation, he said, “When can you
+                    start?” That was it.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any more dealings with him?</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>KNIGHT: (Laughs) No! (Laughs) The thing just evaporated, and the next thing that
+                    happened, I was in that office. Well, I can understand why some people thought I
+                    was a little strange. I telephoned to a couple of congressmen and senators, and
+                    said, “One of these days, in the next week or so, why don't you stop by the
+                    Passport Office? I want to show you something.” And three of them came in,
+                    including John Taber. John Taber was a large man, he was heavy, and I took them
+                    into the basement of the Passport Office, which was . . .</p>
+                <p>
+                    <hi rend="italics">Q: The Winder Building.</hi>
+                </p>
+                <p>KNIGHT: Right. And a very old building. John Taber, because I had been working
+                    for him, I called him, he said, “I'll be right over. I'll be right over.” He
+                    must have taken a cab and came over. I said, “I want you to look at something in
+                    the basement, and that's where we keep all our records. There's an underground
+                    path from the Passport Office into what was then called the War Department.”</p>
+                <p>
+                    <hi rend="italics">Q: What's now called the Executive Office Building, the Grant
+                        Building?</hi>
+                </p>
+                <p>KNIGHT: Yes. There's an underground passage. And that was wired. I took John
+                    Taber over there. He was a heavy guy, and he walked to the opening of that
+                    thing, and the floor broke, and his foot went through. His whole foot went
+                    through the floor. He wasn't hurt, but it was very useful to me, and I said to
+                    him, “You see this building is in such bad shape, that anybody coming down here
+                    could hurt themselves, could break an ankle. I have to come down here every day.
+                    Now listen. The place is full of not squirrels, but rats. The State Department
+                    won't do a thing about it.”</p>
+                <p>“Well,” he said, “find out about that. It's a State Department building, isn't
+                    it?</p>
+                <p>I said, “It's a Passport Office building under the State Department. Yes, I would
+                    say that it's part of the State Department.”</p>
+                <p>He said, “All right.” He then decided to go through the whole office. I showed
+                    him some things. I showed him an open cesspool that was in the back of the
+                    building. The stink was awful. Couldn't get anybody in the State Department to
+                    do anything. He made a note of it.</p>
+                <p>So in due course, he had Wigglesworth, himself, and their wives come to this
+                    Passport Office, and I took them through that basement—rats, bugs, everything. I
+                    said, “It's absolutely incredible the State Department won't do anything to this
+                    building. They want to tear it down, and I don't think it should be torn down,
+                    because they had prisoners go through this underground.” See, this goes under
+                    the street.</p>
+                <p>
+                    <pb facs="0023" n="Page0023"/>
+                    <hi rend="italics">Q: Yes, under 17th Street, I think it is.</hi>
+                </p>
+                <p>KNIGHT: Under the street. I said, “You know, the prisoners were taken under the
+                    street from the other building, which was the War Department building, and they
+                    had an inquisition there on these people.” So Taber brought his wife. I didn't
+                    say anything to them, but the wives were down there, and, of course, they saw
+                    the rats and screamed because they were scared to death of the rats. I said,
+                    “The rats aren't going to do anything to you.”</p>
+                <p>So little by little, we got the thing done. But the State Department didn't raise
+                    a finger to clean that place up, that building, the old Winder Building. It was
+                    absolutely terrible. The elevators were bad. Oh, it was just awful.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any relation, outside of being left alone
+                        by—well, Christian Herter was only in a short time, but Dean Rusk and then
+                        Rogers.</hi>
+                </p>
+                <p>KNIGHT: Rogers was the worst.</p>
+                <p>
+                    <hi rend="italics">Q: Why was he the worst?</hi>
+                </p>
+                <p>KNIGHT: He was the worst. He had no interest in the Passport Office. As a matter
+                    of fact, I think he considered it a nuisance. He didn't want it in part of the
+                    State Department, no.</p>
+                <p>
+                    <hi rend="italics">Q: Did you feel this?</hi>
+                </p>
+                <p>KNIGHT: Yes, I went to see him several times, and I found him to be rude.</p>
+                <p>
+                    <hi rend="italics">Q: I would have thought that you two New Yorkers could have
+                        talked to each other.</hi>
+                </p>
+                <p>KNIGHT: No, I thought he was rude. And then again, we were talking about staffing
+                    and one thing and another, and I remember he said to me, “Well, you've got a big
+                    staff in the Passport Office, and maybe sometimes it's too big, isn't it?”</p>
+                <p>And I said, “No, I think you're talking about your own staff. We don't have a big
+                    staff. We have a staff that's necessary to serve the public when they need
+                    passports, and that's about all, and to be sure that the passport is taken care
+                    of and not sold.”</p>
+                <p>And he said, “Well, that's ridiculous. What do you mean about selling a
+                    passport?”</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>I said, “Because an American passport can be sold from anywhere from $500 to
+                    $1,000 in Rome. It's a simple thing. Everybody knows that. You can sell your
+                    passport.” As a matter of fact, we have the record of one family where the two
+                    daughters went to Italy, to Rome, and they sold their passports. They told us
+                    that they had lost the passport or that the passport was stolen. By checking
+                    with certain people, I think the British, we found out that they didn't them;
+                    they sold them.</p>
+                <p>So I told that to Rogers, and Rogers said, “Well, I don't see that that's any of
+                    your business.”</p>
+                <p>And I said, “I think it is my business if I'm running the Passport Office. I
+                    don't want American passports sold around Europe.”</p>
+                <p>And he said, “Well, maybe you're taking too rough a size on this thing.”</p>
+                <p>And I said, “No, I don't think so. I think it's very important to be sure that
+                    the United States passport is authentic, that it's not sold, that it's not lost.
+                    It's an important document, and I think we ought to keep it that way.”</p>
+                <p>He was a very peculiar guy. I did say one thing that I think burned him up. I
+                    needed additional personnel, two lawyers, actually, that are still there. I
+                    finally got them, but he didn't do anything to help. I remember that bringing
+                    this in, and I said, “Well, when you consider the amount of work that we have
+                    coming into that office from 9:00 in the morning until closing, and how many of
+                    us work overtime to keep that passport operation going full, full shift, we work
+                    and work and work, and we try to get people to understand how to take care of
+                    the passports, not to loan them to somebody else. We just found a case where a
+                    woman loaned her passport to somebody else because she said the woman didn't
+                    have a passport, a friend of hers, so she said, 'Take my passport.'” So, you
+                    know, he had a very, very little knowledge of what was going on. He just didn't
+                    know and he didn't support us. I said, “I do need some additional
+                    personnel.”</p>
+                <p>He said, “Well, you have a lot.”</p>
+                <p>I said, “I do not have a lot. I have a very small office. Actually, we work
+                    overtime, we work Saturdays. If you will excuse the expression, you have a very
+                    high personnel, and they're not always very busy.” And I think he resented that.
+                    (Laughs) But it was true.</p>
+                <p>
+                    <hi rend="italics">Q: I know that there is no secret about the lack of respect,
+                        you might say, between you and Abba Schwartz.</hi>
+                </p>
+                <p>KNIGHT: Oh, he was terrible. He was dumb. Too much monkey business.</p>
+                <p>
+                    <pb facs="0025" n="Page0025"/>
+                    <hi rend="italics">Q: What was he doing?</hi>
+                </p>
+                <p>KNIGHT: He was looking for a job. He just wanted a job. He wanted to be
+                    recognized. Nobody liked him. I don't know what was the matter with him. Nobody
+                    knew what he was aiming for, what was he doing in the government?</p>
+                <p>
+                    <hi rend="italics">Q: My only knowledge of Abba Schwartz was that I came back, I
+                        was the chief of the consular section in Yugoslavia, Belgrade, and I came
+                        back to make a call on him, and I was told he didn't see consular officers.
+                        Since we were the people who did his work for him, I'll never forget
+                        that.</hi>
+                </p>
+                <p>KNIGHT: No, he was a very peculiar guy.</p>
+                <p>
+                    <hi rend="italics">Q: But it seemed as though you two were in a real head-on
+                        confrontation when he was trying to get you kicked upstairs and out of the
+                        Passport Office. And what happened was he eventually was reorganized out of
+                        his job. Were you involved in that?</hi>
+                </p>
+                <p>KNIGHT: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What happened?</hi>
+                </p>
+                <p>KNIGHT: He was no good. He had nothing to go on. I don't know whether he was a
+                    friend of somebody's who put him in the job. I don't know who put him in the
+                    job, but he was a nothing. You see, having been in the government since 1933,
+                    '34, I don't think that the government should sit back and take care of people
+                    just because they happen to have a congressman or a senator who needs the money,
+                    because that's what happens. [Telephone interruption]</p>
+                <p>
+                    <hi rend="italics">Q: We were just finishing up talking about Abba Schwartz. Did
+                        he try to ease you out?</hi>
+                </p>
+                <p>KNIGHT: Yes, yes.</p>
+                <p>
+                    <hi rend="italics">Q: How did this take place?</hi>
+                </p>
+                <p>KNIGHT: Well, I never figured out what he was after. He had a bad reputation to
+                    start off with. I don't know who brought him into the government, do you?</p>
+                <p>
+                    <pb facs="0026" n="Page0026"/>
+                    <hi rend="italics">Q: I was trying to think. He was sponsored by—was it Robert
+                        Kennedy or not?</hi>
+                </p>
+                <p>KNIGHT: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: I sort of think it was Robert Kennedy.</hi>
+                </p>
+                <p>KNIGHT: That's right. That's right. But he was, of course, greatly disliked by
+                    the staff, the lawyers, for instance. They had no use for him. He just wanted to
+                    run the whole place, and, of course, he didn't know anything about it. He didn't
+                    know anything about passports—he knew some people in the Congress. I don't know
+                    whom he knew in the Congress. He may have known Kennedy. I don't know. He got a
+                    big push from somebody, but the Passport Office people just hated him,
+                    absolutely hated him, and he was very rude to most people.</p>
+                <p>
+                    <hi rend="italics">Q: You had so many people heading that Bureau of Security and
+                        Consular Affairs. You mentioned in one newspaper account, that it was like a
+                        railroad station.</hi>
+                </p>
+                <p>KNIGHT: Yes, yes.</p>
+                <p>
+                    <hi rend="italics">Q: In ten years there had been ten occupants or something. I
+                        have to say that this was the bureau out of which I worked, but I was
+                        overseas. I can't even remember their names. The one, however, who made
+                        quite a strong impression was Barbara Watson, who I think did a great deal
+                        of good for the consular corps as such, I think gave them new clout and
+                        respect and all that. But again . . .</hi>
+                </p>
+                <p>KNIGHT: She traveled.</p>
+                <p>
+                    <hi rend="italics">Q: She traveled a great deal, but I had a feeling there that
+                        you two were sort of head to head on a lot of things.</hi>
+                </p>
+                <p>KNIGHT: She wanted to meddle into everything, you see, and she didn't know enough
+                    about the Passport Office. I don't know whether she had any support from of
+                    Congress. I don't remember any, but she may have had some.</p>
+                <p>
+                    <hi rend="italics">Q: She may have had some. Her father was a judge in New York
+                        City, and so she came from . . .</hi>
+                </p>
+                <p>KNIGHT: She had a sister.</p>
+                <pb facs="0027" n="Page0027"/>
+                <p>
+                    <hi rend="italics">Q: Yes. I think she had some political connections.</hi>
+                </p>
+                <p>KNIGHT: For some reason or other, she resented the Passport Office, and she
+                    resented these two lawyers that are still there. I picked them out. They're very
+                    good, and they're not afraid to say what is necessary to be said to people. Of
+                    course, they resented her, because she meddled. I think she had a law
+                    degree.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, she had a law degree.</hi>
+                </p>
+                <p>KNIGHT: Well, she used that on these two lawyers that did all the passport
+                    operations. I mean, would attempt legal work. She resented them.</p>
+                <p>
+                    <hi rend="italics">Q: What sort of issues would she meddle in on passports?</hi>
+                </p>
+                <p>KNIGHT: Oh, she meddled in virtually everything. For instance, she resented very,
+                    very much that I knew so many members of Congress. At one point, she ordered me
+                    not to have any contacts with the Congress. I said, “That's ridiculous. In the
+                    Passport Office, these guys make their living out of the Passport Office to some
+                    extent. A constituent calls a congressman or a senator, and they want a passport
+                    right away quick. They call us, and we give it to them within 24 hours. What
+                    else do you need? It's very simple.” Well, she never understood that—never. She
+                    became very, very nasty to the two lawyers. You see, they're still there.
+                    They're good lawyers, and I don't like lawyers, generally speaking. I mean, I
+                    don't like them, I don't trust them, but then I don't trust doctors. She was
+                    pretty close to Abba Schwartz, too.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, I think at one point, yes.</hi>
+                </p>
+                <p>KNIGHT: But she seemed to resent the Passport Office, because we did get a lot of
+                    publicity in the newspapers, too.</p>
+                <p>
+                    <hi rend="italics">Q: Did she ever come over to your office?</hi>
+                </p>
+                <p>KNIGHT: No.</p>
+                <p>
+                    <hi rend="italics">Q: In fact, did any Secretary of State ever come to the
+                        Passport Office while you were there?</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>KNIGHT: Yes, one of them. (Laughs) I can't remember which one it is.</p>
+                <p>
+                    <hi rend="italics">Q: Rusk? Dulles? Rogers? Herter?</hi>
+                </p>
+                <p>KNIGHT: Wait a minute. Herter, I think.</p>
+                <p>
+                    <hi rend="italics">Q: Christian Herter.</hi>
+                </p>
+                <p>KNIGHT: Yes. Christian Herter. Yes, he came by. He came by on K Street, and he
+                    looked in through the window, and I happened to see him. I thought, “What the
+                    hell is he doing looking through the window?” where we had lines of persons, you
+                    see, waiting for passports. And they were all in line at the four windows. We
+                    had four windows and four girls handling passport issuances. I opened up the
+                    door, and I said, “What are you doing looking through the window? Why don't you
+                    come in?” (Laughs) Yes, he was all right. Very few people ever came from the
+                    State Department to the Passport Office. We were always stuck on K Street.</p>
+                <p>
+                    <hi rend="italics">Q: I really think this is about it.</hi>
+                </p>
+                <p>KNIGHT: I don't know of anything else.</p>
+                <p>
+                    <hi rend="italics">Q: How did you feel about leaving? Was this voluntary or sort
+                        of forced?</hi>
+                </p>
+                <p>KNIGHT: No, no, no forced leaving. I don't know. The thing sort of—it didn't get
+                    the support. It didn't get the support. A great many people in the State
+                    Department resented the Passport Office, because the Passport Office got a lot
+                    of publicity, you see. But I don't think it was supported by the State
+                    Department. They thought we were getting too much publicity, and I think maybe
+                    the Secretary was too kind to us or something. I just think that had something
+                    to do with it.</p>
+                <p>
+                    <hi rend="italics">Q: When you left, you left with no great regrets?</hi>
+                </p>
+                <p>KNIGHT: No, no. Well, as a matter of fact, the Passport Office is giving me a big
+                    to-do next month.</p>
+                <p>
+                    <hi rend="italics">Q: How wonderful!</hi>
+                </p>
+                <pb facs="0029" n="Page0029"/>
+                <p>KNIGHT: Yes. Every year they do it, the whole staff.</p>
+                <p>
+                    <hi rend="italics">Q: You certainly left your mark on the Passport Office for
+                        the good.</hi>
+                </p>
+                <p>KNIGHT: It's been very good.</p>
+                <p>
+                    <hi rend="italics">Q: You instilled a sense of service, which I don't think had
+                        been there certainly before or, really, in many government agencies. It's
+                        remarkable.</hi>
+                </p>
+                <p>KNIGHT: No, the Passport Office, first of all, got publicity, it made the staff
+                    feel good that they were recognized. I had important people coming in to see
+                    them, and I would take them through the shop and show them what we had, you see.
+                    That was all very important to them. They were recognized, you see. They did
+                    their work well.</p>
+                <p>
+                    <hi rend="italics">Q: We might close right there. This has been very interesting
+                        to me. As I say, I'm an old passport hand myself.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

@@ -1,580 +1,1167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000174">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Elizabeth A. Burton </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Elizabeth A. Burton </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>ELIZABETH A. BURTON</p>
-<p>Interviewed by:  Charles Stuart Kennedy</p>
-<p>Initial interview date:  January 20, 1998</p>
-<p>Copyright 2000 ADST</p>
-<p>Q:  I wonder if we could start sort of at the beginning.  Could you tell me where and when you were born and something about your family.</p>
-<p>BURTON:  I should have been born here in Washington, but technically I was born in Reno, Nevada, because my mother was from a prominent Nevada family, and my father spent 10 years in Nevada working for a man there, and picked up my mother and brought her back here to Washington.  We were an old Washington family.  I'm fourth-generation Washingtonian.  The family came originally from Sussex County, Delaware, before the Civil War.  My father was a prominent banker, Clarence F. Burton. I was brought up here in Washington, from the time I was about six months or a year, I guess.  So I've lived here all my life.</p>
-<p>
-<hi rend="italics">Q:  Where'd you go to school?</hi>
-</p>
-<p>BURTON:  I went to secondary school here in Washington, at GunstoHall, and then I went to Sarah Lawrence College.</p>
-<p>
-<hi rend="italics">Q:  What was it like growing up in Washington?  Was it a differencity than it is today?</hi>
-</p>
-<p>BURTON:  I should say so.  It was absolutely wonderful.  In the first place, it was very small, and so-called society was very small.  The upper levels of the diplomatic and military and congressional world and the so-called cave-dwelling business people all knew one another and mixed together and saw one another all the time, and their children grew up and knew one another.  So, compared to today, it was minuscule.  As I recall, there were just a few embassies and legations.  The British had a legation down on N Street.</p>
-<p>Q:  At Gunston Hall, did one sort of major in anything?  I realize this was at the secondary school level, but what were your particular interests at that time?</p>
-<pb facs="0002" n="Page0002"/>
-<p>BURTON:  No, I don't think we majored in anything.  But it was in many ways a remarkable school, because it was, even in the primary school, geared toward old-fashioned studies like The Iliad and The Ring of the Nibelungen and those things, so that I was exposed to this at an early age.  It was a very small school, mainly Southern, and had a two-year finishing school for Southern ladies, so that the overtones were very Southern.</p>
-<p>
-<hi rend="italics">Q:  Did you get finished, or did you keep going?</hi>
-</p>
-<p>BURTON:  I wasn't finished, no.  I got out of there at the end osecondary school and went to Sarah Lawrence College in Bronxville.</p>
-<p>
-<hi rend="italics">Q:  You were at Sarah Lawrence from when to when?</hi>
-</p>
-<p>BURTON:  Until '41.  I'm Class of '41.</p>
-<p>
-<hi rend="italics">Q:  Just in time for World War II.</hi>
-</p>
-<p>BURTON:  Yes, exactly.</p>
-<p>
-<hi rend="italics">Q:  What were you studying at Sarah Lawrence?</hi>
-</p>
-<p>BURTON:  Mainly the arts, almost entirely, but with a certain amount of economics, which is what I lived on the rest of my life.  I studied music with William Schumann and I studied painting with two very prominent people in the field, Kurt Rush, and Bradley Walker Tomlin.</p>
-<p>
-<hi rend="italics">Q:  When you say economics, what did economics consist of at SaraLawrence during that period?</hi>
-</p>
-<p>BURTON:  I think it just consisted of some basic economic studies,economic history more than anything.</p>
-<p>Q:  Were the Sarah Lawrence students caught up in the events over in Europe?  This was, of course, a tumultuous time, just before the start of World War II, and then World War II starting in 1939.  Did this impact at Sarah Lawrence?</p>
-<p>BURTON:  Not a bit.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q:  Really?</hi>
-</p>
-<p>BURTON:  As if it didn't exist.</p>
-<p>Q:  What was the view of the government then?  There were some schools where people, particularly the upper branches of society in the United States, came to hate Roosevelt.  Was this part of the ethos at that time?</p>
-<p>BURTON:  I think that Sarah Lawrence was extremely liberal.  I can remember that the sort of the queen of campus was a Jewish lady who was very communistic, and they thought she was wonderful.  My father was a hate-Roosevelt type.  He was just about as reactionary as they could come.  He was a Washington banker and detested Roosevelt, although that didn't keep us from going to the Roosevelt receptions.</p>
-<p>Q:  I'm just curious, because you belonged to Washington society, was there much of an intermix with the Roosevelts and the Roosevelt Cabinet and Washington society?</p>
-<p>BURTON:  Oh, yes, totally and completely.  After all, there were no jets, and so they were dependent on the local community to come to the White House.  There were parties that they had for the children, and the local kids were included.  I remember going to a dance there for Mrs. Roosevelt's niece, and going there with my father to the judicial receptions.</p>
-<p>
-<hi rend="italics">Q:  At home, did you get long discussions of “that man in the WhitHouse” and how awful he was?</hi>
-</p>
-<p>BURTON:  We certainly did.  My father would be chuckling all day if Westbrook Pegler came out with a particularly nasty article.  And he detested Mrs. Roosevelt.  I think he was wrong, but he certainly felt that way.</p>
-<p>Q:  Here you were, coming from this society, and both Roosevelts came from essentially the same strata of society, but they were, particularly Mrs. Roosevelt, not playing the game.</p>
-<p>BURTON:  Not your normal woman of the time.</p>
-<p>
-<hi rend="italics">Q:  How about a young student at Sarah Lawrence, and the other onethere, how did you all look upon Mrs. Roosevelt?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>BURTON:  I haven't the foggiest.  I don't remember at all.  I don't think it was discussed.  At Sarah Lawrence, we were interested mainly in the arts.  And there was a remarkable roster of professors there at that time, because they could work a couple of days in Bronxville and then do their work in New York.  A case in point being Maxwell Geismar, who was one of my professors, and Bradley Walker Tomlin, Joseph Campbell, and William Schumann, who became towering figures in their field.</p>
-<p>
-<hi rend="italics">Q:  Well, then you graduated in 1941.  We're not at war yet.  SaraLawrence had not paid much attention to it.  What happened?</hi>
-</p>
-<p>BURTON:  Then I came back to Washington and studied art at the Phillips Gallery for a year.  After the war, I went to work for the Freer Gallery, for a man who was the Islamic associate at the Freer Gallery.  I was paid by the University of Michigan.</p>
-<p>
-<hi rend="italics">Q:  Did you find Washington society changing with the war?</hi>
-</p>
-<p>BURTON:  Yes, of course.  It emptied of all the young men that we had known, but it filled up with all of the glamorous New Yorkers and then the Brits.  So we had a wonderful time.  There was a party every night.</p>
-<p>
-<hi rend="italics">Q:  How about the arts, were they being patronized during that time?</hi>
-</p>
-<p>BURTON:  There was so little going on in Washington.  It was negligible, really, except for the standing exhibitions.  I'd say nothing.  There was a small community of artists here that all knew one another.</p>
-<p>
-<hi rend="italics">Q:  Were you beginning at all to be sucked into the war effort,postwar planning, or anything like that at this time?</hi>
-</p>
-<p>BURTON:  I got a job during the war.  I was working for the Board of Economic Warfare, over on Q Street.  I worked there until the end of the war.</p>
-<p>
-<hi rend="italics">Q:  What did your job consist of?</hi>
-</p>
-<p>BURTON:  Mainly research.  I can remember having to research all of the sewer systems in Antwerp, for instance, at one point.  I haven't the foggiest why.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  What was the atmosphere at this office?  Was it six days a week,priority assignments?</hi>
-</p>
-<p>BURTON:  Yes, it was an engineering group, and they acted as advisors to whatever they were advising.  I don't really know what, because that was the upper level of the department, and I was just a prole.</p>
-<p>
-<hi rend="italics">Q:  Were there many women doing research at that time?</hi>
-</p>
-<p>BURTON:  No, I think I was the only one.  It was a very small office.  And I also took care of the consulting engineers, two or three of them, including Buckminster Fuller, who became a good friend.</p>
-<p>
-<hi rend="italics">Q:  Basically, would you get an assignment saying let's look at thoil production of various places?</hi>
-</p>
-<p>BURTON:  Yes, that kind of thing.</p>
-<p>
-<hi rend="italics">Q:  I suppose the main thing was...</hi>
-</p>
-<p>BURTON:  I wouldn't be surprised if it wasn't mainly military targets.  Q:  I was going to say bombing targets.</p>
-<p>BURTON:  Targets for bombing, probably, but we weren't told what.  Iwasn't much of an issue.  You just got an assignment, and you did it.</p>
-<p>
-<hi rend="italics">Q:  How did you find out about the sewers of Amsterdam?</hi>
-</p>
-<p>BURTON:  The Library of Congress.  It wasn't Amsterdam, it waAntwerp.  I don't know why I remember it, but I do.</p>
-<p>
-<hi rend="italics">Q:  Did the Library of Congress have a pretty complete...</hi>
-</p>
-<p>BURTON:  Yes, they did.  You had to sniff around, around town, to sewhere you'd find information, but it was available somewhere.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  I'm just trying to think of how one would try to find out about sewer system anywhere.</hi>
-</p>
-<p>BURTON:  I really don't know now myself.  In those days, I worked umy techniques and knew where I was going.  But it was a long time ago.</p>
-<p>
-<hi rend="italics">Q:  At the end of the war, with economic warfare, were there angroups beginning to look at what happens after the war?</hi>
-</p>
-<p>BURTON:  Yes, they tried to keep things together for a while, but gradually attrition took care of it, and the office was dissolved.  But I do remember they were sending engineering groups out to, for instance, Ethiopia.  I and another woman had to write up a basic manual book for Ethiopia, and they went out to Ethiopia and used this book.  I don't remember much about it, but I remember that was one of them.  I don't know what they were doing in Ethiopia.  Probably advising the Ethiopian government on X, Y, or Z, I don't know what.</p>
-<p>
-<hi rend="italics">Q:  The Italians had left there, and I guess they had to figure ouwhat to do about it.  Who was the head of the office?</hi>
-</p>
-<p>BURTON:  I haven't a clue.  I don't remember.  I was working for a man named Alex Taub, a very famous British engineer who had designed the Spitfire engine.  I don't know whether he was fundamentally an American.  He was Jewish, so he might have had overtones of family in Europe.  I don't really remember, but I think he was American.  If he wasn't, he was English.  But that was his famous thing, the Spitfire engine, a famous British airplane.</p>
-<p>
-<hi rend="italics">Q:  As you were doing this, did this remove you from your interest iart, or did this keep up?</hi>
-</p>
-<p>BURTON:  Yes, it totally removed me from it.  And I was very busgoing out every night, too, so...</p>
-<p>
-<hi rend="italics">Q:  It's easy to forget how hectic the social life was at that time.</hi>
-</p>
-<p>BURTON:  There was a party every night.  It was just a question of getting on the phone and finding out where it was.  And everybody met every day at lunch at the so-called snake pit, which was the Patio Room at the Mayflower Hotel.  So you always knew who was in town by going there for lunch.</p>
-<pb facs="0007" n="Page0007"/>
-<p>Q:  It was a different world.  I was a little bit younger, but I got some flavor of this because I lived in Annapolis and from time to time I'd come up and meet people up here.  Washington was almost unbelievable as far as the pace.</p>
-<p>BURTON:  Incredible.</p>
-<p>
-<hi rend="italics">Q:  As the war came to a close, was this beginning to intrigue you afar as getting into something else?</hi>
-</p>
-<p>BURTON:  No, I really didn't know what to do with myself.  The office was dissolved, and everybody was coming to an end of their government service during the war.  Everybody got fired; we just got a pink slip, is what it amounted to.</p>
-<p>Then I looked around, and that's when I went with the Freer and worked for Richard Ettinghausen, who was one of the great, towering figures, an Islamic art historian who later taught at New York University and was associated with the Metropolitan Museum.</p>
-<p>
-<hi rend="italics">Q:  What did you do at the Freer?</hi>
-</p>
-<p>BURTON:  I was his assistant for editing a book called Ars Islamica, which was a very famous journal put out in three languages on Islamic art.</p>
-<p>
-<hi rend="italics">Q:  In that period, Islam seemed pretty far away from everything.</hi>
-</p>
-<p>BURTON:  It was.  There were only two places in the United States where there were any Islamic studies.  One was at Princeton, and the other was at the University of Michigan.  It was unique, yes.</p>
-<p>
-<hi rend="italics">Q:  How long did that keep up?</hi>
-</p>
-<p>BURTON:  It kept up until I decided I wanted to go to Europe.</p>
-<p>
-<hi rend="italics">Q:  This was when?  BURTON:  This was in the summer of '49.</hi>
-</p>
-<p>
-<hi rend="italics">Q:  Europe was almost prostrate at that time.</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>BURTON:  Yes, but I had an opportunity to go with some Swedish friends to Sweden for the summer.  I was invited to go with them, and that's what precipitated my departure.</p>
-<p>
-<hi rend="italics">Q:  Could you tell me a bit about this trip to Europe.</hi>
-</p>
-<p>BURTON:  Yes, one of the consultants that I was working for was a Swedish-American, and I became very close with his family.  They went back to Sweden every year.  She was from a prominent Swedish family.  And they asked me to join them, which I did.  I spent the summer with them in Sweden.  And then I decided I didn't want to come home, so I went back to Paris, where I'd been for about 10 days before I went to Sweden.</p>
-<p>
-<hi rend="italics">Q:  Looking at Sweden in 1949, what was society like there when yowere there?</hi>
-</p>
-<p>BURTON:  It was exceptionally elegant.  Very old-fashioned, very, very elegant.  I would say it was about the nearest thing to the 18th Century you can think of.  Beautiful country houses, all flourishing.  Races going in the afternoon.  Wonderful dinner parties.  Very beautiful.</p>
-<p>
-<hi rend="italics">Q:  Was there much talk about World War II at that point?</hi>
-</p>
-<p>BURTON:  No, except for one friend in this group that I knew very well.  His name was Aminoff, and he had been chamberlain of the Swedish court.  Goering had come up during the war to go hunting, and he'd been assigned to take care of him.  And he, in turn, was invited back to hunt with Goering.  In the middle of the war, he went there, and then went to London, or vice versa.  In any case, I remember his telling me that Goering was convinced that London was absolutely flat.</p>
-<p>
-<hi rend="italics">Q:  From the bombing.</hi>
-</p>
-<p>BURTON:  Yes.  And he said to him, “Do you know London well?”</p>
-<p>He said, “Yes, I do.”</p>
-<p>And he said, “Well, it isn't.  I've just been there, and I'll takyou up one street and down the other.”</p>
-<p>I think this was very interesting.</p>
-<p>
-<pb facs="0009" n="Page0009"/>
-<hi rend="italics">Q:  What was Paris like in '49?</hi>
-</p>
-<p>BURTON:  It was lovely.  It was empty, for one thing.  There were practically no cars.  Everything was in short supply, except I didn't notice it much.  When I first went there, I was just prowling the streets and looking around.  And certainly the restaurants were flourishing, no problem.</p>
-<p>I went to England a couple of times while I was there, and I didn't realize what privation they were going through.  For instance, an egg for breakfast was unheard of.  It was ten days or two weeks later before I realized that you couldn't go to somebody's house and expect an egg for breakfast.</p>
-<p>
-<hi rend="italics">Q:  How about in France, was that different?  Paris was eating better?</hi>
-</p>
-<p>BURTON:  Yes, it was perfectly all right.  There were no cars, because gasoline was in short supply.  So the French were awfully nice to us, because we had everything.  We had the silk stockings and the hooch and the gasoline and the cars.</p>
-<p>
-<hi rend="italics">Q:  How were you able to tap into this?</hi>
-</p>
-<p>BURTON:  After I started to work, which was in the fall of '49, I had access...  I bought a car, which the French couldn't do.  I bought it in dollars, so I had a car and gasoline, and stockings.</p>
-<p>
-<hi rend="italics">Q:  In '49, what were you doing?</hi>
-</p>
-<p>BURTON:  I wasn't doing anything to begin with.  Then I realized I would run out of money eventually, and if I wanted to stay in Paris, I'd have to get a job.  So I sniffed around through friends and connections.  They were recruiting for the Marshall Plan at the Talleyrand at that time, and I went in there and got a job as a statistician in the Central Programming Office.</p>
-<p>
-<hi rend="italics">Q:  It was the Hotel Talleyrand, wasn't it?</hi>
-</p>
-<p>BURTON:  Yes.</p>
-<p>
-<hi rend="italics">Q:  Which was the center of American activity, or was it the centeof the Marshall Plan?</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>BURTON:  It was the center of the Marshall Plan, and gradually became the center for all of the international diplomatic operations, not to be confused with the embassy, which was on the other side of the square.</p>
-<p>
-<hi rend="italics">Q:  Who was the head of the Marshall Plan when you started in '49?  BURTON:  I can't remember, but I think it was Lincoln Gordon.</hi>
-</p>
-<p>
-<hi rend="italics">Q:  What did they hire you for?</hi>
-</p>
-<p>BURTON:  As a statistician.</p>
-<p>
-<hi rend="italics">Q:  This goes back to your finding out about the sewers of Antwerp?</hi>
-</p>
-<p>BURTON:  I don't know what it was.  I don't know why they hired me, but they did.  Maybe it was just that they had three slots to fill, and I was one of them, fortunately.  Once I got in there, I could sniff around and find other things as need be.</p>
-<p>
-<hi rend="italics">Q:  What were the sort of things that a statistician was working on?</hi>
-</p>
-<p>BURTON:  I can't remember.  I remember editing papers that they gave me.  This was a small office, and I think that anything you were equipped to do, you did.</p>
-<p>
-<hi rend="italics">Q:  What was the work?  Was it assembling statistics on variouthings?</hi>
-</p>
-<p>BURTON:  I'm sorry, I can't tell you.  I simply don't remember.  I was very new.  I was getting used to things and trying to figure out how the cable system worked, things like that.  I was working for a very brilliant man whose name was Ostrander, who was handling the German distributions of the Marshall Plan stuff.  So I just did whatever he told me, I guess.</p>
-<p>
-<hi rend="italics">Q:  Can you characterize the spirit of the people working on thMarshall Plan?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>BURTON:  Yes, they were very excited with what they were doing.  There was a very competent woman there named Mary Painter, who was apparently famous in the economic field.  She died only about three years ago.  She had constructed a new system for something in economics.  But they were young, and they were enthusiastic.  I worked with Tom Shelling, later of Harvard.  He taught me how to use a slide rule.  It was almost like a post-graduate group.  A lot of very bright, attractive, young people.</p>
-<p>
-<hi rend="italics">Q:  As you traveled about France, what was your impression of wherFrance was?</hi>
-</p>
-<p>BURTON:  Looking back on it now, I realize that France was still in a pre-World War II state.  And by that I mean it was in a medieval state as well.  Anytime you got to a small village in the country, there wasn't much difference between it and the Middle Ages.  If you went into a house, plumbing, everything else like that.  But I didn't realize it at the time.  I do now, because of the vast difference between then and now.  But it had remained absolutely untouched, I would say, since the early 19th Century, the Proustian days almost.</p>
-<p>
-<hi rend="italics">Q:  Did you have any contact with the international community whilyou were doing this first job?  The French, the British.</hi>
-</p>
-<p>BURTON:  Not professionally.  Certainly socially, yes.  I knew quite a few French people from the French Embassy here, and they were very nice to me.  I had entr�e in France that was, at that point, spectacular.  But even then I didn't realize that.  They were just old friends and they would ask me for lunch, that kind of thing.  So I had a view of Proustian Paris that I didn't realize I was having.</p>
-<p>Q:  This office basically was serving more or less the same way, I take it, that your economic warfare office was, supplying statistics or information on demand.</p>
-<p>BURTON:  Oh, I think not.  No, no, I think it was far more than that.  The Programming Office was the hub of where and what they were distributing to the Marshall Plan countries.  Everything that was allocated to the Marshall Plan was siphoned though the Paris office, so that it was an extremely important hub of what was going out.  But I was just too young and too inexperienced to have much part in that.</p>
-<p>
-<hi rend="italics">Q:  Did Averell Harriman come across your...</hi>
-</p>
-<p>BURTON:  I knew him later, yes.</p>
-<p>
-<pb facs="0012" n="Page0012"/>
-<hi rend="italics">Q:  But not at this particular time.</hi>
-</p>
-<p>BURTON:  No.</p>
-<p>
-<hi rend="italics">Q:  How long did this particular job last?</hi>
-</p>
-<p>BURTON:  Two years, at least.</p>
-<p>
-<hi rend="italics">Q:  So we're moving toward around 1952 or so.  What did you do then?</hi>
-</p>
-<p>BURTON:  I remember coming on home leave for two months and then going back.  But then this so-called statistical office, which I don't think had much raison d'etre to begin with, was dissolved.  There were three of us in it.  So I had to look for another job.  There wasn't one in that particular office, so I got another one around the Talleyrand for a few months.  And then I got picked up by the office of the U.S. delegation to NATO, which by that time had moved from London and was in Talleyrand and was becoming very important.</p>
-<p>
-<hi rend="italics">Q:  Did you make any trips to Germany?  I think you mentioned yowent to Yugoslavia.</hi>
-</p>
-<p>BURTON:  Everywhere.  I went everywhere I could possibly go.  Anytime I had the so-called bridge, which was a holiday on Thursday, I took the bridge and went someplace.  So I went all over Europe, yes.  I didn't go to Berlin when I was in Germany.  I never saw the great destruction, which I regret very much.  It was mainly Wiesbaden or Frankfurt.</p>
-<p>
-<hi rend="italics">Q:  You said you made a trip to Yugoslavia.</hi>
-</p>
-<p>BURTON:  Yes, I made a trip to Yugoslavia in April 1951.</p>
-<p>
-<hi rend="italics">Q:  Could you talk a little bit about your impressions of Yugoslaviat that time.</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>BURTON:  That was a fascinating trip, because a friend of mine who was consul general at Zagreb got permission to take me with him on his tour of the diocese.  We took boats down to Dubrovnik, stopping off in the islands.  He had sent a car down, which, by the time it got to Dubrovnik, was not only devoid of tires but also wheels, so we had to wait there for a couple of days for the wheels to turn up.  And then we drove back through Mostar and Banja Luka to Zagreb.  It was horribly expensive, because the dinar was pegged at 50 whatever, and you got 500 in Trieste, so that will give you some idea, if you had to play it straight.  And there was very little food.  There was no coffee, no sugar.  I can't say little food.  There was food, but it was very limited.  And they warned you that when you went out in the islands that you might run into trouble with getting any kind of food.  There were hotels; they were running.  They were very primitive.  I went to the various islands, to Rab, to Kor_ula, to Dubrovnik, and then down to Kotor.  It was a beautiful trip.  There were absolutely no outside people of any kind.  We were followed the whole time.  At one point, particularly in Kor_ula, someone told us that anyone that we spoke to was being hauled in and interrogated.  So we were very careful who we spoke to from then on.  I remember that there was an AID agent in Dubrovnik that we went up into the mountains with, into the villages.  I don't know what he was doing.  I used to see him around Washington afterwards.  But the friend I was traveling with became an authority on Yugoslavia and wrote some books on its potential development.  It was about a year after the separation from communism.</p>
-<p>
-<hi rend="italics">Q:  You were mentioning that Sarajevo was not a friendly place athat point.</hi>
-</p>
-<p>BURTON:  Well, all of it was not friendly.  You got this feeling, as I say, of being followed, and you had to be careful.  But other than that, people were very pleasant.  They implored you for food.  They were asking if you could possibly send them some sugar or some coffee or something like that.</p>
-<p>One thing I can remember, it's coming back to me now, we took a boat from Rab, I think it was, down to Zara and put in at Zara overnight.  And my friend started talking to somebody on the boat that night.  There were soldiers all over the boat, sleeping and singing all over the decks.  This man that he spoke to wasn't on the boat the next day, and he had intended to be.  So it was sinister.</p>
-<p>
-<hi rend="italics">Q:  I take it the road system was almost nonexistent, or was it easto drive?</hi>
-</p>
-<p>BURTON:  Roads were very poor.  There was nobody on the roads at all,nothing, as I remember.  We had a car and a driver.</p>
-<p>
-<hi rend="italics">Q:  Did you get into Czechoslovakia?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>BURTON:  No.  No, no, we just drove from Dubrovnik down to Kotor, back again, and then up through Bosnia through Mostar and Banja Luka and then to Zagreb.</p>
-<p>
-<hi rend="italics">Q:  When you were back in Paris, your job was NATO.  You were dointhat from when to when?</hi>
-</p>
-<p>BURTON:  I think it was probably from around 1952 to maybe 1954.  There, I really did take care of the statistics.  All of the statistics that came in from Washington for all of the NATO countries, like off-shore procurement and military assistance and defense budgets, all of that came over my desk.  And I stashed it away and kept it, so that if anybody came into the Marshall Plan office there and wanted to know what we were doing for Turkey, or if the defense minister from Turkey came to see the head of the NATO staff, they would have to come to me to get the latest figures.</p>
-<p>
-<hi rend="italics">Q:  Did you find this a form of power?</hi>
-</p>
-<p>BURTON:  No, not particularly.  It was just a service.  But I cornered the market.  Oddly enough, I've made most of my jobs in my life.  It's a question of getting in and sniffing around to see what needs to be done and doing it.  Then, usually, if you propose it right, they'll accept it.  This has happened to me two or three times.</p>
-<p>
-<hi rend="italics">Q:  Were there any particular problems in early NATO that you saw?</hi>
-</p>
-<p>BURTON:  No, not at all.  There were the great NATO meetings in Paris twice a year, which meant that we were literally working 24 hours a day.  The big noises would go in the front offices, the officers and whatnot, and they'd come out at 7 o'clock in the morning, in deciding what they were going to do, how much money they were going to give to this, that, and the other thing.  They were just, at that point, rearming Germany.  And it was very exciting.</p>
-<p>
-<hi rend="italics">Q:  Did the French play much of a role, from your perspective, owere you pretty much tied to the Americans?</hi>
-</p>
-<p>BURTON:  I had nothing to do with the French, as such.  France wasn't any more important than Turkey or Austria or any of the others.  We just happened to be located there.  Of course, the French kicked us out later and sent NATO to Brussels.</p>
-<p>
-<hi rend="italics">Q:  Within your sphere of working, who was the top boss that you had?</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>BURTON:  I had a lot of them.  William Draper, Sr., was one.  A man named Milton Katz was another.  Averell Harriman was another.  We used to laugh about Harriman, because if something nice would happen, he'd come in at 5 o'clock and tell us to take the afternoon off.  They were all head of the U.S. delegation to NATO, and those were the ones that I was working for.  But I had somebody in between.  I remember a few of them.  Q:  Was the NATO staff that you were dealing with pretty much civilian?</p>
-<p>BURTON:  No, it was almost totally military.</p>
-<p>Q:  You were dealing with a fairly technical part of NATO—statistics.  Did the military members work with you, or did they pretty much leave you alone to do this?</p>
-<p>BURTON:  I worked for them.  Captain Shepard was one.  And then a man named Admiral Strauss, who's a personal friend at this point, was another.  Whoever was at the top of NATO would tell them what they wanted, that, for instance, the Turkish defense minister was coming, and he would have to present such and such and so, and he would come down to me to get the figures.  That's how it worked.</p>
-<p>
-<hi rend="italics">Q:  You left there around '54 or so?</hi>
-</p>
-<p>BURTON:  I think around '54, yes.  If they needed a job done, they would look around in Paris.  It was less expensive, I guess, to get somebody in Paris, if they could find them, than it was to recruit from the United States.  Then I had an offer of a very good job over in the Coordinating Committee, which was a secret committee at that point.  It was located in an old hotel off the Faubourg Saint-Honor�, with a very small staff.  It was a committee of the war allies to keep strategic materials from getting to the Sino-Soviet bloc.  We set up a system of licenses and checkpoints and got the other governments to cooperate with us.  So that if we had a notice of a shipment coming in that might have been transshipped in Rotterdam or Godinya, we'd notify the Dutch government and warn them about it, and maybe they'd catch it, and maybe they wouldn't.  We acted as the regional center to disseminate this information to the embassies, and they, in turn, would notify the cooperating governments to stop these shipments if they could.  They would go down and check the ships and check their manifests, and sometimes they stopped them, and sometimes they'd already gone.</p>
-<p>
-<hi rend="italics">Q:  When you're talking about stopping shipments, what are we talkinabout?</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>BURTON:  Ball bearings, for instance, or copper rod, at that point, and theodolites were another one.  I had a couple of CIA people working for me that were quite remarkable.  One of them could read Russian upside down about nine feet away.  He had perfect eyesight.  I'd say, “There's a report of some ball bearings coming in to Rotterdam headed for diversion.  Why don't you go out and see what you can find?”  And he'd come back the next day and say, “They're gone; they're already off.”</p>
-<p>
-<hi rend="italics">Q:  These were efforts by the Soviet Union to get these things.</hi>
-</p>
-<p>BURTON:  Yes, they wanted the things they were missing.  There were people, just like the drug trade, that were in diversion activities.  We worked very closely with the drug people, actually, because usually people that are in one underhanded business are in the other, too.</p>
-<p>
-<hi rend="italics">Q:  Was there much in the way of enforcement, if they would catcthem?</hi>
-</p>
-<p>BURTON:  Yes, yes, a lot, but it was done by the local governments.  For instance, I can remember my boss, Colonel Brown, going to Switzerland and intercepting a railroad shipment of uranium sulfate, the stuff you make bombs out of.  He came back with a little vial of this “curry powder,” and he said, “Betty, you're going back to Washington for Christmas.  Will you take this with you and turn it over to X, Y, and Z.”  I said, “Sure,” and I popped it into my pocketbook.  I didn't think anything about it, and came home and turned it over to the people.  Apparently, when they got it, the Geiger counter went through the ceiling.  They never caught me at all coming into the United States through Customs.  They caught someone else with some radium on their watch, but they didn't catch me.</p>
-<p>Q:  Were there any particular areas where the system was particularly good at cutting out things, and other ones where you felt that there was considerable leakage?</p>
-<p>BURTON:  That's hard to remember.  The leakage was through Rotterdam and Godinya, mainly, the shipments there.  And then there were leakages in Switzerland, shipments that were headed for Austria.  I don't know whether it was leakage, I wouldn't say that.  I'd just say that they would get through Switzerland to Austria.  And if they got into the Soviet bloc in Austria, they were gone, too.  We had to catch it before they got there.  So we had to have this advice ahead of time.  It was a very elaborate check system of intelligence coming in.</p>
-<p>
-<hi rend="italics">Q:  What was it called, the apparatus?  Was it COCOM?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>BURTON: Yes.  It was short for Coordinating Committee.  That's all it was called.  And then there was the section that dealt with the committee itself, who sat in the sessions and decided, for instance, what would be banned from going and what would be on the forbidden lists.  And then they would turn it over to us in the enforcement operation to see that it didn't get diverted.</p>
-<p>
-<hi rend="italics">Q:  What was the secrecy about this?</hi>
-</p>
-<p>BURTON:  This was right after the war, after all, and I think they just didn't want the Soviets to know that they were getting together and keeping them from getting this stuff (not officially, anyway), and that they were cooperating so successfully, particularly with countries like Sweden and Austria that had supplied the Soviets with ball bearings.  After all those years, suddenly they were not cooperating.  Later on, we found that they ruined their markets and caused the Soviet Bloc to become self-sufficient, so this wasn't a very good idea.</p>
-<p>
-<hi rend="italics">Q:  How did you get your intelligence?  Where was it coming from?</hi>
-</p>
-<p>BURTON:  It's hard for me to remember.  I just remember we used to get cables in.  I would dare say it was CIA that was informing us.  Also, the drug people, who were mainly operating out of Italy.  We worked together; they would give us information, and we'd give them ours.  There were, for instance, big operations in Vaduz, Liechtenstein, and places like that.  There were groups of people that we knew were doing this, so that if they applied for an export license, let's say, out of New York, to ship copper, it would probably go automatically to CIA.  The CIA would check up, and if these people were the people from Vaduz, they'd probably let us know, and say it's on it's way, better watch out.  I think that's probably how it worked, because we worked very closely with CIA.</p>
-<p>
-<hi rend="italics">Q:  What was the feeling about Sweden?  This was a major producer othings, and it was neutral.</hi>
-</p>
-<p>BURTON:  I can't remember any particular feeling about it.  I do know that we ruined their ball-bearing export market to the Soviets, which was unfortunate for them.</p>
-<p>
-<hi rend="italics">Q:  You were doing this until about when?</hi>
-</p>
-<p>BURTON:  Until 1958, I think.  Then I decided I should come home.I'd missed too many boats, and I decided I needed to come home.</p>
-<p>
-<hi rend="italics">Q:  In 1956, did the Hungarian Revolution intrude at all?</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>BURTON:  Not in the slightest.  The Suez situation certainly intruded on us personally, because everybody was scared to death.  The only other big scare was the blockade of Berlin.  General Rea O'Hare, who was the U.S. military attach� in Paris, was a close personal friend, and he was giving me instructions what to do and where to go to get out right away.</p>
-<p>
-<hi rend="italics">Q:  The Hungarian Revolution and Suez were both around October.</hi>
-</p>
-<p>BURTON:  Suez made a lot of difference.</p>
-<p>
-<hi rend="italics">Q:  What was the feeling, that Suez might be the beginning osomething?</hi>
-</p>
-<p>BURTON:  Yes, Suez was a big business.  Everyone was scared of the Suez situation.  It was really scary.  There was a threat of oil being cut off and all that, for France, England, everywhere.</p>
-<p>
-<hi rend="italics">Q:  Were you noticing, as time was moving on during the '50s, less-than-cordial reception of our efforts by the French?</hi>
-</p>
-<p>BURTON:  Life became more difficult and more expensive during the 10 years I was there.  I suddenly realized what I was paying for lunch every day.  It wasn't a question of getting a little snack somewhere.  It was $10 to go out and have a little of this and that and the other thing.  And the parking became unspeakable.  You had to have special arrangements for parking.  Before that, you could park anywhere.  The availability of everything became easier.  Living there was very cheap.  I had wonderful, wonderful apartments to live in, and I paid $60 a month.  And I had maid service for nothing that pleated my nightgowns and one thing and another.  We lived high on the hog for nothing, nothing.  I was living on a very small salary, and I didn't get any help from home.  I was living very well, indeed.</p>
-<p>Of some interest, the ready-to-wear (pr�t-�-porter) was prohibitively expensive or did not fit Americans.  Thus, everything that went on your back had to be made to order: garments, shoes, hats, lingerie.  Imagine today fitting a nightgown!  Stockings were available from the PX.  My copiest made me a dress per season from the current collections.  The Maisons de Couture (fashion houses) would lend you a dress overnight to wear to a party.</p>
-<p>
-<hi rend="italics">Q:  You decided to go home when?</hi>
-</p>
-<p>BURTON:  About '58, I think it was.  My parents came over, and I camhome with them in the fall.</p>
-<pb facs="0019" n="Page0019"/>
-<p>
-<hi rend="italics">Q:  In '58, what were you up to?</hi>
-</p>
-<p>BURTON:  Nothing.  I didn't know what I was going to do.  I just came back here with the idea of transferring over to something here in Washington, which is what I did.</p>
-<p>
-<hi rend="italics">Q:  You mentioned that you'd been brought in to the Foreign Servicunder the Wriston program.</hi>
-</p>
-<p>BURTON:  Yes, that was by accident.  I really didn't know what was happening to me.  I was just living from day to day and enjoying myself, enjoying my work and my life.  Paris in the '50s was an enchantment.  It was just marvelous living there.</p>
-<p>
-<hi rend="italics">Q:  Were you picking up any impressions, towards the end when yoleft, of De Gaulle?</hi>
-</p>
-<p>BURTON:  None.  No.  I wasn't much concerned.  I never could understand French politics, to begin with.  Just the surface repercussions.  He was concerned with the glory of France and keeping it there.  One can't blame him.  He was a tremendous unifying element.</p>
-<p>
-<hi rend="italics">Q:  When you came back in '58, you were in the Foreign Service, scould you go to the State Department and look for a job?</hi>
-</p>
-<p>BURTON:  Yes.  But they put me in a job that was connected between the treaty office and an office in AID, which ran the investment guarantee program.  There were three people in it at that point.  Later on, it became the Overseas Private Investment Corporation (OPIC) and now has about 150.  That just shows you what can happen.  The authorizing legislation required an agreement to operate in the cooperating countries, and I did that.  First, the European countries, and then the countries of Latin America, and, later on, all underdeveloped countries.  So this kept me busy for the rest of my career.</p>
-<p>
-<hi rend="italics">Q:  Were there particular points of things we had to have that othecountries did not really care to give on these treaties?</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>BURTON:  Oh, yes, yes.  I think the most important one was in Latin America, the so-called Calvo Doctrine, where they had been ripped off in the 19th Century.  For instance, the expropriation of the oil industry in Mexico would be a case in point.  The main issue with all of these agreements was the expropriation.  What we did was to ensure against loss due to expropriations.  This didn't mean that they couldn't expropriate, but if they did, that we would pay any difference between what they paid, let's say 20 cents on the dollar versus the full amount.  So it was to the interest of companies investing, let's say in a copper business in Chile, to get this expropriation insurance.  All of the countries of Latin America, particularly the Andean code countries, did not want to involve themselves in anything that would remove expropriation decisions out of their country.  And they made a great point that their supreme courts and whatnot were very fair.  This became an issue, and stayed an issue, until very recently.  And only recently I think it's been resolved.  I think the NAFTA legislation, if memory serves me right, was one of the great breakthroughs.</p>
-<p>
-<hi rend="italics">Q:  North American Free Trade Agreement.</hi>
-</p>
-<p>BURTON:  But this was only a few years ago that the Latin American countries began to realize that if they didn't do what everybody else was doing, they were going to be out of pocket in the long run.  I think it's very interesting, because this is affecting Europe and Central Europe, and Central Asia now.  And they're all coming and wanting the agreement, but they're going to have to crank up their receptivity to foreign investment and have it in a treaty before they're going to get any.</p>
-<p>
-<hi rend="italics">Q:  Essentially, this is insurance.</hi>
-</p>
-<p>BURTON:  This is insurance, insurance against inconvertibility, insurance against loss due to expropriation and loss due to war risk, civil disturbances.</p>
-<p>
-<hi rend="italics">Q:  Was the Hickenlooper Amendment also involved?</hi>
-</p>
-<p>BURTON:  Yes.  Yes, it was.  But I can't remember what it was.  Ihad to do with who didn't sign the aid agreement, wasn't it?</p>
-<p>Q:  As I recall, the Hickenlooper Amendment was that a country could expropriate anything it wanted to, but if it didn't adequately compensate, then all aid would be cut off. BURTON:  Yes.  I think that was one of our big, big problems.  Any of those kinds of things.  I just couldn't remember; there were quite a few legislative restrictions.  We had a lot of problems in the negotiations.</p>
-<p>
-<pb facs="0021" n="Page0021"/>
-<hi rend="italics">Q:  What did your office do?  Was it sort of backstopping the lawyers?</hi>
-</p>
-<p>BURTON:  I was the coordinator.  I didn't have any law experience myself, but I was working with at least four lawyers.  One of them would be the legal advisor in State for economic affairs, one the legal advisor for treaty affairs, and one the legal advisor for any area that was involved.  And they would have to sign off on any of this.  They were the prime commanders of any agreements.  These were executive agreements that didn't require ratification on our part.  Then, later on, I was the only one in OPIC, so to speak, that was handling this.  Later on, we got other lawyers that were helping me out.  But I would train them.  For instance, one of them handled nothing but Latin America, as he spoke Spanish and was able to renegotiate some of these Latin American agreements that needed to be redone.  As I left, I was setting up the agreements for the Gulf countries and also for Micronesia.</p>
-<p>
-<hi rend="italics">Q:  Can you think of any countries that were the most trouble?</hi>
-</p>
-<p>BURTON:  Yes, I should say so.  Nigeria.  Nigeria was dreadful.  Q:  What was the problem with Nigeria?</p>
-<p>BURTON:  Well, they're mean as snakes, anyway.  They're very intelligent.  And the officials won't take any action unless everybody does it, so you can't get them to agree on anything.  And we had big claims there as a result of the Biafra War, for instance.  You couldn't get anybody to take a decision.  I don't know how we got the agreement through in the first place.  We did, but then it was very difficult.</p>
-<p>Oddly enough, the two places that are of interest were Cuba and Iran, where we had nothing in Cuba, and in Iran, there was, I think, something like $40 million.  Those claims went to the International Court in the Hague, and were settled very easily, no problem.</p>
-<p>
-<hi rend="italics">Q:  You were part of AID at this point?</hi>
-</p>
-<p>BURTON:  We were part of AID until 1971.  So I worked halfway between State and AID until 1971.  And then it was turned into the Overseas Private Investment Corporation and became a separate government corporation.  We were annexed to State, and we were listed in the State Department address book.  All of our cable traffic went through State, and the State Department economic officer would handle our affairs anywhere locally, except that if we had to do a lot of traveling because there was nobody out there to take care of our affairs, and if we ran into trouble, somebody would have to go out.</p>
-<pb facs="0022" n="Page0022"/>
-<p>Q:  Did you find that there were times when your office was saying, “We've got to get this guarantee,” and yet our embassy or our desk was saying, “Well, we really want to get so and so to invest in this country, because we've got political reasons and all this.”  In other words, were you finding pressure coming from the geographic bureaus to be easier?</p>
-<p>BURTON:  No, I wouldn't say that.  I would say that the pressure would come from American companies that maybe wanted the coverage.  And that would make it much easier for us if we wanted to go into a country.  I would say that in all of the Islamic countries, they weren't the least bit interested until there was camel that they wanted.  Then they would start talking, but not until then.</p>
-<p>Of course, some of these countries were, at that time, very underdeveloped, and still are...  I can remember we got a cable in from Libya.  I was asking, “Is there any prospect of this agreement being concluded in the near future?”  At the end of the message I got back, it said, “There may be some prospect of success, because the minister of economy is reputed to be able to read and write.”</p>
-<p>And then there was another famous cable that came in, I think from the Ivory Coast, where there was a litany of what had happened, from the reporting officer.  It landed in the Congressional Record and a couple of other places in the newspapers, because it just said what had happened to the documents, that somebody had lost it, someone had disappeared, and someone had gone off to play soccer with Togo and he wasn't due back for another six weeks.  You know, just total neglect on the part of the government of any serious business.</p>
-<p>
-<hi rend="italics">Q:  If you got these agreements, did they hold water once you hathem?</hi>
-</p>
-<p>BURTON:  Oh, yes, I should say so.</p>
-<p>
-<hi rend="italics">Q:  How was this?</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>BURTON:  As I say, we had to take the claims to...  The Iranian claims, for instance, went to the Court of Justice in the Hague.  And we had an OPIC officer over there negotiating for us, presenting them to the Court in the Hague.  They all cleared through there, went through the process.  They were based on the fundamental agreements that the host country had agreed to.  In the famous case of Chile, they were exemplary in how they settled their claims.  They expropriated all the great copper investments in Chile, and they paid off on everything.  It took a long time.  What would happen is that they would pay whatever they paid on the dollar, let's say 40 cents on the dollar, and we'd pick up the rest and pay the local investor the loss, and then we'd take over the bonds, which might not be paid for 50 years.  But the United States government can afford to do that; a private company can't.  We got our money back, and they serviced their debt properly, so everybody was happy.</p>
-<p>
-<hi rend="italics">Q:  Were there any crises regarding servicing the debt?</hi>
-</p>
-<p>BURTON:  No, not at that time.  Not in the case of Chile.</p>
-<p>
-<hi rend="italics">Q:  How about Peru?  At one point, they were taking over AT&amp;T and, think, some other companies.</hi>
-</p>
-<p>BURTON:  We didn't have AT&amp;T covered.  Wasn't the AT&amp;T in Chile?  I think it was.  We didn't have them insured.  Peru was probably one of the worst countries we ever had to deal with.  It was the number-one Andean code country, with this Calvo clause.  We never did get an agreement with Mexico on account of it.  It's in their constitution that they cannot agree to any outside arbitration, any international arbitration, which was the final provision of the agreement, that, ultimately, if we couldn't decide what we were going to do between the two countries bilaterally, we'd go to the International Court of Justice.  And they wouldn't agree to this, ever.</p>
-<p>
-<hi rend="italics">Q:  So what happened with Mexico?</hi>
-</p>
-<p>BURTON:  It wouldn't agree to anything.  We never operated there.  Q:  What was the purpose of OPIC?</p>
-<p>BURTON:  It grew out of the early aid assistance programs for Europe.  They wanted something that would supplement the grant aid programs, the outright grants, and they hoped to get American investment to take the place of or to help the grant aid programs to set up Europe after World War II.  We operated only in Europe at that time.  Gradually, they got taken out of the programs of developed countries.  By that time, of course, the other countries had opened up, and so we operated only in less-developed countries, as of a certain year.  I don't remember what, maybe early '70s.</p>
-<pb facs="0024" n="Page0024"/>
-<p>
-<hi rend="italics">Q:  What were type of American firms were taking advantage of this?</hi>
-</p>
-<p>BURTON:  To begin with, these programs in the United States government were quite different from similar programs in Germany, for instance, and Japan, which were used as a sort of auxiliary of their what amounts to our Export-Import Bank.  We did it as an extra effort in the aid assistance programs.  We had a small lending program, as a lender of last resort for projects that were desirable in these countries we wanted to help.  And for businesses, let's say a cement plant that could go in somewhere, by a U.S. business that had never operated outside of the United States.  So we removed the political risk.</p>
-<p>
-<hi rend="italics">Q:  Were other countries—Germany, England, France, others—tyininto this program in any way?</hi>
-</p>
-<p>BURTON:  Not ours.  They had their own.  But they were nearly always export-import tied in, which ours was not.  The Germans had a very active program, and so did the Japanese.  We'd get together with them and exchange information on how things were operating.</p>
-<p>
-<hi rend="italics">Q:  What about countries such as Scandinavia dealing with Tanzania?The Scandinavians seemed to love Nyerere and were putting a big...</hi>
-</p>
-<p>BURTON:  They didn't have any programs.  As I recall, Scandinavia never had anything like it.  Even their export-import things didn't operate that way.  They didn't have them.  There were very few similar programs.</p>
-<p>
-<hi rend="italics">Q:  You left this when?</hi>
-</p>
-<p>BURTON:  Labor Day of 1986.</p>
-<p>
-<hi rend="italics">Q:  There was that big cataclysmic problem in Iran in '79.  Did thiaffect what you all were doing?</hi>
-</p>
-<p>BURTON:  Oh, yes.  But, as I told you, we had practically no coveragthere.  I think there was $40 million worth of coverage.</p>
-<p>
-<hi rend="italics">Q:  Why was this?</hi>
-</p>
-<pb facs="0025" n="Page0025"/>
-<p>BURTON:  Just lack of investor interest, in the first place.  It just didn't go in.  Didn't ask for it.  After all, it was an insurance option, and people volunteered, came in and asked for it.</p>
-<p>
-<hi rend="italics">Q:  I guess the Iranians were taking care of their own.  They had oimoney, so it really wasn't an undeveloped country.</hi>
-</p>
-<p>BURTON:  No, it wasn't.  I think you've got the answer to that, yes.</p>
-<p>Q:  What about Africa?</p>
-<p>BURTON:  We had big operations in Africa, yes.  And I did all of the agreements with all of the countries there, from the '60s.  There were about 30 of them.</p>
-<p>
-<hi rend="italics">Q:  The American government was actually insuring these things?</hi>
-</p>
-<p>BURTON:  That's right.</p>
-<p>
-<hi rend="italics">Q:  How did we do regarding many of the African countries?</hi>
-</p>
-<p>BURTON:  There wasn't much investor interest, after all.  If anybodcame in and asked for it, they got it, but there wasn't much interest.</p>
-<p>
-<hi rend="italics">Q:  How about the Pacific islands?</hi>
-</p>
-<p>BURTON:  I took on the Pacific islands just before I left.  I must have gone out there something like eight times, and I covered all of them.  I got agreements with Papua New Guinea, Tonga, Fiji.  One of the most fascinating places I went was up in the Gilbert Islands, now Kiribati.  I was there for a week, because there was no way to get there than to get up and get back once a week on weekends.  And the Solomon Islands was another one that I did.  Kiribati and the Solomons never came through.  I left before it was concluded, and nobody pursued it.  And then they had a terrible hurricane in the Solomons so that it was almost impossible to get any response from the government on anything.</p>
-<p>Kiribati was the only place I encountered anti-female sexism.  The beefy macho officials had a hard time coping with a U.S. government female official.  I put on my grandmother's wedding ring and invented a husband and children.  It helped, but not much.</p>
-<p>
-<pb facs="0026" n="Page0026"/>
-<hi rend="italics">Q:  Did you do the Federated States of Micronesia?</hi>
-</p>
-<p>BURTON:  Just as I left, they were becoming independent, one or two of them.  After all, it broke off into five separate units.  There was a Federation of Micronesia, and there were the Marianas and then there were the Marshall Islands.  And they were all different, different status.  And the ones that were independent enough, I set them up just as I was leaving, and I don't really know what's happened.</p>
-<p>Q:  What was your impression of these islands?  You had the agreement, but was there much that they had to offer for people to invest in?</p>
-<p>BURTON:  I know, they were such subsistence economies (in the case of Tuvalu, for instance, my God, they have nothing but postage stamps to generate foreign exchange), that if you got one project in there, it could make an enormous difference for them.  But it was awfully hard to convince them of this and to get them to know what it was.  Tonga was easy to cope with.  They were very intelligent about it and realized that if they could get money in there for, let's say, a vanilla plantation, it would help.  But it was awfully hard getting anything through to some of the others.  And it was awfully hard to get anybody to negotiate with, because there is such a tiny level of operating officials that have an education, and they're all the same ones.  One thing that impressed me was that they all know one another.  In spite of the vast, vast distances, the 1,500 miles to Kiribati, for instance, everybody knows what's going on everywhere in the region.</p>
-<p>
-<hi rend="italics">Q:  Well, they travel a lot.</hi>
-</p>
-<p>BURTON:  They travel a lot, and they all know one another, and they communicate.  They had a very good cooperating office of economic affairs in Fiji.  If you got something going in one place, they would be interested.  You had to hit the eye of the octopus, so to speak.  It was very interesting to me, the whole area, but unfortunately I left right sort of two-thirds of the way through it.  And then it collapsed.  Nobody, I don't think, cared much after that.  It's a shame, because I think it's a very, very important area.  For instance, in Kiribati there was a terrible squawk here because they gave the Soviets a million dollars' worth of business in the area, fishing rights.  Well, a million dollars means an enormous amount to them.  Here, it's the 1,500 miles of islands between Hawaii and the Philippines, and nobody's paying any attention to it.</p>
-<p>
-<hi rend="italics">Q:  The Japanese are in there now.</hi>
-</p>
-<p>BURTON:  They were in there all the time, sniffing around everywhere.</p>
-<p>
-<pb facs="0027" n="Page0027"/>
-<hi rend="italics">Q:  Did you find that the Japanese were playing a different gamthan, say, the Americans as far as this area?</hi>
-</p>
-<p>BURTON:  No, except that they were moving in a lot into Micronesia, particularly Guam and Pilau and places like that, with hotels, and getting the local people who owned the land to support them, and doing backdoor deals in order to circumvent land rights and those kinds of things.  The Americans weren't being very clever about it and let them go.</p>
-<p>Micronesia was administered by the U.S. Department of Interior, and they were not very interested.  I had a terrible time getting anybody interested in it.  The people who were, realized how vital it was, but they were very few and far between.  A marvelous man was in charge of the area for AID, a man named William Paupe, but he left right after I did.</p>
-<p>
-<hi rend="italics">Q:  So you sort of quit government, was it?</hi>
-</p>
-<p>BURTON:  Yes, I quit government entirely.</p>
-<p>
-<hi rend="italics">Q:  In '86.  BURTON:  Yes.</hi>
-</p>
-<p>
-<hi rend="italics">Q:  When you left, did you feel that the United States had made mucof an impact in these areas where you were working on agreements?</hi>
-</p>
-<p>BURTON:  I think it was very, very useful at the time.  As I say, we have these financial projects, where we were the investors of last resort, some of them quite small, that would not have been realized without us.  I think that, particularly during the Reagan administration, they missed the boat, because they were supporting some of the great big oil companies, let's say going into China and into other places, on the basis that we needed more oil and whatnot.  But the Congress didn't like it.  They were saying, “What are you doing supporting these big oil companies?  They can take care of themselves.  You're losing track of the original purpose of this program, which was to help small investors in countries where otherwise these projects could not have been realized.  In the case of oil, they're going to do it anyway.”  So OPIC got into trouble, and they almost didn't get their legislation renewed one year.  Then they had trouble about two years ago.  I think they have a year or two to go.  Somebody will do something and keep it going, because they pay their own bills.  However, the early days after the war are really going.  Now there are a lot of private insurance companies that are into the business, and so why is there a need for it?  And these countries themselves are getting more sophisticated and realizing that they've got to get their act together and put in their own investment laws and their own investment structure, because if they don't do it, they're not going to get the money they need.  Asia is a case in point.  We've got big operations going in Asia.</p>
-<pb facs="0028" n="Page0028"/>
-<p>
-<hi rend="italics">Q:  So, in many ways, what you were doing was sort of acting as starter.</hi>
-</p>
-<p>BURTON:  As a starter.  And I think there's a valid argument for saying that this is not that useful anymore, as you consider that they're going to be saving money and getting rid of things, except that, as I say, OPIC is one of the few people that pay their own bills.  It's an income-producing operation.  And they're only 150 people, so the main expense is paying retirement income.</p>
-<p>
-<hi rend="italics">Q:  Well, maybe we might stop at this point.</hi>
-</p>
-<p>BURTON:  All right.</p>
-<p>
-<hi rend="italics">Q:  Great.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>ELIZABETH A. BURTON</p>
+                <p>Interviewed by: Charles Stuart Kennedy</p>
+                <p>Initial interview date: January 20, 1998</p>
+                <p>Copyright 2000 ADST</p>
+                <p>Q: I wonder if we could start sort of at the beginning. Could you tell me where
+                    and when you were born and something about your family.</p>
+                <p>BURTON: I should have been born here in Washington, but technically I was born in
+                    Reno, Nevada, because my mother was from a prominent Nevada family, and my
+                    father spent 10 years in Nevada working for a man there, and picked up my mother
+                    and brought her back here to Washington. We were an old Washington family. I'm
+                    fourth-generation Washingtonian. The family came originally from Sussex County,
+                    Delaware, before the Civil War. My father was a prominent banker, Clarence F.
+                    Burton. I was brought up here in Washington, from the time I was about six
+                    months or a year, I guess. So I've lived here all my life.</p>
+                <p>
+                    <hi rend="italics">Q: Where'd you go to school?</hi>
+                </p>
+                <p>BURTON: I went to secondary school here in Washington, at GunstoHall, and then I
+                    went to Sarah Lawrence College.</p>
+                <p>
+                    <hi rend="italics">Q: What was it like growing up in Washington? Was it a
+                        differencity than it is today?</hi>
+                </p>
+                <p>BURTON: I should say so. It was absolutely wonderful. In the first place, it was
+                    very small, and so-called society was very small. The upper levels of the
+                    diplomatic and military and congressional world and the so-called cave-dwelling
+                    business people all knew one another and mixed together and saw one another all
+                    the time, and their children grew up and knew one another. So, compared to
+                    today, it was minuscule. As I recall, there were just a few embassies and
+                    legations. The British had a legation down on N Street.</p>
+                <p>Q: At Gunston Hall, did one sort of major in anything? I realize this was at the
+                    secondary school level, but what were your particular interests at that
+                    time?</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>BURTON: No, I don't think we majored in anything. But it was in many ways a
+                    remarkable school, because it was, even in the primary school, geared toward
+                    old-fashioned studies like The Iliad and The Ring of the Nibelungen and those
+                    things, so that I was exposed to this at an early age. It was a very small
+                    school, mainly Southern, and had a two-year finishing school for Southern
+                    ladies, so that the overtones were very Southern.</p>
+                <p>
+                    <hi rend="italics">Q: Did you get finished, or did you keep going?</hi>
+                </p>
+                <p>BURTON: I wasn't finished, no. I got out of there at the end osecondary school
+                    and went to Sarah Lawrence College in Bronxville.</p>
+                <p>
+                    <hi rend="italics">Q: You were at Sarah Lawrence from when to when?</hi>
+                </p>
+                <p>BURTON: Until '41. I'm Class of '41.</p>
+                <p>
+                    <hi rend="italics">Q: Just in time for World War II.</hi>
+                </p>
+                <p>BURTON: Yes, exactly.</p>
+                <p>
+                    <hi rend="italics">Q: What were you studying at Sarah Lawrence?</hi>
+                </p>
+                <p>BURTON: Mainly the arts, almost entirely, but with a certain amount of economics,
+                    which is what I lived on the rest of my life. I studied music with William
+                    Schumann and I studied painting with two very prominent people in the field,
+                    Kurt Rush, and Bradley Walker Tomlin.</p>
+                <p>
+                    <hi rend="italics">Q: When you say economics, what did economics consist of at
+                        SaraLawrence during that period?</hi>
+                </p>
+                <p>BURTON: I think it just consisted of some basic economic studies,economic history
+                    more than anything.</p>
+                <p>Q: Were the Sarah Lawrence students caught up in the events over in Europe? This
+                    was, of course, a tumultuous time, just before the start of World War II, and
+                    then World War II starting in 1939. Did this impact at Sarah Lawrence?</p>
+                <p>BURTON: Not a bit.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q: Really?</hi>
+                </p>
+                <p>BURTON: As if it didn't exist.</p>
+                <p>Q: What was the view of the government then? There were some schools where
+                    people, particularly the upper branches of society in the United States, came to
+                    hate Roosevelt. Was this part of the ethos at that time?</p>
+                <p>BURTON: I think that Sarah Lawrence was extremely liberal. I can remember that
+                    the sort of the queen of campus was a Jewish lady who was very communistic, and
+                    they thought she was wonderful. My father was a hate-Roosevelt type. He was just
+                    about as reactionary as they could come. He was a Washington banker and detested
+                    Roosevelt, although that didn't keep us from going to the Roosevelt
+                    receptions.</p>
+                <p>Q: I'm just curious, because you belonged to Washington society, was there much
+                    of an intermix with the Roosevelts and the Roosevelt Cabinet and Washington
+                    society?</p>
+                <p>BURTON: Oh, yes, totally and completely. After all, there were no jets, and so
+                    they were dependent on the local community to come to the White House. There
+                    were parties that they had for the children, and the local kids were included. I
+                    remember going to a dance there for Mrs. Roosevelt's niece, and going there with
+                    my father to the judicial receptions.</p>
+                <p>
+                    <hi rend="italics">Q: At home, did you get long discussions of “that man in the
+                        WhitHouse” and how awful he was?</hi>
+                </p>
+                <p>BURTON: We certainly did. My father would be chuckling all day if Westbrook
+                    Pegler came out with a particularly nasty article. And he detested Mrs.
+                    Roosevelt. I think he was wrong, but he certainly felt that way.</p>
+                <p>Q: Here you were, coming from this society, and both Roosevelts came from
+                    essentially the same strata of society, but they were, particularly Mrs.
+                    Roosevelt, not playing the game.</p>
+                <p>BURTON: Not your normal woman of the time.</p>
+                <p>
+                    <hi rend="italics">Q: How about a young student at Sarah Lawrence, and the other
+                        onethere, how did you all look upon Mrs. Roosevelt?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>BURTON: I haven't the foggiest. I don't remember at all. I don't think it was
+                    discussed. At Sarah Lawrence, we were interested mainly in the arts. And there
+                    was a remarkable roster of professors there at that time, because they could
+                    work a couple of days in Bronxville and then do their work in New York. A case
+                    in point being Maxwell Geismar, who was one of my professors, and Bradley Walker
+                    Tomlin, Joseph Campbell, and William Schumann, who became towering figures in
+                    their field.</p>
+                <p>
+                    <hi rend="italics">Q: Well, then you graduated in 1941. We're not at war yet.
+                        SaraLawrence had not paid much attention to it. What happened?</hi>
+                </p>
+                <p>BURTON: Then I came back to Washington and studied art at the Phillips Gallery
+                    for a year. After the war, I went to work for the Freer Gallery, for a man who
+                    was the Islamic associate at the Freer Gallery. I was paid by the University of
+                    Michigan.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find Washington society changing with the
+                        war?</hi>
+                </p>
+                <p>BURTON: Yes, of course. It emptied of all the young men that we had known, but it
+                    filled up with all of the glamorous New Yorkers and then the Brits. So we had a
+                    wonderful time. There was a party every night.</p>
+                <p>
+                    <hi rend="italics">Q: How about the arts, were they being patronized during that
+                        time?</hi>
+                </p>
+                <p>BURTON: There was so little going on in Washington. It was negligible, really,
+                    except for the standing exhibitions. I'd say nothing. There was a small
+                    community of artists here that all knew one another.</p>
+                <p>
+                    <hi rend="italics">Q: Were you beginning at all to be sucked into the war
+                        effort,postwar planning, or anything like that at this time?</hi>
+                </p>
+                <p>BURTON: I got a job during the war. I was working for the Board of Economic
+                    Warfare, over on Q Street. I worked there until the end of the war.</p>
+                <p>
+                    <hi rend="italics">Q: What did your job consist of?</hi>
+                </p>
+                <p>BURTON: Mainly research. I can remember having to research all of the sewer
+                    systems in Antwerp, for instance, at one point. I haven't the foggiest why.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: What was the atmosphere at this office? Was it six days a
+                        week,priority assignments?</hi>
+                </p>
+                <p>BURTON: Yes, it was an engineering group, and they acted as advisors to whatever
+                    they were advising. I don't really know what, because that was the upper level
+                    of the department, and I was just a prole.</p>
+                <p>
+                    <hi rend="italics">Q: Were there many women doing research at that time?</hi>
+                </p>
+                <p>BURTON: No, I think I was the only one. It was a very small office. And I also
+                    took care of the consulting engineers, two or three of them, including
+                    Buckminster Fuller, who became a good friend.</p>
+                <p>
+                    <hi rend="italics">Q: Basically, would you get an assignment saying let's look
+                        at thoil production of various places?</hi>
+                </p>
+                <p>BURTON: Yes, that kind of thing.</p>
+                <p>
+                    <hi rend="italics">Q: I suppose the main thing was...</hi>
+                </p>
+                <p>BURTON: I wouldn't be surprised if it wasn't mainly military targets. Q: I was
+                    going to say bombing targets.</p>
+                <p>BURTON: Targets for bombing, probably, but we weren't told what. Iwasn't much of
+                    an issue. You just got an assignment, and you did it.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find out about the sewers of Amsterdam?</hi>
+                </p>
+                <p>BURTON: The Library of Congress. It wasn't Amsterdam, it waAntwerp. I don't know
+                    why I remember it, but I do.</p>
+                <p>
+                    <hi rend="italics">Q: Did the Library of Congress have a pretty complete...</hi>
+                </p>
+                <p>BURTON: Yes, they did. You had to sniff around, around town, to sewhere you'd
+                    find information, but it was available somewhere.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: I'm just trying to think of how one would try to find out
+                        about sewer system anywhere.</hi>
+                </p>
+                <p>BURTON: I really don't know now myself. In those days, I worked umy techniques
+                    and knew where I was going. But it was a long time ago.</p>
+                <p>
+                    <hi rend="italics">Q: At the end of the war, with economic warfare, were there
+                        angroups beginning to look at what happens after the war?</hi>
+                </p>
+                <p>BURTON: Yes, they tried to keep things together for a while, but gradually
+                    attrition took care of it, and the office was dissolved. But I do remember they
+                    were sending engineering groups out to, for instance, Ethiopia. I and another
+                    woman had to write up a basic manual book for Ethiopia, and they went out to
+                    Ethiopia and used this book. I don't remember much about it, but I remember that
+                    was one of them. I don't know what they were doing in Ethiopia. Probably
+                    advising the Ethiopian government on X, Y, or Z, I don't know what.</p>
+                <p>
+                    <hi rend="italics">Q: The Italians had left there, and I guess they had to
+                        figure ouwhat to do about it. Who was the head of the office?</hi>
+                </p>
+                <p>BURTON: I haven't a clue. I don't remember. I was working for a man named Alex
+                    Taub, a very famous British engineer who had designed the Spitfire engine. I
+                    don't know whether he was fundamentally an American. He was Jewish, so he might
+                    have had overtones of family in Europe. I don't really remember, but I think he
+                    was American. If he wasn't, he was English. But that was his famous thing, the
+                    Spitfire engine, a famous British airplane.</p>
+                <p>
+                    <hi rend="italics">Q: As you were doing this, did this remove you from your
+                        interest iart, or did this keep up?</hi>
+                </p>
+                <p>BURTON: Yes, it totally removed me from it. And I was very busgoing out every
+                    night, too, so...</p>
+                <p>
+                    <hi rend="italics">Q: It's easy to forget how hectic the social life was at that
+                        time.</hi>
+                </p>
+                <p>BURTON: There was a party every night. It was just a question of getting on the
+                    phone and finding out where it was. And everybody met every day at lunch at the
+                    so-called snake pit, which was the Patio Room at the Mayflower Hotel. So you
+                    always knew who was in town by going there for lunch.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>Q: It was a different world. I was a little bit younger, but I got some flavor of
+                    this because I lived in Annapolis and from time to time I'd come up and meet
+                    people up here. Washington was almost unbelievable as far as the pace.</p>
+                <p>BURTON: Incredible.</p>
+                <p>
+                    <hi rend="italics">Q: As the war came to a close, was this beginning to intrigue
+                        you afar as getting into something else?</hi>
+                </p>
+                <p>BURTON: No, I really didn't know what to do with myself. The office was
+                    dissolved, and everybody was coming to an end of their government service during
+                    the war. Everybody got fired; we just got a pink slip, is what it amounted
+                    to.</p>
+                <p>Then I looked around, and that's when I went with the Freer and worked for
+                    Richard Ettinghausen, who was one of the great, towering figures, an Islamic art
+                    historian who later taught at New York University and was associated with the
+                    Metropolitan Museum.</p>
+                <p>
+                    <hi rend="italics">Q: What did you do at the Freer?</hi>
+                </p>
+                <p>BURTON: I was his assistant for editing a book called Ars Islamica, which was a
+                    very famous journal put out in three languages on Islamic art.</p>
+                <p>
+                    <hi rend="italics">Q: In that period, Islam seemed pretty far away from
+                        everything.</hi>
+                </p>
+                <p>BURTON: It was. There were only two places in the United States where there were
+                    any Islamic studies. One was at Princeton, and the other was at the University
+                    of Michigan. It was unique, yes.</p>
+                <p>
+                    <hi rend="italics">Q: How long did that keep up?</hi>
+                </p>
+                <p>BURTON: It kept up until I decided I wanted to go to Europe.</p>
+                <p>
+                    <hi rend="italics">Q: This was when? BURTON: This was in the summer of '49.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: Europe was almost prostrate at that time.</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>BURTON: Yes, but I had an opportunity to go with some Swedish friends to Sweden
+                    for the summer. I was invited to go with them, and that's what precipitated my
+                    departure.</p>
+                <p>
+                    <hi rend="italics">Q: Could you tell me a bit about this trip to Europe.</hi>
+                </p>
+                <p>BURTON: Yes, one of the consultants that I was working for was a
+                    Swedish-American, and I became very close with his family. They went back to
+                    Sweden every year. She was from a prominent Swedish family. And they asked me to
+                    join them, which I did. I spent the summer with them in Sweden. And then I
+                    decided I didn't want to come home, so I went back to Paris, where I'd been for
+                    about 10 days before I went to Sweden.</p>
+                <p>
+                    <hi rend="italics">Q: Looking at Sweden in 1949, what was society like there
+                        when yowere there?</hi>
+                </p>
+                <p>BURTON: It was exceptionally elegant. Very old-fashioned, very, very elegant. I
+                    would say it was about the nearest thing to the 18th Century you can think of.
+                    Beautiful country houses, all flourishing. Races going in the afternoon.
+                    Wonderful dinner parties. Very beautiful.</p>
+                <p>
+                    <hi rend="italics">Q: Was there much talk about World War II at that point?</hi>
+                </p>
+                <p>BURTON: No, except for one friend in this group that I knew very well. His name
+                    was Aminoff, and he had been chamberlain of the Swedish court. Goering had come
+                    up during the war to go hunting, and he'd been assigned to take care of him. And
+                    he, in turn, was invited back to hunt with Goering. In the middle of the war, he
+                    went there, and then went to London, or vice versa. In any case, I remember his
+                    telling me that Goering was convinced that London was absolutely flat.</p>
+                <p>
+                    <hi rend="italics">Q: From the bombing.</hi>
+                </p>
+                <p>BURTON: Yes. And he said to him, “Do you know London well?”</p>
+                <p>He said, “Yes, I do.”</p>
+                <p>And he said, “Well, it isn't. I've just been there, and I'll takyou up one street
+                    and down the other.”</p>
+                <p>I think this was very interesting.</p>
+                <p>
+                    <pb facs="0009" n="Page0009"/>
+                    <hi rend="italics">Q: What was Paris like in '49?</hi>
+                </p>
+                <p>BURTON: It was lovely. It was empty, for one thing. There were practically no
+                    cars. Everything was in short supply, except I didn't notice it much. When I
+                    first went there, I was just prowling the streets and looking around. And
+                    certainly the restaurants were flourishing, no problem.</p>
+                <p>I went to England a couple of times while I was there, and I didn't realize what
+                    privation they were going through. For instance, an egg for breakfast was
+                    unheard of. It was ten days or two weeks later before I realized that you
+                    couldn't go to somebody's house and expect an egg for breakfast.</p>
+                <p>
+                    <hi rend="italics">Q: How about in France, was that different? Paris was eating
+                        better?</hi>
+                </p>
+                <p>BURTON: Yes, it was perfectly all right. There were no cars, because gasoline was
+                    in short supply. So the French were awfully nice to us, because we had
+                    everything. We had the silk stockings and the hooch and the gasoline and the
+                    cars.</p>
+                <p>
+                    <hi rend="italics">Q: How were you able to tap into this?</hi>
+                </p>
+                <p>BURTON: After I started to work, which was in the fall of '49, I had access... I
+                    bought a car, which the French couldn't do. I bought it in dollars, so I had a
+                    car and gasoline, and stockings.</p>
+                <p>
+                    <hi rend="italics">Q: In '49, what were you doing?</hi>
+                </p>
+                <p>BURTON: I wasn't doing anything to begin with. Then I realized I would run out of
+                    money eventually, and if I wanted to stay in Paris, I'd have to get a job. So I
+                    sniffed around through friends and connections. They were recruiting for the
+                    Marshall Plan at the Talleyrand at that time, and I went in there and got a job
+                    as a statistician in the Central Programming Office.</p>
+                <p>
+                    <hi rend="italics">Q: It was the Hotel Talleyrand, wasn't it?</hi>
+                </p>
+                <p>BURTON: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Which was the center of American activity, or was it the
+                        centeof the Marshall Plan?</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>BURTON: It was the center of the Marshall Plan, and gradually became the center
+                    for all of the international diplomatic operations, not to be confused with the
+                    embassy, which was on the other side of the square.</p>
+                <p>
+                    <hi rend="italics">Q: Who was the head of the Marshall Plan when you started in
+                        '49? BURTON: I can't remember, but I think it was Lincoln Gordon.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: What did they hire you for?</hi>
+                </p>
+                <p>BURTON: As a statistician.</p>
+                <p>
+                    <hi rend="italics">Q: This goes back to your finding out about the sewers of
+                        Antwerp?</hi>
+                </p>
+                <p>BURTON: I don't know what it was. I don't know why they hired me, but they did.
+                    Maybe it was just that they had three slots to fill, and I was one of them,
+                    fortunately. Once I got in there, I could sniff around and find other things as
+                    need be.</p>
+                <p>
+                    <hi rend="italics">Q: What were the sort of things that a statistician was
+                        working on?</hi>
+                </p>
+                <p>BURTON: I can't remember. I remember editing papers that they gave me. This was a
+                    small office, and I think that anything you were equipped to do, you did.</p>
+                <p>
+                    <hi rend="italics">Q: What was the work? Was it assembling statistics on
+                        variouthings?</hi>
+                </p>
+                <p>BURTON: I'm sorry, I can't tell you. I simply don't remember. I was very new. I
+                    was getting used to things and trying to figure out how the cable system worked,
+                    things like that. I was working for a very brilliant man whose name was
+                    Ostrander, who was handling the German distributions of the Marshall Plan stuff.
+                    So I just did whatever he told me, I guess.</p>
+                <p>
+                    <hi rend="italics">Q: Can you characterize the spirit of the people working on
+                        thMarshall Plan?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>BURTON: Yes, they were very excited with what they were doing. There was a very
+                    competent woman there named Mary Painter, who was apparently famous in the
+                    economic field. She died only about three years ago. She had constructed a new
+                    system for something in economics. But they were young, and they were
+                    enthusiastic. I worked with Tom Shelling, later of Harvard. He taught me how to
+                    use a slide rule. It was almost like a post-graduate group. A lot of very
+                    bright, attractive, young people.</p>
+                <p>
+                    <hi rend="italics">Q: As you traveled about France, what was your impression of
+                        wherFrance was?</hi>
+                </p>
+                <p>BURTON: Looking back on it now, I realize that France was still in a pre-World
+                    War II state. And by that I mean it was in a medieval state as well. Anytime you
+                    got to a small village in the country, there wasn't much difference between it
+                    and the Middle Ages. If you went into a house, plumbing, everything else like
+                    that. But I didn't realize it at the time. I do now, because of the vast
+                    difference between then and now. But it had remained absolutely untouched, I
+                    would say, since the early 19th Century, the Proustian days almost.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any contact with the international community
+                        whilyou were doing this first job? The French, the British.</hi>
+                </p>
+                <p>BURTON: Not professionally. Certainly socially, yes. I knew quite a few French
+                    people from the French Embassy here, and they were very nice to me. I had entr�e
+                    in France that was, at that point, spectacular. But even then I didn't realize
+                    that. They were just old friends and they would ask me for lunch, that kind of
+                    thing. So I had a view of Proustian Paris that I didn't realize I was
+                    having.</p>
+                <p>Q: This office basically was serving more or less the same way, I take it, that
+                    your economic warfare office was, supplying statistics or information on
+                    demand.</p>
+                <p>BURTON: Oh, I think not. No, no, I think it was far more than that. The
+                    Programming Office was the hub of where and what they were distributing to the
+                    Marshall Plan countries. Everything that was allocated to the Marshall Plan was
+                    siphoned though the Paris office, so that it was an extremely important hub of
+                    what was going out. But I was just too young and too inexperienced to have much
+                    part in that.</p>
+                <p>
+                    <hi rend="italics">Q: Did Averell Harriman come across your...</hi>
+                </p>
+                <p>BURTON: I knew him later, yes.</p>
+                <p>
+                    <pb facs="0012" n="Page0012"/>
+                    <hi rend="italics">Q: But not at this particular time.</hi>
+                </p>
+                <p>BURTON: No.</p>
+                <p>
+                    <hi rend="italics">Q: How long did this particular job last?</hi>
+                </p>
+                <p>BURTON: Two years, at least.</p>
+                <p>
+                    <hi rend="italics">Q: So we're moving toward around 1952 or so. What did you do
+                        then?</hi>
+                </p>
+                <p>BURTON: I remember coming on home leave for two months and then going back. But
+                    then this so-called statistical office, which I don't think had much raison
+                    d'etre to begin with, was dissolved. There were three of us in it. So I had to
+                    look for another job. There wasn't one in that particular office, so I got
+                    another one around the Talleyrand for a few months. And then I got picked up by
+                    the office of the U.S. delegation to NATO, which by that time had moved from
+                    London and was in Talleyrand and was becoming very important.</p>
+                <p>
+                    <hi rend="italics">Q: Did you make any trips to Germany? I think you mentioned
+                        yowent to Yugoslavia.</hi>
+                </p>
+                <p>BURTON: Everywhere. I went everywhere I could possibly go. Anytime I had the
+                    so-called bridge, which was a holiday on Thursday, I took the bridge and went
+                    someplace. So I went all over Europe, yes. I didn't go to Berlin when I was in
+                    Germany. I never saw the great destruction, which I regret very much. It was
+                    mainly Wiesbaden or Frankfurt.</p>
+                <p>
+                    <hi rend="italics">Q: You said you made a trip to Yugoslavia.</hi>
+                </p>
+                <p>BURTON: Yes, I made a trip to Yugoslavia in April 1951.</p>
+                <p>
+                    <hi rend="italics">Q: Could you talk a little bit about your impressions of
+                        Yugoslaviat that time.</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>BURTON: That was a fascinating trip, because a friend of mine who was consul
+                    general at Zagreb got permission to take me with him on his tour of the diocese.
+                    We took boats down to Dubrovnik, stopping off in the islands. He had sent a car
+                    down, which, by the time it got to Dubrovnik, was not only devoid of tires but
+                    also wheels, so we had to wait there for a couple of days for the wheels to turn
+                    up. And then we drove back through Mostar and Banja Luka to Zagreb. It was
+                    horribly expensive, because the dinar was pegged at 50 whatever, and you got 500
+                    in Trieste, so that will give you some idea, if you had to play it straight. And
+                    there was very little food. There was no coffee, no sugar. I can't say little
+                    food. There was food, but it was very limited. And they warned you that when you
+                    went out in the islands that you might run into trouble with getting any kind of
+                    food. There were hotels; they were running. They were very primitive. I went to
+                    the various islands, to Rab, to Kor_ula, to Dubrovnik, and then down to Kotor.
+                    It was a beautiful trip. There were absolutely no outside people of any kind. We
+                    were followed the whole time. At one point, particularly in Kor_ula, someone
+                    told us that anyone that we spoke to was being hauled in and interrogated. So we
+                    were very careful who we spoke to from then on. I remember that there was an AID
+                    agent in Dubrovnik that we went up into the mountains with, into the villages. I
+                    don't know what he was doing. I used to see him around Washington afterwards.
+                    But the friend I was traveling with became an authority on Yugoslavia and wrote
+                    some books on its potential development. It was about a year after the
+                    separation from communism.</p>
+                <p>
+                    <hi rend="italics">Q: You were mentioning that Sarajevo was not a friendly place
+                        athat point.</hi>
+                </p>
+                <p>BURTON: Well, all of it was not friendly. You got this feeling, as I say, of
+                    being followed, and you had to be careful. But other than that, people were very
+                    pleasant. They implored you for food. They were asking if you could possibly
+                    send them some sugar or some coffee or something like that.</p>
+                <p>One thing I can remember, it's coming back to me now, we took a boat from Rab, I
+                    think it was, down to Zara and put in at Zara overnight. And my friend started
+                    talking to somebody on the boat that night. There were soldiers all over the
+                    boat, sleeping and singing all over the decks. This man that he spoke to wasn't
+                    on the boat the next day, and he had intended to be. So it was sinister.</p>
+                <p>
+                    <hi rend="italics">Q: I take it the road system was almost nonexistent, or was
+                        it easto drive?</hi>
+                </p>
+                <p>BURTON: Roads were very poor. There was nobody on the roads at all,nothing, as I
+                    remember. We had a car and a driver.</p>
+                <p>
+                    <hi rend="italics">Q: Did you get into Czechoslovakia?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>BURTON: No. No, no, we just drove from Dubrovnik down to Kotor, back again, and
+                    then up through Bosnia through Mostar and Banja Luka and then to Zagreb.</p>
+                <p>
+                    <hi rend="italics">Q: When you were back in Paris, your job was NATO. You were
+                        dointhat from when to when?</hi>
+                </p>
+                <p>BURTON: I think it was probably from around 1952 to maybe 1954. There, I really
+                    did take care of the statistics. All of the statistics that came in from
+                    Washington for all of the NATO countries, like off-shore procurement and
+                    military assistance and defense budgets, all of that came over my desk. And I
+                    stashed it away and kept it, so that if anybody came into the Marshall Plan
+                    office there and wanted to know what we were doing for Turkey, or if the defense
+                    minister from Turkey came to see the head of the NATO staff, they would have to
+                    come to me to get the latest figures.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find this a form of power?</hi>
+                </p>
+                <p>BURTON: No, not particularly. It was just a service. But I cornered the market.
+                    Oddly enough, I've made most of my jobs in my life. It's a question of getting
+                    in and sniffing around to see what needs to be done and doing it. Then, usually,
+                    if you propose it right, they'll accept it. This has happened to me two or three
+                    times.</p>
+                <p>
+                    <hi rend="italics">Q: Were there any particular problems in early NATO that you
+                        saw?</hi>
+                </p>
+                <p>BURTON: No, not at all. There were the great NATO meetings in Paris twice a year,
+                    which meant that we were literally working 24 hours a day. The big noises would
+                    go in the front offices, the officers and whatnot, and they'd come out at 7
+                    o'clock in the morning, in deciding what they were going to do, how much money
+                    they were going to give to this, that, and the other thing. They were just, at
+                    that point, rearming Germany. And it was very exciting.</p>
+                <p>
+                    <hi rend="italics">Q: Did the French play much of a role, from your perspective,
+                        owere you pretty much tied to the Americans?</hi>
+                </p>
+                <p>BURTON: I had nothing to do with the French, as such. France wasn't any more
+                    important than Turkey or Austria or any of the others. We just happened to be
+                    located there. Of course, the French kicked us out later and sent NATO to
+                    Brussels.</p>
+                <p>
+                    <hi rend="italics">Q: Within your sphere of working, who was the top boss that
+                        you had?</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>BURTON: I had a lot of them. William Draper, Sr., was one. A man named Milton
+                    Katz was another. Averell Harriman was another. We used to laugh about Harriman,
+                    because if something nice would happen, he'd come in at 5 o'clock and tell us to
+                    take the afternoon off. They were all head of the U.S. delegation to NATO, and
+                    those were the ones that I was working for. But I had somebody in between. I
+                    remember a few of them. Q: Was the NATO staff that you were dealing with pretty
+                    much civilian?</p>
+                <p>BURTON: No, it was almost totally military.</p>
+                <p>Q: You were dealing with a fairly technical part of NATO—statistics. Did the
+                    military members work with you, or did they pretty much leave you alone to do
+                    this?</p>
+                <p>BURTON: I worked for them. Captain Shepard was one. And then a man named Admiral
+                    Strauss, who's a personal friend at this point, was another. Whoever was at the
+                    top of NATO would tell them what they wanted, that, for instance, the Turkish
+                    defense minister was coming, and he would have to present such and such and so,
+                    and he would come down to me to get the figures. That's how it worked.</p>
+                <p>
+                    <hi rend="italics">Q: You left there around '54 or so?</hi>
+                </p>
+                <p>BURTON: I think around '54, yes. If they needed a job done, they would look
+                    around in Paris. It was less expensive, I guess, to get somebody in Paris, if
+                    they could find them, than it was to recruit from the United States. Then I had
+                    an offer of a very good job over in the Coordinating Committee, which was a
+                    secret committee at that point. It was located in an old hotel off the Faubourg
+                    Saint-Honor�, with a very small staff. It was a committee of the war allies to
+                    keep strategic materials from getting to the Sino-Soviet bloc. We set up a
+                    system of licenses and checkpoints and got the other governments to cooperate
+                    with us. So that if we had a notice of a shipment coming in that might have been
+                    transshipped in Rotterdam or Godinya, we'd notify the Dutch government and warn
+                    them about it, and maybe they'd catch it, and maybe they wouldn't. We acted as
+                    the regional center to disseminate this information to the embassies, and they,
+                    in turn, would notify the cooperating governments to stop these shipments if
+                    they could. They would go down and check the ships and check their manifests,
+                    and sometimes they stopped them, and sometimes they'd already gone.</p>
+                <p>
+                    <hi rend="italics">Q: When you're talking about stopping shipments, what are we
+                        talkinabout?</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>BURTON: Ball bearings, for instance, or copper rod, at that point, and
+                    theodolites were another one. I had a couple of CIA people working for me that
+                    were quite remarkable. One of them could read Russian upside down about nine
+                    feet away. He had perfect eyesight. I'd say, “There's a report of some ball
+                    bearings coming in to Rotterdam headed for diversion. Why don't you go out and
+                    see what you can find?” And he'd come back the next day and say, “They're gone;
+                    they're already off.”</p>
+                <p>
+                    <hi rend="italics">Q: These were efforts by the Soviet Union to get these
+                        things.</hi>
+                </p>
+                <p>BURTON: Yes, they wanted the things they were missing. There were people, just
+                    like the drug trade, that were in diversion activities. We worked very closely
+                    with the drug people, actually, because usually people that are in one
+                    underhanded business are in the other, too.</p>
+                <p>
+                    <hi rend="italics">Q: Was there much in the way of enforcement, if they would
+                        catcthem?</hi>
+                </p>
+                <p>BURTON: Yes, yes, a lot, but it was done by the local governments. For instance,
+                    I can remember my boss, Colonel Brown, going to Switzerland and intercepting a
+                    railroad shipment of uranium sulfate, the stuff you make bombs out of. He came
+                    back with a little vial of this “curry powder,” and he said, “Betty, you're
+                    going back to Washington for Christmas. Will you take this with you and turn it
+                    over to X, Y, and Z.” I said, “Sure,” and I popped it into my pocketbook. I
+                    didn't think anything about it, and came home and turned it over to the people.
+                    Apparently, when they got it, the Geiger counter went through the ceiling. They
+                    never caught me at all coming into the United States through Customs. They
+                    caught someone else with some radium on their watch, but they didn't catch
+                    me.</p>
+                <p>Q: Were there any particular areas where the system was particularly good at
+                    cutting out things, and other ones where you felt that there was considerable
+                    leakage?</p>
+                <p>BURTON: That's hard to remember. The leakage was through Rotterdam and Godinya,
+                    mainly, the shipments there. And then there were leakages in Switzerland,
+                    shipments that were headed for Austria. I don't know whether it was leakage, I
+                    wouldn't say that. I'd just say that they would get through Switzerland to
+                    Austria. And if they got into the Soviet bloc in Austria, they were gone, too.
+                    We had to catch it before they got there. So we had to have this advice ahead of
+                    time. It was a very elaborate check system of intelligence coming in.</p>
+                <p>
+                    <hi rend="italics">Q: What was it called, the apparatus? Was it COCOM?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>BURTON: Yes. It was short for Coordinating Committee. That's all it was called.
+                    And then there was the section that dealt with the committee itself, who sat in
+                    the sessions and decided, for instance, what would be banned from going and what
+                    would be on the forbidden lists. And then they would turn it over to us in the
+                    enforcement operation to see that it didn't get diverted.</p>
+                <p>
+                    <hi rend="italics">Q: What was the secrecy about this?</hi>
+                </p>
+                <p>BURTON: This was right after the war, after all, and I think they just didn't
+                    want the Soviets to know that they were getting together and keeping them from
+                    getting this stuff (not officially, anyway), and that they were cooperating so
+                    successfully, particularly with countries like Sweden and Austria that had
+                    supplied the Soviets with ball bearings. After all those years, suddenly they
+                    were not cooperating. Later on, we found that they ruined their markets and
+                    caused the Soviet Bloc to become self-sufficient, so this wasn't a very good
+                    idea.</p>
+                <p>
+                    <hi rend="italics">Q: How did you get your intelligence? Where was it coming
+                        from?</hi>
+                </p>
+                <p>BURTON: It's hard for me to remember. I just remember we used to get cables in. I
+                    would dare say it was CIA that was informing us. Also, the drug people, who were
+                    mainly operating out of Italy. We worked together; they would give us
+                    information, and we'd give them ours. There were, for instance, big operations
+                    in Vaduz, Liechtenstein, and places like that. There were groups of people that
+                    we knew were doing this, so that if they applied for an export license, let's
+                    say, out of New York, to ship copper, it would probably go automatically to CIA.
+                    The CIA would check up, and if these people were the people from Vaduz, they'd
+                    probably let us know, and say it's on it's way, better watch out. I think that's
+                    probably how it worked, because we worked very closely with CIA.</p>
+                <p>
+                    <hi rend="italics">Q: What was the feeling about Sweden? This was a major
+                        producer othings, and it was neutral.</hi>
+                </p>
+                <p>BURTON: I can't remember any particular feeling about it. I do know that we
+                    ruined their ball-bearing export market to the Soviets, which was unfortunate
+                    for them.</p>
+                <p>
+                    <hi rend="italics">Q: You were doing this until about when?</hi>
+                </p>
+                <p>BURTON: Until 1958, I think. Then I decided I should come home.I'd missed too
+                    many boats, and I decided I needed to come home.</p>
+                <p>
+                    <hi rend="italics">Q: In 1956, did the Hungarian Revolution intrude at all?</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>BURTON: Not in the slightest. The Suez situation certainly intruded on us
+                    personally, because everybody was scared to death. The only other big scare was
+                    the blockade of Berlin. General Rea O'Hare, who was the U.S. military attach� in
+                    Paris, was a close personal friend, and he was giving me instructions what to do
+                    and where to go to get out right away.</p>
+                <p>
+                    <hi rend="italics">Q: The Hungarian Revolution and Suez were both around
+                        October.</hi>
+                </p>
+                <p>BURTON: Suez made a lot of difference.</p>
+                <p>
+                    <hi rend="italics">Q: What was the feeling, that Suez might be the beginning
+                        osomething?</hi>
+                </p>
+                <p>BURTON: Yes, Suez was a big business. Everyone was scared of the Suez situation.
+                    It was really scary. There was a threat of oil being cut off and all that, for
+                    France, England, everywhere.</p>
+                <p>
+                    <hi rend="italics">Q: Were you noticing, as time was moving on during the '50s,
+                        less-than-cordial reception of our efforts by the French?</hi>
+                </p>
+                <p>BURTON: Life became more difficult and more expensive during the 10 years I was
+                    there. I suddenly realized what I was paying for lunch every day. It wasn't a
+                    question of getting a little snack somewhere. It was $10 to go out and have a
+                    little of this and that and the other thing. And the parking became unspeakable.
+                    You had to have special arrangements for parking. Before that, you could park
+                    anywhere. The availability of everything became easier. Living there was very
+                    cheap. I had wonderful, wonderful apartments to live in, and I paid $60 a month.
+                    And I had maid service for nothing that pleated my nightgowns and one thing and
+                    another. We lived high on the hog for nothing, nothing. I was living on a very
+                    small salary, and I didn't get any help from home. I was living very well,
+                    indeed.</p>
+                <p>Of some interest, the ready-to-wear (pr�t-�-porter) was prohibitively expensive
+                    or did not fit Americans. Thus, everything that went on your back had to be made
+                    to order: garments, shoes, hats, lingerie. Imagine today fitting a nightgown!
+                    Stockings were available from the PX. My copiest made me a dress per season from
+                    the current collections. The Maisons de Couture (fashion houses) would lend you
+                    a dress overnight to wear to a party.</p>
+                <p>
+                    <hi rend="italics">Q: You decided to go home when?</hi>
+                </p>
+                <p>BURTON: About '58, I think it was. My parents came over, and I camhome with them
+                    in the fall.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>
+                    <hi rend="italics">Q: In '58, what were you up to?</hi>
+                </p>
+                <p>BURTON: Nothing. I didn't know what I was going to do. I just came back here with
+                    the idea of transferring over to something here in Washington, which is what I
+                    did.</p>
+                <p>
+                    <hi rend="italics">Q: You mentioned that you'd been brought in to the Foreign
+                        Servicunder the Wriston program.</hi>
+                </p>
+                <p>BURTON: Yes, that was by accident. I really didn't know what was happening to me.
+                    I was just living from day to day and enjoying myself, enjoying my work and my
+                    life. Paris in the '50s was an enchantment. It was just marvelous living
+                    there.</p>
+                <p>
+                    <hi rend="italics">Q: Were you picking up any impressions, towards the end when
+                        yoleft, of De Gaulle?</hi>
+                </p>
+                <p>BURTON: None. No. I wasn't much concerned. I never could understand French
+                    politics, to begin with. Just the surface repercussions. He was concerned with
+                    the glory of France and keeping it there. One can't blame him. He was a
+                    tremendous unifying element.</p>
+                <p>
+                    <hi rend="italics">Q: When you came back in '58, you were in the Foreign
+                        Service, scould you go to the State Department and look for a job?</hi>
+                </p>
+                <p>BURTON: Yes. But they put me in a job that was connected between the treaty
+                    office and an office in AID, which ran the investment guarantee program. There
+                    were three people in it at that point. Later on, it became the Overseas Private
+                    Investment Corporation (OPIC) and now has about 150. That just shows you what
+                    can happen. The authorizing legislation required an agreement to operate in the
+                    cooperating countries, and I did that. First, the European countries, and then
+                    the countries of Latin America, and, later on, all underdeveloped countries. So
+                    this kept me busy for the rest of my career.</p>
+                <p>
+                    <hi rend="italics">Q: Were there particular points of things we had to have that
+                        othecountries did not really care to give on these treaties?</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>BURTON: Oh, yes, yes. I think the most important one was in Latin America, the
+                    so-called Calvo Doctrine, where they had been ripped off in the 19th Century.
+                    For instance, the expropriation of the oil industry in Mexico would be a case in
+                    point. The main issue with all of these agreements was the expropriation. What
+                    we did was to ensure against loss due to expropriations. This didn't mean that
+                    they couldn't expropriate, but if they did, that we would pay any difference
+                    between what they paid, let's say 20 cents on the dollar versus the full amount.
+                    So it was to the interest of companies investing, let's say in a copper business
+                    in Chile, to get this expropriation insurance. All of the countries of Latin
+                    America, particularly the Andean code countries, did not want to involve
+                    themselves in anything that would remove expropriation decisions out of their
+                    country. And they made a great point that their supreme courts and whatnot were
+                    very fair. This became an issue, and stayed an issue, until very recently. And
+                    only recently I think it's been resolved. I think the NAFTA legislation, if
+                    memory serves me right, was one of the great breakthroughs.</p>
+                <p>
+                    <hi rend="italics">Q: North American Free Trade Agreement.</hi>
+                </p>
+                <p>BURTON: But this was only a few years ago that the Latin American countries began
+                    to realize that if they didn't do what everybody else was doing, they were going
+                    to be out of pocket in the long run. I think it's very interesting, because this
+                    is affecting Europe and Central Europe, and Central Asia now. And they're all
+                    coming and wanting the agreement, but they're going to have to crank up their
+                    receptivity to foreign investment and have it in a treaty before they're going
+                    to get any.</p>
+                <p>
+                    <hi rend="italics">Q: Essentially, this is insurance.</hi>
+                </p>
+                <p>BURTON: This is insurance, insurance against inconvertibility, insurance against
+                    loss due to expropriation and loss due to war risk, civil disturbances.</p>
+                <p>
+                    <hi rend="italics">Q: Was the Hickenlooper Amendment also involved?</hi>
+                </p>
+                <p>BURTON: Yes. Yes, it was. But I can't remember what it was. Ihad to do with who
+                    didn't sign the aid agreement, wasn't it?</p>
+                <p>Q: As I recall, the Hickenlooper Amendment was that a country could expropriate
+                    anything it wanted to, but if it didn't adequately compensate, then all aid
+                    would be cut off. BURTON: Yes. I think that was one of our big, big problems.
+                    Any of those kinds of things. I just couldn't remember; there were quite a few
+                    legislative restrictions. We had a lot of problems in the negotiations.</p>
+                <p>
+                    <pb facs="0021" n="Page0021"/>
+                    <hi rend="italics">Q: What did your office do? Was it sort of backstopping the
+                        lawyers?</hi>
+                </p>
+                <p>BURTON: I was the coordinator. I didn't have any law experience myself, but I was
+                    working with at least four lawyers. One of them would be the legal advisor in
+                    State for economic affairs, one the legal advisor for treaty affairs, and one
+                    the legal advisor for any area that was involved. And they would have to sign
+                    off on any of this. They were the prime commanders of any agreements. These were
+                    executive agreements that didn't require ratification on our part. Then, later
+                    on, I was the only one in OPIC, so to speak, that was handling this. Later on,
+                    we got other lawyers that were helping me out. But I would train them. For
+                    instance, one of them handled nothing but Latin America, as he spoke Spanish and
+                    was able to renegotiate some of these Latin American agreements that needed to
+                    be redone. As I left, I was setting up the agreements for the Gulf countries and
+                    also for Micronesia.</p>
+                <p>
+                    <hi rend="italics">Q: Can you think of any countries that were the most
+                        trouble?</hi>
+                </p>
+                <p>BURTON: Yes, I should say so. Nigeria. Nigeria was dreadful. Q: What was the
+                    problem with Nigeria?</p>
+                <p>BURTON: Well, they're mean as snakes, anyway. They're very intelligent. And the
+                    officials won't take any action unless everybody does it, so you can't get them
+                    to agree on anything. And we had big claims there as a result of the Biafra War,
+                    for instance. You couldn't get anybody to take a decision. I don't know how we
+                    got the agreement through in the first place. We did, but then it was very
+                    difficult.</p>
+                <p>Oddly enough, the two places that are of interest were Cuba and Iran, where we
+                    had nothing in Cuba, and in Iran, there was, I think, something like $40
+                    million. Those claims went to the International Court in the Hague, and were
+                    settled very easily, no problem.</p>
+                <p>
+                    <hi rend="italics">Q: You were part of AID at this point?</hi>
+                </p>
+                <p>BURTON: We were part of AID until 1971. So I worked halfway between State and AID
+                    until 1971. And then it was turned into the Overseas Private Investment
+                    Corporation and became a separate government corporation. We were annexed to
+                    State, and we were listed in the State Department address book. All of our cable
+                    traffic went through State, and the State Department economic officer would
+                    handle our affairs anywhere locally, except that if we had to do a lot of
+                    traveling because there was nobody out there to take care of our affairs, and if
+                    we ran into trouble, somebody would have to go out.</p>
+                <pb facs="0022" n="Page0022"/>
+                <p>Q: Did you find that there were times when your office was saying, “We've got to
+                    get this guarantee,” and yet our embassy or our desk was saying, “Well, we
+                    really want to get so and so to invest in this country, because we've got
+                    political reasons and all this.” In other words, were you finding pressure
+                    coming from the geographic bureaus to be easier?</p>
+                <p>BURTON: No, I wouldn't say that. I would say that the pressure would come from
+                    American companies that maybe wanted the coverage. And that would make it much
+                    easier for us if we wanted to go into a country. I would say that in all of the
+                    Islamic countries, they weren't the least bit interested until there was camel
+                    that they wanted. Then they would start talking, but not until then.</p>
+                <p>Of course, some of these countries were, at that time, very underdeveloped, and
+                    still are... I can remember we got a cable in from Libya. I was asking, “Is
+                    there any prospect of this agreement being concluded in the near future?” At the
+                    end of the message I got back, it said, “There may be some prospect of success,
+                    because the minister of economy is reputed to be able to read and write.”</p>
+                <p>And then there was another famous cable that came in, I think from the Ivory
+                    Coast, where there was a litany of what had happened, from the reporting
+                    officer. It landed in the Congressional Record and a couple of other places in
+                    the newspapers, because it just said what had happened to the documents, that
+                    somebody had lost it, someone had disappeared, and someone had gone off to play
+                    soccer with Togo and he wasn't due back for another six weeks. You know, just
+                    total neglect on the part of the government of any serious business.</p>
+                <p>
+                    <hi rend="italics">Q: If you got these agreements, did they hold water once you
+                        hathem?</hi>
+                </p>
+                <p>BURTON: Oh, yes, I should say so.</p>
+                <p>
+                    <hi rend="italics">Q: How was this?</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>BURTON: As I say, we had to take the claims to... The Iranian claims, for
+                    instance, went to the Court of Justice in the Hague. And we had an OPIC officer
+                    over there negotiating for us, presenting them to the Court in the Hague. They
+                    all cleared through there, went through the process. They were based on the
+                    fundamental agreements that the host country had agreed to. In the famous case
+                    of Chile, they were exemplary in how they settled their claims. They
+                    expropriated all the great copper investments in Chile, and they paid off on
+                    everything. It took a long time. What would happen is that they would pay
+                    whatever they paid on the dollar, let's say 40 cents on the dollar, and we'd
+                    pick up the rest and pay the local investor the loss, and then we'd take over
+                    the bonds, which might not be paid for 50 years. But the United States
+                    government can afford to do that; a private company can't. We got our money
+                    back, and they serviced their debt properly, so everybody was happy.</p>
+                <p>
+                    <hi rend="italics">Q: Were there any crises regarding servicing the debt?</hi>
+                </p>
+                <p>BURTON: No, not at that time. Not in the case of Chile.</p>
+                <p>
+                    <hi rend="italics">Q: How about Peru? At one point, they were taking over
+                        AT&amp;T and, think, some other companies.</hi>
+                </p>
+                <p>BURTON: We didn't have AT&amp;T covered. Wasn't the AT&amp;T in Chile? I think it
+                    was. We didn't have them insured. Peru was probably one of the worst countries
+                    we ever had to deal with. It was the number-one Andean code country, with this
+                    Calvo clause. We never did get an agreement with Mexico on account of it. It's
+                    in their constitution that they cannot agree to any outside arbitration, any
+                    international arbitration, which was the final provision of the agreement, that,
+                    ultimately, if we couldn't decide what we were going to do between the two
+                    countries bilaterally, we'd go to the International Court of Justice. And they
+                    wouldn't agree to this, ever.</p>
+                <p>
+                    <hi rend="italics">Q: So what happened with Mexico?</hi>
+                </p>
+                <p>BURTON: It wouldn't agree to anything. We never operated there. Q: What was the
+                    purpose of OPIC?</p>
+                <p>BURTON: It grew out of the early aid assistance programs for Europe. They wanted
+                    something that would supplement the grant aid programs, the outright grants, and
+                    they hoped to get American investment to take the place of or to help the grant
+                    aid programs to set up Europe after World War II. We operated only in Europe at
+                    that time. Gradually, they got taken out of the programs of developed countries.
+                    By that time, of course, the other countries had opened up, and so we operated
+                    only in less-developed countries, as of a certain year. I don't remember what,
+                    maybe early '70s.</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>
+                    <hi rend="italics">Q: What were type of American firms were taking advantage of
+                        this?</hi>
+                </p>
+                <p>BURTON: To begin with, these programs in the United States government were quite
+                    different from similar programs in Germany, for instance, and Japan, which were
+                    used as a sort of auxiliary of their what amounts to our Export-Import Bank. We
+                    did it as an extra effort in the aid assistance programs. We had a small lending
+                    program, as a lender of last resort for projects that were desirable in these
+                    countries we wanted to help. And for businesses, let's say a cement plant that
+                    could go in somewhere, by a U.S. business that had never operated outside of the
+                    United States. So we removed the political risk.</p>
+                <p>
+                    <hi rend="italics">Q: Were other countries—Germany, England, France,
+                        others—tyininto this program in any way?</hi>
+                </p>
+                <p>BURTON: Not ours. They had their own. But they were nearly always export-import
+                    tied in, which ours was not. The Germans had a very active program, and so did
+                    the Japanese. We'd get together with them and exchange information on how things
+                    were operating.</p>
+                <p>
+                    <hi rend="italics">Q: What about countries such as Scandinavia dealing with
+                        Tanzania?The Scandinavians seemed to love Nyerere and were putting a
+                        big...</hi>
+                </p>
+                <p>BURTON: They didn't have any programs. As I recall, Scandinavia never had
+                    anything like it. Even their export-import things didn't operate that way. They
+                    didn't have them. There were very few similar programs.</p>
+                <p>
+                    <hi rend="italics">Q: You left this when?</hi>
+                </p>
+                <p>BURTON: Labor Day of 1986.</p>
+                <p>
+                    <hi rend="italics">Q: There was that big cataclysmic problem in Iran in '79. Did
+                        thiaffect what you all were doing?</hi>
+                </p>
+                <p>BURTON: Oh, yes. But, as I told you, we had practically no coveragthere. I think
+                    there was $40 million worth of coverage.</p>
+                <p>
+                    <hi rend="italics">Q: Why was this?</hi>
+                </p>
+                <pb facs="0025" n="Page0025"/>
+                <p>BURTON: Just lack of investor interest, in the first place. It just didn't go in.
+                    Didn't ask for it. After all, it was an insurance option, and people
+                    volunteered, came in and asked for it.</p>
+                <p>
+                    <hi rend="italics">Q: I guess the Iranians were taking care of their own. They
+                        had oimoney, so it really wasn't an undeveloped country.</hi>
+                </p>
+                <p>BURTON: No, it wasn't. I think you've got the answer to that, yes.</p>
+                <p>Q: What about Africa?</p>
+                <p>BURTON: We had big operations in Africa, yes. And I did all of the agreements
+                    with all of the countries there, from the '60s. There were about 30 of them.</p>
+                <p>
+                    <hi rend="italics">Q: The American government was actually insuring these
+                        things?</hi>
+                </p>
+                <p>BURTON: That's right.</p>
+                <p>
+                    <hi rend="italics">Q: How did we do regarding many of the African
+                        countries?</hi>
+                </p>
+                <p>BURTON: There wasn't much investor interest, after all. If anybodcame in and
+                    asked for it, they got it, but there wasn't much interest.</p>
+                <p>
+                    <hi rend="italics">Q: How about the Pacific islands?</hi>
+                </p>
+                <p>BURTON: I took on the Pacific islands just before I left. I must have gone out
+                    there something like eight times, and I covered all of them. I got agreements
+                    with Papua New Guinea, Tonga, Fiji. One of the most fascinating places I went
+                    was up in the Gilbert Islands, now Kiribati. I was there for a week, because
+                    there was no way to get there than to get up and get back once a week on
+                    weekends. And the Solomon Islands was another one that I did. Kiribati and the
+                    Solomons never came through. I left before it was concluded, and nobody pursued
+                    it. And then they had a terrible hurricane in the Solomons so that it was almost
+                    impossible to get any response from the government on anything.</p>
+                <p>Kiribati was the only place I encountered anti-female sexism. The beefy macho
+                    officials had a hard time coping with a U.S. government female official. I put
+                    on my grandmother's wedding ring and invented a husband and children. It helped,
+                    but not much.</p>
+                <p>
+                    <pb facs="0026" n="Page0026"/>
+                    <hi rend="italics">Q: Did you do the Federated States of Micronesia?</hi>
+                </p>
+                <p>BURTON: Just as I left, they were becoming independent, one or two of them. After
+                    all, it broke off into five separate units. There was a Federation of
+                    Micronesia, and there were the Marianas and then there were the Marshall
+                    Islands. And they were all different, different status. And the ones that were
+                    independent enough, I set them up just as I was leaving, and I don't really know
+                    what's happened.</p>
+                <p>Q: What was your impression of these islands? You had the agreement, but was
+                    there much that they had to offer for people to invest in?</p>
+                <p>BURTON: I know, they were such subsistence economies (in the case of Tuvalu, for
+                    instance, my God, they have nothing but postage stamps to generate foreign
+                    exchange), that if you got one project in there, it could make an enormous
+                    difference for them. But it was awfully hard to convince them of this and to get
+                    them to know what it was. Tonga was easy to cope with. They were very
+                    intelligent about it and realized that if they could get money in there for,
+                    let's say, a vanilla plantation, it would help. But it was awfully hard getting
+                    anything through to some of the others. And it was awfully hard to get anybody
+                    to negotiate with, because there is such a tiny level of operating officials
+                    that have an education, and they're all the same ones. One thing that impressed
+                    me was that they all know one another. In spite of the vast, vast distances, the
+                    1,500 miles to Kiribati, for instance, everybody knows what's going on
+                    everywhere in the region.</p>
+                <p>
+                    <hi rend="italics">Q: Well, they travel a lot.</hi>
+                </p>
+                <p>BURTON: They travel a lot, and they all know one another, and they communicate.
+                    They had a very good cooperating office of economic affairs in Fiji. If you got
+                    something going in one place, they would be interested. You had to hit the eye
+                    of the octopus, so to speak. It was very interesting to me, the whole area, but
+                    unfortunately I left right sort of two-thirds of the way through it. And then it
+                    collapsed. Nobody, I don't think, cared much after that. It's a shame, because I
+                    think it's a very, very important area. For instance, in Kiribati there was a
+                    terrible squawk here because they gave the Soviets a million dollars' worth of
+                    business in the area, fishing rights. Well, a million dollars means an enormous
+                    amount to them. Here, it's the 1,500 miles of islands between Hawaii and the
+                    Philippines, and nobody's paying any attention to it.</p>
+                <p>
+                    <hi rend="italics">Q: The Japanese are in there now.</hi>
+                </p>
+                <p>BURTON: They were in there all the time, sniffing around everywhere.</p>
+                <p>
+                    <pb facs="0027" n="Page0027"/>
+                    <hi rend="italics">Q: Did you find that the Japanese were playing a different
+                        gamthan, say, the Americans as far as this area?</hi>
+                </p>
+                <p>BURTON: No, except that they were moving in a lot into Micronesia, particularly
+                    Guam and Pilau and places like that, with hotels, and getting the local people
+                    who owned the land to support them, and doing backdoor deals in order to
+                    circumvent land rights and those kinds of things. The Americans weren't being
+                    very clever about it and let them go.</p>
+                <p>Micronesia was administered by the U.S. Department of Interior, and they were not
+                    very interested. I had a terrible time getting anybody interested in it. The
+                    people who were, realized how vital it was, but they were very few and far
+                    between. A marvelous man was in charge of the area for AID, a man named William
+                    Paupe, but he left right after I did.</p>
+                <p>
+                    <hi rend="italics">Q: So you sort of quit government, was it?</hi>
+                </p>
+                <p>BURTON: Yes, I quit government entirely.</p>
+                <p>
+                    <hi rend="italics">Q: In '86. BURTON: Yes.</hi>
+                </p>
+                <p>
+                    <hi rend="italics">Q: When you left, did you feel that the United States had
+                        made mucof an impact in these areas where you were working on
+                        agreements?</hi>
+                </p>
+                <p>BURTON: I think it was very, very useful at the time. As I say, we have these
+                    financial projects, where we were the investors of last resort, some of them
+                    quite small, that would not have been realized without us. I think that,
+                    particularly during the Reagan administration, they missed the boat, because
+                    they were supporting some of the great big oil companies, let's say going into
+                    China and into other places, on the basis that we needed more oil and whatnot.
+                    But the Congress didn't like it. They were saying, “What are you doing
+                    supporting these big oil companies? They can take care of themselves. You're
+                    losing track of the original purpose of this program, which was to help small
+                    investors in countries where otherwise these projects could not have been
+                    realized. In the case of oil, they're going to do it anyway.” So OPIC got into
+                    trouble, and they almost didn't get their legislation renewed one year. Then
+                    they had trouble about two years ago. I think they have a year or two to go.
+                    Somebody will do something and keep it going, because they pay their own bills.
+                    However, the early days after the war are really going. Now there are a lot of
+                    private insurance companies that are into the business, and so why is there a
+                    need for it? And these countries themselves are getting more sophisticated and
+                    realizing that they've got to get their act together and put in their own
+                    investment laws and their own investment structure, because if they don't do it,
+                    they're not going to get the money they need. Asia is a case in point. We've got
+                    big operations going in Asia.</p>
+                <pb facs="0028" n="Page0028"/>
+                <p>
+                    <hi rend="italics">Q: So, in many ways, what you were doing was sort of acting
+                        as starter.</hi>
+                </p>
+                <p>BURTON: As a starter. And I think there's a valid argument for saying that this
+                    is not that useful anymore, as you consider that they're going to be saving
+                    money and getting rid of things, except that, as I say, OPIC is one of the few
+                    people that pay their own bills. It's an income-producing operation. And they're
+                    only 150 people, so the main expense is paying retirement income.</p>
+                <p>
+                    <hi rend="italics">Q: Well, maybe we might stop at this point.</hi>
+                </p>
+                <p>BURTON: All right.</p>
+                <p>
+                    <hi rend="italics">Q: Great.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

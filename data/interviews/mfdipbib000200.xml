@@ -1,233 +1,545 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000200">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Vincent V. Checchi</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Vincent V. Checchi</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>VINCENT V. CHECCHI</p>
-<p>Interviewed by:  Melbourne Spector </p>
-<p>Initial interview date:  July 11, 1990</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Vincent V. Checchi is an economist who served with the War Production Board, military government, United Nations Relief &amp; Rehabilitation Administration (UNRRA), edited a magazine, worked with the Marshall Plan, and almost forty years ago founded Checchi and Company, which is an organization that has worked all over the world.  Mr. Checchi is present Chairman of that company, still very active.</hi>
-</p>
-<p>Vince, it is a pleasure to have this interview with you.  I'd like you to tell us how you got into all this.  Give us some background.</p>
-<p>CHECCHI:  My first service abroad was in Allied Military Government in Italy.  From there I transferred to UNRRA when UNRRA started its operation there.  I worked for Harlan Cleveland, who will show up in your history elsewhere.  Harlan was the number-two man in UNRRA, responsible for the economic side, as distinguished from the refugee side.  Subsequently, he went to China and I followed him there.</p>
-<p>After UNRRA, I went to the World Bank, but the Bank at that time, which to my recollection must have been around 1947 or '48, was inactive.  The main activity in international programs by that time had been concentrated in ECA (Economic Cooperation Administration).  So I called Harlan, who was now there, and asked him if there was something I could do in ECA that was more fun than working in the World Bank.  The Bank at that time was a 9:00 to 5:00 or 9:30 to 5:30 institution, where ECA was sort of a 7:30 to 11:30 (PM) institution.  If you were lucky, you got a little time off on Saturdays and perhaps even Sundays.</p>
-<p>
-<hi rend="italics">Q:  Sunday afternoons.  (Laughter)</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>CHECCHI:  Exactly, Harlan was running, within ECA, what I recall was called the China Program.  At that time, Chiang Kai-shek was in the process of being expelled from the mainland, but hadn't quite, so there was still a program going on of relief goods to him.  Harlan was responsible for that.  The late Frank Turner had a role in it.  I had a role in it.  Harry Price, who subsequently wrote a history of the Marshall Plan, also was in that office.  It was kind of a salvage operation.  Nobody foresaw, on our side of the building, what was going to happen later.  It was simply a case of getting relief goods to the Nationalists.  Everybody could see they were losing.  Every day word would come in that another city had fallen.</p>
-<p>So it was apparent that there was no immediate future in the China Program for its staff and that it would soon end, although I think ECA and its successor agencies did keep a program going in Taiwan for many years after that.  But by then both Harlan and I were out of it.</p>
-<p>
-<hi rend="italics">Q:  Wasn't there something set up in China or Taiwan later called the Joint Commission?</hi>
-</p>
-<p>CHECCHI:  Yes, something called the Joint Commission for Rural Reconstruction (JCRR).  A very good man named Ray Moyer was the primary mover in that.  I don't know if he's still living or not.  He was already middle aged by then.</p>
-<p>I ended up, thanks to a recommendation by a friend of mine, Jack Corbett, who later worked in Checchi and Company for a number of years, as head of the East-West Trade Branch, I think they called it.  This was not a Branch for stimulating trade between East and West.  It was a Branch for regulating trade between East and West in strategic commodities.</p>
-<p>My recollection of how this Branch got started was that, at a hearing concerning ECA and the Marshall Plan, one of the congressmen or senators asked Paul Hoffman, “How are you going to see to it that strategic goods don't move from Western Europe to Eastern Europe?” In reflection, I think he could have said, “Well, that's not my business.  That should be the State Department's business or the business of the Department of Commerce.” He said that ECA would be responsible.</p>
-<p>Therefore, the Branch was set up under the late Arthur Smithies and, subsequently, Jim McCullough.  The East-West Trade Branch, which was one of several branches that reported to Arthur and, subsequently, to Jim, was very much a nitty-gritty “how do you keep a certain type of jackhammer from being exported,” job.  It was about as difficult a job as you could imagine, because all the European countries had foreign exchange and balance of payments problems.  They all wanted to export.  Their views of what could be useful to the Soviet economy and the Eastern European economy didn't correspond with ours.  Italy had one view, England had another, France had still another.  We in the Branch were handed a list of critical commodities categorized as to importance.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q.  Categorized.</hi>
-</p>
-<p>CHECCHI:  Yes.  Some were more important than others.  There were regular meetings in the Department of Commerce, where the military, the CIA, the Department of Commerce, and ECA would sit down and discuss how to get those governments that were in the Marshall Plan to coordinate their trade policies with ours, with respect to these critical commodities.  Even countries that were not receiving ECA assistance were supposed to be persuaded to follow our trade policies.  That included, for example, Switzerland.  I made several trips to Vienna, Berne, Stockholm, Paris, and so forth, trying to get something done along these lines which, in retrospect, was very difficult.</p>
-<p>
-<hi rend="italics">Q.  Did you coordinate this with the State Department?</hi>
-</p>
-<p>CHECCHI:  Very much so.  Ed (Edwin M.) Martin was the man on the committee that represented State.  I had a small but brilliant staff.  One man was Arthur Cox, who since has had quite a career writing on Soviet relations.  Another was a brilliant young economist from Berkeley, Chris Calsoyas.  I always had the impression that Chris was so brilliant that he found his work boring, so he eventually went back to college and got a degree in physics.  I wouldn't be surprised if he isn't devising a bomb or a new computer somewhere.</p>
-<p>Another member of the staff was a person who went on to the Foreign Service, Louis Boochever.  You may perhaps remember him.  He returned from the Foreign Service some time ago, and I think took a job on the Hill.  Another person was Robert Marshall.  I've lost touch with Bob.  He was a William &amp; Mary graduate, and I think stayed on in ECA.</p>
-<p>I don't recall how long I was in that job, but I lured myself out of it.  I had a mistaken idea that I was a writer, and I had submitted a few pieces to magazines and they had been accepted.  A friend of mine had started a new magazine called the Reporter, so I asked him for a job and he gave me one at considerably more than I was worth, as it turned out, and considerably more than I was paid by ECA.  I went to New York and tried my wings as an editor, and found that there may be worse editors in the world than I, but if so, I have never come across them.  So after six months or so, by mutual consent, I left the job.  I think the magazine prospered after I left.</p>
-<p>That left me without a job, so I called Harlan Cleveland, who always seemed to be good at finding jobs for me, to ask if he had anything I could do.  He said that ECA was about to send somebody to the Philippines, and would I be interested in a short-term assignment.  I jumped at the chance.  I'd never been to the Philippines.</p>
-<pb facs="0004" n="Page0004"/>
-<p>That job had different roots.  ECA was not active in the Philippines.  The Philippines had their own war damage program.  I think it dated back to a speech that Roosevelt had made, in which he had promised the Philippine people that every Nipa hut, every caribou lost in the war would be replaced, asking the Filipinos to stand by us, promising them that we would be back, and that we would repair the damage of the war.  So when the war ended, a war damage program was launched in the Philippines.  This was independent of ECA.</p>
-<p>
-<hi rend="italics">Q:  Do you know who administered it?</hi>
-</p>
-<p>CHECCHI:  Yes.  It was administered by the State Department, but it was a kind of loose arrangement, because the Army hadn't left yet.  When it did, the State Department took over.  They launched a commission called the War Damage Commission, which was composed of two Americans and a Filipino.  The Americans were Frank Waring and John O'Donnell.  John O'Donnell was a political type.  I had the impression he was active in Democratic Truman-type politics.  Frank Waring, the Chairman, was a distinguished civil servant who had had a lot of experience in the federal government.  The name of the Filipino escapes me.  But the Commission, as I understand it, was dominated by the two Americans, and particularly by Waring.</p>
-<p>Here again my memory may be at fault, but I think they had at their disposal $400 million.  The concept was not reconstruction and development in the ECA terms; this was a case of, as I understand it, “Prove to me that your house really was bombarded, and we will give you a payment.” It did not deal with what shape the country should take; it was a case of reimbursement.</p>
-<p>
-<hi rend="italics">Q.  That's interesting.</hi>
-</p>
-<p>CHECCHI:  As I recall and as I understand, there was friction between the ambassador and the chairman of the War Damage Commission, Waring.  They didn't like each other.  This is in the realm of gossip.</p>
-<p>To go back to how I happened to go to the Philippines.  By way of background, the Philippines had emerged from the war in really dreadful shape.  The $400 million did not at all cover the amount of damage that had been done.  The economy in the working sense had been fractured. A lot of people had been killed.  Commercial relationships had been destroyed.  There were a lot of carpetbaggers around.  Corruption was rife, not as bad as later on under (Ferdinand) Marcos, but bad enough.  The balance of payments was adverse.  The country was running out of foreign exchange.</p>
-<pb facs="0005" n="Page0005"/>
-<p>So the Philippine Government, which, in those days, had still a kind of little brother attitude toward the US Government, asked the US for assistance.  Truman—I think it was with the advice of (Dean) Acheson—sent a study mission to the Philippines called the Bell Mission.</p>
-<p>
-<hi rend="italics">Q:  Daniel Bell.</hi>
-</p>
-<p>CHECCHI:  Yes.  Daniel Bell was the president of the American Security &amp; Trust Company here in town, but before then he had been the director of the budget.  He was a man whom Truman trusted, a man of the utmost integrity, soft spoken, quiet, thoughtful.  He headed up this mission to go and see what should be done about the Philippines, because clearly the $400 million hadn't done the trick.</p>
-<p>It's not clear to me just how the mission was chosen.  I think Dan may have chosen one or two persons, but I have the feeling that the different agencies, such as ECA, each jumped to put somebody on the mission.  For example, there were two men there from the Department of Agriculture, there were two men there from the Department of Commerce, a couple of men from the State Department, and Eddie Berstein, who was Director of Research of the International Monetary Fund, but before then had been an economist at the Treasury Department.  I think he was a person whom Dan knew.  I think perhaps he was somebody whom Dan asked to go along.  A Washington lawyer, Joseph Friedman, who had been at Treasury and who knew the Philippines, was also on the mission.</p>
-<p>
-<hi rend="italics">Q:  Was there anyone along, as far as you would know, from the Technical Cooperation Administration named Point Four?</hi>
-</p>
-<p>CHECCHI:  I don't think so.  I'm a little confused time-wise whether Point Four had been promulgated yet.</p>
-<p>
-<hi rend="italics">Q:  It was promulgated in the second term of Truman, so it could have been later—I mean the ECA.</hi>
-</p>
-<p>CHECCHI:  Yes.  At any rate, this mission was not started as part of ECA.  It was a presidential type of thing.  Truman, if I can reconstruct, had said, “You know, Dan, I've got to send somebody to the Philippines.  Will you do it for me?” And then Dan put together this scratch team.  I don't think Dan envisioned having somebody from ECA.  I think what happened was that the various agencies didn't want to be left out so ECA sent me over as its representative.</p>
-<pb facs="0006" n="Page0006"/>
-<p>I didn't go over with the team; I arrived about a week or two later.  They were somewhat surprised to see me.  I really didn't have a job to do because I was not a technician in any of the specific fields, such as ports or agriculture.  But Dan, being the gentleman that he was, immediately put me to work anyhow.  I worked mainly with Eddie Bernstein but also with the other members of the team.</p>
-<p>Dan's approach was to gather the team together every day to sit around the table and discuss the various issues.  I was the exponent then, as I am now, that any aid should be on a quid pro quo basis.  That is, “You do this and we'll do this” basis.  Not all members of the group felt this way. A report was eventually written.  The summary and recommendations were written by Eddie Bernstein.  I had a considerable role shortening and rewriting his stuff and arguing with him about what should be said.  It was, of course, finally Dan's report in the sense that, while he rarely put pencil to paper, he didn't let anything go into the report that he didn't want in it.</p>
-<p>
-<hi rend="italics">Q:  He had chaired all of the meetings.</hi>
-</p>
-<p>CHECCHI:  He chaired all of the meetings, and he listened.  He was a good listener, and he had that indefinable quality which one calls good sense and good judgment.The recommendations called for launching a program of $250 million contingent on the recommendations of the team being accepted.  The recommendations were very long; there were all kinds of them—for example, recommendations as to taxes, minimum wages, and conduct of the central bank.  The report was put in Truman's hands.  I understand that Truman wanted Dan to go back to put this program in force.  Dan couldn't, and the program drifted to ECA because there really was no one else to carry it out.  ECA, in turn, sent Bill Foster to the Philippines, accompanied by Allen Griffin.  Before they went, in a series of meetings here, all of which I think I attended, between the State Department and ECA, it was decided that Foster could offer aid on the order of magnitude of $250 million in loans and grants, contingent on progress toward implementation of the Bell Mission recommendations.</p>
-<p>Foster asked me to go along as a sort of spear-carrier for himself and Griffin, and we met with the appropriate people in the Philippine Government, including the President, the Governor of the Central Bank, and principal members of the Cabinet.  In the discussions of what were the more important Bell recommendations, there emerged—I think it was largely due to Bernstein's views and to mine—that the prime objective should be to balance the budget (sounds familiar, doesn't it).  The thrust was, “You balance your budget and we'll help you.” I remember Livingston Merchant saying to Foster something to the effect:  “We can't expect perfection, but they must tax and get their fiscal house in order.”</p>
-<p>
-<hi rend="italics">Q:  What was Merchant at that time?</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>CHECCHI:  He was Assistant Secretary for the Far East in the State Department.So Foster took me along, I think because I was the only person around available to him who had any knowledge of the Philippines; nobody else in ECA had any.  Griffin had been in charge of the China Program.  Foster had sent him to China with Roger Lapham, formerly mayor of San Francisco and president of the Hawaiian-American steamship lines, to trouble-shoot the liquidation there of the program and its subsequent transfer to Taiwan.</p>
-<p>
-<hi rend="italics">Q:  Lapham later became mission director to Greece.</hi>
-</p>
-<p>CHECCHI:  Yes.  Big man in San Francisco.</p>
-<p>We landed in Manila and were immediately met by all the big shots—the way that the Filipinos can do, with parties and dinners and all.  At a brainstorming session with Griffin and me, Foster said, “You know, we can't ask them to do 79 different things.  Let's pick out the two or three that we want them to do first, and then we'll go on to the others.” I remember that at that meeting I said, “We're going to stick them with an awful lot of taxes.  We really should show that, in addition, we're doing something for the poor man.  So how about a minimum wage law?” That was one of the Bell recommendations.</p>
-<p>In the Philippines, as in most countries, including our own, enforcement of minimum wage laws is difficult and not perfect.  But there are certain types of industries in the Philippines where you can enforce such a law.  So it was agreed that this is what we would require.  An appropriate agreement was then signed.  In the Philippines, it's called the Quirino-Foster Agreement.  In the United States, it's called the Foster-Quirino Agreement; Quirino being the President of the Philippines.</p>
-<p>The agreement was short.  It said specifically that the Philippine Government would raise taxes (in effect, balance their budget) and adopt a minimum wage law.  In general, it said the government would support the other recommendations of the Bell Mission.</p>
-<p>After the agreement was signed, Foster decided to leave me there to be the watchdog and help nurse through the necessary legislation.  In effect, I was a mission chief with a staff of zero.  I set up an office in the Manila Hotel, which was extremely efficient.  Subsequently, the staff grew.</p>
-<p>
-<hi rend="italics">Q:  And you just stayed there?</hi>
-</p>
-<p>CHECCHI:  Yes.</p>
-<p>
-<pb facs="0008" n="Page0008"/>
-<hi rend="italics">Q:  You didn't come back?</hi>
-</p>
-<p>CHECCHI:  I did not come back.  My wife and children joined me there eventually.  The staff grew slowly.  Washington sent me a tax expert, Dr. J.K. Hall, and a labor expert, Dr. Harry Kanter.  Subsequently, Dr. Hall had to leave and he was replaced by Dr. Roy Jastrom.  All these men were very good.  Two other very good men were Denny Scott, a lawyer, and Clarence Eskildsen, an agricultural expert.</p>
-<p>So I kept a watching brief on the Philippine Government.  Elpidio Quirino was president and I met with him from time to time.  He appointed his closest political ally, a man named Jose Yulo, as liaison.  Yulo later on ran for vice president under Quirino.  If Quirino had won, Yulo would eventually have become president as in those days they had a limitation on how long anyone could serve.  Marcos ignored that after he took over.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>CHECCHI:  The trick was to get the Philippine Congress to approve some very stiff taxes, which eventually they did.  They also approved the minimum wage law.  They gave a general endorsement to the recommendations of the Bell Mission, and the aid started to flow.  In those early days, because nobody else had much knowledge of the Philippines in AID/Washington, I was pretty much left on my own.</p>
-<p>Eventually, for personal reasons, I decided to come home.  I was succeeded by a fine man named Roland Renne, who had run for governor of Montana, I think, and had lost.  He had previously been president of the University of Montana.  Subsequently, Washington assimilated the Philippines Mission into the ECA/MSA/AID set up.  But, in the beginning, it was different.  For a while, we were not subject to the same machinery as was, say, Italy or Paris.  The big names, people like Averell Harriman, really never became involved.  Foster had succeeded Hoffman as the head of ECA.</p>
-<p>At any rate, I came back and shortly thereafter resigned from the agency.  Griffin wrote me a terrific letter, thanking me and all that kind of stuff.  That was it.</p>
-<p>
-<hi rend="italics">Q:  You had other people on your staff eventually.</hi>
-</p>
-<p>CHECCHI:  Yes.</p>
-<p>
-<hi rend="italics">Q:  What were their jobs?  Did they give recommendations or technical assistance to anybody in the Philippine Government?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>CHECCHI:  Yes, but it was a lean staff.  I forget how many people there were.  They dribbled in one or two at a time.  Doris Bebb, an administrative assistant, and Terry Pedigo, my secretary, were terrific.  Some came in from the South Korea Mission which was closed.</p>
-<p>The ready acceptance by the Filipinos of Americans and their respect for American training and American schooling, meant that every person that came over that had ability was inserted into a job and was effective almost from day one.  For example, Eskildsen worked with a Filipino named Amando Dalisay.  He was a Harvard Ph.D. and a patriot.  The two of them worked hard and late, based on mutual respect for one another's skills.</p>
-<p>There wasn't time for a bureaucracy to grow.  The labor man Washington sent over was from our Department of Labor.  He had been working on minimum wage legislation and minimum wage problems for a long time.  When he talked about how it was in the States, his opposite number or numbers would listen and there was no problem.  The tax man from the University of Washington, James K. Hall, that Washington sent me was careful and smooth and well educated.  He got along well with the Minister of Finance.  Yes, we provided technical assistance.</p>
-<p>
-<hi rend="italics">Q:  At a very high level.</hi>
-</p>
-<p>CHECCHI:  Yes.  We gave it in connection with a program to which their Congress and their president had specifically agreed.  It wasn't a case of sending over, let's say, four guys that knew all about coconut culture and were working in the field.  All of our work was done in Manila.  Later, I think, the modus operandi changed.  When I was there, I could see the president whenever I wanted to, although I didn't abuse the privilege.  Yulo, who I believe was the second most powerful man in the country, would come to my office frequently or he'd ask me to come to his office.  He would explain the situation in Congress, why a certain element of the legislation was delayed.  Then he would say, “Don't worry.  My boys will handle it.” What he meant by “his boys” were guys in Congress who were part of his group.</p>
-<p>It was technical assistance but it was not technical assistance in the sense that it exists today in the Philippines or in most countries.</p>
-<p>
-<hi rend="italics">Q:  These were advisors, consultants, really, at a very high level.</hi>
-</p>
-<p>CHECCHI:  Correct.</p>
-<p>
-<hi rend="italics">Q:  Based on previously agreed-to programs and policies.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>CHECCHI:  Yes.  Wanted and respected.  With respect the Ambassador, the idea of playing one American against another was not unknown to Filipinos.  The Filipinos are very intelligent people.  When a man works his way through Philippine politics and gets to be president or in high office, he's as smart and clever as anybody you're going to meet.  So there was no doubt that at least some Filipinos would have liked to have had the Ambassador and me fighting with each other.  We knew this so we made it a point never to show anything except a united front.</p>
-<p>
-<hi rend="italics">Q:  Do you know whether he had come out of the career Foreign Service?</hi>
-</p>
-<p>CHECCHI:  He was a lawyer.  I believe—I could be wrong—that he was associated with the law firm of Louis Johnson, a strong Democrat.  Some ten years or so afterward, he called me up as he had a project he wanted to do, and we talked about doing it.  It didn't pan out.  We in no sense were unwilling to work together then or later.</p>
-<p>Today, AID is so small in the total picture that I don't think there is much prospect of friction between the AID Administrator and the Ambassador.  But back in the days we are talking about, the ECA Administrator was a man very often of greater prestige than the Ambassador and, if he had nothing else, he had money to spend.  David Zellerbach in Italy, for example, probably swung more weight than Alexander Kirk, who was a career Foreign Service Officer.  David Bruce and Barry Bingham were other Mission Chiefs.  No Foreign Service Officer was going to outweigh those fellows.</p>
-<p>
-<hi rend="italics">Q:  No.  Also, by law—and I'm sure it applied to you, whether you used it or not—you ranked second to the Ambassador in the country.  You outranked every other American there other than the ambassador diplomatically.</hi>
-</p>
-<p>CHECCHI:  Yes.  So naturally there was occasionally a little tension but nothing we couldn't live with.  When the Ambassador was away, we dealt with his DCM, Vinton Chapin, a particularly good man.  When Chapin was there, there was no tension at all.  I'd make a report to him out of courtesy, and he'd say, “Thank you very much,” and I think he'd almost be looking at his watch to see—</p>
-<p>
-<hi rend="italics">Q:  When you'd be through.</hi>
-</p>
-<p>CHECCHI:  When I'd be through, so he could go on with his work.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  What about your relations with the home office?  Did you get backstopping from the home office here in Washington?</hi>
-</p>
-<p>CHECCHI:  The backstopping for a while was superlative.  At that time it was handled by a fellow named Charles Wolf, who is now the Director for Research for the Rand Corporation.  He was very junior, and I think pretty soon people began to—I'm only guessing—get into his act.  There was a fellow named Eugene Clay that did this and a man named Edwin Arnold.</p>
-<p>
-<hi rend="italics">Q:  I remember Eugene Clay.  Related to General Clay, by the way, a distant relative.  But he used it.</hi>
-</p>
-<p>CHECCHI:  Exactly.  He had served in the Philippines and I think he felt that made him an expert.  He was not well liked over there by the embassy staff nor by the Filipinos.  I don't think Wolf, being quite junior, could withstand him or Arnold.</p>
-<p>Griffin, at some point, appointed as desk man a fellow who was out of a trading company in San Francisco, who had also had some experience in the Philippines, but he'd been a salesman.  His name was Allen.  A very likeable fellow, but knew nothing about government.</p>
-<p>
-<hi rend="italics">Q:  Griffin was what at this point?</hi>
-</p>
-<p>CHECCHI:  He was the head of the China Program and the Philippine Program.</p>
-<p>
-<hi rend="italics">Q:  Here in Washington?</hi>
-</p>
-<p>CHECCHI:  Yes.  But at a high level.  Wolf, Clay, and Allen were the guys who handled the cable traffic.  Anyhow, the backstopping was mixed.  But, as I say, Wolf was terrific.</p>
-<p>
-<hi rend="italics">Q:  What years were you in the Philippines?  Do you recall?</hi>
-</p>
-<p>CHECCHI:  I don't recall exactly.  I think it was '49, perhaps.</p>
-<p>
-<hi rend="italics">Q:  To '50?</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>CHECCHI:  Something like that.  It was during the Truman second term.  In a management sense, what's to be learned?  I don't think anything in particular.  The same thing you always learn, which is put good people in the job, spell out clearly what you expect from them, and see that they do it.</p>
-<p>
-<hi rend="italics">Q:  Did you learn things from this that you then applied when you set up Checchi and Company and the way you went about your business and the kinds of things you did?</hi>
-</p>
-<p>CHECCHI:  Sure.  Always.  That's a constant process, you know—how you pick the good people and how you set the objectives.</p>
-<p>
-<hi rend="italics">Q:  People is the important thing, isn't it?</hi>
-</p>
-<p>CHECCHI:  Yes.</p>
-<p>
-<hi rend="italics">Q:  I've interviewed Ed Martin both for his role as ambassador and otherwise, and he said that people was the very important thing in all the things that he did.</hi>
-</p>
-<p>What about the formal visit versus the informal back in the Philippines, in your relationships with the Filipinos?  Was that important?  Did informal play any role in your relationship?</p>
-<p>CHECCHI:  Yes, very much so.  Probably more in the Philippines than in the European countries.  The Philippines was a tiny tack-on to the Marshall Plan.  When I traveled for the Marshall Plan on the trade problems, there was a considerable formality.  One didn't just call a European or a Permanent Secretary on the telephone and say, “I'm coming over.”</p>
-<p>In the Philippines, we had a common language, of course, and a tradition of hospitality which exists to this day.  But I don't think the Filipinos are typical.  The informal there is more important than elsewhere.  But they still stand on their dignity.</p>
-<p>
-<hi rend="italics">Q:  Do you have any other last thoughts we should leave on this?</hi>
-</p>
-<p>CHECCHI:  I don't know.  I would say this, but it's not anything that is earth-shaking, and I think it comes as much from consulting work we do as it does from my government experience.  That is try and keep the programs simple but important, and don't spread yourself too thinly.  That's a good rule for either business or government.</p>
-<p>End of interview</p>
-<pb facs="0013" n="Page0013"/>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>VINCENT V. CHECCHI</p>
+                <p>Interviewed by: Melbourne Spector </p>
+                <p>Initial interview date: July 11, 1990</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Vincent V. Checchi is an economist who served with the War
+                        Production Board, military government, United Nations Relief &amp;
+                        Rehabilitation Administration (UNRRA), edited a magazine, worked with the
+                        Marshall Plan, and almost forty years ago founded Checchi and Company, which
+                        is an organization that has worked all over the world. Mr. Checchi is
+                        present Chairman of that company, still very active.</hi>
+                </p>
+                <p>Vince, it is a pleasure to have this interview with you. I'd like you to tell us
+                    how you got into all this. Give us some background.</p>
+                <p>CHECCHI: My first service abroad was in Allied Military Government in Italy. From
+                    there I transferred to UNRRA when UNRRA started its operation there. I worked
+                    for Harlan Cleveland, who will show up in your history elsewhere. Harlan was the
+                    number-two man in UNRRA, responsible for the economic side, as distinguished
+                    from the refugee side. Subsequently, he went to China and I followed him
+                    there.</p>
+                <p>After UNRRA, I went to the World Bank, but the Bank at that time, which to my
+                    recollection must have been around 1947 or '48, was inactive. The main activity
+                    in international programs by that time had been concentrated in ECA (Economic
+                    Cooperation Administration). So I called Harlan, who was now there, and asked
+                    him if there was something I could do in ECA that was more fun than working in
+                    the World Bank. The Bank at that time was a 9:00 to 5:00 or 9:30 to 5:30
+                    institution, where ECA was sort of a 7:30 to 11:30 (PM) institution. If you were
+                    lucky, you got a little time off on Saturdays and perhaps even Sundays.</p>
+                <p>
+                    <hi rend="italics">Q: Sunday afternoons. (Laughter)</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>CHECCHI: Exactly, Harlan was running, within ECA, what I recall was called the
+                    China Program. At that time, Chiang Kai-shek was in the process of being
+                    expelled from the mainland, but hadn't quite, so there was still a program going
+                    on of relief goods to him. Harlan was responsible for that. The late Frank
+                    Turner had a role in it. I had a role in it. Harry Price, who subsequently wrote
+                    a history of the Marshall Plan, also was in that office. It was kind of a
+                    salvage operation. Nobody foresaw, on our side of the building, what was going
+                    to happen later. It was simply a case of getting relief goods to the
+                    Nationalists. Everybody could see they were losing. Every day word would come in
+                    that another city had fallen.</p>
+                <p>So it was apparent that there was no immediate future in the China Program for
+                    its staff and that it would soon end, although I think ECA and its successor
+                    agencies did keep a program going in Taiwan for many years after that. But by
+                    then both Harlan and I were out of it.</p>
+                <p>
+                    <hi rend="italics">Q: Wasn't there something set up in China or Taiwan later
+                        called the Joint Commission?</hi>
+                </p>
+                <p>CHECCHI: Yes, something called the Joint Commission for Rural Reconstruction
+                    (JCRR). A very good man named Ray Moyer was the primary mover in that. I don't
+                    know if he's still living or not. He was already middle aged by then.</p>
+                <p>I ended up, thanks to a recommendation by a friend of mine, Jack Corbett, who
+                    later worked in Checchi and Company for a number of years, as head of the
+                    East-West Trade Branch, I think they called it. This was not a Branch for
+                    stimulating trade between East and West. It was a Branch for regulating trade
+                    between East and West in strategic commodities.</p>
+                <p>My recollection of how this Branch got started was that, at a hearing concerning
+                    ECA and the Marshall Plan, one of the congressmen or senators asked Paul
+                    Hoffman, “How are you going to see to it that strategic goods don't move from
+                    Western Europe to Eastern Europe?” In reflection, I think he could have said,
+                    “Well, that's not my business. That should be the State Department's business or
+                    the business of the Department of Commerce.” He said that ECA would be
+                    responsible.</p>
+                <p>Therefore, the Branch was set up under the late Arthur Smithies and,
+                    subsequently, Jim McCullough. The East-West Trade Branch, which was one of
+                    several branches that reported to Arthur and, subsequently, to Jim, was very
+                    much a nitty-gritty “how do you keep a certain type of jackhammer from being
+                    exported,” job. It was about as difficult a job as you could imagine, because
+                    all the European countries had foreign exchange and balance of payments
+                    problems. They all wanted to export. Their views of what could be useful to the
+                    Soviet economy and the Eastern European economy didn't correspond with ours.
+                    Italy had one view, England had another, France had still another. We in the
+                    Branch were handed a list of critical commodities categorized as to
+                    importance.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q. Categorized.</hi>
+                </p>
+                <p>CHECCHI: Yes. Some were more important than others. There were regular meetings
+                    in the Department of Commerce, where the military, the CIA, the Department of
+                    Commerce, and ECA would sit down and discuss how to get those governments that
+                    were in the Marshall Plan to coordinate their trade policies with ours, with
+                    respect to these critical commodities. Even countries that were not receiving
+                    ECA assistance were supposed to be persuaded to follow our trade policies. That
+                    included, for example, Switzerland. I made several trips to Vienna, Berne,
+                    Stockholm, Paris, and so forth, trying to get something done along these lines
+                    which, in retrospect, was very difficult.</p>
+                <p>
+                    <hi rend="italics">Q. Did you coordinate this with the State Department?</hi>
+                </p>
+                <p>CHECCHI: Very much so. Ed (Edwin M.) Martin was the man on the committee that
+                    represented State. I had a small but brilliant staff. One man was Arthur Cox,
+                    who since has had quite a career writing on Soviet relations. Another was a
+                    brilliant young economist from Berkeley, Chris Calsoyas. I always had the
+                    impression that Chris was so brilliant that he found his work boring, so he
+                    eventually went back to college and got a degree in physics. I wouldn't be
+                    surprised if he isn't devising a bomb or a new computer somewhere.</p>
+                <p>Another member of the staff was a person who went on to the Foreign Service,
+                    Louis Boochever. You may perhaps remember him. He returned from the Foreign
+                    Service some time ago, and I think took a job on the Hill. Another person was
+                    Robert Marshall. I've lost touch with Bob. He was a William &amp; Mary graduate,
+                    and I think stayed on in ECA.</p>
+                <p>I don't recall how long I was in that job, but I lured myself out of it. I had a
+                    mistaken idea that I was a writer, and I had submitted a few pieces to magazines
+                    and they had been accepted. A friend of mine had started a new magazine called
+                    the Reporter, so I asked him for a job and he gave me one at considerably more
+                    than I was worth, as it turned out, and considerably more than I was paid by
+                    ECA. I went to New York and tried my wings as an editor, and found that there
+                    may be worse editors in the world than I, but if so, I have never come across
+                    them. So after six months or so, by mutual consent, I left the job. I think the
+                    magazine prospered after I left.</p>
+                <p>That left me without a job, so I called Harlan Cleveland, who always seemed to be
+                    good at finding jobs for me, to ask if he had anything I could do. He said that
+                    ECA was about to send somebody to the Philippines, and would I be interested in
+                    a short-term assignment. I jumped at the chance. I'd never been to the
+                    Philippines.</p>
+                <pb facs="0004" n="Page0004"/>
+                <p>That job had different roots. ECA was not active in the Philippines. The
+                    Philippines had their own war damage program. I think it dated back to a speech
+                    that Roosevelt had made, in which he had promised the Philippine people that
+                    every Nipa hut, every caribou lost in the war would be replaced, asking the
+                    Filipinos to stand by us, promising them that we would be back, and that we
+                    would repair the damage of the war. So when the war ended, a war damage program
+                    was launched in the Philippines. This was independent of ECA.</p>
+                <p>
+                    <hi rend="italics">Q: Do you know who administered it?</hi>
+                </p>
+                <p>CHECCHI: Yes. It was administered by the State Department, but it was a kind of
+                    loose arrangement, because the Army hadn't left yet. When it did, the State
+                    Department took over. They launched a commission called the War Damage
+                    Commission, which was composed of two Americans and a Filipino. The Americans
+                    were Frank Waring and John O'Donnell. John O'Donnell was a political type. I had
+                    the impression he was active in Democratic Truman-type politics. Frank Waring,
+                    the Chairman, was a distinguished civil servant who had had a lot of experience
+                    in the federal government. The name of the Filipino escapes me. But the
+                    Commission, as I understand it, was dominated by the two Americans, and
+                    particularly by Waring.</p>
+                <p>Here again my memory may be at fault, but I think they had at their disposal $400
+                    million. The concept was not reconstruction and development in the ECA terms;
+                    this was a case of, as I understand it, “Prove to me that your house really was
+                    bombarded, and we will give you a payment.” It did not deal with what shape the
+                    country should take; it was a case of reimbursement.</p>
+                <p>
+                    <hi rend="italics">Q. That's interesting.</hi>
+                </p>
+                <p>CHECCHI: As I recall and as I understand, there was friction between the
+                    ambassador and the chairman of the War Damage Commission, Waring. They didn't
+                    like each other. This is in the realm of gossip.</p>
+                <p>To go back to how I happened to go to the Philippines. By way of background, the
+                    Philippines had emerged from the war in really dreadful shape. The $400 million
+                    did not at all cover the amount of damage that had been done. The economy in the
+                    working sense had been fractured. A lot of people had been killed. Commercial
+                    relationships had been destroyed. There were a lot of carpetbaggers around.
+                    Corruption was rife, not as bad as later on under (Ferdinand) Marcos, but bad
+                    enough. The balance of payments was adverse. The country was running out of
+                    foreign exchange.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>So the Philippine Government, which, in those days, had still a kind of little
+                    brother attitude toward the US Government, asked the US for assistance. Truman—I
+                    think it was with the advice of (Dean) Acheson—sent a study mission to the
+                    Philippines called the Bell Mission.</p>
+                <p>
+                    <hi rend="italics">Q: Daniel Bell.</hi>
+                </p>
+                <p>CHECCHI: Yes. Daniel Bell was the president of the American Security &amp; Trust
+                    Company here in town, but before then he had been the director of the budget. He
+                    was a man whom Truman trusted, a man of the utmost integrity, soft spoken,
+                    quiet, thoughtful. He headed up this mission to go and see what should be done
+                    about the Philippines, because clearly the $400 million hadn't done the
+                    trick.</p>
+                <p>It's not clear to me just how the mission was chosen. I think Dan may have chosen
+                    one or two persons, but I have the feeling that the different agencies, such as
+                    ECA, each jumped to put somebody on the mission. For example, there were two men
+                    there from the Department of Agriculture, there were two men there from the
+                    Department of Commerce, a couple of men from the State Department, and Eddie
+                    Berstein, who was Director of Research of the International Monetary Fund, but
+                    before then had been an economist at the Treasury Department. I think he was a
+                    person whom Dan knew. I think perhaps he was somebody whom Dan asked to go
+                    along. A Washington lawyer, Joseph Friedman, who had been at Treasury and who
+                    knew the Philippines, was also on the mission.</p>
+                <p>
+                    <hi rend="italics">Q: Was there anyone along, as far as you would know, from the
+                        Technical Cooperation Administration named Point Four?</hi>
+                </p>
+                <p>CHECCHI: I don't think so. I'm a little confused time-wise whether Point Four had
+                    been promulgated yet.</p>
+                <p>
+                    <hi rend="italics">Q: It was promulgated in the second term of Truman, so it
+                        could have been later—I mean the ECA.</hi>
+                </p>
+                <p>CHECCHI: Yes. At any rate, this mission was not started as part of ECA. It was a
+                    presidential type of thing. Truman, if I can reconstruct, had said, “You know,
+                    Dan, I've got to send somebody to the Philippines. Will you do it for me?” And
+                    then Dan put together this scratch team. I don't think Dan envisioned having
+                    somebody from ECA. I think what happened was that the various agencies didn't
+                    want to be left out so ECA sent me over as its representative.</p>
+                <pb facs="0006" n="Page0006"/>
+                <p>I didn't go over with the team; I arrived about a week or two later. They were
+                    somewhat surprised to see me. I really didn't have a job to do because I was not
+                    a technician in any of the specific fields, such as ports or agriculture. But
+                    Dan, being the gentleman that he was, immediately put me to work anyhow. I
+                    worked mainly with Eddie Bernstein but also with the other members of the
+                    team.</p>
+                <p>Dan's approach was to gather the team together every day to sit around the table
+                    and discuss the various issues. I was the exponent then, as I am now, that any
+                    aid should be on a quid pro quo basis. That is, “You do this and we'll do this”
+                    basis. Not all members of the group felt this way. A report was eventually
+                    written. The summary and recommendations were written by Eddie Bernstein. I had
+                    a considerable role shortening and rewriting his stuff and arguing with him
+                    about what should be said. It was, of course, finally Dan's report in the sense
+                    that, while he rarely put pencil to paper, he didn't let anything go into the
+                    report that he didn't want in it.</p>
+                <p>
+                    <hi rend="italics">Q: He had chaired all of the meetings.</hi>
+                </p>
+                <p>CHECCHI: He chaired all of the meetings, and he listened. He was a good listener,
+                    and he had that indefinable quality which one calls good sense and good
+                    judgment.The recommendations called for launching a program of $250 million
+                    contingent on the recommendations of the team being accepted. The
+                    recommendations were very long; there were all kinds of them—for example,
+                    recommendations as to taxes, minimum wages, and conduct of the central bank. The
+                    report was put in Truman's hands. I understand that Truman wanted Dan to go back
+                    to put this program in force. Dan couldn't, and the program drifted to ECA
+                    because there really was no one else to carry it out. ECA, in turn, sent Bill
+                    Foster to the Philippines, accompanied by Allen Griffin. Before they went, in a
+                    series of meetings here, all of which I think I attended, between the State
+                    Department and ECA, it was decided that Foster could offer aid on the order of
+                    magnitude of $250 million in loans and grants, contingent on progress toward
+                    implementation of the Bell Mission recommendations.</p>
+                <p>Foster asked me to go along as a sort of spear-carrier for himself and Griffin,
+                    and we met with the appropriate people in the Philippine Government, including
+                    the President, the Governor of the Central Bank, and principal members of the
+                    Cabinet. In the discussions of what were the more important Bell
+                    recommendations, there emerged—I think it was largely due to Bernstein's views
+                    and to mine—that the prime objective should be to balance the budget (sounds
+                    familiar, doesn't it). The thrust was, “You balance your budget and we'll help
+                    you.” I remember Livingston Merchant saying to Foster something to the effect:
+                    “We can't expect perfection, but they must tax and get their fiscal house in
+                    order.”</p>
+                <p>
+                    <hi rend="italics">Q: What was Merchant at that time?</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>CHECCHI: He was Assistant Secretary for the Far East in the State Department.So
+                    Foster took me along, I think because I was the only person around available to
+                    him who had any knowledge of the Philippines; nobody else in ECA had any.
+                    Griffin had been in charge of the China Program. Foster had sent him to China
+                    with Roger Lapham, formerly mayor of San Francisco and president of the
+                    Hawaiian-American steamship lines, to trouble-shoot the liquidation there of the
+                    program and its subsequent transfer to Taiwan.</p>
+                <p>
+                    <hi rend="italics">Q: Lapham later became mission director to Greece.</hi>
+                </p>
+                <p>CHECCHI: Yes. Big man in San Francisco.</p>
+                <p>We landed in Manila and were immediately met by all the big shots—the way that
+                    the Filipinos can do, with parties and dinners and all. At a brainstorming
+                    session with Griffin and me, Foster said, “You know, we can't ask them to do 79
+                    different things. Let's pick out the two or three that we want them to do first,
+                    and then we'll go on to the others.” I remember that at that meeting I said,
+                    “We're going to stick them with an awful lot of taxes. We really should show
+                    that, in addition, we're doing something for the poor man. So how about a
+                    minimum wage law?” That was one of the Bell recommendations.</p>
+                <p>In the Philippines, as in most countries, including our own, enforcement of
+                    minimum wage laws is difficult and not perfect. But there are certain types of
+                    industries in the Philippines where you can enforce such a law. So it was agreed
+                    that this is what we would require. An appropriate agreement was then signed. In
+                    the Philippines, it's called the Quirino-Foster Agreement. In the United States,
+                    it's called the Foster-Quirino Agreement; Quirino being the President of the
+                    Philippines.</p>
+                <p>The agreement was short. It said specifically that the Philippine Government
+                    would raise taxes (in effect, balance their budget) and adopt a minimum wage
+                    law. In general, it said the government would support the other recommendations
+                    of the Bell Mission.</p>
+                <p>After the agreement was signed, Foster decided to leave me there to be the
+                    watchdog and help nurse through the necessary legislation. In effect, I was a
+                    mission chief with a staff of zero. I set up an office in the Manila Hotel,
+                    which was extremely efficient. Subsequently, the staff grew.</p>
+                <p>
+                    <hi rend="italics">Q: And you just stayed there?</hi>
+                </p>
+                <p>CHECCHI: Yes.</p>
+                <p>
+                    <pb facs="0008" n="Page0008"/>
+                    <hi rend="italics">Q: You didn't come back?</hi>
+                </p>
+                <p>CHECCHI: I did not come back. My wife and children joined me there eventually.
+                    The staff grew slowly. Washington sent me a tax expert, Dr. J.K. Hall, and a
+                    labor expert, Dr. Harry Kanter. Subsequently, Dr. Hall had to leave and he was
+                    replaced by Dr. Roy Jastrom. All these men were very good. Two other very good
+                    men were Denny Scott, a lawyer, and Clarence Eskildsen, an agricultural
+                    expert.</p>
+                <p>So I kept a watching brief on the Philippine Government. Elpidio Quirino was
+                    president and I met with him from time to time. He appointed his closest
+                    political ally, a man named Jose Yulo, as liaison. Yulo later on ran for vice
+                    president under Quirino. If Quirino had won, Yulo would eventually have become
+                    president as in those days they had a limitation on how long anyone could serve.
+                    Marcos ignored that after he took over.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>CHECCHI: The trick was to get the Philippine Congress to approve some very stiff
+                    taxes, which eventually they did. They also approved the minimum wage law. They
+                    gave a general endorsement to the recommendations of the Bell Mission, and the
+                    aid started to flow. In those early days, because nobody else had much knowledge
+                    of the Philippines in AID/Washington, I was pretty much left on my own.</p>
+                <p>Eventually, for personal reasons, I decided to come home. I was succeeded by a
+                    fine man named Roland Renne, who had run for governor of Montana, I think, and
+                    had lost. He had previously been president of the University of Montana.
+                    Subsequently, Washington assimilated the Philippines Mission into the
+                    ECA/MSA/AID set up. But, in the beginning, it was different. For a while, we
+                    were not subject to the same machinery as was, say, Italy or Paris. The big
+                    names, people like Averell Harriman, really never became involved. Foster had
+                    succeeded Hoffman as the head of ECA.</p>
+                <p>At any rate, I came back and shortly thereafter resigned from the agency. Griffin
+                    wrote me a terrific letter, thanking me and all that kind of stuff. That was
+                    it.</p>
+                <p>
+                    <hi rend="italics">Q: You had other people on your staff eventually.</hi>
+                </p>
+                <p>CHECCHI: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What were their jobs? Did they give recommendations or
+                        technical assistance to anybody in the Philippine Government?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>CHECCHI: Yes, but it was a lean staff. I forget how many people there were. They
+                    dribbled in one or two at a time. Doris Bebb, an administrative assistant, and
+                    Terry Pedigo, my secretary, were terrific. Some came in from the South Korea
+                    Mission which was closed.</p>
+                <p>The ready acceptance by the Filipinos of Americans and their respect for American
+                    training and American schooling, meant that every person that came over that had
+                    ability was inserted into a job and was effective almost from day one. For
+                    example, Eskildsen worked with a Filipino named Amando Dalisay. He was a Harvard
+                    Ph.D. and a patriot. The two of them worked hard and late, based on mutual
+                    respect for one another's skills.</p>
+                <p>There wasn't time for a bureaucracy to grow. The labor man Washington sent over
+                    was from our Department of Labor. He had been working on minimum wage
+                    legislation and minimum wage problems for a long time. When he talked about how
+                    it was in the States, his opposite number or numbers would listen and there was
+                    no problem. The tax man from the University of Washington, James K. Hall, that
+                    Washington sent me was careful and smooth and well educated. He got along well
+                    with the Minister of Finance. Yes, we provided technical assistance.</p>
+                <p>
+                    <hi rend="italics">Q: At a very high level.</hi>
+                </p>
+                <p>CHECCHI: Yes. We gave it in connection with a program to which their Congress and
+                    their president had specifically agreed. It wasn't a case of sending over, let's
+                    say, four guys that knew all about coconut culture and were working in the
+                    field. All of our work was done in Manila. Later, I think, the modus operandi
+                    changed. When I was there, I could see the president whenever I wanted to,
+                    although I didn't abuse the privilege. Yulo, who I believe was the second most
+                    powerful man in the country, would come to my office frequently or he'd ask me
+                    to come to his office. He would explain the situation in Congress, why a certain
+                    element of the legislation was delayed. Then he would say, “Don't worry. My boys
+                    will handle it.” What he meant by “his boys” were guys in Congress who were part
+                    of his group.</p>
+                <p>It was technical assistance but it was not technical assistance in the sense that
+                    it exists today in the Philippines or in most countries.</p>
+                <p>
+                    <hi rend="italics">Q: These were advisors, consultants, really, at a very high
+                        level.</hi>
+                </p>
+                <p>CHECCHI: Correct.</p>
+                <p>
+                    <hi rend="italics">Q: Based on previously agreed-to programs and policies.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>CHECCHI: Yes. Wanted and respected. With respect the Ambassador, the idea of
+                    playing one American against another was not unknown to Filipinos. The Filipinos
+                    are very intelligent people. When a man works his way through Philippine
+                    politics and gets to be president or in high office, he's as smart and clever as
+                    anybody you're going to meet. So there was no doubt that at least some Filipinos
+                    would have liked to have had the Ambassador and me fighting with each other. We
+                    knew this so we made it a point never to show anything except a united
+                    front.</p>
+                <p>
+                    <hi rend="italics">Q: Do you know whether he had come out of the career Foreign
+                        Service?</hi>
+                </p>
+                <p>CHECCHI: He was a lawyer. I believe—I could be wrong—that he was associated with
+                    the law firm of Louis Johnson, a strong Democrat. Some ten years or so
+                    afterward, he called me up as he had a project he wanted to do, and we talked
+                    about doing it. It didn't pan out. We in no sense were unwilling to work
+                    together then or later.</p>
+                <p>Today, AID is so small in the total picture that I don't think there is much
+                    prospect of friction between the AID Administrator and the Ambassador. But back
+                    in the days we are talking about, the ECA Administrator was a man very often of
+                    greater prestige than the Ambassador and, if he had nothing else, he had money
+                    to spend. David Zellerbach in Italy, for example, probably swung more weight
+                    than Alexander Kirk, who was a career Foreign Service Officer. David Bruce and
+                    Barry Bingham were other Mission Chiefs. No Foreign Service Officer was going to
+                    outweigh those fellows.</p>
+                <p>
+                    <hi rend="italics">Q: No. Also, by law—and I'm sure it applied to you, whether
+                        you used it or not—you ranked second to the Ambassador in the country. You
+                        outranked every other American there other than the ambassador
+                        diplomatically.</hi>
+                </p>
+                <p>CHECCHI: Yes. So naturally there was occasionally a little tension but nothing we
+                    couldn't live with. When the Ambassador was away, we dealt with his DCM, Vinton
+                    Chapin, a particularly good man. When Chapin was there, there was no tension at
+                    all. I'd make a report to him out of courtesy, and he'd say, “Thank you very
+                    much,” and I think he'd almost be looking at his watch to see—</p>
+                <p>
+                    <hi rend="italics">Q: When you'd be through.</hi>
+                </p>
+                <p>CHECCHI: When I'd be through, so he could go on with his work.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: What about your relations with the home office? Did you
+                        get backstopping from the home office here in Washington?</hi>
+                </p>
+                <p>CHECCHI: The backstopping for a while was superlative. At that time it was
+                    handled by a fellow named Charles Wolf, who is now the Director for Research for
+                    the Rand Corporation. He was very junior, and I think pretty soon people began
+                    to—I'm only guessing—get into his act. There was a fellow named Eugene Clay that
+                    did this and a man named Edwin Arnold.</p>
+                <p>
+                    <hi rend="italics">Q: I remember Eugene Clay. Related to General Clay, by the
+                        way, a distant relative. But he used it.</hi>
+                </p>
+                <p>CHECCHI: Exactly. He had served in the Philippines and I think he felt that made
+                    him an expert. He was not well liked over there by the embassy staff nor by the
+                    Filipinos. I don't think Wolf, being quite junior, could withstand him or
+                    Arnold.</p>
+                <p>Griffin, at some point, appointed as desk man a fellow who was out of a trading
+                    company in San Francisco, who had also had some experience in the Philippines,
+                    but he'd been a salesman. His name was Allen. A very likeable fellow, but knew
+                    nothing about government.</p>
+                <p>
+                    <hi rend="italics">Q: Griffin was what at this point?</hi>
+                </p>
+                <p>CHECCHI: He was the head of the China Program and the Philippine Program.</p>
+                <p>
+                    <hi rend="italics">Q: Here in Washington?</hi>
+                </p>
+                <p>CHECCHI: Yes. But at a high level. Wolf, Clay, and Allen were the guys who
+                    handled the cable traffic. Anyhow, the backstopping was mixed. But, as I say,
+                    Wolf was terrific.</p>
+                <p>
+                    <hi rend="italics">Q: What years were you in the Philippines? Do you
+                        recall?</hi>
+                </p>
+                <p>CHECCHI: I don't recall exactly. I think it was '49, perhaps.</p>
+                <p>
+                    <hi rend="italics">Q: To '50?</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>CHECCHI: Something like that. It was during the Truman second term. In a
+                    management sense, what's to be learned? I don't think anything in particular.
+                    The same thing you always learn, which is put good people in the job, spell out
+                    clearly what you expect from them, and see that they do it.</p>
+                <p>
+                    <hi rend="italics">Q: Did you learn things from this that you then applied when
+                        you set up Checchi and Company and the way you went about your business and
+                        the kinds of things you did?</hi>
+                </p>
+                <p>CHECCHI: Sure. Always. That's a constant process, you know—how you pick the good
+                    people and how you set the objectives.</p>
+                <p>
+                    <hi rend="italics">Q: People is the important thing, isn't it?</hi>
+                </p>
+                <p>CHECCHI: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: I've interviewed Ed Martin both for his role as ambassador
+                        and otherwise, and he said that people was the very important thing in all
+                        the things that he did.</hi>
+                </p>
+                <p>What about the formal visit versus the informal back in the Philippines, in your
+                    relationships with the Filipinos? Was that important? Did informal play any role
+                    in your relationship?</p>
+                <p>CHECCHI: Yes, very much so. Probably more in the Philippines than in the European
+                    countries. The Philippines was a tiny tack-on to the Marshall Plan. When I
+                    traveled for the Marshall Plan on the trade problems, there was a considerable
+                    formality. One didn't just call a European or a Permanent Secretary on the
+                    telephone and say, “I'm coming over.”</p>
+                <p>In the Philippines, we had a common language, of course, and a tradition of
+                    hospitality which exists to this day. But I don't think the Filipinos are
+                    typical. The informal there is more important than elsewhere. But they still
+                    stand on their dignity.</p>
+                <p>
+                    <hi rend="italics">Q: Do you have any other last thoughts we should leave on
+                        this?</hi>
+                </p>
+                <p>CHECCHI: I don't know. I would say this, but it's not anything that is
+                    earth-shaking, and I think it comes as much from consulting work we do as it
+                    does from my government experience. That is try and keep the programs simple but
+                    important, and don't spread yourself too thinly. That's a good rule for either
+                    business or government.</p>
+                <p>End of interview</p>
+                <pb facs="0013" n="Page0013"/>
+            </div>
+        </body>
+    </text>
 </TEI>

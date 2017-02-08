@@ -1,516 +1,1117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001268">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Eddie Williams </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Eddie Williams </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>EDDIE WILLIAMS</p>
-<p>Interviewed by:  Ronald Palmer </p>
-<p>Initial interview date:  June 1, 1994</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  This is a recording of an interview between Ronald Palmer and Eddie Williams on June 1, 1994.</hi>
-</p>
-<p>I volunteered to do this interview because I wanted to see that Eddie Williams' historic role in the development and implementation of affirmative action to achieve equal employment opportunity at the Department of State would be recorded.  These actions had been accomplished through the free exchange of ideas in memoranda.  However, old files have been thrown away for lack of space.  I rescued what I could.</p>
-<p>I would see this stuff being thrown away and I would say, “Give me that,” against the sure knowledge that there would be only one or two people in a thousand who knew why a document was important.  I hoped to write on blacks at State some day.  When I did try to write something, I discovered that stuff as recent as in the Reagan Administration had been thrown away.</p>
-<p>By then, I knew that there was an Oral History Project going on and I became interested in it.  Stuart Kennedy directs the project and he interviewed me.  As you know, you can say things on tape that you never had a chance to say to anybody.  I ended up with a 100 page document which, if I don't get around to doing anything more myself, is there.  I haven't told everything there is to tell, but it is there.</p>
-<p>As I was writing on black professional employment at State, I discovered that Ambassador Richard Fox had done an Oral History interview as had former Under Secretary for Management Bill Crockett.  I said, where is Eddie Williams in this, and the answer was they hadn't really thought about you.  I guess the idea was that only people who had been at the highest levels at one time had been interviewed.  I said that was wrong because for some of these issues there were other people who had played key roles at lower levels.  So I have been trying to provide to the Oral History Project the names of individuals like yourself, like Idris Rossell and others because I want to make certain that researchers get the full historical picture.</p>
-<p>WILLIAMS:  What is the Oral History Project?</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q:  It is sponsored by the Association for Diplomatic Studies and by AFSA and the materials are located at the Lauinger Library at Georgetown.  There are now over 600 of these oral interviews.  Another thing is that only some portion of the black ambassadors, for example, have been interviewed.  So what I would really like to see done is a “Blacks in the Foreign Service” project.  One can think of any number of specific projects like this, including women, and perhaps projects on service in different parts of the world.</hi>
-</p>
-<p>WILLIAMS:  They interviewed Dick Fox?</p>
-<p>
-<hi rend="italics">Q:  He was an ambassador.</hi>
-</p>
-<p>WILLIAMS:  And Deputy Director General.</p>
-<p>
-<hi rend="italics">Q:  I think that as much as anything the interview concerns his entire career.</hi>
-</p>
-<p>WILLIAMS:  But that had nothing to do with the time that he was directly involved in EEO matters.</p>
-<p>
-<hi rend="italics">Q:  Precisely.  But actually his interview starts with the inevitable question of “What is your background?” “ Where did you come from?” and “How did you get interested in the State Department?”</hi>
-</p>
-<p>WILLIAMS:  How does what we are doing today relate to the Oral History Project?</p>
-<p>
-<hi rend="italics">Q:  Well, right now this is for me.  But we will get a transcript and if you don't have any trouble with it, then we can deposit it if you wish.  This interview relates to of my project which is “Blacks in the Foreign Service,” for which your contribution is important.  My project starts with the 19th century.  It picks up those 19th century blacks who were in the old “spoils system” of political patronage before the merit system was introduced in the consular service and the diplomatic service.  It touches at the time of Clifton Wharton, in 1925 when he took the examination and became the first black in the Foreign Service after the passage of the Rogers Act; it looks at the post-war period situation in 1949-50, and comes up to the Wriston period in the middle to late 1950s.  I also study the modern period from the beginning of the Kennedy Administration.  I have looked at Dick Fox's first four years until he leaves the EEO job in 1965 and you take it over.</hi>
-</p>
-<p>WILLIAMS:  I came on the job, but was in the State Department long before then.</p>
-<pb facs="0003" n="Page0003"/>
-<p>
-<hi rend="italics">Q:  That's what I recall but I didn't know your date precisely. The point I am making here is that what you did has been very instrumental in terms of black presence in the State Department.  By the time the program of affirmative action entry was stopped in the Reagan Administration, something like well over 500 people had come in through the FSRJO program.  And of that number you...</hi>
-</p>
-<p>WILLIAMS:  Do you have my FSRJO memo?</p>
-<p>
-<hi rend="italics">Q:  I have part of it and I am going to show it to you in just a moment.  But of that number, particularly people who came in really after you left...it seems to me that you set the stage, gave an intellectual construct and set things in motion.  Then after you, of course, came Pollard and others.  The FSRJO program was seized upon and energized in the Carter Administration and they did as much as they could with it.  Then, of course, when Reagan came in it was stopped...But let the record show that some of those early people whom you helped bring into the Foreign Service through affirmative action—perhaps five or six persons, males and females, are already ambassadors.</hi>
-</p>
-<p>WILLIAMS:  Shall we begin?</p>
-<p>
-<hi rend="italics">Q:  To start, when I said that you had taken over this program in 1965, you responded that you had been in the Department for some while.  Could you elaborate on that?</hi>
-</p>
-<p>WILLIAMS:  In 1958 I came to Washington as a Fellow of the American Political Science Association.  I had been a newspaper reporter in Atlanta and was one of five journalists selected nationwide to become an intern on Capitol Hill.  On the House side I interned with then Congressman James Roosevelt from California, and on the Senate side I interned with Senator Hubert H. Humphrey.  At the end of my internship in 1959, Senator Humphrey asked me if I would like to stay and work for him.  I said, “Yes,” very enthusiastically.  I worked for the Senate Foreign Relations Committee, Arms Control Subcommittee, which Humphrey chaired.  I was there for a little more than a year at which time I left and went to work in the 1960 Presidential election for the House Democratic Study Group.  In 1961, I resumed my graduate studies at Howard after the election in 1960.</p>
-<p>
-<hi rend="italics">Q:  What degree?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>WILLIAMS:  In political science.  I was studying under Bob Martin and Bernard Fall.  I was studying Southeast Asia Studies.  In November/December, after the election, I was invited by Sargent Shriver to come to the Democratic Transition Office at Connecticut and K.  There is a whole story of what happened, but out of that I was referred to a gentleman whose name was Ambassador Angier Biddle Duke.</p>
-<p>
-<hi rend="italics">Q:  What job did he have then?</hi>
-</p>
-<p>WILLIAMS:  Duke was the Chief of Protocol designate.  He had me meet with a gentleman whose name was Pedro San Juan.  Ambassador Duke put me into the clearance process and recommended me to become a protocol officer to be assigned to the newly established New Nations Division in the Department of State in the Office of Protocol.  I was cleared for entry in March, 1961 and went to work in the New Nations Division.  I worked for Pedro San Juan for more than a year.  Then I was made a regular Visits Officer handling dignitaries invited by the President and the Secretary of State.</p>
-<p>
-<hi rend="italics">Q:  This was 1962?</hi>
-</p>
-<p>WILLIAMS:  This is getting into 1962.</p>
-<p>
-<hi rend="italics">Q:  What visits did you handle?</hi>
-</p>
-<p>WILLIAMS:  Prime Minister of India, Prime Minister of Italy, Afghanistan, the Sudan, Tito...</p>
-<p>
-<hi rend="italics">Q:  Did this mean that you had a chance to go to the White House as well?</hi>
-</p>
-<p>WILLIAMS:  Oh, yes.  I traveled all over with them.  I went to Yugoslavia, I went to Beirut, Lebanon to take the King and Queen of Afghanistan.  I was the Visits Officer for Tafawa Balewa, the Prime Minister of Nigeria, and many, many others.</p>
-<p>I was the first African-American ever to be an officer in the Office of the Chief of Protocol.  One of the most significant developments was when Duke announced that he was bringing me in as a junior officer.  The then Deputy Chief of Protocol, one Clement Conger, announced to the office that there was no role that a Negro could play in the Office of Protocol.</p>
-<p>
-<hi rend="italics">Q:  Clement Conger?</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>WILLIAMS:  Yes.</p>
-<p>
-<hi rend="italics">Q:  For heavens sake.</hi>
-</p>
-<p>WILLIAMS:  And I have seen him since that time in the White House and he always says, “Well, I have such fond memories of you.”</p>
-<p>Anyway, just to give it to you very briefly, I did that and was in that office when I welcomed Dick Fox to the State Department.  He had come in and Pedro, who was very active in civil rights and very close to Bobby Kennedy and Carl Rowan, in the State Department.  Dick was coming out of Minneapolis where Carl had been and was and has continued to be a very close friend of Carl's.  I remember being there to welcome Dick aboard when he came to work for Bill Crockett.  My last official job in the Office of the Chief of Protocol was to serve as an usher at Jack Kennedy's funeral.  I was responsible for the Diplomatic Corps and for foreigners invited over.</p>
-<p>
-<hi rend="italics">Q:  Just a quick footnote here.  In light of the fact that you have gone on to do so many wonderful things at the national level, it would seem to me that the protocol experience in early days must have been extremely useful to you.</hi>
-</p>
-<p>WILLIAMS:  Oh, yes.  It gave me a lot of confidence in myself in being around big shots, if nothing else.</p>
-<p>After that I really wanted to do something else.  I always had an interest in foreign affairs; I had studied it.</p>
-<p>
-<hi rend="italics">Q:  What did you study?</hi>
-</p>
-<p>WILLIAMS:  International affairs.</p>
-<p>
-<hi rend="italics">Q:  Where?</hi>
-</p>
-<p>WILLIAMS:  At Howard.</p>
-<p>
-<hi rend="italics">Q:  Oh, Howard all the way.</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>WILLIAMS:  No, my undergraduate work was in journalism at the University of Illinois.  I will give you a r�sum�.  At Atlanta University when I was working as a newspaper reporter, I started studying for a Masters degree in political science, looking primarily at domestic political theory.  When I came to Washington on my fellowship, I resumed part time study at Howard.</p>
-<p>
-<hi rend="italics">Q:  Okay.  Where were you born?</hi>
-</p>
-<p>WILLIAMS:  I am from Memphis, Tennessee.</p>
-<p>
-<hi rend="italics">Q:  You were born when?</hi>
-</p>
-<p>WILLIAMS:  I was born in 1932.</p>
-<p>
-<hi rend="italics">Q:  And, who were your parents?</hi>
-</p>
-<p>WILLIAMS:  Ed and Georgia Lee Williams.</p>
-<p>
-<hi rend="italics">Q:  Tell me about them, are they still living?</hi>
-</p>
-<p>WILLIAMS:  Oh, no.  My father died when I was about four years old and my mother died in 1966.</p>
-<p>
-<hi rend="italics">Q:  She got to see you at least part of the way along your path.</hi>
-</p>
-<p>WILLIAMS:  Oh, yes.  I was working in the State Department.</p>
-<p>
-<hi rend="italics">Q:  Do you have brothers or sisters?</hi>
-</p>
-<p>WILLIAMS:  No.</p>
-<p>
-<hi rend="italics">Q:  Okay, fine.  Go ahead.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>WILLIAMS:  I had always wanted to get on the political side of international affairs.  Once you have done protocol you can always have lots of fun and live well, but you do the same thing, more or less, over and over and over again.  So I put feelers out that I wanted to do some other things.  I received an invitation from the Assistant Secretary for Eastern and South Asian Affairs to consider being his staff assistant.  This was Phillips Talbot who later became Ambassador to Greece and even later President of the Asian Society and who continues to be a friend and is on our international affairs advisory committee.  I went to work for Phil Talbot and worked for him for 18 months which seemed like 18 years.  The work of a staff assistant is a bitch, to say the least.  But at the same time one Don McHenry was working as a special assistant in IO and one Dick Moose was working as a special assistant upstairs and we had our little information association of special and staff assistants.  So I got a lot of insight into working at the highest levels and being exposed to political politics at the highest level of the government.</p>
-<p>
-<hi rend="italics">Q:  When you said Phil Talbot, I hadn't thought about him for a long time, but it seems to me that Phil Talbot and a few others like him are people who are relatively unheralded.  They are people who did not do just good things, but the right things at a time when it didn't necessarily pay all that much.  They did it because they thought it was something that needed to get done.</hi>
-</p>
-<p>WILLIAMS:  I think he is a great man.  He had been a journalist, as you know, and knew a lot about Asia having spent a lot of his time in the Middle East and Asia.  I thought he was an excellent Assistant Secretary.  Later on he became Ambassador to Greece at a time in which life was very complicated.</p>
-<p>
-<hi rend="italics">Q:  Would he have been in any way a mentor to you?</hi>
-</p>
-<p>WILLIAMS:  He has been a friend.  I wouldn't say a mentor.  We have not had continuous contact, but the relationship has been a good one.  I have seen him and his wife in New York from time to time.  He has been encouraging.  A mentor is someone with whom one has everyday contact.  Talbot was encouraging and is someone who I have a great respect for.  I could talk with him and get insights into things.  I could mention his name, he was excellent for a reference in things that I needed.</p>
-<p>
-<hi rend="italics">Q:  But I want to underline what you just said, it is very important, “someone who is encouraging.”</hi>
-</p>
-<p>WILLIAMS:  So was Angie Duke.  He was equally encouraging and I see him from time to time.</p>
-<p>
-<pb facs="0008" n="Page0008"/>
-<hi rend="italics">Q:  I was trying to find a way to describe my own relationship with Lucius Battle.  It was the same kind of relationship.  Not one where I was constantly picking up the telephone, but when you saw that person you always get a sense that the interest is there.  You were actually out on your own doing this, but you knew there was somewhere a kind of beneficent smile.</hi>
-</p>
-<p>WILLIAMS:  I went to NEA and was staff assistant for a year and a half at which time I received what many in the Department considered to be an offer I could not refuse.  I was invited to replace Dick Fox in 1965 as Director of EEO and Special Assistant to the Under Secretary.  So I moved up and replaced Dick.</p>
-<p>
-<hi rend="italics">Q:  Was Crockett the Under Secretary?</hi>
-</p>
-<p>WILLIAMS:  Yes.  Crockett later retired and I served the last year or so under Idar Rimestad.</p>
-<p>
-<hi rend="italics">Q:  Was Jimmy Hoofnagle in that group?</hi>
-</p>
-<p>WILLIAMS:  Hoofnagle was in the DG's Office.</p>
-<p>
-<hi rend="italics">Q:  Who was the Director General then?</hi>
-</p>
-<p>WILLIAMS:  Ambassador Steeves.</p>
-<p>
-<hi rend="italics">Q:  I am pointing to my briefing book here because you will see that there is a memorandum from one Eddie M. Williams to Idar Rimestad in May, 1967.  Is that something that you remember?</hi>
-</p>
-<p>WILLIAMS:  That is fascinating.  There were some others that were much more to the point you were talking about than to Rimestad.  Rimestad had to be sort of convinced.  He inherited a very aggressive affirmative action, equal opportunity program that Bill Crockett had put together.  Bill Crockett is really the man who made it work.  Most of all the things that I got done came on Bill Crockett's watch.  With Rimestad we were trying to maintain and refine.  But most of the advances were made by Crockett.  Crockett approved the FSRJO.  It was Crockett who gave me 15 positions to put in my pocket and to negotiate directly with an Assistant Secretary.  If he was willing to pick up an African-American, a professional, I would give him a slot.  That was Crockett.  It was Crockett who took me in to see Rusk, and I have a lot of pictures at home of me and Rusk dealing with crises and what not, some of which I must admit, which I said I had never said before, I had generated.  It was creating a pressure on the outside to make them listen to you on the inside.</p>
-<pb facs="0009" n="Page0009"/>
-<p>
-<hi rend="italics">Q:  What kinds of crises?</hi>
-</p>
-<p>WILLIAMS:  Well, Carl Rowan used to write Zaps every now and then.</p>
-<p>
-<hi rend="italics">Q:  Who was the guy with the “Afro-American?” Chuck Stone.  He was always throwing bricks through windows.</hi>
-</p>
-<p>WILLIAMS:  And every time they would Zap, the Secretary would want to know.  “Bill Crockett, what is all this about?  The President is giving me a fit about this?” Bill Crockett would say, “Mr. Secretary, let me go talk with the EEO Officer.” He would bring me and I would say, “Well, nobody is talking about it but let me tell you the problem and how we can solve it.” It was out of that that some very practical decisions were made.</p>
-<p>
-<hi rend="italics">Q:  Well, just to stop a moment with Rusk.  Did you find him receptive?</hi>
-</p>
-<p>WILLIAMS:  Rusk was very receptive when you got his attention.  But he was a scholar and somewhat remote from mundane things.  He just assumed people would do the right thing and didn't get involved.</p>
-<p>
-<hi rend="italics">Q:  So when you took practical things to him...?</hi>
-</p>
-<p>WILLIAMS:  Well, I didn't take very many practical things to the Secretary, only when there was a crisis or we had the Secretary as a speaker or some activity.  I took my things to Crockett and Crockett either took them to the Secretary or to somebody in the Secretary's suite of offices.  One of the things you learn is to develop friends in high places, Under Secretaries and other staff who can get you intelligence or can help your agenda along.  I must say I developed quite a few of those.  Some in Crockett's office.  Crockett had a very interesting close staff.</p>
-<p>
-<hi rend="italics">Q:  You spoke before of a team.</hi>
-</p>
-<p>WILLIAMS:  Well, it was his whole team of administrators, people around him.</p>
-<p>
-<hi rend="italics">Q:  Who were they?</hi>
-</p>
-<p>WILLIAMS:  Oh, I can't sit here now, Ron, and tell you who...</p>
-<pb facs="0010" n="Page0010"/>
-<p>
-<hi rend="italics">Q:  Jules Bassin?</hi>
-</p>
-<p>WILLIAMS:  Jules was around in the Crockett era.  I think he moved up under Rimestad.  But there was another guy whose name I can not think of now...</p>
-<p>
-<hi rend="italics">Q:  Herman Pollack?</hi>
-</p>
-<p>WILLIAMS:  Herman was there when Dick came.  Herman was head of Personnel when Dick came.  And then he left that and became the first head of the Office of Science and Technology.  Am I recalling correctly?</p>
-<p>
-<hi rend="italics">Q:  Absolutely, because I ran into him in later years.  He was very sympathetic to the issue of...</hi>
-</p>
-<p>WILLIAMS:  Oh, he was sympathetic.  Dick actually kind of worked for him when he first came in, I think, or worked very closely with him.  But Dick and I, and I think we would agree on this, felt that Bill Crockett was the key.  Now Bill Crockett is someone that I had, until recent years, been in touch with.  He used to call me when he would come to Washington.  A couple of times when I was out in California, I would go by to see him.  We used to drop each other notes.  We sort of lost track.  He moved to Arizona.  I think Burla's, his wife, health was not good.  But anyway, he was the key.  He gave me both the clout, the cover and the ...</p>
-<p>
-<hi rend="italics">Q:  When you say he gave you 15 positions, did that mean that you could go into somebody's office and say, “If you could give...?”</hi>
-</p>
-<p>WILLIAMS:  I wasn't begging, I was negotiating.  I told him that you can't just persuade people to do something, you have to create a situation where it affects their vested interests to want to do something.  Don't tell them to do it just out of the goodness of their heart, because it is right, make it meaningful to them.  Well, how do we do that?  I said, “In the first place we ought to start rating people in their assessment on the basis of how they treat Affirmative Action.”</p>
-<p>
-<hi rend="italics">Q:  You have been saying that for 30 years and it still hasn't happened, as you know.</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>WILLIAMS:  Then we wanted to create all these little equal opportunity offices in all the bureaus.  They were supposed to relate to me.  I thought much of it was a waste of time because they were trying to figure out ways to finesse things all the time.  So that was when I went to Crockett and said, “We got to find a more systematic way to get people in because we will be spending the rest of our lives getting in one or two people and losing three or four. And yet, at the top we say we are all committed to this, but nothing much is really happening.” Well, we brought in Kenneth Clark to do a study of the FSO examination.</p>
-<p>
-<hi rend="italics">Q:  What year was that?</hi>
-</p>
-<p>WILLIAMS:  I inherited it in 1965.</p>
-<p>
-<hi rend="italics">Q:  I should ask when he completed it?</hi>
-</p>
-<p>WILLIAMS:  Around 1966.  That didn't make a difference.  He raised some serious questions about the examination.</p>
-<p>
-<hi rend="italics">Q:  He said that there was no correlation between success...</hi>
-</p>
-<p>WILLIAMS:  ...on the exam and success in the Service.</p>
-<p>
-<hi rend="italics">Q:  But he did say something about the fact that there appeared to be a correlation between passing the oral examination and then success.  Are those the right words?</hi>
-</p>
-<p>WILLIAMS:  Yes, that the oral meant a lot.  I am not remembering it that clearly, but I do know that...Incidentally, the other thing that I inherited from Dick was this Foreign Affairs Scholars Program which is fascinating.  It started about 1964.  It was a four year program funded by the Ford Foundation.  One other person that you must talk to on this is Vincent Brown.  He is now a retired Professor of Political Science from Howard.  He ran the program.  That has a life all its own in terms of what we did to help many young people, including Margaret Simms.  I have a list of those people.</p>
-<p>
-<hi rend="italics">Q:  I would love to have it.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>WILLIAMS:  We once started here, Ellen Lafara and I and Terry Jennings came over to intern, and one of the things we tried to do was to have a Foreign Affairs Scholars alumni reunion.  We held a reception dinner at my house.  We drew people from New York, from Louisiana, Atlanta, a couple of judges and a conductor from Baltimore, the Baltimore Symphony.  It was fascinating.  Not many of them came into the Foreign Service directly and immediately, and that is why the Ford Foundation did not continue the program.  They said that the cost benefit was not there.  But a number of them ultimately came in and most of them ultimately succeeded to a considerable extent.</p>
-<p>George Knox was in that program and he is now senior vice president at Phillips Morris.</p>
-<p>
-<hi rend="italics">Q:  I was looking for the Crockett interview but I don't seem to have it here.  I am sorry, I know you will be happy to see it.  But one of these days I will xerox some of the pages because it is interesting.  Crockett as of the time that was done, which was in the past year or so, was doing fine.  Obviously he is getting older.  The person who did the interview was Tom Stern.  I think if you are interested in talking to Tom you could get a pretty good view of how things are going with Crockett.  Crockett is very bitter at this point.  Bitter is too strong.  Crockett doesn't feel that he got either the respect from the Service or the credit that he believes he deserves in terms of what he tried to do.  And, of course, he is right.</hi>
-</p>
-<p>WILLIAMS:  You heard what I said.  Obviously, he was the linchpin.  He was more open to ideas.  He had me in the private, private meetings.  He didn't exclude me.  And in the process he credentialed me with all of his lieutenants, some of whom were some of the most vicious operators.  They knew that system and could make it work.  But I could go to them, I went to lunch with them.  I was never a close friend, or buddy-buddy, but we had a good professional relationship because they knew my relationship with Bill and they were going to look for me.  So, when they talk about my rank not being as high as Dick's, when I left I was a FSR-1 which is about as high as I could go without some kind of appointment.  When I came in in 1961, I was an FSR-7.  They took some money and rank from me and wouldn't give me the grade I deserved when I was coming in.  Angie Duke said, “Don't worry, come in.  We will deal with the rest of it later.” Why?  Because I was black and they didn't want to believe that I had worked for the Senate Foreign Relations Committee.  They were saying that I really wasn't qualified for the work and didn't deserve this grade and wouldn't be competitive with these officers, and all that bull shit.  So Duke said, “Take the grade and come on in, we will rectify it when you get in.” And I did.  So between 1961 and 1967, I went from a 7 to a 1.</p>
-<p>
-<hi rend="italics">Q:  You had promotions every year in some cases.</hi>
-</p>
-<p>WILLIAMS:  Yes.</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  How did you manage that?</hi>
-</p>
-<p>WILLIAMS:  Well, I guess if you get enough of these it helps.</p>
-<p>
-<hi rend="italics">Q:  “Eddie Williams...</hi>
-</p>
-<p>WILLIAMS:  Remember I am an “R” not an “O,” so I am not subject to time in grade.</p>
-<p>
-<hi rend="italics">Q:  ...In recognition of superior performance and outstanding devotion to duty in the revitalization and advancement of equal employment opportunity objectives through inspired leadership, incisive program finding and evaluation and exemplary achievement in establishing a nationwide system of publicity and minority recruitment contacts.  Idar Rimestad, October, 1968.”</hi>
-</p>
-<p>Let me tell you, there are not many people who get these rewards.  Let me say further, without flattering you in any way, but for the record, there are very few people who deserve this award as much as you.</p>
-<p>When you look back at this time and speak of vicious operators, I know exactly what you mean because some considerable part of my career was made in terms of being an efficient bureaucratic operator.  You don't have to be necessarily vicious, but you have to know your way around—you have to be tough.</p>
-<p>WILLIAMS:  Well, vicious is too strong.  I meant just tough.</p>
-<p>
-<hi rend="italics">Q:  Yes, tough is the word.</hi>
-</p>
-<p>WILLIAMS:  They didn't take many prisoners when it came to getting the boss's work done.  When he wanted it done you figured out a way to do it.  You walked over coals to get it done.</p>
-<p>
-<hi rend="italics">Q:  I want to take that a step farther and ask you your feelings about racism in the State Department.  My own feelings are that it is there, I have seen it, but it was never something...</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>WILLIAMS:  Let me just wind it up so you have it all.  I resigned in 1968 having accepted a position at the University of Chicago.  But I resigned in time to go and work in the Presidential campaign of Hubert Humphrey as a full time volunteer.  I stayed around from July to November, working for Humphrey.  Then in November I moved my family from Washington to Chicago and became Assistant Vice President of the University of Chicago.</p>
-<p>Racism, did I encounter it?  Yes, I told you I encountered it the first day I tried to get into the State Department—it wouldn't give me the money I wanted.  They tried to stop me on security grounds.  That didn't do it.</p>
-<p>
-<hi rend="italics">Q:  What security grounds?</hi>
-</p>
-<p>WILLIAMS:  I don't know, you never know what the hell they have.  Several people pinned them to the wall.  One was Duke, who was adamant on the inside.  The other was Hubert Humphrey, who although he had been defeated by Kennedy, had a number of chips and continued to be an ally.  The third was Kennedy, himself.  When I came...and this is the honest to God truth...when I was asked to come and meet with Sarge Shriver and Louis Martin and Harris Wofford, they called me into a room and said to me, “We understand that you have some background in international affairs.” I said, “Well, I studied it, worked for the Senate Foreign Relations Committee, and worked with Humphrey.” They said, “We want to use you to integrate the State Department.” It was just that brutal.  I said, “Fine.  What do you want me to do?” “We want you to work in the Office of Protocol.” I knew very little about that office.  I thought about striped pants and knowing about books, etc.  I said, “I am not sure.” They said, “You will love it, go meet Ambassador Duke.” That is literally how it happened.  It was the most brutal, political move...they say, “We are going to integrate the State Department.  You have got the academic qualifications, you have on-the-job experience in international affairs, you have worked for the Senate Foreign Relations Committee, you have two Senators up there...Fulbright and Hubert Humphrey...who are willing to say that...and Carl Marcy, so why not?” So I said, “Fine, I will be willing to do it.” So we started out.  Some of the them were prepared to fight the battles too because I would let them know that I was having all these problems and people started picking up phones.  So, grudgingly and in an expedited period of time, I got in.  Later I became a valuable friend of the Office of Security, and we traveled a lot and we were in a lot of diplomatic foxholes together in the US and abroad.</p>
-<p>So, was racism there?  Yes.  Did I always see it?  No.  Sometimes I guess I was so busy I didn't have time to see them.  I saw it a lot when it happened to other people.  It was easier for me to see it happen to others.  And I would fight about it and that was part of my role.  I think I was very fortunate in the sense of being the right person at the right time and making the right connections.  The Talbot connection, the Duke connection, the Fritz Dutton connection, etc.  If you get a lot of cover like that you can do something.</p>
-<pb facs="0015" n="Page0015"/>
-<p>But down in the bowels, yes, I think there were a lot of people smiling at my face but willing to stab me in the back, and probably a lot who tried.</p>
-<p>
-<hi rend="italics">Q:  That situation really hasn't changed.  This is not to say anything profound about racism, but the people who are actually instigators or those who are capable of good work change and the less able are left behind to fester in their bitterness and to practice racism and sexism.</hi>
-</p>
-<p>WILLIAMS:  Ralph Bunche encountered it, so why wouldn't we.  But you have to fight through it like pain.  You fight through it and some of us survive and unfortunately some do not.  I still say that despite the experience of my short tenure there (7 � years), and despite some of the problems that I may have encountered, that of all the agencies that I ever thought I would ever go back to work for, State was the only one.  Let's face it, there is an eliteness about the place.  Those of us who made it in there, there is an eliteness about us too.  I mean elite in the very best sense of what you have to offer and what you have to change.  And I like the business that it is about and I like the fact that there are sharp, smart individuals around.  I did agree with the Clark study that a lot of the people there probably shouldn't have been.  There were some who passed the exam and made it in I would not want to be in a shooting war with.</p>
-<p>
-<hi rend="italics">Q:  Let me just pick up that point.  One of the assumptions is that because it is an elite service, that everybody is of elite caliber, and that is not true.  Some of the people are there because they could pass an examination.  And when you speak of people with whom you would rather not be in a foxhole, I know exactly what you mean.</hi>
-</p>
-<p>WILLIAMS:  Well, the bookworms, the nerds.  They were smart enough to pass a written test and to get by, but they were really nobody.</p>
-<p>
-<hi rend="italics">Q:  No sense of the real world and live people.  But I want to just pick up something that you said.  We come from a similar background.  I was born in 1932, so I am 62.  But I played football and basketball and was from a small town.  It wasn't a question of having to fight, but you had to be tough.  The idea was that if you played football, played first team and if you played basketball, the same thing.  You could be as good as you could be, as the Army says now.  There were aspects of the State Department that I found very attractive.  I quite agree with you, I wouldn't trade the years I spent there for anything.  It was a challenge and whenever you have overcome a challenge you have done something good.</hi>
-</p>
-<p>But those who go into this work with the belief that this is the post office or a university or some place where the obstacles are clearer or the ways to promotion are evident, often suffer very real disenchantment.</p>
-<pb facs="0016" n="Page0016"/>
-<p>WILLIAMS:  Well, and those who also by virtue of their background or their personal predilection who don't find it comfortable to interact with whites would find it very, very difficult.  Or, if doing so requires them to put a chip on their shoulder...I have seen a lot of that called discrimination when people just weren't communicating effectively.  I said to myself, “If I have somebody on my staff who didn't communicate with me I might have some qualms about working with them also.” But the race thing was there as well, which made it enormously complicated for a black officer, pressure of the kind of service that you perform, particularly when you are overseas.  So those three things combined can really...</p>
-<p>
-<hi rend="italics">Q:  But I was going to step farther than that and say that in the end interpersonal relations, the ability to deal with the bastards and somehow be nurtured by the really good folk and live with the folks in between, is a very important characteristic of a successful Foreign Service officer.  You don't have to be black to have a chip on your shoulder, but having a chip on your shoulder certainly doesn't help anybody, particularly doesn't help the black.</hi>
-</p>
-<p>WILLIAMS:  I didn't mean to imply that there was anything uniquely related to blacks.</p>
-<p>
-<hi rend="italics">Q:  No, no, and that is not the case.</hi>
-</p>
-<p>WILLIAMS:  And sometimes having a chip on your shoulder may have been justified for all of the crap you have to put up with sometimes.</p>
-<p>
-<hi rend="italics">Q:  And sometimes you really have to be a positive strong person, also knowing to do the opposite thing.  Before we leave these subjects, I do want to ask you about Idris Rossell.  Did she work for you?</hi>
-</p>
-<p>WILLIAMS:  Yes.  She worked for Dick also.</p>
-<p>
-<hi rend="italics">Q:  It seems to me that she appears to have done some useful work.</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>WILLIAMS:  She was a fantastic woman at a time before women's rights had taken off and at a time when civil rights was not 100 percent in vogue in the halls of the State Department.  Idris Rossell was as solid as a rock.  She was as dedicated to the advancement of blacks as any human being, regardless of race, sex or color, that I have ever known.  She was unswerving in her commitment.  I will put it this way, even when I was willing to play politics in order to get where I wanted to go, Idris would hold my feet to the fire and say that I could not compromise with the devil.  She had been a novitiate in a nunnery and that was her background.  That was her background and her life.  She really lived it although she didn't complete it and stay in.  But she lived the life that was almost the life of a nun.</p>
-<p>
-<hi rend="italics">Q:  That is an old fashioned way to speak, but I think it is important.  I never thought of her from this perspective.  I knew the fact that she had been a novitiate.  I would say this about Idris, Idris sought to be a Christian.  She sought to do the right thing.  I suppose many of us were raised in the church and somewhere along the way we were instructed in the way to go but not all of us actually tried to live by that.</hi>
-</p>
-<p>To return for just a moment to your Masters study, you mentioned Bernard Fall.  Fall's name is known now only to a very few specialists, but he was one of the great young men.  Do you have any comments on him as a teacher or a person?</p>
-<p>WILLIAMS:  Yes.  Frenchman by birth, I think.  He was teaching at Howard University and stood out a little bit like a sore thumb inasmuch as he was not black.  He had obviously earned his spurs, he had published.  He had lived his work in the sense that he knew Southeast Asia, many of the political hands over there.  I think he knew Ho Chi Minh.  This was before things really got heated up in terms of Vietnam.  He was a fascinating teacher.  I did not like him at first.  One, he spoke with an accent; two, I think he thought he was cute...</p>
-<p>
-<hi rend="italics">Q:  He was arrogant as hell.  Let's not kid ourselves.</hi>
-</p>
-<p>WILLIAMS:  Then, I thought he was a bit flip.  But remember, I was not the typical Masters student.  I had an undergraduate degree, had spend two years in the Army, had worked for a year and a half as a newspaper reporter, had worked on Capitol Hill and thought I was kind of a hotshot dude.  Once I got into Southeast Studies...that was something I was going to do just to take some courses, my thesis was being written under Bob Martin and American politics.</p>
-<p>[change of tape side]</p>
-<p>...this was a very high honor.</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q:  Yes, did you?</hi>
-</p>
-<p>WILLIAMS:  No.  As a matter of fact I started to.  He had given me a paper on SEATO and he said, “As a matter of fact you can extend this paper and I will accept it as your Masters thesis.” Bob Martin, of course, I told him that, said, “Oh, no.” And then I got in to the hassle between the disciplines and political science.  Martin said, “Oh, no, your best bet........” So I stayed on the American politics side and was writing about the Rules Committee of the House of Representative when the call came, to bring it full circle, to come down and meet Sargent Shriver.</p>
-<p>
-<hi rend="italics">Q:  You were received by actually, what was called the sub-cabinet committee.  In Harris Wofford's book he talks about this period.  That they met at the White House and they had a strategy for the penetration of the government in order to advance desegregation of the various bureaus and departments.</hi>
-</p>
-<p>WILLIAMS:  Yes, they told me flat out.</p>
-<p>
-<hi rend="italics">Q:  Exactly.  I wanted to take an opportunity to ask you about some personalities.  You were there when Clifford Wharton, Sr. retired.  Did you have a chance to meet him?</hi>
-</p>
-<p>WILLIAMS:  I met him and really have recollections of only having met him and known who he was.  I didn't get to know him.  It was with some sense of history that I later came to know his son and felt reasonably close to the son once he came to Washington.  I was one of the first people he called and said that he was leaving, resigning that day.  I had seen somewhat the handwriting on the wall.  He had done a few favors for me in getting a few people into the State Department, using the eighth floor and all that stuff.  But, no, I did not know him, I just knew of his contributions and achievements.</p>
-<p>
-<hi rend="italics">Q:  Just a footnote on Clifford Wharton, Jr.  He and I were also in touch and it is very ironic you spoke about the handwriting being on the wall.  I would not be surprised that the handwriting now is on the wall for those who are still in government.  I would not be surprised to see the people who were responsible for him leaving the Department themselves leaving the Department.  But that is another story.</hi>
-</p>
-<p>What about some of the other individuals from the old Foreign Service?  Did you know Rupert Lloyd?</p>
-<pb facs="0019" n="Page0019"/>
-<p>WILLIAMS:  I got to know just about everybody who was on board one way or the other.  Either because I met them socially or they came and checked in or had some problem they were trying to check out.  I knew him, but I don't recall that I knew him all that well.</p>
-<p>
-<hi rend="italics">Q:  How about Clinton Knox?  Early in the Kennedy Administration there was talk about sending him as DCM to Tegucigalpa, but because he was black the post said that they didn't think he would go there.  But he became Ambassador to Dahomey and Haiti.</hi>
-</p>
-<p>WILLIAMS:  David Bohlen was in Germany and lived up on 16th street.  And Rudy Aggrey was, of course, in USIA for much of his time.  There was you and Dick.  When I was working for Crockett I got in several key ambassadors.  I helped to bring in Elliott Skinner and Pat Harris and I had the chore at the eleventh hour of trying to find a job for Pat Harris's husband.  She said she wouldn't take the job unless her husband had a job.  We wound up getting him a job in Geneva.</p>
-<p>
-<hi rend="italics">Q:  Crockett doesn't mention you, but he mentions the incident.</hi>
-</p>
-<p>WILLIAMS:  I helped to bring in Barbara Watson and still talk to her brother and sister in New York at times.</p>
-<p>
-<hi rend="italics">Q:  Well, let me only say now again to make certain that history records what has happened to you and to those with whom you were associated.  After you left the Department you went to the University of Chicago.  When did you start the Joint Center?</hi>
-</p>
-<p>WILLIAMS:  Well, actually I did not start the Joint Center.  The Joint Center was started in 1970 while I was away at the University of Chicago.  I came in 1972.  So I have been here since 1972.</p>
-<p>
-<hi rend="italics">Q:  Who was initially in charge of it?</hi>
-</p>
-<p>WILLIAMS:  The initial executive was Frank Reeves for whom the DC Municipal Building is named.  Frank, a lawyer, very active in the Democratic Party had been an aide to Thurgood Marshall and had taught Law at Howard University, was hired by Kenneth Clark who provide some assistance to him in a project that Clark was running.  It was Kenneth Clark who conceived the Joint Center.  Kenneth Clark, assisted by Frank and Ellen Lafara ...you remember Ellen Lafara?</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>WILLIAMS:  Others involved in the founding were Louis Martin, who I told you about.</p>
-<p>
-<hi rend="italics">Q:  Is Louis Martin still alive?</hi>
-</p>
-<p>WILLIAMS:  Louis Martin is still alive.  The Joint Center is doing a biography on him.  He has had a stroke, lives in California, and I talk to him from time to time.  Vernon Jordan was in on a little piece of it, Percy Sutton, Merv Donnally and maybe one or two others.  But the key clearly was Kenneth Clark.  He put together the proposal and sold it to the Ford Foundation.  Since Frank was working with him, they saw Frank as the first executive.  He knew the civil rights leaders; he knew the politicians; he was a lawyer, etc.  I remember...I was in Chicago and still kept in touch with Ken Clark and Idris Rossell and Ellen Lafara and they were telling me how things were...some of the brothers would call and say, “Man, you should be back here.” A guy named Sam, who was in Personnel on the Civil Service side, would talk to me and give me all the scuttlebutt that was going on.</p>
-<p>
-<hi rend="italics">Q:  What was the scuttlebutt in the Nixon era because this is when we are talking about now?</hi>
-</p>
-<p>WILLIAMS:  Oh, how bad things were getting, that people were getting the shaft and what to do, and frustrations like that.  They wanted to talk to somebody who was sympathetic.  One of the problems you have if you are in the Foreign Service generally, and especially if you are black, is that there are few people you can talk to who understand what the hell you are talking about.  It is a new world, and most people don't understand.  It is almost as bad as being in the CIA.  As a matter of fact it would be easier to have a conversation with somebody in the CIA than maybe somebody in the Labor Department.  It is a different world.  So to talk to someone who has been there and understands their plight...yeah, I got all kinds of calls.</p>
-<p>
-<hi rend="italics">Q:  This raises a question.  I have talked to at least one black officer who gives William Rogers significant credit on the civil rights, affirmative action side.</hi>
-</p>
-<p>WILLIAMS:  I didn't have that much contact after that.  I didn't have much of an impression of Rogers, period.</p>
-<p>
-<hi rend="italics">Q:  Well, I was surprised.  This is not to say that he was good, bad or indifferent, just that he didn't strike me.</hi>
-</p>
-<p>WILLIAMS:  He didn't push the envelope very far.</p>
-<p>
-<pb facs="0021" n="Page0021"/>
-<hi rend="italics">Q:  Anyway, 1972, how many personnel did the Joint Center have at that time?</hi>
-</p>
-<p>WILLIAMS:  When I took over, Frank was in failing health and he didn't...I don't know if he wasn't as happy as he thought he would be or the Board was as happy as it thought it would be, or the Foundation was as happy as it thought it would be under Frank's leadership.  Anyway, there was a tripartite understanding that Frank would step down in large measure because he had had a heart attack.  I don't know who else they looked at, but I got the bum's rush, I guess, from Kenneth Clark who knew me and Louis Martin who knew me and Ellen Lafara who knew me.  Ellen Lafara was on the Board at that time.  I was very comfortable where I was.  I had been promoted to Vice President of the University of Chicago, the first black corporate officer at the University.  I had a multimillion dollar budget in public affairs.</p>
-<p>
-<hi rend="italics">Q:  That was your job, public affairs?</hi>
-</p>
-<p>WILLIAMS:  Yes.  I ran television programs.  I wrote a weekly column for the Chicago Sun Times.  There were people coming to me urging me to run for public office.  I had a very high profile.  I was having a very good time.  So I said that I wasn't sure that I wanted to go to the Joint Center.  But I thought about it.  Even when I first read the proposals to create the Joint Center, I said to myself, “This is a fascinating concept.  I am a journalist, I write a little bit, I know how to shape opinion and promote things, know a little bit about international affairs, a little bit about American politics, I could have a ball with this.” But when Frank was appointed, I understood it.  Frank knew all the big shots.  I didn't know many big shots.  I didn't know the civil rights leaders, the politicians (except the ones in Chicago), so I thought it was a very good appointment.  I hosted some programs for Ken and others in Chicago and gave receptions whenever they came to town.  I remember going over to the Gary Convention and Frank Reeves was there, very much a part of that.</p>
-<p>But I didn't think very much about his going.  He was a personal friend. When they came to me and said they would like me to consider it...the first I heard of it, I had dinner with the Ford Foundation officer who was supporting some work I was doing in Chicago, who told me that he wanted me to meet with some people.  So I said, “Fine.” I didn't know what it was about.  That sort of opened the door for people to talk to me.  When I came in 1970, the Joint Center had a staff of about eight people and a budget of about half a million dollars.</p>
-<p>
-<hi rend="italics">Q:  And now?</hi>
-</p>
-<p>WILLIAMS:  And now there is a staff of 65 and the budget this year is seven million and I have another ten million in the bank.</p>
-<p>
-<pb facs="0022" n="Page0022"/>
-<hi rend="italics">Q:  One thing I am not clear on is your MacArthur grant.  Was it to you personally or to the Center.</hi>
-</p>
-<p>WILLIAMS:  MacArthur grants are all personal, they don't go to institutions.</p>
-<p>
-<hi rend="italics">Q:  I thought you had used that in some way to support the international affairs activity.</hi>
-</p>
-<p>WILLIAMS:  No, it was separate.  I wish we could have transposed things.  I got a MacArthur grant, which over five years amounted to a little over $300,000.  The Joint Center got a MacArthur grant for a million dollars over five years.  I would trade any day.  That was to start our international affairs program.  But there was a difference in the timing and they were not related.</p>
-<p>
-<hi rend="italics">Q:  Well, you just had a very successful program, it seems to me, in supporting the elections in South Africa.</hi>
-</p>
-<p>WILLIAMS:  Yes.</p>
-<p>
-<hi rend="italics">Q:  And you have a Japan project which is ongoing.</hi>
-</p>
-<p>WILLIAMS:  It is ongoing but not doing well.  The goal of the program is to improve relations between African-Americans and the people of Japan.  I have been unsuccessful, and it is a big disappointment to me.  I have been unsuccessful in getting any American foundations or corporations to want to support that program.  Over the past four years or so, most of the support has come from Japanese corporations and foundations.  I think the program is still vital, but clearly most of the interest in this country relates to relations between African-Americans and Hispanic-Americans; African-Americans and Jewish-Americans; African-Americans and Asian-Americans; and not people of another country.</p>
-<p>But we do have, within our international program, a solid project that looks at the impacts of ethnic relations on international affairs.  This gets to your Bosnias, Somalias, the Balkans, etc.  We have co-sponsored a program with the National Defense University.  We are putting on a program now with CSIS on a study looking at that subject.</p>
-<p>
-<hi rend="italics">Q:  I am on the Advisory Board of CSIS.  What is the project?</hi>
-</p>
-<p>WILLIAMS:  It is a project looking at the impact of ethnic relationships on countries.</p>
-<pb facs="0023" n="Page0023"/>
-<p>
-<hi rend="italics">Q:  Who is in charge of it over there?</hi>
-</p>
-<p>WILLIAMS:  I think somebody by the name of Snyder.  It is our military officer.  I can find out for you.</p>
-<p>
-<hi rend="italics">Q:  No, that is okay.  But let me take that point.  I am pleased, honored and delighted to be on the Advisory Board for International Affairs of the Joint Center.  I do hope that you can become more active.  I understand that Ken Longmyer has decided that he will do something else.</hi>
-</p>
-<p>WILLIAMS:  We hope that by July 1 we will have another director on board.</p>
-<p>
-<hi rend="italics">Q:  Well good.  If I can give you any insights in terms of people I know, I will be happy to do that.</hi>
-</p>
-<p>WILLIAMS:  Well, I think the recruitment has ended, although it hasn't been announced yet.  I think the person is Adonis Hoffmann.</p>
-<p>
-<hi rend="italics">Q:  I know Adonis.  He was working with Grey and Company.  He is a good person and should be very helpful.</hi>
-</p>
-<p>I think we can end it here.  I am very pleased to have had the opportunity to talk with you.  Fox said that he had three things that he sought to do which were the individual recruitment of people, pursuing the Foreign Affairs Scholars Program, and it is not that he takes credit for, but he does mention the FSRJO program and feeling in 1965 that it was time to move on and to try to make a name for himself as a Foreign Service officer.  As you look at your time and your experience in the Department...I have to tell you that I am prejudiced, I think what you did with regard to the FSRJO program is ultimately something that will be very important historically.  It is already important in terms of the actual functioning of the Department, because whatever else you say, some of the individuals who came out of that program are proving themselves to be among the most efficient and able in the Foreign Service, without regard to gender, color or anything else.  But, do you have your own sort of reckoning on what happened to you and what happened to the Department in the seven years you were there?</p>
-<p>WILLIAMS:  I did three different things in seven years, from Protocol, to NEA to the administrative side.  But since this is primarily about blacks, the one area that I worried especially about that subject was in the administrative area.  What I tried to do was to create systems and processes by which things could get done.</p>
-<p>
-<pb facs="0024" n="Page0024"/>
-<hi rend="italics">Q:  Without outside intervention.</hi>
-</p>
-<p>WILLIAMS:  Without my always being there pushing, pushing, pushing, but integrated within the system.  The system will take care of its own once the system decides to do something.  That is in the nature of bureaucracy.  If you ever get the bureaucracy going, it is sort of like a ball rolling down a hill, it has a momentum of its own until somebody diverts it.</p>
-<p>
-<hi rend="italics">Q:  Therefore, if you become somebody that the system identifies as one of its own, then you have a friend.</hi>
-</p>
-<p>WILLIAMS:  You have a friend, but also in terms of a program like FSRJO, or like the Foreign Affairs Scholars program.  So that was something, to get it systematic.</p>
-<p>The other thing that I strived to do was to help people understand how to leverage the system, how to make it work, how to use people, how to make friends and relationships.  In other words, how to play the political game of the State Department, and it is a political game.  You have to know how to play it.</p>
-<p>I guess the other thing I wanted to do, and something I am not sure I succeeded at and maybe they are not worth bragging about, but I really tried to get the Foreign Service, and here I mean the whites who were in charge, to understand that I did not think their goals in terms of recruiting kids to pass the Foreign Service Officer Exam would be significantly realized by concentrating exclusively on predominantly black colleges.  I could understand the public relations of it.  It is sort of like Willie Loman robbing the bank, or whatever.  That is where the money is, that is where you find most of the students.  But I said, in addition to that, and you shouldn't lock them out, you have to do what the CIA does.  You have to establish some key contacts on major college campuses where the white kids are being recruited and having them look out for the promising talent coming along.  And I am not sure I succeeded in doing that.  There is an element of elitism to it.  It is very pragmatic, and I am certain I am right.  Most of the students, the overwhelming majority of students, at that time...now, more than two thirds of all black students are on predominantly white campuses.</p>
-<p>
-<hi rend="italics">Q:  Well, that is exactly the point.  The difficulty with that is that even on white campuses there are very few blacks.</hi>
-</p>
-<p>WILLIAMS:  But there are some.</p>
-<p>
-<pb facs="0025" n="Page0025"/>
-<hi rend="italics">Q:  And that is the point.  I can talk to kids about the Foreign Service, this, that and the other, but in a sense you were asking for things before there was much chance necessarily that it would happen.  But, you have to start somewhere and you started.</hi>
-</p>
-<p>I have just handed you a clipping from the Washington Post of June 1 which speaks to the black class action suit at the State Department.  I know that you followed this so that you are aware of it.</p>
-<p>WILLIAMS:  Well, to some extent because we have had Foreign Service officers in here a lot, some of whom were a party to the suit.</p>
-<p>
-<hi rend="italics">Q:  Primarily the blacks are asking for some of the same things as the women successfully obtained.  Namely, their assignments, better promotions and in some cases awards and the like.  But it is interesting that this article suggests that notwithstanding that the Clinton Administration has been in power for well over a year, that the State Department under Warren Christopher has not made notable progress in coming to grips with this case.  I don't mean to suggest that it is any easier for the Democratic Clinton Administration to cope with this then it was for Republican Bush or Reagan Administrations, but it addresses almost directly some of the issues we have been talking about.  This is an institution that will defend itself from outside intruders or outsiders.</hi>
-</p>
-<p>WILLIAMS:  Most institutions do.</p>
-<p>
-<hi rend="italics">Q:  Most institutions do and will.</hi>
-</p>
-<p>WILLIAMS:  Even as they make some accommodation when they have to and that is the key, when they have to.</p>
-<p>
-<hi rend="italics">Q:  What this article seems to suggest is that the judge is going to make them have to.</hi>
-</p>
-<p>WILLIAMS:  Well, with a mediator.  I assume they have agreed to enter into a mediation situation there.  Well, they lost the case, isn't this mediation in lieu of specific judgment?</p>
-<p>
-<hi rend="italics">Q:  Well, it hasn't gone to trial.</hi>
-</p>
-<p>WILLIAMS:  So this is to see what they can work out.</p>
-<p>
-<pb facs="0026" n="Page0026"/>
-<hi rend="italics">Q:  Yes, that is right.  Because I think the Department thinks, quite rightly, that if it does go to trial it could be a much more complicated outcome.</hi>
-</p>
-<p>Well, I want to say thank you.</p>
-<p>WILLIAMS:  Well, thank you.  I am flattered.</p>
-<p>
-<hi rend="italics">Q:  Well, you have no reason to be flattered.  For the State Department, when the roll of honor is called some day, will have a greater understanding of what your contribution was and the contribution of people like you.  I am pleased to have been part of the process of recording your contribution.</hi>
-</p>
-<p>WILLIAMS:  Okay.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>EDDIE WILLIAMS</p>
+                <p>Interviewed by: Ronald Palmer </p>
+                <p>Initial interview date: June 1, 1994</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is a recording of an interview between Ronald Palmer
+                        and Eddie Williams on June 1, 1994.</hi>
+                </p>
+                <p>I volunteered to do this interview because I wanted to see that Eddie Williams'
+                    historic role in the development and implementation of affirmative action to
+                    achieve equal employment opportunity at the Department of State would be
+                    recorded. These actions had been accomplished through the free exchange of ideas
+                    in memoranda. However, old files have been thrown away for lack of space. I
+                    rescued what I could.</p>
+                <p>I would see this stuff being thrown away and I would say, “Give me that,” against
+                    the sure knowledge that there would be only one or two people in a thousand who
+                    knew why a document was important. I hoped to write on blacks at State some day.
+                    When I did try to write something, I discovered that stuff as recent as in the
+                    Reagan Administration had been thrown away.</p>
+                <p>By then, I knew that there was an Oral History Project going on and I became
+                    interested in it. Stuart Kennedy directs the project and he interviewed me. As
+                    you know, you can say things on tape that you never had a chance to say to
+                    anybody. I ended up with a 100 page document which, if I don't get around to
+                    doing anything more myself, is there. I haven't told everything there is to
+                    tell, but it is there.</p>
+                <p>As I was writing on black professional employment at State, I discovered that
+                    Ambassador Richard Fox had done an Oral History interview as had former Under
+                    Secretary for Management Bill Crockett. I said, where is Eddie Williams in this,
+                    and the answer was they hadn't really thought about you. I guess the idea was
+                    that only people who had been at the highest levels at one time had been
+                    interviewed. I said that was wrong because for some of these issues there were
+                    other people who had played key roles at lower levels. So I have been trying to
+                    provide to the Oral History Project the names of individuals like yourself, like
+                    Idris Rossell and others because I want to make certain that researchers get the
+                    full historical picture.</p>
+                <p>WILLIAMS: What is the Oral History Project?</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: It is sponsored by the Association for Diplomatic Studies
+                        and by AFSA and the materials are located at the Lauinger Library at
+                        Georgetown. There are now over 600 of these oral interviews. Another thing
+                        is that only some portion of the black ambassadors, for example, have been
+                        interviewed. So what I would really like to see done is a “Blacks in the
+                        Foreign Service” project. One can think of any number of specific projects
+                        like this, including women, and perhaps projects on service in different
+                        parts of the world.</hi>
+                </p>
+                <p>WILLIAMS: They interviewed Dick Fox?</p>
+                <p>
+                    <hi rend="italics">Q: He was an ambassador.</hi>
+                </p>
+                <p>WILLIAMS: And Deputy Director General.</p>
+                <p>
+                    <hi rend="italics">Q: I think that as much as anything the interview concerns
+                        his entire career.</hi>
+                </p>
+                <p>WILLIAMS: But that had nothing to do with the time that he was directly involved
+                    in EEO matters.</p>
+                <p>
+                    <hi rend="italics">Q: Precisely. But actually his interview starts with the
+                        inevitable question of “What is your background?” “ Where did you come
+                        from?” and “How did you get interested in the State Department?”</hi>
+                </p>
+                <p>WILLIAMS: How does what we are doing today relate to the Oral History
+                    Project?</p>
+                <p>
+                    <hi rend="italics">Q: Well, right now this is for me. But we will get a
+                        transcript and if you don't have any trouble with it, then we can deposit it
+                        if you wish. This interview relates to of my project which is “Blacks in the
+                        Foreign Service,” for which your contribution is important. My project
+                        starts with the 19th century. It picks up those 19th century blacks who were
+                        in the old “spoils system” of political patronage before the merit system
+                        was introduced in the consular service and the diplomatic service. It
+                        touches at the time of Clifton Wharton, in 1925 when he took the examination
+                        and became the first black in the Foreign Service after the passage of the
+                        Rogers Act; it looks at the post-war period situation in 1949-50, and comes
+                        up to the Wriston period in the middle to late 1950s. I also study the
+                        modern period from the beginning of the Kennedy Administration. I have
+                        looked at Dick Fox's first four years until he leaves the EEO job in 1965
+                        and you take it over.</hi>
+                </p>
+                <p>WILLIAMS: I came on the job, but was in the State Department long before
+                    then.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>
+                    <hi rend="italics">Q: That's what I recall but I didn't know your date
+                        precisely. The point I am making here is that what you did has been very
+                        instrumental in terms of black presence in the State Department. By the time
+                        the program of affirmative action entry was stopped in the Reagan
+                        Administration, something like well over 500 people had come in through the
+                        FSRJO program. And of that number you...</hi>
+                </p>
+                <p>WILLIAMS: Do you have my FSRJO memo?</p>
+                <p>
+                    <hi rend="italics">Q: I have part of it and I am going to show it to you in just
+                        a moment. But of that number, particularly people who came in really after
+                        you left...it seems to me that you set the stage, gave an intellectual
+                        construct and set things in motion. Then after you, of course, came Pollard
+                        and others. The FSRJO program was seized upon and energized in the Carter
+                        Administration and they did as much as they could with it. Then, of course,
+                        when Reagan came in it was stopped...But let the record show that some of
+                        those early people whom you helped bring into the Foreign Service through
+                        affirmative action—perhaps five or six persons, males and females, are
+                        already ambassadors.</hi>
+                </p>
+                <p>WILLIAMS: Shall we begin?</p>
+                <p>
+                    <hi rend="italics">Q: To start, when I said that you had taken over this program
+                        in 1965, you responded that you had been in the Department for some while.
+                        Could you elaborate on that?</hi>
+                </p>
+                <p>WILLIAMS: In 1958 I came to Washington as a Fellow of the American Political
+                    Science Association. I had been a newspaper reporter in Atlanta and was one of
+                    five journalists selected nationwide to become an intern on Capitol Hill. On the
+                    House side I interned with then Congressman James Roosevelt from California, and
+                    on the Senate side I interned with Senator Hubert H. Humphrey. At the end of my
+                    internship in 1959, Senator Humphrey asked me if I would like to stay and work
+                    for him. I said, “Yes,” very enthusiastically. I worked for the Senate Foreign
+                    Relations Committee, Arms Control Subcommittee, which Humphrey chaired. I was
+                    there for a little more than a year at which time I left and went to work in the
+                    1960 Presidential election for the House Democratic Study Group. In 1961, I
+                    resumed my graduate studies at Howard after the election in 1960.</p>
+                <p>
+                    <hi rend="italics">Q: What degree?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>WILLIAMS: In political science. I was studying under Bob Martin and Bernard Fall.
+                    I was studying Southeast Asia Studies. In November/December, after the election,
+                    I was invited by Sargent Shriver to come to the Democratic Transition Office at
+                    Connecticut and K. There is a whole story of what happened, but out of that I
+                    was referred to a gentleman whose name was Ambassador Angier Biddle Duke.</p>
+                <p>
+                    <hi rend="italics">Q: What job did he have then?</hi>
+                </p>
+                <p>WILLIAMS: Duke was the Chief of Protocol designate. He had me meet with a
+                    gentleman whose name was Pedro San Juan. Ambassador Duke put me into the
+                    clearance process and recommended me to become a protocol officer to be assigned
+                    to the newly established New Nations Division in the Department of State in the
+                    Office of Protocol. I was cleared for entry in March, 1961 and went to work in
+                    the New Nations Division. I worked for Pedro San Juan for more than a year. Then
+                    I was made a regular Visits Officer handling dignitaries invited by the
+                    President and the Secretary of State.</p>
+                <p>
+                    <hi rend="italics">Q: This was 1962?</hi>
+                </p>
+                <p>WILLIAMS: This is getting into 1962.</p>
+                <p>
+                    <hi rend="italics">Q: What visits did you handle?</hi>
+                </p>
+                <p>WILLIAMS: Prime Minister of India, Prime Minister of Italy, Afghanistan, the
+                    Sudan, Tito...</p>
+                <p>
+                    <hi rend="italics">Q: Did this mean that you had a chance to go to the White
+                        House as well?</hi>
+                </p>
+                <p>WILLIAMS: Oh, yes. I traveled all over with them. I went to Yugoslavia, I went to
+                    Beirut, Lebanon to take the King and Queen of Afghanistan. I was the Visits
+                    Officer for Tafawa Balewa, the Prime Minister of Nigeria, and many, many
+                    others.</p>
+                <p>I was the first African-American ever to be an officer in the Office of the Chief
+                    of Protocol. One of the most significant developments was when Duke announced
+                    that he was bringing me in as a junior officer. The then Deputy Chief of
+                    Protocol, one Clement Conger, announced to the office that there was no role
+                    that a Negro could play in the Office of Protocol.</p>
+                <p>
+                    <hi rend="italics">Q: Clement Conger?</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>WILLIAMS: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: For heavens sake.</hi>
+                </p>
+                <p>WILLIAMS: And I have seen him since that time in the White House and he always
+                    says, “Well, I have such fond memories of you.”</p>
+                <p>Anyway, just to give it to you very briefly, I did that and was in that office
+                    when I welcomed Dick Fox to the State Department. He had come in and Pedro, who
+                    was very active in civil rights and very close to Bobby Kennedy and Carl Rowan,
+                    in the State Department. Dick was coming out of Minneapolis where Carl had been
+                    and was and has continued to be a very close friend of Carl's. I remember being
+                    there to welcome Dick aboard when he came to work for Bill Crockett. My last
+                    official job in the Office of the Chief of Protocol was to serve as an usher at
+                    Jack Kennedy's funeral. I was responsible for the Diplomatic Corps and for
+                    foreigners invited over.</p>
+                <p>
+                    <hi rend="italics">Q: Just a quick footnote here. In light of the fact that you
+                        have gone on to do so many wonderful things at the national level, it would
+                        seem to me that the protocol experience in early days must have been
+                        extremely useful to you.</hi>
+                </p>
+                <p>WILLIAMS: Oh, yes. It gave me a lot of confidence in myself in being around big
+                    shots, if nothing else.</p>
+                <p>After that I really wanted to do something else. I always had an interest in
+                    foreign affairs; I had studied it.</p>
+                <p>
+                    <hi rend="italics">Q: What did you study?</hi>
+                </p>
+                <p>WILLIAMS: International affairs.</p>
+                <p>
+                    <hi rend="italics">Q: Where?</hi>
+                </p>
+                <p>WILLIAMS: At Howard.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, Howard all the way.</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>WILLIAMS: No, my undergraduate work was in journalism at the University of
+                    Illinois. I will give you a r�sum�. At Atlanta University when I was working as
+                    a newspaper reporter, I started studying for a Masters degree in political
+                    science, looking primarily at domestic political theory. When I came to
+                    Washington on my fellowship, I resumed part time study at Howard.</p>
+                <p>
+                    <hi rend="italics">Q: Okay. Where were you born?</hi>
+                </p>
+                <p>WILLIAMS: I am from Memphis, Tennessee.</p>
+                <p>
+                    <hi rend="italics">Q: You were born when?</hi>
+                </p>
+                <p>WILLIAMS: I was born in 1932.</p>
+                <p>
+                    <hi rend="italics">Q: And, who were your parents?</hi>
+                </p>
+                <p>WILLIAMS: Ed and Georgia Lee Williams.</p>
+                <p>
+                    <hi rend="italics">Q: Tell me about them, are they still living?</hi>
+                </p>
+                <p>WILLIAMS: Oh, no. My father died when I was about four years old and my mother
+                    died in 1966.</p>
+                <p>
+                    <hi rend="italics">Q: She got to see you at least part of the way along your
+                        path.</hi>
+                </p>
+                <p>WILLIAMS: Oh, yes. I was working in the State Department.</p>
+                <p>
+                    <hi rend="italics">Q: Do you have brothers or sisters?</hi>
+                </p>
+                <p>WILLIAMS: No.</p>
+                <p>
+                    <hi rend="italics">Q: Okay, fine. Go ahead.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>WILLIAMS: I had always wanted to get on the political side of international
+                    affairs. Once you have done protocol you can always have lots of fun and live
+                    well, but you do the same thing, more or less, over and over and over again. So
+                    I put feelers out that I wanted to do some other things. I received an
+                    invitation from the Assistant Secretary for Eastern and South Asian Affairs to
+                    consider being his staff assistant. This was Phillips Talbot who later became
+                    Ambassador to Greece and even later President of the Asian Society and who
+                    continues to be a friend and is on our international affairs advisory committee.
+                    I went to work for Phil Talbot and worked for him for 18 months which seemed
+                    like 18 years. The work of a staff assistant is a bitch, to say the least. But
+                    at the same time one Don McHenry was working as a special assistant in IO and
+                    one Dick Moose was working as a special assistant upstairs and we had our little
+                    information association of special and staff assistants. So I got a lot of
+                    insight into working at the highest levels and being exposed to political
+                    politics at the highest level of the government.</p>
+                <p>
+                    <hi rend="italics">Q: When you said Phil Talbot, I hadn't thought about him for
+                        a long time, but it seems to me that Phil Talbot and a few others like him
+                        are people who are relatively unheralded. They are people who did not do
+                        just good things, but the right things at a time when it didn't necessarily
+                        pay all that much. They did it because they thought it was something that
+                        needed to get done.</hi>
+                </p>
+                <p>WILLIAMS: I think he is a great man. He had been a journalist, as you know, and
+                    knew a lot about Asia having spent a lot of his time in the Middle East and
+                    Asia. I thought he was an excellent Assistant Secretary. Later on he became
+                    Ambassador to Greece at a time in which life was very complicated.</p>
+                <p>
+                    <hi rend="italics">Q: Would he have been in any way a mentor to you?</hi>
+                </p>
+                <p>WILLIAMS: He has been a friend. I wouldn't say a mentor. We have not had
+                    continuous contact, but the relationship has been a good one. I have seen him
+                    and his wife in New York from time to time. He has been encouraging. A mentor is
+                    someone with whom one has everyday contact. Talbot was encouraging and is
+                    someone who I have a great respect for. I could talk with him and get insights
+                    into things. I could mention his name, he was excellent for a reference in
+                    things that I needed.</p>
+                <p>
+                    <hi rend="italics">Q: But I want to underline what you just said, it is very
+                        important, “someone who is encouraging.”</hi>
+                </p>
+                <p>WILLIAMS: So was Angie Duke. He was equally encouraging and I see him from time
+                    to time.</p>
+                <p>
+                    <pb facs="0008" n="Page0008"/>
+                    <hi rend="italics">Q: I was trying to find a way to describe my own relationship
+                        with Lucius Battle. It was the same kind of relationship. Not one where I
+                        was constantly picking up the telephone, but when you saw that person you
+                        always get a sense that the interest is there. You were actually out on your
+                        own doing this, but you knew there was somewhere a kind of beneficent
+                        smile.</hi>
+                </p>
+                <p>WILLIAMS: I went to NEA and was staff assistant for a year and a half at which
+                    time I received what many in the Department considered to be an offer I could
+                    not refuse. I was invited to replace Dick Fox in 1965 as Director of EEO and
+                    Special Assistant to the Under Secretary. So I moved up and replaced Dick.</p>
+                <p>
+                    <hi rend="italics">Q: Was Crockett the Under Secretary?</hi>
+                </p>
+                <p>WILLIAMS: Yes. Crockett later retired and I served the last year or so under Idar
+                    Rimestad.</p>
+                <p>
+                    <hi rend="italics">Q: Was Jimmy Hoofnagle in that group?</hi>
+                </p>
+                <p>WILLIAMS: Hoofnagle was in the DG's Office.</p>
+                <p>
+                    <hi rend="italics">Q: Who was the Director General then?</hi>
+                </p>
+                <p>WILLIAMS: Ambassador Steeves.</p>
+                <p>
+                    <hi rend="italics">Q: I am pointing to my briefing book here because you will
+                        see that there is a memorandum from one Eddie M. Williams to Idar Rimestad
+                        in May, 1967. Is that something that you remember?</hi>
+                </p>
+                <p>WILLIAMS: That is fascinating. There were some others that were much more to the
+                    point you were talking about than to Rimestad. Rimestad had to be sort of
+                    convinced. He inherited a very aggressive affirmative action, equal opportunity
+                    program that Bill Crockett had put together. Bill Crockett is really the man who
+                    made it work. Most of all the things that I got done came on Bill Crockett's
+                    watch. With Rimestad we were trying to maintain and refine. But most of the
+                    advances were made by Crockett. Crockett approved the FSRJO. It was Crockett who
+                    gave me 15 positions to put in my pocket and to negotiate directly with an
+                    Assistant Secretary. If he was willing to pick up an African-American, a
+                    professional, I would give him a slot. That was Crockett. It was Crockett who
+                    took me in to see Rusk, and I have a lot of pictures at home of me and Rusk
+                    dealing with crises and what not, some of which I must admit, which I said I had
+                    never said before, I had generated. It was creating a pressure on the outside to
+                    make them listen to you on the inside.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>
+                    <hi rend="italics">Q: What kinds of crises?</hi>
+                </p>
+                <p>WILLIAMS: Well, Carl Rowan used to write Zaps every now and then.</p>
+                <p>
+                    <hi rend="italics">Q: Who was the guy with the “Afro-American?” Chuck Stone. He
+                        was always throwing bricks through windows.</hi>
+                </p>
+                <p>WILLIAMS: And every time they would Zap, the Secretary would want to know. “Bill
+                    Crockett, what is all this about? The President is giving me a fit about this?”
+                    Bill Crockett would say, “Mr. Secretary, let me go talk with the EEO Officer.”
+                    He would bring me and I would say, “Well, nobody is talking about it but let me
+                    tell you the problem and how we can solve it.” It was out of that that some very
+                    practical decisions were made.</p>
+                <p>
+                    <hi rend="italics">Q: Well, just to stop a moment with Rusk. Did you find him
+                        receptive?</hi>
+                </p>
+                <p>WILLIAMS: Rusk was very receptive when you got his attention. But he was a
+                    scholar and somewhat remote from mundane things. He just assumed people would do
+                    the right thing and didn't get involved.</p>
+                <p>
+                    <hi rend="italics">Q: So when you took practical things to him...?</hi>
+                </p>
+                <p>WILLIAMS: Well, I didn't take very many practical things to the Secretary, only
+                    when there was a crisis or we had the Secretary as a speaker or some activity. I
+                    took my things to Crockett and Crockett either took them to the Secretary or to
+                    somebody in the Secretary's suite of offices. One of the things you learn is to
+                    develop friends in high places, Under Secretaries and other staff who can get
+                    you intelligence or can help your agenda along. I must say I developed quite a
+                    few of those. Some in Crockett's office. Crockett had a very interesting close
+                    staff.</p>
+                <p>
+                    <hi rend="italics">Q: You spoke before of a team.</hi>
+                </p>
+                <p>WILLIAMS: Well, it was his whole team of administrators, people around him.</p>
+                <p>
+                    <hi rend="italics">Q: Who were they?</hi>
+                </p>
+                <p>WILLIAMS: Oh, I can't sit here now, Ron, and tell you who...</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>
+                    <hi rend="italics">Q: Jules Bassin?</hi>
+                </p>
+                <p>WILLIAMS: Jules was around in the Crockett era. I think he moved up under
+                    Rimestad. But there was another guy whose name I can not think of now...</p>
+                <p>
+                    <hi rend="italics">Q: Herman Pollack?</hi>
+                </p>
+                <p>WILLIAMS: Herman was there when Dick came. Herman was head of Personnel when Dick
+                    came. And then he left that and became the first head of the Office of Science
+                    and Technology. Am I recalling correctly?</p>
+                <p>
+                    <hi rend="italics">Q: Absolutely, because I ran into him in later years. He was
+                        very sympathetic to the issue of...</hi>
+                </p>
+                <p>WILLIAMS: Oh, he was sympathetic. Dick actually kind of worked for him when he
+                    first came in, I think, or worked very closely with him. But Dick and I, and I
+                    think we would agree on this, felt that Bill Crockett was the key. Now Bill
+                    Crockett is someone that I had, until recent years, been in touch with. He used
+                    to call me when he would come to Washington. A couple of times when I was out in
+                    California, I would go by to see him. We used to drop each other notes. We sort
+                    of lost track. He moved to Arizona. I think Burla's, his wife, health was not
+                    good. But anyway, he was the key. He gave me both the clout, the cover and the
+                    ...</p>
+                <p>
+                    <hi rend="italics">Q: When you say he gave you 15 positions, did that mean that
+                        you could go into somebody's office and say, “If you could give...?”</hi>
+                </p>
+                <p>WILLIAMS: I wasn't begging, I was negotiating. I told him that you can't just
+                    persuade people to do something, you have to create a situation where it affects
+                    their vested interests to want to do something. Don't tell them to do it just
+                    out of the goodness of their heart, because it is right, make it meaningful to
+                    them. Well, how do we do that? I said, “In the first place we ought to start
+                    rating people in their assessment on the basis of how they treat Affirmative
+                    Action.”</p>
+                <p>
+                    <hi rend="italics">Q: You have been saying that for 30 years and it still hasn't
+                        happened, as you know.</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>WILLIAMS: Then we wanted to create all these little equal opportunity offices in
+                    all the bureaus. They were supposed to relate to me. I thought much of it was a
+                    waste of time because they were trying to figure out ways to finesse things all
+                    the time. So that was when I went to Crockett and said, “We got to find a more
+                    systematic way to get people in because we will be spending the rest of our
+                    lives getting in one or two people and losing three or four. And yet, at the top
+                    we say we are all committed to this, but nothing much is really happening.”
+                    Well, we brought in Kenneth Clark to do a study of the FSO examination.</p>
+                <p>
+                    <hi rend="italics">Q: What year was that?</hi>
+                </p>
+                <p>WILLIAMS: I inherited it in 1965.</p>
+                <p>
+                    <hi rend="italics">Q: I should ask when he completed it?</hi>
+                </p>
+                <p>WILLIAMS: Around 1966. That didn't make a difference. He raised some serious
+                    questions about the examination.</p>
+                <p>
+                    <hi rend="italics">Q: He said that there was no correlation between
+                        success...</hi>
+                </p>
+                <p>WILLIAMS: ...on the exam and success in the Service.</p>
+                <p>
+                    <hi rend="italics">Q: But he did say something about the fact that there
+                        appeared to be a correlation between passing the oral examination and then
+                        success. Are those the right words?</hi>
+                </p>
+                <p>WILLIAMS: Yes, that the oral meant a lot. I am not remembering it that clearly,
+                    but I do know that...Incidentally, the other thing that I inherited from Dick
+                    was this Foreign Affairs Scholars Program which is fascinating. It started about
+                    1964. It was a four year program funded by the Ford Foundation. One other person
+                    that you must talk to on this is Vincent Brown. He is now a retired Professor of
+                    Political Science from Howard. He ran the program. That has a life all its own
+                    in terms of what we did to help many young people, including Margaret Simms. I
+                    have a list of those people.</p>
+                <p>
+                    <hi rend="italics">Q: I would love to have it.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>WILLIAMS: We once started here, Ellen Lafara and I and Terry Jennings came over
+                    to intern, and one of the things we tried to do was to have a Foreign Affairs
+                    Scholars alumni reunion. We held a reception dinner at my house. We drew people
+                    from New York, from Louisiana, Atlanta, a couple of judges and a conductor from
+                    Baltimore, the Baltimore Symphony. It was fascinating. Not many of them came
+                    into the Foreign Service directly and immediately, and that is why the Ford
+                    Foundation did not continue the program. They said that the cost benefit was not
+                    there. But a number of them ultimately came in and most of them ultimately
+                    succeeded to a considerable extent.</p>
+                <p>George Knox was in that program and he is now senior vice president at Phillips
+                    Morris.</p>
+                <p>
+                    <hi rend="italics">Q: I was looking for the Crockett interview but I don't seem
+                        to have it here. I am sorry, I know you will be happy to see it. But one of
+                        these days I will xerox some of the pages because it is interesting.
+                        Crockett as of the time that was done, which was in the past year or so, was
+                        doing fine. Obviously he is getting older. The person who did the interview
+                        was Tom Stern. I think if you are interested in talking to Tom you could get
+                        a pretty good view of how things are going with Crockett. Crockett is very
+                        bitter at this point. Bitter is too strong. Crockett doesn't feel that he
+                        got either the respect from the Service or the credit that he believes he
+                        deserves in terms of what he tried to do. And, of course, he is right.</hi>
+                </p>
+                <p>WILLIAMS: You heard what I said. Obviously, he was the linchpin. He was more open
+                    to ideas. He had me in the private, private meetings. He didn't exclude me. And
+                    in the process he credentialed me with all of his lieutenants, some of whom were
+                    some of the most vicious operators. They knew that system and could make it
+                    work. But I could go to them, I went to lunch with them. I was never a close
+                    friend, or buddy-buddy, but we had a good professional relationship because they
+                    knew my relationship with Bill and they were going to look for me. So, when they
+                    talk about my rank not being as high as Dick's, when I left I was a FSR-1 which
+                    is about as high as I could go without some kind of appointment. When I came in
+                    in 1961, I was an FSR-7. They took some money and rank from me and wouldn't give
+                    me the grade I deserved when I was coming in. Angie Duke said, “Don't worry,
+                    come in. We will deal with the rest of it later.” Why? Because I was black and
+                    they didn't want to believe that I had worked for the Senate Foreign Relations
+                    Committee. They were saying that I really wasn't qualified for the work and
+                    didn't deserve this grade and wouldn't be competitive with these officers, and
+                    all that bull shit. So Duke said, “Take the grade and come on in, we will
+                    rectify it when you get in.” And I did. So between 1961 and 1967, I went from a
+                    7 to a 1.</p>
+                <p>
+                    <hi rend="italics">Q: You had promotions every year in some cases.</hi>
+                </p>
+                <p>WILLIAMS: Yes.</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: How did you manage that?</hi>
+                </p>
+                <p>WILLIAMS: Well, I guess if you get enough of these it helps.</p>
+                <p>
+                    <hi rend="italics">Q: “Eddie Williams...</hi>
+                </p>
+                <p>WILLIAMS: Remember I am an “R” not an “O,” so I am not subject to time in
+                    grade.</p>
+                <p>
+                    <hi rend="italics">Q: ...In recognition of superior performance and outstanding
+                        devotion to duty in the revitalization and advancement of equal employment
+                        opportunity objectives through inspired leadership, incisive program finding
+                        and evaluation and exemplary achievement in establishing a nationwide system
+                        of publicity and minority recruitment contacts. Idar Rimestad, October,
+                        1968.”</hi>
+                </p>
+                <p>Let me tell you, there are not many people who get these rewards. Let me say
+                    further, without flattering you in any way, but for the record, there are very
+                    few people who deserve this award as much as you.</p>
+                <p>When you look back at this time and speak of vicious operators, I know exactly
+                    what you mean because some considerable part of my career was made in terms of
+                    being an efficient bureaucratic operator. You don't have to be necessarily
+                    vicious, but you have to know your way around—you have to be tough.</p>
+                <p>WILLIAMS: Well, vicious is too strong. I meant just tough.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, tough is the word.</hi>
+                </p>
+                <p>WILLIAMS: They didn't take many prisoners when it came to getting the boss's work
+                    done. When he wanted it done you figured out a way to do it. You walked over
+                    coals to get it done.</p>
+                <p>
+                    <hi rend="italics">Q: I want to take that a step farther and ask you your
+                        feelings about racism in the State Department. My own feelings are that it
+                        is there, I have seen it, but it was never something...</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>WILLIAMS: Let me just wind it up so you have it all. I resigned in 1968 having
+                    accepted a position at the University of Chicago. But I resigned in time to go
+                    and work in the Presidential campaign of Hubert Humphrey as a full time
+                    volunteer. I stayed around from July to November, working for Humphrey. Then in
+                    November I moved my family from Washington to Chicago and became Assistant Vice
+                    President of the University of Chicago.</p>
+                <p>Racism, did I encounter it? Yes, I told you I encountered it the first day I
+                    tried to get into the State Department—it wouldn't give me the money I wanted.
+                    They tried to stop me on security grounds. That didn't do it.</p>
+                <p>
+                    <hi rend="italics">Q: What security grounds?</hi>
+                </p>
+                <p>WILLIAMS: I don't know, you never know what the hell they have. Several people
+                    pinned them to the wall. One was Duke, who was adamant on the inside. The other
+                    was Hubert Humphrey, who although he had been defeated by Kennedy, had a number
+                    of chips and continued to be an ally. The third was Kennedy, himself. When I
+                    came...and this is the honest to God truth...when I was asked to come and meet
+                    with Sarge Shriver and Louis Martin and Harris Wofford, they called me into a
+                    room and said to me, “We understand that you have some background in
+                    international affairs.” I said, “Well, I studied it, worked for the Senate
+                    Foreign Relations Committee, and worked with Humphrey.” They said, “We want to
+                    use you to integrate the State Department.” It was just that brutal. I said,
+                    “Fine. What do you want me to do?” “We want you to work in the Office of
+                    Protocol.” I knew very little about that office. I thought about striped pants
+                    and knowing about books, etc. I said, “I am not sure.” They said, “You will love
+                    it, go meet Ambassador Duke.” That is literally how it happened. It was the most
+                    brutal, political move...they say, “We are going to integrate the State
+                    Department. You have got the academic qualifications, you have on-the-job
+                    experience in international affairs, you have worked for the Senate Foreign
+                    Relations Committee, you have two Senators up there...Fulbright and Hubert
+                    Humphrey...who are willing to say that...and Carl Marcy, so why not?” So I said,
+                    “Fine, I will be willing to do it.” So we started out. Some of the them were
+                    prepared to fight the battles too because I would let them know that I was
+                    having all these problems and people started picking up phones. So, grudgingly
+                    and in an expedited period of time, I got in. Later I became a valuable friend
+                    of the Office of Security, and we traveled a lot and we were in a lot of
+                    diplomatic foxholes together in the US and abroad.</p>
+                <p>So, was racism there? Yes. Did I always see it? No. Sometimes I guess I was so
+                    busy I didn't have time to see them. I saw it a lot when it happened to other
+                    people. It was easier for me to see it happen to others. And I would fight about
+                    it and that was part of my role. I think I was very fortunate in the sense of
+                    being the right person at the right time and making the right connections. The
+                    Talbot connection, the Duke connection, the Fritz Dutton connection, etc. If you
+                    get a lot of cover like that you can do something.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>But down in the bowels, yes, I think there were a lot of people smiling at my
+                    face but willing to stab me in the back, and probably a lot who tried.</p>
+                <p>
+                    <hi rend="italics">Q: That situation really hasn't changed. This is not to say
+                        anything profound about racism, but the people who are actually instigators
+                        or those who are capable of good work change and the less able are left
+                        behind to fester in their bitterness and to practice racism and sexism.</hi>
+                </p>
+                <p>WILLIAMS: Ralph Bunche encountered it, so why wouldn't we. But you have to fight
+                    through it like pain. You fight through it and some of us survive and
+                    unfortunately some do not. I still say that despite the experience of my short
+                    tenure there (7 � years), and despite some of the problems that I may have
+                    encountered, that of all the agencies that I ever thought I would ever go back
+                    to work for, State was the only one. Let's face it, there is an eliteness about
+                    the place. Those of us who made it in there, there is an eliteness about us too.
+                    I mean elite in the very best sense of what you have to offer and what you have
+                    to change. And I like the business that it is about and I like the fact that
+                    there are sharp, smart individuals around. I did agree with the Clark study that
+                    a lot of the people there probably shouldn't have been. There were some who
+                    passed the exam and made it in I would not want to be in a shooting war
+                    with.</p>
+                <p>
+                    <hi rend="italics">Q: Let me just pick up that point. One of the assumptions is
+                        that because it is an elite service, that everybody is of elite caliber, and
+                        that is not true. Some of the people are there because they could pass an
+                        examination. And when you speak of people with whom you would rather not be
+                        in a foxhole, I know exactly what you mean.</hi>
+                </p>
+                <p>WILLIAMS: Well, the bookworms, the nerds. They were smart enough to pass a
+                    written test and to get by, but they were really nobody.</p>
+                <p>
+                    <hi rend="italics">Q: No sense of the real world and live people. But I want to
+                        just pick up something that you said. We come from a similar background. I
+                        was born in 1932, so I am 62. But I played football and basketball and was
+                        from a small town. It wasn't a question of having to fight, but you had to
+                        be tough. The idea was that if you played football, played first team and if
+                        you played basketball, the same thing. You could be as good as you could be,
+                        as the Army says now. There were aspects of the State Department that I
+                        found very attractive. I quite agree with you, I wouldn't trade the years I
+                        spent there for anything. It was a challenge and whenever you have overcome
+                        a challenge you have done something good.</hi>
+                </p>
+                <p>But those who go into this work with the belief that this is the post office or a
+                    university or some place where the obstacles are clearer or the ways to
+                    promotion are evident, often suffer very real disenchantment.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>WILLIAMS: Well, and those who also by virtue of their background or their
+                    personal predilection who don't find it comfortable to interact with whites
+                    would find it very, very difficult. Or, if doing so requires them to put a chip
+                    on their shoulder...I have seen a lot of that called discrimination when people
+                    just weren't communicating effectively. I said to myself, “If I have somebody on
+                    my staff who didn't communicate with me I might have some qualms about working
+                    with them also.” But the race thing was there as well, which made it enormously
+                    complicated for a black officer, pressure of the kind of service that you
+                    perform, particularly when you are overseas. So those three things combined can
+                    really...</p>
+                <p>
+                    <hi rend="italics">Q: But I was going to step farther than that and say that in
+                        the end interpersonal relations, the ability to deal with the bastards and
+                        somehow be nurtured by the really good folk and live with the folks in
+                        between, is a very important characteristic of a successful Foreign Service
+                        officer. You don't have to be black to have a chip on your shoulder, but
+                        having a chip on your shoulder certainly doesn't help anybody, particularly
+                        doesn't help the black.</hi>
+                </p>
+                <p>WILLIAMS: I didn't mean to imply that there was anything uniquely related to
+                    blacks.</p>
+                <p>
+                    <hi rend="italics">Q: No, no, and that is not the case.</hi>
+                </p>
+                <p>WILLIAMS: And sometimes having a chip on your shoulder may have been justified
+                    for all of the crap you have to put up with sometimes.</p>
+                <p>
+                    <hi rend="italics">Q: And sometimes you really have to be a positive strong
+                        person, also knowing to do the opposite thing. Before we leave these
+                        subjects, I do want to ask you about Idris Rossell. Did she work for
+                        you?</hi>
+                </p>
+                <p>WILLIAMS: Yes. She worked for Dick also.</p>
+                <p>
+                    <hi rend="italics">Q: It seems to me that she appears to have done some useful
+                        work.</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>WILLIAMS: She was a fantastic woman at a time before women's rights had taken off
+                    and at a time when civil rights was not 100 percent in vogue in the halls of the
+                    State Department. Idris Rossell was as solid as a rock. She was as dedicated to
+                    the advancement of blacks as any human being, regardless of race, sex or color,
+                    that I have ever known. She was unswerving in her commitment. I will put it this
+                    way, even when I was willing to play politics in order to get where I wanted to
+                    go, Idris would hold my feet to the fire and say that I could not compromise
+                    with the devil. She had been a novitiate in a nunnery and that was her
+                    background. That was her background and her life. She really lived it although
+                    she didn't complete it and stay in. But she lived the life that was almost the
+                    life of a nun.</p>
+                <p>
+                    <hi rend="italics">Q: That is an old fashioned way to speak, but I think it is
+                        important. I never thought of her from this perspective. I knew the fact
+                        that she had been a novitiate. I would say this about Idris, Idris sought to
+                        be a Christian. She sought to do the right thing. I suppose many of us were
+                        raised in the church and somewhere along the way we were instructed in the
+                        way to go but not all of us actually tried to live by that.</hi>
+                </p>
+                <p>To return for just a moment to your Masters study, you mentioned Bernard Fall.
+                    Fall's name is known now only to a very few specialists, but he was one of the
+                    great young men. Do you have any comments on him as a teacher or a person?</p>
+                <p>WILLIAMS: Yes. Frenchman by birth, I think. He was teaching at Howard University
+                    and stood out a little bit like a sore thumb inasmuch as he was not black. He
+                    had obviously earned his spurs, he had published. He had lived his work in the
+                    sense that he knew Southeast Asia, many of the political hands over there. I
+                    think he knew Ho Chi Minh. This was before things really got heated up in terms
+                    of Vietnam. He was a fascinating teacher. I did not like him at first. One, he
+                    spoke with an accent; two, I think he thought he was cute...</p>
+                <p>
+                    <hi rend="italics">Q: He was arrogant as hell. Let's not kid ourselves.</hi>
+                </p>
+                <p>WILLIAMS: Then, I thought he was a bit flip. But remember, I was not the typical
+                    Masters student. I had an undergraduate degree, had spend two years in the Army,
+                    had worked for a year and a half as a newspaper reporter, had worked on Capitol
+                    Hill and thought I was kind of a hotshot dude. Once I got into Southeast
+                    Studies...that was something I was going to do just to take some courses, my
+                    thesis was being written under Bob Martin and American politics.</p>
+                <p>[change of tape side]</p>
+                <p>...this was a very high honor.</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: Yes, did you?</hi>
+                </p>
+                <p>WILLIAMS: No. As a matter of fact I started to. He had given me a paper on SEATO
+                    and he said, “As a matter of fact you can extend this paper and I will accept it
+                    as your Masters thesis.” Bob Martin, of course, I told him that, said, “Oh, no.”
+                    And then I got in to the hassle between the disciplines and political science.
+                    Martin said, “Oh, no, your best bet........” So I stayed on the American
+                    politics side and was writing about the Rules Committee of the House of
+                    Representative when the call came, to bring it full circle, to come down and
+                    meet Sargent Shriver.</p>
+                <p>
+                    <hi rend="italics">Q: You were received by actually, what was called the
+                        sub-cabinet committee. In Harris Wofford's book he talks about this period.
+                        That they met at the White House and they had a strategy for the penetration
+                        of the government in order to advance desegregation of the various bureaus
+                        and departments.</hi>
+                </p>
+                <p>WILLIAMS: Yes, they told me flat out.</p>
+                <p>
+                    <hi rend="italics">Q: Exactly. I wanted to take an opportunity to ask you about
+                        some personalities. You were there when Clifford Wharton, Sr. retired. Did
+                        you have a chance to meet him?</hi>
+                </p>
+                <p>WILLIAMS: I met him and really have recollections of only having met him and
+                    known who he was. I didn't get to know him. It was with some sense of history
+                    that I later came to know his son and felt reasonably close to the son once he
+                    came to Washington. I was one of the first people he called and said that he was
+                    leaving, resigning that day. I had seen somewhat the handwriting on the wall. He
+                    had done a few favors for me in getting a few people into the State Department,
+                    using the eighth floor and all that stuff. But, no, I did not know him, I just
+                    knew of his contributions and achievements.</p>
+                <p>
+                    <hi rend="italics">Q: Just a footnote on Clifford Wharton, Jr. He and I were
+                        also in touch and it is very ironic you spoke about the handwriting being on
+                        the wall. I would not be surprised that the handwriting now is on the wall
+                        for those who are still in government. I would not be surprised to see the
+                        people who were responsible for him leaving the Department themselves
+                        leaving the Department. But that is another story.</hi>
+                </p>
+                <p>What about some of the other individuals from the old Foreign Service? Did you
+                    know Rupert Lloyd?</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>WILLIAMS: I got to know just about everybody who was on board one way or the
+                    other. Either because I met them socially or they came and checked in or had
+                    some problem they were trying to check out. I knew him, but I don't recall that
+                    I knew him all that well.</p>
+                <p>
+                    <hi rend="italics">Q: How about Clinton Knox? Early in the Kennedy
+                        Administration there was talk about sending him as DCM to Tegucigalpa, but
+                        because he was black the post said that they didn't think he would go there.
+                        But he became Ambassador to Dahomey and Haiti.</hi>
+                </p>
+                <p>WILLIAMS: David Bohlen was in Germany and lived up on 16th street. And Rudy
+                    Aggrey was, of course, in USIA for much of his time. There was you and Dick.
+                    When I was working for Crockett I got in several key ambassadors. I helped to
+                    bring in Elliott Skinner and Pat Harris and I had the chore at the eleventh hour
+                    of trying to find a job for Pat Harris's husband. She said she wouldn't take the
+                    job unless her husband had a job. We wound up getting him a job in Geneva.</p>
+                <p>
+                    <hi rend="italics">Q: Crockett doesn't mention you, but he mentions the
+                        incident.</hi>
+                </p>
+                <p>WILLIAMS: I helped to bring in Barbara Watson and still talk to her brother and
+                    sister in New York at times.</p>
+                <p>
+                    <hi rend="italics">Q: Well, let me only say now again to make certain that
+                        history records what has happened to you and to those with whom you were
+                        associated. After you left the Department you went to the University of
+                        Chicago. When did you start the Joint Center?</hi>
+                </p>
+                <p>WILLIAMS: Well, actually I did not start the Joint Center. The Joint Center was
+                    started in 1970 while I was away at the University of Chicago. I came in 1972.
+                    So I have been here since 1972.</p>
+                <p>
+                    <hi rend="italics">Q: Who was initially in charge of it?</hi>
+                </p>
+                <p>WILLIAMS: The initial executive was Frank Reeves for whom the DC Municipal
+                    Building is named. Frank, a lawyer, very active in the Democratic Party had been
+                    an aide to Thurgood Marshall and had taught Law at Howard University, was hired
+                    by Kenneth Clark who provide some assistance to him in a project that Clark was
+                    running. It was Kenneth Clark who conceived the Joint Center. Kenneth Clark,
+                    assisted by Frank and Ellen Lafara ...you remember Ellen Lafara?</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>WILLIAMS: Others involved in the founding were Louis Martin, who I told you
+                    about.</p>
+                <p>
+                    <hi rend="italics">Q: Is Louis Martin still alive?</hi>
+                </p>
+                <p>WILLIAMS: Louis Martin is still alive. The Joint Center is doing a biography on
+                    him. He has had a stroke, lives in California, and I talk to him from time to
+                    time. Vernon Jordan was in on a little piece of it, Percy Sutton, Merv Donnally
+                    and maybe one or two others. But the key clearly was Kenneth Clark. He put
+                    together the proposal and sold it to the Ford Foundation. Since Frank was
+                    working with him, they saw Frank as the first executive. He knew the civil
+                    rights leaders; he knew the politicians; he was a lawyer, etc. I remember...I
+                    was in Chicago and still kept in touch with Ken Clark and Idris Rossell and
+                    Ellen Lafara and they were telling me how things were...some of the brothers
+                    would call and say, “Man, you should be back here.” A guy named Sam, who was in
+                    Personnel on the Civil Service side, would talk to me and give me all the
+                    scuttlebutt that was going on.</p>
+                <p>
+                    <hi rend="italics">Q: What was the scuttlebutt in the Nixon era because this is
+                        when we are talking about now?</hi>
+                </p>
+                <p>WILLIAMS: Oh, how bad things were getting, that people were getting the shaft and
+                    what to do, and frustrations like that. They wanted to talk to somebody who was
+                    sympathetic. One of the problems you have if you are in the Foreign Service
+                    generally, and especially if you are black, is that there are few people you can
+                    talk to who understand what the hell you are talking about. It is a new world,
+                    and most people don't understand. It is almost as bad as being in the CIA. As a
+                    matter of fact it would be easier to have a conversation with somebody in the
+                    CIA than maybe somebody in the Labor Department. It is a different world. So to
+                    talk to someone who has been there and understands their plight...yeah, I got
+                    all kinds of calls.</p>
+                <p>
+                    <hi rend="italics">Q: This raises a question. I have talked to at least one
+                        black officer who gives William Rogers significant credit on the civil
+                        rights, affirmative action side.</hi>
+                </p>
+                <p>WILLIAMS: I didn't have that much contact after that. I didn't have much of an
+                    impression of Rogers, period.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I was surprised. This is not to say that he was
+                        good, bad or indifferent, just that he didn't strike me.</hi>
+                </p>
+                <p>WILLIAMS: He didn't push the envelope very far.</p>
+                <p>
+                    <pb facs="0021" n="Page0021"/>
+                    <hi rend="italics">Q: Anyway, 1972, how many personnel did the Joint Center have
+                        at that time?</hi>
+                </p>
+                <p>WILLIAMS: When I took over, Frank was in failing health and he didn't...I don't
+                    know if he wasn't as happy as he thought he would be or the Board was as happy
+                    as it thought it would be, or the Foundation was as happy as it thought it would
+                    be under Frank's leadership. Anyway, there was a tripartite understanding that
+                    Frank would step down in large measure because he had had a heart attack. I
+                    don't know who else they looked at, but I got the bum's rush, I guess, from
+                    Kenneth Clark who knew me and Louis Martin who knew me and Ellen Lafara who knew
+                    me. Ellen Lafara was on the Board at that time. I was very comfortable where I
+                    was. I had been promoted to Vice President of the University of Chicago, the
+                    first black corporate officer at the University. I had a multimillion dollar
+                    budget in public affairs.</p>
+                <p>
+                    <hi rend="italics">Q: That was your job, public affairs?</hi>
+                </p>
+                <p>WILLIAMS: Yes. I ran television programs. I wrote a weekly column for the Chicago
+                    Sun Times. There were people coming to me urging me to run for public office. I
+                    had a very high profile. I was having a very good time. So I said that I wasn't
+                    sure that I wanted to go to the Joint Center. But I thought about it. Even when
+                    I first read the proposals to create the Joint Center, I said to myself, “This
+                    is a fascinating concept. I am a journalist, I write a little bit, I know how to
+                    shape opinion and promote things, know a little bit about international affairs,
+                    a little bit about American politics, I could have a ball with this.” But when
+                    Frank was appointed, I understood it. Frank knew all the big shots. I didn't
+                    know many big shots. I didn't know the civil rights leaders, the politicians
+                    (except the ones in Chicago), so I thought it was a very good appointment. I
+                    hosted some programs for Ken and others in Chicago and gave receptions whenever
+                    they came to town. I remember going over to the Gary Convention and Frank Reeves
+                    was there, very much a part of that.</p>
+                <p>But I didn't think very much about his going. He was a personal friend. When they
+                    came to me and said they would like me to consider it...the first I heard of it,
+                    I had dinner with the Ford Foundation officer who was supporting some work I was
+                    doing in Chicago, who told me that he wanted me to meet with some people. So I
+                    said, “Fine.” I didn't know what it was about. That sort of opened the door for
+                    people to talk to me. When I came in 1970, the Joint Center had a staff of about
+                    eight people and a budget of about half a million dollars.</p>
+                <p>
+                    <hi rend="italics">Q: And now?</hi>
+                </p>
+                <p>WILLIAMS: And now there is a staff of 65 and the budget this year is seven
+                    million and I have another ten million in the bank.</p>
+                <p>
+                    <pb facs="0022" n="Page0022"/>
+                    <hi rend="italics">Q: One thing I am not clear on is your MacArthur grant. Was
+                        it to you personally or to the Center.</hi>
+                </p>
+                <p>WILLIAMS: MacArthur grants are all personal, they don't go to institutions.</p>
+                <p>
+                    <hi rend="italics">Q: I thought you had used that in some way to support the
+                        international affairs activity.</hi>
+                </p>
+                <p>WILLIAMS: No, it was separate. I wish we could have transposed things. I got a
+                    MacArthur grant, which over five years amounted to a little over $300,000. The
+                    Joint Center got a MacArthur grant for a million dollars over five years. I
+                    would trade any day. That was to start our international affairs program. But
+                    there was a difference in the timing and they were not related.</p>
+                <p>
+                    <hi rend="italics">Q: Well, you just had a very successful program, it seems to
+                        me, in supporting the elections in South Africa.</hi>
+                </p>
+                <p>WILLIAMS: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: And you have a Japan project which is ongoing.</hi>
+                </p>
+                <p>WILLIAMS: It is ongoing but not doing well. The goal of the program is to improve
+                    relations between African-Americans and the people of Japan. I have been
+                    unsuccessful, and it is a big disappointment to me. I have been unsuccessful in
+                    getting any American foundations or corporations to want to support that
+                    program. Over the past four years or so, most of the support has come from
+                    Japanese corporations and foundations. I think the program is still vital, but
+                    clearly most of the interest in this country relates to relations between
+                    African-Americans and Hispanic-Americans; African-Americans and
+                    Jewish-Americans; African-Americans and Asian-Americans; and not people of
+                    another country.</p>
+                <p>But we do have, within our international program, a solid project that looks at
+                    the impacts of ethnic relations on international affairs. This gets to your
+                    Bosnias, Somalias, the Balkans, etc. We have co-sponsored a program with the
+                    National Defense University. We are putting on a program now with CSIS on a
+                    study looking at that subject.</p>
+                <p>
+                    <hi rend="italics">Q: I am on the Advisory Board of CSIS. What is the
+                        project?</hi>
+                </p>
+                <p>WILLIAMS: It is a project looking at the impact of ethnic relationships on
+                    countries.</p>
+                <pb facs="0023" n="Page0023"/>
+                <p>
+                    <hi rend="italics">Q: Who is in charge of it over there?</hi>
+                </p>
+                <p>WILLIAMS: I think somebody by the name of Snyder. It is our military officer. I
+                    can find out for you.</p>
+                <p>
+                    <hi rend="italics">Q: No, that is okay. But let me take that point. I am
+                        pleased, honored and delighted to be on the Advisory Board for International
+                        Affairs of the Joint Center. I do hope that you can become more active. I
+                        understand that Ken Longmyer has decided that he will do something
+                        else.</hi>
+                </p>
+                <p>WILLIAMS: We hope that by July 1 we will have another director on board.</p>
+                <p>
+                    <hi rend="italics">Q: Well good. If I can give you any insights in terms of
+                        people I know, I will be happy to do that.</hi>
+                </p>
+                <p>WILLIAMS: Well, I think the recruitment has ended, although it hasn't been
+                    announced yet. I think the person is Adonis Hoffmann.</p>
+                <p>
+                    <hi rend="italics">Q: I know Adonis. He was working with Grey and Company. He is
+                        a good person and should be very helpful.</hi>
+                </p>
+                <p>I think we can end it here. I am very pleased to have had the opportunity to talk
+                    with you. Fox said that he had three things that he sought to do which were the
+                    individual recruitment of people, pursuing the Foreign Affairs Scholars Program,
+                    and it is not that he takes credit for, but he does mention the FSRJO program
+                    and feeling in 1965 that it was time to move on and to try to make a name for
+                    himself as a Foreign Service officer. As you look at your time and your
+                    experience in the Department...I have to tell you that I am prejudiced, I think
+                    what you did with regard to the FSRJO program is ultimately something that will
+                    be very important historically. It is already important in terms of the actual
+                    functioning of the Department, because whatever else you say, some of the
+                    individuals who came out of that program are proving themselves to be among the
+                    most efficient and able in the Foreign Service, without regard to gender, color
+                    or anything else. But, do you have your own sort of reckoning on what happened
+                    to you and what happened to the Department in the seven years you were
+                    there?</p>
+                <p>WILLIAMS: I did three different things in seven years, from Protocol, to NEA to
+                    the administrative side. But since this is primarily about blacks, the one area
+                    that I worried especially about that subject was in the administrative area.
+                    What I tried to do was to create systems and processes by which things could get
+                    done.</p>
+                <p>
+                    <pb facs="0024" n="Page0024"/>
+                    <hi rend="italics">Q: Without outside intervention.</hi>
+                </p>
+                <p>WILLIAMS: Without my always being there pushing, pushing, pushing, but integrated
+                    within the system. The system will take care of its own once the system decides
+                    to do something. That is in the nature of bureaucracy. If you ever get the
+                    bureaucracy going, it is sort of like a ball rolling down a hill, it has a
+                    momentum of its own until somebody diverts it.</p>
+                <p>
+                    <hi rend="italics">Q: Therefore, if you become somebody that the system
+                        identifies as one of its own, then you have a friend.</hi>
+                </p>
+                <p>WILLIAMS: You have a friend, but also in terms of a program like FSRJO, or like
+                    the Foreign Affairs Scholars program. So that was something, to get it
+                    systematic.</p>
+                <p>The other thing that I strived to do was to help people understand how to
+                    leverage the system, how to make it work, how to use people, how to make friends
+                    and relationships. In other words, how to play the political game of the State
+                    Department, and it is a political game. You have to know how to play it.</p>
+                <p>I guess the other thing I wanted to do, and something I am not sure I succeeded
+                    at and maybe they are not worth bragging about, but I really tried to get the
+                    Foreign Service, and here I mean the whites who were in charge, to understand
+                    that I did not think their goals in terms of recruiting kids to pass the Foreign
+                    Service Officer Exam would be significantly realized by concentrating
+                    exclusively on predominantly black colleges. I could understand the public
+                    relations of it. It is sort of like Willie Loman robbing the bank, or whatever.
+                    That is where the money is, that is where you find most of the students. But I
+                    said, in addition to that, and you shouldn't lock them out, you have to do what
+                    the CIA does. You have to establish some key contacts on major college campuses
+                    where the white kids are being recruited and having them look out for the
+                    promising talent coming along. And I am not sure I succeeded in doing that.
+                    There is an element of elitism to it. It is very pragmatic, and I am certain I
+                    am right. Most of the students, the overwhelming majority of students, at that
+                    time...now, more than two thirds of all black students are on predominantly
+                    white campuses.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that is exactly the point. The difficulty with that
+                        is that even on white campuses there are very few blacks.</hi>
+                </p>
+                <p>WILLIAMS: But there are some.</p>
+                <p>
+                    <pb facs="0025" n="Page0025"/>
+                    <hi rend="italics">Q: And that is the point. I can talk to kids about the
+                        Foreign Service, this, that and the other, but in a sense you were asking
+                        for things before there was much chance necessarily that it would happen.
+                        But, you have to start somewhere and you started.</hi>
+                </p>
+                <p>I have just handed you a clipping from the Washington Post of June 1 which speaks
+                    to the black class action suit at the State Department. I know that you followed
+                    this so that you are aware of it.</p>
+                <p>WILLIAMS: Well, to some extent because we have had Foreign Service officers in
+                    here a lot, some of whom were a party to the suit.</p>
+                <p>
+                    <hi rend="italics">Q: Primarily the blacks are asking for some of the same
+                        things as the women successfully obtained. Namely, their assignments, better
+                        promotions and in some cases awards and the like. But it is interesting that
+                        this article suggests that notwithstanding that the Clinton Administration
+                        has been in power for well over a year, that the State Department under
+                        Warren Christopher has not made notable progress in coming to grips with
+                        this case. I don't mean to suggest that it is any easier for the Democratic
+                        Clinton Administration to cope with this then it was for Republican Bush or
+                        Reagan Administrations, but it addresses almost directly some of the issues
+                        we have been talking about. This is an institution that will defend itself
+                        from outside intruders or outsiders.</hi>
+                </p>
+                <p>WILLIAMS: Most institutions do.</p>
+                <p>
+                    <hi rend="italics">Q: Most institutions do and will.</hi>
+                </p>
+                <p>WILLIAMS: Even as they make some accommodation when they have to and that is the
+                    key, when they have to.</p>
+                <p>
+                    <hi rend="italics">Q: What this article seems to suggest is that the judge is
+                        going to make them have to.</hi>
+                </p>
+                <p>WILLIAMS: Well, with a mediator. I assume they have agreed to enter into a
+                    mediation situation there. Well, they lost the case, isn't this mediation in
+                    lieu of specific judgment?</p>
+                <p>
+                    <hi rend="italics">Q: Well, it hasn't gone to trial.</hi>
+                </p>
+                <p>WILLIAMS: So this is to see what they can work out.</p>
+                <p>
+                    <pb facs="0026" n="Page0026"/>
+                    <hi rend="italics">Q: Yes, that is right. Because I think the Department thinks,
+                        quite rightly, that if it does go to trial it could be a much more
+                        complicated outcome.</hi>
+                </p>
+                <p>Well, I want to say thank you.</p>
+                <p>WILLIAMS: Well, thank you. I am flattered.</p>
+                <p>
+                    <hi rend="italics">Q: Well, you have no reason to be flattered. For the State
+                        Department, when the roll of honor is called some day, will have a greater
+                        understanding of what your contribution was and the contribution of people
+                        like you. I am pleased to have been part of the process of recording your
+                        contribution.</hi>
+                </p>
+                <p>WILLIAMS: Okay.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

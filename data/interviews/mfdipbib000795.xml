@@ -1,332 +1,747 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000795">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Dale McGeehon </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Dale McGeehon </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Program Foreign Service Spouse Series</p>
-<p>DALE MCGEEHON</p>
-<p>Interviewed by: Jewell Fenzi</p>
-<p>Initial interview date: June 29, 1990</p>
-<p>
-<hi rend="italics">Q:  This is Jewell Fenzi on Friday, June 29, 1990. I'm interviewing Dale McGeehon here at my home. Dale is a dependent spouse, new to the Service. His spouse is a new junior officer. They are assigned to Belgrade and I am talking to Dale today about his expectations for the Service, and how he sees himself as a dependent spouse.</hi>
-</p>
-<p>My first question is, did you know that your wife was coming into the Service when you were married? Was she waiting to come in?</p>
-<p>MCGEEHON:  I seem to remember that she had been wanting to get into the Foreign Service for several years. At this point we've only been married a year and a half, we dated for five years so I would think that about two years before we got married I knew that she was taking the tests. It took three years before she was accepted and I don't remember whether she was accepted before or after we were married. I think it was probably a little bit after.</p>
-<p>
-<hi rend="italics">Q:  But you knew it was a possibility.</hi>
-</p>
-<p>MCGEEHON:  We knew it was a possibility.</p>
-<p>
-<hi rend="italics">Q:  And you knew that's what she wanted to do?</hi>
-</p>
-<p>MCGEEHON:  Right, yes.</p>
-<p>
-<hi rend="italics">Q:  So in other words, you weren't taken by surprise.</hi>
-</p>
-<p>MCGEEHON:  No, it didn't come out of the blue.</p>
-<p>
-<hi rend="italics">Q:  ...out of the blue. And have you been working as a reporter? I notice you have this profession for the Birmingham...</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>MCGEEHON:  I was just there for a while in various roles while I was in college in the early eighties. I've had four years of journalism experience, two of which have been at a daily newspaper.</p>
-<p>
-<hi rend="italics">Q:  Do you hope to translate that into some sort of writing career overseas?</hi>
-</p>
-<p>MCGEEHON:  Very much so. I really want to continue doing what I have been doing the last few years once we get to Yugoslavia.</p>
-<p>
-<hi rend="italics">Q:  What kind of reporting have you been doing?</hi>
-</p>
-<p>MCGEEHON:  I worked at a small newspaper in western North Carolina, Hendersonville covering just about anything, mostly health and human services. It's a large retirement area down there. It's in the mountains so a lot of people from the north like to retire there. A lot of retirees who live in Florida nine months of the year go there in the summer because it's much cooler. So health is a big topic there, covering hospitals, non-profit agencies, that sort of thing. Also police, courts, a little of schools, you just had to fill in when somebody else couldn't make it or something. So I got a taste of just about everything.</p>
-<p>
-<hi rend="italics">Q:  Have you made any efforts to become a stringer for any newspaper? It's a little in advance since you are not leaving for another year.</hi>
-</p>
-<p>MCGEEHON:  Yes. Before I was in North Carolina I was a clerk in the Washington bureau of the New York Times. So I think I know a good number of people who are in the news business here. A lot of those reporters that were at the Times when I was here have gone on to be an editor at a smaller newspaper, so I'm hoping to use those contacts, and then just make a lot of cold phone calls, or send out letters to a lot of different organizations. And then just yesterday a friend of mine that I worked with in North Carolina — she went to Columbia, got her master's degree — she put out this wonderful — well, I think the whole school did, everyone in the school, put out a handbook called “The International Free-Lancers Handbook”. I think it answers all the questions that I have. It even gets down to what sort of equipment you need to take over there, and gives you a list of all the newspapers that accept stories from free-lancers, and what topics they're looking for. So that ought to save a lot of time for me. It was just a Godsend, it just came in the mail all of a sudden. Once we get over there I'm hoping to have already made some contacts, and that I can start sending some stories over here.</p>
-<p>
-<hi rend="italics">Q:  You're fortunate in having a portable profession, I think.</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>MCGEEHON:  Yes, I think so too.</p>
-<p>
-<hi rend="italics">Q:  Are you both looking at this as a long term career for her?</hi>
-</p>
-<p>MCGEEHON:  She's been saying that she just wants to do this maybe for a couple of tours, but I've heard some things from other people who have said, “Yeah, I wanted to do that too, now I'm retiring after thirty years of being in the Foreign Service.” So I'm hoping that maybe she will do that because I really think that once we get used to it, and the initial shock of being overseas, I think we will really love it, and I'm hoping that we stick with it a good long time. But I don't know if it would be best for me to do that for a number of years or so. Maybe for five or six. But you never know, we will want to keep our options open. If we find out that we like it, and I'm doing really well, and she likes it, we may stay in it. Or if one person likes it better than the other, well, we may have to make a compromise. We're just going to have to wait and see, and keep all the doors open, and then kind of adjust, fine tune those paths wherever they take us.</p>
-<p>
-<hi rend="italics">Q:  Is she going to concentrate in Eastern Europe? Or is she open to... the reason I ask that question, because it seems to me that if she became a expert in a certain area you could become an expert in that area too. And it might be to your advantage to be regionally oriented.</hi>
-</p>
-<p>MCGEEHON:  That raises a question that I have. It's sort of funny. Whenever I was in the seminars that FSI gave, they would introduce people and they would say, “This person spent time in Sofia, and Bucharest,” and all these other different cities in Eastern Europe and then they may say, “China.” It seems like a lot of people who have done several tours may concentrate in Central America, and then all of a sudden they're in Japan for one tour. It seems kind of strange. It was my impression when we first got into the Foreign Service life, that they want to move you all around, at least the USIA does. Now, it may be different for State, I don't know. Again, I think whatever we find out we'll be willing to adapt and go with it. It may be fun to say that you can have tours in every corner of the world, but then again it may be good to have almost an expertise in a certain location.</p>
-<p>
-<hi rend="italics">Q:  What were some of the valuable things you picked up in your course at the Institute? Perhaps things that you didn't expect or didn't anticipate, or hadn't thought about.</hi>
-</p>
-<p>MCGEEHON:  I think I was a little cynical about protocol, but after learning a little bit more about it I found out how important it is. I think from a distance you can be cynical and think the whole thing is rather silly, but after taking the course I realized that it just makes life a little bit easier.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  It has its place.</hi>
-</p>
-<p>MCGEEHON:  Yes. And I think I learned a good number of things, more than I can remember right now about finances, allowances, and regulations. That was almost like being in school again because everybody in the class was taking notes. It wasn't something you could just sit back and listen to, you had to write down things or you could easily miss out something later on that you're entitled to.</p>
-<p>
-<hi rend="italics">Q:  You were dealing specifics that were really going to be helpful to you.</hi>
-</p>
-<p>MCGEEHON:  I think there was an inherent problem in the whole thing, and that was it tended to be very general. I mean, what may apply in Jakarta may be different for where we're going — Belgrade. But I think generally I was able to understand a little bit more about what life is going to be like once we get over there. I came away from the two or three seminars I was in feeling much better, much more like I was on inside than on the outside.</p>
-<p>
-<hi rend="italics">Q:  Was most of that geared toward spouses as female spouses? I mean did you ever feel that it didn't apply to you because you were a male spouse? Or is it just general?</hi>
-</p>
-<p>MCGEEHON:  I felt they took a great amount of care in making sure that the words that they used just weren't “wife” or “she”. They made it more neuter in a lot of ways. Sometimes it did slip, but it didn't really bother me because I feel a little bit more comfortable knowing that there are seven or eight hundred male spouses that have come through. This one person came through... at one time he was a male spouse, and it was nice to hear from him.</p>
-<p>
-<hi rend="italics">Q:  I was just going to ask you if it would be interesting or helpful to read transcripts with male spouses who have already been there, as it were.</hi>
-</p>
-<p>MCGEEHON:  Sure, sure it would. I was just looking at that transcript there from a magazine. He didn't really apply to my situation. I mean I'm really just beginning my career, where it sounds like he's finishing his. So there are little different circumstances — I think his name is Paul Ashby, he started I think in the early eighties. He was telling this little anecdote about how he was introduced to an Air Force colonel as a male spouse, and the colonel gave him a funny look like, “What are you doing in here, boy?” But I went up and asked him after his speech was over if it was still like that, and he said, “No, everybody now is very comfortable with it.”</p>
-<pb facs="0005" n="Page0005"/>
-<p>There was one class that I took that had other men in there, but I think they were all employees. And another class that I took I was the only man in there, and everybody else was a spouse. And that was a little uncomfortable for me at first.</p>
-<p>
-<hi rend="italics">Q:  I think when I talked to you, I think you were the only male.</hi>
-</p>
-<p>MCGEEHON:  I'm not able to distinguish in my mind. They were one after another.</p>
-<p>
-<hi rend="italics">Q:  I think you were the only male spouse.</hi>
-</p>
-<p>MCGEEHON:  It would have been nice to have another male in there, but I was sitting around some people who were able to tell me, “As a man you're going to be able to find employment a lot easier than if you were a woman.” I've had other people tell me that before — I mean since then, too. But again, I don't want to be dependent upon the mission to find employment for me. I kind of want to go over there and find it myself.</p>
-<p>
-<hi rend="italics">Q:  Once again I think you're very fortunate that you have this portable career that you can take along and maintain your own identity. I hope that works out for you. The more you can do to set it up here, the better off you might be once you get there, especially while you're here in Washington.</hi>
-</p>
-<p>MCGEEHON:  Sure, sure. Today was my third day of language training, and we've got 43 more weeks of Serbo-Croatian so I'm through in the middle of the afternoon. So I'm hoping to spend the rest of the working day in either calling people, or typing out a letter, or just trying to get the ball rolling and seeing what sort of opportunities are out there for me.</p>
-<p>
-<hi rend="italics">Q:  Or maybe going to your bureau chiefs here in Washington and meeting them, and finding out who they can send you to. Well, I think it's interesting that your concern obviously is to learn the language at this point, and to look for an entree into your career. And you don't seem to be too concerned about the spouse role because I don't know what you were told at FSI, but it doesn't seem to me that you anticipate going out in a role where you'll be cooking representational dinners, and writing invitations. How do you feel about that part of it? Or have you gotten that far yet?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>MCGEEHON:  I hope this doesn't sound too chauvinistic, but I'm hoping to avoid situations like that. I think I would be uncomfortable to play the traditional spouse's role. Whenever my wife and I... well, we annually throw these Christmas parties, and she makes the preparations anyway because she prefers to do things like that. Whereas that just saps all my energy. She loves things that are very organized — okay, who's RSVPd, how many people are coming, and that sort of thing. I'm hoping that maybe she can continue to do things like that once we get over there.</p>
-<p>
-<hi rend="italics">Q:  This is interesting to me because it seems to me that you're not really thinking of yourself as a supported spouse as far as the mission is concerned. You've already said that you prefer to have your own career, your own identity, and just incidentally be there as part of the U.S. Government mission.</hi>
-</p>
-<p>MCGEEHON:  And I hope that doesn't rub a lot of people's feathers the wrong way.</p>
-<p>
-<hi rend="italics">Q:  Well, I think you see it as your option. The reason I'm so fascinated by it is because an attitude like that would have just been out of the question in say 1920 when our oldest interviewee... I mean, she wouldn't have had an option like that. She went in a supportive role and that's all there was. You asked me what the thrust of the project was, well you've just defined it very nicely.</hi>
-</p>
-<p>MCGEEHON:  Let me say this. It seems to me that in my generation growing up somewhere along the lines the attitude changed where the man was the main bread winner.</p>
-<p>
-<hi rend="italics">Q:  And the woman hearth and home.</hi>
-</p>
-<p>MCGEEHON:  Right. I mean growing up you saw that on maybe “Father Knows Best,” or even as late as “Bewitched” or something where the women are always in the house, they're always cooking, they're responsible for keeping the house neat. But I think, maybe when I'll say in first grade, 1970, I think most people tended to have that traditional mind set. But, again, somewhere along the lines it started changing because more and more women started working either for economic reasons, or just because they were tired of staying in the house. Maybe it was the result of the sixties, Gloria Steinem, when feminization came into play. Anyway, now that I have quit my job, and I'm here just to learn the language, that is fine with me. I don't really see that as a threat to tradition. However, my parents I think are a little concerned about that. I call my parents, who are still in Alabama, about once a week, and every now and then it comes up, “Well Dale, you know, you ought to work.” It's hard for me to try and educate them in telling them, “Well, I'm planning on doing it once I get over there. But right now I'm investing some time to learn the language so that it can benefit me once I do get over there.”</p>
-<pb facs="0007" n="Page0007"/>
-<p>
-<hi rend="italics">Q:  If its any comfort to you, you're absolutely right, because to know the language, and to have an opportunity to study it like you are, is the most valuable way you can be spending your time right now.</hi>
-</p>
-<p>MCGEEHON:  That's good to know.</p>
-<p>
-<hi rend="italics">Q:  Oh, definitely, definitely. You told me you were born in Birmingham, Alabama but you didn't say when?</hi>
-</p>
-<p>MCGEEHON:  1963.</p>
-<p>
-<hi rend="italics">Q:  1963. Date? Month?</hi>
-</p>
-<p>MCGEEHON:  April 30th.</p>
-<p>
-<hi rend="italics">Q:  So it's interesting for me to think of someone coming into the Service at this point whose life was in no way affected by Vietnam and Civil Rights. As you said, the women's movement - it's interesting.</hi>
-</p>
-<p>MCGEEHON:  Growing up, I don't remember there being any mention of Vietnam. I think it was over before I really realized that there was a war. Seems like the last war we had — I think when I was young I heard about World War II.</p>
-<p>
-<hi rend="italics">Q:  That was so remote. That was remote to you like World War I was remote to me.</hi>
-</p>
-<p>MCGEEHON:  I just didn't think... I remember being shocked when I heard that there was a Korean War, and a Vietnam War. During my life time? A war in my lifetime? No.</p>
-<p>
-<hi rend="italics">Q:  The other thing our project does is, we're reflecting... how can I say this? The spouse in the Foreign Service reflects the external events in society, and you've just shown me that it does in your attitude toward willing to share homemaking with your spouse. Both of you doing what you like to do best is the ideal situation, if it works out that way.</hi>
-</p>
-<p>MCGEEHON:  At home we have the agreement that, “Well, I like to cook,” but she doesn't. I don't like to wash dishes, she doesn't mind.</p>
-<pb facs="0008" n="Page0008"/>
-<p>
-<hi rend="italics">Q:  Wonderful. That's a good start.</hi>
-</p>
-<p>MCGEEHON:  It's a good match. We've even discussed that when, or if we have children, we've even talked about, “Well, maybe the first child... when the first child comes along you could maybe take leave from your career for a couple of years.” Then if the next one comes along, the other person will do that. I think maybe twenty years ago that would have been unheard of.</p>
-<p>
-<hi rend="italics">Q:  Of course it would have. Do you think it's more important for two people to balance, and share, responsibilities like that, and maybe risk a little bit of career advancement for that kind of life? I think once you get into the Service, your wife might think that she would be missing out if she missed two years. Do you think that's one of the trade-offs that the two of you might have as you go along. She gives up a little bit of her career, and you give up a little bit of yours. Or is she terribly, terribly and intensely career oriented at this point?</hi>
-</p>
-<p>MCGEEHON:  When I met her in college, she was terribly career... I mean she was intensely career oriented but I've always wanted children and I think I have to slowly break her into the thought of having children. I've seen more in the news... I think Congress not too long ago, very recently, made it that businesses had to allow their employees to have parental leave. I think maybe as time goes on...</p>
-<p>
-<hi rend="italics">Q:  Isn't that the one the President vetoed?</hi>
-</p>
-<p>MCGEEHON:  Oh, did it finally not become law?</p>
-<p>
-<hi rend="italics">Q:  Maybe we're not talking about the same thing, but he did veto something on parental leave, but whether they can override that veto or not, I don't know.</hi>
-</p>
-<p>MCGEEHON:  At least it's an indication that there's something...</p>
-<p>
-<pb facs="0009" n="Page0009"/>
-<hi rend="italics">Q:  It's in the wind, and if it didn't get through this time they'll get something else through later on. Of course, maybe this isn't as great an interest to you since you do have your own profession, but how would spouse compensations — some sort of spouse compensation — appeal to you because that's something I didn't discuss from the historical perspective the other day. But Mrs. Eagleburger, when he was in the Department before, actually got as far as the Hill with a proposal for spouse compensation, and that was only for senior spouses, for playing the traditional representational role. I think there was another movement called the Foreign Service Associate proposal which was an attempt to compensate spouses for following their own careers in a volunteer manner in the host country, which I don't think that's ever going to get through Congress. I think that's unreal to expect our Congress to pay you to work as a volunteer in Belgrade, say, if that were the case. Would you want to be compensated to be a spouse?</hi>
-</p>
-<p>MCGEEHON:  That's tough. I don't know. I mean it would be very nice if that was available, but I think if you drew an analogous situation to the life in the United States, maybe if a spouse chose not to work in the United States I wouldn't expect that person to ask for any compensation for maybe being a volunteer. However, say if you were overseas, and you had to quit your job to be with your spouse, maybe then I could see more weight to the argument of needing compensation because you've been plucked out of your job, and there's nothing for you once you get overseas. I mean, the Government's paying your rent, you don't have that expense. It's just really hard for me to imagine being able to get paid for anything that I would do as a spouse, and if I wasn't a self-employed person.</p>
-<p>
-<hi rend="italics">Q:  What about some of the mission generated jobs like the Community Liaison Office? I think you have to be in the Service six years before you can be eligible for that, or filing in the Visa, or managing in the commissary. Would you be interested in one of those jobs if your reporting profession didn't work out right away? Would you be interested in any of those?</hi>
-</p>
-<p>MCGEEHON:  No. It's almost as if I'm going through this with blinders on. I don't want to be distracted by any other tidbits, or carrots that are dangling for other jobs because in this profession of reporting it's not something that you can do for five years, and then drop it for three, and then go back to it. It's very hard to get back into it. You have to stay on the track because it's a craft. Your skill would just disintegrate — just fall away very quickly if you don't do it every day. I think a lot of potential employers would use that, that if you did do something else for a while, it would make it a little more difficult for you to get back into it. However, it seems like there is a trend now that these major news organizations don't mind employing people who at one time have held a high position in government, and then going back to journalism. There have been a couple that I can think of who have gone back and forth. So, to answer your question, no, I really don't want to be a CLO, or a mailroom clerk, or something like that. I think I have to stay on this reporting track.</p>
-<pb facs="0010" n="Page0010"/>
-<p>Maybe if nothing works out, and if there are just dead ends everywhere, I think I would enjoy teaching English as a second language.</p>
-<p>
-<hi rend="italics">Q:  That's definitely a possibility.</hi>
-</p>
-<p>MCGEEHON:  My parents were both teachers, and I think I would enjoy letting people learn, or helping people learn. It's kind of funny. I've always thought about being a reporter and looking at the government, or looking at public jobs, and explaining things, or asking why this happened, or something like that. It would be very hard for me to turn the tables.</p>
-<p>
-<hi rend="italics">Q:  Eastern Europe is so interesting at this point. I guess maybe there have been fewer dramatic changes in Yugoslavia than other places, but still there's a lot there.</hi>
-</p>
-<p>MCGEEHON:  Right. That's why we decided...</p>
-<p>
-<hi rend="italics">Q:  Maybe your timing is right.</hi>
-</p>
-<p>MCGEEHON:  I'm sort of wishing, “Oh my gosh, I wish I was over there right now.” Because in a year everything may be settled down, or there may be a clearer picture of what's going to happen. And already there's a clear picture of what's happening. I think in the northern Eastern Europe there's more democratization, whereas in the Balkan states...</p>
-<p>
-<hi rend="italics">Q:  ...a little slower to come.</hi>
-</p>
-<p>MCGEEHON:  Right. So I wish I was over there now seeing history happen. Still, I think there's going to be a long term interest in what's happening over there. Maybe more with business now that things are opening up a little bit more. I think Yugoslavia does want to have a lot of western investment.</p>
-<p>
-<hi rend="italics">Q:  They're sending Peace Corps volunteers over there, and I wonder if anyone with a spouse in the Service has ever gone to the Peace Corps and asked to go as a volunteer? I don't know. I don't know how that would work out.</hi>
-</p>
-<p>MCGEEHON:  From what I've heard the Peace Corps tends to be a little snobbish in its task, or at least towards the other people.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  I think they like to maintain their distance from the Embassy.</hi>
-</p>
-<p>MCGEEHON:  And they lead a little bit more tougher... I mean they're sleeping on the mats with the natives. I mean, they don't go home to a nice house maybe with running water, or something like that. So they tend to think they're really meeting the natives, and getting to know them better.</p>
-<p>
-<hi rend="italics">Q:  One of the first groups ever in 1962 in Sierra Leone lived a couple of blocks from us, but believe me, when the water went off, it went off at their house first and I always knew when the water was off because they came down the road toward our house with their towels over their arms. They were willing to rough it to a point but not to go without a shower. Well, I think it's interesting. You really seem to have thought a lot about this. Some of the other questions don't really apply because we've talked about your career, and spouse compensation, and your work, and your attitude toward the other jobs, and you've answered that. Do you feel that society views... well, the divided family responsibilities, I guess, between the two spouses such that anybody can be a male spouse today? Or does it take a certain attitude, and a certain...</hi>
-</p>
-<p>MCGEEHON:  I think the younger the couple is, maybe the mote tolerant they are for breaking away from the tradition. If somebody was going to go into the Foreign Service suddenly when they're fifty, or older, I think it would be a little bit tougher, at least for the man in that couple to be able to accept that. That's just my views. I haven't really thought about that much. I think the younger people are who go into the Foreign Service, I think the more willing they are to accept the divided responsibilities. But then again, it's a shame... I've heard about the other couples in my wife's class... when they got accepted to join the USIA — I think there were 30 people in her class, half of whom were women. And I think she was the only married one. But then I've gone out with them maybe to a bar, to a restaurant, after work and I've heard the horror stories. I think we went to an Orioles game one day, and I sat next to this man and he was telling me how his wife is an attorney in California, and she's probably on the career track. She doesn't want to leave. So it works both ways. Now that society is where women are moving up the corporate ladder, although probably not as fast as some would like, there can still be the tension. I think that maybe twenty years ago if I was in the same position, it may be very hard for me to accept disrupting my career plans to go into the Foreign Service — to follow my spouse. However, now I think the tables are turned maybe with the women to follow their husbands into the Foreign Service because they've been on the career path now. I guess each couple just has to decide what they want to do.</p>
-<pb facs="0012" n="Page0012"/>
-<p>There was a woman sitting next to me in a couple of these seminars. She was an attorney, and she followed her husband to Baghdad. And, of course, the society itself is fairly prejudiced against women and then the best job she could find was being the mail clerk. She was very defensive when it came to discussing careers, or real jobs. I think one time there was a question raised as to, “can spouses find real jobs?” You could just see her feathers coming up, and she said, “Don't say 'real job' because what I was doing over there I was in control of the mail.”</p>
-<p>
-<hi rend="italics">Q:  So that had become a real job?</hi>
-</p>
-<p>MCGEEHON:  That had become a real job to her. It has its problems that have to be ironed out, but I think, and I'm hoping, that the joys and the experiences that we have will outweigh all the little problems or bumps that we run into.</p>
-<p>
-<hi rend="italics">Q:  Because even without two careers there were bumps, and you iron them out.</hi>
-</p>
-<p>MCGEEHON:  The wife was just submissive. Yes, of course, I'll go, and now there just has to be much more compromise.</p>
-<p>
-<hi rend="italics">Q:  And your talk about finances, and allowances, and what have you, it seems that the State Department is doing what it can to make it possible for you.</hi>
-</p>
-<p>MCGEEHON:  As far as finances go?</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>MCGEEHON:  Yes. I think there are a lot of things out there that can help you. But you have to know where they are, you have to know what to ask.</p>
-<p>
-<hi rend="italics">Q:  I think it's valuable if you've learned that this early on. You really do. Was it a large school that you went to?</hi>
-</p>
-<p>MCGEEHON:  In college, it was small, it was only 1,500 students.</p>
-<p>
-<hi rend="italics">Q:  Because I went to Berkeley, and one of the first things you found was nobody tells you anything. You have to go and find it out yourself. So if you've learned that already, that's a valuable tool.</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>MCGEEHON:  Sometimes it helps to know enough information to ask about something. But it seems like if you're totally ignorant of something, you won't know what to ask.</p>
-<p>
-<hi rend="italics">Q:  So that's why those OBC courses have been so helpful, I would think.</hi>
-</p>
-<p>MCGEEHON:  Of course, the negative side of all this is that we're sort of in an austere budget situation. I mean, there may be some cutbacks. And just earlier this week I was at the Security Overseas Seminar. They were talking about what life may be like if you're evacuated from a country that suddenly became hostile. Most people evacuated tend to think, “Well, I'll go back in two weeks.” Well, it may be months before you can go back, and if you're doing it in the middle of a school year, and you were sent back to Washington, you want to keep your child in school. Well, if you send them to Montgomery County schools — I forget the figure exactly — but it may cost you for being an out-of-state student — like $82,00 a year. And, of course, everybody who had children, they just gasped. They didn't even know about that. And there were some very testy questions given to the speaker about that. I think the speaker said, “Well, you just have to think about these things.” And one person in the back of the room said, “No, I think the State Department should think about that.” And she said, very politely, “Well, there are people who are thinking about this, but we're facing cutbacks now.”</p>
-<p>
-<hi rend="italics">Q:  So if you're not a resident of Montgomery County, but you send your child to school there, you have to pay a tuition equivalent in taxes which would be about $8,200.</hi>
-</p>
-<p>MCGEEHON:  I think so.</p>
-<p>
-<hi rend="italics">Q:  Well, I can see how Montgomery County would think that way, yes.</hi>
-</p>
-<p>MCGEEHON:  So that's just what prompted me into thinking you may just assume while you're leaving Liberia, or something, and you're going to put your kid into Montgomery County, it won't cost me anything because it doesn't cost you anything if you live in Montgomery County.  You just didn't have that information to think to ask about something like, “How much will it cost?”</p>
-<p>
-<hi rend="italics">Q:  That would be quite a shock. I notice you live in Alexandria. I don't recognize the street name, Abingdon Drive.</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>MCGEEHON:  It's right off of GW (George Washington) Parkway. It's right next to the flight patterns from the airport, it's almost across from the marina. Say you're going out of Washington towards Alexandria on GW Parkway, it's the first red light you come to, just make a right there. It's Potomac Crossing.</p>
-<p>
-<hi rend="italics">Q:  Oh, I guess I go by there all the time because my daughter lives in Alexandria. But you haven't bought a condo, you're just have an apartment?</hi>
-</p>
-<p>MCGEEHON:  We're just renting. Getting used to those airplanes is something. It was funny. When my wife was looking for apartments the per diem was enough when she first came here, that she could rent, or have the government pay for this apartment, this nice apartment in the District, and, of course, the longer she was in training the more the per diem went down. So the first of May she moved out to Alexandria, and when she was looking around for apartments she went by there two or three times, and she said, “I knew it was near the airport, I stuck my head out the window of the car just to make sure if I could hear anything. Never heard a sound.” She said, “So it's going to be very quiet.” So when she moved into it I was still working in North Carolina. She had the windows open in the bedroom, and we were talking on the phone, and all of a sudden I heard this plane go by, and it sounded like it was right outside the window.</p>
-<p>
-<hi rend="italics">Q:  Yes, because they take off that way.</hi>
-</p>
-<p>MCGEEHON:  We get up a little bit before 7:00 in the morning, and those planes leave on the dot at 7:00. We almost don't need to set our alarm clock because you know that you're going to wake up at 7:00. And it's funny, if they land going north, it's not nearly as loud as if they take off going south. You sort of keep your fingers crossed that maybe they'll be taking off the other way this morning, but no, it's always taking off the way it's the loudest. I sort of block it out now but I haven't learned to focus... when we have the television on it can really... if you're watching a comedy show the plane goes by at the punch line.</p>
-<p>
-<hi rend="italics">Q:  Well that's just short term too isn't it. A nice thing about the Foreign Service. It's double edged that if you don't like it, it's not forever. But if you do like it, which is usually the case, it's sad to leave.</hi>
-</p>
-<p>MCGEEHON:  What I'm looking forward to... (End of tape 1, Side A)</p>
-<pb facs="0015" n="Page0015"/>
-<p>...any little one bedroom in North Carolina to move up here. All the things I had to throw out. All the things that I'd just accumulated there, just in two years. I'd be pulling things off shelves and... here it was, I'd forgotten about it, and I'd lived my life fine without it. But once we get overseas I think we're going to have to learn to really appreciate just some minor luxuries, if you can call them that. We were watching a video tape during this one seminar... I forget his name, but he was saying that if you're in New Delhi, or something, and you come across a bottle of Guiness beer, you get all excited, it's something you can write home about. Whereas here you could just snap your fingers almost and get it. I'm looking forward to being able to appreciate what I have, and maybe getting by on very little, or at least a lot less than what I have now.</p>
-<p>
-<hi rend="italics">Q:  You're going into a culture where you iron Christmas paper, and Christmas ribbons, and reuse Saran Wrap, and things like that.</hi>
-</p>
-<p>MCGEEHON:  It's really interesting the feeling I got when a lot of people spoke to us, they'd spent years in the Foreign Service, was that, “Yeah, it's tough, but at the same time you get this wonderful...” I don't know how to describe it, it seems like the best way to describe it is what the Peace Corps uses as a recruitment. “It's the toughest job you'll ever love.”</p>
-<p>
-<hi rend="italics">Q:  That's a nice way to put it.</hi>
-</p>
-<p>MCGEEHON:  I get the feeling that it's rough, you'll have all these headaches, and things, but you come away... the whole picture will be... I mean if you look at the whole picture, then you get a lot more out of it than if you if you just dwell on the headaches, or the small things.</p>
-<p>I'm hoping that I can really appreciate those things and come away with the smile that everybody seems to have on their face when they talk about their experiences. I think I'm on for a great adventure.</p>
-<p>
-<hi rend="italics">Q:  I think those of us who have put in 25 to 30 years, can't really think of living life any other way, and, of course, it's not all a bed of roses. But the compensations seem to outweigh the annoyances.</hi>
-</p>
-<p>MCGEEHON:  Right. That's what I was trying to say. I'm really just looking forward to it. I think it's going to be a wonderful opportunity. Of course, you know we're going to miss our family here. You won't be able to pick up the phone maybe and give them a call as often. You're going to have to maybe write some letters, instead of calling them, which will be nice to bring back that sort of form of communication.</p>
-<p>
-<pb facs="0016" n="Page0016"/>
-<hi rend="italics">Q:  And be sure to ask your parents to save your letters too, and put the year on them, date them with the year because I found when I was reading mine that my nice mother-in-law saved, that I never put the year on, so I had to get out a magnifying glass and try to figure out what the date was from the postmark. Do, because it's such fun to read them later on.</hi>
-</p>
-<p>MCGEEHON:  Yes, that's interesting. I had to sell my car when I came up here, and I was cleaning out the glove compartment, and I found a letter that I had dictated to my father when I was six years old, that I'd written to my grandmother on Christmas Day. It was postmarked December 25, 1970. It took me a while to figure out why it was in this car...</p>
-<p>
-<hi rend="italics">Q:  I have to ask you why it was in the car too. That was like 20 years ago.</hi>
-</p>
-<p>MCGEEHON:  The car was almost that old. I remembered that my grandmother who is still living, we had to put her into a nursing home because she was really losing her mental capacity, she was living alone, we were scared that she was going to hurt herself. So when we moved her out, we were cleaning out her drawers, and I found the letter that I had written — she had to move out about ten years ago. I found the letter and I'd probably driven over in that car, and I just wanted to save it so I put it in the glove compartment of the car, and it just sort of evolved to the bottom of the glove compartment, so I found it years later. It was really fun to read that, and it brought back all these memories. So I think you're right to save those old letters. It will be nice to look back and read again. The problem is I can't read my handwriting now. I probably even have a worse time reading it...</p>
-<p>
-<hi rend="italics">Q:  Well, when you get your little lap top, you can do it that way.</hi>
-</p>
-<p>***</p>
-<p>BIOGRAPHIC DATA</p>
-<p>Spouse: Deborah McGeehon</p>
-<p>Spouse Entered Service:  January 1990Left Service: active dutyYou Entered Service: same</p>
-<p>Status:  Spouse of JOT (Junior Officer Trainee)</p>
-<p>Posts: assigned to Belgrade, Yugoslavia to arrive in 1991</p>
-<p>Spouse's Position:  JOT - ACAO (Junior Officer Trainee/Assistant Cultural Affairs Officer)</p>
-<p>Place and Date of birth:  April 30, 1963; Birmingham, Alabama</p>
-<pb facs="0017" n="Page0017"/>
-<p>Parents (Name, Profession):</p>
-<p>Charles McGeehon, Retired school principal</p>
-<p>Martha McGeehon, retired teacher</p>
-<p>Schools (Prep, University):  Birmingham Southern College, BA</p>
-<p>Date and Place of Marriage:  Birmingham, Alabama; October 1988</p>
-<p>Profession:  Reporter</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Program Foreign Service Spouse Series</p>
+                <p>DALE MCGEEHON</p>
+                <p>Interviewed by: Jewell Fenzi</p>
+                <p>Initial interview date: June 29, 1990</p>
+                <p>
+                    <hi rend="italics">Q: This is Jewell Fenzi on Friday, June 29, 1990. I'm
+                        interviewing Dale McGeehon here at my home. Dale is a dependent spouse, new
+                        to the Service. His spouse is a new junior officer. They are assigned to
+                        Belgrade and I am talking to Dale today about his expectations for the
+                        Service, and how he sees himself as a dependent spouse.</hi>
+                </p>
+                <p>My first question is, did you know that your wife was coming into the Service
+                    when you were married? Was she waiting to come in?</p>
+                <p>MCGEEHON: I seem to remember that she had been wanting to get into the Foreign
+                    Service for several years. At this point we've only been married a year and a
+                    half, we dated for five years so I would think that about two years before we
+                    got married I knew that she was taking the tests. It took three years before she
+                    was accepted and I don't remember whether she was accepted before or after we
+                    were married. I think it was probably a little bit after.</p>
+                <p>
+                    <hi rend="italics">Q: But you knew it was a possibility.</hi>
+                </p>
+                <p>MCGEEHON: We knew it was a possibility.</p>
+                <p>
+                    <hi rend="italics">Q: And you knew that's what she wanted to do?</hi>
+                </p>
+                <p>MCGEEHON: Right, yes.</p>
+                <p>
+                    <hi rend="italics">Q: So in other words, you weren't taken by surprise.</hi>
+                </p>
+                <p>MCGEEHON: No, it didn't come out of the blue.</p>
+                <p>
+                    <hi rend="italics">Q: ...out of the blue. And have you been working as a
+                        reporter? I notice you have this profession for the Birmingham...</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>MCGEEHON: I was just there for a while in various roles while I was in college in
+                    the early eighties. I've had four years of journalism experience, two of which
+                    have been at a daily newspaper.</p>
+                <p>
+                    <hi rend="italics">Q: Do you hope to translate that into some sort of writing
+                        career overseas?</hi>
+                </p>
+                <p>MCGEEHON: Very much so. I really want to continue doing what I have been doing
+                    the last few years once we get to Yugoslavia.</p>
+                <p>
+                    <hi rend="italics">Q: What kind of reporting have you been doing?</hi>
+                </p>
+                <p>MCGEEHON: I worked at a small newspaper in western North Carolina, Hendersonville
+                    covering just about anything, mostly health and human services. It's a large
+                    retirement area down there. It's in the mountains so a lot of people from the
+                    north like to retire there. A lot of retirees who live in Florida nine months of
+                    the year go there in the summer because it's much cooler. So health is a big
+                    topic there, covering hospitals, non-profit agencies, that sort of thing. Also
+                    police, courts, a little of schools, you just had to fill in when somebody else
+                    couldn't make it or something. So I got a taste of just about everything.</p>
+                <p>
+                    <hi rend="italics">Q: Have you made any efforts to become a stringer for any
+                        newspaper? It's a little in advance since you are not leaving for another
+                        year.</hi>
+                </p>
+                <p>MCGEEHON: Yes. Before I was in North Carolina I was a clerk in the Washington
+                    bureau of the New York Times. So I think I know a good number of people who are
+                    in the news business here. A lot of those reporters that were at the Times when
+                    I was here have gone on to be an editor at a smaller newspaper, so I'm hoping to
+                    use those contacts, and then just make a lot of cold phone calls, or send out
+                    letters to a lot of different organizations. And then just yesterday a friend of
+                    mine that I worked with in North Carolina — she went to Columbia, got her
+                    master's degree — she put out this wonderful — well, I think the whole school
+                    did, everyone in the school, put out a handbook called “The International
+                    Free-Lancers Handbook”. I think it answers all the questions that I have. It
+                    even gets down to what sort of equipment you need to take over there, and gives
+                    you a list of all the newspapers that accept stories from free-lancers, and what
+                    topics they're looking for. So that ought to save a lot of time for me. It was
+                    just a Godsend, it just came in the mail all of a sudden. Once we get over there
+                    I'm hoping to have already made some contacts, and that I can start sending some
+                    stories over here.</p>
+                <p>
+                    <hi rend="italics">Q: You're fortunate in having a portable profession, I
+                        think.</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>MCGEEHON: Yes, I think so too.</p>
+                <p>
+                    <hi rend="italics">Q: Are you both looking at this as a long term career for
+                        her?</hi>
+                </p>
+                <p>MCGEEHON: She's been saying that she just wants to do this maybe for a couple of
+                    tours, but I've heard some things from other people who have said, “Yeah, I
+                    wanted to do that too, now I'm retiring after thirty years of being in the
+                    Foreign Service.” So I'm hoping that maybe she will do that because I really
+                    think that once we get used to it, and the initial shock of being overseas, I
+                    think we will really love it, and I'm hoping that we stick with it a good long
+                    time. But I don't know if it would be best for me to do that for a number of
+                    years or so. Maybe for five or six. But you never know, we will want to keep our
+                    options open. If we find out that we like it, and I'm doing really well, and she
+                    likes it, we may stay in it. Or if one person likes it better than the other,
+                    well, we may have to make a compromise. We're just going to have to wait and
+                    see, and keep all the doors open, and then kind of adjust, fine tune those paths
+                    wherever they take us.</p>
+                <p>
+                    <hi rend="italics">Q: Is she going to concentrate in Eastern Europe? Or is she
+                        open to... the reason I ask that question, because it seems to me that if
+                        she became a expert in a certain area you could become an expert in that
+                        area too. And it might be to your advantage to be regionally oriented.</hi>
+                </p>
+                <p>MCGEEHON: That raises a question that I have. It's sort of funny. Whenever I was
+                    in the seminars that FSI gave, they would introduce people and they would say,
+                    “This person spent time in Sofia, and Bucharest,” and all these other different
+                    cities in Eastern Europe and then they may say, “China.” It seems like a lot of
+                    people who have done several tours may concentrate in Central America, and then
+                    all of a sudden they're in Japan for one tour. It seems kind of strange. It was
+                    my impression when we first got into the Foreign Service life, that they want to
+                    move you all around, at least the USIA does. Now, it may be different for State,
+                    I don't know. Again, I think whatever we find out we'll be willing to adapt and
+                    go with it. It may be fun to say that you can have tours in every corner of the
+                    world, but then again it may be good to have almost an expertise in a certain
+                    location.</p>
+                <p>
+                    <hi rend="italics">Q: What were some of the valuable things you picked up in
+                        your course at the Institute? Perhaps things that you didn't expect or
+                        didn't anticipate, or hadn't thought about.</hi>
+                </p>
+                <p>MCGEEHON: I think I was a little cynical about protocol, but after learning a
+                    little bit more about it I found out how important it is. I think from a
+                    distance you can be cynical and think the whole thing is rather silly, but after
+                    taking the course I realized that it just makes life a little bit easier.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: It has its place.</hi>
+                </p>
+                <p>MCGEEHON: Yes. And I think I learned a good number of things, more than I can
+                    remember right now about finances, allowances, and regulations. That was almost
+                    like being in school again because everybody in the class was taking notes. It
+                    wasn't something you could just sit back and listen to, you had to write down
+                    things or you could easily miss out something later on that you're entitled
+                    to.</p>
+                <p>
+                    <hi rend="italics">Q: You were dealing specifics that were really going to be
+                        helpful to you.</hi>
+                </p>
+                <p>MCGEEHON: I think there was an inherent problem in the whole thing, and that was
+                    it tended to be very general. I mean, what may apply in Jakarta may be different
+                    for where we're going — Belgrade. But I think generally I was able to understand
+                    a little bit more about what life is going to be like once we get over there. I
+                    came away from the two or three seminars I was in feeling much better, much more
+                    like I was on inside than on the outside.</p>
+                <p>
+                    <hi rend="italics">Q: Was most of that geared toward spouses as female spouses?
+                        I mean did you ever feel that it didn't apply to you because you were a male
+                        spouse? Or is it just general?</hi>
+                </p>
+                <p>MCGEEHON: I felt they took a great amount of care in making sure that the words
+                    that they used just weren't “wife” or “she”. They made it more neuter in a lot
+                    of ways. Sometimes it did slip, but it didn't really bother me because I feel a
+                    little bit more comfortable knowing that there are seven or eight hundred male
+                    spouses that have come through. This one person came through... at one time he
+                    was a male spouse, and it was nice to hear from him.</p>
+                <p>
+                    <hi rend="italics">Q: I was just going to ask you if it would be interesting or
+                        helpful to read transcripts with male spouses who have already been there,
+                        as it were.</hi>
+                </p>
+                <p>MCGEEHON: Sure, sure it would. I was just looking at that transcript there from a
+                    magazine. He didn't really apply to my situation. I mean I'm really just
+                    beginning my career, where it sounds like he's finishing his. So there are
+                    little different circumstances — I think his name is Paul Ashby, he started I
+                    think in the early eighties. He was telling this little anecdote about how he
+                    was introduced to an Air Force colonel as a male spouse, and the colonel gave
+                    him a funny look like, “What are you doing in here, boy?” But I went up and
+                    asked him after his speech was over if it was still like that, and he said, “No,
+                    everybody now is very comfortable with it.”</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>There was one class that I took that had other men in there, but I think they
+                    were all employees. And another class that I took I was the only man in there,
+                    and everybody else was a spouse. And that was a little uncomfortable for me at
+                    first.</p>
+                <p>
+                    <hi rend="italics">Q: I think when I talked to you, I think you were the only
+                        male.</hi>
+                </p>
+                <p>MCGEEHON: I'm not able to distinguish in my mind. They were one after
+                    another.</p>
+                <p>
+                    <hi rend="italics">Q: I think you were the only male spouse.</hi>
+                </p>
+                <p>MCGEEHON: It would have been nice to have another male in there, but I was
+                    sitting around some people who were able to tell me, “As a man you're going to
+                    be able to find employment a lot easier than if you were a woman.” I've had
+                    other people tell me that before — I mean since then, too. But again, I don't
+                    want to be dependent upon the mission to find employment for me. I kind of want
+                    to go over there and find it myself.</p>
+                <p>
+                    <hi rend="italics">Q: Once again I think you're very fortunate that you have
+                        this portable career that you can take along and maintain your own identity.
+                        I hope that works out for you. The more you can do to set it up here, the
+                        better off you might be once you get there, especially while you're here in
+                        Washington.</hi>
+                </p>
+                <p>MCGEEHON: Sure, sure. Today was my third day of language training, and we've got
+                    43 more weeks of Serbo-Croatian so I'm through in the middle of the afternoon.
+                    So I'm hoping to spend the rest of the working day in either calling people, or
+                    typing out a letter, or just trying to get the ball rolling and seeing what sort
+                    of opportunities are out there for me.</p>
+                <p>
+                    <hi rend="italics">Q: Or maybe going to your bureau chiefs here in Washington
+                        and meeting them, and finding out who they can send you to. Well, I think
+                        it's interesting that your concern obviously is to learn the language at
+                        this point, and to look for an entree into your career. And you don't seem
+                        to be too concerned about the spouse role because I don't know what you were
+                        told at FSI, but it doesn't seem to me that you anticipate going out in a
+                        role where you'll be cooking representational dinners, and writing
+                        invitations. How do you feel about that part of it? Or have you gotten that
+                        far yet?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>MCGEEHON: I hope this doesn't sound too chauvinistic, but I'm hoping to avoid
+                    situations like that. I think I would be uncomfortable to play the traditional
+                    spouse's role. Whenever my wife and I... well, we annually throw these Christmas
+                    parties, and she makes the preparations anyway because she prefers to do things
+                    like that. Whereas that just saps all my energy. She loves things that are very
+                    organized — okay, who's RSVPd, how many people are coming, and that sort of
+                    thing. I'm hoping that maybe she can continue to do things like that once we get
+                    over there.</p>
+                <p>
+                    <hi rend="italics">Q: This is interesting to me because it seems to me that
+                        you're not really thinking of yourself as a supported spouse as far as the
+                        mission is concerned. You've already said that you prefer to have your own
+                        career, your own identity, and just incidentally be there as part of the
+                        U.S. Government mission.</hi>
+                </p>
+                <p>MCGEEHON: And I hope that doesn't rub a lot of people's feathers the wrong
+                    way.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I think you see it as your option. The reason I'm so
+                        fascinated by it is because an attitude like that would have just been out
+                        of the question in say 1920 when our oldest interviewee... I mean, she
+                        wouldn't have had an option like that. She went in a supportive role and
+                        that's all there was. You asked me what the thrust of the project was, well
+                        you've just defined it very nicely.</hi>
+                </p>
+                <p>MCGEEHON: Let me say this. It seems to me that in my generation growing up
+                    somewhere along the lines the attitude changed where the man was the main bread
+                    winner.</p>
+                <p>
+                    <hi rend="italics">Q: And the woman hearth and home.</hi>
+                </p>
+                <p>MCGEEHON: Right. I mean growing up you saw that on maybe “Father Knows Best,” or
+                    even as late as “Bewitched” or something where the women are always in the
+                    house, they're always cooking, they're responsible for keeping the house neat.
+                    But I think, maybe when I'll say in first grade, 1970, I think most people
+                    tended to have that traditional mind set. But, again, somewhere along the lines
+                    it started changing because more and more women started working either for
+                    economic reasons, or just because they were tired of staying in the house. Maybe
+                    it was the result of the sixties, Gloria Steinem, when feminization came into
+                    play. Anyway, now that I have quit my job, and I'm here just to learn the
+                    language, that is fine with me. I don't really see that as a threat to
+                    tradition. However, my parents I think are a little concerned about that. I call
+                    my parents, who are still in Alabama, about once a week, and every now and then
+                    it comes up, “Well Dale, you know, you ought to work.” It's hard for me to try
+                    and educate them in telling them, “Well, I'm planning on doing it once I get
+                    over there. But right now I'm investing some time to learn the language so that
+                    it can benefit me once I do get over there.”</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>
+                    <hi rend="italics">Q: If its any comfort to you, you're absolutely right,
+                        because to know the language, and to have an opportunity to study it like
+                        you are, is the most valuable way you can be spending your time right
+                        now.</hi>
+                </p>
+                <p>MCGEEHON: That's good to know.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, definitely, definitely. You told me you were born in
+                        Birmingham, Alabama but you didn't say when?</hi>
+                </p>
+                <p>MCGEEHON: 1963.</p>
+                <p>
+                    <hi rend="italics">Q: 1963. Date? Month?</hi>
+                </p>
+                <p>MCGEEHON: April 30th.</p>
+                <p>
+                    <hi rend="italics">Q: So it's interesting for me to think of someone coming into
+                        the Service at this point whose life was in no way affected by Vietnam and
+                        Civil Rights. As you said, the women's movement - it's interesting.</hi>
+                </p>
+                <p>MCGEEHON: Growing up, I don't remember there being any mention of Vietnam. I
+                    think it was over before I really realized that there was a war. Seems like the
+                    last war we had — I think when I was young I heard about World War II.</p>
+                <p>
+                    <hi rend="italics">Q: That was so remote. That was remote to you like World War
+                        I was remote to me.</hi>
+                </p>
+                <p>MCGEEHON: I just didn't think... I remember being shocked when I heard that there
+                    was a Korean War, and a Vietnam War. During my life time? A war in my lifetime?
+                    No.</p>
+                <p>
+                    <hi rend="italics">Q: The other thing our project does is, we're reflecting...
+                        how can I say this? The spouse in the Foreign Service reflects the external
+                        events in society, and you've just shown me that it does in your attitude
+                        toward willing to share homemaking with your spouse. Both of you doing what
+                        you like to do best is the ideal situation, if it works out that way.</hi>
+                </p>
+                <p>MCGEEHON: At home we have the agreement that, “Well, I like to cook,” but she
+                    doesn't. I don't like to wash dishes, she doesn't mind.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>
+                    <hi rend="italics">Q: Wonderful. That's a good start.</hi>
+                </p>
+                <p>MCGEEHON: It's a good match. We've even discussed that when, or if we have
+                    children, we've even talked about, “Well, maybe the first child... when the
+                    first child comes along you could maybe take leave from your career for a couple
+                    of years.” Then if the next one comes along, the other person will do that. I
+                    think maybe twenty years ago that would have been unheard of.</p>
+                <p>
+                    <hi rend="italics">Q: Of course it would have. Do you think it's more important
+                        for two people to balance, and share, responsibilities like that, and maybe
+                        risk a little bit of career advancement for that kind of life? I think once
+                        you get into the Service, your wife might think that she would be missing
+                        out if she missed two years. Do you think that's one of the trade-offs that
+                        the two of you might have as you go along. She gives up a little bit of her
+                        career, and you give up a little bit of yours. Or is she terribly, terribly
+                        and intensely career oriented at this point?</hi>
+                </p>
+                <p>MCGEEHON: When I met her in college, she was terribly career... I mean she was
+                    intensely career oriented but I've always wanted children and I think I have to
+                    slowly break her into the thought of having children. I've seen more in the
+                    news... I think Congress not too long ago, very recently, made it that
+                    businesses had to allow their employees to have parental leave. I think maybe as
+                    time goes on...</p>
+                <p>
+                    <hi rend="italics">Q: Isn't that the one the President vetoed?</hi>
+                </p>
+                <p>MCGEEHON: Oh, did it finally not become law?</p>
+                <p>
+                    <hi rend="italics">Q: Maybe we're not talking about the same thing, but he did
+                        veto something on parental leave, but whether they can override that veto or
+                        not, I don't know.</hi>
+                </p>
+                <p>MCGEEHON: At least it's an indication that there's something...</p>
+                <p>
+                    <pb facs="0009" n="Page0009"/>
+                    <hi rend="italics">Q: It's in the wind, and if it didn't get through this time
+                        they'll get something else through later on. Of course, maybe this isn't as
+                        great an interest to you since you do have your own profession, but how
+                        would spouse compensations — some sort of spouse compensation — appeal to
+                        you because that's something I didn't discuss from the historical
+                        perspective the other day. But Mrs. Eagleburger, when he was in the
+                        Department before, actually got as far as the Hill with a proposal for
+                        spouse compensation, and that was only for senior spouses, for playing the
+                        traditional representational role. I think there was another movement called
+                        the Foreign Service Associate proposal which was an attempt to compensate
+                        spouses for following their own careers in a volunteer manner in the host
+                        country, which I don't think that's ever going to get through Congress. I
+                        think that's unreal to expect our Congress to pay you to work as a volunteer
+                        in Belgrade, say, if that were the case. Would you want to be compensated to
+                        be a spouse?</hi>
+                </p>
+                <p>MCGEEHON: That's tough. I don't know. I mean it would be very nice if that was
+                    available, but I think if you drew an analogous situation to the life in the
+                    United States, maybe if a spouse chose not to work in the United States I
+                    wouldn't expect that person to ask for any compensation for maybe being a
+                    volunteer. However, say if you were overseas, and you had to quit your job to be
+                    with your spouse, maybe then I could see more weight to the argument of needing
+                    compensation because you've been plucked out of your job, and there's nothing
+                    for you once you get overseas. I mean, the Government's paying your rent, you
+                    don't have that expense. It's just really hard for me to imagine being able to
+                    get paid for anything that I would do as a spouse, and if I wasn't a
+                    self-employed person.</p>
+                <p>
+                    <hi rend="italics">Q: What about some of the mission generated jobs like the
+                        Community Liaison Office? I think you have to be in the Service six years
+                        before you can be eligible for that, or filing in the Visa, or managing in
+                        the commissary. Would you be interested in one of those jobs if your
+                        reporting profession didn't work out right away? Would you be interested in
+                        any of those?</hi>
+                </p>
+                <p>MCGEEHON: No. It's almost as if I'm going through this with blinders on. I don't
+                    want to be distracted by any other tidbits, or carrots that are dangling for
+                    other jobs because in this profession of reporting it's not something that you
+                    can do for five years, and then drop it for three, and then go back to it. It's
+                    very hard to get back into it. You have to stay on the track because it's a
+                    craft. Your skill would just disintegrate — just fall away very quickly if you
+                    don't do it every day. I think a lot of potential employers would use that, that
+                    if you did do something else for a while, it would make it a little more
+                    difficult for you to get back into it. However, it seems like there is a trend
+                    now that these major news organizations don't mind employing people who at one
+                    time have held a high position in government, and then going back to journalism.
+                    There have been a couple that I can think of who have gone back and forth. So,
+                    to answer your question, no, I really don't want to be a CLO, or a mailroom
+                    clerk, or something like that. I think I have to stay on this reporting
+                    track.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>Maybe if nothing works out, and if there are just dead ends everywhere, I think I
+                    would enjoy teaching English as a second language.</p>
+                <p>
+                    <hi rend="italics">Q: That's definitely a possibility.</hi>
+                </p>
+                <p>MCGEEHON: My parents were both teachers, and I think I would enjoy letting people
+                    learn, or helping people learn. It's kind of funny. I've always thought about
+                    being a reporter and looking at the government, or looking at public jobs, and
+                    explaining things, or asking why this happened, or something like that. It would
+                    be very hard for me to turn the tables.</p>
+                <p>
+                    <hi rend="italics">Q: Eastern Europe is so interesting at this point. I guess
+                        maybe there have been fewer dramatic changes in Yugoslavia than other
+                        places, but still there's a lot there.</hi>
+                </p>
+                <p>MCGEEHON: Right. That's why we decided...</p>
+                <p>
+                    <hi rend="italics">Q: Maybe your timing is right.</hi>
+                </p>
+                <p>MCGEEHON: I'm sort of wishing, “Oh my gosh, I wish I was over there right now.”
+                    Because in a year everything may be settled down, or there may be a clearer
+                    picture of what's going to happen. And already there's a clear picture of what's
+                    happening. I think in the northern Eastern Europe there's more democratization,
+                    whereas in the Balkan states...</p>
+                <p>
+                    <hi rend="italics">Q: ...a little slower to come.</hi>
+                </p>
+                <p>MCGEEHON: Right. So I wish I was over there now seeing history happen. Still, I
+                    think there's going to be a long term interest in what's happening over there.
+                    Maybe more with business now that things are opening up a little bit more. I
+                    think Yugoslavia does want to have a lot of western investment.</p>
+                <p>
+                    <hi rend="italics">Q: They're sending Peace Corps volunteers over there, and I
+                        wonder if anyone with a spouse in the Service has ever gone to the Peace
+                        Corps and asked to go as a volunteer? I don't know. I don't know how that
+                        would work out.</hi>
+                </p>
+                <p>MCGEEHON: From what I've heard the Peace Corps tends to be a little snobbish in
+                    its task, or at least towards the other people.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: I think they like to maintain their distance from the
+                        Embassy.</hi>
+                </p>
+                <p>MCGEEHON: And they lead a little bit more tougher... I mean they're sleeping on
+                    the mats with the natives. I mean, they don't go home to a nice house maybe with
+                    running water, or something like that. So they tend to think they're really
+                    meeting the natives, and getting to know them better.</p>
+                <p>
+                    <hi rend="italics">Q: One of the first groups ever in 1962 in Sierra Leone lived
+                        a couple of blocks from us, but believe me, when the water went off, it went
+                        off at their house first and I always knew when the water was off because
+                        they came down the road toward our house with their towels over their arms.
+                        They were willing to rough it to a point but not to go without a shower.
+                        Well, I think it's interesting. You really seem to have thought a lot about
+                        this. Some of the other questions don't really apply because we've talked
+                        about your career, and spouse compensation, and your work, and your attitude
+                        toward the other jobs, and you've answered that. Do you feel that society
+                        views... well, the divided family responsibilities, I guess, between the two
+                        spouses such that anybody can be a male spouse today? Or does it take a
+                        certain attitude, and a certain...</hi>
+                </p>
+                <p>MCGEEHON: I think the younger the couple is, maybe the mote tolerant they are for
+                    breaking away from the tradition. If somebody was going to go into the Foreign
+                    Service suddenly when they're fifty, or older, I think it would be a little bit
+                    tougher, at least for the man in that couple to be able to accept that. That's
+                    just my views. I haven't really thought about that much. I think the younger
+                    people are who go into the Foreign Service, I think the more willing they are to
+                    accept the divided responsibilities. But then again, it's a shame... I've heard
+                    about the other couples in my wife's class... when they got accepted to join the
+                    USIA — I think there were 30 people in her class, half of whom were women. And I
+                    think she was the only married one. But then I've gone out with them maybe to a
+                    bar, to a restaurant, after work and I've heard the horror stories. I think we
+                    went to an Orioles game one day, and I sat next to this man and he was telling
+                    me how his wife is an attorney in California, and she's probably on the career
+                    track. She doesn't want to leave. So it works both ways. Now that society is
+                    where women are moving up the corporate ladder, although probably not as fast as
+                    some would like, there can still be the tension. I think that maybe twenty years
+                    ago if I was in the same position, it may be very hard for me to accept
+                    disrupting my career plans to go into the Foreign Service — to follow my spouse.
+                    However, now I think the tables are turned maybe with the women to follow their
+                    husbands into the Foreign Service because they've been on the career path now. I
+                    guess each couple just has to decide what they want to do.</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>There was a woman sitting next to me in a couple of these seminars. She was an
+                    attorney, and she followed her husband to Baghdad. And, of course, the society
+                    itself is fairly prejudiced against women and then the best job she could find
+                    was being the mail clerk. She was very defensive when it came to discussing
+                    careers, or real jobs. I think one time there was a question raised as to, “can
+                    spouses find real jobs?” You could just see her feathers coming up, and she
+                    said, “Don't say 'real job' because what I was doing over there I was in control
+                    of the mail.”</p>
+                <p>
+                    <hi rend="italics">Q: So that had become a real job?</hi>
+                </p>
+                <p>MCGEEHON: That had become a real job to her. It has its problems that have to be
+                    ironed out, but I think, and I'm hoping, that the joys and the experiences that
+                    we have will outweigh all the little problems or bumps that we run into.</p>
+                <p>
+                    <hi rend="italics">Q: Because even without two careers there were bumps, and you
+                        iron them out.</hi>
+                </p>
+                <p>MCGEEHON: The wife was just submissive. Yes, of course, I'll go, and now there
+                    just has to be much more compromise.</p>
+                <p>
+                    <hi rend="italics">Q: And your talk about finances, and allowances, and what
+                        have you, it seems that the State Department is doing what it can to make it
+                        possible for you.</hi>
+                </p>
+                <p>MCGEEHON: As far as finances go?</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>MCGEEHON: Yes. I think there are a lot of things out there that can help you. But
+                    you have to know where they are, you have to know what to ask.</p>
+                <p>
+                    <hi rend="italics">Q: I think it's valuable if you've learned that this early
+                        on. You really do. Was it a large school that you went to?</hi>
+                </p>
+                <p>MCGEEHON: In college, it was small, it was only 1,500 students.</p>
+                <p>
+                    <hi rend="italics">Q: Because I went to Berkeley, and one of the first things
+                        you found was nobody tells you anything. You have to go and find it out
+                        yourself. So if you've learned that already, that's a valuable tool.</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>MCGEEHON: Sometimes it helps to know enough information to ask about something.
+                    But it seems like if you're totally ignorant of something, you won't know what
+                    to ask.</p>
+                <p>
+                    <hi rend="italics">Q: So that's why those OBC courses have been so helpful, I
+                        would think.</hi>
+                </p>
+                <p>MCGEEHON: Of course, the negative side of all this is that we're sort of in an
+                    austere budget situation. I mean, there may be some cutbacks. And just earlier
+                    this week I was at the Security Overseas Seminar. They were talking about what
+                    life may be like if you're evacuated from a country that suddenly became
+                    hostile. Most people evacuated tend to think, “Well, I'll go back in two weeks.”
+                    Well, it may be months before you can go back, and if you're doing it in the
+                    middle of a school year, and you were sent back to Washington, you want to keep
+                    your child in school. Well, if you send them to Montgomery County schools — I
+                    forget the figure exactly — but it may cost you for being an out-of-state
+                    student — like $82,00 a year. And, of course, everybody who had children, they
+                    just gasped. They didn't even know about that. And there were some very testy
+                    questions given to the speaker about that. I think the speaker said, “Well, you
+                    just have to think about these things.” And one person in the back of the room
+                    said, “No, I think the State Department should think about that.” And she said,
+                    very politely, “Well, there are people who are thinking about this, but we're
+                    facing cutbacks now.”</p>
+                <p>
+                    <hi rend="italics">Q: So if you're not a resident of Montgomery County, but you
+                        send your child to school there, you have to pay a tuition equivalent in
+                        taxes which would be about $8,200.</hi>
+                </p>
+                <p>MCGEEHON: I think so.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I can see how Montgomery County would think that
+                        way, yes.</hi>
+                </p>
+                <p>MCGEEHON: So that's just what prompted me into thinking you may just assume while
+                    you're leaving Liberia, or something, and you're going to put your kid into
+                    Montgomery County, it won't cost me anything because it doesn't cost you
+                    anything if you live in Montgomery County. You just didn't have that information
+                    to think to ask about something like, “How much will it cost?”</p>
+                <p>
+                    <hi rend="italics">Q: That would be quite a shock. I notice you live in
+                        Alexandria. I don't recognize the street name, Abingdon Drive.</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>MCGEEHON: It's right off of GW (George Washington) Parkway. It's right next to
+                    the flight patterns from the airport, it's almost across from the marina. Say
+                    you're going out of Washington towards Alexandria on GW Parkway, it's the first
+                    red light you come to, just make a right there. It's Potomac Crossing.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, I guess I go by there all the time because my daughter
+                        lives in Alexandria. But you haven't bought a condo, you're just have an
+                        apartment?</hi>
+                </p>
+                <p>MCGEEHON: We're just renting. Getting used to those airplanes is something. It
+                    was funny. When my wife was looking for apartments the per diem was enough when
+                    she first came here, that she could rent, or have the government pay for this
+                    apartment, this nice apartment in the District, and, of course, the longer she
+                    was in training the more the per diem went down. So the first of May she moved
+                    out to Alexandria, and when she was looking around for apartments she went by
+                    there two or three times, and she said, “I knew it was near the airport, I stuck
+                    my head out the window of the car just to make sure if I could hear anything.
+                    Never heard a sound.” She said, “So it's going to be very quiet.” So when she
+                    moved into it I was still working in North Carolina. She had the windows open in
+                    the bedroom, and we were talking on the phone, and all of a sudden I heard this
+                    plane go by, and it sounded like it was right outside the window.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, because they take off that way.</hi>
+                </p>
+                <p>MCGEEHON: We get up a little bit before 7:00 in the morning, and those planes
+                    leave on the dot at 7:00. We almost don't need to set our alarm clock because
+                    you know that you're going to wake up at 7:00. And it's funny, if they land
+                    going north, it's not nearly as loud as if they take off going south. You sort
+                    of keep your fingers crossed that maybe they'll be taking off the other way this
+                    morning, but no, it's always taking off the way it's the loudest. I sort of
+                    block it out now but I haven't learned to focus... when we have the television
+                    on it can really... if you're watching a comedy show the plane goes by at the
+                    punch line.</p>
+                <p>
+                    <hi rend="italics">Q: Well that's just short term too isn't it. A nice thing
+                        about the Foreign Service. It's double edged that if you don't like it, it's
+                        not forever. But if you do like it, which is usually the case, it's sad to
+                        leave.</hi>
+                </p>
+                <p>MCGEEHON: What I'm looking forward to... (End of tape 1, Side A)</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>...any little one bedroom in North Carolina to move up here. All the things I had
+                    to throw out. All the things that I'd just accumulated there, just in two years.
+                    I'd be pulling things off shelves and... here it was, I'd forgotten about it,
+                    and I'd lived my life fine without it. But once we get overseas I think we're
+                    going to have to learn to really appreciate just some minor luxuries, if you can
+                    call them that. We were watching a video tape during this one seminar... I
+                    forget his name, but he was saying that if you're in New Delhi, or something,
+                    and you come across a bottle of Guiness beer, you get all excited, it's
+                    something you can write home about. Whereas here you could just snap your
+                    fingers almost and get it. I'm looking forward to being able to appreciate what
+                    I have, and maybe getting by on very little, or at least a lot less than what I
+                    have now.</p>
+                <p>
+                    <hi rend="italics">Q: You're going into a culture where you iron Christmas
+                        paper, and Christmas ribbons, and reuse Saran Wrap, and things like
+                        that.</hi>
+                </p>
+                <p>MCGEEHON: It's really interesting the feeling I got when a lot of people spoke to
+                    us, they'd spent years in the Foreign Service, was that, “Yeah, it's tough, but
+                    at the same time you get this wonderful...” I don't know how to describe it, it
+                    seems like the best way to describe it is what the Peace Corps uses as a
+                    recruitment. “It's the toughest job you'll ever love.”</p>
+                <p>
+                    <hi rend="italics">Q: That's a nice way to put it.</hi>
+                </p>
+                <p>MCGEEHON: I get the feeling that it's rough, you'll have all these headaches, and
+                    things, but you come away... the whole picture will be... I mean if you look at
+                    the whole picture, then you get a lot more out of it than if you if you just
+                    dwell on the headaches, or the small things.</p>
+                <p>I'm hoping that I can really appreciate those things and come away with the smile
+                    that everybody seems to have on their face when they talk about their
+                    experiences. I think I'm on for a great adventure.</p>
+                <p>
+                    <hi rend="italics">Q: I think those of us who have put in 25 to 30 years, can't
+                        really think of living life any other way, and, of course, it's not all a
+                        bed of roses. But the compensations seem to outweigh the annoyances.</hi>
+                </p>
+                <p>MCGEEHON: Right. That's what I was trying to say. I'm really just looking forward
+                    to it. I think it's going to be a wonderful opportunity. Of course, you know
+                    we're going to miss our family here. You won't be able to pick up the phone
+                    maybe and give them a call as often. You're going to have to maybe write some
+                    letters, instead of calling them, which will be nice to bring back that sort of
+                    form of communication.</p>
+                <p>
+                    <pb facs="0016" n="Page0016"/>
+                    <hi rend="italics">Q: And be sure to ask your parents to save your letters too,
+                        and put the year on them, date them with the year because I found when I was
+                        reading mine that my nice mother-in-law saved, that I never put the year on,
+                        so I had to get out a magnifying glass and try to figure out what the date
+                        was from the postmark. Do, because it's such fun to read them later on.</hi>
+                </p>
+                <p>MCGEEHON: Yes, that's interesting. I had to sell my car when I came up here, and
+                    I was cleaning out the glove compartment, and I found a letter that I had
+                    dictated to my father when I was six years old, that I'd written to my
+                    grandmother on Christmas Day. It was postmarked December 25, 1970. It took me a
+                    while to figure out why it was in this car...</p>
+                <p>
+                    <hi rend="italics">Q: I have to ask you why it was in the car too. That was like
+                        20 years ago.</hi>
+                </p>
+                <p>MCGEEHON: The car was almost that old. I remembered that my grandmother who is
+                    still living, we had to put her into a nursing home because she was really
+                    losing her mental capacity, she was living alone, we were scared that she was
+                    going to hurt herself. So when we moved her out, we were cleaning out her
+                    drawers, and I found the letter that I had written — she had to move out about
+                    ten years ago. I found the letter and I'd probably driven over in that car, and
+                    I just wanted to save it so I put it in the glove compartment of the car, and it
+                    just sort of evolved to the bottom of the glove compartment, so I found it years
+                    later. It was really fun to read that, and it brought back all these memories.
+                    So I think you're right to save those old letters. It will be nice to look back
+                    and read again. The problem is I can't read my handwriting now. I probably even
+                    have a worse time reading it...</p>
+                <p>
+                    <hi rend="italics">Q: Well, when you get your little lap top, you can do it that
+                        way.</hi>
+                </p>
+                <p>***</p>
+                <p>BIOGRAPHIC DATA</p>
+                <p>Spouse: Deborah McGeehon</p>
+                <p>Spouse Entered Service: January 1990Left Service: active dutyYou Entered Service:
+                    same</p>
+                <p>Status: Spouse of JOT (Junior Officer Trainee)</p>
+                <p>Posts: assigned to Belgrade, Yugoslavia to arrive in 1991</p>
+                <p>Spouse's Position: JOT - ACAO (Junior Officer Trainee/Assistant Cultural Affairs
+                    Officer)</p>
+                <p>Place and Date of birth: April 30, 1963; Birmingham, Alabama</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>Parents (Name, Profession):</p>
+                <p>Charles McGeehon, Retired school principal</p>
+                <p>Martha McGeehon, retired teacher</p>
+                <p>Schools (Prep, University): Birmingham Southern College, BA</p>
+                <p>Date and Place of Marriage: Birmingham, Alabama; October 1988</p>
+                <p>Profession: Reporter</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

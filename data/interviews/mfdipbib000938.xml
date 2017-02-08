@@ -1,206 +1,1205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000938">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Herman Pollack </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Herman Pollack </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>HERMAN POLLACK</p>
-<p>Interviewed by:  Thomas Stern </p>
-<p>Initial interview date:  December 5, 1990</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Herman, as it is customary in these interviews, we like to start with a brief description of your back ground, education and the reasons why you joined the Federal Government.</hi>
-</p>
-<p>POLLACK :  I was raised on Long Island, went to what was then know as the City College of New York during the tail end of the Depression. I majored in the social sciences and graduated with a degree in Social Science, having taken many history and government courses. Following graduation in 1940, I found that jobs were not readily available, so I went for a Masters Degree in economics at Columbia University during the 1940-41 academic year. This was to round out my education in the social sciences. Like many of my contemporaries, I had taken the Civil Service examination. As a result, in the late summer of 1941, I got a call from Washington, asking me to come for an interview. I did so and went to the Office of Emergency Management. I went through a period of four months during which all was confusion. The Office was expanding very rapidly at that time. The first job to which I was assigned was abolished before I could even get there. I stuck around OEM until something else could be worked out. That something else happened to be in the Personnel office, despite my background in economics which I had hoped to use. Since income was fairly important at the time, I took the personnel assignment and started to work a day or two after Pearl Harbor.</p>
-<p>I chose the Federal Government for two reasons: a) I had some vague notion of public service being a more attractive way of life than the private sector—as a matter of fact, I had turned down an offer to become a trainee with one of the big airlines; and b) at the time, $1,440 or $1,620, whichever it was, looked like a lot of money to me. Indeed compared to my previous earnings from part-time employment, the federal entrance salary level was a princely sum. It was attractive.</p>
-<pb facs="0002" n="Page0002"/>
-<p>So I started in the OPA's Personnel office and stayed for about eighteen months. I started as a classification analyst. The guru of classification in those years was a man by the name Stan O'Rear, who made his reputation in classification himself, but then worked in one of OPA's operating divisions. My immediate boss was a woman, Margaret Bremer, who was not only very capable, but who also taught me how to write English with a minimal use of adjectives and adverbs. This was probably the best training in writing that I had ever had. It spoiled my ability to wax eloquently. I still shy away from hyperbole or even descriptive words and tend to be expository in what I write.</p>
-<p>Then I went into the military service in March, 1943. I immediately contracted hepatitis and a few other ailments and then I was discharged for having poor vision. I returned to OPA and followed a man named Paul Canaipe, who changed his name later to Camp, when he went to the War Shipping Administration. We were at WSA for about a year when our earlier boss, Ken Warner, became personnel director of the Foreign Economic Administration. So I joined him there as a management analyst in his office and stayed there until the end of the war. My main task was to write policies and procedures on subjects such as reductions-in-force. There was a brief period during which they moved FEA into the Department of Commerce, although the staff never actually moved.</p>
-<p>The atmosphere in Washington, during the war years, was absolutely hectic. It was also a period of great upheaval and change. When I first came to Washington in 1941, it was still a “southern” city. The lunch rooms were segregated. If you got on a bus top go to Virginia and sat in the back, the driver would ask you to move forward when you crossed the Virginia line because the back was reserved for the blacks. This was also the period when the Americans Veterans Committee was organized, among other reasons, to compete with the established veterans groups in an effort to provide veterans a more liberal voice. We engaged in desegregation activities in theaters where blacks had been forced to sit in the balcony and in restaurants which they had not been able to enter. So it was a period of extreme turmoil.</p>
-<p>On the management side, the governing rule was to get the job done. Regulations were not the end-all. Every agency that participated in the war effort was in a constant state of reorganization. Young people who had little experience were given major responsibilities. One of the lasting impression that I gained from those days is that given the opportunity, people with talent will rise and surprise you with their capabilities to achieve. The legal counsel at OPA was a Columbia University professor—twenty-five years old— who, like all the other lawyers, walked around without ties and with shirt sleeves turned up. That was a major break through in the government officials' dress code. This acceptance of the new eventually even applied to the State Department. In prior times, Foreign Service Inspectors, when writing their commentaries on each officer inspected, would comment on the officer's appearance. If you wore a beard or a goatee you would have been informed in various ways that that was not proper or appropriate. And certainly, if you were caught with your jacket off, you were told, as I one was by Tom Estes once, that that was also highly inappropriate.</p>
-<pb facs="0003" n="Page0003"/>
-<p>While still at FEA, one day, while walking on the street, I ran into John Miles, who had worked in FEA's personnel office, but had left to go to work for the Department of State. We hadn't seen each other for an extended period. We exchanged the usual pleasantries and promised to have lunch together at sometime and then parted. Much to my surprise, a week later I got a call from John, asking me to have lunch with him. It turned out that someone else joined us, namely Carl Humelsine, who was then the Assistant Secretary for Administration, which was the top administrative position in those days. Carl had worked with General George Marshall at the Pentagon and when Marshall became Secretary of State, Humelsine came with him. I was still young in 1946—26 or 27 years old—, but had done well in the civil service. I was probably a General Schedule (GS) 14 or 15, which was the top of pay schedule. Humelsine called me for a discussion later. I must have passed the lunch screening because all he wanted to know then was what I wanted to do. The Department was trying to staff itself with young people. I explained my general interest in management; I did not mention personnel; I had had enough of that at that point. So he sent me to see Just Lunning, who was the head of the Department's management staff. He was born in Denmark and still had a slight accent. His father owned Jensen's on Fifth Avenue in New York. During the war years, Just had worked in a variety of intelligence assignments and then had transferred to the Department. So I went to work for the Department in the Department's central management staff. Just gave me a couple of assignments to start me off. My very first assignment—and remember I knew precious little about the Department—was to work on the plans for the new building. Specifications were being developed so that the General Service Administration (GSA) could come up with some design requirements that the architects would have to fulfill. The old State Department had a library, which when the building was built in 1887, was the epitome of the library science. It was the most advanced library of its day. The facility by the time I joined the Department, had been in existence some 60 odd years. The question then became what should the library of the future look like.  To try to get an answer, the Department employed a Mr. Osborne, the Librarian of Harvard University. I was assigned as his assistant. Together we went through the old library. I found very interesting the way an experienced librarian made an assessment. He would count shelf feet and look for the standards authoritative books that any respectable collection should include. He found that there were more volumes on the Civil War than there were on the Spanish-American and World War I conflicts. There was much less on World War II. He found that the library was not a working library, but rather an archive. I remember how aghast he was when he went upstairs under the eaves to find a newspaper collection that went back to 1801. These were big, thick folio volumes. about 4” thick and very large. They were stacked one on top of the other so that you couldn't retrieve the bottom copies anyway. Of course they hadn't been used and were just being stored. He also found that the roof was leaking, so that there was considerable water damage. Osborne would have given his right arm to have that material available at Harvard for the use of scholars who would have found it a gold mine of information. Downstairs, when you entered into the library, which was a very attractive facility. there was a glass case, which held the Articles of Confederation, one of the two or three sets then extent. The rooms were not air conditioned although the Articles were the pride of the Library. He was horrified that a document of such great national and historical importance was being treated this way. Osborne saw to it that the Articles were transferred as quickly as possible to the Archives or the Library of Congress were they would be given proper care.</p>
-<pb facs="0004" n="Page0004"/>
-<p>That was typical of the Department of 1946; it lived in the past. It was at this time in the process of absorbing what had been the Office of War Information and part of the Office of Strategic Studies (OSS). The Department was growing by leaps and bounds, although psychologically it was still the State Department of 1939—a small, cozy organization, small enough so that all of the officers had known each other. The Department was physically scattered all over Washington. I started in a temporary building behind what is now known as Old State. There was no New State; many of us were in temporary buildings.</p>
-<p>
-<hi rend="italics">Q:  Did Humelsine or anyone else in State find your youth and rank to be incompatible with the personnel structure of a traditional, “old-line” bureaucracy?</hi>
-</p>
-<p>POLLACK:  Humelsine did not, but the personnel people had great difficulties accepting the situation. They wanted me to take a lower grade; I thanked them, but I told them that I would not accept a lower rank just to join the Department. They finally accepted my position, but it was not easy for them. The Department was having great difficulty in adjusting to the post World War period which was a period of tremendous upheaval. First of all, the Department had been shunted aside during the most of the War years. The military , the Treasury Department and the Foreign Economic Administration were playing the predominant roles in the international relations area. State grew only slightly during the War and was not very much different by the end of it than it was before it. It looked upon itself as an elite organization, one with a special relationship to the President. The Department viewed itself as the President's staff on foreign policy and resented the perceived intrusion by other agencies on what had been its essentially private turf. It had no concept on how to adjust to the post-War role that the United States had to play. In 1939, the U.S. was still essentially a country that shielded itself from the world surrounding it. After the War, the U.S. found itself as the predominant world power with much of the world depending on it for both political and economic leadership. It took the Department several decades to adjust to that new the world situation and I am not certain that it has fully accommodate to it yet. Of course, just about now, the world situation is turning around from a one or two nation hegemony to a multi-polar world.</p>
-<pb facs="0005" n="Page0005"/>
-<p>When intelligence and information activities were created in the Department, initially it merely reflected a transfer of a group of people who showed on the organization chart as a new activity. There was no interchange between these new additions and the “old-timers”. Some years later in the late 1940s, when I was on the administrative staff of the Bureau of European Affairs, we brought in a new group of people. I remember a frustrated Tony Maccocio, an information specialist who later became the head of the information office, seeking to find out how he could be invited to lunch by some of the Foreign Service officers and other established members of the Bureau. He felt very isolated from the rest of the Bureau; he and the other recent arrivals were viewed as “uncouth”—in the literal sense—different and foreign.  The Foreign Service of course dominated the Department, but the whole institution was a unified, integrated organization. There were professional non-Foreign Service officers who felt the same way about this invasion of “outsiders”.</p>
-<p>
-<hi rend="italics">Q:  You worked for Carl Humelsine, who was the senior management official of the Department. Do you have any recollection of the relationship that Humelsine had with the Secretary or the Under Secretary?</hi>
-</p>
-<p>POLLACK:  He had a close relationship with the Secretary because he, like a number of other officials, had come with Marshall from the Defense Department or War Department. He therefore enjoyed the Secretary's confidence. The Under Secretary was Bedell Smith, another former military man. But these two were not the kind who intervened in the daily activities of their subordinates. They were trying to bring the Department into a position of being able to carry its own role inside the government. The Department had a bad reputation at that point in time and it was certainly not geared to perform its post-war function. I was assigned another project, namely to study the ILH (International Labor and Health) office which was within the International Organization Division. The ILH office was headed by Otis Mulligan. The principal reason for the study was the interest of the Department of Labor which was riding high following Francis Perkins' tenure as Secretary. It was concerned about the role of the Labor Attach� overseas.</p>
-<pb facs="0006" n="Page0006"/>
-<p>My career in the Department was largely determined by a change in the senior management officials. Humelsine became the Executive Secretary of the Department and was succeeded by Jack Peurifoy. The Executive Secretariat was a new organization created by Marshall and Humelsine. In those days, when a classified message was sent overseas, it was typed on a telegram form and was sent to the Secretary for review since his name would be at the end of the text. The people who reviewed all these messages was a group of very pleasant women who looked at the grammar, the conciseness and style of the message. They improved my use of the English language considerably. I got a great deal of instruction from that group. When one of these people in the Secretary's office finished the review, you took the message back to your office for retyping, obtained other necessary approvals and then it was sent to the code room where the message was retyped into a machine that would encode and transmit it. That process was of course reversed at the receiving end. It was a slow and laborious process. The Department was very slow in modernizing itself. The use of the telephone for international calls was not an accepted practice, not so much because of the security issue, but because it was novel and expensive. This situation lasted a longtime. Later when the foreign assistance program was established. its personnel was aggressive and used the telephone because there was no record was made and it was rapid. State still required its personnel to have a form filled in and approved before a long-distance call could be made. I complained bitterly to Livingston Merchant, then Assistant Secretary for European Affairs, that we were being taken advantage of by people who were more attuned to the modern era.</p>
-<p>After Peurifoy took over as Assistant Secretary for Administration, I was assigned to work for Arthur Kimball, who was Peurifoy's special assistant. I was assigned to work on the transfer of responsibilities for the “occupied areas” from the military to the State Department. There was an office in the Department headed by former general Hilldring. On his staff was a former colonel by the name Joe Frank. Frank and Kimball, with me as the senior assistant, made up a team that planned the transfer of the “occupation” responsibilities.  Some people thought it was ludicrous that State would be able to take on these responsibilities. I still remember the phrase that George Marshall used once when he was returning from Europe on a ship. As he arrived in New York, he was met by the usual mob of reporters. When asked by one of them whether it was true that the Department would take on these new responsibilities. When he answered in the affirmative, he was then asked whether he thought the Department would be able to handle the new functions. His answer was in effect that there was no better way to commence than to begin. That was typical George Marshall. Frank, Kimball and I spent several years on this issue. We started with Korea, then on to Germany and then Austria. I worked on this transfer until late 1949 or early 1950.</p>
-<pb facs="0007" n="Page0007"/>
-<p>At about this time, the Department was also undergoing a fundamental change, thanks primarily to the Hoover Commission report. Hoover's chief assistant was Dean Acheson, who became Secretary of State in 1951. By 1950, there was a new spirit emerging in the Department. There were a lot of new faces. There were major projects undertaken to implement the Hoover Commission recommendations. Various task forces which worked late at night. There was a spirit of creativity, which has probably not been duplicated in the Department since. As a consequence of the very wide participation in this effort to devise a new State organization, led by Dean Acheson, there were very few officers who did not understand what the new Department was designed to do and what its functions and goals were. It was a major undertaking. This effort produced a much stronger Secretariat; that in turn also produced a much better understanding of the meaning of a “clearance” procedure. The pre-Hoover Commission clearance procedures in the Department were very constipated; it was used as a means to block policy development, not to improve it. The Hoover Commission understood the problem and made a clear distinction between “veto” clearances and “advisory” clearances. This difference was pretty well understood and observed in the Department until the mid 1950's. Gradually, the distinction became blurred again. I was brought back into it in again in 1959 when I was the Department Management Officer. We reopened the question at that time in an effort to re-educate a brand new generation of officers in the meaning of “clearance”. We may have succeeded in returning one-fourth of the way back to where the Hoover Commission had put the issue.</p>
-<p>But back to my work of assisting the transition overseas from a military government to a civilian one. I had an opportunity to visit all three countries. I went to Korea about 1947, before the Korean War, with a group of State officials which included Glenn Wolfe. It had been devastated. Seoul's hillsides were bare; no trees—all used for fuel during the war years. The major hotel was built by Germans early in the century, called the Chosun Hotel. We drank our water out of a chlorine bag. The tap water was not potable if it ran at all. The city was destroyed and the American military thought it was the rear end of the world. They were delighted to see us because we offered the prospect that they could leave Korea in the reasonable near future. The military was running an occupation government and couldn't wait to leave. When we arrived, there was no civilian activity except a small assistance group which provided some economic aid. Matters were very rugged. Amoebic diseases were rampant. We were in Korea to design a plan for the replacement of the military administration by a civilian one. Korea would continue to be occupied territory. We were looking to see what resources might be available, what housing could be expected, what facilities would be required and what the military might continue to do to support the American officials. The situation was very difficult. I remember that the military tried to keep its commissary supplies on a concrete area surrounded by an electrified fence. We were told the Koreans would tunnel in under the fence and the goods would disappear in the night despite the thick concrete base. The Koreans were very resourceful and ingenious, as later shown by the science students it sent to the U.S., for advanced academic training.</p>
-<pb facs="0008" n="Page0008"/>
-<p>In the case of Germany, John J.McCloy was appointed as High Commissioner, succeeding General Lucius Clay, who may have had the same title. I, as well as many other, accompanied McCloy on his first visit to Germany. Glenn Wolfe was brought into the administration of the High Commissioner's office, as the chief administrative official. When I visited Germany in 1948=49, it was still devastated. You could see the bombing damage. The American military was living quite well in beautiful homes. General Clay's staff, particularly those involved in political developments, was a very dedicated group. I spent sometime with them. That staff of political analysts was headed by a Dr. Pollock from the University of Michigan. He had helped draft a constitution which gave considerable authority to the Laender (states). I remember going to Berlin where we were given a presentation. That was my fist exposure to an Air Force briefing, which was done with great skill and art. Everything was being superbly managed and there were no unsolved problems. McCloy was a unique individual. He walked around with a German dictionary in his hand to make the point that his staff should learn German. The transfer from military to civilian authority went relatively smoothly in Germany. It was a much different environment in Germany than in Korea, which at that time was viewed as the rear end of the world, with some justification.</p>
-<p>When later I was assigned to the Bureau of European Affairs, I had the opportunity to stay in contact with German and Austrian issues. In both countries, there was a great deal of foreign currency to be spent. We spent it liberally and that helped to move matters along expeditiously. For example, our staff moved from Frankfurt to Bonn, the new German capital, in record time. The new American development was lavish which subsequently drew some criticism, but it was done with great speed which was the essential requirement of the time. This was primarily the work of Glen Wolfe who was an accomplished operator. He deserves a great deal of credit for that move, not only for the its speed, but the minimal disruption it created for the operations of our staff. He may not have been an expert in inter-personal relationships, but he was an effective executive. His monument still stands, forty years later. It was a professional piece of work. There were very few people in the Department's administrative area who could have done it as well. Maybe Graham Martin, but not many others.</p>
-<p>Later, I was part of the team that surveyed Austria. Vienna was of course in a far different situation than Germany. It was a city which was governed tripartitely. It had not been devastated as had been Berlin or Frankfurt.</p>
-<p>
-<hi rend="italics">Q:  Tell us what you remember of the Refugee Relief program.</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>POLLACK:  It was discovered that we were still affixing photographs to documents with a steam iron. In London, the file room was in the basement and the Visa Office was on the first floor. The great technological achievement there was the purchase of a system which permitted the officer to write on a slate and an exact duplicate would show up in another room. This was an early version of the fax machine. This small step forward expedited the movement of information tremendously. Two State Department visa experts went to London and designed new procedures and introduced small technological improvements. They speeded the process up considerably, but for its first two years, the Refugee Relief Program was the single biggest administrative challenge faced by the Bureau of European Affairs. We had to get the consular function modernized because that is where the largest number of refugees resided. It would be an interesting research project for someone to study the impact of the Refugee Relief Program on the Department.</p>
-<p>
-<hi rend="italics">Q:  What were your responsibilities as Deputy Executive Director in the Bureau of European Affairs?</hi>
-</p>
-<p>POLLACK:  I was told I was the alter ego of the Executive Director—at least that is the way the job was described to me by Arthur Stevens, the Executive Director and others. They expected me to shield them from the daily routine decisions that had to be made and bring to them only those issues that required higher level attention. I was also supposed to convey to the staff what were the Assistant Secretary and the Executive Director desires and expectations were. It was a wide ranging job, although with Arthur Stevens and his successor, I was pretty much excluded from personnel decisions. They kept that responsibility in their own hands. My principal area of activity was the budget, which was handled by a man the name of Harris Collins. Harris was a man with a great sense of order; he could organize figures in a way that made them meaningful. He was more than just an accountant; he was very effective and able.</p>
-<p>
-<hi rend="italics">Q:  You worked for a number of Assistant Secretaries. Tell me about their interest in administration, if any.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>POLLACK:  I would say that they relied very heavily on their Executive staffs to run the administrative side of the Bureau. They would intervene in a personnel decision only if it were a key position in a key post and only if their intervention was called for by the Executive Director. George Perkins and Livingston Merchant, the two Assistant Secretaries I worked with, were substantive people essentially concerned with their relations with the Secretary and the conduct of international relations with European countries. Livy Merchant was interested in the management of his personal time, because we were all concerned with the work load burden on the senior official in the Bureau. He wondered whether his time was spent as profitably as it might be. Earlier during my tenure at OPA, I had become involved briefly with time study work—the Department of Agriculture had pioneered work in this area. I still had some of the forms we used in OPA and I persuaded Merchant to let us conduct a test on him for a three or five day period. We did; I think we did it in ten minutes segments. His secretary would try to keep a record of what he did during each of those periods. He discovered that he was pending much more time on the telephone than he wanted to. He also found that his dictation was not well organized; he dictated intermittently during the day. He made some changes in his personal habits; he tried to dictate during specific longer periods of the day. He tried to let others answer the phone or make calls. All over the Bureau and the Department, there was a tremendous concern for the burden on the senior officials, who were under work and time pressures that were worrisome. I encountered this phenomenon throughout my career in the Department. I also encountered that unique affinity in the Department for lawyers, who never had had an opportunity to manage large organizations and who found the challenges of defending multi million budgets before Congressional Committees both a new experience and mystifying. They did not know how to order their affairs so they could manage the volume of paper that flowed across their desks. Each day, many felt compelled to read much more than they needed. George Marshall introduced some concepts that Carl Humelsine implemented. Marshall would not look at a paper that was longer than a page. He didn't care how narrow the margins were and therefore received some ridiculous memoranda with one-quarter inch margins. But he forced the Department to accept the discipline of succinct statements, forcing officers to state the problem and actions required by the Secretary on one page. He did not want the subordinate officers to make the decisions for him, but wanted to be told very briefly what the problem was and the action options. This concept later developed into the “options” approach. The Department officials eventually became skilled in writing options so that only the one they preferred would look reasonable. The whole question of how Assistant Secretaries and other senior officials manage their workload is an interesting topic.</p>
-<p>
-<hi rend="italics">Q:  Is the time pressure on the senior officers, which is an issue that appears frequently in our oral interviews, endemic to the institution of the State Department or is it the personal problem of certain officials?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>POLLACK:  In part, it was an outgrowth of the fact that the Secretary has to limit himself in the number of people he deals with. If he is going to deal on European issues primarily with the Assistant Secretary for that Bureau, then that Assistant Secretary will soon wish to know all that is going on that might be raised by the Secretary. I am not sure that the nature of most other Departments is the same. Most other government Departments have a variety of dispersed functions. For example, although Social Security is part of HEW, the Administrator does not have the same relationship to the HEW Secretary as an Assistant Secretary in State has to his Secretary. It is an entirely different relationship. On international affairs, there a peculiar staff relationship between the President and the Secretary of State and in turn between the Secretary and his Assistant Secretaries. There may be other comparable situations in the government, but I don't think many. That is the major factor bearing on the heavy workload of senior officials. There were people like Harriman who enough personal stature, having been a Cabinet officer and an independent figure, who did not feel compelled to know every detail of what was happening. On the other hand, Harriman was a great executive and had a pretty good idea of what was going on.</p>
-<p>
-<hi rend="italics">Q:  During your tour in EUR, did you have any extensive relationships with other agencies?</hi>
-</p>
-<p>POLLACK:  Yes, with ECA (the Economic Cooperation Administration)—later ICA( the International Cooperation)—, for example. Alan Boyd and I saw each other frequently. We did not have very extensive relationships with other Departments, except maybe on some of the attach� programs, like Labor. There were considerable tensions with ECA, which was an independent agency under the policy guidance of the Secretary. They made it clear that they were not getting policy guidance elsewhere. I remember raising in Merchant's staff meetings repeatedly the problems that ECA was posing.</p>
-<p>
-<hi rend="italics">Q:  You left EUR in the mid-50s and went to the Controller's Office. Why and what were your responsibilities?</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>POLLACK:  We had in EUR a personnel officer by the name of Sherry Dann, who was a very sober individual. We had a message center in EUR headed by Frank Smiraglia. There had been a classification survey which had resulted in a downgrading of Frank's job. I disagreed with the conclusion. I instructed Dann to ignore the finding and await further developments. Frank had a couple of kids he was sending through school and needed the income. Eventually the Civil Service Commission found out that the results of the classification survey had not been implemented. The Department's Personnel Office decided that some action had be taken in view of this “negligence”. So they issued Dann an official reprimand; I decided that was unjust because he had just followed my instructions. I went to see the Assistant Secretary for Administration-Controller, Zeke Carpenter, and had a dispute with him on the action taken against Dann. I had Merchant's backing on getting the reprimand shifted to me. The Personnel Office was unwilling to do so, but Carpenter finally instructed them to give me the reprimand. Dann's record was cleared. A week later, Merchant got a call from Carpenter, asking for permission to speak to me. I went to see him and he offered me the position as his administrative assistant.</p>
-<p>I accepted it and worked as the Assistant Secretary-Controller's assistant, screening the material that was addressed to him and giving him advice on administrative issues in the Department.  I was more a consultant than anything else. Carpenter was a warm-hearted, somewhat naive businessman from Omaha. Carpenter had been told by his attorneys to keep a record; he would come in the morning and dictate the events of the preceding day. I remember Frances Knight coming to see him once and referring to a conversation they had had previously. Carpenter then pulled out his book and corrected Knight by telling precisely what his notes had said about that meeting. He was very proud of his ability to do that. Ed Crouch was the Department's budget officer. Carpenter was a man of great integrity, whom Loy Henderson tolerated even with his lack of background in State Department. Carpenter was loyal to Henderson and made a major effort to establish good relations with him. He did the same with Congressman John Rooney. At one point Rooney was hospitalized and was not having any visitors. Carpenter considered this for a while and then bought some flowers and took them to the hospital. Rooney was delighted by the attention.</p>
-<pb facs="0013" n="Page0013"/>
-<p>Carpenter, as a former businessman was very conscious of the importance of audits and established an internal audit group in the Department, separate and apart from the Inspection Corps. A number of useful findings were made by this new group; it was all part of the sporadic efforts made to bring State Department into the modern world. We did not have in existence then the formal budgetary systems that were tried during the Bill Crockett's era with the reviews by top staffs of the programs and budgets of the various offices, divisions and bureaus. Loy Henderson was concerned at one point about language deficiencies; he was especially concerned by the lack of officers being trained in Chinese, which the Department was in the process of reviving. He turned to Howard Mace and me on a personal; basis to see whether we couldn't find a solution to his problem. We suggested an incentive program which tied promotions and language skills for the first time. When Loy Henderson became concerned with the language program, there was a large resurgence of interest. I think it was then that the early morning language programs were instituted. That is a good illustration of my thesis that people tend to do what the leadership expects.</p>
-<p>Carpenter did not concern himself with the shaping of foreign policy and what the Department needed to do. It is therefore unlikely that there was much linkage between the budget and the substantive objectives.</p>
-<p>
-<hi rend="italics">Q:  What happened after your assignment as Executive Assistant to Mr. Carpenter?</hi>
-</p>
-<p>POLLACK:  Carpenter left, but I stayed in that position and worked for Lane Dwinell, who was the new Assistant Secretary-Controller. Somewhere along the line, I became “The Management Officer” of the Department of State. I did that for about a year, supervising a staff of three or four people. I was the only one who knew about the inclusion of the word “THE” in the title of the job. I had written the terms of reference for the position. I had a clear and simple role: I was to look at the management of the Department from the vantage point of the Secretary of State. So our office rejected all responsibility for any organizational changes within Bureaus; there was another staff separate from ours that assisted in such efforts. We took a look at such things as the clearance procedure, which I discussed earlier; it was an effort to get sharper, less compromised language to the Secretary so that he would have greater choice. During this period I worked with George Newman, who was then in Office of the Special Assistant for Politico-Military Affairs. The Secretary was concerned with his relationships with the Pentagon; so we instituted an exchange program which brought military officers to the Department and vice-versa.</p>
-<pb facs="0014" n="Page0014"/>
-<p>Earlier I had been assigned with the President's “Commission on Management of the Federal Government”, which was headed by Milton Eisenhower, the President's brother. On that Commission was Nelson Rockefeller and Arthur Fleming. Arthur Kimball was working for Rockefeller on this Commission. The White House had been greatly concerned with the relationships between the President and the Secretary of State. The White House staff saw the problem as two-fold: a) the Secretary travelled a considerable amount and when the President wanted his advice, he often had to take someone else's; and b) the White House staff at that time played only a service role and not a leading role as the National Security Council staff does today. This Commission reached the conclusion that a First Secretary of the Cabinet position be established. The Secretary of State would continue to be the chief negotiator and do the travelling. The First Secretary would be located in the White House and would advise the President on foreign affairs. This idea was discussed with Senator Jackson and his Committee by Rockefeller toward the end of the Eisenhower Administration as an idea that the Congress might wish to consider in the future. I went with someone else to brief Secretary Dulles; he blessed the idea, but since it was so late in the life of the Eisenhower Administration, it didn't go very far. But I did have an opportunity to attend a meeting of the American Assembly which met at the Harriman estate on the Hudson to consider the role of the Secretary of State. Averell Harriman was there as well as Dean Rusk, then President of the Rockefeller Foundation. Everybody was concerned with the amount of travel that Dulles performed. So the Assembly recommended that the Secretary of State stay home and send someone else for negotiations. Dean Rusk was one of the prime advocates of that point of view. Of course, when he became Secretary, he broke all previous travel records.</p>
-<p>It was the experience, however, which gave me the idea for developing the concept of “The Management Officer of the Department” who could look at management issues from the Secretary' s vantage. In addition to the exchange program and the revision of the clearance procedures, we wrote a briefing book for the incoming Secretary. Kennedy had set up transition teams, one of which was headquartered in George Ball's law office. Bob Schaetzel and I went and worked with that team. So the briefing book was written and it was full of good advice. Included was a recommendation that the President should appoint the Secretary of State and that all subordinate positions in the Department be filled by the President from a list provided by the Secretary, so that when the State team was put together it would be off to a running start because at least the Secretary would know all of them. Kennedy of course violated that thought more than any of his predecessors. As a consequence, Chester Bowles was appointed Under Secretary, but it was never clear to Bowles who the real Secretary was. That led me to go see Carl Humelsine in Williamsburg to discuss how the Executive Secretariat could be revitalized and to see whether he might be interested in consulting with us on that issue. I went to see Bowles and Rusk to discuss the idea; both agreed. Humelsine was a man they had confidence in. So Carl helped us out and Luke Battle, who was working with Humelsine in Williamsburg, returned to the Department to become Executive Secretary.</p>
-<pb facs="0015" n="Page0015"/>
-<p>I suspect the briefing book got lost somewhere in the Executive Secretariat or was disposed of. I have a copy still. The book included ten or twelve management recommendations. The development of these recommendations required the participation of a lot of people, not just me or my staff. Some of the ideas in the book showed up subsequently in other forms. No one can be sure what the genesis of an idea really was, but the book may have contributed to some. But none of the recommendations as such were adopted even though it dealt with the fundamental management problems of the Department. One issue for example was the tension between regional and functional bureaus. Of course, there is no way that that conflict could be resolved, but you can minimize the damage that the competition might make to the effective operations of the Department. You can find ways to improve understanding between the factions and the differing responsibilities. I probably recommend that people be moved between regional and functional bureaus to improve understanding of perspectives. You may remember that the Regional Bureaus went through a period when they established functional positions, like policy planning staffs, information officers, intelligence officers, politico-military offices, etc. Of course, some of these positions eventually evaporated because either it was not seen as a requirement or because the incumbent was a poor selection. What did become established were offices such “Regional Affairs office” staffed by capable economists and Foreign Service officers. This may have been an out-growth of the Hoover Commission. The geographic-functional bureau competition is inherent in foreign policy activities of the United States. That requires every functional bureau to have geographic concentration because that is the foreign policy is administered. We did that in the Bureau of Science and Technology. It was a constant problem of how the Bureau stayed in the forefront of technology knowledge and was still country-oriented. In historical perspective, in 1945, foreign economic policy for the United States was focused on agriculture or commerce or finance. That was handled by the domestic Departments like Agriculture, Commerce and Treasury. The State Department's strength laid in its geographic expertise. After the War, with the changing role of the United States, it became necessary for the Department of State to become more deeply involved in functional areas, particularly economic affairs and such activities as propaganda to match the Soviet popularity and leadership. That was quite a change in attitude and approach in the conduct of our foreign affairs. I remember Phil Trezise giving formal instructions on international economics to Henry Kissinger, at the latter's request. Kissinger had recognized that he was not able to hold his own when it came to discussions of economic issues with Treasury or Commerce officials. He approached the problem very sensibly by in effect taking a graduate course in concentrated form. There was no way, for example, to isolate economic policy from bilateral relations because economic policy was vital to each geographic area. There is therefore no permanent solution to the geographic-functional divisions; it will vary with time, circumstances, personalities at al. I think the tensions between the two is healthy and can be beneficial. It should not be resolved. It creates a difference of views which the Secretary should have more often.</p>
-<p>
-<hi rend="italics">Q:  I would like to pursue the concept of a management officer who viewed the Department from the Secretary of State's vantage point. What led you to this idea?</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>POLLACK:  It came to me, as I suggested earlier, when I heard people like Milton Eisenhower, Nelson Rockefeller and Arthur Fleming discussing the position of Secretary of State. These were people of great experience and considerable wisdom. The Secretary had immense problems stemming from the fact that he was the President's principal foreign policy advisor and also the manager of a prominent Cabinet Department, which was trying to modernize, which was trying to merge or at least rationalize the existence of several personnel systems in the same Department, which had dispersed functions and so on. It was a major management challenge. In addition, one could never overlook that everyone else in the White House was trying to run foreign affairs as well. When there was a media leak, it was always the Department that carried the onus, regardless where the leak had come from. I knew that the problems the Department had in absorbing new functions and new personnel were larger than its institutional capacity to deal with them.</p>
-<p>
-<hi rend="italics">Q:  The problems today are different from those existing in the 1950s. Are you satisfied that the job of Secretary of State is doable?</hi>
-</p>
-<p>POLLACK:  In terms of your question, I don't think the Secretary's job has been doable for a long time. The question is whether a better alternative exists.</p>
-<p>
-<hi rend="italics">Q:  You were “The Management Officer of the Department” for about 18 months. Did you any time during this period have the opportunity to discuss the Department's problems with the Secretary?</hi>
-</p>
-<p>POLLACK:  We did get in to see him on the proposals I mentioned earlier. Of course, toward the end of the Eisenhower Administration, Dulles became ill. I saw therefore Christian Herter more often. I saw him a good deal, comparatively speaking, for an administrative man. I was interested in reviving the concept of the use of inter-Departmental committees as vehicles for action and for the discussion of nascent ideas. Herter was very interested in that concept. He had viewed these committees as an opportunity for networking so that one participant could call another on a first name basis. We used the same argument in support of the State-Defense exchange program and in maintaining State representation in the National War colleges and other military training institutions. Networking was well served by these approaches.</p>
-<p>
-<hi rend="italics">Q:  After your management assignment, you moved to Personnel in 1961. How did come about?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>POLLACK:  Bill Crockett came to me one day and asked me whether I would be interested in becoming the Deputy Assistant Secretary for Personnel.  Bill had been the Administrative Officer in Rome, while I was in EUR and therefore we had a working relationship. I accepted and became in effect the director for personnel for the State Department. The only personnel decisions that I didn't handle related to ambassadorial appointments. The Director General of the Foreign Service during most of my tenure in Personnel was Tyler Thompson, who had been my boss for a while in EUR and whom I knew well. We got along very well. We worked out that division of labor. While Chester Bowles was Under Secretary, there was a great deal of interest in the role of the Ambassador and therefore in the selection of candidates and in the issue of political and career appointments. It was therefore a very important issue which required the attention of a top-level official. The division of labor was furthermore compatible with the fact that the Secretary and Assistant Secretaries focused much more on ambassadorial appointments than any other personnel issue. So I had an agreed charter to run the total personnel program, which included the medical division. The Director General spent all of his time on ambassadorial appointments and the monitoring of their performance; the personnel policies and programs were the responsibility of the Deputy Assistant Secretary. It is, of course, completely changed now. The personnel function is part of the Director General's province.</p>
-<p>
-<hi rend="italics">Q:  What were the major personnel issues during the almost two year period during which you were Deputy Assistant Secretary?</hi>
-</p>
-<p>POLLACK:  The problems in Personnel are pretty standard. They don't change greatly. If you have an organization such as the Foreign Service, you manage recruitment, training, allowances, education of children. You try to provide the Service with combinations of skills and talents required, either through recruitment or training. We probably were more concerned with than anything else was broadening the personnel selection base. At that point, the Foreign Service depended very heavily on the Ivy League schools for its source of new recruits. That was the perception and in my view largely correct. It was at the Ivy League that students learned foreign languages, which were stressed in the entrance examination. There was color discrimination; there was religious discrimination—perhaps less so in the 60s than there was in the 40s. The Foreign Service did not reflect adequately the diversity of the country it served. So we were interested in enlarging the recruitment base. The change may have come about anyway, but I am sure we expedited the opening of the Foreign Service to minorities. That was an interesting, exciting and rewarding initiative. History depends on the perspective of the viewer. If you read Dean Rusk's autobiography, you will see that he takes credit for that program. I have great trouble recollecting that he had very much to do with it, except to let it proceed. He may have felt that he had provided the guidance.</p>
-<pb facs="0018" n="Page0018"/>
-<p>The Foreign Service had also been the subject of considerable negative comments from the academic community which was playing a larger role in the Kennedy Administration than it did in the Eisenhower one. The criticism concerned the perception that the Foreign Service was self-managing organization, interested in its own self-succession, rather than working for the welfare of the Department and the country. So we placed a lot of stress on putting some visible integrity on the personnel system, trying to insure that the assignment process operated without favoritism in an open, above-board manner.  We made a major effort to bring the responsibility for assignments back into the Personnel Office because if we did not have that authority, then we could not provide the integrity to the system that we wanted to achieve. When I took over as Deputy Assistant Secretary, much of the de facto authority rested with the regional bureaus; I tried to reverse that situation and make the Personnel Office the responsible decision-making authority. We developed some elaborate procedures; for example, we reviewed periodically all the senior personnel in a given bureau, discuss performances with the bureau leadership and reach common assessments concerning individual performances. This was not done for purposes of rating performance, but to assist the Personnel Office to make onward assignments. In the process, we tried to take some biases out of the assignment process and put it on a firmer factual basis. We resisted vigorously any efforts that might be made to “save” certain positions for certain officers. I remember Foy Kohler—then Assistant Secretary for EUR—, an officer for whom I had the greatest respect and affection, trying to place an officer, who had a lot of public affairs talent, in an Eastern European post as Deputy Chief of Mission. We had reviewed the file and felt that he was just not qualified for such an assignment and that we had officers with much better qualifications who should be given the opportunity. Foy insisted and we had quite a protected and vigorous conversation. I am not sure who the winner was, but this was an illustration of the approach we took to assignments. We were very serious about our efforts.</p>
-<p>We were also very concerned about the Civil Service employees, particularly the clerical staff. We developed a program which brought these people together with me on a weekly basis in a no-holds barred session during which they could express their views on personnel policies and practices in an unrecorded meetings. I felt that this mechanism was very useful and allowed the Civil Service an opportunity to let off steam and at the same time provided the Personnel Office insights into the problems as perceived by their clientele.</p>
-<pb facs="0019" n="Page0019"/>
-<p>We also put a lot of emphasis on the management of a new Foreign Service officer to make sure that her or she had enough exposure to the Foreign Service and vice-versa so that after a period of time, we could make a judgement whether this person would succeed in the Foreign Service. We developed a comprehensive and organized program under Jim McDevitt, who established a “junior officer” staff. He provided a link between the new officers and the Department and shepherded them through their first few years in the Foreign Service. We didn't want a junior officer be tagged at the beginning as a political or consular specialist and have his or her future decided that early. We consciously rotated these junior officer among the various Foreign Service functions. I think that effort may still be in existence today; I know it continued for a long time.</p>
-<p>
-<hi rend="italics">Q:  Herman, you touched on two major organizational questions that have been debated within the Department for years. One is the assignment process. You are unique in that you have had experience both in a regional bureau and in a central personnel office. In light of that, how do you think a good assignment process for the Department should operate?</hi>
-</p>
-<p>POLLACK:  There a lot of factors that enter into that judgement. You need to develop expertise; for that you need people who acquire cultural and historical understandings and language skills. There are few people capable of doing that for more than one geographic region of the world. On the other hand, if you leave them in that area for too long, they develop “clientitis”. Moreover, the European Bureau was attractive to American Foreign Service officers and staffs because the conditions of employment were more pleasant in Europe than, for example, in central Africa. By keeping them in central Africa, you would be denying them and their families a respite from difficult environments. On the other side, if you rotated employees too often, the system would be replete with people with great general skills and no knowledge in depth. It is the same problem as the one that occurs when someone in the Civil Service who remains in his job so long that he or she are the only ones that know where the files are hidden and the “bodies” buried. There is no clear answer to the question of the appropriate organizational location for the assignment responsibility. If I'd to make a choice, I would side with a centralized system on the grounds that a small organization such as the Foreign Service is not so large that a central group can not oversee a system competently.  If you are looking at the issue in the Defense Department, with thousands of people, then you must have break-downs by military services and their sub-specialties. That isn't required for a small service such as the Foreign Service. The skills required are pretty much the same wherever they are needed.  So I would put the burden on a central staff, but I would require that the process be conducted be managed in an uncontentious manner, in a partnership effort and by people whose personalities and background were such that they could manage the process with due care for those regional managers whose responsibilities were to staff a post adequately to perform the tasks it was called to perform by their superiors and world circumstances.</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  You mentioned that “skills were interchangeable”. Based on your experiences in the Office of Science and Technology, where do you stand on the question of “generalists versus specialists”?</hi>
-</p>
-<p>POLLACK:  Right square in the middle. I wrote a superb memorandum on that issue which said that the necessity for having specialists in science is as great as it was having specialists in Soviet or Latin American affairs. I said that we needed the ability to merge knowledge of foreign policy, the geographic aspects, the technical knowledge of issues of interest to the Department, such as nuclear energy, space, environment, etc. Therefore there should be an understanding between our Office and the central Personnel office which should put an end to the continuing bureaucratic battles that ensued every time our Office tried to recruit some specialist from the outside. Invariably, when we had a vacancy, the Personnel Office would have available a Foreign Service Officer for whom they had not found an assignment and therefore wanted to place that officer in a functional bureau and in our case particularly SCI. I recommended a 50/50 split between scientists and general Foreign Service Officers. I chose that ration, not on any scientific basis, but because I thought it was politically negotiable; if I had recommended a 60/40 split, which I thought would be more appropriate, I probably would not have gotten it. We culled the Foreign Service with great care to see if we could find any scientifically or technically trained people. There were a few, but none who were willing to return to their collegiate “roots”; they had moved beyond that. For example, there might have been chemists who had entered the Foreign Service and that did their best to forget everything they had ever learned on the subject because that was no future in the Foreign Service through chemistry.</p>
-<p>
-<hi rend="italics">Q:  Then the answer for the need of specialists, if I understand you correctly, is to employ them from outside the Department of State for a given period of time?</hi>
-</p>
-<p>POLLACK:  I would not put a limit on the time. You have to make it possible for potential employees to feel secure in working for NIH (National Institute of Health) or the National Bureau of Standards. They could not feel, that after having served abroad for a tour of duty, they would be job hunting again. They'd to have some feeling of security. That was a major short-coming of the FSRU (Foreign Service Reserve-Unlimited) concept, which surfaced periodically during my time in the Department. The point is that you can not deal with nuclear energy unless you understand something about the nature of a reactor, why nuclear energy may be important, what can be done with nuclear energy besides producing energy. It is important for a scientific attach� to understand matters of this nature. Otherwise, he has nothing to offer. That knowledge is not available everywhere. I can give you many illustrations to support that view.</p>
-<pb facs="0021" n="Page0021"/>
-<p>Once you accepted the Hoover Commission concept that “ war is no longer to be left to the generals, nor foreign affairs to the State Department”—that is the concept that foreign and domestic affairs are just different points on the same spectrum—than you have to have the ability to hold your own in dealing with domestic scientific agencies which have a deep technical capacity. It is vital for the Department to have some specialist knowledge in the scientific and technical fields. For example, there was a project called “Storm Fury” which was an effort to control or moderate hurricanes in the Caribbean. There extensive cloud seeding programs taking place. No one was sure what the results of seeding might be; whether it intensified the hurricane, moderated it or changed its direction. When the Caribbean countries began to understand the uncertainties involved in the experiment, the political unease about this program being conducted above their countries grew. So we moved the experiment to the Pacific where typhoons are identical to hurricanes. The nature of the Pacific typhoons are such that Japan, the Philippines and Taiwan become excellent bases for experiments. I don't remember fully what the scientists who were running the program were stating, but they were very insistent that they wanted to have a base in one of the three countries. If it had been Japan, the Japanese would have objected vigorously because they had a great fear of natural disasters. We reviewed the analysis and found that the demand by the scientists was based on their analysis that the number of typhoons that would come to Japan was just a modest percentage higher than if they could have based their experiments at another site. The entire program could have been effective even if it weren't based in Japan. As soon as we understood that, the political programs disappeared because we could choose a base which didn't raise any political problems. I have encountered the same problems in remote sensing experiments from satellites; the scientists' needs can be met without raising political problems if the Department can make a scientific or technical analysis.</p>
-<p>The Department's needs for specialists was already evident when I was Deputy Assistant Secretary for Personnel in the early 60s.</p>
-<p>
-<hi rend="italics">Q:  When you were in charge of Personnel, what conclusions did you reach about the relationships in the State Department between the Civil Service and the Foreign Service? Could one institution operate with two different personnel systems?</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>POLLACK:  No. That was a very unpopular conclusion that I reached when I was in Personnel. One system had been for very good historical reasons been administered by the Department of State almost autonomously. The other system was government-wide managed at a very high level of generality designed to accommodate a wide spectrum of a large number of employees which included a great range of skills from messenger to top level administrators. The Foreign Service had a much narrower focus, was more restricted in its range of activities. It had problems that once upon a time were unique, but did become somewhat more general when domestic agencies began to assigning personnel abroad. I concluded that to find a way to administer these two disparate systems in a single Department, as small as State was, provided much more complexity than benefits. I thought we needed a system that would enable a Foreign Service Officer, if there were compelling reasons, to remain in one place for twenty years, if that was beneficial to the U.S. Government. I also thought that if there were a Civil Service official who would be useful at some overseas post, the Department would have the authority to move such an official. Therefore, I had in mind a system that would depend less on rules and regulations and more on skilled an sensitive administrators who would be granted wide latitude in the assignment of personnel, with due regard to the preferences of the individuals, some of whom prefer to move and some who didn't. The administrators would also take into account the preferences of those who wished to become specialists with deep knowledge of one or two subjects, while others might prefer to remain generalists who had over-whelming ambitions to become Ambassadors. There were some who didn't necessarily see such an assignment as the acme of their careers. Therefore, I supported a single system to be used in the Department of State into which people could move in and out as they preferred. At the core of such system, would have been a corps very much like the Foreign Service, but would greater flexibility to accommodate the many personal situations that had to be taken into account.</p>
-<p>
-<hi rend="italics">Q:  On the concept that you just stated, did it ever get adopted and put into legislation?</hi>
-</p>
-<p>POLLACK:  Something akin to it arose later when an another effort was made to revise the Foreign Service personnel system. This new attempt was concentrated on the concept of a unified Foreign Service. It ran into great opposition from within the Department, some form the Civil Service Commission and others who did not want to lose their ability to have a say in the Department's personnel policies and practices. The problem of the Foreign and Civil Services and the fundamental philosophies that underlie each have been a recurring theme in the history of the Department and a perpetual burden to the personnel managers of the Department.</p>
-<pb facs="0023" n="Page0023"/>
-<p>Beyond that, of course, you also have a clash between the foreign service personnel systems of other agencies with representation abroad. During the early 60s, a considerable effort was made to bring uniformity to the overseas personnel systems of the Department, the United States Information Agency and the International Cooperation Administration (now the Agency for International Development). We had many committees trying to bring some conformity to the three disparate systems; we communicated among each other in order to minimize the difference in treatment that the personnel of each of those agencies received. We tried to provide comparability and uniformity of policy and treatment so that personnel serving at the same post would not receiving differing perquisites.</p>
-<p>
-<hi rend="italics">Q:  After your tour as Deputy Assistant Secretary for Personnel, you attended the National War College.</hi>
-</p>
-<p>POLLACK:  That's correct. That assignment was made because I had roused Congressman John Rooney's displeasure, who had heard that I was trying to succeed Bill Crockett. There was of course no truth to that, but Rooney mandated that I be removed from the personnel job and therefore I went to the National War College. I am forever grateful to Rooney for that assignment. It was great.</p>
-<pb facs="0024" n="Page0024"/>
-<p>When I returned from my “academic” year in 1964, I worked for Crockett again as a special assistant. I remember telling Crockett that I had always been concerned by the problem that although the Department had always been expected to be the leader and coordinator of foreign affairs within the government, it didn't have any philosophy of leadership. I had encountered at the National War College a very well considered and articulated concept of leadership in the military services. So I asked Bill whether I could prepare a memorandum on the subject, which must still be in someone's archives in the Department. I focused on inter-departmental leadership. I was concerned about the ability of the Department to undertake in a non-bureaucratic mode, the functions of molding our country's foreign policy so that the requirements as seen by the Department and those viewed by the domestic agencies could be reconciled and synthesized. There is a natural tendency in the Department to look at the foreign affairs efforts of other agencies as an invasion of prerogatives. I was trying to develop a concept that increase the Department's awareness of this issue. There is a tremendous institutional lag that effects all agencies and particularly the Department of State. In the 60s, we had people who had been molded in the pre-War days or in the days immediately following the War by the philosophy that foreign affairs was the prerogative of the Department of State; that agricultural policy was the purview of the Department of Agriculture which should stick to that business and not get involved in foreign affairs. I was looking for a way to institutionalize a concept that leadership requires an understanding of the points of views and problems of other bureaucracies. Leadership required an understanding of where the other bureaucracies were coming from and needed to accommodate those perspectives to the objectives that the Department of State was trying to achieve, which essentially focused on the political relationships with country or a region. It was quite clear that after World War II, the distinction between foreign and agricultural policies had greatly diminished. That was a major finding of the Hoover Commission.</p>
-<pb facs="0025" n="Page0025"/>
-<p>There was nothing in the Department's personnel development program that would give its officers a concept of what leadership was; what it entailed; what the price was; etc. I was trying to break fresh ground on that issue. Leadership was essentially an effort to bring proposals to the President that took into account the legitimate concerns of the domestic agencies. It also entailed the elimination or at least diminution of the political trading that occurs normally in a the resolution of a multi-agency problem. When I had the management job, I was assigned to take a look at the Science office because a complaint had been registered with Under Secretary for Political Affairs Bob Murphy. The Science Advisor's position had been re-established on the heel of the Soviet Sputnik when the whole U.S. Government restructured its scientific efforts, from the White House's Science Advisor to all the large agencies. I found that the Department's Science Office consisted of a number of competent, lost souls who had no idea how they might make an impact on the Department's policy-making process. So they commiserated largely among themselves and other scientists outside the Department, thereby inadvertently doing damage to the Department's reputation. The perception grew that the Department was not taking science and the development of international science and technology very seriously. It was. of course, a true perception. My recommendations after the quick survey resulted in the appointment of Earl Sohm as the Science Advisor, based on the argument that the Office needed someone who could bring to it an understanding of the rest of the Department and who could communicate the scientists' concerns to the rest of the Department. The science effort was a functional activity that was the most removed from the center of foreign affairs, as understood by the Department of State. Earl took the job and was still in it when I returned to the Department from the National War College. He had been in it long enough so that he was eligible for re-assignment and so it was offered to me. I was delighted. I knew that my first function would be to recruit a Science Advisor because Ed Kretzmann, who had been acting Science Advisor, was about to retire. We over-lapped a couple of months. I undertook the recruitment effort; the men I identified from the scientific community—whose names I got from places like the White House, NASA, etc—I took to Dean Rusk and George Ball for their review. Some were brought in for interviews and raised conditions which were incompatible with the way the Secretary viewed his role in making assignments. The candidates were looking for clear statements of authority that would overcome some of the ambiguities that exist when you have both regional and functional offices in the same institution. There were bound to be overlapping jurisdictions and the science candidates wanted clarity. The Secretary viewed himself as an expert in both science and foreign affairs because while head of the Rockefeller Foundation he had dealt widely with both worlds. He had a good appreciation of the inter-relationship between the two. He also had a good sense of the impossibility of bringing in an official into the Department and then trying to fence off his responsibilities from those of every one else's. He understood that there had to be an over-lap between geography and function. So he would tell the candidate that he couldn't have a clear mandate; the next one would come in with the same results. The third and fourth candidates of course couldn't accept anything less that the clear mandate because by his time it was pretty well known in the scientific leadership community what had happened to the first two candidates. That community was rather small and saw each other frequently because they all tended to sit on the same panels, such as the President's Scientific Advisory Council. How could one good man take on a job that an other good man had turned down? The recruitment process went on for sometime and we failed to recruit a number of top notch people. So I stayed in the job because the Department couldn't recruit a first class broad-gauged scientist. By this time, the Office of the Science Advisor had been assigned the responsibility for negotiating nuclear and space agreements. So the Office's title was changed to the Office for International Scientific Affairs. My greatest asset was my knowledge of how the bureaucracy functioned. So I got larger and better space; I insisted on a rug on the floor because that was a status symbol which put the office in its proper level in the power ladder; I raised the Office to a Bureau also a status symbol. I was trying to impress on people both inside and outside the Department, the importance of science to foreign affairs. I was authorized to employ a scientist as my deputy. All of this happened in 1965. When it was agreed that I would be appointed as Bureau chief—it was not at that time a statutory position—, largely out of concern for the Department's image with other agencies, I suggested to Foy Kohler, who was then the Under Secretary for Political Affairs, that I should be sworn in. The swearing-in ceremony was in some respects a sham because normally those are held only for Presidential appointees. But it was useful, as I said, to invite representatives of other agencies so that they could see that the Department took the function seriously. I insisted that the Secretary perform the ceremony and that all the attributes of a regular ceremony be followed. So the ceremony took place; my family was there; I signed some fake protocol papers—that is, these papers were not the usual Presidential papers, but they did appoint me to the position of Director of the Bureau for International Scientific Affairs (later, the word “Technological” was added). Invited to the ceremony were the members of the House of Representatives' Science Advisory panel, which was composed of the cream of the U.S. scientific community. Also present was Nobel Prize winner Vargas from Brazil. It was a very impressive ceremony and achieved the results I wanted; i.e. Departmental attention to the science function. The attach�s and the other agencies were impressed by what they had seen or read about the ceremony and the Secretary's words. We played a lot of games like that. We re-instituted the Secretary's lunches for scientists so that there could be better communication between them and the Department. We had Nobel Prize winners attend these functions which were held five or six times each year. They seldom got a chance to eat because they were so busy talking to the Secretary and his senior staff. It became very popular and my problem was to hold the number of senior staff members down to the numbers of available chairs. We used to talk about computers at the lunches. IBM used to have a little theater across from the original location of the International Club. It was part of its program to sell computers to the U.S. government and the Congress. The theater was used to put on a little show explaining what a computer could do. I remember that I arranged a briefing limited to Deputy Assistant Secretaries and above; I tried to limit attendance to the policy leadership. We took them to the theater for the show. I tried hard to get IBM to modify the conclusion of the presentation so that it would have some pertinence to the State Department. IBM said that their presenters were members of Actors Equity and couldn't really make the transition. The show consisted of a toy railroad layout, with a series of tracks leading to sheds. They went through the explanation that it was through such a devise that essentially a computer would be able to segregate Scottish women with red hair and blue eyes of a certain age. Each rail crossing would be a segregation point where at the turn of a switch all redheads would go on one rail and all others on another. It was a very effective explanation of the binary system. At the end, the comments were: “Is that what it is all about? is that what the Soviet Union is trying to acquire?”. It took a while for them to comprehend that the Soviets weren't interested in the number of red-headed Scottish women, but would find a computer useful for missile design. Nevertheless, it was an impressive example of the lack of scientific and technological understanding of the top leadership of the Department in the early 60s. These were people in their late 40s and 50s, who were educated before, during or shortly after World War II, long before the modern scientific era—before computers, before jets, etc. Once they got into the government rat-race, there was no way they could keep up. There was no way to provide them with an adequate understanding of modern technology. It was a real problem in the Department of State.</p>
-<pb facs="0026" n="Page0026"/>
-<p>The fact is that you can no longer isolate the political actions of countries from the motivations which are no longer bound by geographic lines. National strengths today are more likely to be judged by economic, scientific and technological factors to a far greater degree than ever before. A country desk officer has to be a very unusual breed to understand this much more complex set of realities. Some thought might well be given to educational programs that can develop this unusual breed. The officer has to able to understand what motivates the French in nuclear energy, in the space program, etc. He can't leave to NASA and DOE the responsibility of dealing with the French. If that happens, then the desk officer is ill equipped to deal with the French on political matters because all the new strains are intertwined with the old forces.</p>
-<p>
-<hi rend="italics">Q:  You were in State Department for twenty-eight years. In retrospect, how would you summarize that period of your life?</hi>
-</p>
-<p>POLLACK:  Very rewarding. Very interesting. I would not have traded it for anything else that I might have been able to do. I did pay a high price in that my family grew up without me. The State Department has come a long way. Anyone who entered the Department during and after the early 50s missed out on how backward the Department was in earlier periods. It has become much more sophisticated. The leadership has a far better comprehension of the non-political factors that now determine foreign policy. What is not yet completely understood yet is the degree to which the U.S. economy is a part of a global economy and the significance and implication of that new development. To the extent that the Hoover Commission thought that foreign and domestic policy were one is now imbedded in concrete, far beyond what anyone in the early 50s would have predicted. The two can no longer be separated.</p>
-<p>If you think seriously about the Department, you would have to concentrate on the mix of personnel that modern diplomacy requires and the new inter-agency mechanisms that a President might wish to establish so that if the Department is not adequately responsive to his or her needs, the response could come from another part of the U.S. government. The biggest problem in getting a response elsewhere is illustrated by the hurricane story I mentioned earlier. Other agencies can not be expected to understand the potential ramification of their single-minded pursuits of their objectives on the bilateral relationships between the United States and other countries. State, on the other hand, should be able to understand the motivation of other agencies as well as the realities of the world political scene. It is State that should be able to judge whether the domestic agency has a requirement that must be accommodated; whether it must be accommodated in the way preferred by the domestic agencies; and whether such accommodation is worth the political and economic price that might have to be paid.</p>
-<p>
-<pb facs="0027" n="Page0027"/>
-<hi rend="italics">Q:  The interesting point you are making now is that the leadership memorandum you wrote in the early 60s may be even more pertinent now than it was then.</hi>
-</p>
-<p>POLLACK:  I read it again very recently. It reads as if had been written yesterday. When I left the personnel job in 1963, my read to my staff what I said then was my legacy. I described the problems as I saw them and what I thought needed to be done by my successors. I asked the staff whether it had any reaction; they all agreed with my conclusions. What in fact I read to them, was a memorandum that a consultant had written in 1948. I think that is a fitting close to this interview.</p>
-<p>
-<hi rend="italics">Q:  I agree. Let me thank you on behalf the Foreign Affairs Oral History program for the time you have given us. It has been a very valuable contribution.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>HERMAN POLLACK</p>
+                <p>Interviewed by: Thomas Stern </p>
+                <p>Initial interview date: December 5, 1990</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Herman, as it is customary in these interviews, we like to
+                        start with a brief description of your back ground, education and the
+                        reasons why you joined the Federal Government.</hi>
+                </p>
+                <p>POLLACK : I was raised on Long Island, went to what was then know as the City
+                    College of New York during the tail end of the Depression. I majored in the
+                    social sciences and graduated with a degree in Social Science, having taken many
+                    history and government courses. Following graduation in 1940, I found that jobs
+                    were not readily available, so I went for a Masters Degree in economics at
+                    Columbia University during the 1940-41 academic year. This was to round out my
+                    education in the social sciences. Like many of my contemporaries, I had taken
+                    the Civil Service examination. As a result, in the late summer of 1941, I got a
+                    call from Washington, asking me to come for an interview. I did so and went to
+                    the Office of Emergency Management. I went through a period of four months
+                    during which all was confusion. The Office was expanding very rapidly at that
+                    time. The first job to which I was assigned was abolished before I could even
+                    get there. I stuck around OEM until something else could be worked out. That
+                    something else happened to be in the Personnel office, despite my background in
+                    economics which I had hoped to use. Since income was fairly important at the
+                    time, I took the personnel assignment and started to work a day or two after
+                    Pearl Harbor.</p>
+                <p>I chose the Federal Government for two reasons: a) I had some vague notion of
+                    public service being a more attractive way of life than the private sector—as a
+                    matter of fact, I had turned down an offer to become a trainee with one of the
+                    big airlines; and b) at the time, $1,440 or $1,620, whichever it was, looked
+                    like a lot of money to me. Indeed compared to my previous earnings from
+                    part-time employment, the federal entrance salary level was a princely sum. It
+                    was attractive.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>So I started in the OPA's Personnel office and stayed for about eighteen months.
+                    I started as a classification analyst. The guru of classification in those years
+                    was a man by the name Stan O'Rear, who made his reputation in classification
+                    himself, but then worked in one of OPA's operating divisions. My immediate boss
+                    was a woman, Margaret Bremer, who was not only very capable, but who also taught
+                    me how to write English with a minimal use of adjectives and adverbs. This was
+                    probably the best training in writing that I had ever had. It spoiled my ability
+                    to wax eloquently. I still shy away from hyperbole or even descriptive words and
+                    tend to be expository in what I write.</p>
+                <p>Then I went into the military service in March, 1943. I immediately contracted
+                    hepatitis and a few other ailments and then I was discharged for having poor
+                    vision. I returned to OPA and followed a man named Paul Canaipe, who changed his
+                    name later to Camp, when he went to the War Shipping Administration. We were at
+                    WSA for about a year when our earlier boss, Ken Warner, became personnel
+                    director of the Foreign Economic Administration. So I joined him there as a
+                    management analyst in his office and stayed there until the end of the war. My
+                    main task was to write policies and procedures on subjects such as
+                    reductions-in-force. There was a brief period during which they moved FEA into
+                    the Department of Commerce, although the staff never actually moved.</p>
+                <p>The atmosphere in Washington, during the war years, was absolutely hectic. It was
+                    also a period of great upheaval and change. When I first came to Washington in
+                    1941, it was still a “southern” city. The lunch rooms were segregated. If you
+                    got on a bus top go to Virginia and sat in the back, the driver would ask you to
+                    move forward when you crossed the Virginia line because the back was reserved
+                    for the blacks. This was also the period when the Americans Veterans Committee
+                    was organized, among other reasons, to compete with the established veterans
+                    groups in an effort to provide veterans a more liberal voice. We engaged in
+                    desegregation activities in theaters where blacks had been forced to sit in the
+                    balcony and in restaurants which they had not been able to enter. So it was a
+                    period of extreme turmoil.</p>
+                <p>On the management side, the governing rule was to get the job done. Regulations
+                    were not the end-all. Every agency that participated in the war effort was in a
+                    constant state of reorganization. Young people who had little experience were
+                    given major responsibilities. One of the lasting impression that I gained from
+                    those days is that given the opportunity, people with talent will rise and
+                    surprise you with their capabilities to achieve. The legal counsel at OPA was a
+                    Columbia University professor—twenty-five years old— who, like all the other
+                    lawyers, walked around without ties and with shirt sleeves turned up. That was a
+                    major break through in the government officials' dress code. This acceptance of
+                    the new eventually even applied to the State Department. In prior times, Foreign
+                    Service Inspectors, when writing their commentaries on each officer inspected,
+                    would comment on the officer's appearance. If you wore a beard or a goatee you
+                    would have been informed in various ways that that was not proper or
+                    appropriate. And certainly, if you were caught with your jacket off, you were
+                    told, as I one was by Tom Estes once, that that was also highly
+                    inappropriate.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>While still at FEA, one day, while walking on the street, I ran into John Miles,
+                    who had worked in FEA's personnel office, but had left to go to work for the
+                    Department of State. We hadn't seen each other for an extended period. We
+                    exchanged the usual pleasantries and promised to have lunch together at sometime
+                    and then parted. Much to my surprise, a week later I got a call from John,
+                    asking me to have lunch with him. It turned out that someone else joined us,
+                    namely Carl Humelsine, who was then the Assistant Secretary for Administration,
+                    which was the top administrative position in those days. Carl had worked with
+                    General George Marshall at the Pentagon and when Marshall became Secretary of
+                    State, Humelsine came with him. I was still young in 1946—26 or 27 years old—,
+                    but had done well in the civil service. I was probably a General Schedule (GS)
+                    14 or 15, which was the top of pay schedule. Humelsine called me for a
+                    discussion later. I must have passed the lunch screening because all he wanted
+                    to know then was what I wanted to do. The Department was trying to staff itself
+                    with young people. I explained my general interest in management; I did not
+                    mention personnel; I had had enough of that at that point. So he sent me to see
+                    Just Lunning, who was the head of the Department's management staff. He was born
+                    in Denmark and still had a slight accent. His father owned Jensen's on Fifth
+                    Avenue in New York. During the war years, Just had worked in a variety of
+                    intelligence assignments and then had transferred to the Department. So I went
+                    to work for the Department in the Department's central management staff. Just
+                    gave me a couple of assignments to start me off. My very first assignment—and
+                    remember I knew precious little about the Department—was to work on the plans
+                    for the new building. Specifications were being developed so that the General
+                    Service Administration (GSA) could come up with some design requirements that
+                    the architects would have to fulfill. The old State Department had a library,
+                    which when the building was built in 1887, was the epitome of the library
+                    science. It was the most advanced library of its day. The facility by the time I
+                    joined the Department, had been in existence some 60 odd years. The question
+                    then became what should the library of the future look like. To try to get an
+                    answer, the Department employed a Mr. Osborne, the Librarian of Harvard
+                    University. I was assigned as his assistant. Together we went through the old
+                    library. I found very interesting the way an experienced librarian made an
+                    assessment. He would count shelf feet and look for the standards authoritative
+                    books that any respectable collection should include. He found that there were
+                    more volumes on the Civil War than there were on the Spanish-American and World
+                    War I conflicts. There was much less on World War II. He found that the library
+                    was not a working library, but rather an archive. I remember how aghast he was
+                    when he went upstairs under the eaves to find a newspaper collection that went
+                    back to 1801. These were big, thick folio volumes. about 4” thick and very
+                    large. They were stacked one on top of the other so that you couldn't retrieve
+                    the bottom copies anyway. Of course they hadn't been used and were just being
+                    stored. He also found that the roof was leaking, so that there was considerable
+                    water damage. Osborne would have given his right arm to have that material
+                    available at Harvard for the use of scholars who would have found it a gold mine
+                    of information. Downstairs, when you entered into the library, which was a very
+                    attractive facility. there was a glass case, which held the Articles of
+                    Confederation, one of the two or three sets then extent. The rooms were not air
+                    conditioned although the Articles were the pride of the Library. He was
+                    horrified that a document of such great national and historical importance was
+                    being treated this way. Osborne saw to it that the Articles were transferred as
+                    quickly as possible to the Archives or the Library of Congress were they would
+                    be given proper care.</p>
+                <pb facs="0004" n="Page0004"/>
+                <p>That was typical of the Department of 1946; it lived in the past. It was at this
+                    time in the process of absorbing what had been the Office of War Information and
+                    part of the Office of Strategic Studies (OSS). The Department was growing by
+                    leaps and bounds, although psychologically it was still the State Department of
+                    1939—a small, cozy organization, small enough so that all of the officers had
+                    known each other. The Department was physically scattered all over Washington. I
+                    started in a temporary building behind what is now known as Old State. There was
+                    no New State; many of us were in temporary buildings.</p>
+                <p>
+                    <hi rend="italics">Q: Did Humelsine or anyone else in State find your youth and
+                        rank to be incompatible with the personnel structure of a traditional,
+                        “old-line” bureaucracy?</hi>
+                </p>
+                <p>POLLACK: Humelsine did not, but the personnel people had great difficulties
+                    accepting the situation. They wanted me to take a lower grade; I thanked them,
+                    but I told them that I would not accept a lower rank just to join the
+                    Department. They finally accepted my position, but it was not easy for them. The
+                    Department was having great difficulty in adjusting to the post World War period
+                    which was a period of tremendous upheaval. First of all, the Department had been
+                    shunted aside during the most of the War years. The military , the Treasury
+                    Department and the Foreign Economic Administration were playing the predominant
+                    roles in the international relations area. State grew only slightly during the
+                    War and was not very much different by the end of it than it was before it. It
+                    looked upon itself as an elite organization, one with a special relationship to
+                    the President. The Department viewed itself as the President's staff on foreign
+                    policy and resented the perceived intrusion by other agencies on what had been
+                    its essentially private turf. It had no concept on how to adjust to the post-War
+                    role that the United States had to play. In 1939, the U.S. was still essentially
+                    a country that shielded itself from the world surrounding it. After the War, the
+                    U.S. found itself as the predominant world power with much of the world
+                    depending on it for both political and economic leadership. It took the
+                    Department several decades to adjust to that new the world situation and I am
+                    not certain that it has fully accommodate to it yet. Of course, just about now,
+                    the world situation is turning around from a one or two nation hegemony to a
+                    multi-polar world.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>When intelligence and information activities were created in the Department,
+                    initially it merely reflected a transfer of a group of people who showed on the
+                    organization chart as a new activity. There was no interchange between these new
+                    additions and the “old-timers”. Some years later in the late 1940s, when I was
+                    on the administrative staff of the Bureau of European Affairs, we brought in a
+                    new group of people. I remember a frustrated Tony Maccocio, an information
+                    specialist who later became the head of the information office, seeking to find
+                    out how he could be invited to lunch by some of the Foreign Service officers and
+                    other established members of the Bureau. He felt very isolated from the rest of
+                    the Bureau; he and the other recent arrivals were viewed as “uncouth”—in the
+                    literal sense—different and foreign. The Foreign Service of course dominated the
+                    Department, but the whole institution was a unified, integrated organization.
+                    There were professional non-Foreign Service officers who felt the same way about
+                    this invasion of “outsiders”.</p>
+                <p>
+                    <hi rend="italics">Q: You worked for Carl Humelsine, who was the senior
+                        management official of the Department. Do you have any recollection of the
+                        relationship that Humelsine had with the Secretary or the Under
+                        Secretary?</hi>
+                </p>
+                <p>POLLACK: He had a close relationship with the Secretary because he, like a number
+                    of other officials, had come with Marshall from the Defense Department or War
+                    Department. He therefore enjoyed the Secretary's confidence. The Under Secretary
+                    was Bedell Smith, another former military man. But these two were not the kind
+                    who intervened in the daily activities of their subordinates. They were trying
+                    to bring the Department into a position of being able to carry its own role
+                    inside the government. The Department had a bad reputation at that point in time
+                    and it was certainly not geared to perform its post-war function. I was assigned
+                    another project, namely to study the ILH (International Labor and Health) office
+                    which was within the International Organization Division. The ILH office was
+                    headed by Otis Mulligan. The principal reason for the study was the interest of
+                    the Department of Labor which was riding high following Francis Perkins' tenure
+                    as Secretary. It was concerned about the role of the Labor Attach� overseas.</p>
+                <pb facs="0006" n="Page0006"/>
+                <p>My career in the Department was largely determined by a change in the senior
+                    management officials. Humelsine became the Executive Secretary of the Department
+                    and was succeeded by Jack Peurifoy. The Executive Secretariat was a new
+                    organization created by Marshall and Humelsine. In those days, when a classified
+                    message was sent overseas, it was typed on a telegram form and was sent to the
+                    Secretary for review since his name would be at the end of the text. The people
+                    who reviewed all these messages was a group of very pleasant women who looked at
+                    the grammar, the conciseness and style of the message. They improved my use of
+                    the English language considerably. I got a great deal of instruction from that
+                    group. When one of these people in the Secretary's office finished the review,
+                    you took the message back to your office for retyping, obtained other necessary
+                    approvals and then it was sent to the code room where the message was retyped
+                    into a machine that would encode and transmit it. That process was of course
+                    reversed at the receiving end. It was a slow and laborious process. The
+                    Department was very slow in modernizing itself. The use of the telephone for
+                    international calls was not an accepted practice, not so much because of the
+                    security issue, but because it was novel and expensive. This situation lasted a
+                    longtime. Later when the foreign assistance program was established. its
+                    personnel was aggressive and used the telephone because there was no record was
+                    made and it was rapid. State still required its personnel to have a form filled
+                    in and approved before a long-distance call could be made. I complained bitterly
+                    to Livingston Merchant, then Assistant Secretary for European Affairs, that we
+                    were being taken advantage of by people who were more attuned to the modern
+                    era.</p>
+                <p>After Peurifoy took over as Assistant Secretary for Administration, I was
+                    assigned to work for Arthur Kimball, who was Peurifoy's special assistant. I was
+                    assigned to work on the transfer of responsibilities for the “occupied areas”
+                    from the military to the State Department. There was an office in the Department
+                    headed by former general Hilldring. On his staff was a former colonel by the
+                    name Joe Frank. Frank and Kimball, with me as the senior assistant, made up a
+                    team that planned the transfer of the “occupation” responsibilities. Some people
+                    thought it was ludicrous that State would be able to take on these
+                    responsibilities. I still remember the phrase that George Marshall used once
+                    when he was returning from Europe on a ship. As he arrived in New York, he was
+                    met by the usual mob of reporters. When asked by one of them whether it was true
+                    that the Department would take on these new responsibilities. When he answered
+                    in the affirmative, he was then asked whether he thought the Department would be
+                    able to handle the new functions. His answer was in effect that there was no
+                    better way to commence than to begin. That was typical George Marshall. Frank,
+                    Kimball and I spent several years on this issue. We started with Korea, then on
+                    to Germany and then Austria. I worked on this transfer until late 1949 or early
+                    1950.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>At about this time, the Department was also undergoing a fundamental change,
+                    thanks primarily to the Hoover Commission report. Hoover's chief assistant was
+                    Dean Acheson, who became Secretary of State in 1951. By 1950, there was a new
+                    spirit emerging in the Department. There were a lot of new faces. There were
+                    major projects undertaken to implement the Hoover Commission recommendations.
+                    Various task forces which worked late at night. There was a spirit of
+                    creativity, which has probably not been duplicated in the Department since. As a
+                    consequence of the very wide participation in this effort to devise a new State
+                    organization, led by Dean Acheson, there were very few officers who did not
+                    understand what the new Department was designed to do and what its functions and
+                    goals were. It was a major undertaking. This effort produced a much stronger
+                    Secretariat; that in turn also produced a much better understanding of the
+                    meaning of a “clearance” procedure. The pre-Hoover Commission clearance
+                    procedures in the Department were very constipated; it was used as a means to
+                    block policy development, not to improve it. The Hoover Commission understood
+                    the problem and made a clear distinction between “veto” clearances and
+                    “advisory” clearances. This difference was pretty well understood and observed
+                    in the Department until the mid 1950's. Gradually, the distinction became
+                    blurred again. I was brought back into it in again in 1959 when I was the
+                    Department Management Officer. We reopened the question at that time in an
+                    effort to re-educate a brand new generation of officers in the meaning of
+                    “clearance”. We may have succeeded in returning one-fourth of the way back to
+                    where the Hoover Commission had put the issue.</p>
+                <p>But back to my work of assisting the transition overseas from a military
+                    government to a civilian one. I had an opportunity to visit all three countries.
+                    I went to Korea about 1947, before the Korean War, with a group of State
+                    officials which included Glenn Wolfe. It had been devastated. Seoul's hillsides
+                    were bare; no trees—all used for fuel during the war years. The major hotel was
+                    built by Germans early in the century, called the Chosun Hotel. We drank our
+                    water out of a chlorine bag. The tap water was not potable if it ran at all. The
+                    city was destroyed and the American military thought it was the rear end of the
+                    world. They were delighted to see us because we offered the prospect that they
+                    could leave Korea in the reasonable near future. The military was running an
+                    occupation government and couldn't wait to leave. When we arrived, there was no
+                    civilian activity except a small assistance group which provided some economic
+                    aid. Matters were very rugged. Amoebic diseases were rampant. We were in Korea
+                    to design a plan for the replacement of the military administration by a
+                    civilian one. Korea would continue to be occupied territory. We were looking to
+                    see what resources might be available, what housing could be expected, what
+                    facilities would be required and what the military might continue to do to
+                    support the American officials. The situation was very difficult. I remember
+                    that the military tried to keep its commissary supplies on a concrete area
+                    surrounded by an electrified fence. We were told the Koreans would tunnel in
+                    under the fence and the goods would disappear in the night despite the thick
+                    concrete base. The Koreans were very resourceful and ingenious, as later shown
+                    by the science students it sent to the U.S., for advanced academic training.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>In the case of Germany, John J.McCloy was appointed as High Commissioner,
+                    succeeding General Lucius Clay, who may have had the same title. I, as well as
+                    many other, accompanied McCloy on his first visit to Germany. Glenn Wolfe was
+                    brought into the administration of the High Commissioner's office, as the chief
+                    administrative official. When I visited Germany in 1948=49, it was still
+                    devastated. You could see the bombing damage. The American military was living
+                    quite well in beautiful homes. General Clay's staff, particularly those involved
+                    in political developments, was a very dedicated group. I spent sometime with
+                    them. That staff of political analysts was headed by a Dr. Pollock from the
+                    University of Michigan. He had helped draft a constitution which gave
+                    considerable authority to the Laender (states). I remember going to Berlin where
+                    we were given a presentation. That was my fist exposure to an Air Force
+                    briefing, which was done with great skill and art. Everything was being superbly
+                    managed and there were no unsolved problems. McCloy was a unique individual. He
+                    walked around with a German dictionary in his hand to make the point that his
+                    staff should learn German. The transfer from military to civilian authority went
+                    relatively smoothly in Germany. It was a much different environment in Germany
+                    than in Korea, which at that time was viewed as the rear end of the world, with
+                    some justification.</p>
+                <p>When later I was assigned to the Bureau of European Affairs, I had the
+                    opportunity to stay in contact with German and Austrian issues. In both
+                    countries, there was a great deal of foreign currency to be spent. We spent it
+                    liberally and that helped to move matters along expeditiously. For example, our
+                    staff moved from Frankfurt to Bonn, the new German capital, in record time. The
+                    new American development was lavish which subsequently drew some criticism, but
+                    it was done with great speed which was the essential requirement of the time.
+                    This was primarily the work of Glen Wolfe who was an accomplished operator. He
+                    deserves a great deal of credit for that move, not only for the its speed, but
+                    the minimal disruption it created for the operations of our staff. He may not
+                    have been an expert in inter-personal relationships, but he was an effective
+                    executive. His monument still stands, forty years later. It was a professional
+                    piece of work. There were very few people in the Department's administrative
+                    area who could have done it as well. Maybe Graham Martin, but not many
+                    others.</p>
+                <p>Later, I was part of the team that surveyed Austria. Vienna was of course in a
+                    far different situation than Germany. It was a city which was governed
+                    tripartitely. It had not been devastated as had been Berlin or Frankfurt.</p>
+                <p>
+                    <hi rend="italics">Q: Tell us what you remember of the Refugee Relief
+                        program.</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>POLLACK: It was discovered that we were still affixing photographs to documents
+                    with a steam iron. In London, the file room was in the basement and the Visa
+                    Office was on the first floor. The great technological achievement there was the
+                    purchase of a system which permitted the officer to write on a slate and an
+                    exact duplicate would show up in another room. This was an early version of the
+                    fax machine. This small step forward expedited the movement of information
+                    tremendously. Two State Department visa experts went to London and designed new
+                    procedures and introduced small technological improvements. They speeded the
+                    process up considerably, but for its first two years, the Refugee Relief Program
+                    was the single biggest administrative challenge faced by the Bureau of European
+                    Affairs. We had to get the consular function modernized because that is where
+                    the largest number of refugees resided. It would be an interesting research
+                    project for someone to study the impact of the Refugee Relief Program on the
+                    Department.</p>
+                <p>
+                    <hi rend="italics">Q: What were your responsibilities as Deputy Executive
+                        Director in the Bureau of European Affairs?</hi>
+                </p>
+                <p>POLLACK: I was told I was the alter ego of the Executive Director—at least that
+                    is the way the job was described to me by Arthur Stevens, the Executive Director
+                    and others. They expected me to shield them from the daily routine decisions
+                    that had to be made and bring to them only those issues that required higher
+                    level attention. I was also supposed to convey to the staff what were the
+                    Assistant Secretary and the Executive Director desires and expectations were. It
+                    was a wide ranging job, although with Arthur Stevens and his successor, I was
+                    pretty much excluded from personnel decisions. They kept that responsibility in
+                    their own hands. My principal area of activity was the budget, which was handled
+                    by a man the name of Harris Collins. Harris was a man with a great sense of
+                    order; he could organize figures in a way that made them meaningful. He was more
+                    than just an accountant; he was very effective and able.</p>
+                <p>
+                    <hi rend="italics">Q: You worked for a number of Assistant Secretaries. Tell me
+                        about their interest in administration, if any.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>POLLACK: I would say that they relied very heavily on their Executive staffs to
+                    run the administrative side of the Bureau. They would intervene in a personnel
+                    decision only if it were a key position in a key post and only if their
+                    intervention was called for by the Executive Director. George Perkins and
+                    Livingston Merchant, the two Assistant Secretaries I worked with, were
+                    substantive people essentially concerned with their relations with the Secretary
+                    and the conduct of international relations with European countries. Livy
+                    Merchant was interested in the management of his personal time, because we were
+                    all concerned with the work load burden on the senior official in the Bureau. He
+                    wondered whether his time was spent as profitably as it might be. Earlier during
+                    my tenure at OPA, I had become involved briefly with time study work—the
+                    Department of Agriculture had pioneered work in this area. I still had some of
+                    the forms we used in OPA and I persuaded Merchant to let us conduct a test on
+                    him for a three or five day period. We did; I think we did it in ten minutes
+                    segments. His secretary would try to keep a record of what he did during each of
+                    those periods. He discovered that he was pending much more time on the telephone
+                    than he wanted to. He also found that his dictation was not well organized; he
+                    dictated intermittently during the day. He made some changes in his personal
+                    habits; he tried to dictate during specific longer periods of the day. He tried
+                    to let others answer the phone or make calls. All over the Bureau and the
+                    Department, there was a tremendous concern for the burden on the senior
+                    officials, who were under work and time pressures that were worrisome. I
+                    encountered this phenomenon throughout my career in the Department. I also
+                    encountered that unique affinity in the Department for lawyers, who never had
+                    had an opportunity to manage large organizations and who found the challenges of
+                    defending multi million budgets before Congressional Committees both a new
+                    experience and mystifying. They did not know how to order their affairs so they
+                    could manage the volume of paper that flowed across their desks. Each day, many
+                    felt compelled to read much more than they needed. George Marshall introduced
+                    some concepts that Carl Humelsine implemented. Marshall would not look at a
+                    paper that was longer than a page. He didn't care how narrow the margins were
+                    and therefore received some ridiculous memoranda with one-quarter inch margins.
+                    But he forced the Department to accept the discipline of succinct statements,
+                    forcing officers to state the problem and actions required by the Secretary on
+                    one page. He did not want the subordinate officers to make the decisions for
+                    him, but wanted to be told very briefly what the problem was and the action
+                    options. This concept later developed into the “options” approach. The
+                    Department officials eventually became skilled in writing options so that only
+                    the one they preferred would look reasonable. The whole question of how
+                    Assistant Secretaries and other senior officials manage their workload is an
+                    interesting topic.</p>
+                <p>
+                    <hi rend="italics">Q: Is the time pressure on the senior officers, which is an
+                        issue that appears frequently in our oral interviews, endemic to the
+                        institution of the State Department or is it the personal problem of certain
+                        officials?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>POLLACK: In part, it was an outgrowth of the fact that the Secretary has to limit
+                    himself in the number of people he deals with. If he is going to deal on
+                    European issues primarily with the Assistant Secretary for that Bureau, then
+                    that Assistant Secretary will soon wish to know all that is going on that might
+                    be raised by the Secretary. I am not sure that the nature of most other
+                    Departments is the same. Most other government Departments have a variety of
+                    dispersed functions. For example, although Social Security is part of HEW, the
+                    Administrator does not have the same relationship to the HEW Secretary as an
+                    Assistant Secretary in State has to his Secretary. It is an entirely different
+                    relationship. On international affairs, there a peculiar staff relationship
+                    between the President and the Secretary of State and in turn between the
+                    Secretary and his Assistant Secretaries. There may be other comparable
+                    situations in the government, but I don't think many. That is the major factor
+                    bearing on the heavy workload of senior officials. There were people like
+                    Harriman who enough personal stature, having been a Cabinet officer and an
+                    independent figure, who did not feel compelled to know every detail of what was
+                    happening. On the other hand, Harriman was a great executive and had a pretty
+                    good idea of what was going on.</p>
+                <p>
+                    <hi rend="italics">Q: During your tour in EUR, did you have any extensive
+                        relationships with other agencies?</hi>
+                </p>
+                <p>POLLACK: Yes, with ECA (the Economic Cooperation Administration)—later ICA( the
+                    International Cooperation)—, for example. Alan Boyd and I saw each other
+                    frequently. We did not have very extensive relationships with other Departments,
+                    except maybe on some of the attach� programs, like Labor. There were
+                    considerable tensions with ECA, which was an independent agency under the policy
+                    guidance of the Secretary. They made it clear that they were not getting policy
+                    guidance elsewhere. I remember raising in Merchant's staff meetings repeatedly
+                    the problems that ECA was posing.</p>
+                <p>
+                    <hi rend="italics">Q: You left EUR in the mid-50s and went to the Controller's
+                        Office. Why and what were your responsibilities?</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>POLLACK: We had in EUR a personnel officer by the name of Sherry Dann, who was a
+                    very sober individual. We had a message center in EUR headed by Frank Smiraglia.
+                    There had been a classification survey which had resulted in a downgrading of
+                    Frank's job. I disagreed with the conclusion. I instructed Dann to ignore the
+                    finding and await further developments. Frank had a couple of kids he was
+                    sending through school and needed the income. Eventually the Civil Service
+                    Commission found out that the results of the classification survey had not been
+                    implemented. The Department's Personnel Office decided that some action had be
+                    taken in view of this “negligence”. So they issued Dann an official reprimand; I
+                    decided that was unjust because he had just followed my instructions. I went to
+                    see the Assistant Secretary for Administration-Controller, Zeke Carpenter, and
+                    had a dispute with him on the action taken against Dann. I had Merchant's
+                    backing on getting the reprimand shifted to me. The Personnel Office was
+                    unwilling to do so, but Carpenter finally instructed them to give me the
+                    reprimand. Dann's record was cleared. A week later, Merchant got a call from
+                    Carpenter, asking for permission to speak to me. I went to see him and he
+                    offered me the position as his administrative assistant.</p>
+                <p>I accepted it and worked as the Assistant Secretary-Controller's assistant,
+                    screening the material that was addressed to him and giving him advice on
+                    administrative issues in the Department. I was more a consultant than anything
+                    else. Carpenter was a warm-hearted, somewhat naive businessman from Omaha.
+                    Carpenter had been told by his attorneys to keep a record; he would come in the
+                    morning and dictate the events of the preceding day. I remember Frances Knight
+                    coming to see him once and referring to a conversation they had had previously.
+                    Carpenter then pulled out his book and corrected Knight by telling precisely
+                    what his notes had said about that meeting. He was very proud of his ability to
+                    do that. Ed Crouch was the Department's budget officer. Carpenter was a man of
+                    great integrity, whom Loy Henderson tolerated even with his lack of background
+                    in State Department. Carpenter was loyal to Henderson and made a major effort to
+                    establish good relations with him. He did the same with Congressman John Rooney.
+                    At one point Rooney was hospitalized and was not having any visitors. Carpenter
+                    considered this for a while and then bought some flowers and took them to the
+                    hospital. Rooney was delighted by the attention.</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>Carpenter, as a former businessman was very conscious of the importance of audits
+                    and established an internal audit group in the Department, separate and apart
+                    from the Inspection Corps. A number of useful findings were made by this new
+                    group; it was all part of the sporadic efforts made to bring State Department
+                    into the modern world. We did not have in existence then the formal budgetary
+                    systems that were tried during the Bill Crockett's era with the reviews by top
+                    staffs of the programs and budgets of the various offices, divisions and
+                    bureaus. Loy Henderson was concerned at one point about language deficiencies;
+                    he was especially concerned by the lack of officers being trained in Chinese,
+                    which the Department was in the process of reviving. He turned to Howard Mace
+                    and me on a personal; basis to see whether we couldn't find a solution to his
+                    problem. We suggested an incentive program which tied promotions and language
+                    skills for the first time. When Loy Henderson became concerned with the language
+                    program, there was a large resurgence of interest. I think it was then that the
+                    early morning language programs were instituted. That is a good illustration of
+                    my thesis that people tend to do what the leadership expects.</p>
+                <p>Carpenter did not concern himself with the shaping of foreign policy and what the
+                    Department needed to do. It is therefore unlikely that there was much linkage
+                    between the budget and the substantive objectives.</p>
+                <p>
+                    <hi rend="italics">Q: What happened after your assignment as Executive Assistant
+                        to Mr. Carpenter?</hi>
+                </p>
+                <p>POLLACK: Carpenter left, but I stayed in that position and worked for Lane
+                    Dwinell, who was the new Assistant Secretary-Controller. Somewhere along the
+                    line, I became “The Management Officer” of the Department of State. I did that
+                    for about a year, supervising a staff of three or four people. I was the only
+                    one who knew about the inclusion of the word “THE” in the title of the job. I
+                    had written the terms of reference for the position. I had a clear and simple
+                    role: I was to look at the management of the Department from the vantage point
+                    of the Secretary of State. So our office rejected all responsibility for any
+                    organizational changes within Bureaus; there was another staff separate from
+                    ours that assisted in such efforts. We took a look at such things as the
+                    clearance procedure, which I discussed earlier; it was an effort to get sharper,
+                    less compromised language to the Secretary so that he would have greater choice.
+                    During this period I worked with George Newman, who was then in Office of the
+                    Special Assistant for Politico-Military Affairs. The Secretary was concerned
+                    with his relationships with the Pentagon; so we instituted an exchange program
+                    which brought military officers to the Department and vice-versa.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>Earlier I had been assigned with the President's “Commission on Management of the
+                    Federal Government”, which was headed by Milton Eisenhower, the President's
+                    brother. On that Commission was Nelson Rockefeller and Arthur Fleming. Arthur
+                    Kimball was working for Rockefeller on this Commission. The White House had been
+                    greatly concerned with the relationships between the President and the Secretary
+                    of State. The White House staff saw the problem as two-fold: a) the Secretary
+                    travelled a considerable amount and when the President wanted his advice, he
+                    often had to take someone else's; and b) the White House staff at that time
+                    played only a service role and not a leading role as the National Security
+                    Council staff does today. This Commission reached the conclusion that a First
+                    Secretary of the Cabinet position be established. The Secretary of State would
+                    continue to be the chief negotiator and do the travelling. The First Secretary
+                    would be located in the White House and would advise the President on foreign
+                    affairs. This idea was discussed with Senator Jackson and his Committee by
+                    Rockefeller toward the end of the Eisenhower Administration as an idea that the
+                    Congress might wish to consider in the future. I went with someone else to brief
+                    Secretary Dulles; he blessed the idea, but since it was so late in the life of
+                    the Eisenhower Administration, it didn't go very far. But I did have an
+                    opportunity to attend a meeting of the American Assembly which met at the
+                    Harriman estate on the Hudson to consider the role of the Secretary of State.
+                    Averell Harriman was there as well as Dean Rusk, then President of the
+                    Rockefeller Foundation. Everybody was concerned with the amount of travel that
+                    Dulles performed. So the Assembly recommended that the Secretary of State stay
+                    home and send someone else for negotiations. Dean Rusk was one of the prime
+                    advocates of that point of view. Of course, when he became Secretary, he broke
+                    all previous travel records.</p>
+                <p>It was the experience, however, which gave me the idea for developing the concept
+                    of “The Management Officer of the Department” who could look at management
+                    issues from the Secretary' s vantage. In addition to the exchange program and
+                    the revision of the clearance procedures, we wrote a briefing book for the
+                    incoming Secretary. Kennedy had set up transition teams, one of which was
+                    headquartered in George Ball's law office. Bob Schaetzel and I went and worked
+                    with that team. So the briefing book was written and it was full of good advice.
+                    Included was a recommendation that the President should appoint the Secretary of
+                    State and that all subordinate positions in the Department be filled by the
+                    President from a list provided by the Secretary, so that when the State team was
+                    put together it would be off to a running start because at least the Secretary
+                    would know all of them. Kennedy of course violated that thought more than any of
+                    his predecessors. As a consequence, Chester Bowles was appointed Under
+                    Secretary, but it was never clear to Bowles who the real Secretary was. That led
+                    me to go see Carl Humelsine in Williamsburg to discuss how the Executive
+                    Secretariat could be revitalized and to see whether he might be interested in
+                    consulting with us on that issue. I went to see Bowles and Rusk to discuss the
+                    idea; both agreed. Humelsine was a man they had confidence in. So Carl helped us
+                    out and Luke Battle, who was working with Humelsine in Williamsburg, returned to
+                    the Department to become Executive Secretary.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>I suspect the briefing book got lost somewhere in the Executive Secretariat or
+                    was disposed of. I have a copy still. The book included ten or twelve management
+                    recommendations. The development of these recommendations required the
+                    participation of a lot of people, not just me or my staff. Some of the ideas in
+                    the book showed up subsequently in other forms. No one can be sure what the
+                    genesis of an idea really was, but the book may have contributed to some. But
+                    none of the recommendations as such were adopted even though it dealt with the
+                    fundamental management problems of the Department. One issue for example was the
+                    tension between regional and functional bureaus. Of course, there is no way that
+                    that conflict could be resolved, but you can minimize the damage that the
+                    competition might make to the effective operations of the Department. You can
+                    find ways to improve understanding between the factions and the differing
+                    responsibilities. I probably recommend that people be moved between regional and
+                    functional bureaus to improve understanding of perspectives. You may remember
+                    that the Regional Bureaus went through a period when they established functional
+                    positions, like policy planning staffs, information officers, intelligence
+                    officers, politico-military offices, etc. Of course, some of these positions
+                    eventually evaporated because either it was not seen as a requirement or because
+                    the incumbent was a poor selection. What did become established were offices
+                    such “Regional Affairs office” staffed by capable economists and Foreign Service
+                    officers. This may have been an out-growth of the Hoover Commission. The
+                    geographic-functional bureau competition is inherent in foreign policy
+                    activities of the United States. That requires every functional bureau to have
+                    geographic concentration because that is the foreign policy is administered. We
+                    did that in the Bureau of Science and Technology. It was a constant problem of
+                    how the Bureau stayed in the forefront of technology knowledge and was still
+                    country-oriented. In historical perspective, in 1945, foreign economic policy
+                    for the United States was focused on agriculture or commerce or finance. That
+                    was handled by the domestic Departments like Agriculture, Commerce and Treasury.
+                    The State Department's strength laid in its geographic expertise. After the War,
+                    with the changing role of the United States, it became necessary for the
+                    Department of State to become more deeply involved in functional areas,
+                    particularly economic affairs and such activities as propaganda to match the
+                    Soviet popularity and leadership. That was quite a change in attitude and
+                    approach in the conduct of our foreign affairs. I remember Phil Trezise giving
+                    formal instructions on international economics to Henry Kissinger, at the
+                    latter's request. Kissinger had recognized that he was not able to hold his own
+                    when it came to discussions of economic issues with Treasury or Commerce
+                    officials. He approached the problem very sensibly by in effect taking a
+                    graduate course in concentrated form. There was no way, for example, to isolate
+                    economic policy from bilateral relations because economic policy was vital to
+                    each geographic area. There is therefore no permanent solution to the
+                    geographic-functional divisions; it will vary with time, circumstances,
+                    personalities at al. I think the tensions between the two is healthy and can be
+                    beneficial. It should not be resolved. It creates a difference of views which
+                    the Secretary should have more often.</p>
+                <p>
+                    <hi rend="italics">Q: I would like to pursue the concept of a management officer
+                        who viewed the Department from the Secretary of State's vantage point. What
+                        led you to this idea?</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>POLLACK: It came to me, as I suggested earlier, when I heard people like Milton
+                    Eisenhower, Nelson Rockefeller and Arthur Fleming discussing the position of
+                    Secretary of State. These were people of great experience and considerable
+                    wisdom. The Secretary had immense problems stemming from the fact that he was
+                    the President's principal foreign policy advisor and also the manager of a
+                    prominent Cabinet Department, which was trying to modernize, which was trying to
+                    merge or at least rationalize the existence of several personnel systems in the
+                    same Department, which had dispersed functions and so on. It was a major
+                    management challenge. In addition, one could never overlook that everyone else
+                    in the White House was trying to run foreign affairs as well. When there was a
+                    media leak, it was always the Department that carried the onus, regardless where
+                    the leak had come from. I knew that the problems the Department had in absorbing
+                    new functions and new personnel were larger than its institutional capacity to
+                    deal with them.</p>
+                <p>
+                    <hi rend="italics">Q: The problems today are different from those existing in
+                        the 1950s. Are you satisfied that the job of Secretary of State is
+                        doable?</hi>
+                </p>
+                <p>POLLACK: In terms of your question, I don't think the Secretary's job has been
+                    doable for a long time. The question is whether a better alternative exists.</p>
+                <p>
+                    <hi rend="italics">Q: You were “The Management Officer of the Department” for
+                        about 18 months. Did you any time during this period have the opportunity to
+                        discuss the Department's problems with the Secretary?</hi>
+                </p>
+                <p>POLLACK: We did get in to see him on the proposals I mentioned earlier. Of
+                    course, toward the end of the Eisenhower Administration, Dulles became ill. I
+                    saw therefore Christian Herter more often. I saw him a good deal, comparatively
+                    speaking, for an administrative man. I was interested in reviving the concept of
+                    the use of inter-Departmental committees as vehicles for action and for the
+                    discussion of nascent ideas. Herter was very interested in that concept. He had
+                    viewed these committees as an opportunity for networking so that one participant
+                    could call another on a first name basis. We used the same argument in support
+                    of the State-Defense exchange program and in maintaining State representation in
+                    the National War colleges and other military training institutions. Networking
+                    was well served by these approaches.</p>
+                <p>
+                    <hi rend="italics">Q: After your management assignment, you moved to Personnel
+                        in 1961. How did come about?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>POLLACK: Bill Crockett came to me one day and asked me whether I would be
+                    interested in becoming the Deputy Assistant Secretary for Personnel. Bill had
+                    been the Administrative Officer in Rome, while I was in EUR and therefore we had
+                    a working relationship. I accepted and became in effect the director for
+                    personnel for the State Department. The only personnel decisions that I didn't
+                    handle related to ambassadorial appointments. The Director General of the
+                    Foreign Service during most of my tenure in Personnel was Tyler Thompson, who
+                    had been my boss for a while in EUR and whom I knew well. We got along very
+                    well. We worked out that division of labor. While Chester Bowles was Under
+                    Secretary, there was a great deal of interest in the role of the Ambassador and
+                    therefore in the selection of candidates and in the issue of political and
+                    career appointments. It was therefore a very important issue which required the
+                    attention of a top-level official. The division of labor was furthermore
+                    compatible with the fact that the Secretary and Assistant Secretaries focused
+                    much more on ambassadorial appointments than any other personnel issue. So I had
+                    an agreed charter to run the total personnel program, which included the medical
+                    division. The Director General spent all of his time on ambassadorial
+                    appointments and the monitoring of their performance; the personnel policies and
+                    programs were the responsibility of the Deputy Assistant Secretary. It is, of
+                    course, completely changed now. The personnel function is part of the Director
+                    General's province.</p>
+                <p>
+                    <hi rend="italics">Q: What were the major personnel issues during the almost two
+                        year period during which you were Deputy Assistant Secretary?</hi>
+                </p>
+                <p>POLLACK: The problems in Personnel are pretty standard. They don't change
+                    greatly. If you have an organization such as the Foreign Service, you manage
+                    recruitment, training, allowances, education of children. You try to provide the
+                    Service with combinations of skills and talents required, either through
+                    recruitment or training. We probably were more concerned with than anything else
+                    was broadening the personnel selection base. At that point, the Foreign Service
+                    depended very heavily on the Ivy League schools for its source of new recruits.
+                    That was the perception and in my view largely correct. It was at the Ivy League
+                    that students learned foreign languages, which were stressed in the entrance
+                    examination. There was color discrimination; there was religious
+                    discrimination—perhaps less so in the 60s than there was in the 40s. The Foreign
+                    Service did not reflect adequately the diversity of the country it served. So we
+                    were interested in enlarging the recruitment base. The change may have come
+                    about anyway, but I am sure we expedited the opening of the Foreign Service to
+                    minorities. That was an interesting, exciting and rewarding initiative. History
+                    depends on the perspective of the viewer. If you read Dean Rusk's autobiography,
+                    you will see that he takes credit for that program. I have great trouble
+                    recollecting that he had very much to do with it, except to let it proceed. He
+                    may have felt that he had provided the guidance.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>The Foreign Service had also been the subject of considerable negative comments
+                    from the academic community which was playing a larger role in the Kennedy
+                    Administration than it did in the Eisenhower one. The criticism concerned the
+                    perception that the Foreign Service was self-managing organization, interested
+                    in its own self-succession, rather than working for the welfare of the
+                    Department and the country. So we placed a lot of stress on putting some visible
+                    integrity on the personnel system, trying to insure that the assignment process
+                    operated without favoritism in an open, above-board manner. We made a major
+                    effort to bring the responsibility for assignments back into the Personnel
+                    Office because if we did not have that authority, then we could not provide the
+                    integrity to the system that we wanted to achieve. When I took over as Deputy
+                    Assistant Secretary, much of the de facto authority rested with the regional
+                    bureaus; I tried to reverse that situation and make the Personnel Office the
+                    responsible decision-making authority. We developed some elaborate procedures;
+                    for example, we reviewed periodically all the senior personnel in a given
+                    bureau, discuss performances with the bureau leadership and reach common
+                    assessments concerning individual performances. This was not done for purposes
+                    of rating performance, but to assist the Personnel Office to make onward
+                    assignments. In the process, we tried to take some biases out of the assignment
+                    process and put it on a firmer factual basis. We resisted vigorously any efforts
+                    that might be made to “save” certain positions for certain officers. I remember
+                    Foy Kohler—then Assistant Secretary for EUR—, an officer for whom I had the
+                    greatest respect and affection, trying to place an officer, who had a lot of
+                    public affairs talent, in an Eastern European post as Deputy Chief of Mission.
+                    We had reviewed the file and felt that he was just not qualified for such an
+                    assignment and that we had officers with much better qualifications who should
+                    be given the opportunity. Foy insisted and we had quite a protected and vigorous
+                    conversation. I am not sure who the winner was, but this was an illustration of
+                    the approach we took to assignments. We were very serious about our efforts.</p>
+                <p>We were also very concerned about the Civil Service employees, particularly the
+                    clerical staff. We developed a program which brought these people together with
+                    me on a weekly basis in a no-holds barred session during which they could
+                    express their views on personnel policies and practices in an unrecorded
+                    meetings. I felt that this mechanism was very useful and allowed the Civil
+                    Service an opportunity to let off steam and at the same time provided the
+                    Personnel Office insights into the problems as perceived by their clientele.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>We also put a lot of emphasis on the management of a new Foreign Service officer
+                    to make sure that her or she had enough exposure to the Foreign Service and
+                    vice-versa so that after a period of time, we could make a judgement whether
+                    this person would succeed in the Foreign Service. We developed a comprehensive
+                    and organized program under Jim McDevitt, who established a “junior officer”
+                    staff. He provided a link between the new officers and the Department and
+                    shepherded them through their first few years in the Foreign Service. We didn't
+                    want a junior officer be tagged at the beginning as a political or consular
+                    specialist and have his or her future decided that early. We consciously rotated
+                    these junior officer among the various Foreign Service functions. I think that
+                    effort may still be in existence today; I know it continued for a long time.</p>
+                <p>
+                    <hi rend="italics">Q: Herman, you touched on two major organizational questions
+                        that have been debated within the Department for years. One is the
+                        assignment process. You are unique in that you have had experience both in a
+                        regional bureau and in a central personnel office. In light of that, how do
+                        you think a good assignment process for the Department should operate?</hi>
+                </p>
+                <p>POLLACK: There a lot of factors that enter into that judgement. You need to
+                    develop expertise; for that you need people who acquire cultural and historical
+                    understandings and language skills. There are few people capable of doing that
+                    for more than one geographic region of the world. On the other hand, if you
+                    leave them in that area for too long, they develop “clientitis”. Moreover, the
+                    European Bureau was attractive to American Foreign Service officers and staffs
+                    because the conditions of employment were more pleasant in Europe than, for
+                    example, in central Africa. By keeping them in central Africa, you would be
+                    denying them and their families a respite from difficult environments. On the
+                    other side, if you rotated employees too often, the system would be replete with
+                    people with great general skills and no knowledge in depth. It is the same
+                    problem as the one that occurs when someone in the Civil Service who remains in
+                    his job so long that he or she are the only ones that know where the files are
+                    hidden and the “bodies” buried. There is no clear answer to the question of the
+                    appropriate organizational location for the assignment responsibility. If I'd to
+                    make a choice, I would side with a centralized system on the grounds that a
+                    small organization such as the Foreign Service is not so large that a central
+                    group can not oversee a system competently. If you are looking at the issue in
+                    the Defense Department, with thousands of people, then you must have break-downs
+                    by military services and their sub-specialties. That isn't required for a small
+                    service such as the Foreign Service. The skills required are pretty much the
+                    same wherever they are needed. So I would put the burden on a central staff, but
+                    I would require that the process be conducted be managed in an uncontentious
+                    manner, in a partnership effort and by people whose personalities and background
+                    were such that they could manage the process with due care for those regional
+                    managers whose responsibilities were to staff a post adequately to perform the
+                    tasks it was called to perform by their superiors and world circumstances.</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: You mentioned that “skills were interchangeable”. Based on
+                        your experiences in the Office of Science and Technology, where do you stand
+                        on the question of “generalists versus specialists”?</hi>
+                </p>
+                <p>POLLACK: Right square in the middle. I wrote a superb memorandum on that issue
+                    which said that the necessity for having specialists in science is as great as
+                    it was having specialists in Soviet or Latin American affairs. I said that we
+                    needed the ability to merge knowledge of foreign policy, the geographic aspects,
+                    the technical knowledge of issues of interest to the Department, such as nuclear
+                    energy, space, environment, etc. Therefore there should be an understanding
+                    between our Office and the central Personnel office which should put an end to
+                    the continuing bureaucratic battles that ensued every time our Office tried to
+                    recruit some specialist from the outside. Invariably, when we had a vacancy, the
+                    Personnel Office would have available a Foreign Service Officer for whom they
+                    had not found an assignment and therefore wanted to place that officer in a
+                    functional bureau and in our case particularly SCI. I recommended a 50/50 split
+                    between scientists and general Foreign Service Officers. I chose that ration,
+                    not on any scientific basis, but because I thought it was politically
+                    negotiable; if I had recommended a 60/40 split, which I thought would be more
+                    appropriate, I probably would not have gotten it. We culled the Foreign Service
+                    with great care to see if we could find any scientifically or technically
+                    trained people. There were a few, but none who were willing to return to their
+                    collegiate “roots”; they had moved beyond that. For example, there might have
+                    been chemists who had entered the Foreign Service and that did their best to
+                    forget everything they had ever learned on the subject because that was no
+                    future in the Foreign Service through chemistry.</p>
+                <p>
+                    <hi rend="italics">Q: Then the answer for the need of specialists, if I
+                        understand you correctly, is to employ them from outside the Department of
+                        State for a given period of time?</hi>
+                </p>
+                <p>POLLACK: I would not put a limit on the time. You have to make it possible for
+                    potential employees to feel secure in working for NIH (National Institute of
+                    Health) or the National Bureau of Standards. They could not feel, that after
+                    having served abroad for a tour of duty, they would be job hunting again. They'd
+                    to have some feeling of security. That was a major short-coming of the FSRU
+                    (Foreign Service Reserve-Unlimited) concept, which surfaced periodically during
+                    my time in the Department. The point is that you can not deal with nuclear
+                    energy unless you understand something about the nature of a reactor, why
+                    nuclear energy may be important, what can be done with nuclear energy besides
+                    producing energy. It is important for a scientific attach� to understand matters
+                    of this nature. Otherwise, he has nothing to offer. That knowledge is not
+                    available everywhere. I can give you many illustrations to support that
+                    view.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>Once you accepted the Hoover Commission concept that “ war is no longer to be
+                    left to the generals, nor foreign affairs to the State Department”—that is the
+                    concept that foreign and domestic affairs are just different points on the same
+                    spectrum—than you have to have the ability to hold your own in dealing with
+                    domestic scientific agencies which have a deep technical capacity. It is vital
+                    for the Department to have some specialist knowledge in the scientific and
+                    technical fields. For example, there was a project called “Storm Fury” which was
+                    an effort to control or moderate hurricanes in the Caribbean. There extensive
+                    cloud seeding programs taking place. No one was sure what the results of seeding
+                    might be; whether it intensified the hurricane, moderated it or changed its
+                    direction. When the Caribbean countries began to understand the uncertainties
+                    involved in the experiment, the political unease about this program being
+                    conducted above their countries grew. So we moved the experiment to the Pacific
+                    where typhoons are identical to hurricanes. The nature of the Pacific typhoons
+                    are such that Japan, the Philippines and Taiwan become excellent bases for
+                    experiments. I don't remember fully what the scientists who were running the
+                    program were stating, but they were very insistent that they wanted to have a
+                    base in one of the three countries. If it had been Japan, the Japanese would
+                    have objected vigorously because they had a great fear of natural disasters. We
+                    reviewed the analysis and found that the demand by the scientists was based on
+                    their analysis that the number of typhoons that would come to Japan was just a
+                    modest percentage higher than if they could have based their experiments at
+                    another site. The entire program could have been effective even if it weren't
+                    based in Japan. As soon as we understood that, the political programs
+                    disappeared because we could choose a base which didn't raise any political
+                    problems. I have encountered the same problems in remote sensing experiments
+                    from satellites; the scientists' needs can be met without raising political
+                    problems if the Department can make a scientific or technical analysis.</p>
+                <p>The Department's needs for specialists was already evident when I was Deputy
+                    Assistant Secretary for Personnel in the early 60s.</p>
+                <p>
+                    <hi rend="italics">Q: When you were in charge of Personnel, what conclusions did
+                        you reach about the relationships in the State Department between the Civil
+                        Service and the Foreign Service? Could one institution operate with two
+                        different personnel systems?</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>POLLACK: No. That was a very unpopular conclusion that I reached when I was in
+                    Personnel. One system had been for very good historical reasons been
+                    administered by the Department of State almost autonomously. The other system
+                    was government-wide managed at a very high level of generality designed to
+                    accommodate a wide spectrum of a large number of employees which included a
+                    great range of skills from messenger to top level administrators. The Foreign
+                    Service had a much narrower focus, was more restricted in its range of
+                    activities. It had problems that once upon a time were unique, but did become
+                    somewhat more general when domestic agencies began to assigning personnel
+                    abroad. I concluded that to find a way to administer these two disparate systems
+                    in a single Department, as small as State was, provided much more complexity
+                    than benefits. I thought we needed a system that would enable a Foreign Service
+                    Officer, if there were compelling reasons, to remain in one place for twenty
+                    years, if that was beneficial to the U.S. Government. I also thought that if
+                    there were a Civil Service official who would be useful at some overseas post,
+                    the Department would have the authority to move such an official. Therefore, I
+                    had in mind a system that would depend less on rules and regulations and more on
+                    skilled an sensitive administrators who would be granted wide latitude in the
+                    assignment of personnel, with due regard to the preferences of the individuals,
+                    some of whom prefer to move and some who didn't. The administrators would also
+                    take into account the preferences of those who wished to become specialists with
+                    deep knowledge of one or two subjects, while others might prefer to remain
+                    generalists who had over-whelming ambitions to become Ambassadors. There were
+                    some who didn't necessarily see such an assignment as the acme of their careers.
+                    Therefore, I supported a single system to be used in the Department of State
+                    into which people could move in and out as they preferred. At the core of such
+                    system, would have been a corps very much like the Foreign Service, but would
+                    greater flexibility to accommodate the many personal situations that had to be
+                    taken into account.</p>
+                <p>
+                    <hi rend="italics">Q: On the concept that you just stated, did it ever get
+                        adopted and put into legislation?</hi>
+                </p>
+                <p>POLLACK: Something akin to it arose later when an another effort was made to
+                    revise the Foreign Service personnel system. This new attempt was concentrated
+                    on the concept of a unified Foreign Service. It ran into great opposition from
+                    within the Department, some form the Civil Service Commission and others who did
+                    not want to lose their ability to have a say in the Department's personnel
+                    policies and practices. The problem of the Foreign and Civil Services and the
+                    fundamental philosophies that underlie each have been a recurring theme in the
+                    history of the Department and a perpetual burden to the personnel managers of
+                    the Department.</p>
+                <pb facs="0023" n="Page0023"/>
+                <p>Beyond that, of course, you also have a clash between the foreign service
+                    personnel systems of other agencies with representation abroad. During the early
+                    60s, a considerable effort was made to bring uniformity to the overseas
+                    personnel systems of the Department, the United States Information Agency and
+                    the International Cooperation Administration (now the Agency for International
+                    Development). We had many committees trying to bring some conformity to the
+                    three disparate systems; we communicated among each other in order to minimize
+                    the difference in treatment that the personnel of each of those agencies
+                    received. We tried to provide comparability and uniformity of policy and
+                    treatment so that personnel serving at the same post would not receiving
+                    differing perquisites.</p>
+                <p>
+                    <hi rend="italics">Q: After your tour as Deputy Assistant Secretary for
+                        Personnel, you attended the National War College.</hi>
+                </p>
+                <p>POLLACK: That's correct. That assignment was made because I had roused
+                    Congressman John Rooney's displeasure, who had heard that I was trying to
+                    succeed Bill Crockett. There was of course no truth to that, but Rooney mandated
+                    that I be removed from the personnel job and therefore I went to the National
+                    War College. I am forever grateful to Rooney for that assignment. It was
+                    great.</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>When I returned from my “academic” year in 1964, I worked for Crockett again as a
+                    special assistant. I remember telling Crockett that I had always been concerned
+                    by the problem that although the Department had always been expected to be the
+                    leader and coordinator of foreign affairs within the government, it didn't have
+                    any philosophy of leadership. I had encountered at the National War College a
+                    very well considered and articulated concept of leadership in the military
+                    services. So I asked Bill whether I could prepare a memorandum on the subject,
+                    which must still be in someone's archives in the Department. I focused on
+                    inter-departmental leadership. I was concerned about the ability of the
+                    Department to undertake in a non-bureaucratic mode, the functions of molding our
+                    country's foreign policy so that the requirements as seen by the Department and
+                    those viewed by the domestic agencies could be reconciled and synthesized. There
+                    is a natural tendency in the Department to look at the foreign affairs efforts
+                    of other agencies as an invasion of prerogatives. I was trying to develop a
+                    concept that increase the Department's awareness of this issue. There is a
+                    tremendous institutional lag that effects all agencies and particularly the
+                    Department of State. In the 60s, we had people who had been molded in the
+                    pre-War days or in the days immediately following the War by the philosophy that
+                    foreign affairs was the prerogative of the Department of State; that
+                    agricultural policy was the purview of the Department of Agriculture which
+                    should stick to that business and not get involved in foreign affairs. I was
+                    looking for a way to institutionalize a concept that leadership requires an
+                    understanding of the points of views and problems of other bureaucracies.
+                    Leadership required an understanding of where the other bureaucracies were
+                    coming from and needed to accommodate those perspectives to the objectives that
+                    the Department of State was trying to achieve, which essentially focused on the
+                    political relationships with country or a region. It was quite clear that after
+                    World War II, the distinction between foreign and agricultural policies had
+                    greatly diminished. That was a major finding of the Hoover Commission.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>There was nothing in the Department's personnel development program that would
+                    give its officers a concept of what leadership was; what it entailed; what the
+                    price was; etc. I was trying to break fresh ground on that issue. Leadership was
+                    essentially an effort to bring proposals to the President that took into account
+                    the legitimate concerns of the domestic agencies. It also entailed the
+                    elimination or at least diminution of the political trading that occurs normally
+                    in a the resolution of a multi-agency problem. When I had the management job, I
+                    was assigned to take a look at the Science office because a complaint had been
+                    registered with Under Secretary for Political Affairs Bob Murphy. The Science
+                    Advisor's position had been re-established on the heel of the Soviet Sputnik
+                    when the whole U.S. Government restructured its scientific efforts, from the
+                    White House's Science Advisor to all the large agencies. I found that the
+                    Department's Science Office consisted of a number of competent, lost souls who
+                    had no idea how they might make an impact on the Department's policy-making
+                    process. So they commiserated largely among themselves and other scientists
+                    outside the Department, thereby inadvertently doing damage to the Department's
+                    reputation. The perception grew that the Department was not taking science and
+                    the development of international science and technology very seriously. It was.
+                    of course, a true perception. My recommendations after the quick survey resulted
+                    in the appointment of Earl Sohm as the Science Advisor, based on the argument
+                    that the Office needed someone who could bring to it an understanding of the
+                    rest of the Department and who could communicate the scientists' concerns to the
+                    rest of the Department. The science effort was a functional activity that was
+                    the most removed from the center of foreign affairs, as understood by the
+                    Department of State. Earl took the job and was still in it when I returned to
+                    the Department from the National War College. He had been in it long enough so
+                    that he was eligible for re-assignment and so it was offered to me. I was
+                    delighted. I knew that my first function would be to recruit a Science Advisor
+                    because Ed Kretzmann, who had been acting Science Advisor, was about to retire.
+                    We over-lapped a couple of months. I undertook the recruitment effort; the men I
+                    identified from the scientific community—whose names I got from places like the
+                    White House, NASA, etc—I took to Dean Rusk and George Ball for their review.
+                    Some were brought in for interviews and raised conditions which were
+                    incompatible with the way the Secretary viewed his role in making assignments.
+                    The candidates were looking for clear statements of authority that would
+                    overcome some of the ambiguities that exist when you have both regional and
+                    functional offices in the same institution. There were bound to be overlapping
+                    jurisdictions and the science candidates wanted clarity. The Secretary viewed
+                    himself as an expert in both science and foreign affairs because while head of
+                    the Rockefeller Foundation he had dealt widely with both worlds. He had a good
+                    appreciation of the inter-relationship between the two. He also had a good sense
+                    of the impossibility of bringing in an official into the Department and then
+                    trying to fence off his responsibilities from those of every one else's. He
+                    understood that there had to be an over-lap between geography and function. So
+                    he would tell the candidate that he couldn't have a clear mandate; the next one
+                    would come in with the same results. The third and fourth candidates of course
+                    couldn't accept anything less that the clear mandate because by his time it was
+                    pretty well known in the scientific leadership community what had happened to
+                    the first two candidates. That community was rather small and saw each other
+                    frequently because they all tended to sit on the same panels, such as the
+                    President's Scientific Advisory Council. How could one good man take on a job
+                    that an other good man had turned down? The recruitment process went on for
+                    sometime and we failed to recruit a number of top notch people. So I stayed in
+                    the job because the Department couldn't recruit a first class broad-gauged
+                    scientist. By this time, the Office of the Science Advisor had been assigned the
+                    responsibility for negotiating nuclear and space agreements. So the Office's
+                    title was changed to the Office for International Scientific Affairs. My
+                    greatest asset was my knowledge of how the bureaucracy functioned. So I got
+                    larger and better space; I insisted on a rug on the floor because that was a
+                    status symbol which put the office in its proper level in the power ladder; I
+                    raised the Office to a Bureau also a status symbol. I was trying to impress on
+                    people both inside and outside the Department, the importance of science to
+                    foreign affairs. I was authorized to employ a scientist as my deputy. All of
+                    this happened in 1965. When it was agreed that I would be appointed as Bureau
+                    chief—it was not at that time a statutory position—, largely out of concern for
+                    the Department's image with other agencies, I suggested to Foy Kohler, who was
+                    then the Under Secretary for Political Affairs, that I should be sworn in. The
+                    swearing-in ceremony was in some respects a sham because normally those are held
+                    only for Presidential appointees. But it was useful, as I said, to invite
+                    representatives of other agencies so that they could see that the Department
+                    took the function seriously. I insisted that the Secretary perform the ceremony
+                    and that all the attributes of a regular ceremony be followed. So the ceremony
+                    took place; my family was there; I signed some fake protocol papers—that is,
+                    these papers were not the usual Presidential papers, but they did appoint me to
+                    the position of Director of the Bureau for International Scientific Affairs
+                    (later, the word “Technological” was added). Invited to the ceremony were the
+                    members of the House of Representatives' Science Advisory panel, which was
+                    composed of the cream of the U.S. scientific community. Also present was Nobel
+                    Prize winner Vargas from Brazil. It was a very impressive ceremony and achieved
+                    the results I wanted; i.e. Departmental attention to the science function. The
+                    attach�s and the other agencies were impressed by what they had seen or read
+                    about the ceremony and the Secretary's words. We played a lot of games like
+                    that. We re-instituted the Secretary's lunches for scientists so that there
+                    could be better communication between them and the Department. We had Nobel
+                    Prize winners attend these functions which were held five or six times each
+                    year. They seldom got a chance to eat because they were so busy talking to the
+                    Secretary and his senior staff. It became very popular and my problem was to
+                    hold the number of senior staff members down to the numbers of available chairs.
+                    We used to talk about computers at the lunches. IBM used to have a little
+                    theater across from the original location of the International Club. It was part
+                    of its program to sell computers to the U.S. government and the Congress. The
+                    theater was used to put on a little show explaining what a computer could do. I
+                    remember that I arranged a briefing limited to Deputy Assistant Secretaries and
+                    above; I tried to limit attendance to the policy leadership. We took them to the
+                    theater for the show. I tried hard to get IBM to modify the conclusion of the
+                    presentation so that it would have some pertinence to the State Department. IBM
+                    said that their presenters were members of Actors Equity and couldn't really
+                    make the transition. The show consisted of a toy railroad layout, with a series
+                    of tracks leading to sheds. They went through the explanation that it was
+                    through such a devise that essentially a computer would be able to segregate
+                    Scottish women with red hair and blue eyes of a certain age. Each rail crossing
+                    would be a segregation point where at the turn of a switch all redheads would go
+                    on one rail and all others on another. It was a very effective explanation of
+                    the binary system. At the end, the comments were: “Is that what it is all about?
+                    is that what the Soviet Union is trying to acquire?”. It took a while for them
+                    to comprehend that the Soviets weren't interested in the number of red-headed
+                    Scottish women, but would find a computer useful for missile design.
+                    Nevertheless, it was an impressive example of the lack of scientific and
+                    technological understanding of the top leadership of the Department in the early
+                    60s. These were people in their late 40s and 50s, who were educated before,
+                    during or shortly after World War II, long before the modern scientific
+                    era—before computers, before jets, etc. Once they got into the government
+                    rat-race, there was no way they could keep up. There was no way to provide them
+                    with an adequate understanding of modern technology. It was a real problem in
+                    the Department of State.</p>
+                <pb facs="0026" n="Page0026"/>
+                <p>The fact is that you can no longer isolate the political actions of countries
+                    from the motivations which are no longer bound by geographic lines. National
+                    strengths today are more likely to be judged by economic, scientific and
+                    technological factors to a far greater degree than ever before. A country desk
+                    officer has to be a very unusual breed to understand this much more complex set
+                    of realities. Some thought might well be given to educational programs that can
+                    develop this unusual breed. The officer has to able to understand what motivates
+                    the French in nuclear energy, in the space program, etc. He can't leave to NASA
+                    and DOE the responsibility of dealing with the French. If that happens, then the
+                    desk officer is ill equipped to deal with the French on political matters
+                    because all the new strains are intertwined with the old forces.</p>
+                <p>
+                    <hi rend="italics">Q: You were in State Department for twenty-eight years. In
+                        retrospect, how would you summarize that period of your life?</hi>
+                </p>
+                <p>POLLACK: Very rewarding. Very interesting. I would not have traded it for
+                    anything else that I might have been able to do. I did pay a high price in that
+                    my family grew up without me. The State Department has come a long way. Anyone
+                    who entered the Department during and after the early 50s missed out on how
+                    backward the Department was in earlier periods. It has become much more
+                    sophisticated. The leadership has a far better comprehension of the
+                    non-political factors that now determine foreign policy. What is not yet
+                    completely understood yet is the degree to which the U.S. economy is a part of a
+                    global economy and the significance and implication of that new development. To
+                    the extent that the Hoover Commission thought that foreign and domestic policy
+                    were one is now imbedded in concrete, far beyond what anyone in the early 50s
+                    would have predicted. The two can no longer be separated.</p>
+                <p>If you think seriously about the Department, you would have to concentrate on the
+                    mix of personnel that modern diplomacy requires and the new inter-agency
+                    mechanisms that a President might wish to establish so that if the Department is
+                    not adequately responsive to his or her needs, the response could come from
+                    another part of the U.S. government. The biggest problem in getting a response
+                    elsewhere is illustrated by the hurricane story I mentioned earlier. Other
+                    agencies can not be expected to understand the potential ramification of their
+                    single-minded pursuits of their objectives on the bilateral relationships
+                    between the United States and other countries. State, on the other hand, should
+                    be able to understand the motivation of other agencies as well as the realities
+                    of the world political scene. It is State that should be able to judge whether
+                    the domestic agency has a requirement that must be accommodated; whether it must
+                    be accommodated in the way preferred by the domestic agencies; and whether such
+                    accommodation is worth the political and economic price that might have to be
+                    paid.</p>
+                <p>
+                    <pb facs="0027" n="Page0027"/>
+                    <hi rend="italics">Q: The interesting point you are making now is that the
+                        leadership memorandum you wrote in the early 60s may be even more pertinent
+                        now than it was then.</hi>
+                </p>
+                <p>POLLACK: I read it again very recently. It reads as if had been written
+                    yesterday. When I left the personnel job in 1963, my read to my staff what I
+                    said then was my legacy. I described the problems as I saw them and what I
+                    thought needed to be done by my successors. I asked the staff whether it had any
+                    reaction; they all agreed with my conclusions. What in fact I read to them, was
+                    a memorandum that a consultant had written in 1948. I think that is a fitting
+                    close to this interview.</p>
+                <p>
+                    <hi rend="italics">Q: I agree. Let me thank you on behalf the Foreign Affairs
+                        Oral History program for the time you have given us. It has been a very
+                        valuable contribution.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

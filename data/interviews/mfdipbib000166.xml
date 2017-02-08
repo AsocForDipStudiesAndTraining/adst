@@ -1,735 +1,1361 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000166">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Ellsworth Bunker </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Ellsworth Bunker </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>Courtesy of the National Archives and Records Service, Lyndon Baines Johnson Library</p>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR ELLSWORTH BUNKER</p>
-<p>Interviewed by: Michael L. Gillette, LBJ Library</p>
-<p>Initial interview date: December 9, 1980</p>
-<p>
-<hi rend="italics">Q:Let's start with your appointment, Ambassador Bunker.  Do you recall the circumstances under which you were chosen ambassador to Vietnam?</hi>
-</p>
-<p>BUNKER:  Yes, I remember how it occurred. I had been asked by Secretary Dean Rusk to go to Buenos Aires to head our mission to the OAS [Organization of American States] meeting. He had to leave, asked me to come there and take his place. I was then in Nepal. On the way back from Buenos Aires to Washington, I had a message from him which I received in Sao Paulo saying he would like to see me on my return. I got back on a Saturday, went to see him, and they said, “The President is in Texas, but he would like to see you Tuesday morning on his return. But I forewarn you, he wants you to go to Vietnam.”</p>
-<p>So I went to see the President on Tuesday morning, and he said he wanted me to go to Vietnam. Well, I at first said, “Well, you know, Mr. President, you've just appointed me ambassador-at-large and I was married last month in Kathmandu. I really have to consult Carol [Laise].” He said, “That's right, you do. I'll give you a plane. You go out to Kathmandu and consult Carol, and then meet me in Guam.” He said, “I want you to go because it's the most important issue facing us today in our foreign affairs. I think it's very important that you should go out there and take over.” So I did go out. I cabled my wife that I would be there probably for only a few days. And as I got off the plane she said, “Well, I know the answer.”</p>
-<p>But the President said to me, “I'm going to give you a plane. I want you to go see Carol every month.” I did get the plane, of course. I didn't get up every month either. But when I couldn't go I would send the plane up to Kathmandu and she would come to Saigon. It became a very popular flight because there were extra seats—I think some thirty extra seats in the plane—and we had a long line waiting for R-and-R in Kathmandu. So it was always full, whether I sent it up for her or whether I went up myself. It was a feature that added greatly to my satisfaction and situation.</p>
-<p>
-<hi rend="italics">Q:  I recall reading that Congressman H. R. Gross, who opposed so many expenditures, opposed the use of that plane.</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>BUNKER:  Yes, he did I think, but he didn't get much support, fortunately from my point of view.</p>
-<p>
-<hi rend="italics">Q:  Did President Johnson elaborate the reasons that he was naming you or wanted you to go in particular? Did he enumerate the particular talents that he hoped you would bring to the job?</hi>
-</p>
-<p>BUNKER:  Well, he did remark on my role in the Dominican Crisis and did say that he admired the way I had handled the Dominican situation, and that we were facing even tougher problems in Vietnam and he wanted me to go out there and see what I could do with the situation.</p>
-<p>
-<hi rend="italics">Q:  Was there any aspect of your job that he emphasized at that point?</hi>
-</p>
-<p>BUNKER: My recollection is, and I have written to Walt Rostow also to see whether my recollection is correct, because I saw the President alone.  There was no note taker there. I have no record; I made no record of our talks either when I came away from it. My recollection is that the President emphasized the fact that he wanted to see the training of the Vietnamese accelerated and speeded up to enable us to more quickly turn the war over to them, which was our main objective, of course, to enable the Vietnamese to defend themselves. As a matter of fact, a month after I arrived General Creighton Abrams came out in May, 1967 as deputy to [General William] Westmoreland. About his chief function then when he first came was to speed up the training of the Vietnamese armed forces. He did a splendid job, of course, and succeeded Westmoreland and was outstanding as commander there. So that—and I've asked Walt to check his recollections—certainly was my objective when I went there, and I think that was the beginning of what later was known as Vietnamization.</p>
-<p>
-<hi rend="italics">Q:  Was there intended any departure from the procedures under Ambassador [Henry Cabot] Lodge?</hi>
-</p>
-<p>BUNKER:  Well, I don't know, because I really don't know what the procedures were.</p>
-<p>
-<hi rend="italics">Q:  But did the President say, “I want you to do this differently than Lodge?</hi>
-</p>
-<p>BUNKER:  No, no. I don't recollect that he did that. But he did want me to arrive as soon as Lodge left, which was quite unusual for a new ambassador to arrive the day his predecessor left. Lodge left in the morning and I arrived in the afternoon. Usually there's a gap of some weeks or even months. But the President was very anxious apparently to see the post covered, so that I arranged to get there just as Lodge almost stepped on the plane to take off.</p>
-<pb facs="0003" n="Page0003"/>
-<p>
-<hi rend="italics">Q:  Did you have any doubts in your own mind about accepting this post, aside from the one that you've already mentioned, consulting your wife?</hi>
-</p>
-<p>BUNKER:  Well, I realized it was going to be a difficult post, but my feeling was that since the President had placed a great emphasis and importance on it, that it was something that one had to undertake.</p>
-<p>
-<hi rend="italics">Q:  Now given the broad authority of General Westmoreland, was there any notion that possibly you might be in a secondary role?</hi>
-</p>
-<p>BUNKER:  No.</p>
-<p>
-<hi rend="italics">Q:  Was that spelled out in advance?</hi>
-</p>
-<p>BUNKER:  Well, it was understood that the ambassador was in charge. I simply acted on that premise. I never had any problem with Westmoreland or Abrams or anyone else. Westmoreland and Abrams never took any major step without consulting me first. I simply assumed that was the way it was going to be and proceeded on that basis. And I must say I had splendid cooperation from both of them.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about the Guam Conference. Do you recall specifics of the President's activities there at Guam?</hi>
-</p>
-<p>BUNKER:  Well, first you had a general review of the situation. Lodge summarized the situation as he saw it from the political aspect; Westmoreland. the military aspect. [Nguyen Van] Thieu and [Nguyen Cao] Ky were both there: both spoke, Ky at greater length than Thieu because Ky was acting as prime minister. Thieu was head of the council then and Ky was the more active and more articulate in some ways. But they both gave a report from their own view of it, aspect of it. The atmosphere I would say was generally rather upbeat. There were reports of progress both from our people, from Lodge, Westmoreland and also from the Vietnamese, so that my reaction to the Guam Conference was that the feeling in Vietnam was fairly optimistic as to the progress that had already been achieved.</p>
-<p>
-<hi rend="italics">Q:  Was this your first meeting with Thieu and Ky?</hi>
-</p>
-<p>BUNKER:  Yes, the first time I had seen them.</p>
-<pb facs="0004" n="Page0004"/>
-<p>
-<hi rend="italics">Q:  What were your first impressions of them, do you recall?</hi>
-</p>
-<p>BUNKER:  Thieu was quite reserved, I felt, rather enigmatic, rather more difficult perhaps to get at, to get to. Ky was more articulate, rather flamboyant, and much more voluble.  But Thieu had a certain solidity about him which I think Ky lacked.  Ky gave the impression of being, I say, more flamboyant, more articulate, but not as profound as Thieu, as deep.</p>
-<p>
-<hi rend="italics">Q:  Did the President seem to have a greater rapport with one as opposed to the other?</hi>
-</p>
-<p>BUNKER:  I don't think so. I don't recollect that he did.</p>
-<p>
-<hi rend="italics">Q:  I understand from the messages that there was some problem or some pledge that Thieu and Ky gave to President Johnson that you would later remind them of again and again. Do you recall the circumstances of that?</hi>
-</p>
-<p>BUNKER:  I don't specifically recall that.  Well, one thing that I did—and this may be it-was to impress on them fairly continuously the importance of their working together and in harmony, not only at the time of the council but after the elections, also in 1967 where Ky became vice president and took a secondary role. You see, there was considerable rivalry between Thieu and Ky for the top spot. There was even a threat that this might divide the military, and I remember calling in the military and making it very clear to them that we couldn't go along with any division in military ranks at the time of war, that they would have to come to some decision themselves. I wasn't going to tell them what it ought to be, but nevertheless they'd have to come to a decision.</p>
-<p>
-<hi rend="italics">Q:  On one candidate or the other?</hi>
-</p>
-<p>BUNKER:  On one candidate.</p>
-<p>
-<hi rend="italics">Q:  Was it a decision that was reached at the level of Ky and Thieu or was it something that their principal military backers decided on, do you recall?</hi>
-</p>
-<p>BUNKER:  Well, it came about through a meeting of the military council at which both Thieu and Ky were present, is my recollection. Ky finally agreed that he would accept the vice presidential spot.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  I want to ask a lot of questions on that, but before we get there I want to ask one more on the Guam Conference, and that is, what was the primary purpose of that conference, do you recall?</hi>
-</p>
-<p>BUNKER:  Well, I think the primary purpose was to review the situation as it stood, to get some feeling for what was possible, not only from the military point of view, but the political point of view. the development of democratic institutions and how rapidly that might progress. The question came up about the elections which took place in September—</p>
-<p>
-<hi rend="italics">Q:  Third, I think.</hi>
-</p>
-<p>BUNKER:  1967, and the preparations for that, for the drafting of a constitution. and the more or less tentative timetable worked out for that.  Then one other decision that came out of the Guam Conference was to put the pacification program under Westmoreland.  And Bob Komer was appointed to head up the pacification program under Westmoreland.</p>
-<p>
-<hi rend="italics">Q:  Was this a decision that President Johnson made? Do you recall the process here?</hi>
-</p>
-<p>BUNKER:  No, I don't think so. I don't think he made it himself, but he agreed to it. I think it was suggested because the pacification program required a preponderance of military personnel out in the provinces. Numerically I think the military outnumbered the civilians about three to one, about that. Therefore, it seemed logical to put it under Westmoreland with a civilian head.</p>
-<p>
-<hi rend="italics">Q:  [William] Porter I suppose had resisted previous attempts to do this, and his argument had been that the soldiers would not give a top priority to community development projects. Do you recall the rebuttal to this point?</hi>
-</p>
-<p>BUNKER:  No, I don't recall that. As a matter of fact, at Guam I had not been aware of Porter's opposition to it.</p>
-<p>
-<hi rend="italics">Q:  Was there a belief at Guam that pacification was not working properly? That it needed to be overhauled?</hi>
-</p>
-<p>BUNKER:  Well, I think there was a feeling that it needed to be invigorated and speeded up, and that more emphasis should be put on it. That it was an essential part of our whole program.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  My notes indicate that the conference in Guam ended on March 22 and you arrived in Saigon on April 25, so I've got a month here that I can't account for. Do you recall the circumstances of the intervening month?</hi>
-</p>
-<p>BUNKER:  Well, you say the Guam Conference ended when?</p>
-<p>
-<hi rend="italics">Q:  March 22.</hi>
-</p>
-<p>BUNKER: Yes.  And I arrived... right.</p>
-<p>
-<hi rend="italics">Q:  Did you go back to Kathmandu?</hi>
-</p>
-<p>BUNKER:  I went back to Kathmandu, but I'm trying to think whether I went first to Washington and then Kathmandu. But I did have some time in Kathmandu, to give Lodge time to arrange for his departure and say his farewells and so forth. So that I waited there in Kathmandu and when I got word about Lodge's departure time, then I arranged my arrival time.</p>
-<p>
-<hi rend="italics">Q:  Did you have an opportunity at some point, either at Guam or in the intervening month, to get Lodge's impressions of the situation there in Saigon?</hi>
-</p>
-<p>BUNKER:  No. I never saw Lodge from the time I left Guam, and of course didn't see him when he departed. So the last talk I had with him was in Guam itself, and there of course we had a chance to talk. Lodge, I'm not certain, but I have the impression that he rather felt that Ky was the more dynamic of the two. I remember his saying that Ky was a learner, could grasp things. But as the situation turned out, I think that Thieu was the abler in most ways.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you your first impressions of the mission in Saigon?  I suppose the new Chancellery was under construction by this time.</hi>
-</p>
-<p>BUNKER:  It was under construction. I opened it.</p>
-<p>
-<hi rend="italics">Q:  It opened the following month I gather. No, it would be in the fall I guess.</hi>
-</p>
-<p>BUNKER:  I arrived in the spring. I think it was in the fall, yes. Yes. we were in the old building when I first went there.</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q:  The embassy personnel?</hi>
-</p>
-<p>BUNKER:  Embassy personnel, yes. I think was very good.  First-rate.  In fact in recalling my talk with the President when he asked me to go out there.  He said, 'You can have anybody you want. If there's anybody there that you don't want, he'll be on his way home in twenty-four hours.” I think in the whole six years I was there I only asked for one change.</p>
-<p>
-<hi rend="italics">Q:  Do you recall that one?</hi>
-</p>
-<p>BUNKER:  I've forgotten who it was now. I think it was our economic counselor at the time that I thought wasn't quite up to the job. But by and large we had a first-rate embassy. This was especially true of the younger people in the Foreign Service who were out there and out in the provinces, out on their own, of course in very hazardous posts, and did a magnificent job.</p>
-<p>
-<hi rend="italics">Q:  You mentioned Bob Komer coming out to work on pacification. Was this part of your decision or was he already scheduled to go out there?</hi>
-</p>
-<p>BUNKER:  No.  He was scheduled to go out, yes. And Bob was a very able fellow, but not always easy to control, I remember shortly after he got out there he sent through the back channel a message recommending that the head of our AID program be changed, without saying anything to me about it. I found out about it.</p>
-<p>
-<hi rend="italics">Q:  How did you become aware of this, do you recall?</hi>
-</p>
-<p>BUNKER:  Well, what I did was, I had all the back channel messages come to me.  Bob found out this, discovered this, and said, “I understand that all the back channel messages are routed through you.” I said. “That's correct, Bob.” I never had any more trouble with him.</p>
-<p>
-<hi rend="italics">Q:  Barry Zorthian and Edward Lansdale apparently were scheduled to leave Vietnam, but it was decided that they would stay after your arrival.  Do you recall that?</hi>
-</p>
-<p>BUNKER: Well, they did stay for a period, yes.  And they were both very useful. very able.</p>
-<p>
-<hi rend="italics">Q:  How about Ambassador [Eugene] Locke, what was his role there?</hi>
-</p>
-<p>BUNKER:  He was my deputy.</p>
-<p>
-<pb facs="0008" n="Page0008"/>
-<hi rend="italics">Q:  Did you delegate a certain area?</hi>
-</p>
-<p>BUNKER:  Oh, yes, I delegated particularly pacification to Locke. But he didn't stay very long, as you recall. He came out with me. He left I think in January, 1968 to go back to Texas to run for governor. So that he left I think in January.</p>
-<p>Ambassador [Samuel] Berger didn't get out there until March, so there was that interim period which included Tet when I didn't have a deputy.</p>
-<p>
-<hi rend="italics">Q:  Did the fact that Ambassador Locke was an old acquaintance of President Johnson cause any chain of commands problem at all?</hi>
-</p>
-<p>BUNKER:  No, not at all.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about the atmosphere in Saigon at the time you took over. How would you describe the city and the mentality of the city in the spring and summer of 1967?</hi>
-</p>
-<p>BUNKER:  I think the city was quiet when I got there. People were going about their business. There was not an air of great apprehension. I think people were confident that progress was being made. The city gave the appearance of going about its business. And of course it was Tet which upset that whole situation there. But I think there was some feeling of euphoria.</p>
-<p>
-<hi rend="italics">Q:  Others have given the impression of Saigon as being sort of very removed from the war and very different from the provinces.</hi>
-</p>
-<p>BUNKER:  I think that's true in certain ways, until Tet came along when that changed rather rapidly. But I think that was true at the time I arrived.</p>
-<p>
-<hi rend="italics">Q:  Let's talk about U.S.-Vietnamese relations. I gather that one of your principal functions as ambassador was to deal with Thieu and Ky and to apprise them of our positions, to use, as Bob Komer would say, leverage on them to get them to do the things that we hoped they would do and things of this nature. Would that have constituted a major part of your role there?</hi>
-</p>
-<p>BUNKER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  I gather at the time of your arrival there was a considerable conflict between them.</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>BUNKER:  There was rivalry between them. Certainly rivalry, particularly until the decision was made as to the ticket for the elections in September.</p>
-<p>
-<hi rend="italics">Q:  Was there any one individual who was the key to this decision?</hi>
-</p>
-<p>BUNKER:  No, I don't think so.</p>
-<p>
-<hi rend="italics">Q:  Not one military man on the council?</hi>
-</p>
-<p>BUNKER:  No, I don't think so.</p>
-<p>
-<hi rend="italics">Q:  Did you yourself favor Thieu over Ky?</hi>
-</p>
-<p>BUNKER:  I did, yes. Yes, I was pleased when they finally did decide on Thieu.</p>
-<p>
-<hi rend="italics">Q:  Was this primarily based on the difference between the two men or was this at all relating to different policies that one might espouse?</hi>
-</p>
-<p>BUNKER:  Not different policies, but the difference between the two individuals.  I thought Thieu was a wiser, more solid person. Ky was too unpredictable, too emotional, too flamboyant. Thieu more solid.</p>
-<p>
-<hi rend="italics">Q: Did you use your influence before the unified military ticket, before they resolved the two candidacies? Ky was censoring some of Thieu's campaign statements and General [Nguyen Ngoc] Loan apparently was using some public officials and one thing and another. I gather you may have used some influence to get them to control some of the political activities that you regarded as excessive. Do you recall that?</hi>
-</p>
-<p>BUNKER:  Well, yes. Loan, this chief of police, was a very difficult—well, I had little use for him. I made it very clear to Ky and Thieu that I didn't think he was the right person in that job.</p>
-<p>
-<hi rend="italics">Q:  But he stayed for a good while.</hi>
-</p>
-<p>BUNKER:  He stayed for quite a while.</p>
-<p>
-<pb facs="0010" n="Page0010"/>
-<hi rend="italics">Q:  Was he primarily a Ky supporter rather than Thieu?</hi>
-</p>
-<p>BUNKER:  Yes. Yes, he was. No, he was bad medicine.</p>
-<p>
-<hi rend="italics">Q:  Did you exert any other influence on Ky before he agreed to assume the vice presidential position?</hi>
-</p>
-<p>BUNKER:  I didn't. No, I didn't exert any influence on either one of them. I simply said to them and to the military, General Cao Van Vien, who was chairman of the joint chiefs, and two or three others whom I called in.  I said, “I'm not interfering in this, but you've got to make up your minds. There can't be a division at a time of war among the military. It's not possible.”</p>
-<p>
-<hi rend="italics">Q:  Did you fear that it would go beyond a political division, that it might also involve a coup?</hi>
-</p>
-<p>BUNKER:  Not necessarily a coup but I just thought it would divide the military into Factions which was not acceptable.</p>
-<p>
-<hi rend="italics">Q:  Why do you think Ky agreed to step aside?</hi>
-</p>
-<p>BUNKER:  Yell. I think that Thieu had the larger measure of support from the military actually.</p>
-<p>
-<hi rend="italics">Q:  There was some notion at first that Thieu would actually be merely a figurehead and Ky would have the authority to name the cabinet and to head the armed services. Do you recall the dispute over a formula of who would actually do what?</hi>
-</p>
-<p>BUNKER:  No. As far as I can remember, I don't think Ky had any veto over individuals. I don't recollect any.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about the civilian candidates, the others. There was quite an array. Was it important to the U.S. and to public opinion to keep those candidates in the race?</hi>
-</p>
-<p>BUNKER:  I think it was important, yes. Because I think it was a demonstration that the elections were free, as they were. Thieu and Ky were elected with a plurality, not with a majority. I think they got about 35 per cent of the vote. As it turned out, it was of course a more democratic election than the one in 1971 where there was no opposition. If the civilian candidates could have agreed on one they might have given Thieu and Ky a good run.</p>
-<pb facs="0011" n="Page0011"/>
-<p>
-<hi rend="italics">Q:  Was there any civilian candidate that we favored informally as an alternative?</hi>
-</p>
-<p>BUNKER:  No, I don't think so.</p>
-<p>
-<hi rend="italics">Q:  Would it be fair to say that we expected and hoped the Thieu-Ky ticket to win?</hi>
-</p>
-<p>BUNKER:  Yes, I think so. I think it's fair to say that we thought that would be the most effective in carrying on the war and carrying the country along. Because there are too many factions among the civilians, as evidence by the fact that there were eleven civilian tickets I think.  So that it was very difficult to find a civilian who could bring the country together.</p>
-<p>
-<hi rend="italics">Q:  I gather they were united only in their opposition to Thieu and Ky.</hi>
-</p>
-<p>BUNKER:  That's right. Yes, sure. And of course all those countries are more accustomed to authoritarian rule than we are. I mean, after all, they adopted our presidential system. As one senator said, “We've got a democratic system now though we have a history of four thousand years with no tradition in it of that kind.”</p>
-<p>
-<hi rend="italics">Q:  Was the election a maturing experience for them?</hi>
-</p>
-<p>BUNKER:  Yes, I think it was, yes. Because it was carried out, I think, really quite well. We had a great many observers there, as you know.</p>
-<p>
-<hi rend="italics">Q:  Do you think that as the process continued during that campaign that there was less censorship, more freedom of the press? Did you see an emerging democracy in terms of the practices?</hi>
-</p>
-<p>BUNKER:  Yes, there was more freedom, freedom of the press. One of the problems of the whole war we had to contend with was the fact that there was no press censorship, which raises the issue or the question whether a democracy can wage war successfully without censorship and with the war now being shown on television, which never happened before. This is the first time it happened, the first time that the war came into everybody's living room. No question in my mind that it had a very important effect on public opinion in this country, whereas the other side didn't wage war under those handicaps. They had complete censorship.</p>
-<p>
-<pb facs="0012" n="Page0012"/>
-<hi rend="italics">Q:  Let me ask you about the prospect of “Big” Minh [General Duong Van Minh] returning from Bangkok to run as a candidate. Do you recall how this was prevented?</hi>
-</p>
-<p>BUNKER:  I should, but the details escape me at the moment. I must try to refresh my memory on that.</p>
-<p>
-<hi rend="italics">Q:  Do you recall I think it's the Dongha incident where the other candidates were assembled and supposedly prepared to debate and Thieu did not join them? They all got mad about it.</hi>
-</p>
-<p>BUNKER:  Yes, they got mad about it. I remember that, too. Yes. But I do remember they got mad about it. My recollection is, too, that I've forgotten now why Thieu and Ky didn't show up. I think it's because they didn't want to give importance to the other side, lend that much credibility to their opponents.</p>
-<p>
-<hi rend="italics">Q:  Did you urge Thieu to appear with the other candidates?</hi>
-</p>
-<p>BUNKER:  Subsequently I did. I told him I thought ....</p>
-<p>
-<hi rend="italics">Q:  Anything else on the campaign that you feel is important?</hi>
-</p>
-<p>BUNKER:  No, I don't think so. I think I did report this to the President in one of my messages. We did have a chance to observe the elections over a wide area of the country, and the reports from the observers came in that they were fairly conducted, without pressure, and with everybody given a chance to vote, and that we were really quite pleased with the way the government had organized the elections and carried them out. I guess [Hubert] Humphrey came out for the inauguration.</p>
-<p>
-<hi rend="italics">Q:  In one of these wires you referred to your persistent persuasion and patient prodding. Can you recall any particular examples of using your influence to get Thieu and Ky to adopt a policy during the campaign that has more in keeping with public opinion?</hi>
-</p>
-<p>BUNKER:  During the campaign?</p>
-<p>
-<hi rend="italics">Q: Yes.</hi>
-</p>
-<p>BUNKER:  No, I can't recollect any particular instance.</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  There was a crisis I suppose at the end when the national assembly appeared to want to invalidate the election. Do you recall this crisis?</hi>
-</p>
-<p>BUNKER:  I do recall the crisis, but I don't recall the circumstances particularly.</p>
-<p>
-<hi rend="italics">Q:  Well, I gather some of these assemblymen were defeated senate candidates.</hi>
-</p>
-<p>BUNKER:  Yes, that's right, some of them were defeated and wanted to—because of that reason, I think, but I just don't recollect the details.</p>
-<p>
-<hi rend="italics">Q:  Could it be that some of them were also Ky partisans?</hi>
-</p>
-<p>BUNKER:  Might have been so.</p>
-<p>
-<hi rend="italics">Q:  But I think the record indicates that you met with a group of them and brought them to a different frame of mind.</hi>
-</p>
-<p>BUNKER:  Yes, but I don't recollect what the reason for the... I think it was because, as you say, some of them were defeated. It's hard for an Oriental to accept loss of face.</p>
-<p>
-<hi rend="italics">Q:  In addition to the observers, did the embassy make any other efforts to ensure an acceptable level of honesty and voter participation in the elections?</hi>
-</p>
-<p>BUNKER:  Well, we made it very clear to the government, Thieu and Ky and the rest of them, that we placed great importance on fair elections and that there should be no coercion or attempts of coercion of the voters. I made it very clear to both of them that the question of support.  Degree of support they would receive from here would depend very largely on how the elections were carried out and how they were seen here and not only seen here and reported by the press.</p>
-<p>
-<hi rend="italics">Q:  Did your pressures, do you think, generate anti-Americanism?</hi>
-</p>
-<p>BUNKER:  Well, I don't think so really. Maybe at times. Well, there were times, of course, later on when they generated anti-Americanism, when I tried to get them to go to Paris.</p>
-<p>
-<pb facs="0014" n="Page0014"/>
-<hi rend="italics">Q:  What was President Johnson's reaction to the election, do you recall?</hi>
-</p>
-<p>BUNKER:  Well, I think he was very pleased, of course, with the way it was carried out, and I think he expected certainly that the military would be returned to power and probably felt that that was the best thing for the country, given the situation that existed at the time. And he was concerned that the election should be seen here as being open and free.</p>
-<p>
-<hi rend="italics">Q:  I understand that there was an invitation to the UN to send observers as well. Do you recall your role in that invitation?</hi>
-</p>
-<p>BUNKER:  No, I don't recall specifically.</p>
-<p>
-<hi rend="italics">Q:  Now General Loan arrested a former economics minister, [Au Troung] Thanh. Do you recall that incident?</hi>
-</p>
-<p>BUNKER:  No, I don't recall that.</p>
-<p>
-<hi rend="italics">Q:  I have a note here that you filed a stiff protest after that happened.</hi>
-</p>
-<p>BUNKER:  I probably did.</p>
-<p>
-<hi rend="italics">Q:  Was there a problem of regionalism that affected the government in Vietnam?</hi>
-</p>
-<p>BUNKER:  Well, regionalism in the sense that you had, for example, the Cao Dai religious sect, which is very strong in the South, very anti-communist and therefore pro-government. There's still also an element which was rather insistent on its prerogatives as such. and of course there were the Buddhists and what we call the radical Buddhists. who were often anti-government. And there was the Catholic element, which had come from the North, which was a minor but substantial element in the country, Thieu himself being a Catholic.  So that you had this sense of rivalry between the Catholics, the Buddhists, the other elements like the Cao Dai. On the other hand, while that led to rivalries domestically, politically, still they were united I think in their opposition to the communists. So it was an element that could and did occasionally cause some disturbance, unsettlement. Before I got there they had the Buddhist uprising in the North, you know, at Danang.</p>
-<p>
-<hi rend="italics">Q:  It seems that the Buddhists were never really brought into the process, that they were always a force of resistance.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>BUNKER:  Well, particularly what was known as the An Quang Buddhists, the more radical element. There was another element which was much more cooperative with the government, but it was the An Quang Buddhist faction that got the publicity, of course.</p>
-<p>
-<hi rend="italics">Q:  Did you yourself have any formula for muting their opposition?</hi>
-</p>
-<p>BUNKER:  No. I didn't have any formula. I can't say that I did.</p>
-<p>
-<hi rend="italics">Q:  In retrospect, as you look back, could anything have been done to further unify the country?</hi>
-</p>
-<p>BUNKER:  I don't know. The Thieu-Ky rivalry was at times unsettling and it's something that I kept working on constantly, pointing out to both of them it was absolutely essential that they work together.</p>
-<p>
-<hi rend="italics">Q:  How responsive were they overall in these meetings?</hi>
-</p>
-<p>BUNKER:  They were responsive in the meetings, but they didn't always follow through.</p>
-<p>
-<hi rend="italics">Q:  Did persistence help here? Were you eventually able to bring them around in some cases?</hi>
-</p>
-<p>BUNKER:  Yes. Yes. I think so, until the elections of 1971, and then they had the split between Thieu and Ky. But then Ky pulled out.</p>
-<p>
-<hi rend="italics">Q:  Some of your advice to Thieu seems to have been more along the lines of political advice: to get out more among the people, to use television, to become essentially a more aggressive leader in attempting to unify the people. Can you elaborate on this sort of advice and the success of it?</hi>
-</p>
-<p>BUNKER:  Well, Thieu, as a military man and being himself rather austere, and I think because of perhaps the secretive characteristics about him, was not used to using the press, the television. He was used to command as a military man, not used to persuasion, to giving orders but not used to persuasion. And he had to go through really an educational process.  This is what I was trying to help him with and urging him to do, to expose himself more to the people. And he did progress a great deal I think. I went with him on a good many trips where he did get out among the people and talk to them, and I think improved very much in the course of time on his public relations aspect.</p>
-<pb facs="0016" n="Page0016"/>
-<p>
-<hi rend="italics">Q:  Do you think he ever achieved the status in the minds of the Vietnamese as a national leader?</hi>
-</p>
-<p>BUNKER:  I think he did, but not necessarily—as a leader, but not as a national hero.</p>
-<p>
-<hi rend="italics">Q:  Was there anyone in South Vietnam at the time that you felt would have been the natural leader to unify the country?</hi>
-</p>
-<p>BUNKER: No.  No, I didn't see anyone.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about some more of your pressures. One, dismissing corrupt officials. I gather this was something else you were very interested in.</hi>
-</p>
-<p>BUNKER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  How far did you get with that?</hi>
-</p>
-<p>BUNKER:  Well, we made some progress with it. Thieu did replace quite a number of province chiefs who were guilty of corruption. Some of the military were, some not. One of the problems we had occasionally was with the military wives, the wives engaged in corruption instead of their husbands.</p>
-<p>
-<hi rend="italics">Q:  Now another thing I understand that you were interested in was the~ matter of higher military and civilian pay scales. Do you recall your efforts there?</hi>
-</p>
-<p>BUNKER:  Yes. Yes, I know I did try. I did urge Thieu to improve their pay scales, because they really were getting very poorly paid, which as I said to him, leads to corruption. The attitude in the Orient towards corruption is somewhat different than it is here. In most of those countries there are no social security laws. The extended family, the family is the social security unit, and your first duty is to take care of your family, provide for your family. If you do engage or feel that you have to engage in corruption in order to do that, there are extenuating circumstances which you don't have here in the Western civilization. So people look at it with more tolerance as being done to take care of the family situation.</p>
-<p>
-<hi rend="italics">Q: Were the salaries increased?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>BUNKER: Yes. Yes, they were.</p>
-<p>
-<hi rend="italics">Q:  And did the government have the funds to do this?</hi>
-</p>
-<p>BUNKER:  Yes. Well, we of course were giving economic support to the government right along, but also the country was making progress economically in spite of the war, particularly in the later years of the war when I was there, not only in the industrial sector, but particularly in the agricultural sector where farmers were really more prosperous than they'd ever been. I can remember going down to the Delta, which is the great agricultural area there, and seeing farmers who used to ride bicycles riding motorcycles, and seeing television aerials or radio aerials in houses. And they were buying tractors, sometimes pooling on their tractors, but getting into machinery operations. There was a very large land distribution program effected, which became effective in 1970, 1972.</p>
-<p>
-<hi rend="italics">Q:  Did we have a policy of advocating land reform?</hi>
-</p>
-<p>BUNKER:  Oh, yes.</p>
-<p>
-<hi rend="italics">Q:  I know President Johnson was interested in that.</hi>
-</p>
-<p>BUNKER:  Oh, yes. He did have a very great interest.</p>
-<p>
-<hi rend="italics">Q:  How effective were you at advancing that policy?</hi>
-</p>
-<p>BUNKER:  I think we were quite effective in advancing it and had good cooperation from Thieu and the government. They did a very substantial, really very creditable piece of work.</p>
-<p>
-<hi rend="italics">Q:  Did you also favor giving more authority to the province chiefs rather than the military commanders? Do you recall this question?</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>BUNKER:  Well. we recommended or advocated more authority to the Province chiefs because their concern was with the local government rather than with the military effort, except from the point of view of the village and hamlet security aspect. But they were closer to the people than the military were and were permanently stationed in the provinces. Consequently they had a greater interest in the progress of their own provinces, an interest, of course, in security, too, but also in the economic situation and the political situation. So that we felt that if people had problems or grievances or things of that kind, that the province chief was the more suitable person to whom they could address themselves and look for relief or redress or whatever it might be.</p>
-<p>
-<hi rend="italics">Q:  The question of prisoners of war and repatriation of prisoners, were there questions here that were addressed to the Thieu Administrations?</hi>
-</p>
-<p>BUNKER:  I'm not quite clear on your question.</p>
-<p>
-<hi rend="italics">Q:  Well, for example, did our concern over the safety of our POWs in North Vietnam cause us to advance a particular policy of how Viet Cong prisoners should be treated or repatriation?</hi>
-</p>
-<p>BUNKER:  Yes. We were, of course, interested in seeing that these prisoners, our prisoners, were treated according to the rules of warfare and that they were properly treated, and saw to it. And I think they were. The Con Son Island incident, where there was a great fuss about—</p>
-<p>
-<hi rend="italics">Q:  Oh, the tiger cages?</hi>
-</p>
-<p>BUNKER:  Tiger cages, yes.</p>
-<p>
-<hi rend="italics">Q:  Did you ever attempt to improve the conditions of Viet Cong prisoners or to step up repatriation in order to aid our own prisoners of war?</hi>
-</p>
-<p>BUNKER:  I'd have to refresh my memory on what we did on repatriation, I just don't recall at this point.</p>
-<p>
-<hi rend="italics">Q:  Cambodia must have presented a dilemma at this point. It was clear that the enemy was using Cambodia as a sanctuary.</hi>
-</p>
-<pb facs="0019" n="Page0019"/>
-<p>BUNKER: Oh, absolutely. In fact, I sent a message back in June—June 9, June 19, I've forgotten the exact date—recommending that we go into Laos and cut the trail on the ground, that the war was kept alive, of course, in the South by the infiltration of men and supplies and materiel and equipment, reasoning that if we could cut the trail that the Viet Cong in the South would wither on the vine. Well, obviously I was turned down; they never did it, on several grounds. One, it would be a violation of the Laotian treaty of 1962 to which we were signatories. My response to that was that it was quite true it would be a violation, but the other side violated it from the day they signed it, and the Laotians would be delighted to have us go in.</p>
-<p>Secondly, it would take two or three more divisions, which again was true, but we put in that many more before we got through.</p>
-<p>The third point was that there was fear it might provoke the Chinese. but my observation on that was that while we have no relations with the Chinese, had none, our friends did. The British had embassies in Peking, the French, Dutch, and we could make it very clear to the Chinese we had no designs on China or on North Vietnam. North Vietnamese could have any kind of government they wanted as far as we were concerned, but they weren't going to take over the South.</p>
-<p>Well, we didn't do it. If we had done it, of course it would have helped to close sanctuaries, not only in Laos but in Cambodia, too. But we didn't do it, and then finally did go into Cambodia.</p>
-<p>
-<hi rend="italics">Q:  Of course you had a problem with Prince [Norodom] Sihanouk, I suppose.</hi>
-</p>
-<p>BUNKER:  Well, Sihanouk tacitly let it be understood that as long as we didn't bomb civilian areas and kept our bombing to the sanctuaries that he didn't really object to it, although he wasn't going to say so.</p>
-<p>
-<hi rend="italics">Q:  But you understood that this was his position?</hi>
-</p>
-<p>BUNKER:  Yes. Yes.</p>
-<p>
-<hi rend="italics">Q:  There seems to have been some rivalry between South Vietnam and Cambodia here. One example, the halting of shipping on the Mekong River that impaired the Cambodian economy. Do you recall your efforts to free up the shipping on the Mekong River, keep Sihanouk in a friendlier posture?</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>BUNKER: I'm not very clear on it. I think we did, and did arrange to let shipping go up the Mekong. It's my recollection it went up pretty freely, even though the other side were bringing in supplies through Sihanoukville and bringing them up into the sanctuaries.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about the post-election situation. Was there an effort made to broaden the base of the government?</hi>
-</p>
-<p>BUNKER:  Well, yes, I think there was. I think in the appointments to the cabinet, and Thieu did make several changes as time went on. I'll have to look.  I'm certain I reported that in my messages, but I'd have to check it.</p>
-<p>
-<hi rend="italics">Q:  During this period, before Tet and after the inauguration, were there overtures made to the other side to discuss settlement terms or cease-fires or peace conferences?</hi>
-</p>
-<p>BUNKER:  1967. When was the San Antonio formula, which has been referred to in some of these?</p>
-<p>
-<hi rend="italics">Q: I have September 29, 1967 on that.</hi>
-</p>
-<p>BUNKER:  September 29. The President made a proposal there. I've forgotten just what the terms were. September, 1967.</p>
-<p>
-<hi rend="italics">Q:  I believe there was a normal flow of men and materiel continuing from the North during the bombing pause, but no stepped up activity. Wasn't it something like that?</hi>
-</p>
-<p>BUNKER:  Yes, I must look it up to refresh my memory on that.</p>
-<p>
-<hi rend="italics">Q:  For example, didn't President Thieu write a letter to Ho Chi Minh?</hi>
-</p>
-<p>BUNKER:  He did write a letter. The question came up of how it was to be delivered, I remember. I'm not sure whether we ever reached a solution, or that he ever did, on the ways to get it to him.</p>
-<p>
-<hi rend="italics">Q:  I gather there was some consideration of having the Pope deliver it, and even some speculation that perhaps President Johnson in his visit had taken the letter with him to Rome when he saw the Pope at Christmas?</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>BUNKER:  Yes, but my recollection is that it never was worked out.</p>
-<p>
-<hi rend="italics">Q:  Really?</hi>
-</p>
-<p>BUNKER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  It seems a shame that there's no basis for communication. Another intriguing event was the Buttercup affair, where an NLF emissary supposedly was on his way to meet with you and was arrested. Do you recall this?</hi>
-</p>
-<p>BUNKER:  I recall it, yes, but I don't recall the details.</p>
-<p>
-<hi rend="italics">Q:  There was some speculation that this was merely a hoax on the Viet Cong's part.</hi>
-</p>
-<p>BUNKER: I must really refresh myself on that, too.</p>
-<p>
-<hi rend="italics">Q: But do you yourself recall any talks, informal talks, that you had with emissaries of the other side on the basis of settlements or ceasefires?</hi>
-</p>
-<p>BUNKER:  No. No, I never had any talks. No.</p>
-<p>
-<hi rend="italics">Q:  Were there neutralists that you could talk with that could get word indirectly to the other side?</hi>
-</p>
-<p>BUNKER:  Not that I could talk with, no.</p>
-<p>
-<hi rend="italics">Q:  What about foreign nationals, say British or French or other individuals that had contacts with North Vietnam?</hi>
-</p>
-<p>BUNKER:  Well, we never made any approach to the North Vietnamese through other nationals in South Vietnam. Now, anything of that sort was done in Washington, but outside of Vietnam itself. I never got involved in any negotiating proposals or peace proposals in Vietnam with other nationals, or with emissaries from the other side.</p>
-<p>
-<hi rend="italics">Q:  Anything else on the negotiations before Tet?</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>BUNKER:  No, no. I don't recall anything.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about pacification. How would you define the pacification program?</hi>
-</p>
-<p>BUNKER:  Well, the pacification program had two sides at least to it. One was the question of the hamlet and village security. That was the primary objective. The second objective, also equally important, was the economic aspect. And third, the political. So that pacification was, you see, a well-rounded program in which the rural self-defense forces were involved, training civilians in defense. Economic development was equally important. And you remember the village elections, council elections, were held all over the country also beginning in 1967.  So that it was the development of a conscious part in the government of the people at the local level that really was involved in the pacification program, self-help program.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about the CORDS program, Civil Operations and Revolutionary Development Support, as part of pacification. Do you recall that?</hi>
-</p>
-<p>BUNKER:  Yes. Oh, yes, very well. That was the principal part of pacification as far as Komer was concerned and his duties. That was really a very essential part of our whole program in Vietnam.</p>
-<p>
-<hi rend="italics">Q:  What specifically did this involve?</hi>
-</p>
-<p>BUNKER:  Self-government at the local level. Revolutionary development is really a misnomer; rural development would be the better name for it. We called it revolutionary development, but I think we got changing it as it went along. We called it revolutionary development because in the beginning it was developing local political self-consciousness and self-government at the local level. But the reason I say it was rural development in this other sense was it involved agriculture, too, fisheries, agriculture, all of the economic activities involved at the village level, at the local level. So that it was a comprehensive program and a very important one.</p>
-<p>It involved, as I say, security first, the training of the local citizenry. One indication of the confidence the government had in support of the citizenry was the fact that they distributed, if I remember correctly, six hundred thousand weapons at large in the countryside. Well, if you felt uncertain about the loyalty of the people, you wouldn't give them arms they could use against you. I mean, I think it was a mark of confidence by the government that they had the support of the citizenry. Anyhow, that was an important part.  Training both men and women, too, in this hamlet and village self-defense.</p>
-<p>
-<pb facs="0023" n="Page0023"/>
-<hi rend="italics">Q:  Did you have any feedback on the extent or evaluation to determine if, in fact, the arms were falling into friendly hands rather than potential Viet Cong?</hi>
-</p>
-<p>BUNKER:  Oh, yes. Oh, yes. Except where the Viet Cong could come in and capture them, we never had any indication they were ever turned over to the Viet Cong.</p>
-<p>
-<hi rend="italics">Q:  How about the Phoenix program?</hi>
-</p>
-<p>BUNKER:  The Phoenix program, I think, was an important program in unearthing the underground. It was criticized, I know here, saying it was an assassination program. It was not an assassination program. People were killed when they resisted arrest, yes, of course. But the great majority of those people were imprisoned and were not executed. There were casualties, of course, because there was resistance, but it was an important program. You see, what happened at Tet was because Tet was a military defeat, a very significant military defeat for the other side, but a psychological victory for them here in the United States because of the press reaction and the way it was reported. And that I think is brought out by Peter Braestrup in his books. But what happened was that the communist side was so confident that the Viet Cong surfaced for the first time.  The underground all came up and were identified, many of them killed. I mean, they virtually suffered such severe losses at Tet they never recovered from it.  But it made them more vulnerable.  More identifiable, and hence the Phoenix program became more effective.</p>
-<p>
-<hi rend="italics">Q:  Was it tied into the Chieu Hoi program at all, the returnee program?</hi>
-</p>
-<p>BUNKER:  Yes. Well, yes it was, where ralliers would come in. In my earlier messages to the President, I think every week I reported about the Chieu Hoi.</p>
-<p>
-<hi rend="italics">Q:  Do you think that these people who came over and were evidently reimbursed for doing so and joining the South Vietnamese army, do you think they ever slipped back into the jungles and rejoined the Viet Cong?</hi>
-</p>
-<p>BUNKER:  Not many so. Maybe a few, but not many.</p>
-<p>
-<hi rend="italics">Q:  Really? Our intelligence indicated that—</hi>
-</p>
-<p>BUNKER:  That's right, they didn't go back.</p>
-<p>
-<pb facs="0024" n="Page0024"/>
-<hi rend="italics">Q:  Did you talk to many of these people and determine why they were changing sides?</hi>
-</p>
-<p>BUNKER:  I never talked to them personally, no. Our people did, of course.</p>
-<p>
-<hi rend="italics">Q:  Well, lots of stories came in about the hardships and the North and the difficulty there, and the hardships of fighting in the South, this kind of warfare they were carrying on. Most of these Chieu Hoi people were guerrillas you know, not many of them were the regular military who were living hand-to-mouth and fighting in the jungles.  What was Edward Lansdale's role in the pacification program?</hi>
-</p>
-<p>BUNKER: Well, principally as an adviser, based on his long experience there in that part of the world: principally as an adviser on the local scene—which he knew. I suppose, perhaps better than most of us, most of the people who were there: he'd been there longer—aha, I think the native culture, psychology, so forth.</p>
-<p>
-<hi rend="italics">Q: Was he controversial in official circles?</hi>
-</p>
-<p>BUNKER:  Not with me or there at the time. I think he had been at some time.  But I had no problem with him. I thought he was quite effective really.</p>
-<p>
-<hi rend="italics">Q:  Was he critical at all of pacification, the implementation of it?</hi>
-</p>
-<p>BUNKER:  I don't think he was.</p>
-<p>
-<hi rend="italics">Q:  I gather this was one of the ARVN's weakest areas, pacification.</hi>
-</p>
-<p>BUNKER:  Well, it may have been. Yes, I suppose perhaps so. They were more concerned really about fighting the war and the enemy. However, I think they cooperated pretty well.</p>
-<p>
-<hi rend="italics">Q:  William Corson, who was over there, made the criticism that the pacification project should not have to be cleared through the Vietnamese officials. Do you recall this issue?</hi>
-</p>
-<p>BUNKER:  Corson? Now, when was this, do you remember?</p>
-<p>
-<hi rend="italics">Q:  This would have been, I think, in the 1967-68 period.</hi>
-</p>
-<pb facs="0025" n="Page0025"/>
-<p>BUNKER:  I don't even remember, was Corson stationed there?</p>
-<p>
-<hi rend="italics">Q:  He was with the marines. He was a ....</hi>
-</p>
-<p>BUNKER:  Oh, yes, marines. In the North. That's interesting, shouldn't have to be cleared with the Vietnamese? I'd forgotten that. That's interesting. Do you remember how that came out?</p>
-<p>
-<hi rend="italics">Q:  He wrote a book called The Betrayal.</hi>
-</p>
-<p>BUNKER:  That's right, that's right. I haven't read it. Have you read it?</p>
-<p>
-<hi rend="italics">Q:  No.  I have some notes on it here though.</hi>
-</p>
-<p>BUNKER:  What was the thrust of it?</p>
-<p>
-<hi rend="italics">Q:  Well, I'm not going to elaborate, since I haven't read it, but I gather he was critical of Komer's performance.</hi>
-</p>
-<p>BUNKER: Komer's handling of it?</p>
-<p>
-<hi rend="italics">Q:  Also another issue that seems to have been raised was the method of evaluation of various hamlets.</hi>
-</p>
-<p>BUNKER:  Hamlet evaluation security, yes.</p>
-<p>
-<hi rend="italics">Q:  The A-B-C-D rating system..</hi>
-</p>
-<p>BUNKER:  A-B-C-D, yes. A-B-C-D and the communists. Yes, well, like all evaluations it's inexact, of course. It's an approximation, really. But it was an approximation and gave a pretty good idea, I think, of the general situation. I say, like all evaluations based on judgments, it was not exact, but it did by 1972, end of 1972, you could travel anywhere in the country you wanted to go without any security protection or anything at all.</p>
-<p>
-<pb facs="0026" n="Page0026"/>
-<hi rend="italics">Q:  The press argued at the time that the C category, which was the designation of hamlets under government control, were really sort of a toss-up and would thereby in the evaluation total reduce the government control to less than 50 per cent of the population.</hi>
-</p>
-<p>BUNKER:  Well, depending on, I think, what year you took the evaluation, because the situation kept changing steadily for the better.</p>
-<p>
-<hi rend="italics">Q:  Did it?</hi>
-</p>
-<p>BUNKER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  Was this a direct result of pacification, do you think, rather than just military advances?</hi>
-</p>
-<p>BUNKER:  It was a combination of both. No question, a combination of both. The military situation improved and the pacification situation.</p>
-<p>
-<hi rend="italics">Q:  What did we learn from that pacification experience that you would apply in other situations?</hi>
-</p>
-<p>BUNKER:  Well, I think we did learn the importance of getting the local population people involved in their own situation, not only their own protection, their own economic development, their own political development. This was the whole thrust of the pacification program. It was government at the local level involving defense, involving the political situation, involving the local councils, hamlet chiefs, and the local economic development programs. So it was a rounded approach. I think it applies not only to Vietnam but to other situations in the less developed world.</p>
-<p>
-<hi rend="italics">Q:  It seems that apathy was a great problem, that so many of the Vietnamese people were not interested in the Viet Cong or the other side, but on the other hand they seemed apathetic about the Thieu-Ky government.</hi>
-</p>
-<p>BUNKER:  A great bulk would prefer to be left alone, obviously. I mean, prefer not to be involved in the war on one side or the other. But I think this is true anywhere in the world you go. I mean, many of them just wished the war would go away. Sure, no question.</p>
-<p>
-<pb facs="0027" n="Page0027"/>
-<hi rend="italics">Q:  Another area that you seemed to have some concerns about was intelligence. In fact in November, 1967, when you came back to the White House and met with President Johnson, I gather that there were some proposals to revamp our intelligence system to get better intelligence.</hi>
-</p>
-<p>BUNKER:  Yes. I don't remember the specifics of that particular talk at the White House, but certainly the intelligence was a matter of concern, a matter of great concern to us. The question of attempting to improve the intelligence was also a matter of concern.  Now, I felt that the agency, the CIA there was well run. We had good people, I thought, there. Ted Shackley, for example, was first-rate. His successor who was there a briefer time, Lou Lapham was good. Tom Polgar was the last one. He was only there about—well, he stayed on with [Ambassador Graham] Martin, but only the last year I was there. They were all, I thought, good, able. I thought they were doing a pretty good job for us.</p>
-<p>
-<hi rend="italics">Q:  How about military intelligence? Did you feel that you were getting adequate military intelligence?</hi>
-</p>
-<p>BUNKER:  Well, I wasn't so sure about the military intelligence. Of course, I had a briefing every week from the military, a general roundup, of the situation each week. But it was more difficult for me to judge about the quality of it.</p>
-<p>
-<hi rend="italics">Q:  Enemy troop levels. There have been indications, or certainly at least contentions, that we drastically underestimated the size of the enemy force in the field.</hi>
-</p>
-<p>BUNKER:  I don't know. I don't know about that.</p>
-<p>
-<hi rend="italics">Q:  Do you recall this being a source of concern at the time?</hi>
-</p>
-<p>BUNKER:  No, I don't, really. Where did that develop, do you remember? Estimates of enemy force level.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about some of the visitors that you had out there. I gather there was almost a constant flow of congressional and diplomatic visitors.</hi>
-</p>
-<p>BUNKER:  Oh, absolutely. I think the Christmas-New Year's season, 1967-68.  I've forgotten how many congressmen, senators I had. I think I remember a hundred and forty-six or something like that, fantastic. Just descended on us in swarms.</p>
-<p>
-<pb facs="0028" n="Page0028"/>
-<hi rend="italics">Q:  Was there any sort of official policy of how you treated these people and what sort of procedures to follow with them?</hi>
-</p>
-<p>BUNKER:  Yes, well, in this sense, that they all got briefings, of course, from the military aspect and also from us on the political aspect, the economic situation. And where they expressed a wish to do so, we would take them out into the country in areas we thought it was safe for them to go. I remember Senator [Charles] Percy and his wife came out. I think he got out in a place where he got pretty close to getting under fire.</p>
-<p>
-<hi rend="italics">Q:  I understand that he injured his hand or something when he jumped for cover.</hi>
-</p>
-<p>BUNKER:  Something like that, yes. But we had some amusing experiences, too, I remember. The first helicopter ride I ever took in Vietnam, I had a forced landing.</p>
-<p>
-<hi rend="italics">Q:  Crash landing.</hi>
-</p>
-<p>BUNKER:  Yes.  Have I described that to you?</p>
-<p>
-<hi rend="italics">Q:  Please do.</hi>
-</p>
-<p>BUNKER:  General [Bruce] Palmer was out there as deputy to Westmoreland, and he was out at Bien Hoa base. He had been with me in the Dominican situation, where he was deputy commander to the Brazilians. I was going out to see him and we were flying along over the highway, and we started to come down. I looked out and I didn't see anything that looked like the base, and I thought maybe we were going to be met by a jeep or something. Well, then the traffic began to swerve off.  And we came down and we skidded along.  I got out of the chopper, thanked the pilot. He said. “Oh, we're not there yet. We've had a forced landing; I had to come down. My power shut off. Fortunately we were over fifteen hundred feet, or we couldn't have made it.” Well, it was a very amusing incident in a way, but what happened was there was a photographer aboard. He got the strap of his camera afoul of the fuel valve, shut off the fuel. We came down and we were rescued by the Jolly Green Giant. [HH-53, special operations helicopter].</p>
-<p>So I was quite amused by it. I described this to General Palmer. He said, “Anyhow, another chopper should have been following you anyway. Somebody will catch hell for that.”</p>
-<p>
-<hi rend="italics">Q:  Did you have any other close calls while you were there?</hi>
-</p>
-<pb facs="0029" n="Page0029"/>
-<p>BUNKER:  Oh, yes. Tet. We were under fire.</p>
-<p>
-<hi rend="italics">Q:  Well, we'll deal with that in detail. But in your travels around the country?</hi>
-</p>
-<p>BUNKER:  No. At the same time I went out to the First Division fire base. The commander there asked me if I'd like to go around the base. I said, “Yes, I would.” So he assigned an officer to take me out, show me the base. He took me around outside the base. So I came back and he said, “Where did he take you?” I said, “He took me around outside of the base.” He said, “Well, we're supposed to be protecting you, you're not supposed to be protecting us.” So I reported this to Bruce Palmer. too. “Oh.” he said, “Somebody will catch hell for that.” I got back. I thought it had been a very amusing day. I told Westmoreland about it. And he said. “A lot of people have already caught hell.” (Laughter) But no, except for Tet, I don't think there were any very close situations.</p>
-<p>
-<hi rend="italics">Q:  Did official visitors from Washington ever tend to want to go beyond the areas that were safe?</hi>
-</p>
-<p>BUNKER:  No.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you about George Romney's visit. This is the one where he was brainwashed.</hi>
-</p>
-<p>BUNKER:  Yes, but I think that was before my time.</p>
-<p>
-<hi rend="italics">Q:  He came back then I guess in December of 1967.</hi>
-</p>
-<p>BUNKER:  Yes, he did come back in December. We didn't try to brainwash him then. (Laughter) As I remember, his visit was a very brief one. It really didn't make much of an impression on me.</p>
-<p>
-<hi rend="italics">Q:  Hubert Humphrey attended the inaugural ceremonies, I believe.</hi>
-</p>
-<p>BUNKER:  Yes, he did.</p>
-<p>
-<hi rend="italics">Q:  Can you recall the occasion?</hi>
-</p>
-<pb facs="0030" n="Page0030"/>
-<p>BUNKER:  Oh, yes. He headed the delegation, our delegation. Hubert, as usual, got along extremely well wherever he went. He was really great. But, as you know, Hubert didn't have many terminal facilities, and I said to him, I'd like to have him address the embassy staff. We had a very large embassy, you know, the biggest in the world. I said, “Now, Hubert, they'll all be out in the compound in the yard in the sun, and it's hot. So only talk ten or fifteen minutes.” He said, “Oh, sure, Ellsworth, that's fine.” Well, Hubert made a rattling good fifteen-minute speech. Then he made a second fifteen-minute speech. I thought, well this is going to be all. Then he made a third fifteen-minute speech. I think we timed him at fifty-two minutes. But he got a good hand, of course. Oh, he was great.</p>
-<p>
-<hi rend="italics">Q:  Did he have any proposals or advice or any suggestions for President Thieu that you recall?</hi>
-</p>
-<p>BUNKER:  I don't recall any in particular, but he got along very well with Thieu. They were very appreciative of his coming out.</p>
-<p>
-<hi rend="italics">Q:  How about the Maxwell Taylor-Clark Clifford mission in July, 1967?  Do you recall that?</hi>
-</p>
-<p>BUNKER:  Well, that was to our allies, not to Vietnam. They went to our allies, I think, in the interest of seeing whether they could get further troop reinforcements. But they didn't come to Vietnam at that time. Clark Clifford came out later after Tet in 1968 again and wanted to start withdrawing troops then, and I objected to that because I thought it would have a very demoralizing effect. And I was upheld. We subsequently met in Honolulu, and the President agreed that we would not begin to pull out.</p>
-<p>
-<hi rend="italics">Q:  Anything else on visitors?</hi>
-</p>
-<p>BUNKER:  Well, I remember that Governor [Ronald] Reagan and his wife came out, just what date I can't quite remember. He was a strong supporter of what we were doing, and I was very happy to see them because he really backed us up.</p>
-<p>
-<hi rend="italics">Q:  Did you get many visitors who were opposed to the war or opposed to the conduct of the war, the way it was being conducted?</hi>
-</p>
-<pb facs="0031" n="Page0031"/>
-<p>BUNKER:  Some.  Yes, we did.  Well, Townsend Hoopes came out when he was Secretary of the Air Force I think. He later became opposed to the war, as you know. Congressman [Lester] Wolfe—in fact, I think Wolfe at one time said he thought I ought to be recalled, if I'm not mistaken. We had a visit from Senator [Edward] Kennedy, who was critical of the way we were handling the refugees, but unfortunately came out to make a case. He had his mind made up when he came apparently, because he avoided the embassy largely and brought some staff with him. They went to a refugee camp which was being abandoned because we had built a new one and a better one, but made their report based on what they'd seen at the old one, which didn't go very well with me. I didn't feel it was really a straightforward report.</p>
-<p>
-<hi rend="italics">Q:  Did you meet with him while he was out there?</hi>
-</p>
-<p>BUNKER:  I saw him just briefly, that's all. He stayed away from us largely.</p>
-<p>
-<hi rend="italics">Q:  Let's talk about the refugee situation some more. I gather there were a tremendous number of displaced people.</hi>
-</p>
-<p>BUNKER:  There were, yes, a great many. If you add them all up, they weren't all displaced at one time, but the total, I think, came to some five million. But that was spread over a span of years; it didn't all happen at once.  I mean, they came out and went back again. But the point is that, as I guess Bob [Sir Robert] Thompson put it, or someone, they voted with their feet. They never went over to the other side. They always ran away from the other side.</p>
-<p>
-<hi rend="italics">Q:  Was there anything that could have been done in your opinion to improve the refugee situation?</hi>
-</p>
-<p>BUNKER:  My feeling is, given the fact that the country was at war, given the fact of limited resources, I think it was handled remarkably well.  Obviously hardships existed, but the fact is, as I say, nobody went over to the enemy. They did vote with their feet, and went back as soon as they had a chance to go back. Naturally they were attached to their own villages.</p>
-<p>
-<hi rend="italics">Q:  Well, I certainly do thank you.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>Courtesy of the National Archives and Records Service, Lyndon Baines Johnson
+                    Library</p>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR ELLSWORTH BUNKER</p>
+                <p>Interviewed by: Michael L. Gillette, LBJ Library</p>
+                <p>Initial interview date: December 9, 1980</p>
+                <p>
+                    <hi rend="italics">Q:Let's start with your appointment, Ambassador Bunker. Do
+                        you recall the circumstances under which you were chosen ambassador to
+                        Vietnam?</hi>
+                </p>
+                <p>BUNKER: Yes, I remember how it occurred. I had been asked by Secretary Dean Rusk
+                    to go to Buenos Aires to head our mission to the OAS [Organization of American
+                    States] meeting. He had to leave, asked me to come there and take his place. I
+                    was then in Nepal. On the way back from Buenos Aires to Washington, I had a
+                    message from him which I received in Sao Paulo saying he would like to see me on
+                    my return. I got back on a Saturday, went to see him, and they said, “The
+                    President is in Texas, but he would like to see you Tuesday morning on his
+                    return. But I forewarn you, he wants you to go to Vietnam.”</p>
+                <p>So I went to see the President on Tuesday morning, and he said he wanted me to go
+                    to Vietnam. Well, I at first said, “Well, you know, Mr. President, you've just
+                    appointed me ambassador-at-large and I was married last month in Kathmandu. I
+                    really have to consult Carol [Laise].” He said, “That's right, you do. I'll give
+                    you a plane. You go out to Kathmandu and consult Carol, and then meet me in
+                    Guam.” He said, “I want you to go because it's the most important issue facing
+                    us today in our foreign affairs. I think it's very important that you should go
+                    out there and take over.” So I did go out. I cabled my wife that I would be
+                    there probably for only a few days. And as I got off the plane she said, “Well,
+                    I know the answer.”</p>
+                <p>But the President said to me, “I'm going to give you a plane. I want you to go
+                    see Carol every month.” I did get the plane, of course. I didn't get up every
+                    month either. But when I couldn't go I would send the plane up to Kathmandu and
+                    she would come to Saigon. It became a very popular flight because there were
+                    extra seats—I think some thirty extra seats in the plane—and we had a long line
+                    waiting for R-and-R in Kathmandu. So it was always full, whether I sent it up
+                    for her or whether I went up myself. It was a feature that added greatly to my
+                    satisfaction and situation.</p>
+                <p>
+                    <hi rend="italics">Q: I recall reading that Congressman H. R. Gross, who opposed
+                        so many expenditures, opposed the use of that plane.</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>BUNKER: Yes, he did I think, but he didn't get much support, fortunately from my
+                    point of view.</p>
+                <p>
+                    <hi rend="italics">Q: Did President Johnson elaborate the reasons that he was
+                        naming you or wanted you to go in particular? Did he enumerate the
+                        particular talents that he hoped you would bring to the job?</hi>
+                </p>
+                <p>BUNKER: Well, he did remark on my role in the Dominican Crisis and did say that
+                    he admired the way I had handled the Dominican situation, and that we were
+                    facing even tougher problems in Vietnam and he wanted me to go out there and see
+                    what I could do with the situation.</p>
+                <p>
+                    <hi rend="italics">Q: Was there any aspect of your job that he emphasized at
+                        that point?</hi>
+                </p>
+                <p>BUNKER: My recollection is, and I have written to Walt Rostow also to see whether
+                    my recollection is correct, because I saw the President alone. There was no note
+                    taker there. I have no record; I made no record of our talks either when I came
+                    away from it. My recollection is that the President emphasized the fact that he
+                    wanted to see the training of the Vietnamese accelerated and speeded up to
+                    enable us to more quickly turn the war over to them, which was our main
+                    objective, of course, to enable the Vietnamese to defend themselves. As a matter
+                    of fact, a month after I arrived General Creighton Abrams came out in May, 1967
+                    as deputy to [General William] Westmoreland. About his chief function then when
+                    he first came was to speed up the training of the Vietnamese armed forces. He
+                    did a splendid job, of course, and succeeded Westmoreland and was outstanding as
+                    commander there. So that—and I've asked Walt to check his
+                    recollections—certainly was my objective when I went there, and I think that was
+                    the beginning of what later was known as Vietnamization.</p>
+                <p>
+                    <hi rend="italics">Q: Was there intended any departure from the procedures under
+                        Ambassador [Henry Cabot] Lodge?</hi>
+                </p>
+                <p>BUNKER: Well, I don't know, because I really don't know what the procedures
+                    were.</p>
+                <p>
+                    <hi rend="italics">Q: But did the President say, “I want you to do this
+                        differently than Lodge?</hi>
+                </p>
+                <p>BUNKER: No, no. I don't recollect that he did that. But he did want me to arrive
+                    as soon as Lodge left, which was quite unusual for a new ambassador to arrive
+                    the day his predecessor left. Lodge left in the morning and I arrived in the
+                    afternoon. Usually there's a gap of some weeks or even months. But the President
+                    was very anxious apparently to see the post covered, so that I arranged to get
+                    there just as Lodge almost stepped on the plane to take off.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>
+                    <hi rend="italics">Q: Did you have any doubts in your own mind about accepting
+                        this post, aside from the one that you've already mentioned, consulting your
+                        wife?</hi>
+                </p>
+                <p>BUNKER: Well, I realized it was going to be a difficult post, but my feeling was
+                    that since the President had placed a great emphasis and importance on it, that
+                    it was something that one had to undertake.</p>
+                <p>
+                    <hi rend="italics">Q: Now given the broad authority of General Westmoreland, was
+                        there any notion that possibly you might be in a secondary role?</hi>
+                </p>
+                <p>BUNKER: No.</p>
+                <p>
+                    <hi rend="italics">Q: Was that spelled out in advance?</hi>
+                </p>
+                <p>BUNKER: Well, it was understood that the ambassador was in charge. I simply acted
+                    on that premise. I never had any problem with Westmoreland or Abrams or anyone
+                    else. Westmoreland and Abrams never took any major step without consulting me
+                    first. I simply assumed that was the way it was going to be and proceeded on
+                    that basis. And I must say I had splendid cooperation from both of them.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about the Guam Conference. Do you recall
+                        specifics of the President's activities there at Guam?</hi>
+                </p>
+                <p>BUNKER: Well, first you had a general review of the situation. Lodge summarized
+                    the situation as he saw it from the political aspect; Westmoreland. the military
+                    aspect. [Nguyen Van] Thieu and [Nguyen Cao] Ky were both there: both spoke, Ky
+                    at greater length than Thieu because Ky was acting as prime minister. Thieu was
+                    head of the council then and Ky was the more active and more articulate in some
+                    ways. But they both gave a report from their own view of it, aspect of it. The
+                    atmosphere I would say was generally rather upbeat. There were reports of
+                    progress both from our people, from Lodge, Westmoreland and also from the
+                    Vietnamese, so that my reaction to the Guam Conference was that the feeling in
+                    Vietnam was fairly optimistic as to the progress that had already been
+                    achieved.</p>
+                <p>
+                    <hi rend="italics">Q: Was this your first meeting with Thieu and Ky?</hi>
+                </p>
+                <p>BUNKER: Yes, the first time I had seen them.</p>
+                <pb facs="0004" n="Page0004"/>
+                <p>
+                    <hi rend="italics">Q: What were your first impressions of them, do you
+                        recall?</hi>
+                </p>
+                <p>BUNKER: Thieu was quite reserved, I felt, rather enigmatic, rather more difficult
+                    perhaps to get at, to get to. Ky was more articulate, rather flamboyant, and
+                    much more voluble. But Thieu had a certain solidity about him which I think Ky
+                    lacked. Ky gave the impression of being, I say, more flamboyant, more
+                    articulate, but not as profound as Thieu, as deep.</p>
+                <p>
+                    <hi rend="italics">Q: Did the President seem to have a greater rapport with one
+                        as opposed to the other?</hi>
+                </p>
+                <p>BUNKER: I don't think so. I don't recollect that he did.</p>
+                <p>
+                    <hi rend="italics">Q: I understand from the messages that there was some problem
+                        or some pledge that Thieu and Ky gave to President Johnson that you would
+                        later remind them of again and again. Do you recall the circumstances of
+                        that?</hi>
+                </p>
+                <p>BUNKER: I don't specifically recall that. Well, one thing that I did—and this may
+                    be it-was to impress on them fairly continuously the importance of their working
+                    together and in harmony, not only at the time of the council but after the
+                    elections, also in 1967 where Ky became vice president and took a secondary
+                    role. You see, there was considerable rivalry between Thieu and Ky for the top
+                    spot. There was even a threat that this might divide the military, and I
+                    remember calling in the military and making it very clear to them that we
+                    couldn't go along with any division in military ranks at the time of war, that
+                    they would have to come to some decision themselves. I wasn't going to tell them
+                    what it ought to be, but nevertheless they'd have to come to a decision.</p>
+                <p>
+                    <hi rend="italics">Q: On one candidate or the other?</hi>
+                </p>
+                <p>BUNKER: On one candidate.</p>
+                <p>
+                    <hi rend="italics">Q: Was it a decision that was reached at the level of Ky and
+                        Thieu or was it something that their principal military backers decided on,
+                        do you recall?</hi>
+                </p>
+                <p>BUNKER: Well, it came about through a meeting of the military council at which
+                    both Thieu and Ky were present, is my recollection. Ky finally agreed that he
+                    would accept the vice presidential spot.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: I want to ask a lot of questions on that, but before we
+                        get there I want to ask one more on the Guam Conference, and that is, what
+                        was the primary purpose of that conference, do you recall?</hi>
+                </p>
+                <p>BUNKER: Well, I think the primary purpose was to review the situation as it
+                    stood, to get some feeling for what was possible, not only from the military
+                    point of view, but the political point of view. the development of democratic
+                    institutions and how rapidly that might progress. The question came up about the
+                    elections which took place in September—</p>
+                <p>
+                    <hi rend="italics">Q: Third, I think.</hi>
+                </p>
+                <p>BUNKER: 1967, and the preparations for that, for the drafting of a constitution.
+                    and the more or less tentative timetable worked out for that. Then one other
+                    decision that came out of the Guam Conference was to put the pacification
+                    program under Westmoreland. And Bob Komer was appointed to head up the
+                    pacification program under Westmoreland.</p>
+                <p>
+                    <hi rend="italics">Q: Was this a decision that President Johnson made? Do you
+                        recall the process here?</hi>
+                </p>
+                <p>BUNKER: No, I don't think so. I don't think he made it himself, but he agreed to
+                    it. I think it was suggested because the pacification program required a
+                    preponderance of military personnel out in the provinces. Numerically I think
+                    the military outnumbered the civilians about three to one, about that.
+                    Therefore, it seemed logical to put it under Westmoreland with a civilian
+                    head.</p>
+                <p>
+                    <hi rend="italics">Q: [William] Porter I suppose had resisted previous attempts
+                        to do this, and his argument had been that the soldiers would not give a top
+                        priority to community development projects. Do you recall the rebuttal to
+                        this point?</hi>
+                </p>
+                <p>BUNKER: No, I don't recall that. As a matter of fact, at Guam I had not been
+                    aware of Porter's opposition to it.</p>
+                <p>
+                    <hi rend="italics">Q: Was there a belief at Guam that pacification was not
+                        working properly? That it needed to be overhauled?</hi>
+                </p>
+                <p>BUNKER: Well, I think there was a feeling that it needed to be invigorated and
+                    speeded up, and that more emphasis should be put on it. That it was an essential
+                    part of our whole program.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: My notes indicate that the conference in Guam ended on
+                        March 22 and you arrived in Saigon on April 25, so I've got a month here
+                        that I can't account for. Do you recall the circumstances of the intervening
+                        month?</hi>
+                </p>
+                <p>BUNKER: Well, you say the Guam Conference ended when?</p>
+                <p>
+                    <hi rend="italics">Q: March 22.</hi>
+                </p>
+                <p>BUNKER: Yes. And I arrived... right.</p>
+                <p>
+                    <hi rend="italics">Q: Did you go back to Kathmandu?</hi>
+                </p>
+                <p>BUNKER: I went back to Kathmandu, but I'm trying to think whether I went first to
+                    Washington and then Kathmandu. But I did have some time in Kathmandu, to give
+                    Lodge time to arrange for his departure and say his farewells and so forth. So
+                    that I waited there in Kathmandu and when I got word about Lodge's departure
+                    time, then I arranged my arrival time.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have an opportunity at some point, either at Guam
+                        or in the intervening month, to get Lodge's impressions of the situation
+                        there in Saigon?</hi>
+                </p>
+                <p>BUNKER: No. I never saw Lodge from the time I left Guam, and of course didn't see
+                    him when he departed. So the last talk I had with him was in Guam itself, and
+                    there of course we had a chance to talk. Lodge, I'm not certain, but I have the
+                    impression that he rather felt that Ky was the more dynamic of the two. I
+                    remember his saying that Ky was a learner, could grasp things. But as the
+                    situation turned out, I think that Thieu was the abler in most ways.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you your first impressions of the mission in
+                        Saigon? I suppose the new Chancellery was under construction by this
+                        time.</hi>
+                </p>
+                <p>BUNKER: It was under construction. I opened it.</p>
+                <p>
+                    <hi rend="italics">Q: It opened the following month I gather. No, it would be in
+                        the fall I guess.</hi>
+                </p>
+                <p>BUNKER: I arrived in the spring. I think it was in the fall, yes. Yes. we were in
+                    the old building when I first went there.</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: The embassy personnel?</hi>
+                </p>
+                <p>BUNKER: Embassy personnel, yes. I think was very good. First-rate. In fact in
+                    recalling my talk with the President when he asked me to go out there. He said,
+                    'You can have anybody you want. If there's anybody there that you don't want,
+                    he'll be on his way home in twenty-four hours.” I think in the whole six years I
+                    was there I only asked for one change.</p>
+                <p>
+                    <hi rend="italics">Q: Do you recall that one?</hi>
+                </p>
+                <p>BUNKER: I've forgotten who it was now. I think it was our economic counselor at
+                    the time that I thought wasn't quite up to the job. But by and large we had a
+                    first-rate embassy. This was especially true of the younger people in the
+                    Foreign Service who were out there and out in the provinces, out on their own,
+                    of course in very hazardous posts, and did a magnificent job.</p>
+                <p>
+                    <hi rend="italics">Q: You mentioned Bob Komer coming out to work on
+                        pacification. Was this part of your decision or was he already scheduled to
+                        go out there?</hi>
+                </p>
+                <p>BUNKER: No. He was scheduled to go out, yes. And Bob was a very able fellow, but
+                    not always easy to control, I remember shortly after he got out there he sent
+                    through the back channel a message recommending that the head of our AID program
+                    be changed, without saying anything to me about it. I found out about it.</p>
+                <p>
+                    <hi rend="italics">Q: How did you become aware of this, do you recall?</hi>
+                </p>
+                <p>BUNKER: Well, what I did was, I had all the back channel messages come to me. Bob
+                    found out this, discovered this, and said, “I understand that all the back
+                    channel messages are routed through you.” I said. “That's correct, Bob.” I never
+                    had any more trouble with him.</p>
+                <p>
+                    <hi rend="italics">Q: Barry Zorthian and Edward Lansdale apparently were
+                        scheduled to leave Vietnam, but it was decided that they would stay after
+                        your arrival. Do you recall that?</hi>
+                </p>
+                <p>BUNKER: Well, they did stay for a period, yes. And they were both very useful.
+                    very able.</p>
+                <p>
+                    <hi rend="italics">Q: How about Ambassador [Eugene] Locke, what was his role
+                        there?</hi>
+                </p>
+                <p>BUNKER: He was my deputy.</p>
+                <p>
+                    <pb facs="0008" n="Page0008"/>
+                    <hi rend="italics">Q: Did you delegate a certain area?</hi>
+                </p>
+                <p>BUNKER: Oh, yes, I delegated particularly pacification to Locke. But he didn't
+                    stay very long, as you recall. He came out with me. He left I think in January,
+                    1968 to go back to Texas to run for governor. So that he left I think in
+                    January.</p>
+                <p>Ambassador [Samuel] Berger didn't get out there until March, so there was that
+                    interim period which included Tet when I didn't have a deputy.</p>
+                <p>
+                    <hi rend="italics">Q: Did the fact that Ambassador Locke was an old acquaintance
+                        of President Johnson cause any chain of commands problem at all?</hi>
+                </p>
+                <p>BUNKER: No, not at all.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about the atmosphere in Saigon at the time
+                        you took over. How would you describe the city and the mentality of the city
+                        in the spring and summer of 1967?</hi>
+                </p>
+                <p>BUNKER: I think the city was quiet when I got there. People were going about
+                    their business. There was not an air of great apprehension. I think people were
+                    confident that progress was being made. The city gave the appearance of going
+                    about its business. And of course it was Tet which upset that whole situation
+                    there. But I think there was some feeling of euphoria.</p>
+                <p>
+                    <hi rend="italics">Q: Others have given the impression of Saigon as being sort
+                        of very removed from the war and very different from the provinces.</hi>
+                </p>
+                <p>BUNKER: I think that's true in certain ways, until Tet came along when that
+                    changed rather rapidly. But I think that was true at the time I arrived.</p>
+                <p>
+                    <hi rend="italics">Q: Let's talk about U.S.-Vietnamese relations. I gather that
+                        one of your principal functions as ambassador was to deal with Thieu and Ky
+                        and to apprise them of our positions, to use, as Bob Komer would say,
+                        leverage on them to get them to do the things that we hoped they would do
+                        and things of this nature. Would that have constituted a major part of your
+                        role there?</hi>
+                </p>
+                <p>BUNKER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: I gather at the time of your arrival there was a
+                        considerable conflict between them.</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>BUNKER: There was rivalry between them. Certainly rivalry, particularly until the
+                    decision was made as to the ticket for the elections in September.</p>
+                <p>
+                    <hi rend="italics">Q: Was there any one individual who was the key to this
+                        decision?</hi>
+                </p>
+                <p>BUNKER: No, I don't think so.</p>
+                <p>
+                    <hi rend="italics">Q: Not one military man on the council?</hi>
+                </p>
+                <p>BUNKER: No, I don't think so.</p>
+                <p>
+                    <hi rend="italics">Q: Did you yourself favor Thieu over Ky?</hi>
+                </p>
+                <p>BUNKER: I did, yes. Yes, I was pleased when they finally did decide on Thieu.</p>
+                <p>
+                    <hi rend="italics">Q: Was this primarily based on the difference between the two
+                        men or was this at all relating to different policies that one might
+                        espouse?</hi>
+                </p>
+                <p>BUNKER: Not different policies, but the difference between the two individuals. I
+                    thought Thieu was a wiser, more solid person. Ky was too unpredictable, too
+                    emotional, too flamboyant. Thieu more solid.</p>
+                <p>
+                    <hi rend="italics">Q: Did you use your influence before the unified military
+                        ticket, before they resolved the two candidacies? Ky was censoring some of
+                        Thieu's campaign statements and General [Nguyen Ngoc] Loan apparently was
+                        using some public officials and one thing and another. I gather you may have
+                        used some influence to get them to control some of the political activities
+                        that you regarded as excessive. Do you recall that?</hi>
+                </p>
+                <p>BUNKER: Well, yes. Loan, this chief of police, was a very difficult—well, I had
+                    little use for him. I made it very clear to Ky and Thieu that I didn't think he
+                    was the right person in that job.</p>
+                <p>
+                    <hi rend="italics">Q: But he stayed for a good while.</hi>
+                </p>
+                <p>BUNKER: He stayed for quite a while.</p>
+                <p>
+                    <pb facs="0010" n="Page0010"/>
+                    <hi rend="italics">Q: Was he primarily a Ky supporter rather than Thieu?</hi>
+                </p>
+                <p>BUNKER: Yes. Yes, he was. No, he was bad medicine.</p>
+                <p>
+                    <hi rend="italics">Q: Did you exert any other influence on Ky before he agreed
+                        to assume the vice presidential position?</hi>
+                </p>
+                <p>BUNKER: I didn't. No, I didn't exert any influence on either one of them. I
+                    simply said to them and to the military, General Cao Van Vien, who was chairman
+                    of the joint chiefs, and two or three others whom I called in. I said, “I'm not
+                    interfering in this, but you've got to make up your minds. There can't be a
+                    division at a time of war among the military. It's not possible.”</p>
+                <p>
+                    <hi rend="italics">Q: Did you fear that it would go beyond a political division,
+                        that it might also involve a coup?</hi>
+                </p>
+                <p>BUNKER: Not necessarily a coup but I just thought it would divide the military
+                    into Factions which was not acceptable.</p>
+                <p>
+                    <hi rend="italics">Q: Why do you think Ky agreed to step aside?</hi>
+                </p>
+                <p>BUNKER: Yell. I think that Thieu had the larger measure of support from the
+                    military actually.</p>
+                <p>
+                    <hi rend="italics">Q: There was some notion at first that Thieu would actually
+                        be merely a figurehead and Ky would have the authority to name the cabinet
+                        and to head the armed services. Do you recall the dispute over a formula of
+                        who would actually do what?</hi>
+                </p>
+                <p>BUNKER: No. As far as I can remember, I don't think Ky had any veto over
+                    individuals. I don't recollect any.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about the civilian candidates, the others.
+                        There was quite an array. Was it important to the U.S. and to public opinion
+                        to keep those candidates in the race?</hi>
+                </p>
+                <p>BUNKER: I think it was important, yes. Because I think it was a demonstration
+                    that the elections were free, as they were. Thieu and Ky were elected with a
+                    plurality, not with a majority. I think they got about 35 per cent of the vote.
+                    As it turned out, it was of course a more democratic election than the one in
+                    1971 where there was no opposition. If the civilian candidates could have agreed
+                    on one they might have given Thieu and Ky a good run.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>
+                    <hi rend="italics">Q: Was there any civilian candidate that we favored
+                        informally as an alternative?</hi>
+                </p>
+                <p>BUNKER: No, I don't think so.</p>
+                <p>
+                    <hi rend="italics">Q: Would it be fair to say that we expected and hoped the
+                        Thieu-Ky ticket to win?</hi>
+                </p>
+                <p>BUNKER: Yes, I think so. I think it's fair to say that we thought that would be
+                    the most effective in carrying on the war and carrying the country along.
+                    Because there are too many factions among the civilians, as evidence by the fact
+                    that there were eleven civilian tickets I think. So that it was very difficult
+                    to find a civilian who could bring the country together.</p>
+                <p>
+                    <hi rend="italics">Q: I gather they were united only in their opposition to
+                        Thieu and Ky.</hi>
+                </p>
+                <p>BUNKER: That's right. Yes, sure. And of course all those countries are more
+                    accustomed to authoritarian rule than we are. I mean, after all, they adopted
+                    our presidential system. As one senator said, “We've got a democratic system now
+                    though we have a history of four thousand years with no tradition in it of that
+                    kind.”</p>
+                <p>
+                    <hi rend="italics">Q: Was the election a maturing experience for them?</hi>
+                </p>
+                <p>BUNKER: Yes, I think it was, yes. Because it was carried out, I think, really
+                    quite well. We had a great many observers there, as you know.</p>
+                <p>
+                    <hi rend="italics">Q: Do you think that as the process continued during that
+                        campaign that there was less censorship, more freedom of the press? Did you
+                        see an emerging democracy in terms of the practices?</hi>
+                </p>
+                <p>BUNKER: Yes, there was more freedom, freedom of the press. One of the problems of
+                    the whole war we had to contend with was the fact that there was no press
+                    censorship, which raises the issue or the question whether a democracy can wage
+                    war successfully without censorship and with the war now being shown on
+                    television, which never happened before. This is the first time it happened, the
+                    first time that the war came into everybody's living room. No question in my
+                    mind that it had a very important effect on public opinion in this country,
+                    whereas the other side didn't wage war under those handicaps. They had complete
+                    censorship.</p>
+                <p>
+                    <pb facs="0012" n="Page0012"/>
+                    <hi rend="italics">Q: Let me ask you about the prospect of “Big” Minh [General
+                        Duong Van Minh] returning from Bangkok to run as a candidate. Do you recall
+                        how this was prevented?</hi>
+                </p>
+                <p>BUNKER: I should, but the details escape me at the moment. I must try to refresh
+                    my memory on that.</p>
+                <p>
+                    <hi rend="italics">Q: Do you recall I think it's the Dongha incident where the
+                        other candidates were assembled and supposedly prepared to debate and Thieu
+                        did not join them? They all got mad about it.</hi>
+                </p>
+                <p>BUNKER: Yes, they got mad about it. I remember that, too. Yes. But I do remember
+                    they got mad about it. My recollection is, too, that I've forgotten now why
+                    Thieu and Ky didn't show up. I think it's because they didn't want to give
+                    importance to the other side, lend that much credibility to their opponents.</p>
+                <p>
+                    <hi rend="italics">Q: Did you urge Thieu to appear with the other
+                        candidates?</hi>
+                </p>
+                <p>BUNKER: Subsequently I did. I told him I thought ....</p>
+                <p>
+                    <hi rend="italics">Q: Anything else on the campaign that you feel is
+                        important?</hi>
+                </p>
+                <p>BUNKER: No, I don't think so. I think I did report this to the President in one
+                    of my messages. We did have a chance to observe the elections over a wide area
+                    of the country, and the reports from the observers came in that they were fairly
+                    conducted, without pressure, and with everybody given a chance to vote, and that
+                    we were really quite pleased with the way the government had organized the
+                    elections and carried them out. I guess [Hubert] Humphrey came out for the
+                    inauguration.</p>
+                <p>
+                    <hi rend="italics">Q: In one of these wires you referred to your persistent
+                        persuasion and patient prodding. Can you recall any particular examples of
+                        using your influence to get Thieu and Ky to adopt a policy during the
+                        campaign that has more in keeping with public opinion?</hi>
+                </p>
+                <p>BUNKER: During the campaign?</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>BUNKER: No, I can't recollect any particular instance.</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: There was a crisis I suppose at the end when the national
+                        assembly appeared to want to invalidate the election. Do you recall this
+                        crisis?</hi>
+                </p>
+                <p>BUNKER: I do recall the crisis, but I don't recall the circumstances
+                    particularly.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I gather some of these assemblymen were defeated
+                        senate candidates.</hi>
+                </p>
+                <p>BUNKER: Yes, that's right, some of them were defeated and wanted to—because of
+                    that reason, I think, but I just don't recollect the details.</p>
+                <p>
+                    <hi rend="italics">Q: Could it be that some of them were also Ky partisans?</hi>
+                </p>
+                <p>BUNKER: Might have been so.</p>
+                <p>
+                    <hi rend="italics">Q: But I think the record indicates that you met with a group
+                        of them and brought them to a different frame of mind.</hi>
+                </p>
+                <p>BUNKER: Yes, but I don't recollect what the reason for the... I think it was
+                    because, as you say, some of them were defeated. It's hard for an Oriental to
+                    accept loss of face.</p>
+                <p>
+                    <hi rend="italics">Q: In addition to the observers, did the embassy make any
+                        other efforts to ensure an acceptable level of honesty and voter
+                        participation in the elections?</hi>
+                </p>
+                <p>BUNKER: Well, we made it very clear to the government, Thieu and Ky and the rest
+                    of them, that we placed great importance on fair elections and that there should
+                    be no coercion or attempts of coercion of the voters. I made it very clear to
+                    both of them that the question of support. Degree of support they would receive
+                    from here would depend very largely on how the elections were carried out and
+                    how they were seen here and not only seen here and reported by the press.</p>
+                <p>
+                    <hi rend="italics">Q: Did your pressures, do you think, generate
+                        anti-Americanism?</hi>
+                </p>
+                <p>BUNKER: Well, I don't think so really. Maybe at times. Well, there were times, of
+                    course, later on when they generated anti-Americanism, when I tried to get them
+                    to go to Paris.</p>
+                <p>
+                    <pb facs="0014" n="Page0014"/>
+                    <hi rend="italics">Q: What was President Johnson's reaction to the election, do
+                        you recall?</hi>
+                </p>
+                <p>BUNKER: Well, I think he was very pleased, of course, with the way it was carried
+                    out, and I think he expected certainly that the military would be returned to
+                    power and probably felt that that was the best thing for the country, given the
+                    situation that existed at the time. And he was concerned that the election
+                    should be seen here as being open and free.</p>
+                <p>
+                    <hi rend="italics">Q: I understand that there was an invitation to the UN to
+                        send observers as well. Do you recall your role in that invitation?</hi>
+                </p>
+                <p>BUNKER: No, I don't recall specifically.</p>
+                <p>
+                    <hi rend="italics">Q: Now General Loan arrested a former economics minister, [Au
+                        Troung] Thanh. Do you recall that incident?</hi>
+                </p>
+                <p>BUNKER: No, I don't recall that.</p>
+                <p>
+                    <hi rend="italics">Q: I have a note here that you filed a stiff protest after
+                        that happened.</hi>
+                </p>
+                <p>BUNKER: I probably did.</p>
+                <p>
+                    <hi rend="italics">Q: Was there a problem of regionalism that affected the
+                        government in Vietnam?</hi>
+                </p>
+                <p>BUNKER: Well, regionalism in the sense that you had, for example, the Cao Dai
+                    religious sect, which is very strong in the South, very anti-communist and
+                    therefore pro-government. There's still also an element which was rather
+                    insistent on its prerogatives as such. and of course there were the Buddhists
+                    and what we call the radical Buddhists. who were often anti-government. And
+                    there was the Catholic element, which had come from the North, which was a minor
+                    but substantial element in the country, Thieu himself being a Catholic. So that
+                    you had this sense of rivalry between the Catholics, the Buddhists, the other
+                    elements like the Cao Dai. On the other hand, while that led to rivalries
+                    domestically, politically, still they were united I think in their opposition to
+                    the communists. So it was an element that could and did occasionally cause some
+                    disturbance, unsettlement. Before I got there they had the Buddhist uprising in
+                    the North, you know, at Danang.</p>
+                <p>
+                    <hi rend="italics">Q: It seems that the Buddhists were never really brought into
+                        the process, that they were always a force of resistance.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>BUNKER: Well, particularly what was known as the An Quang Buddhists, the more
+                    radical element. There was another element which was much more cooperative with
+                    the government, but it was the An Quang Buddhist faction that got the publicity,
+                    of course.</p>
+                <p>
+                    <hi rend="italics">Q: Did you yourself have any formula for muting their
+                        opposition?</hi>
+                </p>
+                <p>BUNKER: No. I didn't have any formula. I can't say that I did.</p>
+                <p>
+                    <hi rend="italics">Q: In retrospect, as you look back, could anything have been
+                        done to further unify the country?</hi>
+                </p>
+                <p>BUNKER: I don't know. The Thieu-Ky rivalry was at times unsettling and it's
+                    something that I kept working on constantly, pointing out to both of them it was
+                    absolutely essential that they work together.</p>
+                <p>
+                    <hi rend="italics">Q: How responsive were they overall in these meetings?</hi>
+                </p>
+                <p>BUNKER: They were responsive in the meetings, but they didn't always follow
+                    through.</p>
+                <p>
+                    <hi rend="italics">Q: Did persistence help here? Were you eventually able to
+                        bring them around in some cases?</hi>
+                </p>
+                <p>BUNKER: Yes. Yes. I think so, until the elections of 1971, and then they had the
+                    split between Thieu and Ky. But then Ky pulled out.</p>
+                <p>
+                    <hi rend="italics">Q: Some of your advice to Thieu seems to have been more along
+                        the lines of political advice: to get out more among the people, to use
+                        television, to become essentially a more aggressive leader in attempting to
+                        unify the people. Can you elaborate on this sort of advice and the success
+                        of it?</hi>
+                </p>
+                <p>BUNKER: Well, Thieu, as a military man and being himself rather austere, and I
+                    think because of perhaps the secretive characteristics about him, was not used
+                    to using the press, the television. He was used to command as a military man,
+                    not used to persuasion, to giving orders but not used to persuasion. And he had
+                    to go through really an educational process. This is what I was trying to help
+                    him with and urging him to do, to expose himself more to the people. And he did
+                    progress a great deal I think. I went with him on a good many trips where he did
+                    get out among the people and talk to them, and I think improved very much in the
+                    course of time on his public relations aspect.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>
+                    <hi rend="italics">Q: Do you think he ever achieved the status in the minds of
+                        the Vietnamese as a national leader?</hi>
+                </p>
+                <p>BUNKER: I think he did, but not necessarily—as a leader, but not as a national
+                    hero.</p>
+                <p>
+                    <hi rend="italics">Q: Was there anyone in South Vietnam at the time that you
+                        felt would have been the natural leader to unify the country?</hi>
+                </p>
+                <p>BUNKER: No. No, I didn't see anyone.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about some more of your pressures. One,
+                        dismissing corrupt officials. I gather this was something else you were very
+                        interested in.</hi>
+                </p>
+                <p>BUNKER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: How far did you get with that?</hi>
+                </p>
+                <p>BUNKER: Well, we made some progress with it. Thieu did replace quite a number of
+                    province chiefs who were guilty of corruption. Some of the military were, some
+                    not. One of the problems we had occasionally was with the military wives, the
+                    wives engaged in corruption instead of their husbands.</p>
+                <p>
+                    <hi rend="italics">Q: Now another thing I understand that you were interested in
+                        was the~ matter of higher military and civilian pay scales. Do you recall
+                        your efforts there?</hi>
+                </p>
+                <p>BUNKER: Yes. Yes, I know I did try. I did urge Thieu to improve their pay scales,
+                    because they really were getting very poorly paid, which as I said to him, leads
+                    to corruption. The attitude in the Orient towards corruption is somewhat
+                    different than it is here. In most of those countries there are no social
+                    security laws. The extended family, the family is the social security unit, and
+                    your first duty is to take care of your family, provide for your family. If you
+                    do engage or feel that you have to engage in corruption in order to do that,
+                    there are extenuating circumstances which you don't have here in the Western
+                    civilization. So people look at it with more tolerance as being done to take
+                    care of the family situation.</p>
+                <p>
+                    <hi rend="italics">Q: Were the salaries increased?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>BUNKER: Yes. Yes, they were.</p>
+                <p>
+                    <hi rend="italics">Q: And did the government have the funds to do this?</hi>
+                </p>
+                <p>BUNKER: Yes. Well, we of course were giving economic support to the government
+                    right along, but also the country was making progress economically in spite of
+                    the war, particularly in the later years of the war when I was there, not only
+                    in the industrial sector, but particularly in the agricultural sector where
+                    farmers were really more prosperous than they'd ever been. I can remember going
+                    down to the Delta, which is the great agricultural area there, and seeing
+                    farmers who used to ride bicycles riding motorcycles, and seeing television
+                    aerials or radio aerials in houses. And they were buying tractors, sometimes
+                    pooling on their tractors, but getting into machinery operations. There was a
+                    very large land distribution program effected, which became effective in 1970,
+                    1972.</p>
+                <p>
+                    <hi rend="italics">Q: Did we have a policy of advocating land reform?</hi>
+                </p>
+                <p>BUNKER: Oh, yes.</p>
+                <p>
+                    <hi rend="italics">Q: I know President Johnson was interested in that.</hi>
+                </p>
+                <p>BUNKER: Oh, yes. He did have a very great interest.</p>
+                <p>
+                    <hi rend="italics">Q: How effective were you at advancing that policy?</hi>
+                </p>
+                <p>BUNKER: I think we were quite effective in advancing it and had good cooperation
+                    from Thieu and the government. They did a very substantial, really very
+                    creditable piece of work.</p>
+                <p>
+                    <hi rend="italics">Q: Did you also favor giving more authority to the province
+                        chiefs rather than the military commanders? Do you recall this
+                        question?</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>BUNKER: Well. we recommended or advocated more authority to the Province chiefs
+                    because their concern was with the local government rather than with the
+                    military effort, except from the point of view of the village and hamlet
+                    security aspect. But they were closer to the people than the military were and
+                    were permanently stationed in the provinces. Consequently they had a greater
+                    interest in the progress of their own provinces, an interest, of course, in
+                    security, too, but also in the economic situation and the political situation.
+                    So that we felt that if people had problems or grievances or things of that
+                    kind, that the province chief was the more suitable person to whom they could
+                    address themselves and look for relief or redress or whatever it might be.</p>
+                <p>
+                    <hi rend="italics">Q: The question of prisoners of war and repatriation of
+                        prisoners, were there questions here that were addressed to the Thieu
+                        Administrations?</hi>
+                </p>
+                <p>BUNKER: I'm not quite clear on your question.</p>
+                <p>
+                    <hi rend="italics">Q: Well, for example, did our concern over the safety of our
+                        POWs in North Vietnam cause us to advance a particular policy of how Viet
+                        Cong prisoners should be treated or repatriation?</hi>
+                </p>
+                <p>BUNKER: Yes. We were, of course, interested in seeing that these prisoners, our
+                    prisoners, were treated according to the rules of warfare and that they were
+                    properly treated, and saw to it. And I think they were. The Con Son Island
+                    incident, where there was a great fuss about—</p>
+                <p>
+                    <hi rend="italics">Q: Oh, the tiger cages?</hi>
+                </p>
+                <p>BUNKER: Tiger cages, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Did you ever attempt to improve the conditions of Viet
+                        Cong prisoners or to step up repatriation in order to aid our own prisoners
+                        of war?</hi>
+                </p>
+                <p>BUNKER: I'd have to refresh my memory on what we did on repatriation, I just
+                    don't recall at this point.</p>
+                <p>
+                    <hi rend="italics">Q: Cambodia must have presented a dilemma at this point. It
+                        was clear that the enemy was using Cambodia as a sanctuary.</hi>
+                </p>
+                <pb facs="0019" n="Page0019"/>
+                <p>BUNKER: Oh, absolutely. In fact, I sent a message back in June—June 9, June 19,
+                    I've forgotten the exact date—recommending that we go into Laos and cut the
+                    trail on the ground, that the war was kept alive, of course, in the South by the
+                    infiltration of men and supplies and materiel and equipment, reasoning that if
+                    we could cut the trail that the Viet Cong in the South would wither on the vine.
+                    Well, obviously I was turned down; they never did it, on several grounds. One,
+                    it would be a violation of the Laotian treaty of 1962 to which we were
+                    signatories. My response to that was that it was quite true it would be a
+                    violation, but the other side violated it from the day they signed it, and the
+                    Laotians would be delighted to have us go in.</p>
+                <p>Secondly, it would take two or three more divisions, which again was true, but we
+                    put in that many more before we got through.</p>
+                <p>The third point was that there was fear it might provoke the Chinese. but my
+                    observation on that was that while we have no relations with the Chinese, had
+                    none, our friends did. The British had embassies in Peking, the French, Dutch,
+                    and we could make it very clear to the Chinese we had no designs on China or on
+                    North Vietnam. North Vietnamese could have any kind of government they wanted as
+                    far as we were concerned, but they weren't going to take over the South.</p>
+                <p>Well, we didn't do it. If we had done it, of course it would have helped to close
+                    sanctuaries, not only in Laos but in Cambodia, too. But we didn't do it, and
+                    then finally did go into Cambodia.</p>
+                <p>
+                    <hi rend="italics">Q: Of course you had a problem with Prince [Norodom]
+                        Sihanouk, I suppose.</hi>
+                </p>
+                <p>BUNKER: Well, Sihanouk tacitly let it be understood that as long as we didn't
+                    bomb civilian areas and kept our bombing to the sanctuaries that he didn't
+                    really object to it, although he wasn't going to say so.</p>
+                <p>
+                    <hi rend="italics">Q: But you understood that this was his position?</hi>
+                </p>
+                <p>BUNKER: Yes. Yes.</p>
+                <p>
+                    <hi rend="italics">Q: There seems to have been some rivalry between South
+                        Vietnam and Cambodia here. One example, the halting of shipping on the
+                        Mekong River that impaired the Cambodian economy. Do you recall your efforts
+                        to free up the shipping on the Mekong River, keep Sihanouk in a friendlier
+                        posture?</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>BUNKER: I'm not very clear on it. I think we did, and did arrange to let shipping
+                    go up the Mekong. It's my recollection it went up pretty freely, even though the
+                    other side were bringing in supplies through Sihanoukville and bringing them up
+                    into the sanctuaries.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about the post-election situation. Was
+                        there an effort made to broaden the base of the government?</hi>
+                </p>
+                <p>BUNKER: Well, yes, I think there was. I think in the appointments to the cabinet,
+                    and Thieu did make several changes as time went on. I'll have to look. I'm
+                    certain I reported that in my messages, but I'd have to check it.</p>
+                <p>
+                    <hi rend="italics">Q: During this period, before Tet and after the inauguration,
+                        were there overtures made to the other side to discuss settlement terms or
+                        cease-fires or peace conferences?</hi>
+                </p>
+                <p>BUNKER: 1967. When was the San Antonio formula, which has been referred to in
+                    some of these?</p>
+                <p>
+                    <hi rend="italics">Q: I have September 29, 1967 on that.</hi>
+                </p>
+                <p>BUNKER: September 29. The President made a proposal there. I've forgotten just
+                    what the terms were. September, 1967.</p>
+                <p>
+                    <hi rend="italics">Q: I believe there was a normal flow of men and materiel
+                        continuing from the North during the bombing pause, but no stepped up
+                        activity. Wasn't it something like that?</hi>
+                </p>
+                <p>BUNKER: Yes, I must look it up to refresh my memory on that.</p>
+                <p>
+                    <hi rend="italics">Q: For example, didn't President Thieu write a letter to Ho
+                        Chi Minh?</hi>
+                </p>
+                <p>BUNKER: He did write a letter. The question came up of how it was to be
+                    delivered, I remember. I'm not sure whether we ever reached a solution, or that
+                    he ever did, on the ways to get it to him.</p>
+                <p>
+                    <hi rend="italics">Q: I gather there was some consideration of having the Pope
+                        deliver it, and even some speculation that perhaps President Johnson in his
+                        visit had taken the letter with him to Rome when he saw the Pope at
+                        Christmas?</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>BUNKER: Yes, but my recollection is that it never was worked out.</p>
+                <p>
+                    <hi rend="italics">Q: Really?</hi>
+                </p>
+                <p>BUNKER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: It seems a shame that there's no basis for communication.
+                        Another intriguing event was the Buttercup affair, where an NLF emissary
+                        supposedly was on his way to meet with you and was arrested. Do you recall
+                        this?</hi>
+                </p>
+                <p>BUNKER: I recall it, yes, but I don't recall the details.</p>
+                <p>
+                    <hi rend="italics">Q: There was some speculation that this was merely a hoax on
+                        the Viet Cong's part.</hi>
+                </p>
+                <p>BUNKER: I must really refresh myself on that, too.</p>
+                <p>
+                    <hi rend="italics">Q: But do you yourself recall any talks, informal talks, that
+                        you had with emissaries of the other side on the basis of settlements or
+                        ceasefires?</hi>
+                </p>
+                <p>BUNKER: No. No, I never had any talks. No.</p>
+                <p>
+                    <hi rend="italics">Q: Were there neutralists that you could talk with that could
+                        get word indirectly to the other side?</hi>
+                </p>
+                <p>BUNKER: Not that I could talk with, no.</p>
+                <p>
+                    <hi rend="italics">Q: What about foreign nationals, say British or French or
+                        other individuals that had contacts with North Vietnam?</hi>
+                </p>
+                <p>BUNKER: Well, we never made any approach to the North Vietnamese through other
+                    nationals in South Vietnam. Now, anything of that sort was done in Washington,
+                    but outside of Vietnam itself. I never got involved in any negotiating proposals
+                    or peace proposals in Vietnam with other nationals, or with emissaries from the
+                    other side.</p>
+                <p>
+                    <hi rend="italics">Q: Anything else on the negotiations before Tet?</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>BUNKER: No, no. I don't recall anything.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about pacification. How would you define
+                        the pacification program?</hi>
+                </p>
+                <p>BUNKER: Well, the pacification program had two sides at least to it. One was the
+                    question of the hamlet and village security. That was the primary objective. The
+                    second objective, also equally important, was the economic aspect. And third,
+                    the political. So that pacification was, you see, a well-rounded program in
+                    which the rural self-defense forces were involved, training civilians in
+                    defense. Economic development was equally important. And you remember the
+                    village elections, council elections, were held all over the country also
+                    beginning in 1967. So that it was the development of a conscious part in the
+                    government of the people at the local level that really was involved in the
+                    pacification program, self-help program.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about the CORDS program, Civil Operations
+                        and Revolutionary Development Support, as part of pacification. Do you
+                        recall that?</hi>
+                </p>
+                <p>BUNKER: Yes. Oh, yes, very well. That was the principal part of pacification as
+                    far as Komer was concerned and his duties. That was really a very essential part
+                    of our whole program in Vietnam.</p>
+                <p>
+                    <hi rend="italics">Q: What specifically did this involve?</hi>
+                </p>
+                <p>BUNKER: Self-government at the local level. Revolutionary development is really a
+                    misnomer; rural development would be the better name for it. We called it
+                    revolutionary development, but I think we got changing it as it went along. We
+                    called it revolutionary development because in the beginning it was developing
+                    local political self-consciousness and self-government at the local level. But
+                    the reason I say it was rural development in this other sense was it involved
+                    agriculture, too, fisheries, agriculture, all of the economic activities
+                    involved at the village level, at the local level. So that it was a
+                    comprehensive program and a very important one.</p>
+                <p>It involved, as I say, security first, the training of the local citizenry. One
+                    indication of the confidence the government had in support of the citizenry was
+                    the fact that they distributed, if I remember correctly, six hundred thousand
+                    weapons at large in the countryside. Well, if you felt uncertain about the
+                    loyalty of the people, you wouldn't give them arms they could use against you. I
+                    mean, I think it was a mark of confidence by the government that they had the
+                    support of the citizenry. Anyhow, that was an important part. Training both men
+                    and women, too, in this hamlet and village self-defense.</p>
+                <p>
+                    <pb facs="0023" n="Page0023"/>
+                    <hi rend="italics">Q: Did you have any feedback on the extent or evaluation to
+                        determine if, in fact, the arms were falling into friendly hands rather than
+                        potential Viet Cong?</hi>
+                </p>
+                <p>BUNKER: Oh, yes. Oh, yes. Except where the Viet Cong could come in and capture
+                    them, we never had any indication they were ever turned over to the Viet
+                    Cong.</p>
+                <p>
+                    <hi rend="italics">Q: How about the Phoenix program?</hi>
+                </p>
+                <p>BUNKER: The Phoenix program, I think, was an important program in unearthing the
+                    underground. It was criticized, I know here, saying it was an assassination
+                    program. It was not an assassination program. People were killed when they
+                    resisted arrest, yes, of course. But the great majority of those people were
+                    imprisoned and were not executed. There were casualties, of course, because
+                    there was resistance, but it was an important program. You see, what happened at
+                    Tet was because Tet was a military defeat, a very significant military defeat
+                    for the other side, but a psychological victory for them here in the United
+                    States because of the press reaction and the way it was reported. And that I
+                    think is brought out by Peter Braestrup in his books. But what happened was that
+                    the communist side was so confident that the Viet Cong surfaced for the first
+                    time. The underground all came up and were identified, many of them killed. I
+                    mean, they virtually suffered such severe losses at Tet they never recovered
+                    from it. But it made them more vulnerable. More identifiable, and hence the
+                    Phoenix program became more effective.</p>
+                <p>
+                    <hi rend="italics">Q: Was it tied into the Chieu Hoi program at all, the
+                        returnee program?</hi>
+                </p>
+                <p>BUNKER: Yes. Well, yes it was, where ralliers would come in. In my earlier
+                    messages to the President, I think every week I reported about the Chieu
+                    Hoi.</p>
+                <p>
+                    <hi rend="italics">Q: Do you think that these people who came over and were
+                        evidently reimbursed for doing so and joining the South Vietnamese army, do
+                        you think they ever slipped back into the jungles and rejoined the Viet
+                        Cong?</hi>
+                </p>
+                <p>BUNKER: Not many so. Maybe a few, but not many.</p>
+                <p>
+                    <hi rend="italics">Q: Really? Our intelligence indicated that—</hi>
+                </p>
+                <p>BUNKER: That's right, they didn't go back.</p>
+                <p>
+                    <pb facs="0024" n="Page0024"/>
+                    <hi rend="italics">Q: Did you talk to many of these people and determine why
+                        they were changing sides?</hi>
+                </p>
+                <p>BUNKER: I never talked to them personally, no. Our people did, of course.</p>
+                <p>
+                    <hi rend="italics">Q: Well, lots of stories came in about the hardships and the
+                        North and the difficulty there, and the hardships of fighting in the South,
+                        this kind of warfare they were carrying on. Most of these Chieu Hoi people
+                        were guerrillas you know, not many of them were the regular military who
+                        were living hand-to-mouth and fighting in the jungles. What was Edward
+                        Lansdale's role in the pacification program?</hi>
+                </p>
+                <p>BUNKER: Well, principally as an adviser, based on his long experience there in
+                    that part of the world: principally as an adviser on the local scene—which he
+                    knew. I suppose, perhaps better than most of us, most of the people who were
+                    there: he'd been there longer—aha, I think the native culture, psychology, so
+                    forth.</p>
+                <p>
+                    <hi rend="italics">Q: Was he controversial in official circles?</hi>
+                </p>
+                <p>BUNKER: Not with me or there at the time. I think he had been at some time. But I
+                    had no problem with him. I thought he was quite effective really.</p>
+                <p>
+                    <hi rend="italics">Q: Was he critical at all of pacification, the implementation
+                        of it?</hi>
+                </p>
+                <p>BUNKER: I don't think he was.</p>
+                <p>
+                    <hi rend="italics">Q: I gather this was one of the ARVN's weakest areas,
+                        pacification.</hi>
+                </p>
+                <p>BUNKER: Well, it may have been. Yes, I suppose perhaps so. They were more
+                    concerned really about fighting the war and the enemy. However, I think they
+                    cooperated pretty well.</p>
+                <p>
+                    <hi rend="italics">Q: William Corson, who was over there, made the criticism
+                        that the pacification project should not have to be cleared through the
+                        Vietnamese officials. Do you recall this issue?</hi>
+                </p>
+                <p>BUNKER: Corson? Now, when was this, do you remember?</p>
+                <p>
+                    <hi rend="italics">Q: This would have been, I think, in the 1967-68 period.</hi>
+                </p>
+                <pb facs="0025" n="Page0025"/>
+                <p>BUNKER: I don't even remember, was Corson stationed there?</p>
+                <p>
+                    <hi rend="italics">Q: He was with the marines. He was a ....</hi>
+                </p>
+                <p>BUNKER: Oh, yes, marines. In the North. That's interesting, shouldn't have to be
+                    cleared with the Vietnamese? I'd forgotten that. That's interesting. Do you
+                    remember how that came out?</p>
+                <p>
+                    <hi rend="italics">Q: He wrote a book called The Betrayal.</hi>
+                </p>
+                <p>BUNKER: That's right, that's right. I haven't read it. Have you read it?</p>
+                <p>
+                    <hi rend="italics">Q: No. I have some notes on it here though.</hi>
+                </p>
+                <p>BUNKER: What was the thrust of it?</p>
+                <p>
+                    <hi rend="italics">Q: Well, I'm not going to elaborate, since I haven't read it,
+                        but I gather he was critical of Komer's performance.</hi>
+                </p>
+                <p>BUNKER: Komer's handling of it?</p>
+                <p>
+                    <hi rend="italics">Q: Also another issue that seems to have been raised was the
+                        method of evaluation of various hamlets.</hi>
+                </p>
+                <p>BUNKER: Hamlet evaluation security, yes.</p>
+                <p>
+                    <hi rend="italics">Q: The A-B-C-D rating system..</hi>
+                </p>
+                <p>BUNKER: A-B-C-D, yes. A-B-C-D and the communists. Yes, well, like all evaluations
+                    it's inexact, of course. It's an approximation, really. But it was an
+                    approximation and gave a pretty good idea, I think, of the general situation. I
+                    say, like all evaluations based on judgments, it was not exact, but it did by
+                    1972, end of 1972, you could travel anywhere in the country you wanted to go
+                    without any security protection or anything at all.</p>
+                <p>
+                    <pb facs="0026" n="Page0026"/>
+                    <hi rend="italics">Q: The press argued at the time that the C category, which
+                        was the designation of hamlets under government control, were really sort of
+                        a toss-up and would thereby in the evaluation total reduce the government
+                        control to less than 50 per cent of the population.</hi>
+                </p>
+                <p>BUNKER: Well, depending on, I think, what year you took the evaluation, because
+                    the situation kept changing steadily for the better.</p>
+                <p>
+                    <hi rend="italics">Q: Did it?</hi>
+                </p>
+                <p>BUNKER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Was this a direct result of pacification, do you think,
+                        rather than just military advances?</hi>
+                </p>
+                <p>BUNKER: It was a combination of both. No question, a combination of both. The
+                    military situation improved and the pacification situation.</p>
+                <p>
+                    <hi rend="italics">Q: What did we learn from that pacification experience that
+                        you would apply in other situations?</hi>
+                </p>
+                <p>BUNKER: Well, I think we did learn the importance of getting the local population
+                    people involved in their own situation, not only their own protection, their own
+                    economic development, their own political development. This was the whole thrust
+                    of the pacification program. It was government at the local level involving
+                    defense, involving the political situation, involving the local councils, hamlet
+                    chiefs, and the local economic development programs. So it was a rounded
+                    approach. I think it applies not only to Vietnam but to other situations in the
+                    less developed world.</p>
+                <p>
+                    <hi rend="italics">Q: It seems that apathy was a great problem, that so many of
+                        the Vietnamese people were not interested in the Viet Cong or the other
+                        side, but on the other hand they seemed apathetic about the Thieu-Ky
+                        government.</hi>
+                </p>
+                <p>BUNKER: A great bulk would prefer to be left alone, obviously. I mean, prefer not
+                    to be involved in the war on one side or the other. But I think this is true
+                    anywhere in the world you go. I mean, many of them just wished the war would go
+                    away. Sure, no question.</p>
+                <p>
+                    <pb facs="0027" n="Page0027"/>
+                    <hi rend="italics">Q: Another area that you seemed to have some concerns about
+                        was intelligence. In fact in November, 1967, when you came back to the White
+                        House and met with President Johnson, I gather that there were some
+                        proposals to revamp our intelligence system to get better intelligence.</hi>
+                </p>
+                <p>BUNKER: Yes. I don't remember the specifics of that particular talk at the White
+                    House, but certainly the intelligence was a matter of concern, a matter of great
+                    concern to us. The question of attempting to improve the intelligence was also a
+                    matter of concern. Now, I felt that the agency, the CIA there was well run. We
+                    had good people, I thought, there. Ted Shackley, for example, was first-rate.
+                    His successor who was there a briefer time, Lou Lapham was good. Tom Polgar was
+                    the last one. He was only there about—well, he stayed on with [Ambassador
+                    Graham] Martin, but only the last year I was there. They were all, I thought,
+                    good, able. I thought they were doing a pretty good job for us.</p>
+                <p>
+                    <hi rend="italics">Q: How about military intelligence? Did you feel that you
+                        were getting adequate military intelligence?</hi>
+                </p>
+                <p>BUNKER: Well, I wasn't so sure about the military intelligence. Of course, I had
+                    a briefing every week from the military, a general roundup, of the situation
+                    each week. But it was more difficult for me to judge about the quality of
+                    it.</p>
+                <p>
+                    <hi rend="italics">Q: Enemy troop levels. There have been indications, or
+                        certainly at least contentions, that we drastically underestimated the size
+                        of the enemy force in the field.</hi>
+                </p>
+                <p>BUNKER: I don't know. I don't know about that.</p>
+                <p>
+                    <hi rend="italics">Q: Do you recall this being a source of concern at the
+                        time?</hi>
+                </p>
+                <p>BUNKER: No, I don't, really. Where did that develop, do you remember? Estimates
+                    of enemy force level.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about some of the visitors that you had out
+                        there. I gather there was almost a constant flow of congressional and
+                        diplomatic visitors.</hi>
+                </p>
+                <p>BUNKER: Oh, absolutely. I think the Christmas-New Year's season, 1967-68. I've
+                    forgotten how many congressmen, senators I had. I think I remember a hundred and
+                    forty-six or something like that, fantastic. Just descended on us in swarms.</p>
+                <p>
+                    <pb facs="0028" n="Page0028"/>
+                    <hi rend="italics">Q: Was there any sort of official policy of how you treated
+                        these people and what sort of procedures to follow with them?</hi>
+                </p>
+                <p>BUNKER: Yes, well, in this sense, that they all got briefings, of course, from
+                    the military aspect and also from us on the political aspect, the economic
+                    situation. And where they expressed a wish to do so, we would take them out into
+                    the country in areas we thought it was safe for them to go. I remember Senator
+                    [Charles] Percy and his wife came out. I think he got out in a place where he
+                    got pretty close to getting under fire.</p>
+                <p>
+                    <hi rend="italics">Q: I understand that he injured his hand or something when he
+                        jumped for cover.</hi>
+                </p>
+                <p>BUNKER: Something like that, yes. But we had some amusing experiences, too, I
+                    remember. The first helicopter ride I ever took in Vietnam, I had a forced
+                    landing.</p>
+                <p>
+                    <hi rend="italics">Q: Crash landing.</hi>
+                </p>
+                <p>BUNKER: Yes. Have I described that to you?</p>
+                <p>
+                    <hi rend="italics">Q: Please do.</hi>
+                </p>
+                <p>BUNKER: General [Bruce] Palmer was out there as deputy to Westmoreland, and he
+                    was out at Bien Hoa base. He had been with me in the Dominican situation, where
+                    he was deputy commander to the Brazilians. I was going out to see him and we
+                    were flying along over the highway, and we started to come down. I looked out
+                    and I didn't see anything that looked like the base, and I thought maybe we were
+                    going to be met by a jeep or something. Well, then the traffic began to swerve
+                    off. And we came down and we skidded along. I got out of the chopper, thanked
+                    the pilot. He said. “Oh, we're not there yet. We've had a forced landing; I had
+                    to come down. My power shut off. Fortunately we were over fifteen hundred feet,
+                    or we couldn't have made it.” Well, it was a very amusing incident in a way, but
+                    what happened was there was a photographer aboard. He got the strap of his
+                    camera afoul of the fuel valve, shut off the fuel. We came down and we were
+                    rescued by the Jolly Green Giant. [HH-53, special operations helicopter].</p>
+                <p>So I was quite amused by it. I described this to General Palmer. He said,
+                    “Anyhow, another chopper should have been following you anyway. Somebody will
+                    catch hell for that.”</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any other close calls while you were
+                        there?</hi>
+                </p>
+                <pb facs="0029" n="Page0029"/>
+                <p>BUNKER: Oh, yes. Tet. We were under fire.</p>
+                <p>
+                    <hi rend="italics">Q: Well, we'll deal with that in detail. But in your travels
+                        around the country?</hi>
+                </p>
+                <p>BUNKER: No. At the same time I went out to the First Division fire base. The
+                    commander there asked me if I'd like to go around the base. I said, “Yes, I
+                    would.” So he assigned an officer to take me out, show me the base. He took me
+                    around outside the base. So I came back and he said, “Where did he take you?” I
+                    said, “He took me around outside of the base.” He said, “Well, we're supposed to
+                    be protecting you, you're not supposed to be protecting us.” So I reported this
+                    to Bruce Palmer. too. “Oh.” he said, “Somebody will catch hell for that.” I got
+                    back. I thought it had been a very amusing day. I told Westmoreland about it.
+                    And he said. “A lot of people have already caught hell.” (Laughter) But no,
+                    except for Tet, I don't think there were any very close situations.</p>
+                <p>
+                    <hi rend="italics">Q: Did official visitors from Washington ever tend to want to
+                        go beyond the areas that were safe?</hi>
+                </p>
+                <p>BUNKER: No.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you about George Romney's visit. This is the
+                        one where he was brainwashed.</hi>
+                </p>
+                <p>BUNKER: Yes, but I think that was before my time.</p>
+                <p>
+                    <hi rend="italics">Q: He came back then I guess in December of 1967.</hi>
+                </p>
+                <p>BUNKER: Yes, he did come back in December. We didn't try to brainwash him then.
+                    (Laughter) As I remember, his visit was a very brief one. It really didn't make
+                    much of an impression on me.</p>
+                <p>
+                    <hi rend="italics">Q: Hubert Humphrey attended the inaugural ceremonies, I
+                        believe.</hi>
+                </p>
+                <p>BUNKER: Yes, he did.</p>
+                <p>
+                    <hi rend="italics">Q: Can you recall the occasion?</hi>
+                </p>
+                <pb facs="0030" n="Page0030"/>
+                <p>BUNKER: Oh, yes. He headed the delegation, our delegation. Hubert, as usual, got
+                    along extremely well wherever he went. He was really great. But, as you know,
+                    Hubert didn't have many terminal facilities, and I said to him, I'd like to have
+                    him address the embassy staff. We had a very large embassy, you know, the
+                    biggest in the world. I said, “Now, Hubert, they'll all be out in the compound
+                    in the yard in the sun, and it's hot. So only talk ten or fifteen minutes.” He
+                    said, “Oh, sure, Ellsworth, that's fine.” Well, Hubert made a rattling good
+                    fifteen-minute speech. Then he made a second fifteen-minute speech. I thought,
+                    well this is going to be all. Then he made a third fifteen-minute speech. I
+                    think we timed him at fifty-two minutes. But he got a good hand, of course. Oh,
+                    he was great.</p>
+                <p>
+                    <hi rend="italics">Q: Did he have any proposals or advice or any suggestions for
+                        President Thieu that you recall?</hi>
+                </p>
+                <p>BUNKER: I don't recall any in particular, but he got along very well with Thieu.
+                    They were very appreciative of his coming out.</p>
+                <p>
+                    <hi rend="italics">Q: How about the Maxwell Taylor-Clark Clifford mission in
+                        July, 1967? Do you recall that?</hi>
+                </p>
+                <p>BUNKER: Well, that was to our allies, not to Vietnam. They went to our allies, I
+                    think, in the interest of seeing whether they could get further troop
+                    reinforcements. But they didn't come to Vietnam at that time. Clark Clifford
+                    came out later after Tet in 1968 again and wanted to start withdrawing troops
+                    then, and I objected to that because I thought it would have a very demoralizing
+                    effect. And I was upheld. We subsequently met in Honolulu, and the President
+                    agreed that we would not begin to pull out.</p>
+                <p>
+                    <hi rend="italics">Q: Anything else on visitors?</hi>
+                </p>
+                <p>BUNKER: Well, I remember that Governor [Ronald] Reagan and his wife came out,
+                    just what date I can't quite remember. He was a strong supporter of what we were
+                    doing, and I was very happy to see them because he really backed us up.</p>
+                <p>
+                    <hi rend="italics">Q: Did you get many visitors who were opposed to the war or
+                        opposed to the conduct of the war, the way it was being conducted?</hi>
+                </p>
+                <pb facs="0031" n="Page0031"/>
+                <p>BUNKER: Some. Yes, we did. Well, Townsend Hoopes came out when he was Secretary
+                    of the Air Force I think. He later became opposed to the war, as you know.
+                    Congressman [Lester] Wolfe—in fact, I think Wolfe at one time said he thought I
+                    ought to be recalled, if I'm not mistaken. We had a visit from Senator [Edward]
+                    Kennedy, who was critical of the way we were handling the refugees, but
+                    unfortunately came out to make a case. He had his mind made up when he came
+                    apparently, because he avoided the embassy largely and brought some staff with
+                    him. They went to a refugee camp which was being abandoned because we had built
+                    a new one and a better one, but made their report based on what they'd seen at
+                    the old one, which didn't go very well with me. I didn't feel it was really a
+                    straightforward report.</p>
+                <p>
+                    <hi rend="italics">Q: Did you meet with him while he was out there?</hi>
+                </p>
+                <p>BUNKER: I saw him just briefly, that's all. He stayed away from us largely.</p>
+                <p>
+                    <hi rend="italics">Q: Let's talk about the refugee situation some more. I gather
+                        there were a tremendous number of displaced people.</hi>
+                </p>
+                <p>BUNKER: There were, yes, a great many. If you add them all up, they weren't all
+                    displaced at one time, but the total, I think, came to some five million. But
+                    that was spread over a span of years; it didn't all happen at once. I mean, they
+                    came out and went back again. But the point is that, as I guess Bob [Sir Robert]
+                    Thompson put it, or someone, they voted with their feet. They never went over to
+                    the other side. They always ran away from the other side.</p>
+                <p>
+                    <hi rend="italics">Q: Was there anything that could have been done in your
+                        opinion to improve the refugee situation?</hi>
+                </p>
+                <p>BUNKER: My feeling is, given the fact that the country was at war, given the fact
+                    of limited resources, I think it was handled remarkably well. Obviously
+                    hardships existed, but the fact is, as I say, nobody went over to the enemy.
+                    They did vote with their feet, and went back as soon as they had a chance to go
+                    back. Naturally they were attached to their own villages.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I certainly do thank you.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

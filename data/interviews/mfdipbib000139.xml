@@ -1,552 +1,1308 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000139">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Robert C. Brewster </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Robert C. Brewster </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR ROBERT C. BREWSTER</p>
-<p>Interviewed by: Charles Stuart Kennedy </p>
-<p>Initial interview date:  June 30, 1989</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Mr. Ambassador, could you give a little idea of your background before you entered the Foreign Service?</hi>
-</p>
-<p>BREWSTER:  Yes.  I was born and grew up in Beatrice, Nebraska.  I went to public schools there, and upon graduation, went to Grinnell College for a couple of years, then transferred to the University of Washington, from which I graduated in 1943.  Having enlisted in the Navy, I was sent in 1943 to Midshipman's School at Columbia, and was commissioned an ensign in the Navy.  After additional training in Miami and Key West, I was assigned to the destroyer USS O'Brien, on which I remained until April 1946.  I then did two years of graduate work at Columbia.  I passed the Foreign Service written examination in '47, the oral in '48, and entered the Foreign Service in 1949.</p>
-<p>
-<hi rend="italics">Q:  How did you become interested in foreign affairs?</hi>
-</p>
-<p>BREWSTER:  I wish I could tell you exactly.  I had wanted to be in the Foreign Service from about the time I was in the ninth grade:  I remember writing a paper in that class on the Foreign Service as a career.  I specifically remember a monograph in some kind of personnel series which explained the Foreign Service.  I assume my interest in it came from reading too many Richard Haliburton travel books.</p>
-<p>
-<hi rend="italics">Q:  Oh, yes.  Seven Leagues, ah...</hi>
-</p>
-<p>BREWSTER:  Whatever.  [Laughter}</p>
-<p>
-<hi rend="italics">Q:  We all read those, too.</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>BREWSTER:  In any event, the origins of my interest remain obscure.  I also considered being a lawyer.  My father was a lawyer.  But I recently discovered a diary that I kept for a couple of months in the beginning of 1942, and in that I record my decision that law would be too dull and I thought I would try to go into the Foreign Service as I had originally planned.  Perhaps our entry into World War II decided me.</p>
-<p>
-<hi rend="italics">Q:  But the interesting thing is that you came from a place where obviously, particularly for the period, the Foreign Service would get a peculiar look.  Or maybe they would know the Foreign Legion because of the movies, but you certainly weren't part of the eastern establishment where people had heard of this.  I mean, when you're talking about Montana, or even the state of Washington...</hi>
-</p>
-<p>BREWSTER:  I'm very much aware of that.  In fact, there were two of us who came from this little town and entered the Foreign Service.  The other was Robert K. Sherwood, who was my debate partner when we were juniors in high school.  He left to go to Andover and subsequently to Yale, but he also entered the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  In other words, you did not come from a place where one would think traditionally of sort of a New England, moving on up.</hi>
-</p>
-<p>BREWSTER:  Very much so.  As you recall, in the '''50s we were going through the McCarthy era, and it was during that time that I was often the choice of the Department to go out on recruiting tours anywhere west of the Mississippi.  They wanted a midwestern twang, perhaps.</p>
-<p>
-<hi rend="italics">Q:  I came in in 1955, and they were talking in those days of getting a massive infusion of Main Street into the Foreign Service.  Now it's minorities and more women, but this has been a pressure.  In fact, I know back in 1906, when the consular service was made a professional service, Wilbur Carr had to make a point of getting more southerners into the Foreign Service, because southerners were Democratic and there had been several Republican administrations.</hi>
-</p>
-<p>BREWSTER:  There was very definitely a pressure for that.  I was obviously aware of the general image of the Foreign Service at the time I was planning to get into it, because I was aware there was no home leave, that people were left out there until death or retirement brought them back.  So after two years at Grinnell, a school which I enjoyed tremendously and would have otherwise stayed, I transferred to the west coast and then planned to do my graduate work on the east coast.  The sole purpose of this was to get to know something about my own country, because I didn't think I could represent it without having a wider view of it.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q:  So unlike really many, you had this in mind and were sort of doing the right thing to get this.  How about your military experience, your naval experience?  Did you feel this contributed much to your ability as a Foreign Service officer later on?</hi>
-</p>
-<p>BREWSTER:  Yes, I think it did.  As you would know, many of the people coming into the Foreign Service at that time after World War II, and certainly in my class of 1949, were people who were somewhat older.  Many were married, and several had children.  So there was a somewhat different cast to it than preceding, or indeed, classes at the present time.  Basically I think the Navy did help me in my career.  I had been an officer, had charge of organizations aboard my ship, and I think that experience stood me in good stead in later years.</p>
-<p>
-<hi rend="italics">Q:  How would you characterize the class that came in?  You went to a training class first, didn't you?</hi>
-</p>
-<p>BREWSTER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  You've already given some, but what was the outlook toward the Foreign Service, the United States and the world in general of the group you came in with in 1949?</hi>
-</p>
-<p>BREWSTER:  We recently had a reunion of seven or eight of us who were in that class and we discussed this.  I think it was a time of great optimism and confidence, in part because of the position which the United States found itself in after the war and the policies which it was beginning to adopt.  I remember very clearly one of the first things I did after I was appointed an FSO was to attend the signing ceremony for the NATO alliance in Washington and to see Dean Acheson for the first time.</p>
-<p>I think, also, that most of us looked on the Foreign Service as a life career.  Now, it's difficult for me to generalize about that.  Certainly, that was my idea, and I had the impression of the people that I knew reasonably well they felt that way, as well.  I say a life career in contradistinction to something that's going to be tried for a couple of years.  It was something for which most people had prepared themselves.  In a couple of instances, people had clearly changed their minds as a result of the war about their career expectations and then decided to go into the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  How good was the training before you went out in the field, would you say?</hi>
-</p>
-<p>BREWSTER:  I'm not sure I can tell you.  I don't remember it that clearly.  I'm sorry, I can't.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  Oh, no.  It's often an episode, looking on this sometimes, I'm not sure that one remembers very much.  We were all ready to go.</hi>
-</p>
-<p>Well, your first assignment was to Managua in Nicaragua.  We're going to concentrate more on the later part of your career.  But in Managua, you were there from 1949 to 1952, I think.</p>
-<p>BREWSTER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  What sort of impressions did you have of how the Foreign Service worked at that point?</hi>
-</p>
-<p>BREWSTER:  In “worked,” how do you mean?</p>
-<p>
-<hi rend="italics">Q:  Was it what you imagined it would be, or was this sort of a shock when you found yourself doing maybe consular work or general services work or something?</hi>
-</p>
-<p>BREWSTER:  No, it wasn't a shock.  I had wanted to be—what else—a political reporter.  I had done two years' graduate work at Columbia in international affairs, and that's what I wanted to do.  But I was not appalled when I was assigned to the consular section, particularly when I found that it was in an adjoining building that the embassy— the remainder of the embassy, I should say—was perfectly content to leave completely alone if I'd run the thing and keep out of their hair.  This happened to suit me just as well.</p>
-<p>I had some fascinating experiences, and, in addition, I had to learn Spanish very quickly.  And when I went on to political and labor reporting after a year, year and a half— whatever it was—I was pleased to change.  At that time the idea was one went through the four kinds of work and then went on to the specialty or whatever it is you particularly wish to do.But I had no dislike of consular work even though I had some unpleasant surprises with respect to malfeasance of the local staff.</p>
-<p>
-<hi rend="italics">Q:  How were you able to find out this?</hi>
-</p>
-<p>BREWSTER:  I don't recall, except that one employee, the principal offender, had been a constant subject of rumors and accusations, and I no longer recall the specific instance that made it clear that he was in fact in on the take.</p>
-<p>
-<hi rend="italics">Q:  But this is, of course, always a problem that hovers over the consulate.</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>What type of work were you doing when you say you were doing political labor reporting?  What was the situation in Nicaragua when you were there?  This is 1989 and it's a area of tremendous interest because of the leftist government there, but what was the situation in Nicaragua at the time and what type of things were you doing?  This is 1949 to the early '''50s.</p>
-<p>BREWSTER:  Well, the situation was that the country was in the control of Tacho Somoza, the father, who, when I went there, was head of the National Guard and another person was the titular president of the country.  But Tacho ran the country—that was perfectly evident to everyone—and the United States' stance was one of close cooperation with him.</p>
-<p>
-<hi rend="italics">Q:  So was there much in reporting?  Were you under any constraints or anything to make sure that things looked right, or was there any problems really to report on?</hi>
-</p>
-<p>BREWSTER:  Most of the political reporting was done by the ambassador, who was a former newspaperman from North Carolina and by the DCM, who was a career officer.  I had the nuts and bolts, which turned out to be biographic reporting, labor, protocol, things like that, and public reaction sort of reporting.</p>
-<p>
-<hi rend="italics">Q:  After you'd done this, which apparently you'd gotten quite a good exposure to the various elements in a relatively small embassy, which is always the best.  Rather, you're not overwhelmed by the work of a large embassy; you've got a very small bit of it.  You went to Stuttgart from 1952 to '55.  What type of work were you doing there?</hi>
-</p>
-<p>BREWSTER:  The first two years I did political reporting, and the third year I became administrative officer.</p>
-<p>
-<hi rend="italics">Q:  During the political reporting, this should have been a rather interesting time.</hi>
-</p>
-<p>BREWSTER:  It was a fascinating time.</p>
-<p>
-<hi rend="italics">Q:  Because this is Germany developing a new political life.</hi>
-</p>
-<p>BREWSTER:  Absolutely.  It was the end of the occupation, the direct control of the German government, of course.</p>
-<p>
-<hi rend="italics">Q:  What sort of things were you seeing in the political world?  As a young political officer put into Germany, how did you get around and how did you report on this?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>BREWSTER:  The first thing I had to do was learn German.  I was assigned there without any training in German whatsoever.</p>
-<p>
-<hi rend="italics">Q:  I have to say I know the feeling.  I remember sitting listening to a political speech in Frankfurt at Wiesbaden and I was reporting on it.  I was just learning German at the time, and I wasn't quite sure whether he was for or against something.  This is the lot of a young officer.</hi>
-</p>
-<p>BREWSTER:  In any event, I managed to do so.  There were two of us as political officers.  We had, I think, two German political assistants—or perhaps one—and an interpreter/secretary, in addition to an American secretary, so it reflected the American establishment in Germany at that time, namely well staffed.  So my inability to deal effectively in German was tolerated until I was able to do it.</p>
-<p>The issues that I recall most were the ones associated with the European Defense Community and related issues, and they were the ones that were particularly intriguing because the state that Stuttgart's in, Baden-Wurttemberg, had a key position in this in the Bundesrat.  So it was an interesting time, but the frustrations that are typically felt by political reporting officers in consulates were quite evident then because Bonn, as indeed I found out later during my inspection career, did not place a great deal of weight on what it was being told by people like me serving in consulates.  Nevertheless, I found it a rewarding time.</p>
-<p>
-<hi rend="italics">Q:  What is sort of the problem?  I'm thinking that an outsider would think that reports from the Laender or the out-lying provinces of any region would be welcome by the political section in a large embassy.  But what was the problem?</hi>
-</p>
-<p>BREWSTER:  I honestly can't tell you, but I've seen the phenomenon several times.  In one case, an important NATO ally, the embassy had predicted the reelection of the prime minister.  The consulate general had been predicting on the basis of tours throughout the area that had always supported him that he was going to be defeated.  He was.  I happened to be there inspecting the post.  The Consulate General's reports came in.  They were not read by the political reporting officers who went on reporting the conventional wisdom that the prime minister would be reelected.  There was hell to pay.  The Department was not amused.  I went back and got all the reports out of the file, and they showed they had not been read by the DCM or the ambassador and only occasionally by the political officer.</p>
-<p>
-<hi rend="italics">Q:  This is where one, if nothing else, learns to say, “perhaps,” or, “it would appear that.” This, of course, is a built-in tension.  Well, I suppose, in many ways, at least this gave you a feel for how the system worked, which is very important as a new officer.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>BREWSTER:  It did.  There was also the practice at that time of having political officer conferences, and the money was no problem at that point, largely, I assume, because of occupation costs.  In any event, we would go frequently to Bonn and confer with our embassy counterparts, so it was a useful time from that standpoint.</p>
-<p>
-<hi rend="italics">Q:  Did you find, as an American political officer—and you were in the American occupation zone, too—that you had access there and were listened to?</hi>
-</p>
-<p>BREWSTER:  Instant access. It was something I found a little bit off-putting, because by and large, as you know, the Germans don't—did not; I can't speak for them now—did not necessarily deal on an equal basis with someone that much younger than they.  The German politicians at that time had 20 or 30 years on me.  I was in my ''30s.  But I found this did not seem to bother them, and I had no trouble talking with them.  I did not ascribe this to my own personal charm.  It was pretty clear to me why they were talking to me—they wanted to talk to the Americans and get their message through.  But, yes, I had fantastic access.</p>
-<p>
-<hi rend="italics">Q:  Well, I think this was a time when we not only had the access, but young reporting officers were being used, and quite rightly so.  As we were trying to use politicians, they would try to use us to get through to our government to let them know their view.</hi>
-</p>
-<p>BREWSTER:  Absolutely.  And I thought that was particularly true of the SPD.</p>
-<p>
-<hi rend="italics">Q:  Being the...</hi>
-</p>
-<p>BREWSTER:  The Socialist opposition at that time to Adenauer.</p>
-<p>
-<hi rend="italics">Q:  Was Baden-Wurttemberg a socialist?</hi>
-</p>
-<p>BREWSTER:  No.  FDP, Free Democratic Party.</p>
-<p>
-<hi rend="italics">Q:  Well, to move on.  From 1956 to '57 you had something which is described as an ICA policy briefing officer.  What was that?  This is back in Washington, I assume.</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>BREWSTER:  When we left Stuttgart, I was assigned to Mozambique.  Back in the States, I discovered that my wife's mother was ill, so I asked the assignment be changed and that I be assigned to the United States.  And after prolonged hassle, including submission of medical certificates and the rest of it, the assignment was changed.</p>
-<p>At about that time, as I later learned, John Hollister, who was head of the AID agency, then called the International Cooperation Administration, and Herbert Hoover, Jr., who was Under Secretary of State, agreed that there should be some Foreign Service officers assigned to the AID agency to learn something about it.  And, lo, my name came floating by, and I was flung into the breech.  And when I was told what it was, I hadn't a clue.  It had been called the Mutual Security Administration the last I heard of it.  Now it had become the ICA.</p>
-<p>
-<hi rend="italics">Q:  And, of course, having been in Europe.</hi>
-</p>
-<p>BREWSTER:  So I went there, and I was assigned to the executive secretary to ICA.  I worked for an FSO, John McDonald, later Ambassador McDonald, and it was an educational and enjoyable experience.  What the job turned out to be was a job of briefing outgoing ambassadors, AID chiefs, and MAAG chiefs on the AID program.  And it required me to try to learn about the AID program in order to talk to them and answer their questions and give them a general introduction to it.  I also went on trips as the escort officer with the deputies and, eventually, several times with the director of the agency.</p>
-<p>In 1957 the authority for controlling all economic and military assistance passed to the State Department, specifically to the Under Secretary for Economic Affairs, Douglas Dillon, and the responsibility for presenting the budget to the Congress went to him.  He cast around for some Foreign Service officer that knew something about the AID program.  And, lo, there I was.  So I was transferred back to State to become his special assistant.</p>
-<p>
-<hi rend="italics">Q:  I'd like to ask—before we move to the Douglas Dillon period—how did you find the reaction of—let's take the newly going-out ambassadors to the ICA, or now termed the AID program.  Were you having to work to get their attention?</hi>
-</p>
-<p>BREWSTER:  Not at all.  At that time there were large funds available, there was great emphasis on the country team, and most of them knew something about the program and, indeed, were aware of it.  They were not necessarily aware of the mechanics of it in Washington or how the authority was divided between State and then ICA.</p>
-<p>
-<hi rend="italics">Q:  What type of things would, say, an outgoing ambassador to, say Indonesia, what sort of thing would they be particularly interested in that you would zero in on?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>BREWSTER:  No.  Mine was not a briefing intended to tell them about what the program was in Indonesia.  For that they would go to the Indonesian desk.  Mine was an attempt to put the whole program in prospective and show how the military and the economic assistance were intertwined, as indeed they were in most places, how the coordination was exercised, that sort of thing.  It was an overall view, in other words.  Indeed, I could not have dealt with the specifics in each country.</p>
-<p>
-<hi rend="italics">Q:  Well, about the AID directors?  As a group, did you find them pretty knowledgeable in foreign affairs, or were they mostly recruited from somewhere else and really had to be sort of briefed into how the State Department worked?</hi>
-</p>
-<p>BREWSTER:  The ones I dealt with I thought were real professionals.  There were then, as perhaps certainly in other times, some political appointees who were new to that whole field, although they generally had experience in some aspect of economic development.  But the majority of the ones that I saw knew something about the program, had some experience, and I did not fault them on their approach to foreign affairs.  They had some grasp of what it was all about.</p>
-<p>
-<hi rend="italics">Q:  What was your impression on the trips you've made?  How was the program going?  At that time it was really relatively new.  I mean, it was just reaching, you might say, its professional peak at that point.</hi>
-</p>
-<p>BREWSTER:  I think my predominant impressions are of the Far East and, more specifically, Korea.  There was an immense program there, and I was struck by the enormous variety of it.  I mean, the investment in steel and all kinds of things that I hadn't particularly anticipated. I was struck by the extraordinary American presence.  But I also had an impression that, with some exceptions, it was an effective program, but I was astounded by the scale and magnitude of it.  Even though I knew it academically, to see it made an enormous impression on me.</p>
-<p>
-<hi rend="italics">Q:  It does seem to be one of our successful...</hi>
-</p>
-<p>BREWSTER:  Well, now it's been, of course, a howling success, but at the time I thought...</p>
-<p>
-<pb facs="0010" n="Page0010"/>
-<hi rend="italics">Q:  And I think, really, it at that point hadn't really the political framework, which took somebody like Park Chung Hee, I think in '61 or '62, to come in, and with all his faults regarding democracy, or lack thereof, to really turn it from essentially a rather corrupt, inefficient society.  Did you have a feeling at the time that there was a—were our people there talking about the corruption and the problems of the government?</hi>
-</p>
-<p>BREWSTER:  Yes, and in some instances, they were part of it.  [Laughter]</p>
-<p>
-<hi rend="italics">Q:  Were you going out with a group that was trying to clean...</hi>
-</p>
-<p>BREWSTER:  No.  I was strictly a bag carrier for a senior political appointee who had not traveled abroad before, so I planned his trip, accompanied him and that sort of thing.</p>
-<p>
-<hi rend="italics">Q:  Who was this?</hi>
-</p>
-<p>BREWSTER:  A man called Edwin H. Arnold, who had been an official in the Republican Party in Rhode Island and who came to Washington as deputy director for technical services of ICA, a very large part of the agency at the time.  He was an intelligent man, but he had no experience overseas at all.  When he planned his first trip, I was assigned to go along with him and assist him, and it was an interesting, useful trip.</p>
-<p>
-<hi rend="italics">Q:  Well now, let's move to this period when you were a staff assistant to Douglas Dillon, who was Under Secretary of State with the responsibility for, among other things, ICA.  Was it called AID at that time?</hi>
-</p>
-<p>BREWSTER:  No, ICA.</p>
-<p>
-<hi rend="italics">Q:  ICA.  This was from 1958 to '60.  What was your impression of Douglas Dillon and his working style?</hi>
-</p>
-<p>BREWSTER:  Well, I think he's one of the great arguments in favor of political appointees.  He had a successful tour as ambassador to France, was then appointed deputy Under Secretary for Economic Affairs, was promoted by the Congress to Under Secretary of Economic Affairs—the title was set up for him—and when Herter became Secretary of State, he became the Under Secretary.  I was with him as special assistant for, I guess, three of those incarnations and stayed until June of 1960, when I went to the War College.  I was not with him when he became Kennedy's Secretary of the Treasury.  But I have the highest regard for him and his abilities.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  I saw him at a conference earlier this month talking to a group of historians.  He carries tremendous weight and prestige, and deservedly so.  How did he work his staff?</hi>
-</p>
-<p>BREWSTER:  In what sense?</p>
-<p>
-<hi rend="italics">Q:  Well, some people delegate, some send people.  I mean, they use assistants in different ways.  I was just wondering whether you had any impression about his method of operation.</hi>
-</p>
-<p>BREWSTER:  Well, first he was accustomed to having a special assistant, or special assistants.  He had one in Paris, Phil Chadbourn.  Charlie Whitehouse was there as a special assistant when I came as the second special assistant.  In 1960, it seems to me, there were five special assistants.  One was John Leddy, who subsequently became ambassador to the OECD and assistant secretary for European affairs, and whose particular field of concentration was economic and financial.</p>
-<p>The second was Graham Martin, later also an ambassador, whose field was intelligence, strategy, and broad foreign policy.  There were two of us who managed the office, the paper, and saw everything that went to Dillon, listened on all his phone calls, and did the necessary without his telling us, and orchestrated, so to speak, the rest of the office.  The fifth was a special assistant who dealt with his public engagements and his appearances, Dixon Donnelley, who later became assistant secretary for public affairs in another administration.</p>
-<p>So there were five of us.  It was the way he organized his office.  He depended on us for our particular fields and gave us authority to do what we're supposed to do within our particular responsibility.</p>
-<p>
-<hi rend="italics">Q:  Did you operate a sort of screening device?  Or say a bureau chief wanted to talk to him, was this a problem?  I mean not a problem, but was it a fairly structured situation or not?</hi>
-</p>
-<p>BREWSTER:  Yes and no.  Yes in the sense that those requests would go to his secretary, who would check with us, and then go, in most cases, to Dillon himself for approval.  No in the sense that he knew many people because of his four or five years working in the Department, and people, particularly on the economic side and the European and military side, knew him.  So there was no question of our acting on any request for appointment, though we always knew about them.</p>
-<p>
-<hi rend="italics">Q:  Were there any particular problems you had to deal with that are sort of engraved in your memory or something like this?</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>BREWSTER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  I wonder if you could tell about this.  Give an idea of what somebody does.</hi>
-</p>
-<p>BREWSTER:  I don't think I can.  The ones that are engraved in my memory are ones I think that I wouldn't want to speak about.  I think I'll leave it at that.</p>
-<p>
-<hi rend="italics">Q:  Okay.  Well, you worked in several White Houses.  Did you find the Herter State Department was considerably different from the Rusk State Department or the Dulles-Herter State Department later on?</hi>
-</p>
-<p>BREWSTER:  It's a little difficult to make a comparison because in Dulles and Herter, I was at the level to see what was going on.  I knew my colleagues in those offices.  The Under Secretary for Political Affairs at that time was Livy [Livingston] Merchant, and his assistant was a career officer.  Herter had also a career Foreign Service officer, Max Krebs, part of the time.  So there was an exchange of information.  There were also occasionally some jealousies, I thought more often on the part of the staff than of the principals.  [Chuckles] In any event, that's the sort of thing that you deal with in any kind of a job.</p>
-<p>I guess my primary observation would be that the Kennedy Administration, in reorganizing the whole AID setup, whatever other virtues it had, lost one great positive advantage.  That is, they had no one person in control of the whole AID program.  They had that for about three years when Dillon exercised it; namely, controlling both military assistance and economic assistance.  This was separated and has been separated since.  It's possible to argue that it's difficult to find someone of Dillon's background and abilities to run it.</p>
-<p>
-<hi rend="italics">Q:  And clout.</hi>
-</p>
-<p>BREWSTER:  And clout.  And ability to present it and persuade the Congress, too, because he led the congressional presentation on both economic and military.  Nevertheless, the State Department has never had more control of the instruments and tools of foreign policy than it had at that time.  So from that standpoint alone, I would say that the Dulles-Herter arrangement was superior.  In other ways, perhaps it was not as effective, but that, I guess, is my main point, because that's what I saw closest, both in the AID agency and then when I worked with Dillon.</p>
-<p>
-<hi rend="italics">Q:  You went to the National War College from 1960 to '61 and then you became an inspector from 1961 to 1963.  How did the inspection system work in the early ''60s then?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>BREWSTER:  I worked for about three months, I guess, together with several other officers, in devising a revised inspection system.  I have since been through so many incarnations of it that at this point I couldn't tell you specifically how it worked, other than to say it required an exhaustive preparation by the post, including much writing, setting forth problems, describing in great detail its work.  Secondly, it required a great deal of work on the part of the inspectors, who were required not only to review the operations and to make comments and recommendations with respect to them, but also to write efficiency reports on all the officers and employees of the Department.  So it was quite occasionally a traumatic experience on both sides for the post and the inspector(s).</p>
-<p>
-<hi rend="italics">Q:  Well, I can recall what I consider a really sea-change almost between the early inspections, where the efficiency reports, particularly for the middle and junior officers and for the other ones when I was middle officer then, were terribly important because this gave a different perspective, and also we felt they had some weight.  In later years, this process moved out, and it was more looking at the post as a whole.  And, by giving up this function, when you give up a certain amount of power, you lose something, too.  I felt there was a difference in the inspections later on, mainly because of this lack of the efficiency report, or at least being so important.</hi>
-</p>
-<p>BREWSTER:  I think that's a perfectly valid comment.  Since I was the inspector general who succeeded in finally abolishing efficiency reports, I perhaps ought to comment a bit on why I thought it was necessary.  You're perfectly right that the personnel system and the officers and employees involved regarded inspectors' reports as very important, and as the routine report prepared by the rating officer became more laudatory or anodyne, more and more reliance came to be placed on the inspectors' report.</p>
-<p>This development began to occur in about 1971 when I was director of personnel, when all the reports became available to people and the grievance system started.  By the time I was inspector general, it seemed to me that the reports done by inspectors were no longer fulfilling their purpose.  First of all, they didn't have enough time to do what they had to do with respect to reviewing the operations of the post, and that part of the Inspection Corps' work was being increasingly reviewed by the Congress and the GAO.  And, indeed, pressures for the inspector general, which we now have under the Inspector General Act of Congressman Brooks, were beginning to increase.</p>
-<p>And one of their great criticisms of our system was that we were spending most of our time writing reports on each other and that this was not a function as they perceived it and as the GAO perceived it of a real inspection or audit system.  But I certainly grant your point in the early days, and indeed up until the early ''70s, they had a high value placed on them, not always deservedly.  Nevertheless, they were.</p>
-<p>
-<pb facs="0014" n="Page0014"/>
-<hi rend="italics">Q:  It was.  Let me just switch this tape over a second.I realize that an inspector is inspecting all over the place, but in this first go-round, I assume you were out in the field fairly often, weren't you?</hi>
-</p>
-<p>BREWSTER:  Yes.  Well, first of all, I was an administrative inspector, and I had exactly one year of administration.</p>
-<p>
-<hi rend="italics">Q:  I was going to say usually you have an old hat who knows where the bodies are buried as an administrative inspector.</hi>
-</p>
-<p>BREWSTER:  Well, it was an assignment that I sought.  The personnel system had not come up with anything for me.  After the War College went through, I assume that they figured I had already arranged my next assignment, which I had not.  Only conjecture on my part, but in any event, they had not made any kind of proposal.  Another officer had been offered the inspection job and had turned it down, and I applied for it.  There was considerable reluctance on the part of the Inspection Corps, not so much I gathered because of my lack of knowledge about administration, but because I was only an FSO-3.</p>
-<p>
-<hi rend="italics">Q:  FSO-3 in those days was equivalent to a colonel.</hi>
-</p>
-<p>BREWSTER:  Yes.  And most of the administrative inspectors were 02s by that time.  But in any event, I was chosen and spent 11 months, or perhaps ten months, abroad each year, since the Department did not bring inspectors back as they do now every two or three months.  And my wife accompanied me, at my expense, during each of those tours.</p>
-<p>
-<hi rend="italics">Q:  What were some of your impressions about how the Foreign Service was administered?  I mean, if you can give some sort of areas and places that would give appeal to somebody about how we looked at the system.</hi>
-</p>
-<p>BREWSTER:  I concluded that it was not administered very well.  [Laughter] What area would you like to discuss?</p>
-<p>
-<hi rend="italics">Q:  Okay.  Well, let's talk about a few areas just to get a feel.  Can you remember any of your trips that stick out in your mind a little more than some others?</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>BREWSTER:  I can remember them all.  I don't remember specific problems in specific embassies.  The first year was largely in the Far East, which took me through Hong Kong, Singapore, Kuala Lumpur, Pakistan, etc., and embassies and consulates therein.</p>
-<p>
-<hi rend="italics">Q:  Was it a problem of personnel, not having people who are particularly suited for administration or had not been recruited well?  Or was it a matter of a general direction, or was it coming from, say, the ambassadors who weren't paying much attention to the administration?</hi>
-</p>
-<p>BREWSTER:  Well, I think all of those things.  I just concluded that it could be better done in quite a number of respects.  I think it's fair to say that most chiefs of mission at that point had little direct interest in or knowledge of administration.  As long as their needs were met, that was sufficient unto the day, and that left a considerable gap between how they were serviced and, let's say, the rest of the American community or State personnel.</p>
-<p>Secondly, I was struck by the difference in standards between a State Department administration and that, say, enjoyed by either the military and the MAAGs or the ICA and the lack of coordination of levels of service or benefits to which they were entitled.</p>
-<p>
-<hi rend="italics">Q:  Who was better on these?</hi>
-</p>
-<p>BREWSTER:  Well, generally the AID personnel were better.</p>
-<p>
-<hi rend="italics">Q:  Often when AID and State people would get together, they would compare advantages, almost to the detriment of the Department of State.</hi>
-</p>
-<p>BREWSTER:  That was generally my conclusion, yes, and I couldn't see why this could not be harmonized, particularly since the State Department theoretically was in charge.</p>
-<p>
-<hi rend="italics">Q:  What was the problem?</hi>
-</p>
-<p>BREWSTER:  The problem was in Washington, where the problem usually is.  [Laughter] Their inability to get together and work out a viable system for harmonizing the administration.  I understand the frustration.  AID had the money.  State generally didn't, or said it didn't, and didn't seem to know how to get it.  So the AID personnel would argue that, “But we can afford to provide furniture and this and that and the others, the refrigerators and whatever it might be, and why can't you?” And so the State Department either wanted a freebie to get the AID thing or to reduce services to their level, and from AID's standpoint, this was unacceptable.  I'm not sure I don't agree with them.  [Laughter] Those are the terms the arguments took in those days.</p>
-<pb facs="0016" n="Page0016"/>
-<p>
-<hi rend="italics">Q:  During this period in the early ''60s, did the inspection look closely at our policy?  What are we doing, why are we doing it, or was it more of a housekeeping thing?</hi>
-</p>
-<p>BREWSTER:  I think it depended in part on the senior inspector.  In some instances, they had sharp questions about the policy being pursued and wrote about that.  In other instances, they were content to take the policy as a given and seek to judge how the embassy was carrying it out.</p>
-<p>
-<hi rend="italics">Q:  In your moving around, there was a perception—I speak now as a retired Foreign Service officer—the different geographic bureaus each sort of had their own identity and there was a certain ranking of them.  Not to be unfair, but the ARA, or the Latin America area, was considered to be a rather enclosed group, but really not of much significance, as Africa was brand new and a lot of fun, but nobody knew quite where it was going.  And the Middle East was sort of hard charging, but they were awfully involved in Arabic affairs, but I mean they were specialists.  Far East was pretty good, and Europe was sort of a nice, solid place where everybody wanted to go.  Did you get any feel for the difference between the bureaus?</hi>
-</p>
-<p>BREWSTER:  I have a very clear feel for it, not necessarily derived from being an inspector, although that was part of it, but also from my service on what was the fifth, and later the seventh, floors.  The bureaus were generally considered:  one, Europe; two, Far East; three, NEA; four, ARA; and five, AF.  IO wasn't even there.  And this perception continued, at least during the time I was there.  It also was reflected not only in their influence in the Department, but the way they did staff work, the way they went about their business.</p>
-<p>Now, I suppose you could reasonably argue that NEA moved up a notch because it was a very effective bureau with an awful lot of problems and commanding enormous attention constantly in my last years in the Department.  But that was my perception, and I would not argue with your characterization of ARA.</p>
-<p>
-<hi rend="italics">Q:  Why?</hi>
-</p>
-<p>BREWSTER:  Why what?</p>
-<p>
-<hi rend="italics">Q:  ARA was a place with a lot of posts, a lot of opportunities and all.  But is it because that there isn't really only intermittent attention back in Washington about the problems?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>BREWSTER:  I think there are a variety of reasons.  One is that as someone said, Americans will do anything about Latin America except read about it.  It's only in recent years with Cuba and Nicaraguan issues and Central American issues that any attention has been paid to Latin America, despite the importance that I have thought that Mexico has always had and will continue to have as long as its on our border.</p>
-<p>Secondly, it is inbred, and I don't think it's necessarily all the fault of those there.  I think there are many people in ARA who would have liked to serve in, let's say, Spain and Portugal, but generally that was a difficult transition to make.  After all, this is what occasioned Henry Kissinger's decision to bump people out and put other people in.  I've forgotten the term that was applied to it.</p>
-<p>
-<hi rend="italics">Q:  It was called GLOP, G-L-O-P, Global Outlook or something, I don't know.</hi>
-</p>
-<p>BREWSTER:  Yes. But basically it was an attempt to move people out of ARA and get some new people in, precisely because of the points that you made.</p>
-<p>
-<hi rend="italics">Q:  Well, speaking about this, should we come to your next assignment, which was as deputy chief of mission to Asunci�n in Paraguay, where the ambassador was William P. Snow.  How did this assignment come about and what was the situation there at the time?</hi>
-</p>
-<p>BREWSTER:  The assignment came about in a curious manner.  Again, I had not been approached by personnel as to what my future assignment was going to be as my third year with the Inspection Corps came up.  I thought I would like to be DCM.  I went to the assistant secretary of ARA, who was Ed Martin at the time, and whom I knew from my days with Dillon.  I told him my desire.  Ed, who had and has total recall, started down the continent and said, “Now, in Mexico, so and so,” and he went through the whole continent and said, “It's all full,” so that was that.</p>
-<p>Then the person who was assigned to go to Asuncion, George Newman, who was a politico-military officer, was drafted to go back to London.  I was apparently among several candidates proposed to Ambassador Snow.  He knew me slightly, I gather, from my time with Dillon, and selected me, so that's how it came about.  Then two weeks before going there, I was asked to go as deputy principal officer in Hong Kong, a job for which my wife would have given her right arm.  [Laughter] I could not accept it, obviously, although it came from a former principal officer in Stuttgart, who called from the airport as he was leaving and said, “Won't you come out?” I wasn't able to do so.  It wasn't a decision I regretted, but it would have been different there.  Asuncion was, again, a dictatorship under Stroessner, who, after all, only left last year.</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q:  Actually, early this year.  I was doing an interview in January this year in which the man I was talking to, Gale McGee, was saying—and, of course, Stroessner has been there forever—and a week after our interview, he was no longer there.</hi>
-</p>
-<p>BREWSTER:  Not only was Stroessner there forever, so was his entire cabinet.  It was simply incredible.  I was never back after I left in 1966, but occasionally I would see some member of the cabinet up here, see that he was in Washington.  It was the same person who had been there 20 years ago, now in his '80s and presumably being helped, but nevertheless still there.  [Laughter]</p>
-<p>I enjoyed the experience tremendously, though it had great frustrations.  The Paraguayans are quite a people apart.  They, first of all, have their own language, Guarani, which I think almost no American has ever spoken in the embassy.  The military attach� when I was there learned it.  They are extremely confident people as a result of their having withstood the combined war efforts of Brazil, Argentina and Uruguay for five years.</p>
-<p>
-<hi rend="italics">Q:  Was this the Chaco war?</hi>
-</p>
-<p>BREWSTER:  No.  This was the war about the time of our civil war in 1860, '65, '67, which almost decimated the country.  In fact, it did decimate the male population of the country.  But it has given them a tremendous confidence—I used to have, and so did our military personnel, have regular discussions with the Paraguayans and what we were doing wrong in Vietnam, and they had absolute confidence in talking to us about it.</p>
-<p>Further, they were the most difficult people I have ever negotiated with.  They're absolutely obdurate on almost all point, whether you were dealing with problems relating to American missionaries—and there are quite a number in the country and they occasionally got themselves in difficulties and always in remote places—or whether they were dealing on the specifics to bring the Peace Corps into Paraguay, which we finally succeeded in doing.  But I have a great deal of respect and affection for them.</p>
-<p>
-<hi rend="italics">Q:  What were our American interests at that time?  We're talking about 1964-66 period.</hi>
-</p>
-<pb facs="0019" n="Page0019"/>
-<p>BREWSTER:  It's a question that there was never a satisfactory answer to as far as I was concerned.  [Laughter] There was presumed to be a US interest in it.  For instance, at the time of the Dominican undertaking, the Department solicited Latin American troop contingents to be part of the peace force, or whatever it was called at that juncture, in the Dominican Republic.  Our ambassador sent back saying, “Are you serious?  Do you want Paraguayans?” Paraguay had been an anathema to the Kennedy Administration, and the Johnson Administration had perceptively changed.” And the Department said, “Yes,” and so, of course, the Paraguayans volunteered.  So a Paraguayan contingent duly was picked up by the US Air Force and taken to the Dominican Republic.  From Pariah it became a partner suddenly.  [Laughter].</p>
-<p>Well, there was a specific US interest.  They were among the few countries volunteering.  [Laughter] Beyond that, there was, certainly when I first went there, a generalized push toward political development, which was inherited from the Kennedy Administration, which had made remarkably little progress in Paraguay and which made very little under whoever.  The interest in drugs had not started, although there was considerable interest in the smuggling business, but this was only peripheral.  It had no direct effect on the United States.  It's hard to be specific.</p>
-<p>
-<hi rend="italics">Q:  I was just going to say that it obviously (unclear) United Nations votes from time to time.</hi>
-</p>
-<p>BREWSTER:  Sure.  And they generally voted on the side of the United States.  These are things that made it very difficult when more generalized issues of political democracy, civil rights, whatever it might be, were brought up when the Paraguayans were consistently voting with the United States on keeping North Korea out of the UN, all these issues that we were busy flogging our customers about through all this time.</p>
-<p>
-<hi rend="italics">Q:  I was just wondering.  You mentioned the Peace Corps.  Why were we pushing so hard to put the Peace Corps in?</hi>
-</p>
-<p>BREWSTER:  Well, first of all, the Peace Corps had been banned from there by either Bobby Kennedy or Shriver, simply on the basis he wasn't going to have it there.  Those of us who were in Paraguay felt that distributing Americans around the country to give a visible example of what we're like and what democracy was like and teaching some of the things that might be useful to them would have a greater effect than general exhortation to change.</p>
-<p>So I think that's what our main interest was in the Peace Corps.  And the Peace Corps administration changed, and they decided they wanted to be in here.  It was not an issue we pushed repeatedly, because we were given to understand it wouldn't be considered.  But eventually it was and I think it was well that it happened.</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  Moving on then.  You came back to personnel.  Was it personnel?</hi>
-</p>
-<p>BREWSTER:  No, I came back as executive director for Europe.  Initially deputy, and then when the executive director was transferred I...</p>
-<p>
-<hi rend="italics">Q:  This was from '66 to '69.  Well, in many ways, you were an anomaly, weren't you, that the European area sort of looks after its own and the executive director has a lot of control there?  Why did they bring in...</hi>
-</p>
-<p>BREWSTER:  I was an anomaly in many ways.</p>
-<p>
-<hi rend="italics">Q:  Particularly coming from ARA into Europe.</hi>
-</p>
-<p>BREWSTER:  Not only that, but I was a officer who entered by the examination process, desiring to do political reporting, who decided after doing that work the second time that I wanted something a little more hands-on and something I could see the results of.  I also was, I think, one of the few of my generation who entered by the examination route who had any interest in administration and management.</p>
-<p>The long and short of it is that I was proposed by ARA for a—no, I'm sorry.  I heard that the executive director position was going to be vacant.  I wrote to the assistant secretary, who was John Leddy, who had been a special assistant to Dillon when I was, and said if it hadn't been filled, I would be interested in it.  I didn't know that he was very ill at the time, having had a slipped disk operation that paralyzed him, and the next thing I knew, I got a call from the executive director offering me the number two job as his deputy.  I didn't know him.  He was Fred Irving, subsequently ambassador to Iceland and elsewhere.</p>
-<p>About three days later, I got a call from ARA saying they wanted me to go to Quito as DCM.  I preferred the first job.  I'd done the DCM bit, and I later found out there were rather specific reasons why they wanted me to go, and I'm glad I didn't go.  In any event, I said, “Sure, I'd be happy to come do the EUR thing.” There was apparently a prolonged hassle in Washington, but EUR won and I came up.</p>
-<p>
-<hi rend="italics">Q:  What did this job consist of?  Let's take both the deputy and the executive director.</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>BREWSTER:  Well, at that time, the Department had gone through another one of its thrashings about and had decentralized administration, so that responsibility for the budget, for buildings, FBO operation, personnel, were all in the executive director's office.  The executive director was managing all the funds for Europe, assigning personnel, obviously in coordination with the central personnel system, but the actual process of assigning and cutting the actions was in the bureau.  There was a regional FBO officer there, too, though FBO continued to exist.</p>
-<p>
-<hi rend="italics">Q:  That's the Federal Buildings Operation.</hi>
-</p>
-<p>BREWSTER:  Yes.  Foreign Buildings Operation.  So that the Executive Director was really the locus of a lot of authority and power.  And as deputy, I was given a specific chore, and that was to arrange for the move of US NATO from Paris to Belgium.  That required a special appropriation from Congress and lots of other things.  So I got right into it very quickly.</p>
-<p>
-<hi rend="italics">Q:  We talked about this before, but did you find that European personnel—I mean, the European bureau—did carry more clout?  Could you see in a way it was a more efficient operation or had better people or something like this?  I mean, you get what you want.</hi>
-</p>
-<p>BREWSTER:  I can't judge whether it was more efficient, but it certainly had the most clout of any, because people wanted to go to Europe and were looking for ways to get there or to stay there.  Secondly, it had clout on the Hill.  Some of those congressman you and I both recall who had special influence in the Department for various reasons had from time to time candidates they wished to be sent, usually as secretaries, someplace in Europe.  Third, it was by far the largest bureau with the most funds.  All this combined to give the European bureau tremendous clout.  So did the fact that when I was there the assistant secretary had a great deal of clout, because he was effective and knowledgeable. So for me it was an enviable position to be in.</p>
-<p>I reiterate that I had one great advantage as executive director.  I had an assistant secretary who understood the budget, understood the Hill, understood the whole operation.  When he testified, he knew it far better than I, and being an economist, he understood the figures infinitely better than I.  When I was led into the same morass such as explaining how I'd handled the devaluation of Icelandic currency, I got hopelessly lost (as usual), and my assistant secretary regularly bailed me out.</p>
-<p>
-<hi rend="italics">Q:  Who was this?</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>BREWSTER:  This was John Leddy.  He's here in McLean.  He is a tremendously bright fellow, and instead of simply appearing and saying, “Well, I'll now tell you about the policy in Europe,” and then departing, leaving me to deal with Congressman Rooney, he stayed there through the whole hearing.  He was immensely effective, and he was a very staunch in backstopping me whenever I needed it in the Department.</p>
-<p>
-<hi rend="italics">Q:  In a way, what you're pointing out is something that sometimes is lost.  And that is that to be effective within the Washington politics, the State Department, you have to, one, know your details, and two, to keep your fences mended, which is with Congress particularly.  And rather than leaving the details to somebody down below, for an assistant secretary to be able to go one on one with the members of the House Appropriations Committee and all, one would win their respect and get what they do.</hi>
-</p>
-<p>BREWSTER:  Sure.  Or in the Department.  If I was in some hassle in the Department which directly affected the bureau and/or its budget or something like that, I had no hesitancy in going to the assistant secretary, who could understand the issue and who would take it up to the, I guess then, the deputy under secretary for management.  And this was not a situation which my colleagues in the other bureaus enjoyed, because, by and large, their assistant secretaries a) were not that knowledgeable, or b) not that concerned about the details.  And mine understood it, and that was an infinite help.  I simply could never adequately express my thanks, because I was learning the job in the first year or so.  To have this kind of assistance was invaluable.</p>
-<p>
-<hi rend="italics">Q:  After this experience, you were what?</hi>
-</p>
-<p>BREWSTER:  Let's see.  I became deputy executive secretary.</p>
-<p>
-<hi rend="italics">Q:  This was part of the secretariat?</hi>
-</p>
-<p>BREWSTER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  That was from '69 to '71.  There was a new administration at this point.  In the first place, could you describe what the secretariat meant, what it did?  And then could you talk a little about the changeover, I mean what you'd call a hostile change?  Anyway, it was a difference between the Johnson and the Nixon Administration.</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>BREWSTER:  The secretariat manages the paper, the decision process, for the principals of the seventh floor.  It works directly for the Secretary, staffs his papers, sees that his decisions are carried out.  The executive secretary is a special assistant to the Secretary and, at the time I was in the secretariat, was the principal special assistant to the Secretary.  So it's an operation which very much manages and is on top of and expected to know the work of the Department.</p>
-<p>
-<hi rend="italics">Q:  Did you come in just when the Nixon Administration took over?</hi>
-</p>
-<p>BREWSTER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  What was the impact of a new administration, new people, and a new Secretary of State, which was William Rogers, on the observations of the State Department as you observed it?</hi>
-</p>
-<p>BREWSTER:  Well, it was, of course, a tremendous change.  We set about changing the way the secretariat worked and how it was organized and ended up physically rebuilding the whole thing and changing it, bringing in the first computer system, etc.  And from the beginning, the whole relationship was colored by the relationship between the President's National Security Advisor, Dr. Kissinger, and his assistant, General Haig, then Colonel Haig, and the Secretary, William Rogers, who was an old friend of the President's.</p>
-<p>This relationship very quickly became somewhat difficult for reasons that have been set forth in all kinds of publications, so that the functioning of the system, which is to say the routine operation of the national security system, became, in my view, somewhat more dependent on the relationships between those of us in the secretariat and those in the National Security Council at a level below the leaders of those respective organizations.  And that was extremely interesting, occasionally extremely painful.</p>
-<p>
-<hi rend="italics">Q:  In a sense that there was almost a deadlock up above, so you were trying, at your level, were working to try to make things work?  Was this it?</hi>
-</p>
-<p>BREWSTER:  Yes.  I wouldn't describe it as a deadlock, but there were tensions, and then we attempted to try to get the work done despite them, or to work out the problems.</p>
-<p>
-<hi rend="italics">Q:  Who would you work with at the National Security Council?  I mean you, yourself.</hi>
-</p>
-<p>BREWSTER:  Generally Haig.</p>
-<p>
-<pb facs="0024" n="Page0024"/>
-<hi rend="italics">Q:  What type of things would come up that would get you involved?  Can you think of some examples, perhaps?</hi>
-</p>
-<p>BREWSTER:  There are daily examples.  Telegrams proposed for the field that were sent to the White House for clearance in which clearance was not given and in which changes were asked to be made after, in some cases, the Secretary had approved the cable.</p>
-<p>
-<hi rend="italics">Q:  These are basic instructions to the field?</hi>
-</p>
-<p>BREWSTER:  Yes.  So these are basic day-to-day operating problems that you tried to work out between the National Security Council, members of its staff, the regional bureau or the originator of the telegram, and ultimately the Secretary, and you were trying to facilitate this.  That's daily business.</p>
-<p>More specific problems.  One occurred, I don't think I'll go into the subject, but I was asked to convey a particular message to the Secretary by Al Haig, and I declined to do so.  I said, “This is a message that I will not take to him.  You'll have to do it yourself.”</p>
-<p>He said, “Very well, I will.” He came over and told him the message, which was an unpleasant one.  He had no hesitancy in doing it after I said I would not do it.</p>
-<p>So these kinds of things came up.  Another was when the Secretary was in Africa.  The question of his annual report, which at that time was being published, and the National Security Council published an annual report.  The publication of the Secretary's report and its content came up in a particularly difficult moment, and so much so that the Under Secretary—maybe it was Deputy Secretary by then—Elliot Richardson, talked directly to the Secretary by secure means on how to proceed on the thing.  There were frequent problems between the two organizations during that time, as indeed there were later on, as there have traditionally been.  We saw our job as trying to ameliorate or work out these differences while remaining true to the guidelines that had been laid down by the Secretary.</p>
-<p>
-<hi rend="italics">Q:  Well, did you have the feeling that this was the National Security Council, either at Kissinger's level or below, trying to—I mean, were there significant policy differences, or would you say this was more bureaucratic in fighting to gain the upper hand?  What was your impression?</hi>
-</p>
-<p>BREWSTER:  Well, there was certainly the latter.  There's no doubt about that.  That's been made fairly clear by Kissinger in his book, who said perhaps he'd do things a little differently now etc., etc., I would not be inclined to put great credence in that.  I think his critics, especially Hersch, have the better of that argument.</p>
-<pb facs="0025" n="Page0025"/>
-<p>But there were both, policy and bureaucratic differences.  The White House, as you know, developed a policy of its own, and this was the President's direct own wish.  I'm confident he was embedded in it by his national security advisor, but nevertheless, it was his wish, specifically in the case of China.  There were other instances.  But it was certainly bureaucratic, and it started out that way when Kissinger levied all these requests for studies on the Department and tied it up for about a year while he was busily back-channeling policy himself.</p>
-<p>
-<hi rend="italics">Q:  Did you have the feeling that you were in a fight?  What was sort of the attitude?  “Let's stick it to the bastards,” or “How are we going to work this out?”</hi>
-</p>
-<p>BREWSTER:  We were trying to work it out, because there's no way the Department is going to stick it to the President's representatives.  Let's be wise about this.  [Laughter] And the Secretary himself never directly spoke of this problem.  I recall, on several occasions when I was acting Executive Secretary, or it was late at night, I was on watch, whatever, when I gave him a particularly bad bit of news, I could never see the slightest flicker in those blue eyes that there was anything amiss.  [Laughter] He was extremely loyal to the President, and he remained so.</p>
-<p>
-<hi rend="italics">Q:  What was your impression of Haig?</hi>
-</p>
-<p>BREWSTER:  Well, I thought he was very bright.  At that point, he had a good sense of humor.  I would occasionally hear in the background, “Who are you talking to?” [Laughter] At that point they shared an office.  It was rather amusing initially.  I didn't see him personally on many occasions—four or five, perhaps—but I had an impression of him as a bright, hard-working, by definition ambitious, because I don't think you work in a pressure chamber like that if you aren't a fellow that didn't want to go beyond that.</p>
-<p>
-<hi rend="italics">Q:  In 1971 you became deputy director general of personnel.  This is from '71 to '73.</hi>
-</p>
-<p>BREWSTER:  There weren't any other candidates.</p>
-<p>
-<hi rend="italics">Q:  This doesn't sound like a very nice job, in a way, because personnel is almost the bedrock upon which everything else in the Foreign Service revolves.</hi>
-</p>
-<p>BREWSTER:  It's the worst job I ever had.</p>
-<p>
-<hi rend="italics">Q:  Why was this?</hi>
-</p>
-<pb facs="0026" n="Page0026"/>
-<p>BREWSTER:  Well, first of all, again I found myself at the end of a two-year assignment in the Secretariat and nobody had said anything about doing anything else.  Then I was asked by the Director General to take the job.  I did not know him.</p>
-<p>
-<hi rend="italics">Q:  This is William Hall?</hi>
-</p>
-<p>BREWSTER:  William Hall.  And I said, “Okay” and I went over there.  Everybody in the head office had left:  there were no special assistants, no secretaries.  Bill Hall had come in.  He had brought an excellent secretary who had been with him in ICA or AID, but who knew little about the Department.  I had to find a secretary, a special assistant, and one for him.  I distinctly remember on the first day finding in my in box a copy of the grievance regulations which had been promulgated about two days before I came into the office.</p>
-<p>
-<hi rend="italics">Q:  This is a whole change of procedure so you could appeal?</hi>
-</p>
-<p>BREWSTER:  This was a total change; I knew nothing about it.  I picked the thing up and said, “Who's supposed to do this?” and they said, “You are.”</p>
-<p>I said, “Is there a staff?”</p>
-<p>They said, “No.” The next thing is the grievances started appearing in my in basket.  It went on from there and got steadily worse.  [Laughter]</p>
-<p>
-<hi rend="italics">Q:  All the built-up frustrations of years, at last people had an outlet.  The grievance procedure was the first—which has expanded—that allowed people to appeal and to have people look at problems, mostly dealing with personnel.</hi>
-</p>
-<p>BREWSTER:  Or the efficiency reports, promotions, things like that.  There had been a grievance procedure on the books, but my predecessors had never authorized it.  It was a real cockamamie arrangement.  The director of personnel granted the right to a grievance hearing and the grievant then chose one person as his or her representative, the director of personnel chose the second, the two of them chose the third, and the results went to the director of personnel for action.  So, I mean, here's someone with two votes.</p>
-<p>In any event, I authorized some of those hearings, which by regulations seemed to me had to have been authorized within ten days or something.  They had never been authorized.  I authorized those hearings, and some of the grievances are famous ones.  And those were held at the same time we were proceeding with the new grievance procedures.</p>
-<pb facs="0027" n="Page0027"/>
-<p>
-<hi rend="italics">Q:  The women's issue, of course, is the one which was just...</hi>
-</p>
-<p>BREWSTER:  That was being handled at that time, but it was being handled under—well, I did authorize that grievance hearing, but it was proceeding under the discrimination statutes, I think.</p>
-<p>
-<hi rend="italics">Q:  It's beginning to have its impact even more now.</hi>
-</p>
-<p>BREWSTER:  Sure.  And the Department had just put out its decision on wives, the so-called non-person's directive that wives had no official role or responsibility.</p>
-<p>
-<hi rend="italics">Q:  Which is supposed to be a good thing, but yet, at the same time, had tremendous impact on the field.</hi>
-</p>
-<p>BREWSTER:  Tremendous impact in the field, yes.As for inspections after I retired in 1981, I did one of the Secretariat, I did one in eastern Europe.  But after '84, perhaps '85, I switched my consultancy to another bureau in the Department and had nothing further to do formally with the inspector general.  And this change in the act took place about that time, so I can't really speak to it with any direct knowledge.</p>
-<p>
-<hi rend="italics">Q:  Well, my understanding is that—and you mentioned that— more emphasis was placed on the audit function.</hi>
-</p>
-<p>BREWSTER:  Yes.  It is by law.</p>
-<p>
-<hi rend="italics">Q:  Does this reflect a concern of what became sort of buzzwords in the Reagan Administration of waste, fraud, and mismanagement...</hi>
-</p>
-<p>BREWSTER:  Very much.</p>
-<p>
-<hi rend="italics">Q:  Rather than “What the hell are we doing as far as our relations with other countries?” When you put the book-keepers loose, isn't something lost?</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>BREWSTER:  Well, the emphasis has certainly shifted, though they're continuing to do the evaluations, as I understand it, of the operations of the embassy.  But I can't really speak to that.  My view is that the two ought to be done.  The audit should not predominate, nor should civil service personnel predominate in doing the inspection, and this is the thing we succeeded in preserving when we got it into the 1980 Foreign Service Act.  It was that that was lost when it was put under the inspector general act that encompasses the whole government.  Well, I can't speak to the way it's operating.  I would have my doubts about it.</p>
-<p>
-<hi rend="italics">Q:  This has been a fairly long interview.  I've had you sort of on the grill.  But I was wondering.  Looking back over your career, what thing that you did sort of gave you the greatest satisfaction?</hi>
-</p>
-<p>BREWSTER:  There isn't really any one thing.  When I was at my first post as a vice consul, I think I got as much satisfaction out of dealing of a case of barratry as I did with anything else.</p>
-<p>
-<hi rend="italics">Q:  Could you explain what a case of barratry is?</hi>
-</p>
-<p>BREWSTER:  Yes.  You try and sink the ship.  [Laughter]</p>
-<p>
-<hi rend="italics">Q:  This is the crew sinks the ship in order to...</hi>
-</p>
-<p>BREWSTER:  In this case, someone yells “Fire,” they pile in the lifeboats, they get out there about 300 yards, and nothing happens for an hour.</p>
-<p>
-<hi rend="italics">Q:  How did this play out?</hi>
-</p>
-<p>BREWSTER:  [Laughter] Well, it played out with the usual depositions and all that business, and then it was turned over.  I don't know the eventual outcome, but following it and getting into it was of interest to me at the time.</p>
-<p>When I was deputy executive director for Europe, I got a deal of satisfaction out of handling the move of all our NATO types, US NATO, the military and everything, to Brussels.  Among other things, I persuaded the military for the first time to allow the State Department to charge their appropriations directly, something I was told could never be done.  But we had to buy a great deal of furniture and stuff and I knew that these reimbursement agreements would take forever, and we were finally agreed to allow the State Department to just buy things and use their appropriations.  It immensely simplified things.  We got everybody there on time.  So I took satisfaction in that.</p>
-<pb facs="0029" n="Page0029"/>
-<p>In Ecuador, I took satisfaction in, if not settling, at least removing as an obstacle to our relations, this whole fishing problem that had been going on for years.  As IG, there were a number of specific instances.  I was heavily involved in the budget process in the management review council.  I took satisfaction in some of the decisions that were made.  I also was pleased that we managed to short circuit the attempt to bring State under the inspection general act, which would have thrown FSOs out of the inspection business.  So each place along.  I would be very hard put to say this is thing that I most liked.</p>
-<p>
-<hi rend="italics">Q:  Well, this gives an idea.  If a young person comes to you today, a man or a woman, and says, “What about the Foreign Service as a career?” How do you reply?</hi>
-</p>
-<p>BREWSTER:  That's the one question I was confident you'd ask me.  I don't know how to reply.  I think I'd have to know rather much about the person before I would give the kind of advice I would have unhesitatingly given, say, 20 years ago, 15, maybe 10.  [Laughter] I don't know.  I have severe reservations about it now as a lifetime career. I hoped it would be, and indeed it did turn out to be a lifetime career for me, although I had a couple of opportunities to leave it.  I honestly don't know.  If I knew the person well enough, I would sit down and tell them the pros and cons, but then I'd arrange for them to talk to someone who's been more intimately involved with it than I've been for the last eight years.</p>
-<p>
-<hi rend="italics">Q:  It really has been a change in the environment.</hi>
-</p>
-<p>BREWSTER:  It's been a change and I have my own perception of that environment from having been there intermittently since I left formally, but it isn't enough to base a judgment on.  So I would answer by waffling, unless I knew the person reasonably well and knew a little bit about that person, and then I think I'd be more forthcoming.  But I wouldn't give the kind of answers I was accustomed to give.</p>
-<p>
-<hi rend="italics">Q:  At one time it used to be just “go for it,” you know.</hi>
-</p>
-<p>BREWSTER:  Oh, yes.  Sure.  I would have had no reservations.  Well, I might have said—in fact, I have notes and speeches that I made, recruiting speeches—and I would have a couple of reservations.  You have to be able to put up with certain things that you may not think about at the time.  You may not care for the kind of social life, the kind that you are required to lead in the Foreign Service, for example.  You have to think about that.  There are other things that I would be specific about, but other than that, I would say by all means go into the Foreign Service.  I would not say that now.</p>
-<p>
-<pb facs="0030" n="Page0030"/>
-<hi rend="italics">Q:  Well, I want to thank you very much.</hi>
-</p>
-<p>BREWSTER:  On that discouraging note!  [Laughter]</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR ROBERT C. BREWSTER</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: June 30, 1989</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Mr. Ambassador, could you give a little idea of your
+                        background before you entered the Foreign Service?</hi>
+                </p>
+                <p>BREWSTER: Yes. I was born and grew up in Beatrice, Nebraska. I went to public
+                    schools there, and upon graduation, went to Grinnell College for a couple of
+                    years, then transferred to the University of Washington, from which I graduated
+                    in 1943. Having enlisted in the Navy, I was sent in 1943 to Midshipman's School
+                    at Columbia, and was commissioned an ensign in the Navy. After additional
+                    training in Miami and Key West, I was assigned to the destroyer USS O'Brien, on
+                    which I remained until April 1946. I then did two years of graduate work at
+                    Columbia. I passed the Foreign Service written examination in '47, the oral in
+                    '48, and entered the Foreign Service in 1949.</p>
+                <p>
+                    <hi rend="italics">Q: How did you become interested in foreign affairs?</hi>
+                </p>
+                <p>BREWSTER: I wish I could tell you exactly. I had wanted to be in the Foreign
+                    Service from about the time I was in the ninth grade: I remember writing a paper
+                    in that class on the Foreign Service as a career. I specifically remember a
+                    monograph in some kind of personnel series which explained the Foreign Service.
+                    I assume my interest in it came from reading too many Richard Haliburton travel
+                    books.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, yes. Seven Leagues, ah...</hi>
+                </p>
+                <p>BREWSTER: Whatever. [Laughter}</p>
+                <p>
+                    <hi rend="italics">Q: We all read those, too.</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>BREWSTER: In any event, the origins of my interest remain obscure. I also
+                    considered being a lawyer. My father was a lawyer. But I recently discovered a
+                    diary that I kept for a couple of months in the beginning of 1942, and in that I
+                    record my decision that law would be too dull and I thought I would try to go
+                    into the Foreign Service as I had originally planned. Perhaps our entry into
+                    World War II decided me.</p>
+                <p>
+                    <hi rend="italics">Q: But the interesting thing is that you came from a place
+                        where obviously, particularly for the period, the Foreign Service would get
+                        a peculiar look. Or maybe they would know the Foreign Legion because of the
+                        movies, but you certainly weren't part of the eastern establishment where
+                        people had heard of this. I mean, when you're talking about Montana, or even
+                        the state of Washington...</hi>
+                </p>
+                <p>BREWSTER: I'm very much aware of that. In fact, there were two of us who came
+                    from this little town and entered the Foreign Service. The other was Robert K.
+                    Sherwood, who was my debate partner when we were juniors in high school. He left
+                    to go to Andover and subsequently to Yale, but he also entered the Foreign
+                    Service.</p>
+                <p>
+                    <hi rend="italics">Q: In other words, you did not come from a place where one
+                        would think traditionally of sort of a New England, moving on up.</hi>
+                </p>
+                <p>BREWSTER: Very much so. As you recall, in the '''50s we were going through the
+                    McCarthy era, and it was during that time that I was often the choice of the
+                    Department to go out on recruiting tours anywhere west of the Mississippi. They
+                    wanted a midwestern twang, perhaps.</p>
+                <p>
+                    <hi rend="italics">Q: I came in in 1955, and they were talking in those days of
+                        getting a massive infusion of Main Street into the Foreign Service. Now it's
+                        minorities and more women, but this has been a pressure. In fact, I know
+                        back in 1906, when the consular service was made a professional service,
+                        Wilbur Carr had to make a point of getting more southerners into the Foreign
+                        Service, because southerners were Democratic and there had been several
+                        Republican administrations.</hi>
+                </p>
+                <p>BREWSTER: There was very definitely a pressure for that. I was obviously aware of
+                    the general image of the Foreign Service at the time I was planning to get into
+                    it, because I was aware there was no home leave, that people were left out there
+                    until death or retirement brought them back. So after two years at Grinnell, a
+                    school which I enjoyed tremendously and would have otherwise stayed, I
+                    transferred to the west coast and then planned to do my graduate work on the
+                    east coast. The sole purpose of this was to get to know something about my own
+                    country, because I didn't think I could represent it without having a wider view
+                    of it.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q: So unlike really many, you had this in mind and were sort
+                        of doing the right thing to get this. How about your military experience,
+                        your naval experience? Did you feel this contributed much to your ability as
+                        a Foreign Service officer later on?</hi>
+                </p>
+                <p>BREWSTER: Yes, I think it did. As you would know, many of the people coming into
+                    the Foreign Service at that time after World War II, and certainly in my class
+                    of 1949, were people who were somewhat older. Many were married, and several had
+                    children. So there was a somewhat different cast to it than preceding, or
+                    indeed, classes at the present time. Basically I think the Navy did help me in
+                    my career. I had been an officer, had charge of organizations aboard my ship,
+                    and I think that experience stood me in good stead in later years.</p>
+                <p>
+                    <hi rend="italics">Q: How would you characterize the class that came in? You
+                        went to a training class first, didn't you?</hi>
+                </p>
+                <p>BREWSTER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: You've already given some, but what was the outlook toward
+                        the Foreign Service, the United States and the world in general of the group
+                        you came in with in 1949?</hi>
+                </p>
+                <p>BREWSTER: We recently had a reunion of seven or eight of us who were in that
+                    class and we discussed this. I think it was a time of great optimism and
+                    confidence, in part because of the position which the United States found itself
+                    in after the war and the policies which it was beginning to adopt. I remember
+                    very clearly one of the first things I did after I was appointed an FSO was to
+                    attend the signing ceremony for the NATO alliance in Washington and to see Dean
+                    Acheson for the first time.</p>
+                <p>I think, also, that most of us looked on the Foreign Service as a life career.
+                    Now, it's difficult for me to generalize about that. Certainly, that was my
+                    idea, and I had the impression of the people that I knew reasonably well they
+                    felt that way, as well. I say a life career in contradistinction to something
+                    that's going to be tried for a couple of years. It was something for which most
+                    people had prepared themselves. In a couple of instances, people had clearly
+                    changed their minds as a result of the war about their career expectations and
+                    then decided to go into the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: How good was the training before you went out in the
+                        field, would you say?</hi>
+                </p>
+                <p>BREWSTER: I'm not sure I can tell you. I don't remember it that clearly. I'm
+                    sorry, I can't.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: Oh, no. It's often an episode, looking on this sometimes,
+                        I'm not sure that one remembers very much. We were all ready to go.</hi>
+                </p>
+                <p>Well, your first assignment was to Managua in Nicaragua. We're going to
+                    concentrate more on the later part of your career. But in Managua, you were
+                    there from 1949 to 1952, I think.</p>
+                <p>BREWSTER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What sort of impressions did you have of how the Foreign
+                        Service worked at that point?</hi>
+                </p>
+                <p>BREWSTER: In “worked,” how do you mean?</p>
+                <p>
+                    <hi rend="italics">Q: Was it what you imagined it would be, or was this sort of
+                        a shock when you found yourself doing maybe consular work or general
+                        services work or something?</hi>
+                </p>
+                <p>BREWSTER: No, it wasn't a shock. I had wanted to be—what else—a political
+                    reporter. I had done two years' graduate work at Columbia in international
+                    affairs, and that's what I wanted to do. But I was not appalled when I was
+                    assigned to the consular section, particularly when I found that it was in an
+                    adjoining building that the embassy— the remainder of the embassy, I should
+                    say—was perfectly content to leave completely alone if I'd run the thing and
+                    keep out of their hair. This happened to suit me just as well.</p>
+                <p>I had some fascinating experiences, and, in addition, I had to learn Spanish very
+                    quickly. And when I went on to political and labor reporting after a year, year
+                    and a half— whatever it was—I was pleased to change. At that time the idea was
+                    one went through the four kinds of work and then went on to the specialty or
+                    whatever it is you particularly wish to do.But I had no dislike of consular work
+                    even though I had some unpleasant surprises with respect to malfeasance of the
+                    local staff.</p>
+                <p>
+                    <hi rend="italics">Q: How were you able to find out this?</hi>
+                </p>
+                <p>BREWSTER: I don't recall, except that one employee, the principal offender, had
+                    been a constant subject of rumors and accusations, and I no longer recall the
+                    specific instance that made it clear that he was in fact in on the take.</p>
+                <p>
+                    <hi rend="italics">Q: But this is, of course, always a problem that hovers over
+                        the consulate.</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>What type of work were you doing when you say you were doing political labor
+                    reporting? What was the situation in Nicaragua when you were there? This is 1989
+                    and it's a area of tremendous interest because of the leftist government there,
+                    but what was the situation in Nicaragua at the time and what type of things were
+                    you doing? This is 1949 to the early '''50s.</p>
+                <p>BREWSTER: Well, the situation was that the country was in the control of Tacho
+                    Somoza, the father, who, when I went there, was head of the National Guard and
+                    another person was the titular president of the country. But Tacho ran the
+                    country—that was perfectly evident to everyone—and the United States' stance was
+                    one of close cooperation with him.</p>
+                <p>
+                    <hi rend="italics">Q: So was there much in reporting? Were you under any
+                        constraints or anything to make sure that things looked right, or was there
+                        any problems really to report on?</hi>
+                </p>
+                <p>BREWSTER: Most of the political reporting was done by the ambassador, who was a
+                    former newspaperman from North Carolina and by the DCM, who was a career
+                    officer. I had the nuts and bolts, which turned out to be biographic reporting,
+                    labor, protocol, things like that, and public reaction sort of reporting.</p>
+                <p>
+                    <hi rend="italics">Q: After you'd done this, which apparently you'd gotten quite
+                        a good exposure to the various elements in a relatively small embassy, which
+                        is always the best. Rather, you're not overwhelmed by the work of a large
+                        embassy; you've got a very small bit of it. You went to Stuttgart from 1952
+                        to '55. What type of work were you doing there?</hi>
+                </p>
+                <p>BREWSTER: The first two years I did political reporting, and the third year I
+                    became administrative officer.</p>
+                <p>
+                    <hi rend="italics">Q: During the political reporting, this should have been a
+                        rather interesting time.</hi>
+                </p>
+                <p>BREWSTER: It was a fascinating time.</p>
+                <p>
+                    <hi rend="italics">Q: Because this is Germany developing a new political
+                        life.</hi>
+                </p>
+                <p>BREWSTER: Absolutely. It was the end of the occupation, the direct control of the
+                    German government, of course.</p>
+                <p>
+                    <hi rend="italics">Q: What sort of things were you seeing in the political
+                        world? As a young political officer put into Germany, how did you get around
+                        and how did you report on this?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>BREWSTER: The first thing I had to do was learn German. I was assigned there
+                    without any training in German whatsoever.</p>
+                <p>
+                    <hi rend="italics">Q: I have to say I know the feeling. I remember sitting
+                        listening to a political speech in Frankfurt at Wiesbaden and I was
+                        reporting on it. I was just learning German at the time, and I wasn't quite
+                        sure whether he was for or against something. This is the lot of a young
+                        officer.</hi>
+                </p>
+                <p>BREWSTER: In any event, I managed to do so. There were two of us as political
+                    officers. We had, I think, two German political assistants—or perhaps one—and an
+                    interpreter/secretary, in addition to an American secretary, so it reflected the
+                    American establishment in Germany at that time, namely well staffed. So my
+                    inability to deal effectively in German was tolerated until I was able to do
+                    it.</p>
+                <p>The issues that I recall most were the ones associated with the European Defense
+                    Community and related issues, and they were the ones that were particularly
+                    intriguing because the state that Stuttgart's in, Baden-Wurttemberg, had a key
+                    position in this in the Bundesrat. So it was an interesting time, but the
+                    frustrations that are typically felt by political reporting officers in
+                    consulates were quite evident then because Bonn, as indeed I found out later
+                    during my inspection career, did not place a great deal of weight on what it was
+                    being told by people like me serving in consulates. Nevertheless, I found it a
+                    rewarding time.</p>
+                <p>
+                    <hi rend="italics">Q: What is sort of the problem? I'm thinking that an outsider
+                        would think that reports from the Laender or the out-lying provinces of any
+                        region would be welcome by the political section in a large embassy. But
+                        what was the problem?</hi>
+                </p>
+                <p>BREWSTER: I honestly can't tell you, but I've seen the phenomenon several times.
+                    In one case, an important NATO ally, the embassy had predicted the reelection of
+                    the prime minister. The consulate general had been predicting on the basis of
+                    tours throughout the area that had always supported him that he was going to be
+                    defeated. He was. I happened to be there inspecting the post. The Consulate
+                    General's reports came in. They were not read by the political reporting
+                    officers who went on reporting the conventional wisdom that the prime minister
+                    would be reelected. There was hell to pay. The Department was not amused. I went
+                    back and got all the reports out of the file, and they showed they had not been
+                    read by the DCM or the ambassador and only occasionally by the political
+                    officer.</p>
+                <p>
+                    <hi rend="italics">Q: This is where one, if nothing else, learns to say,
+                        “perhaps,” or, “it would appear that.” This, of course, is a built-in
+                        tension. Well, I suppose, in many ways, at least this gave you a feel for
+                        how the system worked, which is very important as a new officer.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>BREWSTER: It did. There was also the practice at that time of having political
+                    officer conferences, and the money was no problem at that point, largely, I
+                    assume, because of occupation costs. In any event, we would go frequently to
+                    Bonn and confer with our embassy counterparts, so it was a useful time from that
+                    standpoint.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find, as an American political officer—and you
+                        were in the American occupation zone, too—that you had access there and were
+                        listened to?</hi>
+                </p>
+                <p>BREWSTER: Instant access. It was something I found a little bit off-putting,
+                    because by and large, as you know, the Germans don't—did not; I can't speak for
+                    them now—did not necessarily deal on an equal basis with someone that much
+                    younger than they. The German politicians at that time had 20 or 30 years on me.
+                    I was in my ''30s. But I found this did not seem to bother them, and I had no
+                    trouble talking with them. I did not ascribe this to my own personal charm. It
+                    was pretty clear to me why they were talking to me—they wanted to talk to the
+                    Americans and get their message through. But, yes, I had fantastic access.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I think this was a time when we not only had the
+                        access, but young reporting officers were being used, and quite rightly so.
+                        As we were trying to use politicians, they would try to use us to get
+                        through to our government to let them know their view.</hi>
+                </p>
+                <p>BREWSTER: Absolutely. And I thought that was particularly true of the SPD.</p>
+                <p>
+                    <hi rend="italics">Q: Being the...</hi>
+                </p>
+                <p>BREWSTER: The Socialist opposition at that time to Adenauer.</p>
+                <p>
+                    <hi rend="italics">Q: Was Baden-Wurttemberg a socialist?</hi>
+                </p>
+                <p>BREWSTER: No. FDP, Free Democratic Party.</p>
+                <p>
+                    <hi rend="italics">Q: Well, to move on. From 1956 to '57 you had something which
+                        is described as an ICA policy briefing officer. What was that? This is back
+                        in Washington, I assume.</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>BREWSTER: When we left Stuttgart, I was assigned to Mozambique. Back in the
+                    States, I discovered that my wife's mother was ill, so I asked the assignment be
+                    changed and that I be assigned to the United States. And after prolonged hassle,
+                    including submission of medical certificates and the rest of it, the assignment
+                    was changed.</p>
+                <p>At about that time, as I later learned, John Hollister, who was head of the AID
+                    agency, then called the International Cooperation Administration, and Herbert
+                    Hoover, Jr., who was Under Secretary of State, agreed that there should be some
+                    Foreign Service officers assigned to the AID agency to learn something about it.
+                    And, lo, my name came floating by, and I was flung into the breech. And when I
+                    was told what it was, I hadn't a clue. It had been called the Mutual Security
+                    Administration the last I heard of it. Now it had become the ICA.</p>
+                <p>
+                    <hi rend="italics">Q: And, of course, having been in Europe.</hi>
+                </p>
+                <p>BREWSTER: So I went there, and I was assigned to the executive secretary to ICA.
+                    I worked for an FSO, John McDonald, later Ambassador McDonald, and it was an
+                    educational and enjoyable experience. What the job turned out to be was a job of
+                    briefing outgoing ambassadors, AID chiefs, and MAAG chiefs on the AID program.
+                    And it required me to try to learn about the AID program in order to talk to
+                    them and answer their questions and give them a general introduction to it. I
+                    also went on trips as the escort officer with the deputies and, eventually,
+                    several times with the director of the agency.</p>
+                <p>In 1957 the authority for controlling all economic and military assistance passed
+                    to the State Department, specifically to the Under Secretary for Economic
+                    Affairs, Douglas Dillon, and the responsibility for presenting the budget to the
+                    Congress went to him. He cast around for some Foreign Service officer that knew
+                    something about the AID program. And, lo, there I was. So I was transferred back
+                    to State to become his special assistant.</p>
+                <p>
+                    <hi rend="italics">Q: I'd like to ask—before we move to the Douglas Dillon
+                        period—how did you find the reaction of—let's take the newly going-out
+                        ambassadors to the ICA, or now termed the AID program. Were you having to
+                        work to get their attention?</hi>
+                </p>
+                <p>BREWSTER: Not at all. At that time there were large funds available, there was
+                    great emphasis on the country team, and most of them knew something about the
+                    program and, indeed, were aware of it. They were not necessarily aware of the
+                    mechanics of it in Washington or how the authority was divided between State and
+                    then ICA.</p>
+                <p>
+                    <hi rend="italics">Q: What type of things would, say, an outgoing ambassador to,
+                        say Indonesia, what sort of thing would they be particularly interested in
+                        that you would zero in on?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>BREWSTER: No. Mine was not a briefing intended to tell them about what the
+                    program was in Indonesia. For that they would go to the Indonesian desk. Mine
+                    was an attempt to put the whole program in prospective and show how the military
+                    and the economic assistance were intertwined, as indeed they were in most
+                    places, how the coordination was exercised, that sort of thing. It was an
+                    overall view, in other words. Indeed, I could not have dealt with the specifics
+                    in each country.</p>
+                <p>
+                    <hi rend="italics">Q: Well, about the AID directors? As a group, did you find
+                        them pretty knowledgeable in foreign affairs, or were they mostly recruited
+                        from somewhere else and really had to be sort of briefed into how the State
+                        Department worked?</hi>
+                </p>
+                <p>BREWSTER: The ones I dealt with I thought were real professionals. There were
+                    then, as perhaps certainly in other times, some political appointees who were
+                    new to that whole field, although they generally had experience in some aspect
+                    of economic development. But the majority of the ones that I saw knew something
+                    about the program, had some experience, and I did not fault them on their
+                    approach to foreign affairs. They had some grasp of what it was all about.</p>
+                <p>
+                    <hi rend="italics">Q: What was your impression on the trips you've made? How was
+                        the program going? At that time it was really relatively new. I mean, it was
+                        just reaching, you might say, its professional peak at that point.</hi>
+                </p>
+                <p>BREWSTER: I think my predominant impressions are of the Far East and, more
+                    specifically, Korea. There was an immense program there, and I was struck by the
+                    enormous variety of it. I mean, the investment in steel and all kinds of things
+                    that I hadn't particularly anticipated. I was struck by the extraordinary
+                    American presence. But I also had an impression that, with some exceptions, it
+                    was an effective program, but I was astounded by the scale and magnitude of it.
+                    Even though I knew it academically, to see it made an enormous impression on
+                    me.</p>
+                <p>
+                    <hi rend="italics">Q: It does seem to be one of our successful...</hi>
+                </p>
+                <p>BREWSTER: Well, now it's been, of course, a howling success, but at the time I
+                    thought...</p>
+                <p>
+                    <pb facs="0010" n="Page0010"/>
+                    <hi rend="italics">Q: And I think, really, it at that point hadn't really the
+                        political framework, which took somebody like Park Chung Hee, I think in '61
+                        or '62, to come in, and with all his faults regarding democracy, or lack
+                        thereof, to really turn it from essentially a rather corrupt, inefficient
+                        society. Did you have a feeling at the time that there was a—were our people
+                        there talking about the corruption and the problems of the government?</hi>
+                </p>
+                <p>BREWSTER: Yes, and in some instances, they were part of it. [Laughter]</p>
+                <p>
+                    <hi rend="italics">Q: Were you going out with a group that was trying to
+                        clean...</hi>
+                </p>
+                <p>BREWSTER: No. I was strictly a bag carrier for a senior political appointee who
+                    had not traveled abroad before, so I planned his trip, accompanied him and that
+                    sort of thing.</p>
+                <p>
+                    <hi rend="italics">Q: Who was this?</hi>
+                </p>
+                <p>BREWSTER: A man called Edwin H. Arnold, who had been an official in the
+                    Republican Party in Rhode Island and who came to Washington as deputy director
+                    for technical services of ICA, a very large part of the agency at the time. He
+                    was an intelligent man, but he had no experience overseas at all. When he
+                    planned his first trip, I was assigned to go along with him and assist him, and
+                    it was an interesting, useful trip.</p>
+                <p>
+                    <hi rend="italics">Q: Well now, let's move to this period when you were a staff
+                        assistant to Douglas Dillon, who was Under Secretary of State with the
+                        responsibility for, among other things, ICA. Was it called AID at that
+                        time?</hi>
+                </p>
+                <p>BREWSTER: No, ICA.</p>
+                <p>
+                    <hi rend="italics">Q: ICA. This was from 1958 to '60. What was your impression
+                        of Douglas Dillon and his working style?</hi>
+                </p>
+                <p>BREWSTER: Well, I think he's one of the great arguments in favor of political
+                    appointees. He had a successful tour as ambassador to France, was then appointed
+                    deputy Under Secretary for Economic Affairs, was promoted by the Congress to
+                    Under Secretary of Economic Affairs—the title was set up for him—and when Herter
+                    became Secretary of State, he became the Under Secretary. I was with him as
+                    special assistant for, I guess, three of those incarnations and stayed until
+                    June of 1960, when I went to the War College. I was not with him when he became
+                    Kennedy's Secretary of the Treasury. But I have the highest regard for him and
+                    his abilities.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: I saw him at a conference earlier this month talking to a
+                        group of historians. He carries tremendous weight and prestige, and
+                        deservedly so. How did he work his staff?</hi>
+                </p>
+                <p>BREWSTER: In what sense?</p>
+                <p>
+                    <hi rend="italics">Q: Well, some people delegate, some send people. I mean, they
+                        use assistants in different ways. I was just wondering whether you had any
+                        impression about his method of operation.</hi>
+                </p>
+                <p>BREWSTER: Well, first he was accustomed to having a special assistant, or special
+                    assistants. He had one in Paris, Phil Chadbourn. Charlie Whitehouse was there as
+                    a special assistant when I came as the second special assistant. In 1960, it
+                    seems to me, there were five special assistants. One was John Leddy, who
+                    subsequently became ambassador to the OECD and assistant secretary for European
+                    affairs, and whose particular field of concentration was economic and
+                    financial.</p>
+                <p>The second was Graham Martin, later also an ambassador, whose field was
+                    intelligence, strategy, and broad foreign policy. There were two of us who
+                    managed the office, the paper, and saw everything that went to Dillon, listened
+                    on all his phone calls, and did the necessary without his telling us, and
+                    orchestrated, so to speak, the rest of the office. The fifth was a special
+                    assistant who dealt with his public engagements and his appearances, Dixon
+                    Donnelley, who later became assistant secretary for public affairs in another
+                    administration.</p>
+                <p>So there were five of us. It was the way he organized his office. He depended on
+                    us for our particular fields and gave us authority to do what we're supposed to
+                    do within our particular responsibility.</p>
+                <p>
+                    <hi rend="italics">Q: Did you operate a sort of screening device? Or say a
+                        bureau chief wanted to talk to him, was this a problem? I mean not a
+                        problem, but was it a fairly structured situation or not?</hi>
+                </p>
+                <p>BREWSTER: Yes and no. Yes in the sense that those requests would go to his
+                    secretary, who would check with us, and then go, in most cases, to Dillon
+                    himself for approval. No in the sense that he knew many people because of his
+                    four or five years working in the Department, and people, particularly on the
+                    economic side and the European and military side, knew him. So there was no
+                    question of our acting on any request for appointment, though we always knew
+                    about them.</p>
+                <p>
+                    <hi rend="italics">Q: Were there any particular problems you had to deal with
+                        that are sort of engraved in your memory or something like this?</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>BREWSTER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: I wonder if you could tell about this. Give an idea of
+                        what somebody does.</hi>
+                </p>
+                <p>BREWSTER: I don't think I can. The ones that are engraved in my memory are ones I
+                    think that I wouldn't want to speak about. I think I'll leave it at that.</p>
+                <p>
+                    <hi rend="italics">Q: Okay. Well, you worked in several White Houses. Did you
+                        find the Herter State Department was considerably different from the Rusk
+                        State Department or the Dulles-Herter State Department later on?</hi>
+                </p>
+                <p>BREWSTER: It's a little difficult to make a comparison because in Dulles and
+                    Herter, I was at the level to see what was going on. I knew my colleagues in
+                    those offices. The Under Secretary for Political Affairs at that time was Livy
+                    [Livingston] Merchant, and his assistant was a career officer. Herter had also a
+                    career Foreign Service officer, Max Krebs, part of the time. So there was an
+                    exchange of information. There were also occasionally some jealousies, I thought
+                    more often on the part of the staff than of the principals. [Chuckles] In any
+                    event, that's the sort of thing that you deal with in any kind of a job.</p>
+                <p>I guess my primary observation would be that the Kennedy Administration, in
+                    reorganizing the whole AID setup, whatever other virtues it had, lost one great
+                    positive advantage. That is, they had no one person in control of the whole AID
+                    program. They had that for about three years when Dillon exercised it; namely,
+                    controlling both military assistance and economic assistance. This was separated
+                    and has been separated since. It's possible to argue that it's difficult to find
+                    someone of Dillon's background and abilities to run it.</p>
+                <p>
+                    <hi rend="italics">Q: And clout.</hi>
+                </p>
+                <p>BREWSTER: And clout. And ability to present it and persuade the Congress, too,
+                    because he led the congressional presentation on both economic and military.
+                    Nevertheless, the State Department has never had more control of the instruments
+                    and tools of foreign policy than it had at that time. So from that standpoint
+                    alone, I would say that the Dulles-Herter arrangement was superior. In other
+                    ways, perhaps it was not as effective, but that, I guess, is my main point,
+                    because that's what I saw closest, both in the AID agency and then when I worked
+                    with Dillon.</p>
+                <p>
+                    <hi rend="italics">Q: You went to the National War College from 1960 to '61 and
+                        then you became an inspector from 1961 to 1963. How did the inspection
+                        system work in the early ''60s then?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>BREWSTER: I worked for about three months, I guess, together with several other
+                    officers, in devising a revised inspection system. I have since been through so
+                    many incarnations of it that at this point I couldn't tell you specifically how
+                    it worked, other than to say it required an exhaustive preparation by the post,
+                    including much writing, setting forth problems, describing in great detail its
+                    work. Secondly, it required a great deal of work on the part of the inspectors,
+                    who were required not only to review the operations and to make comments and
+                    recommendations with respect to them, but also to write efficiency reports on
+                    all the officers and employees of the Department. So it was quite occasionally a
+                    traumatic experience on both sides for the post and the inspector(s).</p>
+                <p>
+                    <hi rend="italics">Q: Well, I can recall what I consider a really sea-change
+                        almost between the early inspections, where the efficiency reports,
+                        particularly for the middle and junior officers and for the other ones when
+                        I was middle officer then, were terribly important because this gave a
+                        different perspective, and also we felt they had some weight. In later
+                        years, this process moved out, and it was more looking at the post as a
+                        whole. And, by giving up this function, when you give up a certain amount of
+                        power, you lose something, too. I felt there was a difference in the
+                        inspections later on, mainly because of this lack of the efficiency report,
+                        or at least being so important.</hi>
+                </p>
+                <p>BREWSTER: I think that's a perfectly valid comment. Since I was the inspector
+                    general who succeeded in finally abolishing efficiency reports, I perhaps ought
+                    to comment a bit on why I thought it was necessary. You're perfectly right that
+                    the personnel system and the officers and employees involved regarded
+                    inspectors' reports as very important, and as the routine report prepared by the
+                    rating officer became more laudatory or anodyne, more and more reliance came to
+                    be placed on the inspectors' report.</p>
+                <p>This development began to occur in about 1971 when I was director of personnel,
+                    when all the reports became available to people and the grievance system
+                    started. By the time I was inspector general, it seemed to me that the reports
+                    done by inspectors were no longer fulfilling their purpose. First of all, they
+                    didn't have enough time to do what they had to do with respect to reviewing the
+                    operations of the post, and that part of the Inspection Corps' work was being
+                    increasingly reviewed by the Congress and the GAO. And, indeed, pressures for
+                    the inspector general, which we now have under the Inspector General Act of
+                    Congressman Brooks, were beginning to increase.</p>
+                <p>And one of their great criticisms of our system was that we were spending most of
+                    our time writing reports on each other and that this was not a function as they
+                    perceived it and as the GAO perceived it of a real inspection or audit system.
+                    But I certainly grant your point in the early days, and indeed up until the
+                    early ''70s, they had a high value placed on them, not always deservedly.
+                    Nevertheless, they were.</p>
+                <p>
+                    <pb facs="0014" n="Page0014"/>
+                    <hi rend="italics">Q: It was. Let me just switch this tape over a second.I
+                        realize that an inspector is inspecting all over the place, but in this
+                        first go-round, I assume you were out in the field fairly often, weren't
+                        you?</hi>
+                </p>
+                <p>BREWSTER: Yes. Well, first of all, I was an administrative inspector, and I had
+                    exactly one year of administration.</p>
+                <p>
+                    <hi rend="italics">Q: I was going to say usually you have an old hat who knows
+                        where the bodies are buried as an administrative inspector.</hi>
+                </p>
+                <p>BREWSTER: Well, it was an assignment that I sought. The personnel system had not
+                    come up with anything for me. After the War College went through, I assume that
+                    they figured I had already arranged my next assignment, which I had not. Only
+                    conjecture on my part, but in any event, they had not made any kind of proposal.
+                    Another officer had been offered the inspection job and had turned it down, and
+                    I applied for it. There was considerable reluctance on the part of the
+                    Inspection Corps, not so much I gathered because of my lack of knowledge about
+                    administration, but because I was only an FSO-3.</p>
+                <p>
+                    <hi rend="italics">Q: FSO-3 in those days was equivalent to a colonel.</hi>
+                </p>
+                <p>BREWSTER: Yes. And most of the administrative inspectors were 02s by that time.
+                    But in any event, I was chosen and spent 11 months, or perhaps ten months,
+                    abroad each year, since the Department did not bring inspectors back as they do
+                    now every two or three months. And my wife accompanied me, at my expense, during
+                    each of those tours.</p>
+                <p>
+                    <hi rend="italics">Q: What were some of your impressions about how the Foreign
+                        Service was administered? I mean, if you can give some sort of areas and
+                        places that would give appeal to somebody about how we looked at the
+                        system.</hi>
+                </p>
+                <p>BREWSTER: I concluded that it was not administered very well. [Laughter] What
+                    area would you like to discuss?</p>
+                <p>
+                    <hi rend="italics">Q: Okay. Well, let's talk about a few areas just to get a
+                        feel. Can you remember any of your trips that stick out in your mind a
+                        little more than some others?</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>BREWSTER: I can remember them all. I don't remember specific problems in specific
+                    embassies. The first year was largely in the Far East, which took me through
+                    Hong Kong, Singapore, Kuala Lumpur, Pakistan, etc., and embassies and consulates
+                    therein.</p>
+                <p>
+                    <hi rend="italics">Q: Was it a problem of personnel, not having people who are
+                        particularly suited for administration or had not been recruited well? Or
+                        was it a matter of a general direction, or was it coming from, say, the
+                        ambassadors who weren't paying much attention to the administration?</hi>
+                </p>
+                <p>BREWSTER: Well, I think all of those things. I just concluded that it could be
+                    better done in quite a number of respects. I think it's fair to say that most
+                    chiefs of mission at that point had little direct interest in or knowledge of
+                    administration. As long as their needs were met, that was sufficient unto the
+                    day, and that left a considerable gap between how they were serviced and, let's
+                    say, the rest of the American community or State personnel.</p>
+                <p>Secondly, I was struck by the difference in standards between a State Department
+                    administration and that, say, enjoyed by either the military and the MAAGs or
+                    the ICA and the lack of coordination of levels of service or benefits to which
+                    they were entitled.</p>
+                <p>
+                    <hi rend="italics">Q: Who was better on these?</hi>
+                </p>
+                <p>BREWSTER: Well, generally the AID personnel were better.</p>
+                <p>
+                    <hi rend="italics">Q: Often when AID and State people would get together, they
+                        would compare advantages, almost to the detriment of the Department of
+                        State.</hi>
+                </p>
+                <p>BREWSTER: That was generally my conclusion, yes, and I couldn't see why this
+                    could not be harmonized, particularly since the State Department theoretically
+                    was in charge.</p>
+                <p>
+                    <hi rend="italics">Q: What was the problem?</hi>
+                </p>
+                <p>BREWSTER: The problem was in Washington, where the problem usually is. [Laughter]
+                    Their inability to get together and work out a viable system for harmonizing the
+                    administration. I understand the frustration. AID had the money. State generally
+                    didn't, or said it didn't, and didn't seem to know how to get it. So the AID
+                    personnel would argue that, “But we can afford to provide furniture and this and
+                    that and the others, the refrigerators and whatever it might be, and why can't
+                    you?” And so the State Department either wanted a freebie to get the AID thing
+                    or to reduce services to their level, and from AID's standpoint, this was
+                    unacceptable. I'm not sure I don't agree with them. [Laughter] Those are the
+                    terms the arguments took in those days.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>
+                    <hi rend="italics">Q: During this period in the early ''60s, did the inspection
+                        look closely at our policy? What are we doing, why are we doing it, or was
+                        it more of a housekeeping thing?</hi>
+                </p>
+                <p>BREWSTER: I think it depended in part on the senior inspector. In some instances,
+                    they had sharp questions about the policy being pursued and wrote about that. In
+                    other instances, they were content to take the policy as a given and seek to
+                    judge how the embassy was carrying it out.</p>
+                <p>
+                    <hi rend="italics">Q: In your moving around, there was a perception—I speak now
+                        as a retired Foreign Service officer—the different geographic bureaus each
+                        sort of had their own identity and there was a certain ranking of them. Not
+                        to be unfair, but the ARA, or the Latin America area, was considered to be a
+                        rather enclosed group, but really not of much significance, as Africa was
+                        brand new and a lot of fun, but nobody knew quite where it was going. And
+                        the Middle East was sort of hard charging, but they were awfully involved in
+                        Arabic affairs, but I mean they were specialists. Far East was pretty good,
+                        and Europe was sort of a nice, solid place where everybody wanted to go. Did
+                        you get any feel for the difference between the bureaus?</hi>
+                </p>
+                <p>BREWSTER: I have a very clear feel for it, not necessarily derived from being an
+                    inspector, although that was part of it, but also from my service on what was
+                    the fifth, and later the seventh, floors. The bureaus were generally considered:
+                    one, Europe; two, Far East; three, NEA; four, ARA; and five, AF. IO wasn't even
+                    there. And this perception continued, at least during the time I was there. It
+                    also was reflected not only in their influence in the Department, but the way
+                    they did staff work, the way they went about their business.</p>
+                <p>Now, I suppose you could reasonably argue that NEA moved up a notch because it
+                    was a very effective bureau with an awful lot of problems and commanding
+                    enormous attention constantly in my last years in the Department. But that was
+                    my perception, and I would not argue with your characterization of ARA.</p>
+                <p>
+                    <hi rend="italics">Q: Why?</hi>
+                </p>
+                <p>BREWSTER: Why what?</p>
+                <p>
+                    <hi rend="italics">Q: ARA was a place with a lot of posts, a lot of
+                        opportunities and all. But is it because that there isn't really only
+                        intermittent attention back in Washington about the problems?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>BREWSTER: I think there are a variety of reasons. One is that as someone said,
+                    Americans will do anything about Latin America except read about it. It's only
+                    in recent years with Cuba and Nicaraguan issues and Central American issues that
+                    any attention has been paid to Latin America, despite the importance that I have
+                    thought that Mexico has always had and will continue to have as long as its on
+                    our border.</p>
+                <p>Secondly, it is inbred, and I don't think it's necessarily all the fault of those
+                    there. I think there are many people in ARA who would have liked to serve in,
+                    let's say, Spain and Portugal, but generally that was a difficult transition to
+                    make. After all, this is what occasioned Henry Kissinger's decision to bump
+                    people out and put other people in. I've forgotten the term that was applied to
+                    it.</p>
+                <p>
+                    <hi rend="italics">Q: It was called GLOP, G-L-O-P, Global Outlook or something,
+                        I don't know.</hi>
+                </p>
+                <p>BREWSTER: Yes. But basically it was an attempt to move people out of ARA and get
+                    some new people in, precisely because of the points that you made.</p>
+                <p>
+                    <hi rend="italics">Q: Well, speaking about this, should we come to your next
+                        assignment, which was as deputy chief of mission to Asunci�n in Paraguay,
+                        where the ambassador was William P. Snow. How did this assignment come about
+                        and what was the situation there at the time?</hi>
+                </p>
+                <p>BREWSTER: The assignment came about in a curious manner. Again, I had not been
+                    approached by personnel as to what my future assignment was going to be as my
+                    third year with the Inspection Corps came up. I thought I would like to be DCM.
+                    I went to the assistant secretary of ARA, who was Ed Martin at the time, and
+                    whom I knew from my days with Dillon. I told him my desire. Ed, who had and has
+                    total recall, started down the continent and said, “Now, in Mexico, so and so,”
+                    and he went through the whole continent and said, “It's all full,” so that was
+                    that.</p>
+                <p>Then the person who was assigned to go to Asuncion, George Newman, who was a
+                    politico-military officer, was drafted to go back to London. I was apparently
+                    among several candidates proposed to Ambassador Snow. He knew me slightly, I
+                    gather, from my time with Dillon, and selected me, so that's how it came about.
+                    Then two weeks before going there, I was asked to go as deputy principal officer
+                    in Hong Kong, a job for which my wife would have given her right arm. [Laughter]
+                    I could not accept it, obviously, although it came from a former principal
+                    officer in Stuttgart, who called from the airport as he was leaving and said,
+                    “Won't you come out?” I wasn't able to do so. It wasn't a decision I regretted,
+                    but it would have been different there. Asuncion was, again, a dictatorship
+                    under Stroessner, who, after all, only left last year.</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: Actually, early this year. I was doing an interview in
+                        January this year in which the man I was talking to, Gale McGee, was
+                        saying—and, of course, Stroessner has been there forever—and a week after
+                        our interview, he was no longer there.</hi>
+                </p>
+                <p>BREWSTER: Not only was Stroessner there forever, so was his entire cabinet. It
+                    was simply incredible. I was never back after I left in 1966, but occasionally I
+                    would see some member of the cabinet up here, see that he was in Washington. It
+                    was the same person who had been there 20 years ago, now in his '80s and
+                    presumably being helped, but nevertheless still there. [Laughter]</p>
+                <p>I enjoyed the experience tremendously, though it had great frustrations. The
+                    Paraguayans are quite a people apart. They, first of all, have their own
+                    language, Guarani, which I think almost no American has ever spoken in the
+                    embassy. The military attach� when I was there learned it. They are extremely
+                    confident people as a result of their having withstood the combined war efforts
+                    of Brazil, Argentina and Uruguay for five years.</p>
+                <p>
+                    <hi rend="italics">Q: Was this the Chaco war?</hi>
+                </p>
+                <p>BREWSTER: No. This was the war about the time of our civil war in 1860, '65, '67,
+                    which almost decimated the country. In fact, it did decimate the male population
+                    of the country. But it has given them a tremendous confidence—I used to have,
+                    and so did our military personnel, have regular discussions with the Paraguayans
+                    and what we were doing wrong in Vietnam, and they had absolute confidence in
+                    talking to us about it.</p>
+                <p>Further, they were the most difficult people I have ever negotiated with. They're
+                    absolutely obdurate on almost all point, whether you were dealing with problems
+                    relating to American missionaries—and there are quite a number in the country
+                    and they occasionally got themselves in difficulties and always in remote
+                    places—or whether they were dealing on the specifics to bring the Peace Corps
+                    into Paraguay, which we finally succeeded in doing. But I have a great deal of
+                    respect and affection for them.</p>
+                <p>
+                    <hi rend="italics">Q: What were our American interests at that time? We're
+                        talking about 1964-66 period.</hi>
+                </p>
+                <pb facs="0019" n="Page0019"/>
+                <p>BREWSTER: It's a question that there was never a satisfactory answer to as far as
+                    I was concerned. [Laughter] There was presumed to be a US interest in it. For
+                    instance, at the time of the Dominican undertaking, the Department solicited
+                    Latin American troop contingents to be part of the peace force, or whatever it
+                    was called at that juncture, in the Dominican Republic. Our ambassador sent back
+                    saying, “Are you serious? Do you want Paraguayans?” Paraguay had been an
+                    anathema to the Kennedy Administration, and the Johnson Administration had
+                    perceptively changed.” And the Department said, “Yes,” and so, of course, the
+                    Paraguayans volunteered. So a Paraguayan contingent duly was picked up by the US
+                    Air Force and taken to the Dominican Republic. From Pariah it became a partner
+                    suddenly. [Laughter].</p>
+                <p>Well, there was a specific US interest. They were among the few countries
+                    volunteering. [Laughter] Beyond that, there was, certainly when I first went
+                    there, a generalized push toward political development, which was inherited from
+                    the Kennedy Administration, which had made remarkably little progress in
+                    Paraguay and which made very little under whoever. The interest in drugs had not
+                    started, although there was considerable interest in the smuggling business, but
+                    this was only peripheral. It had no direct effect on the United States. It's
+                    hard to be specific.</p>
+                <p>
+                    <hi rend="italics">Q: I was just going to say that it obviously (unclear) United
+                        Nations votes from time to time.</hi>
+                </p>
+                <p>BREWSTER: Sure. And they generally voted on the side of the United States. These
+                    are things that made it very difficult when more generalized issues of political
+                    democracy, civil rights, whatever it might be, were brought up when the
+                    Paraguayans were consistently voting with the United States on keeping North
+                    Korea out of the UN, all these issues that we were busy flogging our customers
+                    about through all this time.</p>
+                <p>
+                    <hi rend="italics">Q: I was just wondering. You mentioned the Peace Corps. Why
+                        were we pushing so hard to put the Peace Corps in?</hi>
+                </p>
+                <p>BREWSTER: Well, first of all, the Peace Corps had been banned from there by
+                    either Bobby Kennedy or Shriver, simply on the basis he wasn't going to have it
+                    there. Those of us who were in Paraguay felt that distributing Americans around
+                    the country to give a visible example of what we're like and what democracy was
+                    like and teaching some of the things that might be useful to them would have a
+                    greater effect than general exhortation to change.</p>
+                <p>So I think that's what our main interest was in the Peace Corps. And the Peace
+                    Corps administration changed, and they decided they wanted to be in here. It was
+                    not an issue we pushed repeatedly, because we were given to understand it
+                    wouldn't be considered. But eventually it was and I think it was well that it
+                    happened.</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: Moving on then. You came back to personnel. Was it
+                        personnel?</hi>
+                </p>
+                <p>BREWSTER: No, I came back as executive director for Europe. Initially deputy, and
+                    then when the executive director was transferred I...</p>
+                <p>
+                    <hi rend="italics">Q: This was from '66 to '69. Well, in many ways, you were an
+                        anomaly, weren't you, that the European area sort of looks after its own and
+                        the executive director has a lot of control there? Why did they bring
+                        in...</hi>
+                </p>
+                <p>BREWSTER: I was an anomaly in many ways.</p>
+                <p>
+                    <hi rend="italics">Q: Particularly coming from ARA into Europe.</hi>
+                </p>
+                <p>BREWSTER: Not only that, but I was a officer who entered by the examination
+                    process, desiring to do political reporting, who decided after doing that work
+                    the second time that I wanted something a little more hands-on and something I
+                    could see the results of. I also was, I think, one of the few of my generation
+                    who entered by the examination route who had any interest in administration and
+                    management.</p>
+                <p>The long and short of it is that I was proposed by ARA for a—no, I'm sorry. I
+                    heard that the executive director position was going to be vacant. I wrote to
+                    the assistant secretary, who was John Leddy, who had been a special assistant to
+                    Dillon when I was, and said if it hadn't been filled, I would be interested in
+                    it. I didn't know that he was very ill at the time, having had a slipped disk
+                    operation that paralyzed him, and the next thing I knew, I got a call from the
+                    executive director offering me the number two job as his deputy. I didn't know
+                    him. He was Fred Irving, subsequently ambassador to Iceland and elsewhere.</p>
+                <p>About three days later, I got a call from ARA saying they wanted me to go to
+                    Quito as DCM. I preferred the first job. I'd done the DCM bit, and I later found
+                    out there were rather specific reasons why they wanted me to go, and I'm glad I
+                    didn't go. In any event, I said, “Sure, I'd be happy to come do the EUR thing.”
+                    There was apparently a prolonged hassle in Washington, but EUR won and I came
+                    up.</p>
+                <p>
+                    <hi rend="italics">Q: What did this job consist of? Let's take both the deputy
+                        and the executive director.</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>BREWSTER: Well, at that time, the Department had gone through another one of its
+                    thrashings about and had decentralized administration, so that responsibility
+                    for the budget, for buildings, FBO operation, personnel, were all in the
+                    executive director's office. The executive director was managing all the funds
+                    for Europe, assigning personnel, obviously in coordination with the central
+                    personnel system, but the actual process of assigning and cutting the actions
+                    was in the bureau. There was a regional FBO officer there, too, though FBO
+                    continued to exist.</p>
+                <p>
+                    <hi rend="italics">Q: That's the Federal Buildings Operation.</hi>
+                </p>
+                <p>BREWSTER: Yes. Foreign Buildings Operation. So that the Executive Director was
+                    really the locus of a lot of authority and power. And as deputy, I was given a
+                    specific chore, and that was to arrange for the move of US NATO from Paris to
+                    Belgium. That required a special appropriation from Congress and lots of other
+                    things. So I got right into it very quickly.</p>
+                <p>
+                    <hi rend="italics">Q: We talked about this before, but did you find that
+                        European personnel—I mean, the European bureau—did carry more clout? Could
+                        you see in a way it was a more efficient operation or had better people or
+                        something like this? I mean, you get what you want.</hi>
+                </p>
+                <p>BREWSTER: I can't judge whether it was more efficient, but it certainly had the
+                    most clout of any, because people wanted to go to Europe and were looking for
+                    ways to get there or to stay there. Secondly, it had clout on the Hill. Some of
+                    those congressman you and I both recall who had special influence in the
+                    Department for various reasons had from time to time candidates they wished to
+                    be sent, usually as secretaries, someplace in Europe. Third, it was by far the
+                    largest bureau with the most funds. All this combined to give the European
+                    bureau tremendous clout. So did the fact that when I was there the assistant
+                    secretary had a great deal of clout, because he was effective and knowledgeable.
+                    So for me it was an enviable position to be in.</p>
+                <p>I reiterate that I had one great advantage as executive director. I had an
+                    assistant secretary who understood the budget, understood the Hill, understood
+                    the whole operation. When he testified, he knew it far better than I, and being
+                    an economist, he understood the figures infinitely better than I. When I was led
+                    into the same morass such as explaining how I'd handled the devaluation of
+                    Icelandic currency, I got hopelessly lost (as usual), and my assistant secretary
+                    regularly bailed me out.</p>
+                <p>
+                    <hi rend="italics">Q: Who was this?</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>BREWSTER: This was John Leddy. He's here in McLean. He is a tremendously bright
+                    fellow, and instead of simply appearing and saying, “Well, I'll now tell you
+                    about the policy in Europe,” and then departing, leaving me to deal with
+                    Congressman Rooney, he stayed there through the whole hearing. He was immensely
+                    effective, and he was a very staunch in backstopping me whenever I needed it in
+                    the Department.</p>
+                <p>
+                    <hi rend="italics">Q: In a way, what you're pointing out is something that
+                        sometimes is lost. And that is that to be effective within the Washington
+                        politics, the State Department, you have to, one, know your details, and
+                        two, to keep your fences mended, which is with Congress particularly. And
+                        rather than leaving the details to somebody down below, for an assistant
+                        secretary to be able to go one on one with the members of the House
+                        Appropriations Committee and all, one would win their respect and get what
+                        they do.</hi>
+                </p>
+                <p>BREWSTER: Sure. Or in the Department. If I was in some hassle in the Department
+                    which directly affected the bureau and/or its budget or something like that, I
+                    had no hesitancy in going to the assistant secretary, who could understand the
+                    issue and who would take it up to the, I guess then, the deputy under secretary
+                    for management. And this was not a situation which my colleagues in the other
+                    bureaus enjoyed, because, by and large, their assistant secretaries a) were not
+                    that knowledgeable, or b) not that concerned about the details. And mine
+                    understood it, and that was an infinite help. I simply could never adequately
+                    express my thanks, because I was learning the job in the first year or so. To
+                    have this kind of assistance was invaluable.</p>
+                <p>
+                    <hi rend="italics">Q: After this experience, you were what?</hi>
+                </p>
+                <p>BREWSTER: Let's see. I became deputy executive secretary.</p>
+                <p>
+                    <hi rend="italics">Q: This was part of the secretariat?</hi>
+                </p>
+                <p>BREWSTER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: That was from '69 to '71. There was a new administration
+                        at this point. In the first place, could you describe what the secretariat
+                        meant, what it did? And then could you talk a little about the changeover, I
+                        mean what you'd call a hostile change? Anyway, it was a difference between
+                        the Johnson and the Nixon Administration.</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>BREWSTER: The secretariat manages the paper, the decision process, for the
+                    principals of the seventh floor. It works directly for the Secretary, staffs his
+                    papers, sees that his decisions are carried out. The executive secretary is a
+                    special assistant to the Secretary and, at the time I was in the secretariat,
+                    was the principal special assistant to the Secretary. So it's an operation which
+                    very much manages and is on top of and expected to know the work of the
+                    Department.</p>
+                <p>
+                    <hi rend="italics">Q: Did you come in just when the Nixon Administration took
+                        over?</hi>
+                </p>
+                <p>BREWSTER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What was the impact of a new administration, new people,
+                        and a new Secretary of State, which was William Rogers, on the observations
+                        of the State Department as you observed it?</hi>
+                </p>
+                <p>BREWSTER: Well, it was, of course, a tremendous change. We set about changing the
+                    way the secretariat worked and how it was organized and ended up physically
+                    rebuilding the whole thing and changing it, bringing in the first computer
+                    system, etc. And from the beginning, the whole relationship was colored by the
+                    relationship between the President's National Security Advisor, Dr. Kissinger,
+                    and his assistant, General Haig, then Colonel Haig, and the Secretary, William
+                    Rogers, who was an old friend of the President's.</p>
+                <p>This relationship very quickly became somewhat difficult for reasons that have
+                    been set forth in all kinds of publications, so that the functioning of the
+                    system, which is to say the routine operation of the national security system,
+                    became, in my view, somewhat more dependent on the relationships between those
+                    of us in the secretariat and those in the National Security Council at a level
+                    below the leaders of those respective organizations. And that was extremely
+                    interesting, occasionally extremely painful.</p>
+                <p>
+                    <hi rend="italics">Q: In a sense that there was almost a deadlock up above, so
+                        you were trying, at your level, were working to try to make things work? Was
+                        this it?</hi>
+                </p>
+                <p>BREWSTER: Yes. I wouldn't describe it as a deadlock, but there were tensions, and
+                    then we attempted to try to get the work done despite them, or to work out the
+                    problems.</p>
+                <p>
+                    <hi rend="italics">Q: Who would you work with at the National Security Council?
+                        I mean you, yourself.</hi>
+                </p>
+                <p>BREWSTER: Generally Haig.</p>
+                <p>
+                    <pb facs="0024" n="Page0024"/>
+                    <hi rend="italics">Q: What type of things would come up that would get you
+                        involved? Can you think of some examples, perhaps?</hi>
+                </p>
+                <p>BREWSTER: There are daily examples. Telegrams proposed for the field that were
+                    sent to the White House for clearance in which clearance was not given and in
+                    which changes were asked to be made after, in some cases, the Secretary had
+                    approved the cable.</p>
+                <p>
+                    <hi rend="italics">Q: These are basic instructions to the field?</hi>
+                </p>
+                <p>BREWSTER: Yes. So these are basic day-to-day operating problems that you tried to
+                    work out between the National Security Council, members of its staff, the
+                    regional bureau or the originator of the telegram, and ultimately the Secretary,
+                    and you were trying to facilitate this. That's daily business.</p>
+                <p>More specific problems. One occurred, I don't think I'll go into the subject, but
+                    I was asked to convey a particular message to the Secretary by Al Haig, and I
+                    declined to do so. I said, “This is a message that I will not take to him.
+                    You'll have to do it yourself.”</p>
+                <p>He said, “Very well, I will.” He came over and told him the message, which was an
+                    unpleasant one. He had no hesitancy in doing it after I said I would not do
+                    it.</p>
+                <p>So these kinds of things came up. Another was when the Secretary was in Africa.
+                    The question of his annual report, which at that time was being published, and
+                    the National Security Council published an annual report. The publication of the
+                    Secretary's report and its content came up in a particularly difficult moment,
+                    and so much so that the Under Secretary—maybe it was Deputy Secretary by
+                    then—Elliot Richardson, talked directly to the Secretary by secure means on how
+                    to proceed on the thing. There were frequent problems between the two
+                    organizations during that time, as indeed there were later on, as there have
+                    traditionally been. We saw our job as trying to ameliorate or work out these
+                    differences while remaining true to the guidelines that had been laid down by
+                    the Secretary.</p>
+                <p>
+                    <hi rend="italics">Q: Well, did you have the feeling that this was the National
+                        Security Council, either at Kissinger's level or below, trying to—I mean,
+                        were there significant policy differences, or would you say this was more
+                        bureaucratic in fighting to gain the upper hand? What was your
+                        impression?</hi>
+                </p>
+                <p>BREWSTER: Well, there was certainly the latter. There's no doubt about that.
+                    That's been made fairly clear by Kissinger in his book, who said perhaps he'd do
+                    things a little differently now etc., etc., I would not be inclined to put great
+                    credence in that. I think his critics, especially Hersch, have the better of
+                    that argument.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>But there were both, policy and bureaucratic differences. The White House, as you
+                    know, developed a policy of its own, and this was the President's direct own
+                    wish. I'm confident he was embedded in it by his national security advisor, but
+                    nevertheless, it was his wish, specifically in the case of China. There were
+                    other instances. But it was certainly bureaucratic, and it started out that way
+                    when Kissinger levied all these requests for studies on the Department and tied
+                    it up for about a year while he was busily back-channeling policy himself.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have the feeling that you were in a fight? What
+                        was sort of the attitude? “Let's stick it to the bastards,” or “How are we
+                        going to work this out?”</hi>
+                </p>
+                <p>BREWSTER: We were trying to work it out, because there's no way the Department is
+                    going to stick it to the President's representatives. Let's be wise about this.
+                    [Laughter] And the Secretary himself never directly spoke of this problem. I
+                    recall, on several occasions when I was acting Executive Secretary, or it was
+                    late at night, I was on watch, whatever, when I gave him a particularly bad bit
+                    of news, I could never see the slightest flicker in those blue eyes that there
+                    was anything amiss. [Laughter] He was extremely loyal to the President, and he
+                    remained so.</p>
+                <p>
+                    <hi rend="italics">Q: What was your impression of Haig?</hi>
+                </p>
+                <p>BREWSTER: Well, I thought he was very bright. At that point, he had a good sense
+                    of humor. I would occasionally hear in the background, “Who are you talking to?”
+                    [Laughter] At that point they shared an office. It was rather amusing initially.
+                    I didn't see him personally on many occasions—four or five, perhaps—but I had an
+                    impression of him as a bright, hard-working, by definition ambitious, because I
+                    don't think you work in a pressure chamber like that if you aren't a fellow that
+                    didn't want to go beyond that.</p>
+                <p>
+                    <hi rend="italics">Q: In 1971 you became deputy director general of personnel.
+                        This is from '71 to '73.</hi>
+                </p>
+                <p>BREWSTER: There weren't any other candidates.</p>
+                <p>
+                    <hi rend="italics">Q: This doesn't sound like a very nice job, in a way, because
+                        personnel is almost the bedrock upon which everything else in the Foreign
+                        Service revolves.</hi>
+                </p>
+                <p>BREWSTER: It's the worst job I ever had.</p>
+                <p>
+                    <hi rend="italics">Q: Why was this?</hi>
+                </p>
+                <pb facs="0026" n="Page0026"/>
+                <p>BREWSTER: Well, first of all, again I found myself at the end of a two-year
+                    assignment in the Secretariat and nobody had said anything about doing anything
+                    else. Then I was asked by the Director General to take the job. I did not know
+                    him.</p>
+                <p>
+                    <hi rend="italics">Q: This is William Hall?</hi>
+                </p>
+                <p>BREWSTER: William Hall. And I said, “Okay” and I went over there. Everybody in
+                    the head office had left: there were no special assistants, no secretaries. Bill
+                    Hall had come in. He had brought an excellent secretary who had been with him in
+                    ICA or AID, but who knew little about the Department. I had to find a secretary,
+                    a special assistant, and one for him. I distinctly remember on the first day
+                    finding in my in box a copy of the grievance regulations which had been
+                    promulgated about two days before I came into the office.</p>
+                <p>
+                    <hi rend="italics">Q: This is a whole change of procedure so you could
+                        appeal?</hi>
+                </p>
+                <p>BREWSTER: This was a total change; I knew nothing about it. I picked the thing up
+                    and said, “Who's supposed to do this?” and they said, “You are.”</p>
+                <p>I said, “Is there a staff?”</p>
+                <p>They said, “No.” The next thing is the grievances started appearing in my in
+                    basket. It went on from there and got steadily worse. [Laughter]</p>
+                <p>
+                    <hi rend="italics">Q: All the built-up frustrations of years, at last people had
+                        an outlet. The grievance procedure was the first—which has expanded—that
+                        allowed people to appeal and to have people look at problems, mostly dealing
+                        with personnel.</hi>
+                </p>
+                <p>BREWSTER: Or the efficiency reports, promotions, things like that. There had been
+                    a grievance procedure on the books, but my predecessors had never authorized it.
+                    It was a real cockamamie arrangement. The director of personnel granted the
+                    right to a grievance hearing and the grievant then chose one person as his or
+                    her representative, the director of personnel chose the second, the two of them
+                    chose the third, and the results went to the director of personnel for action.
+                    So, I mean, here's someone with two votes.</p>
+                <p>In any event, I authorized some of those hearings, which by regulations seemed to
+                    me had to have been authorized within ten days or something. They had never been
+                    authorized. I authorized those hearings, and some of the grievances are famous
+                    ones. And those were held at the same time we were proceeding with the new
+                    grievance procedures.</p>
+                <pb facs="0027" n="Page0027"/>
+                <p>
+                    <hi rend="italics">Q: The women's issue, of course, is the one which was
+                        just...</hi>
+                </p>
+                <p>BREWSTER: That was being handled at that time, but it was being handled
+                    under—well, I did authorize that grievance hearing, but it was proceeding under
+                    the discrimination statutes, I think.</p>
+                <p>
+                    <hi rend="italics">Q: It's beginning to have its impact even more now.</hi>
+                </p>
+                <p>BREWSTER: Sure. And the Department had just put out its decision on wives, the
+                    so-called non-person's directive that wives had no official role or
+                    responsibility.</p>
+                <p>
+                    <hi rend="italics">Q: Which is supposed to be a good thing, but yet, at the same
+                        time, had tremendous impact on the field.</hi>
+                </p>
+                <p>BREWSTER: Tremendous impact in the field, yes.As for inspections after I retired
+                    in 1981, I did one of the Secretariat, I did one in eastern Europe. But after
+                    '84, perhaps '85, I switched my consultancy to another bureau in the Department
+                    and had nothing further to do formally with the inspector general. And this
+                    change in the act took place about that time, so I can't really speak to it with
+                    any direct knowledge.</p>
+                <p>
+                    <hi rend="italics">Q: Well, my understanding is that—and you mentioned that—
+                        more emphasis was placed on the audit function.</hi>
+                </p>
+                <p>BREWSTER: Yes. It is by law.</p>
+                <p>
+                    <hi rend="italics">Q: Does this reflect a concern of what became sort of
+                        buzzwords in the Reagan Administration of waste, fraud, and
+                        mismanagement...</hi>
+                </p>
+                <p>BREWSTER: Very much.</p>
+                <p>
+                    <hi rend="italics">Q: Rather than “What the hell are we doing as far as our
+                        relations with other countries?” When you put the book-keepers loose, isn't
+                        something lost?</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>BREWSTER: Well, the emphasis has certainly shifted, though they're continuing to
+                    do the evaluations, as I understand it, of the operations of the embassy. But I
+                    can't really speak to that. My view is that the two ought to be done. The audit
+                    should not predominate, nor should civil service personnel predominate in doing
+                    the inspection, and this is the thing we succeeded in preserving when we got it
+                    into the 1980 Foreign Service Act. It was that that was lost when it was put
+                    under the inspector general act that encompasses the whole government. Well, I
+                    can't speak to the way it's operating. I would have my doubts about it.</p>
+                <p>
+                    <hi rend="italics">Q: This has been a fairly long interview. I've had you sort
+                        of on the grill. But I was wondering. Looking back over your career, what
+                        thing that you did sort of gave you the greatest satisfaction?</hi>
+                </p>
+                <p>BREWSTER: There isn't really any one thing. When I was at my first post as a vice
+                    consul, I think I got as much satisfaction out of dealing of a case of barratry
+                    as I did with anything else.</p>
+                <p>
+                    <hi rend="italics">Q: Could you explain what a case of barratry is?</hi>
+                </p>
+                <p>BREWSTER: Yes. You try and sink the ship. [Laughter]</p>
+                <p>
+                    <hi rend="italics">Q: This is the crew sinks the ship in order to...</hi>
+                </p>
+                <p>BREWSTER: In this case, someone yells “Fire,” they pile in the lifeboats, they
+                    get out there about 300 yards, and nothing happens for an hour.</p>
+                <p>
+                    <hi rend="italics">Q: How did this play out?</hi>
+                </p>
+                <p>BREWSTER: [Laughter] Well, it played out with the usual depositions and all that
+                    business, and then it was turned over. I don't know the eventual outcome, but
+                    following it and getting into it was of interest to me at the time.</p>
+                <p>When I was deputy executive director for Europe, I got a deal of satisfaction out
+                    of handling the move of all our NATO types, US NATO, the military and
+                    everything, to Brussels. Among other things, I persuaded the military for the
+                    first time to allow the State Department to charge their appropriations
+                    directly, something I was told could never be done. But we had to buy a great
+                    deal of furniture and stuff and I knew that these reimbursement agreements would
+                    take forever, and we were finally agreed to allow the State Department to just
+                    buy things and use their appropriations. It immensely simplified things. We got
+                    everybody there on time. So I took satisfaction in that.</p>
+                <pb facs="0029" n="Page0029"/>
+                <p>In Ecuador, I took satisfaction in, if not settling, at least removing as an
+                    obstacle to our relations, this whole fishing problem that had been going on for
+                    years. As IG, there were a number of specific instances. I was heavily involved
+                    in the budget process in the management review council. I took satisfaction in
+                    some of the decisions that were made. I also was pleased that we managed to
+                    short circuit the attempt to bring State under the inspection general act, which
+                    would have thrown FSOs out of the inspection business. So each place along. I
+                    would be very hard put to say this is thing that I most liked.</p>
+                <p>
+                    <hi rend="italics">Q: Well, this gives an idea. If a young person comes to you
+                        today, a man or a woman, and says, “What about the Foreign Service as a
+                        career?” How do you reply?</hi>
+                </p>
+                <p>BREWSTER: That's the one question I was confident you'd ask me. I don't know how
+                    to reply. I think I'd have to know rather much about the person before I would
+                    give the kind of advice I would have unhesitatingly given, say, 20 years ago,
+                    15, maybe 10. [Laughter] I don't know. I have severe reservations about it now
+                    as a lifetime career. I hoped it would be, and indeed it did turn out to be a
+                    lifetime career for me, although I had a couple of opportunities to leave it. I
+                    honestly don't know. If I knew the person well enough, I would sit down and tell
+                    them the pros and cons, but then I'd arrange for them to talk to someone who's
+                    been more intimately involved with it than I've been for the last eight
+                    years.</p>
+                <p>
+                    <hi rend="italics">Q: It really has been a change in the environment.</hi>
+                </p>
+                <p>BREWSTER: It's been a change and I have my own perception of that environment
+                    from having been there intermittently since I left formally, but it isn't enough
+                    to base a judgment on. So I would answer by waffling, unless I knew the person
+                    reasonably well and knew a little bit about that person, and then I think I'd be
+                    more forthcoming. But I wouldn't give the kind of answers I was accustomed to
+                    give.</p>
+                <p>
+                    <hi rend="italics">Q: At one time it used to be just “go for it,” you know.</hi>
+                </p>
+                <p>BREWSTER: Oh, yes. Sure. I would have had no reservations. Well, I might have
+                    said—in fact, I have notes and speeches that I made, recruiting speeches—and I
+                    would have a couple of reservations. You have to be able to put up with certain
+                    things that you may not think about at the time. You may not care for the kind
+                    of social life, the kind that you are required to lead in the Foreign Service,
+                    for example. You have to think about that. There are other things that I would
+                    be specific about, but other than that, I would say by all means go into the
+                    Foreign Service. I would not say that now.</p>
+                <p>
+                    <pb facs="0030" n="Page0030"/>
+                    <hi rend="italics">Q: Well, I want to thank you very much.</hi>
+                </p>
+                <p>BREWSTER: On that discouraging note! [Laughter]</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

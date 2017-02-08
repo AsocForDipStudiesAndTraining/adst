@@ -1,418 +1,1026 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001655">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Ms. Mary Vance Trent </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2010</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Ms. Mary Vance Trent </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2010</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress</p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2010-03-16"/>
                 <change type="rev" when="2010-03-16"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Program</p>
-<p>Foreign Service Spouse Series</p>
-<p>MARY VANCE TRENT</p>
-<p>Interviewed by: Jewell Fenzi</p>
-<p>Initial interview date: November 10, 1988</p>
-<p>
-<hi rend="italics">Q:  This is Jewell Fenzi on Thursday, November 10th, 1988. I'm interviewing Mary Vance Trent for the Foreign Service Spouse Oral History. I hope to discuss with her this morning the organization of spouse training at the Foreign Service Institute in 1962 when she was asked to direct the program. The new program was a departure from the older one which focused on protocol. This one offered courses in American history, American art, American literature, etc. to send the spouse abroad more informed about American culture. May I begin by asking some questions from a list that I have?</hi>
-</p>
-<p>TRENT:  Of course. But before you ask them, may I at the outset of our interview make some comments which I think will describe my thought in setting up the course and the times in which this was done. I note that you're referring to our subject as “spouse training,” as it is known today. It is perhaps a sign of the changes in our society over the past 28 years that the course I set up in 1962 was called “the Wives' course.” I was not a wife, but a career Foreign Service Officer [FSO] assigned to do this job. At that time the only active career officers who had spouses were male. A female officer was expected to resign on marriage, and “tandem couples” had never even been thought of.</p>
-<p>During my professional career as an FSO I had a unique opportunity to observe the contribution made by the wives of my colleagues to the prestige and promotion of the American presence overseas. I knew the support which they gave to our diplomatic missions, and as a woman, I was keenly aware of their skill, strength and courage in rearing families and setting up homes in all sorts of unfamiliar places. By virtue of these duties they had particularly useful opportunities for association with the people of their host countries.</p>
-<pb facs="0002" n="Page0002"/>
-<p>When I was given the assignment in 1962 to return to Washington and establish an officially-funded course for wives of our officers serving at U.S. diplomatic missions abroad, I saw this as a recognition by the State Department of the tremendous value of the Foreign Service wives and families and their role in our relations not only with our traditional diplomatic associates but also with the new nations of differing cultures and societies that were coming into being in the post-World War II period. The rapidly evolving scene presented new challenges to our able Service and to our long-established traditions. To meet these, the American Foreign Service wife was a valuable asset, a real partner in the Foreign Service, and I welcomed the unusual assignment to help in establishing the official means that would prepare her for that great opportunity and responsibility.</p>
-<p>
-<hi rend="italics">Q:  That was a most eloquent introduction...I wanted to take the journalistic approach—the who, why, what, when and where. So if I might begin by asking, when did you organize the spouse training program at FSI?</hi>
-</p>
-<p>TRENT:  As an FSO I came back from Indonesia, where I had been in the Embassy's political section, and was ready for another assignment [in 1962]. The request came from George Morgan, who at that time was the Director of the Foreign Service Institute. George and his wife, Peggy who was always very close to the Foreign Service and very supportive, were tremendously helpful to me.</p>
-<p>
-<hi rend="italics">Q:  I did interview her before she died.</hi>
-</p>
-<p>TRENT:  Good. Oh, I'm glad to hear that because she was a lovely person and so very helpful. George had a vision of what this should be and put it down on paper to some extent when he first wrote to me about doing this job. I'm not aware of all of the administrative skillful work that went on behind the scenes in order to set up this course to provide for it financially and professionally, and therefore to establish it on a more solid basis than those who had preceded me had been able to do. They had done a splendid job in so far as they were able to do so but the Department now for the first time, in '62, was able to recognize officially the importance of this kind of recognition of the role of the wife in the Foreign Service establishment overseas.</p>
-<p>
-<hi rend="italics">Q:  Why were you selected to set up the program? Did you just happen to be there and know George Morgan?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>TRENT:  I really didn't know George Morgan. I had known Margaret (Peggy); we had worked together at one point...This [interview] is a tool then, isn't it? ...As to why [I was selected], I don't quite know. I wasn't aware that such a thing was even under consideration, but it fitted closely and very astutely, I think, with my own feeling as I'd seen it from the point of view of a woman Foreign Service Officer, and of my admiration for the work of the Foreign Service wife at post. I'd seen this happening in London, in Paris, in Oslo, Prague, and in Djakarta. That's a wide span of posts, really. And beginning with early post-war years, and I'd seen these wives performing under some difficult circumstances — friendly, but austere in Norway, unfriendly and very austere in Czechoslovakia, somewhat glamorous but also quite demanding in Paris. And in Djakarta — well, the problems and the challenges, and the joys too, of serving in a Third World post that was beginning to feel the roots of its recent independence. So over this wide span of time and of space and of conditions, I'd seen the Foreign Service wives under the guns so to speak. And in my view they had performed magnificently.</p>
-<p>(interference on tape)</p>
-<p>
-<hi rend="italics">Q:  We're always looking for other interviewees; narrators is the word more often used in oral histories.</hi>
-</p>
-<p>TRENT:  There's a particularly interesting person I would recommend, Fern Ingersoll. You may know Fern because she's really almost a professional. She and her husband — or perhaps it was just her husband who was with our AID program in Thailand some years ago — she has traveled widely; she lectures on some of the Smithsonian trips. She actually set up our Society of Woman Geographers program on oral history. She's not been able to stay with it unfortunately because of other commitments, and what her commitments are now I don't know, but she's a splendid person and I'd be glad to give you her telephone number when I can get to it. Of course, Fern is a Foreign Service wife. That might be something to pursue.</p>
-<p>
-<hi rend="italics">Q:  Yes, I jotted her name down so that we can pursue that later. I don't usually have a list of questions, but in this case I think just to get on the tape the background about [the spouse training] program.</hi>
-</p>
-<p>TRENT:  Yes, I'm straying a bit...</p>
-<p>
-<hi rend="italics">Q:  No, that's all right. We always do, eventually we stray, but I just wanted to get the who, why, what, when and where down first. The next question is: where was the program held and how often?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>TRENT:  The program was organized at the Foreign Service Institute which then, as now, is over in Rosslyn, in Arlington, Virginia, but certainly in different quarters from those which it now occupies.</p>
-<p>
-<hi rend="italics">Q:  Wasn't there something called Arlington Towers?</hi>
-</p>
-<p>TRENT:  Yes, I think that's what it was. It was an old red brick building. And there I was presented with a barren room with sort of worn linoleum on the floor, one metal table, one old typewriter, a pad of paper and a pencil. And George [Morgan, then Director of the Foreign Service Institute] said, “Establish the program.” So we started from that. Well, there was a very dear young secretary who had no responsibility for helping me at all, but out of the goodness of her heart she began to give me some assistance, and I needed a little logistic — quite a lot of logistic assistance. So she gave me some there at the beginning and eventually we moved into the stage that I did acquire a secretary. Then I acquired an absolutely splendid assistant, Jeanne Shallow, who with her husband had been associated with the AID program particularly in underdeveloped areas such as Afghanistan and Iran — I think those were the two areas — and she was absolutely splendid.</p>
-<p>The first thing that I did was to go around and talk to people. I was moved in this direction by an account which I saw at that time of an interview with Mrs. Lyndon Johnson who was then the wife of the vice president. Mrs. Johnson and the vice president had come back from a trip to Turkey, and according to this story which appeared in the press, she was very much impressed by the assistance which she received from wives of embassy officials in Ankara, and particularly from a Foreign Service woman officer. That was a good friend of mine who was fluent in Turkish and who was particularly helpful to Mrs. Johnson. And Mrs. Johnson took this occasion in the press to state her admiration for the work of Foreign Service wives. So this twigged a little thought in me that I would start, almost at the top — No. 2 anyway — and go talk with Mrs. Johnson about the beginning of this program. I felt it was important that we should get very high-level backing for it. If we started down in the lower echelons that would be fine, and we needed that support, but we also needed a little bit of PR frankly, and also the staunchness of women whose opinion would be more publicly recognized than others.</p>
-<pb facs="0005" n="Page0005"/>
-<p>So I went through the channels and got an appointment with Mrs. Johnson and had a lovely talk with her. And, of course, she was very supportive and I said, “We're just starting. I don't know the details of this, but it will be very helpful for me to know and for those who are working with me to know that we have your support.” “Oh, yes, indeed, fully.” Then, of course, I went to Mrs. Rusk. I knew I had the Secretary's support or the program would never have been launched in the first place. The Secretary was absolutely splendid. He took occasion to talk several times with the group, with those working with it, and with me. I remember he said that there's no profession, with the exception of the ministry, which requires such close cooperation between the husband and wife in giving the service that the profession called for. Well, he's saying this in 1962. A lot has changed in our society, but I've often thought of going back to those wise words of the Secretary, which perhaps seem a little bit dated, but there's something very fundamental about them. That, of course, increased my own feeling that we were not only on the right track but we were on an essential track to award the proper official recognition to the wife that was only her just due for all that she was doing for the country.</p>
-<p>So with such backing as this, and other people whom I went to see who were related to the operation, we were ready to put up a tentative program. We also felt in the very beginning — I felt we must have the cooperation of the various departments of the government involved in foreign affairs. Coming out of the political work myself, and going back into it later, I was aware of the importance of what we then called the Country Team. And the members of the Country Team, of course, reflected the various factors at work in the embassies. So with that in mind I talked with the people at Defense, I talked with people at Agriculture, and at Justice, and at the various departments — Treasury — those who were involved in the whole spectrum of our Foreign Service representation overseas.</p>
-<p>I remember particularly talking with the Secretary of the Army who, of course, later became Secretary of State, Mr. Cyrus Vance. In fact we had a little joke about his name and my middle name, there's no relationship in particular. But through him we were able to set up a care facility for children of our wives who were to come to the Course. This sounds utopian as we talk about it 25 years later but our pitch was, “If we're going [to] train your wives on our budget, how about you taking care of our children on your budget?” It was rather an amusing point but Secretary Vance set this up with Army nurses and so there was a playroom, or a facility made available fairly nearby and it helped us tremendously in those early days.</p>
-<p>We launched our first course in November 1962.</p>
-<p>
-<hi rend="italics">Q:  I was going to ask you how long did that take from the time you were presented with your...</hi>
-</p>
-<p>TRENT:  About six weeks.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  You did all of this in six weeks?</hi>
-</p>
-<p>TRENT:  Well, we had to get started.</p>
-<p>
-<hi rend="italics">Q:  That's extraordinary. I thought you may have taken six months.</hi>
-</p>
-<p>TRENT:  I think I came on board in September — well, two months, eight weeks and here's our first course in November. I found it was the right idea at the right time, and George Morgan was so supportive of the whole thing. He gave me all the money that the budget allowed, which was really, I guess, my salary. We eked out and found wonderful support. One of the great supporters was Mrs. Elspeth Rostow, whose husband, Walt Rostow of course, was a Kennedy adviser in the White House. Elspeth Rostow was an outstanding American historian and she helped me. I had a wonderful afternoon with her, discussing how we could construct the course. In each one she kicked us off by a survey of American history which we felt was a very good background for the whole thing.</p>
-<p>
-<hi rend="italics">Q:  Is she here in Washington?</hi>
-</p>
-<p>TRENT:  I really don't know. I've lost her. I think they're down in Austin, but I haven't seen her for quite some time. But she was a tremendous help on all this. Another person who was a great help and used to come down from New York for our courses — she was then Alison Raymond, now Alison Raymond Lanier — who had worked with women's' organizations in various posts overseas, not in the Foreign Service but nevertheless quite clued in to organizations. She was very helpful in our classes, in talking with women about how they could fit into another culture, into a community in which they would find themselves so they wouldn't feel too alien.</p>
-<p>
-<hi rend="italics">Q:  I'm going to prefix my next question with an experience I had in one of my interviews when I was talking to Joseph Grew's daughter Elsie Lyon...</hi>
-</p>
-<p>TRENT:  Yes, I know her.</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q:  ...and I mentioned Miss Bassell [Miss Bassell,  Assistant to the Director of the Foreign Service Officer's Training School in the 1930's, was responsible for “grooming” young officers. On a volunteer basis, she gave advice on protocol to their young wives] and how she, as far as I can discover, was the first person to give any wives training. At which point Elsie said, “Well, of course, I didn't need it.” Having grown up in the Service, she didn't. My next question is: Who determined the need for this program? Where did it come from? And my next question is: Since Regina Blake and Marvin Patterson had had their own course... [Regina Blake directed spouse training at the Foreign Service Institute from 1955-60. (See Blake transcript in this collection.) Marvin Patterson, after her tour as spouse of the Ambassador to Uruguay, participated in Mrs. Blake's training programs. (At this writing, Mrs. Patterson's interview is incomplete.) Mrs. Blake's course was not conducted with official funds. Therefore, her files were not kept at the Foreign Service Institute, but were delivered to her apartment when she left FSI. Mary Vance Trent found no reference to spouse training in the official files when she began organizing the new courses in 1962].</hi>
-</p>
-<p>TRENT:  I didn't even know about that course until several years later. I didn't realize there had been one.</p>
-<p>
-<hi rend="italics">Q:  So what they were doing was not recognized by the Foreign Service Institute?</hi>
-</p>
-<p>TRENT:  It was not an official thing at all. Now I'm really on rather thin ice here because I ran into some problems that I was very sorry about. It was quite ignorant on my part because I hadn't realized just what had been going on. Nobody had had time to tell me, I guess, and since it wasn't a Department funded thing, I didn't find any particular records about it, I knew there had been something along the line of a protocol course. I think that was underselling it. I think it was more than that. Obviously it was recognized or they couldn't even have met, I suppose, because I think they did meet at the Foreign Service Institute. But I guess people weren't assigned to it. I truly...I've never quite understood just how that course operated, but it did. But it was not operating when I came aboard. So there was no conflict — at least not on my part — because I didn't realize it existed. Later on when this was pointed out to me, I sent a certainly deserved apology to both of those ladies whom I know, particularly Marvin, a very dear friend of mine. But at that point I had not known her as well and just didn't know the background. They represented, of course, another generation of Foreign Service work, and their contribution I'm sure was splendid. I think we were ready to move into a newer era, and I think we can sort of leave it at that.</p>
-<p>
-<hi rend="italics">Q:  Was George Morgan the one who decided that it was time to move into another era, or was it just a general point of view in the Department, or...</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>TRENT:  I wish I knew more about this because all that happened obviously prior to their asking me to do it. But when I got this message from George asking me to do this, I sat down and worked very hard on a letter to respond to his offer because it wasn't a real assignment, not a “Thou shalt go,” but rather to discuss this and see about it. [A copy of the letter has been included with the transcript.] I outlined what I felt we would need to do. Now, of course, that developed a lot more over the time as I saw it. I remember saying particularly that we were now in an era when very few people wore long, white gloves, and in much of the world nobody used knives and forks. Anyhow the thought was that we wanted to go beyond hats and gloves and how to put out the silverware. It's necessary to know, but in most of the world that we were getting into, that was not relevant. You see the sixties, the early sixties, it was the burgeoning of all these new nations. We were sending people to Africa — all over Africa — well, to go down there...I know one young woman just wept in my arms one time because she said, “I don't have any fish knives.” I smile when you mention the lady saying quite rightly that she had grown up in the Service and therefore didn't need training. Our view is totally different and therefore we had Ambassador's wives who came to the course. We worked in a way of using, of course, their expertise and background. We had several who couldn't have been finer about saying this was what they needed. They wanted to know before going out to X post because they'd been overseas for a long time, “What's going on in American life?” So the whole first week of the course was devoted to that — clearly just a broad brush treatment — but it was enough to spark and so as I used to say to them, “This is only giving you the tiny little hook on which you can hang further reading, further thought, but it will give you an insight into contemporary American life which is part of what we're to represent when we're overseas.”</p>
-<p>Then the second week was devoted to how do you fit into someone else's community. And, of course, by that time we were realizing that you didn't do it just by giving state dinners, and that the world was a lot bigger than Europe, or even the bigger posts in other spots. But most, you see, had been so Europe oriented and so had I until I went out to Indonesia. Then this whole great big other world, into which the United States was propelled by the course of history and the course of events, was challenging us. We were sending out people in these new AID programs, we were sending out vast military establishments. Of course, with the military we were working only with the defense attaches and that sort of group and their wives. But this was a whole new period, and I feel that training came at the moment it was needed. And when you're asking the key questions of just who, or where was the real inspiration for this, I can't quite...obviously George Morgan went with it, but I think everybody developed...</p>
-<p>
-<hi rend="italics">Q:  So when you developed the course in '62, everyone just came as a wife?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>TRENT:  That's right. And this is something that we very much stressed — your husbands are going to be part of the Country Team [the principal officers] at whatever post it is, so are you really, and here's how you can play your part. We had some splendid help from Ambassadors' wives, some of whom actually enrolled in the course, some of whom came in and talked with us. Marvin Patterson came one day and talked also because her experience represents one facet of the traditional Foreign Service. What we were trying to do, I think, was just to broaden it in what we felt was to be in tune with the times, the changing world.</p>
-<p>
-<hi rend="italics">Q:  In 1962 June Byrne must have been president of AAFSW [June Byrne (Spencer) served as president of the Association of American Foreign Service Women (AAFSW) from 1960-62; Peggy Beam succeeded her]. Did you work with her at all or had she gone? — I don't know who followed her.</hi>
-</p>
-<p>TRENT:  Perhaps it was Peggy Beam, whom I've known for quite a long time. Peggy was very helpful, she had had broad European experience, and she's very broad-minded about the Foreign Service. As an Ambassador's wife she can hold up any formal, elaborate end of things, but she also is very broad in her thinking.</p>
-<p>
-<hi rend="italics">Q:  June Byrne did not start AAFSW in its present — I would say ombudsman role — until 1960. So she must have just — I don't know if she was president for two years — perhaps she only served two years, and perhaps Peggy had just come on board when you were setting this up.</hi>
-</p>
-<p>TRENT:  Probably, yes. Well, she certainly was very, very helpful. It was interesting as it developed. As I say, it was so jerrybuilt, starting it with some definite ideas, but how to develop them, and how to find the people who would speak. But just casting around my friends and connections which I fortunately had in Washington, I could find out who was really an authority on this and that. And people were absolutely delighted to come. For example, we had Justice Potter Stewart from the Supreme Court. When invited to speak, he said, “I'd love to.” I had an airplane trip one time and found myself seated next to Senator Hubert Humphrey, then Chairman of the Foreign Relations Committee. I was on my way out to talk with the management of the Ford Motor Company in Dearborn because they were establishing overseas plants — I think something down in Mexico, and they wanted to see about helping their wives understand what it would mean to live abroad. So they got in touch with the State Department and the State Department sent me out to talk with Ford. It was a fascinating time.</p>
-<p>
-<hi rend="italics">Q:  This was after you were doing the course.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>TRENT:  Yes, after I'd set it up. So Ford brought me out and I found myself traveling first class at Ford's expense, and also traveling first class was Senator Humphrey. I was seated next to the window, I guess, and the Senator got on and looked around, and sat down beside me.</p>
-<p>But then I could see, quite understandably, he pulled out some work so he wanted to be sure he didn't get involved in some dumb conversation. But along came lunch and he decided in his nice jovial way that we'd have a chat, so we did, and got into what I was doing. I wanted to plug this as much as possible, and he was absolutely fascinated. And I said, “Senator, would you come and present the awards? We give awards to each wife who has completed the two-week course. We developed that system and if you could come and present these awards...” “I'd be delighted,” said the Senator, “Just call my office.” Well as you can see from the picture, he was as good as his word.</p>
-<p>So in each one of these awards ceremonies we had a top representative relating to some aspect of American representation abroad. One person who gave out diplomas was the singer, Marian Anderson, which we thought added a splendid note.</p>
-<p>
-<hi rend="italics">Q:  What path led you to her?</hi>
-</p>
-<p>TRENT:  Well, through some connections I've had with cultural things and music in the city. I found this so easy. This was a very appealing thing. So it isn't as if I ever had to argue very much. It was a very flattering thing for them to be asked. I said, “Here are these women, thirty of them, going out all over the world representing our country, and we want them to be as full as possible of what this country is, what it represents, so they can represent it.” And you know that's really very appealing.</p>
-<p>
-<hi rend="italics">Q:  That's all you needed.</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>TRENT:  They were really top people in their line. And that first one...I didn't know what we were going to do, I'd never thought of giving little certificates.  It sounded a little juvenile, but when I saw this enormous interest and the gratitude of the people doing this, I thought they've got to have something that shows they've been through this. So the day before — on Thursday of the second week — suddenly I thought, “I believe I'll try it with Mrs. Lyndon Johnson.” So I called Liz Carpenter, who was her secretary or press person, and I said, “I know you'll think my head has come loose to ask what I'm going to ask but I want to ask it.” And I said, “Would there be a chance that Mrs. Johnson could come anytime tomorrow and give out the certificates to the women who have completed this course?” She said, “Well...” She had a luncheon at 1:00 or something, and I said, “We'll adapt to anytime, day or night, if she can come.” She said, “She can come before lunch.” So I said we'll have the security...of course, George Morgan knew I was calling about this, so we had the security and everything but I didn't say a word to anybody in the class. I just told them that we were going to have a little graduation ceremony. So there we sat in this little classroom over in this scrubby old building and in walked the wife of the vice president of the United States. She made a very well chosen brief remark and presented these certificates. It was a really good start. After that you could just coast — couldn't coast, no, that's wrong. It had a good start on the way.</p>
-<p>
-<hi rend="italics">Q:  I have just a lot of praise and comments about this but I'm saving them because I want to go on with...</hi>
-</p>
-<p>TRENT:  One of the rewards has been traveling around the world as I have on other Foreign Service assignments and finding here and there in the odd corners of the world a wife who was an alumna.</p>
-<p>
-<hi rend="italics">Q:  What was the new program called?</hi>
-</p>
-<p>TRENT:  Overseas Assignment.</p>
-<p>
-<hi rend="italics">Q:  Overseas Assignment, and that was the title of it, and it consisted of...well, I'll know that when I look at the course schedule but...</hi>
-</p>
-<p>TRENT:  And you'll see the Foreign Service Journal article, or the State Department Bulletin article, rather outlines...</p>
-<p>
-<hi rend="italics">Q:  Let's put it on the tape anyway because that way it will get transcribed into the written transcript.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>TRENT:  What's the best way of doing this?</p>
-<p>
-<hi rend="italics">Q:  Maybe it's going to take too long. We'll just include Xeroxes with your transcript.</hi>
-</p>
-<p>TRENT:  This was after the first year. “The enthusiasm for the course has been contagious as the attendance figures show. A year end review of the course, published by the Foreign Service Institute, revealed the significant though not secret fact that the American wife is almost touchingly grateful for proof that the government considers that she can think too. As one of the class members, who had been living the life of suburbia but was getting ready for South America said, “Now I have something to talk to my neighbors about instead of talking about my neighbors.”</p>
-<p>
-<hi rend="italics">Q:  Very nice.</hi>
-</p>
-<p>TRENT:  The report also observed: “After noting the development of the course through the year, that the wives, especially those entering the Foreign Service for the first time had, not surprisingly, certain concerns which proved rather characteristic. These appeared at first as somewhat vague and shadowy apprehensions about health, housekeeping and strictly social problems. But with the unfoldment of each course, these generally assumed factors became much less troublesome as the attention and active interest of the participants turned towards such fundamental matters as, 'How can I do my part to represent the United States abroad? How can I get to know the people of X country? How can I be useful to our policies there?'</p>
-<p>
-<hi rend="italics">Q:  Really this was an elevation of the spouse.</hi>
-</p>
-<p>TRENT:  Exactly, I recall one young wife remarking, “Now I have something to think about while I'm ironing.” I think really their own responses were the most rewarding thing, and the fact that the course had just grown. The time was right and it was needed. And I think the seeds that the good people all along the way had planted were ready to sprout into a slightly bigger plant than they had foreseen. I had the good fortune of coming along, I think, at the right moment to roll it along. I have every feeling that successes have continued just beautifully.</p>
-<p>
-<hi rend="italics">Q:  My next question was: how did it differ from the previous training? I think we've covered that, and the mechanics of setting up the program. We really have covered that too. I think its astonishing that you did all of this in six weeks.</hi>
-</p>
-<p>TRENT:  Let's make it eight; that's a little more accurate.</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  But even eight weeks is very impressive to find all the people...</hi>
-</p>
-<p>TRENT:  It was a busy fall.</p>
-<p>
-<hi rend="italics">Q:  To direct those courses...how were the courses selected and organized? That is a question that we haven't really touched on yet.</hi>
-</p>
-<p>TRENT:  I suppose one element that was interesting was my own experience as a political officer in Indonesia — where I'd been immediately before — working with Indonesian students who were coming to this country.</p>
-<p>So putting that in reverse, I felt it gave some indication as to what we needed to prepare our wives for. Not just in my own thought, but also I talked with a lot of Foreign Service friends, as well as people in various avenues of professional activity in this country. What were some basics about this country that we needed to know? We needed to get some historical survey, we needed to get something of what's going on in the field generally of arts, literature, culture, and that would be varied. I think we always had something on contemporary American literature, but usually then we had something on music and art, something of that kind and those were sometimes varied. Then we needed to see our own social development in this country. If you think what the 60s were in this country, it was a very volatile time. That was something not to sweep under the rug but to look at it. So we had some of that kind of social and economic changes, world economy and where did the United States fit into it, as you will see from the course names given in the actual program — one, for instance, “Social Problems in the United States and their International Significance.”</p>
-<p>
-<hi rend="italics">Q:  Who were some of the people you got to come in and speak at those early courses?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>TRENT:  There's one person who always did a survey of American historical backgrounds, and that was Dr. Myron Koenig who was the deputy director of FSI under George Morgan. He had been a professor of history at George Washington, I think. Then Elspeth Rostow was a steady. Alison Lanier from New York, and also Mrs. Grace Barbey, who had worked widely all over the world with UNICEF. So that was sort of the United Nations at work in various parts of the world, particularly, of course, the developing world. A professor from American University on American literature — I'm sorry, I'd have to review her name because I don't have it right in my head. We had a journalist every once in a while. I know we had Roscoe Drummond from the New York Herald Tribune speaking on contemporary political matters. We drew people from the Department also: Ambassador Palmer — Joseph Palmer — who was Director General of the Foreign Service then. We usually had someone of that kind. Assistant to the Attorney General on civil rights. Deputy Assistant Secretary for International Affairs in the Department of Health, Education and Welfare. Katie Louchheim on community services.</p>
-<p>Then we had area study groups: Western Europe, Latin America, Near East and North Africa, Africa south of the Sahara, south Asia and east Asia. So at that point we often divided into groups the area to which wives were going and pulled in Department specialists from the desks in those areas. We also had some extra afternoon courses — optional — to which people could come if they wished. We weren't able to do as much of that as they do now, which I think is a good development because there are a lot better facilities for it. We found that wives gave as much time as they could and we always gave them a good reading list — a general reading list and then something geared to their area, if indeed they'd already been assigned.</p>
-<p>I'm just trying to remember some of the people who came to give our diplomas at the end of it. Mrs. Rusk, of course, came several times. Mrs. Johnson, Marian Anderson, Justice Stewart, Senator Humphrey. We also had Senator Fulbright, whether he gave the diplomas or whether he just addressed us, I'm not quite certain. We tried to tie in with the Hill because we felt it was very important too that Congress should know who we are, acknowledging the vital contribution of Foreign Service wives.</p>
-<p>
-<hi rend="italics">Q:  Absolutely, absolutely, yes.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>TRENT:  It was a fascinating thing for a Foreign Service officer, too, to be working on this because I had to get out all over Washington, you know, to find...know these people, who they were and present the cause of the Foreign Service, and specifically the Foreign Service wives. And I found a warm welcome. It was easy but it was a physical marathon to get around and do it and run the course. You had to be there at FSI and get the things set up. I had wonderful cooperation from the FSI staff because they were all sort of realizing that we were doing this on the slimmest of shoe strings and we wanted to make a go of it. We did a lot of map work and we always had maps around so everybody could see where everybody else was going. Of course, some of the best times were the little coffee breaks where people got acquainted, and where the wife of the Ambassador, or the No. 2, I mean a ranking wife, realized that also coming to the post was this young, sort of scared, wife of a FSO-8 as they were known at that particular point. That was an informal way of seeing how an embassy family can grow.</p>
-<p>
-<hi rend="italics">Q:  I have one tape in which a wife says that as a senior wife in Katie Louchheim's time that she was pressured unmercifully to produce volunteer work at her post for her staff. Did Katie Louchheim ever transmit that feeling to you when she was involved in the course? I've always wondered where that came from.</hi>
-</p>
-<p>TRENT:  I think that probably came out of Katie's zeal. I mean I know Katie and knew her and that's again why it was easy to ask her to come, and she was very supportive. But it was really something a bit outside of Katie's realm. She was so geared to the domestic scene here — the domestic-political scene. I'm not aware of that tape. I don't question the tape as you describe it; I wasn't aware of that, but I'm not terribly surprised. Katie was very zealous, very energetic.</p>
-<p>
-<hi rend="italics">Q:  What exactly was her title at this point?</hi>
-</p>
-<p>TRENT:  I think she was Assistant Secretary for Public Affairs.</p>
-<p>
-<hi rend="italics">Q:  Oh, that would explain it then.</hi>
-</p>
-<p>TRENT:  I think it's right here so let me get it...She was Deputy Assistant Secretary for Community Advisory Services.</p>
-<p>
-<hi rend="italics">Q:  That explains it, too.</hi>
-</p>
-<p>TRENT:  So I think she felt she must produce. Everybody feels that, of course, and that perhaps not realizing how enormously difficult it is in some posts, some family situations, that perhaps a directive went out that was a bit...</p>
-<pb facs="0016" n="Page0016"/>
-<p>
-<hi rend="italics">Q:  So those went out from her office but were not transmitted to the wives through your course?</hi>
-</p>
-<p>TRENT:  Certainly not. In fact, I wasn't even aware of it at all. Perhaps they came...well, I just don't know because I didn't know about them, but I can imagine that perhaps in her goodhearted zeal that these came through pretty vigorously, shall we say. But no, we always tried to say that you have to look at your own situation, your own needs, your own capacity, and what you can do in that situation that you're going to face. This is why we were very happy about having some Ambassador's wives, and ranking wives attend the course. And we felt that we were talking to a group, many of whom were going to be ranking wives as they come along, and by now they are, 20 years later. That's why we felt it was important to get that point across, that you have your family, you have your personal responsibilities — of course it has become old hat by now to accept this — but it was a little bit more unusual then. We were perfectly aware that some Ambassador's wives were quite demanding. I had fortunately not experienced it too much because as a Foreign Service officer myself I didn't fall in the category. I was subject to the Ambassador, not to the Ambassador's wife.</p>
-<p>
-<hi rend="italics">Q:  How did you deal with that? Dorothy Stansbury's obituary was really a terrible put-down. “She returned to the Department in 1968 and was for several years chairman of the FSI's wives seminar where she helped allay the fears of neophyte Foreign Service wives.” Now that was in her obituary in the DACOR bulletin, and I mentioned that to someone who then said that part of Dorothy Stansbury's course had been to teach young wives how to deal with the dragon ladies. I find that hard to believe. Maybe that was someone's interpretation of it. You didn't ever have any official course to that effect.</hi>
-</p>
-<p>TRENT:  Of course not. I can't imagine that's...I hope the course did have that effect of letting people know what some of the fundamentals were...why you're there, etc., but there was never anything that came up along that line.</p>
-<p>
-<hi rend="italics">Q:  I couldn't believe that. It had to be someone's misinterpretation.</hi>
-</p>
-<p>TRENT:  I say I have not been a victim nor a witness of anything like this myself, but by remote report I know that there have been, at least in the past, I think ill-advised, dictatorial and authoritarian regimes under which Ambassador's wives have been very firm in their requests or demands on wives. But, as I say, I think hopefully that gets taken care of by the courses and by changing times. Now we had also some women whose husbands were political appointees and who came because they wanted to learn. Those that came, of course, were almost pathetically eager to come. Those that felt they knew it all didn't bother to come.</p>
-<p>
-<pb facs="0017" n="Page0017"/>
-<hi rend="italics">Q:  What a shame.</hi>
-</p>
-<p>TRENT:  They had a lot to learn but coming was optional. We always had waiting lists and we couldn't take more than thirty people. I think that's the optimum for doing a group thing of this kind. And we couldn't get any more people in the room so that was really it.</p>
-<p>
-<hi rend="italics">Q:  Then how often did you have the course?</hi>
-</p>
-<p>TRENT:  Once a month. We had two weeks of intense doing it and two weeks planning the next one. I'll tell you it was really...</p>
-<p>
-<hi rend="italics">Q:  And how long did you do that, for several years?</hi>
-</p>
-<p>TRENT:  Two years.</p>
-<p>
-<hi rend="italics">Q:  The fish forks are a symbol...</hi>
-</p>
-<p>TRENT:  Yes, absolutely. They are and I think as I pointed out in the letter when I outlined to George Morgan what I was interested in doing, I said, “I'm not interested in doing a strictly protocol course because it isn't for me to do. I'm in favor of good manners but I've had a view of another part of the world where I think this is not as appropriate as...I just didn't want to do that. I said, “Nobody wears hats and nobody wears gloves and it's another part of the world. If you live in the part of the world that does, you can do so.” But the fish fork symbol has frightened people and I think has restricted the Foreign Service to a certain extent, and I'm sure has damaged, or impaired, or limited its public image...well, it's most unfortunate. And you'll notice that Secretary Shultz even two days ago, speaking to the Foreign Service, had to say, “Its not striped pants,” and then he said, “...or striped skirts.” So the stuffy image hangs around. I'm glad the Foreign Service has an aura, that's just fine, but the aura must have a connection with reality. The ambassadors that I've served with have been willing and able to keep that touch and to realize that although they are people who know and practice what is considered good manners in western culture, they're willing to broaden their horizons.</p>
-<p>
-<hi rend="italics">Q:  Would you agree with me then that the expansion in spouse training really stems from the Department's awareness that the Wristonee women were newcomers and never expected to be in this game anyway and training needed to be changed or adapted to their needs.</hi>
-</p>
-<p>TRENT:  That is quite likely.</p>
-<pb facs="0018" n="Page0018"/>
-<p>
-<hi rend="italics">Q:  What Marvin Patterson and Regina Blake set up must have grown out of that.</hi>
-</p>
-<p>TRENT:  It probably did.</p>
-<p>
-<hi rend="italics">Q:  Their perception that there was a need for the protocol training.</hi>
-</p>
-<p>TRENT:  That's very likely true. I guess what must have happened to me is that, having been so absorbed in my own political work out there in Indonesia and having my sights geared otherwise, I wasn't aware when I came back to set up this program of a sort of “Wriston” background, and it seems strange in hindsight. Now I'd been in the Department when the Wriston program was instituted and had known some of the chaos that that created, but somehow I think I was so imbued with the idea of bringing Foreign Service people all together, and feeling that whoever we are we're being assigned to go to work and represent our country abroad. So wherever you come from, cupcake Iowa as somebody says, or the ivy halls of New England, or the elegance of the San Francisco penthouse, this is America and let's pull it all together. And we have no time, in whatever post we're working overseas, to have our little social divisions.</p>
-<p>
-<hi rend="italics">Q:  Is that what the Foreign Service Act of 1946 really sort of set out to do, was to recognize that we needed representation from all of America?</hi>
-</p>
-<p>TRENT:  '46?</p>
-<p>
-<hi rend="italics">Q:  Yes, or is that too early?</hi>
-</p>
-<p>TRENT:  I think that's too early.</p>
-<p>
-<hi rend="italics">Q:  I have to research that Act because...</hi>
-</p>
-<p>TRENT:  I would too, to say anything authoritative about it. The funny thing, and this is my own deficiency, and it becomes more and more evident to me as I talk to you, somehow when you're in it you're working so hard day-by-day and getting out this job and that job and taking care of the facts of life when you're living in another place, particularly when you're a single person and you're doing it all, that you really don't get back into this legal background so much. One should but I just realized that I haven't particularly. Of course, I took the Foreign Service exam in 1945, when they first gave it at the end of the war, then came on in at that early period.</p>
-<pb facs="0019" n="Page0019"/>
-<p>
-<hi rend="italics">Q:  Were women officers began at that time or...</hi>
-</p>
-<p>TRENT:  Actually there had been...</p>
-<p>
-<hi rend="italics">Q:  Frances Willis...</hi>
-</p>
-<p>TRENT:  Frances Willis, of course, is the famous one and Constance Harvey, and as far as I know Constance Harvey is still with us. Frances Willis has passed away. They were two very fine women who were in before the war and I think there was somebody else too who I'm sure would be gone by now. I think she had been in the Consular service in Holland maybe — Amsterdam, Rotterdam — and then sort of graduated into becoming an FSO without too much of a fanfare. I really don't know quite what was the background on Frances Willis and Constance Harvey, but I know...I think it's right...there were three of us came in in '45-'46.</p>
-<p>
-<hi rend="italics">Q:  You and...</hi>
-</p>
-<p>TRENT:  I think it was Margaret Tibbetts and Helen Nickel. I think that's right, but I was already overseas because I'd been sent over as part of our delegation — just attached to it — our delegation to the first session of the UN in London. So I took the orals in Paris and stayed on in Europe. And again, as I say, there was so much day-by-day to do that at that point I wasn't just awfully concerned about how the Foreign Service was set up. It seems ridiculous looking back on it but I don't really know the provisions.</p>
-<p>
-<hi rend="italics">Q:  I'll ask Dr. Slany [the Department of State Historian]. So the Wristonization [integration of the Civil Service and the Foreign Service] is where the real expansion came, because I believe at that time all the civil service people were brought in. Now you have just said that that was a good thing, and that we needed it, and yet you did say that the Wristonization was a disaster for the Service. How do you justify those two?</hi>
-</p>
-<p>TRENT:  Yes, I'll pull that together.</p>
-<p>
-<hi rend="italics">Q:  Yes, would you.</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>TRENT:  Yes, because they do seem quite contradictory. I think the unfortunate part about it was to force into the Service those who didn't particularly want to come. It also made the whole thing a rather formless amorphous mass for a while. I believe...now perhaps that was the only way to kind of jar the Foreign Service — the almost atrophied Foreign Service — into this new world.</p>
-<p>
-<hi rend="italics">Q:  I have heard this before.</hi>
-</p>
-<p>TRENT:  But I think that there was an attitude: it was a psychological, a mental attitude about it that I think was the hardest thing. That it brought a divisiveness that took a long time to heal.</p>
-<p>
-<hi rend="italics">Q:  Among the officers themselves, or officers and wives?</hi>
-</p>
-<p>TRENT:  As I say I was never...</p>
-<p>
-<hi rend="italics">Q:  You really weren't spouse conscious at that point.</hi>
-</p>
-<p>TRENT:  No, I really wasn't. I was certainly spouse conscious enough to begin realizing something, anyhow, of what it took, the wonderful work that women were doing rearing their children and coping with God knows what in their family and personal situations in X countries, and more and more so-called outpost countries as the 60's developed. But the actual inter-wife relationships I was just not into that.</p>
-<p>
-<hi rend="italics">Q:  At the same time that there was Wristonization there had been McCarthyism [Anti-Communist fervor institutionalized by Senator Joseph McCarthy (R., Wisconsin) in the 1950s] and that must have been a time of absolute turmoil in Foggy Bottom [the section of Washington where the Department of State is located].</hi>
-</p>
-<p>TRENT:  It was both turmoil and paralysis. Those are two contradictory points too. But you know that's what it was and it was deeply disturbing. At the State Department you found yourself wondering who was following you down the hall. That is symbolic of the fear and the tension. That's perfectly true, and I know of people who resigned rather than continue to face the music. The whole tawdriness of the thing, the low caliber of the attacks...</p>
-<p>
-<hi rend="italics">Q:  Like the election that we just...or worse than that. On that level...</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>TRENT:  Oh, no, I think more damaging than that. For instance, I was in Paris when the Cohn [Senator McCarthy's infamous assistant] &amp; Schine team came through and it was absolutely fantastic to see people, ranking, experienced Foreign Service people — far outranking me — just being...well, frantic to get everything all in ship shape for these two absolute...</p>
-<p>
-<hi rend="italics">Q:  Rogues? No that's too nice a name for them.</hi>
-</p>
-<p>TRENT:  It was just intimidation at a mesmeric level. So those were years that were very, very difficult for the Foreign Service. Speaking of viruses, that was a virus in the Foreign Service computer at that point.</p>
-<p>
-<hi rend="italics">Q:  That's a very apt comparison.</hi>
-</p>
-<p>TRENT:  Because it spread. And when you begin to feel suspicious about a fellow worker or somebody and you begin to think there are termites at work in your profession, and your institution to which you are giving your professional life is being undermined, that is very unnerving and it's dreadful for morale.</p>
-<p>
-<hi rend="italics">Q:  As you say you really didn't know who was looking over your shoulder, or reading...or then reporting back to Senator McCarthy. So there were moles in the State Department, or were they perceived?</hi>
-</p>
-<p>TRENT:  Well you just never knew where he had plants. And, of course, he had the Congress so buffaloed that if anybody wanted to be appointed to whatever, it was where does McCarthy stand, who's McCarthy's man? As with all those things, looking back it's impossible to think how such a thing could have arisen.</p>
-<p>
-<hi rend="italics">Q:  That's exactly what several other people have said about it: “How could that have happened?” We missed all of that because my husband just waited all of that out because they weren't appointing anyone and finally he was appointed in 1956. But I think he took the exam in 1952.</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>TRENT:  Well, nothing was happening. Those were the years. And it was a nadir experience for the Foreign Service. The slurs, the raised eyebrows that was so devastating. I remember an English friend of mine who was in Washington at that point for the BBC and he invited me to have dinner with him one night to go to the ADA, the Americans for Democratic Action dinner, and he said, “Do you dare to go?” I was absolutely astounded by the question, and I said, “Of course I'll go. I'd be delighted to go with you.” And he said, “Well I didn't know how the State Department people were feeling about an officer going to something like that.” And I said, “I'd be proud to go with you.” So we were talking about the McCarthy situation and he said, “Well, I have faith in the sober second judgment of the American people.” Happily the faith was justified but it took a long time.</p>
-<p>
-<hi rend="italics">Q:  When was Joseph McCarthy finally censored?</hi>
-</p>
-<p>TRENT:  I can't answer that, really I don't know.</p>
-<p>
-<hi rend="italics">Q:  I just was interested that you were in the Department during the McCarthy years.</hi>
-</p>
-<p>TRENT:  Oh, it was a period...nobody knew when an assignment might come up, or whether you'd get one, or whether you should stay in the Service, or whether the Service was going to such a bad extent that...and the Service wasn't in the position of calling for good new people to come in.</p>
-<p>
-<hi rend="italics">Q:  And all this was taking place during Wristonization, right?</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>TRENT:  A combination of things that was a real test for the Foreign Service. I'm thinking about before I went to...along about 1956 during a Department assignment, I was asked to do a trip to all of the big women's colleges to talk about the Foreign Service. It was called a recruitment trip, and I said that I would be delighted to go and talk about the Foreign Service as I feel it's a rewarding thing to do, etc., but I don't want to be expected to come back with a certain number of recruits. I hoped that would happen but I would be talking with undergraduates and people who have to lead some of their lives before they're ready to get into the Foreign Service anyway. But I thought the women in these colleges are women in general who are likely to be community leaders wherever they're going to live afterwards. They may never have anything to do directly with the Foreign Service but they should know something about it. So I said if it's a purely educational project, I'd be delighted to do it. Well, it was a fascinating thing. So I went to the Seven Sisters and the big eastern colleges; Radcliffe, which was then more separate from Harvard than it is now; Barnard; Wellesley; Bryn Mawr; Smith; Mt. Holyoke. Then I remember there were two or three in the south that I went to; Randolph Macon was one. But those were very interesting trips and I found that the young women, and the faculty, were tremendously interested. We had usually a formal presentation and then what was most fun was when they'd come around and we'd sit in front of the fire, or something, and just talk with these young women. “What were they going to do with their lives?” And what was it like? What was it like to be in the Foreign Service? What was an embassy? And all that.</p>
-<p>It was a very, very interesting opportunity for the Foreign Service to get a glimpse of what was going on in top education here, and also for them to see something about the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  What year that was?</hi>
-</p>
-<p>TRENT:  I think it must have been 1956.</p>
-<p>
-<hi rend="italics">Q:  That's just when my husband came in.</hi>
-</p>
-<p>TRENT:  Was it? Well, although I didn't know it at the time, the experience helped to develop what was going to be the program for the Foreign Service wives because it gave me an opportunity to be in touch with the American community, one influential aspect of it, and also I'd had a previous assignment here so that helped.</p>
-<p>
-<hi rend="italics">Q:  We've talked a long time...and we've covered all of my points. One more thing I can ask you about...well, Mary Lathram and Dorothy Stansbury followed you and, of course, Dorothy's no longer with us.</hi>
-</p>
-<p>Then Joan Wilson came next and I think she's still here in Washington.</p>
-<pb facs="0024" n="Page0024"/>
-<p>TRENT:  Oh, definitely, she is.</p>
-<p>
-<hi rend="italics">Q:  And then Fanchon Silberstein?</hi>
-</p>
-<p>TRENT:  As far as I know. They're very fine people and have done great things for the course and for the wives.</p>
-<p>
-<hi rend="italics">Q:  And Jean German. I'm not sure that I will be able to interview all of them.  [Jeanne Shallow, Mary Lathram, Dorothy Stansbury, Joan Wilson, Fanchon Silberstein and Jean German also directed spouse training at the Foreign Service Institute</hi>
-</p>
-<p>Jeanne Shallow1964, briefly until transferred</p>
-<p>Mary Lathram1964-68</p>
-<p>Dorothy Stansbury1968-75</p>
-<p>Joan Wilson1975-80</p>
-<p>Fanchon Silberstein1980-85</p>
-<p>Jean German1985-88</p>
-<p>Lee Lacy1988- All of the above were either FS officers or spouses except Lee Lacy, the current director (1990). Ms. Lacy is in the Civil rather than the Foreign Service.]</p>
-<p>***</p>
-<p>BIOGRAPHIC DATA</p>
-<p>Date entered Service: 1944, FSO in 1947Left Service: 1977</p>
-<p>Status: Retired FSO</p>
-<p>Posts:
-1944-45Washington, DC
-1846London, England/Paris, France
-1947Oslo, Norway
-1949Prague, Czechoslovakia
-1950Paris, France
-      <pb facs="0025" n="Page0025"/>
-1952Washington, DC
-1956Djakarta, Indonesia
-1962Washington, DC
-1964Djakarta, Indonesia
-1968Washington, DC
-1969Wellington, New Zealand
-1972Washington, DC
-1972Saipan
-1974Washington, DC</p>
-<p>Date and place of birth: Wisconsin, November 20, 1914</p>
-<p>Parents:</p>
-<p>Ray S. Trent, Mary Vance (Moore) Trent</p>
-<p>Schools:</p>
-<p>Butler University, BA, 1937</p>
-<p>Honors:</p>
-<p>Department of State Superior award for setting up wives' training course at FSI</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Program</p>
+                <p>Foreign Service Spouse Series</p>
+                <p>MARY VANCE TRENT</p>
+                <p>Interviewed by: Jewell Fenzi</p>
+                <p>Initial interview date: November 10, 1988</p>
+                <p>
+                    <hi rend="italics">Q: This is Jewell Fenzi on Thursday, November 10th, 1988. I'm
+                        interviewing Mary Vance Trent for the Foreign Service Spouse Oral History. I
+                        hope to discuss with her this morning the organization of spouse training at
+                        the Foreign Service Institute in 1962 when she was asked to direct the
+                        program. The new program was a departure from the older one which focused on
+                        protocol. This one offered courses in American history, American art,
+                        American literature, etc. to send the spouse abroad more informed about
+                        American culture. May I begin by asking some questions from a list that I
+                        have?</hi>
+                </p>
+                <p>TRENT: Of course. But before you ask them, may I at the outset of our interview
+                    make some comments which I think will describe my thought in setting up the
+                    course and the times in which this was done. I note that you're referring to our
+                    subject as “spouse training,” as it is known today. It is perhaps a sign of the
+                    changes in our society over the past 28 years that the course I set up in 1962
+                    was called “the Wives' course.” I was not a wife, but a career Foreign Service
+                    Officer [FSO] assigned to do this job. At that time the only active career
+                    officers who had spouses were male. A female officer was expected to resign on
+                    marriage, and “tandem couples” had never even been thought of.</p>
+                <p>During my professional career as an FSO I had a unique opportunity to observe the
+                    contribution made by the wives of my colleagues to the prestige and promotion of
+                    the American presence overseas. I knew the support which they gave to our
+                    diplomatic missions, and as a woman, I was keenly aware of their skill, strength
+                    and courage in rearing families and setting up homes in all sorts of unfamiliar
+                    places. By virtue of these duties they had particularly useful opportunities for
+                    association with the people of their host countries.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>When I was given the assignment in 1962 to return to Washington and establish an
+                    officially-funded course for wives of our officers serving at U.S. diplomatic
+                    missions abroad, I saw this as a recognition by the State Department of the
+                    tremendous value of the Foreign Service wives and families and their role in our
+                    relations not only with our traditional diplomatic associates but also with the
+                    new nations of differing cultures and societies that were coming into being in
+                    the post-World War II period. The rapidly evolving scene presented new
+                    challenges to our able Service and to our long-established traditions. To meet
+                    these, the American Foreign Service wife was a valuable asset, a real partner in
+                    the Foreign Service, and I welcomed the unusual assignment to help in
+                    establishing the official means that would prepare her for that great
+                    opportunity and responsibility.</p>
+                <p>
+                    <hi rend="italics">Q: That was a most eloquent introduction...I wanted to take
+                        the journalistic approach—the who, why, what, when and where. So if I might
+                        begin by asking, when did you organize the spouse training program at
+                        FSI?</hi>
+                </p>
+                <p>TRENT: As an FSO I came back from Indonesia, where I had been in the Embassy's
+                    political section, and was ready for another assignment [in 1962]. The request
+                    came from George Morgan, who at that time was the Director of the Foreign
+                    Service Institute. George and his wife, Peggy who was always very close to the
+                    Foreign Service and very supportive, were tremendously helpful to me.</p>
+                <p>
+                    <hi rend="italics">Q: I did interview her before she died.</hi>
+                </p>
+                <p>TRENT: Good. Oh, I'm glad to hear that because she was a lovely person and so
+                    very helpful. George had a vision of what this should be and put it down on
+                    paper to some extent when he first wrote to me about doing this job. I'm not
+                    aware of all of the administrative skillful work that went on behind the scenes
+                    in order to set up this course to provide for it financially and professionally,
+                    and therefore to establish it on a more solid basis than those who had preceded
+                    me had been able to do. They had done a splendid job in so far as they were able
+                    to do so but the Department now for the first time, in '62, was able to
+                    recognize officially the importance of this kind of recognition of the role of
+                    the wife in the Foreign Service establishment overseas.</p>
+                <p>
+                    <hi rend="italics">Q: Why were you selected to set up the program? Did you just
+                        happen to be there and know George Morgan?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>TRENT: I really didn't know George Morgan. I had known Margaret (Peggy); we had
+                    worked together at one point...This [interview] is a tool then, isn't it? ...As
+                    to why [I was selected], I don't quite know. I wasn't aware that such a thing
+                    was even under consideration, but it fitted closely and very astutely, I think,
+                    with my own feeling as I'd seen it from the point of view of a woman Foreign
+                    Service Officer, and of my admiration for the work of the Foreign Service wife
+                    at post. I'd seen this happening in London, in Paris, in Oslo, Prague, and in
+                    Djakarta. That's a wide span of posts, really. And beginning with early post-war
+                    years, and I'd seen these wives performing under some difficult circumstances —
+                    friendly, but austere in Norway, unfriendly and very austere in Czechoslovakia,
+                    somewhat glamorous but also quite demanding in Paris. And in Djakarta — well,
+                    the problems and the challenges, and the joys too, of serving in a Third World
+                    post that was beginning to feel the roots of its recent independence. So over
+                    this wide span of time and of space and of conditions, I'd seen the Foreign
+                    Service wives under the guns so to speak. And in my view they had performed
+                    magnificently.</p>
+                <p>(interference on tape)</p>
+                <p>
+                    <hi rend="italics">Q: We're always looking for other interviewees; narrators is
+                        the word more often used in oral histories.</hi>
+                </p>
+                <p>TRENT: There's a particularly interesting person I would recommend, Fern
+                    Ingersoll. You may know Fern because she's really almost a professional. She and
+                    her husband — or perhaps it was just her husband who was with our AID program in
+                    Thailand some years ago — she has traveled widely; she lectures on some of the
+                    Smithsonian trips. She actually set up our Society of Woman Geographers program
+                    on oral history. She's not been able to stay with it unfortunately because of
+                    other commitments, and what her commitments are now I don't know, but she's a
+                    splendid person and I'd be glad to give you her telephone number when I can get
+                    to it. Of course, Fern is a Foreign Service wife. That might be something to
+                    pursue.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, I jotted her name down so that we can pursue that
+                        later. I don't usually have a list of questions, but in this case I think
+                        just to get on the tape the background about [the spouse training]
+                        program.</hi>
+                </p>
+                <p>TRENT: Yes, I'm straying a bit...</p>
+                <p>
+                    <hi rend="italics">Q: No, that's all right. We always do, eventually we stray,
+                        but I just wanted to get the who, why, what, when and where down first. The
+                        next question is: where was the program held and how often?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>TRENT: The program was organized at the Foreign Service Institute which then, as
+                    now, is over in Rosslyn, in Arlington, Virginia, but certainly in different
+                    quarters from those which it now occupies.</p>
+                <p>
+                    <hi rend="italics">Q: Wasn't there something called Arlington Towers?</hi>
+                </p>
+                <p>TRENT: Yes, I think that's what it was. It was an old red brick building. And
+                    there I was presented with a barren room with sort of worn linoleum on the
+                    floor, one metal table, one old typewriter, a pad of paper and a pencil. And
+                    George [Morgan, then Director of the Foreign Service Institute] said, “Establish
+                    the program.” So we started from that. Well, there was a very dear young
+                    secretary who had no responsibility for helping me at all, but out of the
+                    goodness of her heart she began to give me some assistance, and I needed a
+                    little logistic — quite a lot of logistic assistance. So she gave me some there
+                    at the beginning and eventually we moved into the stage that I did acquire a
+                    secretary. Then I acquired an absolutely splendid assistant, Jeanne Shallow, who
+                    with her husband had been associated with the AID program particularly in
+                    underdeveloped areas such as Afghanistan and Iran — I think those were the two
+                    areas — and she was absolutely splendid.</p>
+                <p>The first thing that I did was to go around and talk to people. I was moved in
+                    this direction by an account which I saw at that time of an interview with Mrs.
+                    Lyndon Johnson who was then the wife of the vice president. Mrs. Johnson and the
+                    vice president had come back from a trip to Turkey, and according to this story
+                    which appeared in the press, she was very much impressed by the assistance which
+                    she received from wives of embassy officials in Ankara, and particularly from a
+                    Foreign Service woman officer. That was a good friend of mine who was fluent in
+                    Turkish and who was particularly helpful to Mrs. Johnson. And Mrs. Johnson took
+                    this occasion in the press to state her admiration for the work of Foreign
+                    Service wives. So this twigged a little thought in me that I would start, almost
+                    at the top — No. 2 anyway — and go talk with Mrs. Johnson about the beginning of
+                    this program. I felt it was important that we should get very high-level backing
+                    for it. If we started down in the lower echelons that would be fine, and we
+                    needed that support, but we also needed a little bit of PR frankly, and also the
+                    staunchness of women whose opinion would be more publicly recognized than
+                    others.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>So I went through the channels and got an appointment with Mrs. Johnson and had a
+                    lovely talk with her. And, of course, she was very supportive and I said, “We're
+                    just starting. I don't know the details of this, but it will be very helpful for
+                    me to know and for those who are working with me to know that we have your
+                    support.” “Oh, yes, indeed, fully.” Then, of course, I went to Mrs. Rusk. I knew
+                    I had the Secretary's support or the program would never have been launched in
+                    the first place. The Secretary was absolutely splendid. He took occasion to talk
+                    several times with the group, with those working with it, and with me. I
+                    remember he said that there's no profession, with the exception of the ministry,
+                    which requires such close cooperation between the husband and wife in giving the
+                    service that the profession called for. Well, he's saying this in 1962. A lot
+                    has changed in our society, but I've often thought of going back to those wise
+                    words of the Secretary, which perhaps seem a little bit dated, but there's
+                    something very fundamental about them. That, of course, increased my own feeling
+                    that we were not only on the right track but we were on an essential track to
+                    award the proper official recognition to the wife that was only her just due for
+                    all that she was doing for the country.</p>
+                <p>So with such backing as this, and other people whom I went to see who were
+                    related to the operation, we were ready to put up a tentative program. We also
+                    felt in the very beginning — I felt we must have the cooperation of the various
+                    departments of the government involved in foreign affairs. Coming out of the
+                    political work myself, and going back into it later, I was aware of the
+                    importance of what we then called the Country Team. And the members of the
+                    Country Team, of course, reflected the various factors at work in the embassies.
+                    So with that in mind I talked with the people at Defense, I talked with people
+                    at Agriculture, and at Justice, and at the various departments — Treasury —
+                    those who were involved in the whole spectrum of our Foreign Service
+                    representation overseas.</p>
+                <p>I remember particularly talking with the Secretary of the Army who, of course,
+                    later became Secretary of State, Mr. Cyrus Vance. In fact we had a little joke
+                    about his name and my middle name, there's no relationship in particular. But
+                    through him we were able to set up a care facility for children of our wives who
+                    were to come to the Course. This sounds utopian as we talk about it 25 years
+                    later but our pitch was, “If we're going [to] train your wives on our budget,
+                    how about you taking care of our children on your budget?” It was rather an
+                    amusing point but Secretary Vance set this up with Army nurses and so there was
+                    a playroom, or a facility made available fairly nearby and it helped us
+                    tremendously in those early days.</p>
+                <p>We launched our first course in November 1962.</p>
+                <p>
+                    <hi rend="italics">Q: I was going to ask you how long did that take from the
+                        time you were presented with your...</hi>
+                </p>
+                <p>TRENT: About six weeks.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: You did all of this in six weeks?</hi>
+                </p>
+                <p>TRENT: Well, we had to get started.</p>
+                <p>
+                    <hi rend="italics">Q: That's extraordinary. I thought you may have taken six
+                        months.</hi>
+                </p>
+                <p>TRENT: I think I came on board in September — well, two months, eight weeks and
+                    here's our first course in November. I found it was the right idea at the right
+                    time, and George Morgan was so supportive of the whole thing. He gave me all the
+                    money that the budget allowed, which was really, I guess, my salary. We eked out
+                    and found wonderful support. One of the great supporters was Mrs. Elspeth
+                    Rostow, whose husband, Walt Rostow of course, was a Kennedy adviser in the White
+                    House. Elspeth Rostow was an outstanding American historian and she helped me. I
+                    had a wonderful afternoon with her, discussing how we could construct the
+                    course. In each one she kicked us off by a survey of American history which we
+                    felt was a very good background for the whole thing.</p>
+                <p>
+                    <hi rend="italics">Q: Is she here in Washington?</hi>
+                </p>
+                <p>TRENT: I really don't know. I've lost her. I think they're down in Austin, but I
+                    haven't seen her for quite some time. But she was a tremendous help on all this.
+                    Another person who was a great help and used to come down from New York for our
+                    courses — she was then Alison Raymond, now Alison Raymond Lanier — who had
+                    worked with women's' organizations in various posts overseas, not in the Foreign
+                    Service but nevertheless quite clued in to organizations. She was very helpful
+                    in our classes, in talking with women about how they could fit into another
+                    culture, into a community in which they would find themselves so they wouldn't
+                    feel too alien.</p>
+                <p>
+                    <hi rend="italics">Q: I'm going to prefix my next question with an experience I
+                        had in one of my interviews when I was talking to Joseph Grew's daughter
+                        Elsie Lyon...</hi>
+                </p>
+                <p>TRENT: Yes, I know her.</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: ...and I mentioned Miss Bassell [Miss Bassell, Assistant
+                        to the Director of the Foreign Service Officer's Training School in the
+                        1930's, was responsible for “grooming” young officers. On a volunteer basis,
+                        she gave advice on protocol to their young wives] and how she, as far as I
+                        can discover, was the first person to give any wives training. At which
+                        point Elsie said, “Well, of course, I didn't need it.” Having grown up in
+                        the Service, she didn't. My next question is: Who determined the need for
+                        this program? Where did it come from? And my next question is: Since Regina
+                        Blake and Marvin Patterson had had their own course... [Regina Blake
+                        directed spouse training at the Foreign Service Institute from 1955-60. (See
+                        Blake transcript in this collection.) Marvin Patterson, after her tour as
+                        spouse of the Ambassador to Uruguay, participated in Mrs. Blake's training
+                        programs. (At this writing, Mrs. Patterson's interview is incomplete.) Mrs.
+                        Blake's course was not conducted with official funds. Therefore, her files
+                        were not kept at the Foreign Service Institute, but were delivered to her
+                        apartment when she left FSI. Mary Vance Trent found no reference to spouse
+                        training in the official files when she began organizing the new courses in
+                        1962].</hi>
+                </p>
+                <p>TRENT: I didn't even know about that course until several years later. I didn't
+                    realize there had been one.</p>
+                <p>
+                    <hi rend="italics">Q: So what they were doing was not recognized by the Foreign
+                        Service Institute?</hi>
+                </p>
+                <p>TRENT: It was not an official thing at all. Now I'm really on rather thin ice
+                    here because I ran into some problems that I was very sorry about. It was quite
+                    ignorant on my part because I hadn't realized just what had been going on.
+                    Nobody had had time to tell me, I guess, and since it wasn't a Department funded
+                    thing, I didn't find any particular records about it, I knew there had been
+                    something along the line of a protocol course. I think that was underselling it.
+                    I think it was more than that. Obviously it was recognized or they couldn't even
+                    have met, I suppose, because I think they did meet at the Foreign Service
+                    Institute. But I guess people weren't assigned to it. I truly...I've never quite
+                    understood just how that course operated, but it did. But it was not operating
+                    when I came aboard. So there was no conflict — at least not on my part — because
+                    I didn't realize it existed. Later on when this was pointed out to me, I sent a
+                    certainly deserved apology to both of those ladies whom I know, particularly
+                    Marvin, a very dear friend of mine. But at that point I had not known her as
+                    well and just didn't know the background. They represented, of course, another
+                    generation of Foreign Service work, and their contribution I'm sure was
+                    splendid. I think we were ready to move into a newer era, and I think we can
+                    sort of leave it at that.</p>
+                <p>
+                    <hi rend="italics">Q: Was George Morgan the one who decided that it was time to
+                        move into another era, or was it just a general point of view in the
+                        Department, or...</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>TRENT: I wish I knew more about this because all that happened obviously prior to
+                    their asking me to do it. But when I got this message from George asking me to
+                    do this, I sat down and worked very hard on a letter to respond to his offer
+                    because it wasn't a real assignment, not a “Thou shalt go,” but rather to
+                    discuss this and see about it. [A copy of the letter has been included with the
+                    transcript.] I outlined what I felt we would need to do. Now, of course, that
+                    developed a lot more over the time as I saw it. I remember saying particularly
+                    that we were now in an era when very few people wore long, white gloves, and in
+                    much of the world nobody used knives and forks. Anyhow the thought was that we
+                    wanted to go beyond hats and gloves and how to put out the silverware. It's
+                    necessary to know, but in most of the world that we were getting into, that was
+                    not relevant. You see the sixties, the early sixties, it was the burgeoning of
+                    all these new nations. We were sending people to Africa — all over Africa —
+                    well, to go down there...I know one young woman just wept in my arms one time
+                    because she said, “I don't have any fish knives.” I smile when you mention the
+                    lady saying quite rightly that she had grown up in the Service and therefore
+                    didn't need training. Our view is totally different and therefore we had
+                    Ambassador's wives who came to the course. We worked in a way of using, of
+                    course, their expertise and background. We had several who couldn't have been
+                    finer about saying this was what they needed. They wanted to know before going
+                    out to X post because they'd been overseas for a long time, “What's going on in
+                    American life?” So the whole first week of the course was devoted to that —
+                    clearly just a broad brush treatment — but it was enough to spark and so as I
+                    used to say to them, “This is only giving you the tiny little hook on which you
+                    can hang further reading, further thought, but it will give you an insight into
+                    contemporary American life which is part of what we're to represent when we're
+                    overseas.”</p>
+                <p>Then the second week was devoted to how do you fit into someone else's community.
+                    And, of course, by that time we were realizing that you didn't do it just by
+                    giving state dinners, and that the world was a lot bigger than Europe, or even
+                    the bigger posts in other spots. But most, you see, had been so Europe oriented
+                    and so had I until I went out to Indonesia. Then this whole great big other
+                    world, into which the United States was propelled by the course of history and
+                    the course of events, was challenging us. We were sending out people in these
+                    new AID programs, we were sending out vast military establishments. Of course,
+                    with the military we were working only with the defense attaches and that sort
+                    of group and their wives. But this was a whole new period, and I feel that
+                    training came at the moment it was needed. And when you're asking the key
+                    questions of just who, or where was the real inspiration for this, I can't
+                    quite...obviously George Morgan went with it, but I think everybody
+                    developed...</p>
+                <p>
+                    <hi rend="italics">Q: So when you developed the course in '62, everyone just
+                        came as a wife?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>TRENT: That's right. And this is something that we very much stressed — your
+                    husbands are going to be part of the Country Team [the principal officers] at
+                    whatever post it is, so are you really, and here's how you can play your part.
+                    We had some splendid help from Ambassadors' wives, some of whom actually
+                    enrolled in the course, some of whom came in and talked with us. Marvin
+                    Patterson came one day and talked also because her experience represents one
+                    facet of the traditional Foreign Service. What we were trying to do, I think,
+                    was just to broaden it in what we felt was to be in tune with the times, the
+                    changing world.</p>
+                <p>
+                    <hi rend="italics">Q: In 1962 June Byrne must have been president of AAFSW [June
+                        Byrne (Spencer) served as president of the Association of American Foreign
+                        Service Women (AAFSW) from 1960-62; Peggy Beam succeeded her]. Did you work
+                        with her at all or had she gone? — I don't know who followed her.</hi>
+                </p>
+                <p>TRENT: Perhaps it was Peggy Beam, whom I've known for quite a long time. Peggy
+                    was very helpful, she had had broad European experience, and she's very
+                    broad-minded about the Foreign Service. As an Ambassador's wife she can hold up
+                    any formal, elaborate end of things, but she also is very broad in her
+                    thinking.</p>
+                <p>
+                    <hi rend="italics">Q: June Byrne did not start AAFSW in its present — I would
+                        say ombudsman role — until 1960. So she must have just — I don't know if she
+                        was president for two years — perhaps she only served two years, and perhaps
+                        Peggy had just come on board when you were setting this up.</hi>
+                </p>
+                <p>TRENT: Probably, yes. Well, she certainly was very, very helpful. It was
+                    interesting as it developed. As I say, it was so jerrybuilt, starting it with
+                    some definite ideas, but how to develop them, and how to find the people who
+                    would speak. But just casting around my friends and connections which I
+                    fortunately had in Washington, I could find out who was really an authority on
+                    this and that. And people were absolutely delighted to come. For example, we had
+                    Justice Potter Stewart from the Supreme Court. When invited to speak, he said,
+                    “I'd love to.” I had an airplane trip one time and found myself seated next to
+                    Senator Hubert Humphrey, then Chairman of the Foreign Relations Committee. I was
+                    on my way out to talk with the management of the Ford Motor Company in Dearborn
+                    because they were establishing overseas plants — I think something down in
+                    Mexico, and they wanted to see about helping their wives understand what it
+                    would mean to live abroad. So they got in touch with the State Department and
+                    the State Department sent me out to talk with Ford. It was a fascinating
+                    time.</p>
+                <p>
+                    <hi rend="italics">Q: This was after you were doing the course.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>TRENT: Yes, after I'd set it up. So Ford brought me out and I found myself
+                    traveling first class at Ford's expense, and also traveling first class was
+                    Senator Humphrey. I was seated next to the window, I guess, and the Senator got
+                    on and looked around, and sat down beside me.</p>
+                <p>But then I could see, quite understandably, he pulled out some work so he wanted
+                    to be sure he didn't get involved in some dumb conversation. But along came
+                    lunch and he decided in his nice jovial way that we'd have a chat, so we did,
+                    and got into what I was doing. I wanted to plug this as much as possible, and he
+                    was absolutely fascinated. And I said, “Senator, would you come and present the
+                    awards? We give awards to each wife who has completed the two-week course. We
+                    developed that system and if you could come and present these awards...” “I'd be
+                    delighted,” said the Senator, “Just call my office.” Well as you can see from
+                    the picture, he was as good as his word.</p>
+                <p>So in each one of these awards ceremonies we had a top representative relating to
+                    some aspect of American representation abroad. One person who gave out diplomas
+                    was the singer, Marian Anderson, which we thought added a splendid note.</p>
+                <p>
+                    <hi rend="italics">Q: What path led you to her?</hi>
+                </p>
+                <p>TRENT: Well, through some connections I've had with cultural things and music in
+                    the city. I found this so easy. This was a very appealing thing. So it isn't as
+                    if I ever had to argue very much. It was a very flattering thing for them to be
+                    asked. I said, “Here are these women, thirty of them, going out all over the
+                    world representing our country, and we want them to be as full as possible of
+                    what this country is, what it represents, so they can represent it.” And you
+                    know that's really very appealing.</p>
+                <p>
+                    <hi rend="italics">Q: That's all you needed.</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>TRENT: They were really top people in their line. And that first one...I didn't
+                    know what we were going to do, I'd never thought of giving little certificates.
+                    It sounded a little juvenile, but when I saw this enormous interest and the
+                    gratitude of the people doing this, I thought they've got to have something that
+                    shows they've been through this. So the day before — on Thursday of the second
+                    week — suddenly I thought, “I believe I'll try it with Mrs. Lyndon Johnson.” So
+                    I called Liz Carpenter, who was her secretary or press person, and I said, “I
+                    know you'll think my head has come loose to ask what I'm going to ask but I want
+                    to ask it.” And I said, “Would there be a chance that Mrs. Johnson could come
+                    anytime tomorrow and give out the certificates to the women who have completed
+                    this course?” She said, “Well...” She had a luncheon at 1:00 or something, and I
+                    said, “We'll adapt to anytime, day or night, if she can come.” She said, “She
+                    can come before lunch.” So I said we'll have the security...of course, George
+                    Morgan knew I was calling about this, so we had the security and everything but
+                    I didn't say a word to anybody in the class. I just told them that we were going
+                    to have a little graduation ceremony. So there we sat in this little classroom
+                    over in this scrubby old building and in walked the wife of the vice president
+                    of the United States. She made a very well chosen brief remark and presented
+                    these certificates. It was a really good start. After that you could just coast
+                    — couldn't coast, no, that's wrong. It had a good start on the way.</p>
+                <p>
+                    <hi rend="italics">Q: I have just a lot of praise and comments about this but
+                        I'm saving them because I want to go on with...</hi>
+                </p>
+                <p>TRENT: One of the rewards has been traveling around the world as I have on other
+                    Foreign Service assignments and finding here and there in the odd corners of the
+                    world a wife who was an alumna.</p>
+                <p>
+                    <hi rend="italics">Q: What was the new program called?</hi>
+                </p>
+                <p>TRENT: Overseas Assignment.</p>
+                <p>
+                    <hi rend="italics">Q: Overseas Assignment, and that was the title of it, and it
+                        consisted of...well, I'll know that when I look at the course schedule
+                        but...</hi>
+                </p>
+                <p>TRENT: And you'll see the Foreign Service Journal article, or the State
+                    Department Bulletin article, rather outlines...</p>
+                <p>
+                    <hi rend="italics">Q: Let's put it on the tape anyway because that way it will
+                        get transcribed into the written transcript.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>TRENT: What's the best way of doing this?</p>
+                <p>
+                    <hi rend="italics">Q: Maybe it's going to take too long. We'll just include
+                        Xeroxes with your transcript.</hi>
+                </p>
+                <p>TRENT: This was after the first year. “The enthusiasm for the course has been
+                    contagious as the attendance figures show. A year end review of the course,
+                    published by the Foreign Service Institute, revealed the significant though not
+                    secret fact that the American wife is almost touchingly grateful for proof that
+                    the government considers that she can think too. As one of the class members,
+                    who had been living the life of suburbia but was getting ready for South America
+                    said, “Now I have something to talk to my neighbors about instead of talking
+                    about my neighbors.”</p>
+                <p>
+                    <hi rend="italics">Q: Very nice.</hi>
+                </p>
+                <p>TRENT: The report also observed: “After noting the development of the course
+                    through the year, that the wives, especially those entering the Foreign Service
+                    for the first time had, not surprisingly, certain concerns which proved rather
+                    characteristic. These appeared at first as somewhat vague and shadowy
+                    apprehensions about health, housekeeping and strictly social problems. But with
+                    the unfoldment of each course, these generally assumed factors became much less
+                    troublesome as the attention and active interest of the participants turned
+                    towards such fundamental matters as, 'How can I do my part to represent the
+                    United States abroad? How can I get to know the people of X country? How can I
+                    be useful to our policies there?'</p>
+                <p>
+                    <hi rend="italics">Q: Really this was an elevation of the spouse.</hi>
+                </p>
+                <p>TRENT: Exactly, I recall one young wife remarking, “Now I have something to think
+                    about while I'm ironing.” I think really their own responses were the most
+                    rewarding thing, and the fact that the course had just grown. The time was right
+                    and it was needed. And I think the seeds that the good people all along the way
+                    had planted were ready to sprout into a slightly bigger plant than they had
+                    foreseen. I had the good fortune of coming along, I think, at the right moment
+                    to roll it along. I have every feeling that successes have continued just
+                    beautifully.</p>
+                <p>
+                    <hi rend="italics">Q: My next question was: how did it differ from the previous
+                        training? I think we've covered that, and the mechanics of setting up the
+                        program. We really have covered that too. I think its astonishing that you
+                        did all of this in six weeks.</hi>
+                </p>
+                <p>TRENT: Let's make it eight; that's a little more accurate.</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: But even eight weeks is very impressive to find all the
+                        people...</hi>
+                </p>
+                <p>TRENT: It was a busy fall.</p>
+                <p>
+                    <hi rend="italics">Q: To direct those courses...how were the courses selected
+                        and organized? That is a question that we haven't really touched on
+                        yet.</hi>
+                </p>
+                <p>TRENT: I suppose one element that was interesting was my own experience as a
+                    political officer in Indonesia — where I'd been immediately before — working
+                    with Indonesian students who were coming to this country.</p>
+                <p>So putting that in reverse, I felt it gave some indication as to what we needed
+                    to prepare our wives for. Not just in my own thought, but also I talked with a
+                    lot of Foreign Service friends, as well as people in various avenues of
+                    professional activity in this country. What were some basics about this country
+                    that we needed to know? We needed to get some historical survey, we needed to
+                    get something of what's going on in the field generally of arts, literature,
+                    culture, and that would be varied. I think we always had something on
+                    contemporary American literature, but usually then we had something on music and
+                    art, something of that kind and those were sometimes varied. Then we needed to
+                    see our own social development in this country. If you think what the 60s were
+                    in this country, it was a very volatile time. That was something not to sweep
+                    under the rug but to look at it. So we had some of that kind of social and
+                    economic changes, world economy and where did the United States fit into it, as
+                    you will see from the course names given in the actual program — one, for
+                    instance, “Social Problems in the United States and their International
+                    Significance.”</p>
+                <p>
+                    <hi rend="italics">Q: Who were some of the people you got to come in and speak
+                        at those early courses?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>TRENT: There's one person who always did a survey of American historical
+                    backgrounds, and that was Dr. Myron Koenig who was the deputy director of FSI
+                    under George Morgan. He had been a professor of history at George Washington, I
+                    think. Then Elspeth Rostow was a steady. Alison Lanier from New York, and also
+                    Mrs. Grace Barbey, who had worked widely all over the world with UNICEF. So that
+                    was sort of the United Nations at work in various parts of the world,
+                    particularly, of course, the developing world. A professor from American
+                    University on American literature — I'm sorry, I'd have to review her name
+                    because I don't have it right in my head. We had a journalist every once in a
+                    while. I know we had Roscoe Drummond from the New York Herald Tribune speaking
+                    on contemporary political matters. We drew people from the Department also:
+                    Ambassador Palmer — Joseph Palmer — who was Director General of the Foreign
+                    Service then. We usually had someone of that kind. Assistant to the Attorney
+                    General on civil rights. Deputy Assistant Secretary for International Affairs in
+                    the Department of Health, Education and Welfare. Katie Louchheim on community
+                    services.</p>
+                <p>Then we had area study groups: Western Europe, Latin America, Near East and North
+                    Africa, Africa south of the Sahara, south Asia and east Asia. So at that point
+                    we often divided into groups the area to which wives were going and pulled in
+                    Department specialists from the desks in those areas. We also had some extra
+                    afternoon courses — optional — to which people could come if they wished. We
+                    weren't able to do as much of that as they do now, which I think is a good
+                    development because there are a lot better facilities for it. We found that
+                    wives gave as much time as they could and we always gave them a good reading
+                    list — a general reading list and then something geared to their area, if indeed
+                    they'd already been assigned.</p>
+                <p>I'm just trying to remember some of the people who came to give our diplomas at
+                    the end of it. Mrs. Rusk, of course, came several times. Mrs. Johnson, Marian
+                    Anderson, Justice Stewart, Senator Humphrey. We also had Senator Fulbright,
+                    whether he gave the diplomas or whether he just addressed us, I'm not quite
+                    certain. We tried to tie in with the Hill because we felt it was very important
+                    too that Congress should know who we are, acknowledging the vital contribution
+                    of Foreign Service wives.</p>
+                <p>
+                    <hi rend="italics">Q: Absolutely, absolutely, yes.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>TRENT: It was a fascinating thing for a Foreign Service officer, too, to be
+                    working on this because I had to get out all over Washington, you know, to
+                    find...know these people, who they were and present the cause of the Foreign
+                    Service, and specifically the Foreign Service wives. And I found a warm welcome.
+                    It was easy but it was a physical marathon to get around and do it and run the
+                    course. You had to be there at FSI and get the things set up. I had wonderful
+                    cooperation from the FSI staff because they were all sort of realizing that we
+                    were doing this on the slimmest of shoe strings and we wanted to make a go of
+                    it. We did a lot of map work and we always had maps around so everybody could
+                    see where everybody else was going. Of course, some of the best times were the
+                    little coffee breaks where people got acquainted, and where the wife of the
+                    Ambassador, or the No. 2, I mean a ranking wife, realized that also coming to
+                    the post was this young, sort of scared, wife of a FSO-8 as they were known at
+                    that particular point. That was an informal way of seeing how an embassy family
+                    can grow.</p>
+                <p>
+                    <hi rend="italics">Q: I have one tape in which a wife says that as a senior wife
+                        in Katie Louchheim's time that she was pressured unmercifully to produce
+                        volunteer work at her post for her staff. Did Katie Louchheim ever transmit
+                        that feeling to you when she was involved in the course? I've always
+                        wondered where that came from.</hi>
+                </p>
+                <p>TRENT: I think that probably came out of Katie's zeal. I mean I know Katie and
+                    knew her and that's again why it was easy to ask her to come, and she was very
+                    supportive. But it was really something a bit outside of Katie's realm. She was
+                    so geared to the domestic scene here — the domestic-political scene. I'm not
+                    aware of that tape. I don't question the tape as you describe it; I wasn't aware
+                    of that, but I'm not terribly surprised. Katie was very zealous, very
+                    energetic.</p>
+                <p>
+                    <hi rend="italics">Q: What exactly was her title at this point?</hi>
+                </p>
+                <p>TRENT: I think she was Assistant Secretary for Public Affairs.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, that would explain it then.</hi>
+                </p>
+                <p>TRENT: I think it's right here so let me get it...She was Deputy Assistant
+                    Secretary for Community Advisory Services.</p>
+                <p>
+                    <hi rend="italics">Q: That explains it, too.</hi>
+                </p>
+                <p>TRENT: So I think she felt she must produce. Everybody feels that, of course, and
+                    that perhaps not realizing how enormously difficult it is in some posts, some
+                    family situations, that perhaps a directive went out that was a bit...</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>
+                    <hi rend="italics">Q: So those went out from her office but were not transmitted
+                        to the wives through your course?</hi>
+                </p>
+                <p>TRENT: Certainly not. In fact, I wasn't even aware of it at all. Perhaps they
+                    came...well, I just don't know because I didn't know about them, but I can
+                    imagine that perhaps in her goodhearted zeal that these came through pretty
+                    vigorously, shall we say. But no, we always tried to say that you have to look
+                    at your own situation, your own needs, your own capacity, and what you can do in
+                    that situation that you're going to face. This is why we were very happy about
+                    having some Ambassador's wives, and ranking wives attend the course. And we felt
+                    that we were talking to a group, many of whom were going to be ranking wives as
+                    they come along, and by now they are, 20 years later. That's why we felt it was
+                    important to get that point across, that you have your family, you have your
+                    personal responsibilities — of course it has become old hat by now to accept
+                    this — but it was a little bit more unusual then. We were perfectly aware that
+                    some Ambassador's wives were quite demanding. I had fortunately not experienced
+                    it too much because as a Foreign Service officer myself I didn't fall in the
+                    category. I was subject to the Ambassador, not to the Ambassador's wife.</p>
+                <p>
+                    <hi rend="italics">Q: How did you deal with that? Dorothy Stansbury's obituary
+                        was really a terrible put-down. “She returned to the Department in 1968 and
+                        was for several years chairman of the FSI's wives seminar where she helped
+                        allay the fears of neophyte Foreign Service wives.” Now that was in her
+                        obituary in the DACOR bulletin, and I mentioned that to someone who then
+                        said that part of Dorothy Stansbury's course had been to teach young wives
+                        how to deal with the dragon ladies. I find that hard to believe. Maybe that
+                        was someone's interpretation of it. You didn't ever have any official course
+                        to that effect.</hi>
+                </p>
+                <p>TRENT: Of course not. I can't imagine that's...I hope the course did have that
+                    effect of letting people know what some of the fundamentals were...why you're
+                    there, etc., but there was never anything that came up along that line.</p>
+                <p>
+                    <hi rend="italics">Q: I couldn't believe that. It had to be someone's
+                        misinterpretation.</hi>
+                </p>
+                <p>TRENT: I say I have not been a victim nor a witness of anything like this myself,
+                    but by remote report I know that there have been, at least in the past, I think
+                    ill-advised, dictatorial and authoritarian regimes under which Ambassador's
+                    wives have been very firm in their requests or demands on wives. But, as I say,
+                    I think hopefully that gets taken care of by the courses and by changing times.
+                    Now we had also some women whose husbands were political appointees and who came
+                    because they wanted to learn. Those that came, of course, were almost
+                    pathetically eager to come. Those that felt they knew it all didn't bother to
+                    come.</p>
+                <p>
+                    <pb facs="0017" n="Page0017"/>
+                    <hi rend="italics">Q: What a shame.</hi>
+                </p>
+                <p>TRENT: They had a lot to learn but coming was optional. We always had waiting
+                    lists and we couldn't take more than thirty people. I think that's the optimum
+                    for doing a group thing of this kind. And we couldn't get any more people in the
+                    room so that was really it.</p>
+                <p>
+                    <hi rend="italics">Q: Then how often did you have the course?</hi>
+                </p>
+                <p>TRENT: Once a month. We had two weeks of intense doing it and two weeks planning
+                    the next one. I'll tell you it was really...</p>
+                <p>
+                    <hi rend="italics">Q: And how long did you do that, for several years?</hi>
+                </p>
+                <p>TRENT: Two years.</p>
+                <p>
+                    <hi rend="italics">Q: The fish forks are a symbol...</hi>
+                </p>
+                <p>TRENT: Yes, absolutely. They are and I think as I pointed out in the letter when
+                    I outlined to George Morgan what I was interested in doing, I said, “I'm not
+                    interested in doing a strictly protocol course because it isn't for me to do.
+                    I'm in favor of good manners but I've had a view of another part of the world
+                    where I think this is not as appropriate as...I just didn't want to do that. I
+                    said, “Nobody wears hats and nobody wears gloves and it's another part of the
+                    world. If you live in the part of the world that does, you can do so.” But the
+                    fish fork symbol has frightened people and I think has restricted the Foreign
+                    Service to a certain extent, and I'm sure has damaged, or impaired, or limited
+                    its public image...well, it's most unfortunate. And you'll notice that Secretary
+                    Shultz even two days ago, speaking to the Foreign Service, had to say, “Its not
+                    striped pants,” and then he said, “...or striped skirts.” So the stuffy image
+                    hangs around. I'm glad the Foreign Service has an aura, that's just fine, but
+                    the aura must have a connection with reality. The ambassadors that I've served
+                    with have been willing and able to keep that touch and to realize that although
+                    they are people who know and practice what is considered good manners in western
+                    culture, they're willing to broaden their horizons.</p>
+                <p>
+                    <hi rend="italics">Q: Would you agree with me then that the expansion in spouse
+                        training really stems from the Department's awareness that the Wristonee
+                        women were newcomers and never expected to be in this game anyway and
+                        training needed to be changed or adapted to their needs.</hi>
+                </p>
+                <p>TRENT: That is quite likely.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>
+                    <hi rend="italics">Q: What Marvin Patterson and Regina Blake set up must have
+                        grown out of that.</hi>
+                </p>
+                <p>TRENT: It probably did.</p>
+                <p>
+                    <hi rend="italics">Q: Their perception that there was a need for the protocol
+                        training.</hi>
+                </p>
+                <p>TRENT: That's very likely true. I guess what must have happened to me is that,
+                    having been so absorbed in my own political work out there in Indonesia and
+                    having my sights geared otherwise, I wasn't aware when I came back to set up
+                    this program of a sort of “Wriston” background, and it seems strange in
+                    hindsight. Now I'd been in the Department when the Wriston program was
+                    instituted and had known some of the chaos that that created, but somehow I
+                    think I was so imbued with the idea of bringing Foreign Service people all
+                    together, and feeling that whoever we are we're being assigned to go to work and
+                    represent our country abroad. So wherever you come from, cupcake Iowa as
+                    somebody says, or the ivy halls of New England, or the elegance of the San
+                    Francisco penthouse, this is America and let's pull it all together. And we have
+                    no time, in whatever post we're working overseas, to have our little social
+                    divisions.</p>
+                <p>
+                    <hi rend="italics">Q: Is that what the Foreign Service Act of 1946 really sort
+                        of set out to do, was to recognize that we needed representation from all of
+                        America?</hi>
+                </p>
+                <p>TRENT: '46?</p>
+                <p>
+                    <hi rend="italics">Q: Yes, or is that too early?</hi>
+                </p>
+                <p>TRENT: I think that's too early.</p>
+                <p>
+                    <hi rend="italics">Q: I have to research that Act because...</hi>
+                </p>
+                <p>TRENT: I would too, to say anything authoritative about it. The funny thing, and
+                    this is my own deficiency, and it becomes more and more evident to me as I talk
+                    to you, somehow when you're in it you're working so hard day-by-day and getting
+                    out this job and that job and taking care of the facts of life when you're
+                    living in another place, particularly when you're a single person and you're
+                    doing it all, that you really don't get back into this legal background so much.
+                    One should but I just realized that I haven't particularly. Of course, I took
+                    the Foreign Service exam in 1945, when they first gave it at the end of the war,
+                    then came on in at that early period.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>
+                    <hi rend="italics">Q: Were women officers began at that time or...</hi>
+                </p>
+                <p>TRENT: Actually there had been...</p>
+                <p>
+                    <hi rend="italics">Q: Frances Willis...</hi>
+                </p>
+                <p>TRENT: Frances Willis, of course, is the famous one and Constance Harvey, and as
+                    far as I know Constance Harvey is still with us. Frances Willis has passed away.
+                    They were two very fine women who were in before the war and I think there was
+                    somebody else too who I'm sure would be gone by now. I think she had been in the
+                    Consular service in Holland maybe — Amsterdam, Rotterdam — and then sort of
+                    graduated into becoming an FSO without too much of a fanfare. I really don't
+                    know quite what was the background on Frances Willis and Constance Harvey, but I
+                    know...I think it's right...there were three of us came in in '45-'46.</p>
+                <p>
+                    <hi rend="italics">Q: You and...</hi>
+                </p>
+                <p>TRENT: I think it was Margaret Tibbetts and Helen Nickel. I think that's right,
+                    but I was already overseas because I'd been sent over as part of our delegation
+                    — just attached to it — our delegation to the first session of the UN in London.
+                    So I took the orals in Paris and stayed on in Europe. And again, as I say, there
+                    was so much day-by-day to do that at that point I wasn't just awfully concerned
+                    about how the Foreign Service was set up. It seems ridiculous looking back on it
+                    but I don't really know the provisions.</p>
+                <p>
+                    <hi rend="italics">Q: I'll ask Dr. Slany [the Department of State Historian]. So
+                        the Wristonization [integration of the Civil Service and the Foreign
+                        Service] is where the real expansion came, because I believe at that time
+                        all the civil service people were brought in. Now you have just said that
+                        that was a good thing, and that we needed it, and yet you did say that the
+                        Wristonization was a disaster for the Service. How do you justify those
+                        two?</hi>
+                </p>
+                <p>TRENT: Yes, I'll pull that together.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, would you.</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>TRENT: Yes, because they do seem quite contradictory. I think the unfortunate
+                    part about it was to force into the Service those who didn't particularly want
+                    to come. It also made the whole thing a rather formless amorphous mass for a
+                    while. I believe...now perhaps that was the only way to kind of jar the Foreign
+                    Service — the almost atrophied Foreign Service — into this new world.</p>
+                <p>
+                    <hi rend="italics">Q: I have heard this before.</hi>
+                </p>
+                <p>TRENT: But I think that there was an attitude: it was a psychological, a mental
+                    attitude about it that I think was the hardest thing. That it brought a
+                    divisiveness that took a long time to heal.</p>
+                <p>
+                    <hi rend="italics">Q: Among the officers themselves, or officers and wives?</hi>
+                </p>
+                <p>TRENT: As I say I was never...</p>
+                <p>
+                    <hi rend="italics">Q: You really weren't spouse conscious at that point.</hi>
+                </p>
+                <p>TRENT: No, I really wasn't. I was certainly spouse conscious enough to begin
+                    realizing something, anyhow, of what it took, the wonderful work that women were
+                    doing rearing their children and coping with God knows what in their family and
+                    personal situations in X countries, and more and more so-called outpost
+                    countries as the 60's developed. But the actual inter-wife relationships I was
+                    just not into that.</p>
+                <p>
+                    <hi rend="italics">Q: At the same time that there was Wristonization there had
+                        been McCarthyism [Anti-Communist fervor institutionalized by Senator Joseph
+                        McCarthy (R., Wisconsin) in the 1950s] and that must have been a time of
+                        absolute turmoil in Foggy Bottom [the section of Washington where the
+                        Department of State is located].</hi>
+                </p>
+                <p>TRENT: It was both turmoil and paralysis. Those are two contradictory points too.
+                    But you know that's what it was and it was deeply disturbing. At the State
+                    Department you found yourself wondering who was following you down the hall.
+                    That is symbolic of the fear and the tension. That's perfectly true, and I know
+                    of people who resigned rather than continue to face the music. The whole
+                    tawdriness of the thing, the low caliber of the attacks...</p>
+                <p>
+                    <hi rend="italics">Q: Like the election that we just...or worse than that. On
+                        that level...</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>TRENT: Oh, no, I think more damaging than that. For instance, I was in Paris when
+                    the Cohn [Senator McCarthy's infamous assistant] &amp; Schine team came through
+                    and it was absolutely fantastic to see people, ranking, experienced Foreign
+                    Service people — far outranking me — just being...well, frantic to get
+                    everything all in ship shape for these two absolute...</p>
+                <p>
+                    <hi rend="italics">Q: Rogues? No that's too nice a name for them.</hi>
+                </p>
+                <p>TRENT: It was just intimidation at a mesmeric level. So those were years that
+                    were very, very difficult for the Foreign Service. Speaking of viruses, that was
+                    a virus in the Foreign Service computer at that point.</p>
+                <p>
+                    <hi rend="italics">Q: That's a very apt comparison.</hi>
+                </p>
+                <p>TRENT: Because it spread. And when you begin to feel suspicious about a fellow
+                    worker or somebody and you begin to think there are termites at work in your
+                    profession, and your institution to which you are giving your professional life
+                    is being undermined, that is very unnerving and it's dreadful for morale.</p>
+                <p>
+                    <hi rend="italics">Q: As you say you really didn't know who was looking over
+                        your shoulder, or reading...or then reporting back to Senator McCarthy. So
+                        there were moles in the State Department, or were they perceived?</hi>
+                </p>
+                <p>TRENT: Well you just never knew where he had plants. And, of course, he had the
+                    Congress so buffaloed that if anybody wanted to be appointed to whatever, it was
+                    where does McCarthy stand, who's McCarthy's man? As with all those things,
+                    looking back it's impossible to think how such a thing could have arisen.</p>
+                <p>
+                    <hi rend="italics">Q: That's exactly what several other people have said about
+                        it: “How could that have happened?” We missed all of that because my husband
+                        just waited all of that out because they weren't appointing anyone and
+                        finally he was appointed in 1956. But I think he took the exam in 1952.</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>TRENT: Well, nothing was happening. Those were the years. And it was a nadir
+                    experience for the Foreign Service. The slurs, the raised eyebrows that was so
+                    devastating. I remember an English friend of mine who was in Washington at that
+                    point for the BBC and he invited me to have dinner with him one night to go to
+                    the ADA, the Americans for Democratic Action dinner, and he said, “Do you dare
+                    to go?” I was absolutely astounded by the question, and I said, “Of course I'll
+                    go. I'd be delighted to go with you.” And he said, “Well I didn't know how the
+                    State Department people were feeling about an officer going to something like
+                    that.” And I said, “I'd be proud to go with you.” So we were talking about the
+                    McCarthy situation and he said, “Well, I have faith in the sober second judgment
+                    of the American people.” Happily the faith was justified but it took a long
+                    time.</p>
+                <p>
+                    <hi rend="italics">Q: When was Joseph McCarthy finally censored?</hi>
+                </p>
+                <p>TRENT: I can't answer that, really I don't know.</p>
+                <p>
+                    <hi rend="italics">Q: I just was interested that you were in the Department
+                        during the McCarthy years.</hi>
+                </p>
+                <p>TRENT: Oh, it was a period...nobody knew when an assignment might come up, or
+                    whether you'd get one, or whether you should stay in the Service, or whether the
+                    Service was going to such a bad extent that...and the Service wasn't in the
+                    position of calling for good new people to come in.</p>
+                <p>
+                    <hi rend="italics">Q: And all this was taking place during Wristonization,
+                        right?</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>TRENT: A combination of things that was a real test for the Foreign Service. I'm
+                    thinking about before I went to...along about 1956 during a Department
+                    assignment, I was asked to do a trip to all of the big women's colleges to talk
+                    about the Foreign Service. It was called a recruitment trip, and I said that I
+                    would be delighted to go and talk about the Foreign Service as I feel it's a
+                    rewarding thing to do, etc., but I don't want to be expected to come back with a
+                    certain number of recruits. I hoped that would happen but I would be talking
+                    with undergraduates and people who have to lead some of their lives before
+                    they're ready to get into the Foreign Service anyway. But I thought the women in
+                    these colleges are women in general who are likely to be community leaders
+                    wherever they're going to live afterwards. They may never have anything to do
+                    directly with the Foreign Service but they should know something about it. So I
+                    said if it's a purely educational project, I'd be delighted to do it. Well, it
+                    was a fascinating thing. So I went to the Seven Sisters and the big eastern
+                    colleges; Radcliffe, which was then more separate from Harvard than it is now;
+                    Barnard; Wellesley; Bryn Mawr; Smith; Mt. Holyoke. Then I remember there were
+                    two or three in the south that I went to; Randolph Macon was one. But those were
+                    very interesting trips and I found that the young women, and the faculty, were
+                    tremendously interested. We had usually a formal presentation and then what was
+                    most fun was when they'd come around and we'd sit in front of the fire, or
+                    something, and just talk with these young women. “What were they going to do
+                    with their lives?” And what was it like? What was it like to be in the Foreign
+                    Service? What was an embassy? And all that.</p>
+                <p>It was a very, very interesting opportunity for the Foreign Service to get a
+                    glimpse of what was going on in top education here, and also for them to see
+                    something about the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: What year that was?</hi>
+                </p>
+                <p>TRENT: I think it must have been 1956.</p>
+                <p>
+                    <hi rend="italics">Q: That's just when my husband came in.</hi>
+                </p>
+                <p>TRENT: Was it? Well, although I didn't know it at the time, the experience helped
+                    to develop what was going to be the program for the Foreign Service wives
+                    because it gave me an opportunity to be in touch with the American community,
+                    one influential aspect of it, and also I'd had a previous assignment here so
+                    that helped.</p>
+                <p>
+                    <hi rend="italics">Q: We've talked a long time...and we've covered all of my
+                        points. One more thing I can ask you about...well, Mary Lathram and Dorothy
+                        Stansbury followed you and, of course, Dorothy's no longer with us.</hi>
+                </p>
+                <p>Then Joan Wilson came next and I think she's still here in Washington.</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>TRENT: Oh, definitely, she is.</p>
+                <p>
+                    <hi rend="italics">Q: And then Fanchon Silberstein?</hi>
+                </p>
+                <p>TRENT: As far as I know. They're very fine people and have done great things for
+                    the course and for the wives.</p>
+                <p>
+                    <hi rend="italics">Q: And Jean German. I'm not sure that I will be able to
+                        interview all of them. [Jeanne Shallow, Mary Lathram, Dorothy Stansbury,
+                        Joan Wilson, Fanchon Silberstein and Jean German also directed spouse
+                        training at the Foreign Service Institute</hi>
+                </p>
+                <p>Jeanne Shallow1964, briefly until transferred</p>
+                <p>Mary Lathram1964-68</p>
+                <p>Dorothy Stansbury1968-75</p>
+                <p>Joan Wilson1975-80</p>
+                <p>Fanchon Silberstein1980-85</p>
+                <p>Jean German1985-88</p>
+                <p>Lee Lacy1988- All of the above were either FS officers or spouses except Lee
+                    Lacy, the current director (1990). Ms. Lacy is in the Civil rather than the
+                    Foreign Service.]</p>
+                <p>***</p>
+                <p>BIOGRAPHIC DATA</p>
+                <p>Date entered Service: 1944, FSO in 1947Left Service: 1977</p>
+                <p>Status: Retired FSO</p>
+                <p>Posts: 1944-45Washington, DC 1846London, England/Paris, France 1947Oslo, Norway
+                    1949Prague, Czechoslovakia 1950Paris, France <pb facs="0025" n="Page0025"/>
+                    1952Washington, DC 1956Djakarta, Indonesia 1962Washington, DC 1964Djakarta,
+                    Indonesia 1968Washington, DC 1969Wellington, New Zealand 1972Washington, DC
+                    1972Saipan 1974Washington, DC</p>
+                <p>Date and place of birth: Wisconsin, November 20, 1914</p>
+                <p>Parents:</p>
+                <p>Ray S. Trent, Mary Vance (Moore) Trent</p>
+                <p>Schools:</p>
+                <p>Butler University, BA, 1937</p>
+                <p>Honors:</p>
+                <p>Department of State Superior award for setting up wives' training course at
+                    FSI</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

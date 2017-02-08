@@ -1,476 +1,950 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000022">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Hugh G. Appling </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Hugh G. Appling </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>HUGH G. APPLING</p>
-<p>Interviewed by: Charles Stuart Kennedy </p>
-<p>Initial interview date: January 26, 1990</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Could you give us a little background about yourself, where you came from, your education, and where you grew up.</hi>
-</p>
-<p>APPLING:  I was born and raised in the central valley of California, in a farming community.  My undergraduate work was in biology at the University of California, Berkeley, worked briefly for a bank, went into the army with every body else, got out in 1945, went to Stanford for graduate studies in political science to study under Graham Stuart about the foreign service and the practice of diplomacy.</p>
-<p>
-<hi rend="italics">Q:  Graham Stuart was the only person to write about diplomacy in practical terms.</hi>
-</p>
-<p>APPLING:  I think you're almost right, although Father Walsh also taught in those terms.  I took the foreign service exams and entered the service in August of 1947.</p>
-<p>
-<hi rend="italics">Q:  What attracted you to the foreign service?</hi>
-</p>
-<p>APPLING:  Two things, one idealistic, the other pragmatic.  Having been a soldier in Europe during the war it seemed clear to me that there was still a lot to be done.  The bloodshed had stopped but that was only the beginning.  I also needed a job and looked at what talents I had that might find me one.  I had languages and an interest in the field.</p>
-<p>
-<hi rend="italics">Q:  Were you with a class?</hi>
-</p>
-<p>APPLING:  Yes, we did have classes back then.  We were about 25.  There was George Est, Harry Symmes, Bill Stedman, Hector Prudhomme, a distinguished man who came from Wall Street, Clint Olson, and one woman, Anne Ohm.  We had no ethnic minority members.</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q:  Your first assignment was to Vienna.  It must have been a fascinating time to be there.</hi>
-</p>
-<p>APPLING:  It was romantic, right out of a Strauss operetta.  Then again, “The Third Man” was not just a movie to us either.</p>
-<p>The city was in terrible state, the two winters after the war were cruel, the economy was in a desperate state, the Russians occupied the half of the country and were beginning to be very disagreeable about it.</p>
-<p>The work atmosphere was wonderful, especially for me, the most junior officer.  We still had a staff small enough that we could participate in everything.  We could go to the opera for 35 cents, and there was a PX for the necessities.  Our two children were both born in Vienna.  Those were effervescent years for us.  Minister Jack Erhardt was the Chief of Mission.  He was particularly concerned in developing young officers.  He and Mrs. Erhardt were disciplinarians, and had codes of behavior that were to be observed, but they were gentle, happy people.</p>
-<p>
-<hi rend="italics">Q:  How did the legation view the Soviets at that time?</hi>
-</p>
-<p>APPLING:  Interesting point.  We really crossed the line.  I came into the Service with the dream that, with the end of the war we could build a peaceful new world.  However, while we were in Vienna, the Soviets began to destroy the free governments of Eastern Europe.  One of my assignments concerned care for those who crawled under the barbed wire at night. and to get then into shelter.  My view of the situation changed so much.</p>
-<p>I'm still embarrassed by the following story but three years after I went home, a service club of my hometown asked me to speak at a dinner.  I spoke of the immense Soviet forces in Eastern Europe and what they had done to free institutions there.  I guess I overdid it because our hometown newspaper came out the next day with the big black letters APPLING PREDICTS WAR.  I was not particularly worried about the Oakdale Leader getting to the State Department, but....(laughter).</p>
-<p>The world view changed as we entered the Cold War period.  The obstinacy of the Soviets destroyed the dreams of others and we were face to face with them during that change.</p>
-<p>
-<hi rend="italics">Q:  I'd like to move on to the latter part of your career.  You were in London, were you not in 1951-53.</hi>
-</p>
-<p>APPLING:  I was there as part of the staff of the U.S. representative to NATO and after one year the whole organization moved to Paris.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q:  You were there for the formation of NATO then.</hi>
-</p>
-<p>APPLING:  Yes we were building the organization.  Fascinating exercise.</p>
-<p>
-<hi rend="italics">Q:  What was your responsibility?</hi>
-</p>
-<p>APPLING:  I was a political officer and the reporting officer for the meetings of the representatives to NATO.  I also did a lot of political-military work.  I was negotiator for the Status of Forces Agreement, which with the Parallel Agreement in Japan, was the prototype of such agreements.  A great experience for a young officer.</p>
-<p>
-<hi rend="italics">Q:  How did the officers around you view West Germany?  Was there some suspicion?</hi>
-</p>
-<p>APPLING:  Again, I think it was a transition period.  When we got to London there was still the idea of a quarantined Germany, certainly though not the Morgenthau plan of destroying Germany industry.  But wiser heads already saw the strength of Germany and felt it would be wise to include it in the larger European family.  I think particularly of Livy Merchant, one of the heroes of my life.  He saw clearly that a close relationship with Western Europe and Germany included in that family was really the only way to expect a stable peace.  This was not in order to sustain an aggressive position against the Soviet Union.  It was to keep Germany from exclusion and let it restore itself.</p>
-<p>
-<hi rend="italics">Q:  Did you have a problem adjusting to this?</hi>
-</p>
-<p>APPLING:  No I didn't.  I had been to Germany several times since the war and saw the beginnings of reconstruction.  I could see that this was not a nation to suppress.</p>
-<p>
-<hi rend="italics">Q:  How was France viewed at that particular time?</hi>
-</p>
-<p>APPLING:  To be quite frank, I almost feel that I have never served in France.  We were in Paris but I had little contact with French political circles, nor was I working day to day with French policy except in the NATO framework where they were esteemed partners.</p>
-<p>
-<hi rend="italics">Q:  How about France within NATO?  Was it a full member?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>APPLING:  They were then full members and leaders of NATO.  The French gave to us some of their most distinguished public servants.  They had a strong delegation and were significant in shaping the organization.  Perhaps in the back of some minds was the idea of French predominance as the strongest European nation but this was not their posture.</p>
-<p>
-<hi rend="italics">Q:  How about the Soviet threat.</hi>
-</p>
-<p>APPLING:  In 1950 the reality of the Soviet threat was clear.  The concept of NATO goes back long before that.  Many in the Foreign Service, such as Ted Achilles, had a vision of a European/American Community.  This was given a powerful thrust by the Korean War and by the Soviet recalcitrance in Eastern Europe.  The military/defense aspects of NATO were there when I got there.</p>
-<p>
-<hi rend="italics">Q:  You were then back in Vienna in 1953-54?</hi>
-</p>
-<p>APPLING:  Not in Vienna but on the Austrian Desk, when the shape of the ultimate State Treaty was being designed.  A very interesting time.</p>
-<p>
-<hi rend="italics">Q:  Why do you think the Soviets were willing to give up some territory.</hi>
-</p>
-<p>APPLING:  That's one of the great debates since.  Why did they do it?</p>
-<p>I think they thought Austria was not worth the candle.  We were not going to let them take over the country.  Some say it was a gesture preliminary to the negotiations on the German question.  It might have seemed a nice thing to do.  But I don't think it was niceness.  I think Austria had become a kind of inconvenience to them and unimportant to their security.</p>
-<p>
-<hi rend="italics">Q:  Were you on the Austrian desk?</hi>
-</p>
-<p>APPLING:  The files were replete with economic studies which concluded that free Austria would not be economically viable.  We laugh now, when we see how well it has done.  The Austrian television once interviewed me for a history of the State Treaty, and they seemed to have the preconclusion that we wanted Austria free so that we could manipulate it into an anti-Soviet position.  My recollection is that this is entirely false.  The concern most in our minds was whether Austria would be able to preserve its neutrality?  Would their economy be strong enough to maintain independence in their geographic location midst countries occupied by the Soviets and with a strong Germany.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  You were with the secretariat for some years then.  What did you do there.</hi>
-</p>
-<p>APPLING:  In those days when you were with the secretariat, you did everything.  It was a very fluid organization and they had cadre of people that they moved all around.  We used to work six weeks for a group of bureaus, usually one geographic and two functional, channeling all of their papers up to the secretary, and then back down.  We would be asked to prepare this or that meeting or to work on a particular problem.  One I followed for example, was Chinese pressure on Quemoy and Matsu.  Another role was as the Secretariat person for the small circle of Dulles' advisers, Merchant, MacArthur, Bowie, Phleger.</p>
-<p>
-<hi rend="italics">Q:  How did you think this group worked for Dulles?</hi>
-</p>
-<p>APPLING:  It was the way he worked.  He did not choose to use much the wider circles or the Department, but those advisers knew how to be effective links.  I would not recommend this isolated sort of operation.</p>
-<p>
-<hi rend="italics">Q:  You were then assigned to Bonn as a political officer from 1956 to 1960.</hi>
-</p>
-<p>APPLING:  In fact I was assigned to somewhere in Africa, I can't remember where but I ran into someone in the hall who thought I could be useful in Bonn, in view of my past experience, I was sent there instead.</p>
-<p>
-<hi rend="italics">Q:  What were you doing in Bonn?</hi>
-</p>
-<p>APPLING:  I had the best assignment in the Embassy, in a separate office which dealt with German internal politics.  It was near the Parliament building.  Our work was entirely with the German political machinery in a fascinating time.  The new German state and its political structure were still in formation.  It was interesting to work with those people and see how the parties were becoming part of the whole structure and how power is created.</p>
-<p>
-<hi rend="italics">Q:  We were like viceroys for a long time.  Was it difficult to relinquish power?</hi>
-</p>
-<p>APPLING:  Our concern was that the German government be strong and effective.  We had no desire to hold it back.  We wanted all of the German leadership to work with us in international affairs, especially in the European Community and in relations with the U.S.S.R.  Berlin was of course an important part of the political picture.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  Did you go to Berlin a lot?</hi>
-</p>
-<p>APPLING:  Occasionally.  The staff there handled Berlin but we communicated.</p>
-<p>
-<hi rend="italics">Q:  How about the other consulates?  Could you report fairly accurately because the consulates were communicating to the center in Bonn.</hi>
-</p>
-<p>APPLING:  The consulates did what they were supposed to do and reported competently on regional political and their perspective on national affairs.  We would consult with the political officers in the Consulates regularly.</p>
-<p>
-<hi rend="italics">Q:  Any particular problems in international relations at that time you can recall.  You served under two distinguished ambassadors, Dr. Conant, former president of Harvard, and David Bruce our diplomat par excellence under several of our administrations.  Could you talk about their operating styles.</hi>
-</p>
-<p>APPLING:  Dr. Conant was not there long after I arrived, less than a year.  Both very comfortable men, easy to talk to even for junior officers.  Rather different approaches.  Conant more scholarly, Bruce more political.  Both men of great intelligence.  Aristocrats, genteel, sharp and disciplined minds, devoted public servants.</p>
-<p>Bruce had an unusual ability to anticipate what was going to happen and how people were going to react to it and masterful knowledge and intuition about Washington.  Leaders must have a vision and Ambassador Bruce saw clearly what sort of Europe and what sort of world we needed.</p>
-<p>
-<hi rend="italics">Q:  You then spent three years as a staff assistant.</hi>
-</p>
-<p>APPLING:  Merchant was under secretary for political affairs and asked me to work for him.  With the change in administration, there was a moment there when we might have established the position of under secretary as a career position but political pressures were too great.  The political consequences of that were great as well.  We might, for example, have better managed the Bay of Pigs affair if there had been continuity.</p>
-<p>
-<hi rend="italics">Q:  I had another interview with someone who had the same opinion about the Bay of Pigs affair.  I guess the Kennedy Administration was going through a learning period, as all administrations do, and they didn't quite have it all together.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>What about the style of operation of Livingston Merchant.</p>
-<p>APPLING:  Two things.  His utter selflessness.  He had no personal ambition.  He had been successful in other walks of life and came to Washington as a public servant.</p>
-<p>The other was his stock of good humor.  Even under pressure and long hours, he could always brighten the situation for everybody.  He once said to me that the one who succeeds in diplomacy is the one who can keep his wits about him, keep his emotions under control longest.  You'll be most effective if you don't get rattled.  He was an example of this.  He had a great capacity for indignation.  If someone did something malicious or stupid he would be quick to say so.  A great respecter of other people's opinions.  Open to listening and responding.  Commanded respect.  People who worked with him knew he was a good man.  One of the early ones to have the vision of a united Europe.  Indochina was becoming important when I went to work for him and he was very active in State/Defense collaboration and conflict.</p>
-<p>
-<hi rend="italics">Q:  Was the Kennedy Administration takeover a hostile one, like the Reagan Administration takeover from the Carter?</hi>
-</p>
-<p>APPLING:  The Kennedy Administration was looking ahead, not back.  They were looking for people who could imprint the Kennedy style, philosophy and thinking into the Department.  I worked for Roger Jones who fought for professional excellence in American public service.</p>
-<p>
-<hi rend="italics">Q:  You were still very much a Europeanist.</hi>
-</p>
-<p>APPLING:  Yes.</p>
-<p>Though even in those days I was preaching about generalists.  I suppose I was the last of the generalists.  I still believe that you can't represent the United States well if your interest and experience is solely in one geographic area.</p>
-<p>
-<hi rend="italics">Q:  In 1963-65 what were your main concerns in the office of West European Affairs?</hi>
-</p>
-<p>APPLING:  One thing was the end of the empires, such things as the Congo, Portugal relinquishing its colonies in Africa.  De Gaulle and the re-shaping of France in Europe was important.  Italy was unstable economically and politically.  There was talk of Italy's “window to the east”, and leftist factions into the government.  Bases in Spain were on the agenda.</p>
-<p>
-<pb facs="0008" n="Page0008"/>
-<hi rend="italics">Q:  You made a tremendous jump when you went as DCM to Damascus.</hi>
-</p>
-<p>APPLING:  I was worried about getting too deeply involved in Europe and about being stereotyped as a management person.  Damascus was approved.</p>
-<p>
-<hi rend="italics">Q:  What was the situation in 1965 in Syria.</hi>
-</p>
-<p>APPLING:  Stagnant to some extent.  They were locked into the aggressive hostility to Israel and to American policy in support of Israel's independence.  The Baathists had taken power and were insecure.  They saw enemies on every side and they were not open to searching for areas of cooperation. We were still putting some assistance into Syria at the time. The Soviets were moving in and gaining influence.  They had the ear of the Syrian government more than we and were providing military supplies.</p>
-<p>It was my first experience working with a government which was suspicious and antagonistic at every turn.  It was impossible to conduct any conversation without our being scolded for our position on Israel.</p>
-<p>It was also something of a police state.  We were kept under surveillance and couldn't invite guests to our house without them being screened by their secret police. If we gave a reception, two photographers would show up and take pictures of everybody.</p>
-<p>Having said that, there were a number of Syrian government officials and a large number of Syrian people whose views I respected and we were good friends.I remember being somewhat shaken by my first staff meeting when I was charg�.  I asked what do you think we're doing here?  Nobody answered.  It was a shock.</p>
-<p>We took what opportunities there were to enter into dialogue with the Syrians.  I did not then perceive what I think I see now, Syria's interest in area hegemony.  I didn't realize they wanted to exert regional power.  There were unending disputes and reconciliations with Iraq and sometimes with Egypt.  We went through assorted coups.</p>
-<p>
-<hi rend="italics">Q:  How seriously did we view the Soviet threat.</hi>
-</p>
-<p>APPLING:  On the scale of one to ten, if ten means that they were about to invade and one means we had no fear, I would put it at 3 or 4.  We watched with concern but, I think the Soviets didn't want a major confrontation with us there.</p>
-<p>
-<hi rend="italics">Q:  Any fear of a communist takeover?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>APPLING:  No, we relied on the fact that the Syrians didn't want that.  It was a Moslem state and was fairly anti-communist.  They're Arab nationalists and they didn't want to be taken over by anyone.  There are many who feel that the Arab states are more impervious to home grown communism than are others.</p>
-<p>There were some communists in town.  There was an incident which arose from a squabble at the international school.  A communist lawyer got into it and we were concerned that he would exploit and aggravate our difficult relations.  However, Syrian anti-Americanism worried us more than their pro-Sovietism.</p>
-<p>There were occasions when I could go, as privately as possible, to Syrian officials to point out that slanderous anti-American stuff in the press every day was getting out of hand and to suggest that it would be useful to have a word with the editors.  Sometimes it would be toned down.</p>
-<p>
-<hi rend="italics">Q:  One more question about Damascus.  How did you find the atmosphere regarding Israel within the embassy.</hi>
-</p>
-<p>APPLING:  There is a myth that the State Department is pro-Arab.  I found all of the staff in Damascus to be objective.  We reported honestly and tried to find ways to improve relations but there was no anti-Israel bias.</p>
-<p>
-<hi rend="italics">Q:  You had a new ambassador who was not career.  A poor place for a non professional.</hi>
-</p>
-<p>APPLING:  He had never been in government before.  I assumed he was appointed because there was a political debt to him.  He did not like me and we parted company very quickly.  My judgment of his role is rather harsh and I should not express it.</p>
-<p>
-<hi rend="italics">Q:  You were then a pol/mil officer in Manila, with Ambassador Williams.  What were your major concerns?</hi>
-</p>
-<p>APPLING:  Basically, it was to maintain the acceptability of the bases with the populace and the government.  It was not hard because Marcos was in absolute control at the time and he was our ally and dependent on us.  There was always talk of eliminating the bases but I saw this as trying to get the bases on better terms.  Among the tasks I performed was the negotiation of the base labor agreement—the terms under which Philippine nationals were employed by the bases and their relationship with the labor unions, very interesting exercise.</p>
-<p>
-<pb facs="0010" n="Page0010"/>
-<hi rend="italics">Q:  How did this work out with the American military.  They seem to be oblivious to local problems.</hi>
-</p>
-<p>APPLING:  It is true of some military personnel particularly those who have only worked on bases at home which they ruled with military authority.  However, when I was in Manila, the Defense Department was sensitive politically, and put people in charge who were aware of political reality.  They collaborated with the pol/mil officer in the Embassy and I worked closely and easily with the base commanders and their staffs.  But there were all kinds of problems.  A sentry shot a bicycle thief and the hot question was about jurisdiction.</p>
-<p>
-<hi rend="italics">Q:  How did that play out?</hi>
-</p>
-<p>APPLING:  Eventually the Philippines agreed to giving the military commander jurisdiction.  They were willing to concede the point as long as the offender left the Philippines at once.  It was very touchy.  In general, commanders worked very hard with the local authorities.</p>
-<p>
-<hi rend="italics">Q:  How did we view Marcos at that time?</hi>
-</p>
-<p>APPLING:  I don't think the embassy had any illusions about Marcos' power and his abuse of it.  But at that time we were willing to accept a large measure of it.  He was a duly elected president of the country and these were internal matters to a large extent.  He was supportive of us in almost every way in the country and in the region.  He was useful when the conflict in Vietnam was growing bigger and bigger.</p>
-<p>
-<hi rend="italics">Q:  How did you get assigned to Tay Ninh in Vietnam in 1969, as a province advisor?</hi>
-</p>
-<p>APPLING:  They needed people and it was difficult to get senior officers to go.  There was a time when the Far Eastern Bureau was able to commandeer officers and I was ordered to go.  One day I was going as DCM to New Zealand, and the next day that was canceled and I was going to Vietnam.</p>
-<p>
-<hi rend="italics">Q:  What was your job.</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>APPLING:  I'm glad you asked that question.  Those jobs were very little understood and most unusual.  We were sort of petty viceroys, pro-consuls of a province, advisors, with a great deal of weight, to the province chief who had command of the local militia and authority over all of the civil side of the government, over the refugees, hospitals, agriculture, education, transportation and other economic areas.  I had a diverse and numerous staff and we had authority and responsibility in our little world but our purpose was to strengthen the Vietnamese Community.</p>
-<p>Tay Ninh is about 35 miles northeast of Saigon on the Cambodian border.  The Cao Dai religion is predominant there and its cathedral is in that province.  They had a social and political structure parallel to the government.  I became a very good friend with their religious hierarchy.  They had a tight community and took good care of their people.  Their roots reached far back into nationalist opposition to French rule.</p>
-<p>
-<hi rend="italics">Q:  Most Americans don't have any background for this.  How did you go about it?</hi>
-</p>
-<p>APPLING:  With great difficulty.  I believed that the Vietnamese understood the situation better than I or better than my staff.  My first effort was to hear from them.  To get as far down into the society as I could, to see what this guerrilla warfare was all about.  The community seemed to be fine during the day and then at night there would be Viet Cong in the streets and propaganda lessons, troops terrorizing the farmers for food to feed their guerrilla.We had the border zones, where the Viet Cong took troops through, constant military movement.</p>
-<p>
-<hi rend="italics">Q:  How did you find the local government?</hi>
-</p>
-<p>APPLING:  There were two province chiefs while I was there, one was a scholarly type, timid perhaps, not wanting to be blamed for anything.  He was carried by his subordinates.  He went back to Saigon pretty quickly.</p>
-<p>The second, became a good friend and I respected him as governor and military commander.  He had been raised in a tradition of nationalism and wanted very much to establish a stable society and effective government.  He was a military man respected by the regular army and the U.S. advisors.</p>
-<p>
-<hi rend="italics">Q:  Would you say something about the corruption.  In some Asian societies it seems the only way things got done.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>APPLING:  The northern part of Tay Ninh province has extensive tropical forests, very valuable wood.  The people were allowed to harvest it if they had a permit.  I'm sure no one ever got a permit without kicking back some of the returns.  The province chief never would say anything about it but I understood that officials in Saigon had a list of who cut timber and what happened to the wood taken out.  I doubt if any business was operated without somebody getting some money for it.</p>
-<p>The Vietnamese army would sometimes come in when the Viet Cong were especially aggressive and the command would set up at the province chief's home and the surrounding houses.  They had no good lines of supply and someone had to feed them.  The province chief had no choice but to get the food from the farmers.  He acquired land himself, I assume at a low price, by putting the squeeze on someone.  Public positions were not obtained without influence.  Even so, there was much progress toward civil order and local government truly serving its people.</p>
-<p>
-<hi rend="italics">Q:  The government of Thieu was exerting its authority through the province chief.  But you thought things were working out.</hi>
-</p>
-<p>APPLING:  We had a good beginning.  Using almost exclusively local militia, Tay Ninh produced a degree of stability, opened up a very large area for agriculture with new rice and new technology.  We began to have local elections.  People were willing though frightened to enter into local government positions.  I was troubled that the people felt as little identity with the national government.  There was little popular responsiveness to them.  Little people felt that the Saigon government were just soldiers making the best of an opportunity for power and wealth.  I had hoped that given time, local democracy would grow up, and with education and experience there would be greater confidence in the national government.  But it was weak while I was there.</p>
-<p>
-<hi rend="italics">Q:  What was the shock of the Tet Offensive.</hi>
-</p>
-<p>APPLING:  I came to Vietnam well after the Tet offensive.  I think it had more repercussions outside Vietnam, than inside.  It was not a military success for the Viet Cong and I didn't see any shock waves in Tay Ninh but I did not grasp adequately its effect abroad.</p>
-<p>
-<hi rend="italics">Q:  How was the communication with the embassy?</hi>
-</p>
-<p>APPLING:  I was in the CORDS line of authority and the embassy was a fairly distant thing to us.  Political officers would come out from time to time but we did not work very effectively together.  The Ambassador gave me generous personal attention and I thought we were well supported in our unusual role.</p>
-<pb facs="0013" n="Page0013"/>
-<p>
-<hi rend="italics">Q:  Was there any attempts to make things out to be better than they were?</hi>
-</p>
-<p>APPLING:  Not in the 1968-69 tour.</p>
-<p>
-<hi rend="italics">Q:  That's right.  I served as consul general in Saigon about that time, and you're right.  Things weren't so bad, in fact we were winning.</hi>
-</p>
-<p>From there, in the heat of the battle, you went to Canberra as DCM.</p>
-<p>APPLING:  Like champagne out of the bottle.  I had had a long experience by then with governments that didn't work well, and it was good to land in a country that was well organized and well disposed.  You could raise a problem and get a responsible answer.  It might be negative but nevertheless it was productive.  And I was again with my family.</p>
-<p>
-<hi rend="italics">Q:  Walter Rice was your ambassador, was he not?</hi>
-</p>
-<p>APPLING:  For me, as DCM, he was just fine.  He took pride in his position and wanted to do things that would be useful.</p>
-<p>He was a non professional ambassador who supported his staff and, from long experience in business presented a face of the U.S. which is important in Australia.</p>
-<p>
-<hi rend="italics">Q:  What were the issues?</hi>
-</p>
-<p>APPLING:  Being good partners who shared information of views fully, trade, access to American markets.  I remember one long and difficult problem about meat inspection.  The Australians saw our criticism as harassment and attempts to limit their access to our market.  We had to be very careful with our facts and work with them to meet our standards.  I had a skilled Australian opposite who understood the situation and who brought in American inspectors to improve their system for their own market as well.</p>
-<p>American investment was growing at an astounding rate and we tried to make sure it was acceptable to the Australians.  We wanted to make the conditions inviting to American investors.</p>
-<pb facs="0014" n="Page0014"/>
-<p>Certainly the Nixon/Kissinger China opening was a shock to them since it came without any consultations.  Sir Keith Waller was then Secretary for Foreign Affairs.  He had been ambassador to Washington was very pro American—so much so that he could be one of our most useful critics.</p>
-<p>
-<hi rend="italics">Q:  Perhaps there was a need for secrecy.</hi>
-</p>
-<p>APPLING:  I would like to think there were ways to cushion the impact but this is Monday morning quarter backing.</p>
-<p>
-<hi rend="italics">Q:  How did the Australians view our commitment to Vietnam at the time?</hi>
-</p>
-<p>APPLING:  As you know they had substantial of forces there as well.</p>
-<p>
-<hi rend="italics">Q:  Did they have political problems as home like we did?</hi>
-</p>
-<p>APPLING:  Much less than we did.  This played a role in my future life.  I'd been out of the States since 1965 and went from Vietnam to Australia and there saw a far out fringe squawking about Vietnam.  I thought the resistance in the United States to policy was something like that.  I really did not have a good understanding of the American political picture.  I kick myself for not having insisted on being sent back to the U.S. before going again to Vietnam.</p>
-<p>
-<hi rend="italics">Q:  I think this is very difficult for others to understand how things impact when you are overseas.  The Watergate business for instance you miss these things without the daily television news coverage.</hi>
-</p>
-<p>APPLING:  I'll tell a Watergate anecdote.  Sir Keith Waller had just recently returned from his position as ambassador here to take the position at the foreign office there.  I was with him in his office when an aide came in with the press bulletin about the Watergate break in.  He showed it to me and I dismissed it as trivial stupidity.  He saw immediately the consequences this was going to have in American politics.  I didn't grasp the significance of what he was saying until weeks later when events evolved further.</p>
-<p>This illustrates how out of touch one can get abroad and how a skilled foreign diplomat may know us better than we do.</p>
-<p>
-<hi rend="italics">Q:  You went back to Vietnam as DCM from 1973-74.  Why did you go back.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>APPLING:  Previously, for personal reasons, I had turned down a request that I go somewhere, and I found that so contrary to my view of professional discipline that when the telegram came, I just went.</p>
-<p>
-<hi rend="italics">Q:  Who was ambassador.</hi>
-</p>
-<p>APPLING:  Ellsworth Bunker was about to leave and Graham Martin had not yet arrived.</p>
-<p>
-<hi rend="italics">Q:  Did you know Martin before?</hi>
-</p>
-<p>APPLING:  I believe we were in Paris together and he was then administrative officer.  I knew him but not well.  I saw him from time to time at the Department when I was there.</p>
-<p>
-<hi rend="italics">Q:  Did he ask for you?</hi>
-</p>
-<p>APPLING:  Well, he would have had his choice of DCM, certainly I guess he didn't object.</p>
-<p>
-<hi rend="italics">Q:  What was the situation in Vietnam when you arrived?</hi>
-</p>
-<p>APPLING:  We were just winding up the agreement on our withdrawal.</p>
-<p>Charlie Whitehouse was charg�.  In the first days there was a series of messages to iron out the last, most difficult passages with them, a lot of rushing out to the palace at midnight and crash messages back to Washington.</p>
-<p>The agreements were then final and I was charg� for several weeks until Graham came out.</p>
-<p>
-<hi rend="italics">Q:  What was the attitude about these Kissinger agreements, ours and the Vietnamese.</hi>
-</p>
-<p>APPLING:  The Vietnamese found them very dangerous.  They repeatedly said they would have to rely on our support, not our military aid, but our support.</p>
-<p>The embassy found the agreements acceptable.  There was concern because there were lots of weak points.  We hoped it would work.</p>
-<p>
-<pb facs="0016" n="Page0016"/>
-<hi rend="italics">Q:  Were they a way of saving face?</hi>
-</p>
-<p>APPLING:  We felt that it was the best that we could do.</p>
-<p>
-<hi rend="italics">Q:  Graham Martin is a very controversial figure.  Can you describe his arrival on the scene.</hi>
-</p>
-<p>APPLING:  Ambassador Martin's relationship with me could not have been more kindly and gracious.  He arrived at the airport and I met him and went to the office.  There he spoke of his reputation of a hard man and denied it.  He sought my opinions and I understood from him that the decisive things in Vietnam were not there but in Washington.</p>
-<p>The next day he called me in and we talked at length again.  I knew he was due at the Foreign Ministry and I led him downstairs.  There was no driver ready for us, which I thought was strange but supposed it was just a mistake.  We got to the Foreign Ministry and no one was at the entrance to receive him.  I ran in to talk to the chief of protocol and discovered that I had the schedule wrong.  The appointment was for an hour later and I had mixed it up nervously trying to please the new Ambassador.  What a blunder, but the Ambassador treated it lightly.</p>
-<p>
-<hi rend="italics">Q:  How did he operate within the embassy.</hi>
-</p>
-<p>APPLING:  Very quietly.  He wanted to listen more than to speak.  He was disappointed that I didn't have a firm enough hand on what was going on but then our embassy was so compartmentalized that it was not easy to manage.</p>
-<p>
-<hi rend="italics">Q:  I agree, byzantine is the word I use.  Various powers involved, CIA, AID etc, and the military.</hi>
-</p>
-<p>APPLING:  And the DCM wasn't able to tell them what to do.You asked earlier about twisted reporting.  I don't think the Ambassador ever allowed that to occur, but there were lots of fragmentary reports coming in and he was reluctant to pass on an incomplete picture because of the political situation in the U.S.  Where everything leaked and could be abused.  He didn't want one report to be misconstrued as the entire picture, good or bad.  Younger officers chafed at this because they worked hard and reported accurately the fragments of the picture.</p>
-<p>There was an endless train of visitors.  I remember his meeting with Bella Apzug.</p>
-<p>
-<hi rend="italics">Q:  She was from New York and very vocal about her opposition to the war.</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>APPLING:  His conversation with her was amiable and penetrating.  Both took very opposite positions but the Ambassador was charming, full of information and not provocative.  I had expected fireworks but found a mutually respectful and friendly conversation.</p>
-<p>
-<hi rend="italics">Q:  How did he deal with the Vietnamese government?</hi>
-</p>
-<p>APPLING:  A tinge of MacArthur.  A little bit of the imperial.  Listening to them and responding to their concerns.  The conversations were like “You need to do this or you will lose support.” And he was able to make our concerns understood.</p>
-<p>I can only really recall three or four conversations with Thieu and the foreign minister.  With the latter the subject was usually international support for their position, how they might usefully engage with others.  I have very few recollections of Ambassador Martin meeting with other ambassadors.  He had great respect for the French ambassador who was our neighbor.</p>
-<p>We were both gone a lot.  He was back in Washington twice for extended periods.  I was in the hospital for a couple of weeks and then went to Australia for Christmas and left the following April.</p>
-<p>
-<hi rend="italics">Q:  How did you deal with the middle grade and more seniors officers?  There is the story that Ambassador Martin was completely out of touch and so on during the last days of our embassy there.  What was the problem?</hi>
-</p>
-<p>APPLING:  I think in any large embassy the ambassador is rather distant from the junior staff.  He necessarily deals with the chiefs, but he talked and walked around a lot.  He might have been a little suspicious of the station chief, because he thought he might know things he was not revealing.</p>
-<p>I guess because of my Tay Ninh experience, I seized opportunities to visit the consulates.</p>
-<p>
-<hi rend="italics">Q:  After the peace accords, we had this system of consulate generals established around.  How did they work out?</hi>
-</p>
-<p>APPLING:  They worked fine.  The Consuls General were in and out of Saigon frequently, and were well informed about their areas.  We didn't really funnel information to them about what was going on at home.</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q:  Did you feel something less than a steady hand back in Washington because of the Watergate crisis?</hi>
-</p>
-<p>APPLING:  I was much less sensitive to it than I should have been.  I think Graham had it constantly in his mind.  He worried all the time about who had things in hand when response was needed.  I was not good in that role.</p>
-<p>
-<hi rend="italics">Q:  It took more than a year for this to play out and it was impossible to predict the downfall of the Nixon Administration because nothing like this had ever happened.</hi>
-</p>
-<p>APPLING:  I don't think I really estimated correctly the ineffectiveness of the governments of the U.S. and of Vietnam.  We would bring up problems but neither could do much about them.</p>
-<p>
-<hi rend="italics">Q:  When did you leave Vietnam?</hi>
-</p>
-<p>APPLING:  March of 1974.</p>
-<p>
-<hi rend="italics">Q:  How did you feel about the situation in South Vietnam at the time?</hi>
-</p>
-<p>APPLING:  Uneasy.  My gut feeling was that it was not working well and yet I cared about the country and was proud about how much good work had been done.  I kept a measure of confidence that they could make a go of it.  I saw defeatism, especially amongst my friends in the media.  I don't think I made any sweeping judgements because I didn't feel I had a total grasp of the situation.</p>
-<p>
-<hi rend="italics">Q:  You came back and your final assignment was as Deputy Director General of the Foreign Service from 1974-76.  Then you retired.  What did this job entail?</hi>
-</p>
-<p>APPLING:  I was also Director of Personnel and that was the predominant element.  The Director General took the major responsibility for the structure, the life, the personality, the nature of the Foreign Service.  He or she is also a major advisor on principal appointments and the Deputy Director General assists as the boss chooses.</p>
-<p>
-<hi rend="italics">Q:  You had two Directors General.  Nat Davis and Carol Laise.  How did Nat Davis operate?</hi>
-</p>
-<pb facs="0019" n="Page0019"/>
-<p>APPLING:  Nat kept a very firm hand on what was going on and tended to use me to keep track of the shop and keep him informed.  There were certain problems that didn't have to have his attention and I ran with those.</p>
-<p>
-<hi rend="italics">Q:  What kinds of problems were these?</hi>
-</p>
-<p>APPLING:  If there was an employee in bad trouble, perhaps in danger of causing a scandal, someone needed to talk discreetly with him.  That's what I would do.  There was also constant conversation with the Bureaus about their personnel needs.</p>
-<p>
-<hi rend="italics">Q:  How did Carol Laise use you?</hi>
-</p>
-<p>APPLING:  Carol used her deputy as a staff aide to get things in shape for her to act upon.  She wanted ideas and wanted to reform the structure.  I preferred to fix the glitches.</p>
-<p>
-<hi rend="italics">Q:  What were the major problems you had to deal with?</hi>
-</p>
-<p>APPLING:  Examples would be the case of young officers still on probation who really had not had a chance to show their abilities or burned out officers who needed a way out.  That kind of individual problem.</p>
-<p>
-<hi rend="italics">Q:  In other words trying to keep the system from being so impersonal.</hi>
-</p>
-<p>APPLING:  Cases where there was conflict between bosses and subordinates, where careers, might be endangered and the work of the mission was being impaired.  That category is one side of what I did.</p>
-<p>Perhaps I spent too much time in this capacity.  It may have been that I should have given it to the staff.  Perhaps I could have focused on the big picture.</p>
-<p>
-<hi rend="italics">Q:  But the big picture is made up of individual cases such as you are describing.  Sometimes that is lost.</hi>
-</p>
-<p>APPLING:  Experience working with different cases enables you to see clearly where there are problems in the overall view.</p>
-<pb facs="0020" n="Page0020"/>
-<p>An example is the origin of the cone system.It was clear that people in the administrative or consular track had ceilings imposed on them.  People who had broad ability and had served with skill and loyalty were topped out because the system did not fill the top ranks from those sources.  Something needed to be done about this.</p>
-<p>We were beginning to cope with the problem of the large number of unassigned senior officers.  The selection out process was not cutting in soon enough to allow people to have a second career opportunities.  We were not dealing with this properly.</p>
-<p>The budget and the size of the service were constant problems.  Efforts to keep the number of those entering the Service at a constant number—about 200—were important.  A steady inflow of talent is essential to the Service and it has to be matched with outflow at the other end.</p>
-<p>The Director General was never able to do all that he wanted.  He needed the support of the government for maintaining a key position for the foreign service in international relations.  There were, by this time, so many powerful agencies involved with foreign affairs, that the Foreign Service was having trouble making itself effective.  I liked the structure under Roger Jones, where the under secretary for management had as his right hand the Director General of the foreign service.  By the time I returned to Washington, the Director General had become much more detached from the seventh floor.</p>
-<p>
-<hi rend="italics">Q:  This was the Kissinger time, and how much attention did he, and Larry Eagleburger, take with career development as opposed to playing favorites?</hi>
-</p>
-<p>APPLING:  Larry was much more concerned about professionalism than the secretary naturally.  But neither thought much about that.  They had some strong views on individuals whom they wanted or who they didn't like.</p>
-<p>
-<hi rend="italics">Q:  How did the selection of ambassadors and the White House impact on you?</hi>
-</p>
-<p>APPLING:  Very much.  The only really way to handle it was by seeing that the most competent people were portrayed accurately.  I played more of a staff role in that.  The intervention was the Director General's role.</p>
-<p>
-<hi rend="italics">Q:  How was the Ford administration?</hi>
-</p>
-<p>APPLING:  I was not very much involved.  The under secretary for management was the interface with Congress and the White House.  In former days the Director would have been more involved but by my time that responsibility had shifted elsewhere.</p>
-<pb facs="0021" n="Page0021"/>
-<p>
-<hi rend="italics">Q:  What about the perpetual battle between the geographic and speciality bureaus, and the centralized personnel system?</hi>
-</p>
-<p>APPLING:  Geographic bureaus are much more possessive than functional ones.  The Director General's office is constantly involved with career development and in serving the broader needs of the service.</p>
-<p>My approach was to be on the closest personal basis with the assistant secretaries and the executive directors of both kinds of bureaus.  We had common purposes and conflict was not inevitable.</p>
-<p>
-<hi rend="italics">Q:  You were facing a new problem, several, minorities, more women in the service, and what to do about the wives?</hi>
-</p>
-<p>APPLING:  We didn't deal with the spouse issue very well.  We hadn't come to grips with it.  We knew it was an economic punishment to come into the service.  We initiated some employment abroad for the wives and found suitable assignments for tandems.  I worried about it but at that time we didn't have too many cases like that.</p>
-<p>We were reaping the bitter fruits of the first efforts to increase the intake of minorities.  We tried very hard to get black persons.  We waived exams, we encouraged people to enter without then giving them enough support.  And we were getting the first failures.  Within three and five years, they were coming out of probation on the wrong side.  This made it look like we were against the minorities.  But I don't know any subject that we spent more time engaged in, than with the recruiting and training of young minority officers and assuring equal opportunities for women.</p>
-<p>
-<hi rend="italics">Q:  I remember being a senior officer myself dealing with this problem.  When you have a highly competitive system and you bring in one set in that meet a certain of standards and then you bring in another set who are brought in for perfectly honorable reasons and all, but for which you waive the competition and then you put both groups in competition with each other, with no program to help out, if this is possible, you're going to have a division.</hi>
-</p>
-<p>APPLING:  It was all done by score, quantity.  I took much more pride in the successes, in quantity.  Those who prospered and became excellent officers.  There were not as many as we would have liked but we got caught up in the numbers game.</p>
-<p>
-<pb facs="0022" n="Page0022"/>
-<hi rend="italics">Q:  Tally Palmer.  Could you explain that case?</hi>
-</p>
-<p>APPLING:  Tally Palmer was a talented young woman officer who was very interested in women's rights and discrimination.  She also became a priest in the episcopal church, one of the first to break the barriers there.</p>
-<p>She was in east Africa and had been assigned as labor attach� I think.  She was removed from that position under the shadow of some kind of statement that a woman can't be effective in that role.  It was a case of bad judgement or discrimination.  She sued the State Department.  I spoke to her on a number of occasions and shared her interest in having more women join the service and in their being treated fairly.</p>
-<p>Lawyers kept coming to see me in that job because there were a number of suits in which I was named just because of my position.</p>
-<p>
-<hi rend="italics">Q:  What gave you the greatest satisfaction?</hi>
-</p>
-<p>APPLING:  My greatest satisfaction has come in the last year where we see some fulfillment of the dreams we had in the early post war period.</p>
-<p>
-<hi rend="italics">Q:  You mean when eastern Europe has changed remarkably?</hi>
-</p>
-<p>APPLING:  Where the inherent problems of communism made it necessary to end the hostility and to move ahead toward a better world.</p>
-<p>I take great satisfaction about the reporting that came out of Germany in those early years.  I think we did a good job in absorbing the growth of the new German state and society.  We influenced it to some extent and we understood it very well.  I think the organization of NATO was an innovation in foreign affairs.  It was a rewarding task to create an effective organization.  It was unique and we had no blue prints.  I like to think that I had an effect in management in the department.  I was able to see progress and justice done.  I've enjoyed the personal relationships with outstanding public servants.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>HUGH G. APPLING</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: January 26, 1990</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Could you give us a little background about yourself,
+                        where you came from, your education, and where you grew up.</hi>
+                </p>
+                <p>APPLING: I was born and raised in the central valley of California, in a farming
+                    community. My undergraduate work was in biology at the University of California,
+                    Berkeley, worked briefly for a bank, went into the army with every body else,
+                    got out in 1945, went to Stanford for graduate studies in political science to
+                    study under Graham Stuart about the foreign service and the practice of
+                    diplomacy.</p>
+                <p>
+                    <hi rend="italics">Q: Graham Stuart was the only person to write about diplomacy
+                        in practical terms.</hi>
+                </p>
+                <p>APPLING: I think you're almost right, although Father Walsh also taught in those
+                    terms. I took the foreign service exams and entered the service in August of
+                    1947.</p>
+                <p>
+                    <hi rend="italics">Q: What attracted you to the foreign service?</hi>
+                </p>
+                <p>APPLING: Two things, one idealistic, the other pragmatic. Having been a soldier
+                    in Europe during the war it seemed clear to me that there was still a lot to be
+                    done. The bloodshed had stopped but that was only the beginning. I also needed a
+                    job and looked at what talents I had that might find me one. I had languages and
+                    an interest in the field.</p>
+                <p>
+                    <hi rend="italics">Q: Were you with a class?</hi>
+                </p>
+                <p>APPLING: Yes, we did have classes back then. We were about 25. There was George
+                    Est, Harry Symmes, Bill Stedman, Hector Prudhomme, a distinguished man who came
+                    from Wall Street, Clint Olson, and one woman, Anne Ohm. We had no ethnic
+                    minority members.</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: Your first assignment was to Vienna. It must have been a
+                        fascinating time to be there.</hi>
+                </p>
+                <p>APPLING: It was romantic, right out of a Strauss operetta. Then again, “The Third
+                    Man” was not just a movie to us either.</p>
+                <p>The city was in terrible state, the two winters after the war were cruel, the
+                    economy was in a desperate state, the Russians occupied the half of the country
+                    and were beginning to be very disagreeable about it.</p>
+                <p>The work atmosphere was wonderful, especially for me, the most junior officer. We
+                    still had a staff small enough that we could participate in everything. We could
+                    go to the opera for 35 cents, and there was a PX for the necessities. Our two
+                    children were both born in Vienna. Those were effervescent years for us.
+                    Minister Jack Erhardt was the Chief of Mission. He was particularly concerned in
+                    developing young officers. He and Mrs. Erhardt were disciplinarians, and had
+                    codes of behavior that were to be observed, but they were gentle, happy
+                    people.</p>
+                <p>
+                    <hi rend="italics">Q: How did the legation view the Soviets at that time?</hi>
+                </p>
+                <p>APPLING: Interesting point. We really crossed the line. I came into the Service
+                    with the dream that, with the end of the war we could build a peaceful new
+                    world. However, while we were in Vienna, the Soviets began to destroy the free
+                    governments of Eastern Europe. One of my assignments concerned care for those
+                    who crawled under the barbed wire at night. and to get then into shelter. My
+                    view of the situation changed so much.</p>
+                <p>I'm still embarrassed by the following story but three years after I went home, a
+                    service club of my hometown asked me to speak at a dinner. I spoke of the
+                    immense Soviet forces in Eastern Europe and what they had done to free
+                    institutions there. I guess I overdid it because our hometown newspaper came out
+                    the next day with the big black letters APPLING PREDICTS WAR. I was not
+                    particularly worried about the Oakdale Leader getting to the State Department,
+                    but....(laughter).</p>
+                <p>The world view changed as we entered the Cold War period. The obstinacy of the
+                    Soviets destroyed the dreams of others and we were face to face with them during
+                    that change.</p>
+                <p>
+                    <hi rend="italics">Q: I'd like to move on to the latter part of your career. You
+                        were in London, were you not in 1951-53.</hi>
+                </p>
+                <p>APPLING: I was there as part of the staff of the U.S. representative to NATO and
+                    after one year the whole organization moved to Paris.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q: You were there for the formation of NATO then.</hi>
+                </p>
+                <p>APPLING: Yes we were building the organization. Fascinating exercise.</p>
+                <p>
+                    <hi rend="italics">Q: What was your responsibility?</hi>
+                </p>
+                <p>APPLING: I was a political officer and the reporting officer for the meetings of
+                    the representatives to NATO. I also did a lot of political-military work. I was
+                    negotiator for the Status of Forces Agreement, which with the Parallel Agreement
+                    in Japan, was the prototype of such agreements. A great experience for a young
+                    officer.</p>
+                <p>
+                    <hi rend="italics">Q: How did the officers around you view West Germany? Was
+                        there some suspicion?</hi>
+                </p>
+                <p>APPLING: Again, I think it was a transition period. When we got to London there
+                    was still the idea of a quarantined Germany, certainly though not the Morgenthau
+                    plan of destroying Germany industry. But wiser heads already saw the strength of
+                    Germany and felt it would be wise to include it in the larger European family. I
+                    think particularly of Livy Merchant, one of the heroes of my life. He saw
+                    clearly that a close relationship with Western Europe and Germany included in
+                    that family was really the only way to expect a stable peace. This was not in
+                    order to sustain an aggressive position against the Soviet Union. It was to keep
+                    Germany from exclusion and let it restore itself.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have a problem adjusting to this?</hi>
+                </p>
+                <p>APPLING: No I didn't. I had been to Germany several times since the war and saw
+                    the beginnings of reconstruction. I could see that this was not a nation to
+                    suppress.</p>
+                <p>
+                    <hi rend="italics">Q: How was France viewed at that particular time?</hi>
+                </p>
+                <p>APPLING: To be quite frank, I almost feel that I have never served in France. We
+                    were in Paris but I had little contact with French political circles, nor was I
+                    working day to day with French policy except in the NATO framework where they
+                    were esteemed partners.</p>
+                <p>
+                    <hi rend="italics">Q: How about France within NATO? Was it a full member?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>APPLING: They were then full members and leaders of NATO. The French gave to us
+                    some of their most distinguished public servants. They had a strong delegation
+                    and were significant in shaping the organization. Perhaps in the back of some
+                    minds was the idea of French predominance as the strongest European nation but
+                    this was not their posture.</p>
+                <p>
+                    <hi rend="italics">Q: How about the Soviet threat.</hi>
+                </p>
+                <p>APPLING: In 1950 the reality of the Soviet threat was clear. The concept of NATO
+                    goes back long before that. Many in the Foreign Service, such as Ted Achilles,
+                    had a vision of a European/American Community. This was given a powerful thrust
+                    by the Korean War and by the Soviet recalcitrance in Eastern Europe. The
+                    military/defense aspects of NATO were there when I got there.</p>
+                <p>
+                    <hi rend="italics">Q: You were then back in Vienna in 1953-54?</hi>
+                </p>
+                <p>APPLING: Not in Vienna but on the Austrian Desk, when the shape of the ultimate
+                    State Treaty was being designed. A very interesting time.</p>
+                <p>
+                    <hi rend="italics">Q: Why do you think the Soviets were willing to give up some
+                        territory.</hi>
+                </p>
+                <p>APPLING: That's one of the great debates since. Why did they do it?</p>
+                <p>I think they thought Austria was not worth the candle. We were not going to let
+                    them take over the country. Some say it was a gesture preliminary to the
+                    negotiations on the German question. It might have seemed a nice thing to do.
+                    But I don't think it was niceness. I think Austria had become a kind of
+                    inconvenience to them and unimportant to their security.</p>
+                <p>
+                    <hi rend="italics">Q: Were you on the Austrian desk?</hi>
+                </p>
+                <p>APPLING: The files were replete with economic studies which concluded that free
+                    Austria would not be economically viable. We laugh now, when we see how well it
+                    has done. The Austrian television once interviewed me for a history of the State
+                    Treaty, and they seemed to have the preconclusion that we wanted Austria free so
+                    that we could manipulate it into an anti-Soviet position. My recollection is
+                    that this is entirely false. The concern most in our minds was whether Austria
+                    would be able to preserve its neutrality? Would their economy be strong enough
+                    to maintain independence in their geographic location midst countries occupied
+                    by the Soviets and with a strong Germany.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: You were with the secretariat for some years then. What
+                        did you do there.</hi>
+                </p>
+                <p>APPLING: In those days when you were with the secretariat, you did everything. It
+                    was a very fluid organization and they had cadre of people that they moved all
+                    around. We used to work six weeks for a group of bureaus, usually one geographic
+                    and two functional, channeling all of their papers up to the secretary, and then
+                    back down. We would be asked to prepare this or that meeting or to work on a
+                    particular problem. One I followed for example, was Chinese pressure on Quemoy
+                    and Matsu. Another role was as the Secretariat person for the small circle of
+                    Dulles' advisers, Merchant, MacArthur, Bowie, Phleger.</p>
+                <p>
+                    <hi rend="italics">Q: How did you think this group worked for Dulles?</hi>
+                </p>
+                <p>APPLING: It was the way he worked. He did not choose to use much the wider
+                    circles or the Department, but those advisers knew how to be effective links. I
+                    would not recommend this isolated sort of operation.</p>
+                <p>
+                    <hi rend="italics">Q: You were then assigned to Bonn as a political officer from
+                        1956 to 1960.</hi>
+                </p>
+                <p>APPLING: In fact I was assigned to somewhere in Africa, I can't remember where
+                    but I ran into someone in the hall who thought I could be useful in Bonn, in
+                    view of my past experience, I was sent there instead.</p>
+                <p>
+                    <hi rend="italics">Q: What were you doing in Bonn?</hi>
+                </p>
+                <p>APPLING: I had the best assignment in the Embassy, in a separate office which
+                    dealt with German internal politics. It was near the Parliament building. Our
+                    work was entirely with the German political machinery in a fascinating time. The
+                    new German state and its political structure were still in formation. It was
+                    interesting to work with those people and see how the parties were becoming part
+                    of the whole structure and how power is created.</p>
+                <p>
+                    <hi rend="italics">Q: We were like viceroys for a long time. Was it difficult to
+                        relinquish power?</hi>
+                </p>
+                <p>APPLING: Our concern was that the German government be strong and effective. We
+                    had no desire to hold it back. We wanted all of the German leadership to work
+                    with us in international affairs, especially in the European Community and in
+                    relations with the U.S.S.R. Berlin was of course an important part of the
+                    political picture.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: Did you go to Berlin a lot?</hi>
+                </p>
+                <p>APPLING: Occasionally. The staff there handled Berlin but we communicated.</p>
+                <p>
+                    <hi rend="italics">Q: How about the other consulates? Could you report fairly
+                        accurately because the consulates were communicating to the center in
+                        Bonn.</hi>
+                </p>
+                <p>APPLING: The consulates did what they were supposed to do and reported
+                    competently on regional political and their perspective on national affairs. We
+                    would consult with the political officers in the Consulates regularly.</p>
+                <p>
+                    <hi rend="italics">Q: Any particular problems in international relations at that
+                        time you can recall. You served under two distinguished ambassadors, Dr.
+                        Conant, former president of Harvard, and David Bruce our diplomat par
+                        excellence under several of our administrations. Could you talk about their
+                        operating styles.</hi>
+                </p>
+                <p>APPLING: Dr. Conant was not there long after I arrived, less than a year. Both
+                    very comfortable men, easy to talk to even for junior officers. Rather different
+                    approaches. Conant more scholarly, Bruce more political. Both men of great
+                    intelligence. Aristocrats, genteel, sharp and disciplined minds, devoted public
+                    servants.</p>
+                <p>Bruce had an unusual ability to anticipate what was going to happen and how
+                    people were going to react to it and masterful knowledge and intuition about
+                    Washington. Leaders must have a vision and Ambassador Bruce saw clearly what
+                    sort of Europe and what sort of world we needed.</p>
+                <p>
+                    <hi rend="italics">Q: You then spent three years as a staff assistant.</hi>
+                </p>
+                <p>APPLING: Merchant was under secretary for political affairs and asked me to work
+                    for him. With the change in administration, there was a moment there when we
+                    might have established the position of under secretary as a career position but
+                    political pressures were too great. The political consequences of that were
+                    great as well. We might, for example, have better managed the Bay of Pigs affair
+                    if there had been continuity.</p>
+                <p>
+                    <hi rend="italics">Q: I had another interview with someone who had the same
+                        opinion about the Bay of Pigs affair. I guess the Kennedy Administration was
+                        going through a learning period, as all administrations do, and they didn't
+                        quite have it all together.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>What about the style of operation of Livingston Merchant.</p>
+                <p>APPLING: Two things. His utter selflessness. He had no personal ambition. He had
+                    been successful in other walks of life and came to Washington as a public
+                    servant.</p>
+                <p>The other was his stock of good humor. Even under pressure and long hours, he
+                    could always brighten the situation for everybody. He once said to me that the
+                    one who succeeds in diplomacy is the one who can keep his wits about him, keep
+                    his emotions under control longest. You'll be most effective if you don't get
+                    rattled. He was an example of this. He had a great capacity for indignation. If
+                    someone did something malicious or stupid he would be quick to say so. A great
+                    respecter of other people's opinions. Open to listening and responding.
+                    Commanded respect. People who worked with him knew he was a good man. One of the
+                    early ones to have the vision of a united Europe. Indochina was becoming
+                    important when I went to work for him and he was very active in State/Defense
+                    collaboration and conflict.</p>
+                <p>
+                    <hi rend="italics">Q: Was the Kennedy Administration takeover a hostile one,
+                        like the Reagan Administration takeover from the Carter?</hi>
+                </p>
+                <p>APPLING: The Kennedy Administration was looking ahead, not back. They were
+                    looking for people who could imprint the Kennedy style, philosophy and thinking
+                    into the Department. I worked for Roger Jones who fought for professional
+                    excellence in American public service.</p>
+                <p>
+                    <hi rend="italics">Q: You were still very much a Europeanist.</hi>
+                </p>
+                <p>APPLING: Yes.</p>
+                <p>Though even in those days I was preaching about generalists. I suppose I was the
+                    last of the generalists. I still believe that you can't represent the United
+                    States well if your interest and experience is solely in one geographic
+                    area.</p>
+                <p>
+                    <hi rend="italics">Q: In 1963-65 what were your main concerns in the office of
+                        West European Affairs?</hi>
+                </p>
+                <p>APPLING: One thing was the end of the empires, such things as the Congo, Portugal
+                    relinquishing its colonies in Africa. De Gaulle and the re-shaping of France in
+                    Europe was important. Italy was unstable economically and politically. There was
+                    talk of Italy's “window to the east”, and leftist factions into the government.
+                    Bases in Spain were on the agenda.</p>
+                <p>
+                    <pb facs="0008" n="Page0008"/>
+                    <hi rend="italics">Q: You made a tremendous jump when you went as DCM to
+                        Damascus.</hi>
+                </p>
+                <p>APPLING: I was worried about getting too deeply involved in Europe and about
+                    being stereotyped as a management person. Damascus was approved.</p>
+                <p>
+                    <hi rend="italics">Q: What was the situation in 1965 in Syria.</hi>
+                </p>
+                <p>APPLING: Stagnant to some extent. They were locked into the aggressive hostility
+                    to Israel and to American policy in support of Israel's independence. The
+                    Baathists had taken power and were insecure. They saw enemies on every side and
+                    they were not open to searching for areas of cooperation. We were still putting
+                    some assistance into Syria at the time. The Soviets were moving in and gaining
+                    influence. They had the ear of the Syrian government more than we and were
+                    providing military supplies.</p>
+                <p>It was my first experience working with a government which was suspicious and
+                    antagonistic at every turn. It was impossible to conduct any conversation
+                    without our being scolded for our position on Israel.</p>
+                <p>It was also something of a police state. We were kept under surveillance and
+                    couldn't invite guests to our house without them being screened by their secret
+                    police. If we gave a reception, two photographers would show up and take
+                    pictures of everybody.</p>
+                <p>Having said that, there were a number of Syrian government officials and a large
+                    number of Syrian people whose views I respected and we were good friends.I
+                    remember being somewhat shaken by my first staff meeting when I was charg�. I
+                    asked what do you think we're doing here? Nobody answered. It was a shock.</p>
+                <p>We took what opportunities there were to enter into dialogue with the Syrians. I
+                    did not then perceive what I think I see now, Syria's interest in area hegemony.
+                    I didn't realize they wanted to exert regional power. There were unending
+                    disputes and reconciliations with Iraq and sometimes with Egypt. We went through
+                    assorted coups.</p>
+                <p>
+                    <hi rend="italics">Q: How seriously did we view the Soviet threat.</hi>
+                </p>
+                <p>APPLING: On the scale of one to ten, if ten means that they were about to invade
+                    and one means we had no fear, I would put it at 3 or 4. We watched with concern
+                    but, I think the Soviets didn't want a major confrontation with us there.</p>
+                <p>
+                    <hi rend="italics">Q: Any fear of a communist takeover?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>APPLING: No, we relied on the fact that the Syrians didn't want that. It was a
+                    Moslem state and was fairly anti-communist. They're Arab nationalists and they
+                    didn't want to be taken over by anyone. There are many who feel that the Arab
+                    states are more impervious to home grown communism than are others.</p>
+                <p>There were some communists in town. There was an incident which arose from a
+                    squabble at the international school. A communist lawyer got into it and we were
+                    concerned that he would exploit and aggravate our difficult relations. However,
+                    Syrian anti-Americanism worried us more than their pro-Sovietism.</p>
+                <p>There were occasions when I could go, as privately as possible, to Syrian
+                    officials to point out that slanderous anti-American stuff in the press every
+                    day was getting out of hand and to suggest that it would be useful to have a
+                    word with the editors. Sometimes it would be toned down.</p>
+                <p>
+                    <hi rend="italics">Q: One more question about Damascus. How did you find the
+                        atmosphere regarding Israel within the embassy.</hi>
+                </p>
+                <p>APPLING: There is a myth that the State Department is pro-Arab. I found all of
+                    the staff in Damascus to be objective. We reported honestly and tried to find
+                    ways to improve relations but there was no anti-Israel bias.</p>
+                <p>
+                    <hi rend="italics">Q: You had a new ambassador who was not career. A poor place
+                        for a non professional.</hi>
+                </p>
+                <p>APPLING: He had never been in government before. I assumed he was appointed
+                    because there was a political debt to him. He did not like me and we parted
+                    company very quickly. My judgment of his role is rather harsh and I should not
+                    express it.</p>
+                <p>
+                    <hi rend="italics">Q: You were then a pol/mil officer in Manila, with Ambassador
+                        Williams. What were your major concerns?</hi>
+                </p>
+                <p>APPLING: Basically, it was to maintain the acceptability of the bases with the
+                    populace and the government. It was not hard because Marcos was in absolute
+                    control at the time and he was our ally and dependent on us. There was always
+                    talk of eliminating the bases but I saw this as trying to get the bases on
+                    better terms. Among the tasks I performed was the negotiation of the base labor
+                    agreement—the terms under which Philippine nationals were employed by the bases
+                    and their relationship with the labor unions, very interesting exercise.</p>
+                <p>
+                    <pb facs="0010" n="Page0010"/>
+                    <hi rend="italics">Q: How did this work out with the American military. They
+                        seem to be oblivious to local problems.</hi>
+                </p>
+                <p>APPLING: It is true of some military personnel particularly those who have only
+                    worked on bases at home which they ruled with military authority. However, when
+                    I was in Manila, the Defense Department was sensitive politically, and put
+                    people in charge who were aware of political reality. They collaborated with the
+                    pol/mil officer in the Embassy and I worked closely and easily with the base
+                    commanders and their staffs. But there were all kinds of problems. A sentry shot
+                    a bicycle thief and the hot question was about jurisdiction.</p>
+                <p>
+                    <hi rend="italics">Q: How did that play out?</hi>
+                </p>
+                <p>APPLING: Eventually the Philippines agreed to giving the military commander
+                    jurisdiction. They were willing to concede the point as long as the offender
+                    left the Philippines at once. It was very touchy. In general, commanders worked
+                    very hard with the local authorities.</p>
+                <p>
+                    <hi rend="italics">Q: How did we view Marcos at that time?</hi>
+                </p>
+                <p>APPLING: I don't think the embassy had any illusions about Marcos' power and his
+                    abuse of it. But at that time we were willing to accept a large measure of it.
+                    He was a duly elected president of the country and these were internal matters
+                    to a large extent. He was supportive of us in almost every way in the country
+                    and in the region. He was useful when the conflict in Vietnam was growing bigger
+                    and bigger.</p>
+                <p>
+                    <hi rend="italics">Q: How did you get assigned to Tay Ninh in Vietnam in 1969,
+                        as a province advisor?</hi>
+                </p>
+                <p>APPLING: They needed people and it was difficult to get senior officers to go.
+                    There was a time when the Far Eastern Bureau was able to commandeer officers and
+                    I was ordered to go. One day I was going as DCM to New Zealand, and the next day
+                    that was canceled and I was going to Vietnam.</p>
+                <p>
+                    <hi rend="italics">Q: What was your job.</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>APPLING: I'm glad you asked that question. Those jobs were very little understood
+                    and most unusual. We were sort of petty viceroys, pro-consuls of a province,
+                    advisors, with a great deal of weight, to the province chief who had command of
+                    the local militia and authority over all of the civil side of the government,
+                    over the refugees, hospitals, agriculture, education, transportation and other
+                    economic areas. I had a diverse and numerous staff and we had authority and
+                    responsibility in our little world but our purpose was to strengthen the
+                    Vietnamese Community.</p>
+                <p>Tay Ninh is about 35 miles northeast of Saigon on the Cambodian border. The Cao
+                    Dai religion is predominant there and its cathedral is in that province. They
+                    had a social and political structure parallel to the government. I became a very
+                    good friend with their religious hierarchy. They had a tight community and took
+                    good care of their people. Their roots reached far back into nationalist
+                    opposition to French rule.</p>
+                <p>
+                    <hi rend="italics">Q: Most Americans don't have any background for this. How did
+                        you go about it?</hi>
+                </p>
+                <p>APPLING: With great difficulty. I believed that the Vietnamese understood the
+                    situation better than I or better than my staff. My first effort was to hear
+                    from them. To get as far down into the society as I could, to see what this
+                    guerrilla warfare was all about. The community seemed to be fine during the day
+                    and then at night there would be Viet Cong in the streets and propaganda
+                    lessons, troops terrorizing the farmers for food to feed their guerrilla.We had
+                    the border zones, where the Viet Cong took troops through, constant military
+                    movement.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find the local government?</hi>
+                </p>
+                <p>APPLING: There were two province chiefs while I was there, one was a scholarly
+                    type, timid perhaps, not wanting to be blamed for anything. He was carried by
+                    his subordinates. He went back to Saigon pretty quickly.</p>
+                <p>The second, became a good friend and I respected him as governor and military
+                    commander. He had been raised in a tradition of nationalism and wanted very much
+                    to establish a stable society and effective government. He was a military man
+                    respected by the regular army and the U.S. advisors.</p>
+                <p>
+                    <hi rend="italics">Q: Would you say something about the corruption. In some
+                        Asian societies it seems the only way things got done.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>APPLING: The northern part of Tay Ninh province has extensive tropical forests,
+                    very valuable wood. The people were allowed to harvest it if they had a permit.
+                    I'm sure no one ever got a permit without kicking back some of the returns. The
+                    province chief never would say anything about it but I understood that officials
+                    in Saigon had a list of who cut timber and what happened to the wood taken out.
+                    I doubt if any business was operated without somebody getting some money for
+                    it.</p>
+                <p>The Vietnamese army would sometimes come in when the Viet Cong were especially
+                    aggressive and the command would set up at the province chief's home and the
+                    surrounding houses. They had no good lines of supply and someone had to feed
+                    them. The province chief had no choice but to get the food from the farmers. He
+                    acquired land himself, I assume at a low price, by putting the squeeze on
+                    someone. Public positions were not obtained without influence. Even so, there
+                    was much progress toward civil order and local government truly serving its
+                    people.</p>
+                <p>
+                    <hi rend="italics">Q: The government of Thieu was exerting its authority through
+                        the province chief. But you thought things were working out.</hi>
+                </p>
+                <p>APPLING: We had a good beginning. Using almost exclusively local militia, Tay
+                    Ninh produced a degree of stability, opened up a very large area for agriculture
+                    with new rice and new technology. We began to have local elections. People were
+                    willing though frightened to enter into local government positions. I was
+                    troubled that the people felt as little identity with the national government.
+                    There was little popular responsiveness to them. Little people felt that the
+                    Saigon government were just soldiers making the best of an opportunity for power
+                    and wealth. I had hoped that given time, local democracy would grow up, and with
+                    education and experience there would be greater confidence in the national
+                    government. But it was weak while I was there.</p>
+                <p>
+                    <hi rend="italics">Q: What was the shock of the Tet Offensive.</hi>
+                </p>
+                <p>APPLING: I came to Vietnam well after the Tet offensive. I think it had more
+                    repercussions outside Vietnam, than inside. It was not a military success for
+                    the Viet Cong and I didn't see any shock waves in Tay Ninh but I did not grasp
+                    adequately its effect abroad.</p>
+                <p>
+                    <hi rend="italics">Q: How was the communication with the embassy?</hi>
+                </p>
+                <p>APPLING: I was in the CORDS line of authority and the embassy was a fairly
+                    distant thing to us. Political officers would come out from time to time but we
+                    did not work very effectively together. The Ambassador gave me generous personal
+                    attention and I thought we were well supported in our unusual role.</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>
+                    <hi rend="italics">Q: Was there any attempts to make things out to be better
+                        than they were?</hi>
+                </p>
+                <p>APPLING: Not in the 1968-69 tour.</p>
+                <p>
+                    <hi rend="italics">Q: That's right. I served as consul general in Saigon about
+                        that time, and you're right. Things weren't so bad, in fact we were
+                        winning.</hi>
+                </p>
+                <p>From there, in the heat of the battle, you went to Canberra as DCM.</p>
+                <p>APPLING: Like champagne out of the bottle. I had had a long experience by then
+                    with governments that didn't work well, and it was good to land in a country
+                    that was well organized and well disposed. You could raise a problem and get a
+                    responsible answer. It might be negative but nevertheless it was productive. And
+                    I was again with my family.</p>
+                <p>
+                    <hi rend="italics">Q: Walter Rice was your ambassador, was he not?</hi>
+                </p>
+                <p>APPLING: For me, as DCM, he was just fine. He took pride in his position and
+                    wanted to do things that would be useful.</p>
+                <p>He was a non professional ambassador who supported his staff and, from long
+                    experience in business presented a face of the U.S. which is important in
+                    Australia.</p>
+                <p>
+                    <hi rend="italics">Q: What were the issues?</hi>
+                </p>
+                <p>APPLING: Being good partners who shared information of views fully, trade, access
+                    to American markets. I remember one long and difficult problem about meat
+                    inspection. The Australians saw our criticism as harassment and attempts to
+                    limit their access to our market. We had to be very careful with our facts and
+                    work with them to meet our standards. I had a skilled Australian opposite who
+                    understood the situation and who brought in American inspectors to improve their
+                    system for their own market as well.</p>
+                <p>American investment was growing at an astounding rate and we tried to make sure
+                    it was acceptable to the Australians. We wanted to make the conditions inviting
+                    to American investors.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>Certainly the Nixon/Kissinger China opening was a shock to them since it came
+                    without any consultations. Sir Keith Waller was then Secretary for Foreign
+                    Affairs. He had been ambassador to Washington was very pro American—so much so
+                    that he could be one of our most useful critics.</p>
+                <p>
+                    <hi rend="italics">Q: Perhaps there was a need for secrecy.</hi>
+                </p>
+                <p>APPLING: I would like to think there were ways to cushion the impact but this is
+                    Monday morning quarter backing.</p>
+                <p>
+                    <hi rend="italics">Q: How did the Australians view our commitment to Vietnam at
+                        the time?</hi>
+                </p>
+                <p>APPLING: As you know they had substantial of forces there as well.</p>
+                <p>
+                    <hi rend="italics">Q: Did they have political problems as home like we did?</hi>
+                </p>
+                <p>APPLING: Much less than we did. This played a role in my future life. I'd been
+                    out of the States since 1965 and went from Vietnam to Australia and there saw a
+                    far out fringe squawking about Vietnam. I thought the resistance in the United
+                    States to policy was something like that. I really did not have a good
+                    understanding of the American political picture. I kick myself for not having
+                    insisted on being sent back to the U.S. before going again to Vietnam.</p>
+                <p>
+                    <hi rend="italics">Q: I think this is very difficult for others to understand
+                        how things impact when you are overseas. The Watergate business for instance
+                        you miss these things without the daily television news coverage.</hi>
+                </p>
+                <p>APPLING: I'll tell a Watergate anecdote. Sir Keith Waller had just recently
+                    returned from his position as ambassador here to take the position at the
+                    foreign office there. I was with him in his office when an aide came in with the
+                    press bulletin about the Watergate break in. He showed it to me and I dismissed
+                    it as trivial stupidity. He saw immediately the consequences this was going to
+                    have in American politics. I didn't grasp the significance of what he was saying
+                    until weeks later when events evolved further.</p>
+                <p>This illustrates how out of touch one can get abroad and how a skilled foreign
+                    diplomat may know us better than we do.</p>
+                <p>
+                    <hi rend="italics">Q: You went back to Vietnam as DCM from 1973-74. Why did you
+                        go back.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>APPLING: Previously, for personal reasons, I had turned down a request that I go
+                    somewhere, and I found that so contrary to my view of professional discipline
+                    that when the telegram came, I just went.</p>
+                <p>
+                    <hi rend="italics">Q: Who was ambassador.</hi>
+                </p>
+                <p>APPLING: Ellsworth Bunker was about to leave and Graham Martin had not yet
+                    arrived.</p>
+                <p>
+                    <hi rend="italics">Q: Did you know Martin before?</hi>
+                </p>
+                <p>APPLING: I believe we were in Paris together and he was then administrative
+                    officer. I knew him but not well. I saw him from time to time at the Department
+                    when I was there.</p>
+                <p>
+                    <hi rend="italics">Q: Did he ask for you?</hi>
+                </p>
+                <p>APPLING: Well, he would have had his choice of DCM, certainly I guess he didn't
+                    object.</p>
+                <p>
+                    <hi rend="italics">Q: What was the situation in Vietnam when you arrived?</hi>
+                </p>
+                <p>APPLING: We were just winding up the agreement on our withdrawal.</p>
+                <p>Charlie Whitehouse was charg�. In the first days there was a series of messages
+                    to iron out the last, most difficult passages with them, a lot of rushing out to
+                    the palace at midnight and crash messages back to Washington.</p>
+                <p>The agreements were then final and I was charg� for several weeks until Graham
+                    came out.</p>
+                <p>
+                    <hi rend="italics">Q: What was the attitude about these Kissinger agreements,
+                        ours and the Vietnamese.</hi>
+                </p>
+                <p>APPLING: The Vietnamese found them very dangerous. They repeatedly said they
+                    would have to rely on our support, not our military aid, but our support.</p>
+                <p>The embassy found the agreements acceptable. There was concern because there were
+                    lots of weak points. We hoped it would work.</p>
+                <p>
+                    <pb facs="0016" n="Page0016"/>
+                    <hi rend="italics">Q: Were they a way of saving face?</hi>
+                </p>
+                <p>APPLING: We felt that it was the best that we could do.</p>
+                <p>
+                    <hi rend="italics">Q: Graham Martin is a very controversial figure. Can you
+                        describe his arrival on the scene.</hi>
+                </p>
+                <p>APPLING: Ambassador Martin's relationship with me could not have been more kindly
+                    and gracious. He arrived at the airport and I met him and went to the office.
+                    There he spoke of his reputation of a hard man and denied it. He sought my
+                    opinions and I understood from him that the decisive things in Vietnam were not
+                    there but in Washington.</p>
+                <p>The next day he called me in and we talked at length again. I knew he was due at
+                    the Foreign Ministry and I led him downstairs. There was no driver ready for us,
+                    which I thought was strange but supposed it was just a mistake. We got to the
+                    Foreign Ministry and no one was at the entrance to receive him. I ran in to talk
+                    to the chief of protocol and discovered that I had the schedule wrong. The
+                    appointment was for an hour later and I had mixed it up nervously trying to
+                    please the new Ambassador. What a blunder, but the Ambassador treated it
+                    lightly.</p>
+                <p>
+                    <hi rend="italics">Q: How did he operate within the embassy.</hi>
+                </p>
+                <p>APPLING: Very quietly. He wanted to listen more than to speak. He was
+                    disappointed that I didn't have a firm enough hand on what was going on but then
+                    our embassy was so compartmentalized that it was not easy to manage.</p>
+                <p>
+                    <hi rend="italics">Q: I agree, byzantine is the word I use. Various powers
+                        involved, CIA, AID etc, and the military.</hi>
+                </p>
+                <p>APPLING: And the DCM wasn't able to tell them what to do.You asked earlier about
+                    twisted reporting. I don't think the Ambassador ever allowed that to occur, but
+                    there were lots of fragmentary reports coming in and he was reluctant to pass on
+                    an incomplete picture because of the political situation in the U.S. Where
+                    everything leaked and could be abused. He didn't want one report to be
+                    misconstrued as the entire picture, good or bad. Younger officers chafed at this
+                    because they worked hard and reported accurately the fragments of the
+                    picture.</p>
+                <p>There was an endless train of visitors. I remember his meeting with Bella
+                    Apzug.</p>
+                <p>
+                    <hi rend="italics">Q: She was from New York and very vocal about her opposition
+                        to the war.</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>APPLING: His conversation with her was amiable and penetrating. Both took very
+                    opposite positions but the Ambassador was charming, full of information and not
+                    provocative. I had expected fireworks but found a mutually respectful and
+                    friendly conversation.</p>
+                <p>
+                    <hi rend="italics">Q: How did he deal with the Vietnamese government?</hi>
+                </p>
+                <p>APPLING: A tinge of MacArthur. A little bit of the imperial. Listening to them
+                    and responding to their concerns. The conversations were like “You need to do
+                    this or you will lose support.” And he was able to make our concerns
+                    understood.</p>
+                <p>I can only really recall three or four conversations with Thieu and the foreign
+                    minister. With the latter the subject was usually international support for
+                    their position, how they might usefully engage with others. I have very few
+                    recollections of Ambassador Martin meeting with other ambassadors. He had great
+                    respect for the French ambassador who was our neighbor.</p>
+                <p>We were both gone a lot. He was back in Washington twice for extended periods. I
+                    was in the hospital for a couple of weeks and then went to Australia for
+                    Christmas and left the following April.</p>
+                <p>
+                    <hi rend="italics">Q: How did you deal with the middle grade and more seniors
+                        officers? There is the story that Ambassador Martin was completely out of
+                        touch and so on during the last days of our embassy there. What was the
+                        problem?</hi>
+                </p>
+                <p>APPLING: I think in any large embassy the ambassador is rather distant from the
+                    junior staff. He necessarily deals with the chiefs, but he talked and walked
+                    around a lot. He might have been a little suspicious of the station chief,
+                    because he thought he might know things he was not revealing.</p>
+                <p>I guess because of my Tay Ninh experience, I seized opportunities to visit the
+                    consulates.</p>
+                <p>
+                    <hi rend="italics">Q: After the peace accords, we had this system of consulate
+                        generals established around. How did they work out?</hi>
+                </p>
+                <p>APPLING: They worked fine. The Consuls General were in and out of Saigon
+                    frequently, and were well informed about their areas. We didn't really funnel
+                    information to them about what was going on at home.</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: Did you feel something less than a steady hand back in
+                        Washington because of the Watergate crisis?</hi>
+                </p>
+                <p>APPLING: I was much less sensitive to it than I should have been. I think Graham
+                    had it constantly in his mind. He worried all the time about who had things in
+                    hand when response was needed. I was not good in that role.</p>
+                <p>
+                    <hi rend="italics">Q: It took more than a year for this to play out and it was
+                        impossible to predict the downfall of the Nixon Administration because
+                        nothing like this had ever happened.</hi>
+                </p>
+                <p>APPLING: I don't think I really estimated correctly the ineffectiveness of the
+                    governments of the U.S. and of Vietnam. We would bring up problems but neither
+                    could do much about them.</p>
+                <p>
+                    <hi rend="italics">Q: When did you leave Vietnam?</hi>
+                </p>
+                <p>APPLING: March of 1974.</p>
+                <p>
+                    <hi rend="italics">Q: How did you feel about the situation in South Vietnam at
+                        the time?</hi>
+                </p>
+                <p>APPLING: Uneasy. My gut feeling was that it was not working well and yet I cared
+                    about the country and was proud about how much good work had been done. I kept a
+                    measure of confidence that they could make a go of it. I saw defeatism,
+                    especially amongst my friends in the media. I don't think I made any sweeping
+                    judgements because I didn't feel I had a total grasp of the situation.</p>
+                <p>
+                    <hi rend="italics">Q: You came back and your final assignment was as Deputy
+                        Director General of the Foreign Service from 1974-76. Then you retired. What
+                        did this job entail?</hi>
+                </p>
+                <p>APPLING: I was also Director of Personnel and that was the predominant element.
+                    The Director General took the major responsibility for the structure, the life,
+                    the personality, the nature of the Foreign Service. He or she is also a major
+                    advisor on principal appointments and the Deputy Director General assists as the
+                    boss chooses.</p>
+                <p>
+                    <hi rend="italics">Q: You had two Directors General. Nat Davis and Carol Laise.
+                        How did Nat Davis operate?</hi>
+                </p>
+                <pb facs="0019" n="Page0019"/>
+                <p>APPLING: Nat kept a very firm hand on what was going on and tended to use me to
+                    keep track of the shop and keep him informed. There were certain problems that
+                    didn't have to have his attention and I ran with those.</p>
+                <p>
+                    <hi rend="italics">Q: What kinds of problems were these?</hi>
+                </p>
+                <p>APPLING: If there was an employee in bad trouble, perhaps in danger of causing a
+                    scandal, someone needed to talk discreetly with him. That's what I would do.
+                    There was also constant conversation with the Bureaus about their personnel
+                    needs.</p>
+                <p>
+                    <hi rend="italics">Q: How did Carol Laise use you?</hi>
+                </p>
+                <p>APPLING: Carol used her deputy as a staff aide to get things in shape for her to
+                    act upon. She wanted ideas and wanted to reform the structure. I preferred to
+                    fix the glitches.</p>
+                <p>
+                    <hi rend="italics">Q: What were the major problems you had to deal with?</hi>
+                </p>
+                <p>APPLING: Examples would be the case of young officers still on probation who
+                    really had not had a chance to show their abilities or burned out officers who
+                    needed a way out. That kind of individual problem.</p>
+                <p>
+                    <hi rend="italics">Q: In other words trying to keep the system from being so
+                        impersonal.</hi>
+                </p>
+                <p>APPLING: Cases where there was conflict between bosses and subordinates, where
+                    careers, might be endangered and the work of the mission was being impaired.
+                    That category is one side of what I did.</p>
+                <p>Perhaps I spent too much time in this capacity. It may have been that I should
+                    have given it to the staff. Perhaps I could have focused on the big picture.</p>
+                <p>
+                    <hi rend="italics">Q: But the big picture is made up of individual cases such as
+                        you are describing. Sometimes that is lost.</hi>
+                </p>
+                <p>APPLING: Experience working with different cases enables you to see clearly where
+                    there are problems in the overall view.</p>
+                <pb facs="0020" n="Page0020"/>
+                <p>An example is the origin of the cone system.It was clear that people in the
+                    administrative or consular track had ceilings imposed on them. People who had
+                    broad ability and had served with skill and loyalty were topped out because the
+                    system did not fill the top ranks from those sources. Something needed to be
+                    done about this.</p>
+                <p>We were beginning to cope with the problem of the large number of unassigned
+                    senior officers. The selection out process was not cutting in soon enough to
+                    allow people to have a second career opportunities. We were not dealing with
+                    this properly.</p>
+                <p>The budget and the size of the service were constant problems. Efforts to keep
+                    the number of those entering the Service at a constant number—about 200—were
+                    important. A steady inflow of talent is essential to the Service and it has to
+                    be matched with outflow at the other end.</p>
+                <p>The Director General was never able to do all that he wanted. He needed the
+                    support of the government for maintaining a key position for the foreign service
+                    in international relations. There were, by this time, so many powerful agencies
+                    involved with foreign affairs, that the Foreign Service was having trouble
+                    making itself effective. I liked the structure under Roger Jones, where the
+                    under secretary for management had as his right hand the Director General of the
+                    foreign service. By the time I returned to Washington, the Director General had
+                    become much more detached from the seventh floor.</p>
+                <p>
+                    <hi rend="italics">Q: This was the Kissinger time, and how much attention did
+                        he, and Larry Eagleburger, take with career development as opposed to
+                        playing favorites?</hi>
+                </p>
+                <p>APPLING: Larry was much more concerned about professionalism than the secretary
+                    naturally. But neither thought much about that. They had some strong views on
+                    individuals whom they wanted or who they didn't like.</p>
+                <p>
+                    <hi rend="italics">Q: How did the selection of ambassadors and the White House
+                        impact on you?</hi>
+                </p>
+                <p>APPLING: Very much. The only really way to handle it was by seeing that the most
+                    competent people were portrayed accurately. I played more of a staff role in
+                    that. The intervention was the Director General's role.</p>
+                <p>
+                    <hi rend="italics">Q: How was the Ford administration?</hi>
+                </p>
+                <p>APPLING: I was not very much involved. The under secretary for management was the
+                    interface with Congress and the White House. In former days the Director would
+                    have been more involved but by my time that responsibility had shifted
+                    elsewhere.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>
+                    <hi rend="italics">Q: What about the perpetual battle between the geographic and
+                        speciality bureaus, and the centralized personnel system?</hi>
+                </p>
+                <p>APPLING: Geographic bureaus are much more possessive than functional ones. The
+                    Director General's office is constantly involved with career development and in
+                    serving the broader needs of the service.</p>
+                <p>My approach was to be on the closest personal basis with the assistant
+                    secretaries and the executive directors of both kinds of bureaus. We had common
+                    purposes and conflict was not inevitable.</p>
+                <p>
+                    <hi rend="italics">Q: You were facing a new problem, several, minorities, more
+                        women in the service, and what to do about the wives?</hi>
+                </p>
+                <p>APPLING: We didn't deal with the spouse issue very well. We hadn't come to grips
+                    with it. We knew it was an economic punishment to come into the service. We
+                    initiated some employment abroad for the wives and found suitable assignments
+                    for tandems. I worried about it but at that time we didn't have too many cases
+                    like that.</p>
+                <p>We were reaping the bitter fruits of the first efforts to increase the intake of
+                    minorities. We tried very hard to get black persons. We waived exams, we
+                    encouraged people to enter without then giving them enough support. And we were
+                    getting the first failures. Within three and five years, they were coming out of
+                    probation on the wrong side. This made it look like we were against the
+                    minorities. But I don't know any subject that we spent more time engaged in,
+                    than with the recruiting and training of young minority officers and assuring
+                    equal opportunities for women.</p>
+                <p>
+                    <hi rend="italics">Q: I remember being a senior officer myself dealing with this
+                        problem. When you have a highly competitive system and you bring in one set
+                        in that meet a certain of standards and then you bring in another set who
+                        are brought in for perfectly honorable reasons and all, but for which you
+                        waive the competition and then you put both groups in competition with each
+                        other, with no program to help out, if this is possible, you're going to
+                        have a division.</hi>
+                </p>
+                <p>APPLING: It was all done by score, quantity. I took much more pride in the
+                    successes, in quantity. Those who prospered and became excellent officers. There
+                    were not as many as we would have liked but we got caught up in the numbers
+                    game.</p>
+                <p>
+                    <pb facs="0022" n="Page0022"/>
+                    <hi rend="italics">Q: Tally Palmer. Could you explain that case?</hi>
+                </p>
+                <p>APPLING: Tally Palmer was a talented young woman officer who was very interested
+                    in women's rights and discrimination. She also became a priest in the episcopal
+                    church, one of the first to break the barriers there.</p>
+                <p>She was in east Africa and had been assigned as labor attach� I think. She was
+                    removed from that position under the shadow of some kind of statement that a
+                    woman can't be effective in that role. It was a case of bad judgement or
+                    discrimination. She sued the State Department. I spoke to her on a number of
+                    occasions and shared her interest in having more women join the service and in
+                    their being treated fairly.</p>
+                <p>Lawyers kept coming to see me in that job because there were a number of suits in
+                    which I was named just because of my position.</p>
+                <p>
+                    <hi rend="italics">Q: What gave you the greatest satisfaction?</hi>
+                </p>
+                <p>APPLING: My greatest satisfaction has come in the last year where we see some
+                    fulfillment of the dreams we had in the early post war period.</p>
+                <p>
+                    <hi rend="italics">Q: You mean when eastern Europe has changed remarkably?</hi>
+                </p>
+                <p>APPLING: Where the inherent problems of communism made it necessary to end the
+                    hostility and to move ahead toward a better world.</p>
+                <p>I take great satisfaction about the reporting that came out of Germany in those
+                    early years. I think we did a good job in absorbing the growth of the new German
+                    state and society. We influenced it to some extent and we understood it very
+                    well. I think the organization of NATO was an innovation in foreign affairs. It
+                    was a rewarding task to create an effective organization. It was unique and we
+                    had no blue prints. I like to think that I had an effect in management in the
+                    department. I was able to see progress and justice done. I've enjoyed the
+                    personal relationships with outstanding public servants.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

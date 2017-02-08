@@ -1,657 +1,1434 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000724">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Clare Boothe Luce </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Clare Boothe Luce </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project Women Ambassadors Series</p>
-<p>AMBASSADOR CLARE BOOTHE LUCE</p>
-<p>Interviewed by:  Ann Miller Morin  </p>
-<p>Initial interview date: June 19, 1986</p>
-<p>Copyright Ann Miller Morin (used with permission)</p>
-<p>
-<hi rend="italics">Q:  My first question, Ambassador, is this: You have had a remarkable career by anybody's standards, and you have had, really, several careers, as a writer, as an editor, as a foreign correspondent, congresswoman, ambassador, and now you're a consultant. How would you place your experience as an ambassador in the totality of your life?  Is it a high .  .  .</hi>
-</p>
-<p>LUCE:  Well, I wouldn't .  .  .  speaking of it as a human experience in life, it was very interesting, very rewarding, very exhausting at the time, but I wouldn't say it was as broadening an experience as being a congressman.  In other words, I think being a congressman would be very helpful to anyone who is appointed an ambassador.  Now, it would not be helpful to him in learning the language of the country; you'd have to know that before you went.  The State Department would certainly give you what they gave me, a quick course.  But the diplomatic experience is very different.  Now I'm leaving out personalities and language, but just as a process, a technique, the diplomatic experience is very different from the political experience because, in politics, to use the phrase of one of the founding fathers, the people are the king and you are getting your orders from the people.  We live now in a democracy and not a republic.  The function of being representative for the people and making decisions for the people has long since passed.  They make the decisions and you are supposed to follow them out.  Their decisions are often very close decisions, they're often confused, they're often ignorant, they're often conflicting, so that the poor congressman is driven to guess what it is that his constituents really want.</p>
-<pb facs="0002" n="Page0002"/>
-<p>Now there are, I suppose, still constituencies in America where your constituents would be largely represented, let's say, by the tobacco companies, or the tobacco workers as well as companies—for all the workers in the company, or by the largely agricultural, or whatever.  But sometimes a Congressman will have the misfortune, misfortune or good fortune, call it what you will, of representing a district like the Fifth Connecticut District, which has a . . . it's a little America where there's a little of everything, so, as you can't possibly please everybody, you please yourself.  You do what you think is right.  I mean, all the time that I happened to be in Congress, I only on one occasion made a vote that I did not in my own conscience believe in.  But that I couldn't have done if I had represented, say, a different kind of a district.  I would probably have been voted out of office if I'd followed my conviction.  So, the political experience is one of trying to keep your conscience and your constituencies together.</p>
-<p>The diplomatic experience is a good deal more agreeable because you're taking orders from your commander-in-chief.  And while you do have the right, and the duty, even, to disagree with the Department of State's policy, and you sometimes can change their minds, nevertheless, you have the comfortable feeling of following orders for the United States and the American people as a whole.  And that's a very rewarding feeling after politics.</p>
-<p>
-<hi rend="italics">Q:  I should imagine it would be.</hi>
-</p>
-<p>LUCE:  One of the reasons that Mansfield [former senator who was ambassador to Japan under Carter and Reagan, 1977 to 1988] resigned from the Senate was that he was promised Japan.  And presently he cannot be unstuck with Japan.  The way things are going, he'll be there forever.  So, the diplomatic experience . . . also, the diplomat has a great deal of privacy compared to the politician.</p>
-<p>
-<hi rend="italics">Q:  Is that so?  I'm surprised.  I would have thought it was a sort of goldfish-bowl-like existence, being the chief . . .</hi>
-</p>
-<p>LUCE:  Oh, it is a goldfish bowl as far as you are, so to speak, on parade, but you are not subject to the intrusion, at least in my day, of the press.  You didn't have to account for your actions to anybody but the boss man, who was the secretary of state or the president and your private life, while it had to be above board and all the rest of it, which is very important—your privacy, when it was invaded was invaded by your peers rather than anyone who met you on the street who could come up and say, “I'm your constituent.  Will you take me home and give me a cup of tea?” You know?</p>
-<p>
-<hi rend="italics">Q:  Yes, yes, unfortunately.</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>LUCE:  And not always a cup of tea, either.  So it is different in that respect.  Then I think that we're seeing more and more women ambassadors.  It doesn't distress me at all.  It's a funny thing for a woman to say, that I should even suggest I might be distressed, but I've always thought myself that getting the job done as well as possible was a good deal more important than whether you put in a black or a woman or an ethnic of some sort or someone who had a certain religious bent.</p>
-<p>
-<hi rend="italics">Q:  Yes, exactly.</hi>
-</p>
-<p>LUCE:  Oddly enough, women are well qualified as diplomats; I think much better than these politicians.  I mean, by nature.</p>
-<p>
-<hi rend="italics">Q:  By nature?</hi>
-</p>
-<p>LUCE:  By nature.  Not by where they went to school or anything of that sort, but by nature, women like to strive for agreement.  In fact, I'm not with it.  I don't sound like a member of NOW [National Organization of Women], and I never have been one, either.  But I think women are better negotiators.  I think they do what is diplomatic, always must do, seeming to be a breeze and getting along and seeking for an honest compromise, and women are very good at that.  And then a lot of diplomacy is done in the foreign office of the host country . . . [phone rings] Where were we?</p>
-<p>
-<hi rend="italics">Q:  You were saying that women have a natural bent for diplomacy . . .</hi>
-</p>
-<p>LUCE:  . . . and pleasing . . .</p>
-<p>
-<hi rend="italics">Q:  . . . and getting agreement between different people.  In connection with that, would you explain your part in the Treaty of Trieste?  I have seen so many different versions, and it's something that I want to highlight in the book.</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>LUCE:  You've seen many different versions partly because I never wanted to press my own view on anyone.  I was content to let everyone figure it out the way they wanted to at the time.  But the actual fact was, very soon after I arrived, the prime minister at the time ordered the Italian troops to Trieste, to the border.  And I had been briefed about the so-called Trieste situation, and faced with what looked like war which was about to come, I remembered that what State Department advice had been was, “When it boils up, calm it down; when it calms down, forget it.” And that struck me as a recipe for constant conflict.  The Italians were doing, or the Italian leadership was doing, pretty much what leadership does in any country when in a domestic jam, trying to create a diversion with a foreign country with whom you have sufficient disagreement, so that the diversion seems logical.  So there it was, and I strived to find out from my minister counselor, who was a man called [Elbridge] Durbrow, what steps we were taking, what steps I should take to get the question solved.  And was told that it was probably insolvable within the present context, you know?  So I wrote some letters, as I remember, to Livy [Livingston] Merchant, who was the head of the European desk, and got back equivocal answers and they all came to the same thing: “As soon as they calm down, they'll forget it, forget the whole thing.” I knew it was boiling up again, because the situation in Italy was such that the next prime minister, and the next, would all return to Trieste to settle their own political disagreements.  As a matter of fact, De Gasperi [Alcide De Gasperi, leader of the Christian Democratic Party and sometime prime minister of Italy.] said to me, “If I had had this Trieste settled, I would still be Prime Minister.”</p>
-<p>So I then said, “Well, how do you get this thing settled?” And somebody in the embassy, and I couldn't remember who it was, said, “You have to get [to] the National Security Council; you have to get it on the agenda.”</p>
-<p>
-<hi rend="italics">Q:  On the agenda of the National Security Council.</hi>
-</p>
-<p>LUCE:  So I said, “Well, how do you get it on the agenda?” And he said, “Well, you know the president.  He can put it on.” Well, I did know the president, and this was one thing where it goes to show that it's important to know, and by know, I don't mean just shake his hand.  I knew that Ike, President Eisenhower, was the kind of military man who never could read more, never had the time to read more than a page on any question.  So I sat down at my own typewriter and tried very hard to put the complicated Trieste question—it was terribly complicated—and the reasons for solving it on one sheet of paper.  I was always running over onto two and three, and pulling it out of the typewriter.  I said to myself, “My goodness!  This guy is a soldier.  If there's anything that he is familiar with, it's that famous little childhood poem, 'For the want of a nail the shoe was lost; for the want of a shoe, and so on'.” So I paraphrased it.</p>
-<p>
-<hi rend="italics">Q:  Very cleverly, too.</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>LUCE:  Anyway, I think that Ike had it in one of the books he wrote, the one that he called Stories That I Dine Out On, or something like that, I just don't remember; it's such a long time ago.  Anyway, the way the thing began was, “For the want of a two-penny town.” And I wrote at the bottom of this letter, “Dear Mr. President, please let us try to solve this.” Put it on the agenda, or whatever.  And the word came over, “Go ahead.  Try to solve it.” Well, cheers! And then [laughs], it was impossible, of course, to solve it without the British, because the occupying powers were the British and ourselves in Trieste then.  Somehow or other—I've forgotten all this history; it was a long time ago—but the end of the war left Americans still in Trieste, which was disputed between Tito [Marshal Tito (Josip Broz), Yugoslav communist leader] and the then caretaker government of Italy.  As it happened, with De Gasperi towards the end, and with [Mario] Scelba, and then with I've forgotten whom.  We had a new prime minister every year, as you know.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>LUCE:  Then it was all right to try to do this, and it was not only all right, it was most agreeable to do it with the British ambassador.  Meanwhile, the news was that we could put it on the agenda.  Permitted my opposite number in Yugoslavia—sorry, I cannot remember his name . . .</p>
-<p>
-<hi rend="italics">Q:  Mr. Riddleberger?</hi>
-</p>
-<p>LUCE:  Riddleberger [James Riddleberger, FSO, ambassador to Yugoslavia, 1953-1958] Riddleberger could tell Tito to lay off because we're going to get this solved and, obviously, Riddleberger was in favor of his client; it was Tito's argument.  I was in favor of the Italians'.  So anyway, everybody fell back and the arguments began.  At what point the French latched onto it, I don't know, except to say that the French always latched onto to everything pour la gloire or pour raison d'autre . . .</p>
-<p>
-<hi rend="italics">Q:  [Laughs] Yes.</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>LUCE:  . . . and they don't give up.  Anyhow, there the French walked in on it, and not only did they walk in on it, but I never will forget that French ambassador—he's a career ambassador—who insisted that he sit in on the meetings at the American embassy and insisted that every word of everything should be translated into French, and the final document should be in French.  That wasn't bad enough, but we had to go to the foreign office, and there we finally became like a musical comedy, with the English ambassador and the American ambassador and the French ambassador marching three abreast to the Chigi.  And there would be reporters as we went in, and reporters as we left.  And after a while . . . I think that went on for some time.  I didn't write up the experience or keep a diary, but, anyway, it then occurred to me that it would never get settled, because trying to conduct these diplomatic negotiations in public . . . that's when I first realized that modern communication had absolutely ruined the diplomatic technique of getting things solved.  It's really a very serious problem.</p>
-<p>
-<hi rend="italics">Q:  Oh, it is, especially in this country.</hi>
-</p>
-<p>LUCE:  Yes.  I mean, for example, there isn't any question that the media has made it all but impossible to solve the question of terrorism.</p>
-<p>
-<hi rend="italics">Q:  That's right.</hi>
-</p>
-<p>LUCE:  So I said, “How do we get this thing where it belongs?  Where it isn't in the headlines with the dope story, or whatever.  I told my husband what I had in mind and he said, “It's worth a shot.” I made a trip back to Washington and I went to see the secretary, whom also I knew very well, Foster Dulles [John Foster Dulles, Secretary of State 1953-59], and said, “Foster, why not—if I can get them to agree, and I'll do my best, and you tell Riddleberger to go ahead on his end, and we'll persuade the Italians to appoint a team and the Yugoslavs to appoint a team to negotiate this thing in the place where they will both agree; not in Italy and not in Yugoslavia.</p>
-<p>
-<hi rend="italics">Q:  In a third country.</hi>
-</p>
-<p>LUCE:  And then you pick a diplomat and the British pick one to chair it, and see if you cannot decide [on an agreement].  Now, they began those negotiations and I think they took over a year.  Our man—what was his name?  He'd been ambassador to Austria, a wonderful man.</p>
-<p>
-<hi rend="italics">Q:  Llewellyn Thompson.</hi>
-</p>
-<p>LUCE:  Llewellyn Thompson.  That wasn't what we called him.</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q:  “Tommy.”</hi>
-</p>
-<p>LUCE:  “Tommy.” Tommy Thompson chaired the Trieste proceedings.  Who his British opposite number was, I don't know.  In any case, in the end, when they began discussing the ownership of Trieste, the whole city and everything it encompassed, when they got to the end, they hit a road block.  It had a certain similarity to the difficulties the Israelis are having with Golan Heights.  What they were arguing about was the crest of a hill, 14 acres—I mean, a little more than that—the size of a golf course.  That's all there was: a golf course, but it was on the crest of the hill, and the Israelis' idiotic nationalistic things come in [to play].  The Yugoslavs didn't want the Italians looking down on them, and vice-versa.  And there it was, absolutely, hopelessly stuck.</p>
-<p>
-<hi rend="italics">Q:  As only they can be in the Balkans.</hi>
-</p>
-<p>LUCE:  Now, I was dressing to go to a dinner when someone came to me, and I shall not tell you the name at this point because it would be breaking a promise made many years ago.  A telephone rang and it was a man.  I was told it was very urgent and I went to the phone. Oh, yes, I remember my husband was there, and he said to me, “It's So-and-So,” who asked for me, and it was someone who'd worked for my husband.</p>
-<p>
-<hi rend="italics">Q:  So you knew the person was trustworthy.</hi>
-</p>
-<p>LUCE:  And my husband said to me, “Doesn't want to talk to me.  He wants to talk to you.”  I got on the phone and he said, “May I come and see you?  It is really very urgent, and your husband will tell you I'm a serious man.” I was going out to dinner, but I put aside the time, and he came to see me.  I'll never forget it as long as I live.  He laid down a map and that's how I remember his pointing.  He said, “This is all that it's about.  These few little acres.” And he said, “Now I'll tell you why; what the real argument is about.  The real argument.”</p>
-<p>Now if you've been reading the history of Trieste, you might come to think it was about fishing rights and this or that.  Even today I'll be in trouble if I tell you what real troubles it was about.  I just can't tell you.  All I can tell you is there was something—there was a way in Tito's own interest, and there was a way that certain very important people in Italy would be satisfied on the question of the debt they thought was owed to them.
-.
-Q:  I see.  I understand.</p>
-<pb facs="0008" n="Page0008"/>
-<p>LUCE:  Then this man—I said to him, “Why are you telling me these things instead of the CIA?” “Well,” he said, “I'm telling you first because I've never met you and I've always liked you and, secondly, because I'm going to tell them tomorrow but I thought you should have the first crack at it because you have worked so hard and you're the only person that has.” So there I had the secret, but I did not have the means at my disposal of twisting Tito's arm, and there were reasons why it couldn't be twisted, even on the cables, so I was very unhappy about it and said, “I will go back to Washington.  I got back to Washington, and the day before I was going to see the president there was big dinner given at the Pan American Union, a ball of some sort—a big diplomatic dinner, enormous.  And the man I sat next to was an old friend, Bob Murphy [FSO, ambassador-at-large].</p>
-<p>
-<hi rend="italics">Q:  Oh, yes.</hi>
-</p>
-<p>LUCE:  And Bob said to me, “How is the Trieste affair going?” And I said, “Bob, it's hung up because we have a little problem that I can't solve.  I can take care of the Italian end, but I can't take care of the Yugoslavian, because our ambassador there has gotten us painted into a corner because he insists that there is no possible way of changing Tito's mind.” That was also part of my information.</p>
-<p>
-<hi rend="italics">Q:  Sure.</hi>
-</p>
-<p>LUCE:  And I said—and I remember using that phrase, because it always stuck in my mind, “What we need is someone who knows Tito well enough to twist his arm.” And he said, “You're talking to the man.”</p>
-<p>
-<hi rend="italics">Q:  Isn't it amazing, the fortunes of history?</hi>
-</p>
-<p>LUCE:  It always reminds me of Churchill, when we were talking about what makes a great man, and he said, “I've told you all these things and you've forgotten the most important thing.” I said, “What's that?” He said, “Luck.” Well, anyway, there I was, lucky enough to sit next to Bob Murphy who , who had been in the OSS during the war and who had had OSS contacts with the Partisans in Vis.  He was on a first-name basis with Tito.  I said, “Now,” and this I can say now because Tito's dead and all of that doesn't matter.  We were then giving wheat to Tito under our Marshall Aid.  It's still going on.  Now one of the unbreakable rules in the State Department was, you do not—what do they call it— I haven't thought of all these things in a long time—I must remember the phrase— Kissinger—linkage.  You were not permitted linkage.  The person who, say, was negotiating a trade treaty would not be able, for example, to use part of one.  Our government would not be able to marry two separate problems.</p>
-<p>
-<pb facs="0009" n="Page0009"/>
-<hi rend="italics">Q:  Right.  I understand.  It would look like a bribe otherwise, I suppose.</hi>
-</p>
-<p>LUCE:  Yes.  We've—Kissinger [Henry Kissinger, secretary of state, 1973-77] got all over that by coming outright and saying, “We're going to proceed on a quid pro quo basis.” But in my day you weren't supposed to link things.  So I said, “Now, if you will go over and tell Tito that unless he gives in on those 14 acres [whatever the little piece of property was], no wheat.” He won't know because he's a totalitarian and he thinks that the State Department, the president, and everybody would act the way he would act in those circumstances.</p>
-<p>
-<hi rend="italics">Q:  He'd believe it.</hi>
-</p>
-<p>LUCE:  I said, “Could you go?  He said, “I can't go like that unless the President sends me.” So the next day I went to see the President.  I said, “Mr. President, I only have one favor to ask, and we've almost gotten this Trieste thing solved.  If Bob will stop in Rome and then go on to Belgrade, and be briefed in both places, and make his call on Tito, we can settle this thing.” And I think if you looked this up in the papers, you will see that he wasn't gone but three days, or four days—and a few days later, with great sighs of relief, Tito and the Yugoslavs signed the treaty.  Then there were all sorts of amusing things happening after that.</p>
-<p>I may say in passing, and I haven't sought to make any great capital out of this because what is Trieste to the average American?  But you ask any Italian . . .  There's no doubt in their minds who—you may find there's still . . . First, the Italians knew I did it, and everybody in the embassy knew.</p>
-<p>
-<hi rend="italics">Q:  Sure.</hi>
-</p>
-<p>LUCE:  The first—this is very funny.  After I left Rome, I think the first public service job that I took was with the Carnegie Peace Foundation, right after Alger Hiss [a former assistant of state, was accused of being a communist spy and was convicted of perjury in 1950] left, and they had put an awful lot of money up for articles on how the nations deal with conscience.  I hadn't been there a week before the chairman asked the executive secretary—he was the one who did all the work—and there was no money for any new project.  That's why I left, because Mr. Hiss had allocated all the money for the next six years.</p>
-<p>
-<hi rend="italics">Q:  Oh, is that so?</hi>
-</p>
-<p>LUCE:  You know?  So there really was very little money.  So the executive secretary came forth with a document called La Problems de Trieste.</p>
-<pb facs="0010" n="Page0010"/>
-<p>And so help me, I found out to my amazement—what was on the table was whether it should be translated and put out—I took it home and read it and I was really enchanted to discover that the French had settled it.</p>
-<p>
-<hi rend="italics">Q:  Oh, had they?  [Laughter] Isn't that lovely?</hi>
-</p>
-<p>LUCE:  We'd check the French out, you know, in London.  [Laughs] It really was funny.</p>
-<p>
-<hi rend="italics">Q:  They had no part at all in the final settlement, did they?</hi>
-</p>
-<p>LUCE:  Nothing at all.  That's one of the reasons why, like I told them in the State Department, “You will not be able to keep the French out of this if we go on,” so, it was only by dropping—</p>
-<p>
-<hi rend="italics">Q:  It had to be done by secret means.  Isn't that funny?</hi>
-</p>
-<p>LUCE:  Yes.  So then after that, there were various interpretations and, generally, Bob Murphy was given the credit, which was due him.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>LUCE:  That his visits, surprisingly, unblocked everything.  And I was perfectly happy he should have that credit, because it is true that I would not have known quite how to dig us out of that personal contact.</p>
-<p>
-<hi rend="italics">Q:  Yes, yes, yes.  But all the same, you put him up to it.  So . . .</hi>
-</p>
-<p>LUCE:  Yes.  I went to the President.</p>
-<p>
-<hi rend="italics">Q:  You were the deus ex machina, weren't you?</hi>
-</p>
-<p>LUCE:  That was one of the reasons he was given this great dinner at the OSS.  He asked me to do some things—</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  Oh, did he?  Is that why you were given the high award— the Knight of the Grand Cross of the Order of Merit of the Italian Republic?</hi>
-</p>
-<p>LUCE:  Well, that may go with the job, I don't know.  But they did give me—and I have it somewhere—when I left (and I may say that this was before we had rules about personal gifts)—I have a little charm bracelet that I wore very often—little mementos, things my husband—every time I did anything that he thought was interesting—I have it inside.  It's really a very fascinating piece of jewelry.</p>
-<p>
-<hi rend="italics">Q:  I'm sure it is.</hi>
-</p>
-<p>LUCE:  But I thought I'd lost it, and my husband kept saying, “Don't worry, it will turn up.” He had come and gone to the Foreign Office—</p>
-<p>
-<hi rend="italics">Q:  Really?  The Italian Foreign Office?</hi>
-</p>
-<p>LUCE:  Yes.  Got my bracelet and had made in enamel with just very tiny little, itsy-bitsy chip diamonds, a charm, about as big as my thumb but, nevertheless, a charm to wear on my bracelet, with the insignia of Trieste.</p>
-<p>
-<hi rend="italics">Q:  How charming!</hi>
-</p>
-<p>LUCE:  Which was wonderful.  And when I left, they gave me a huge dinner at the Villa Madonna.  And I said to [Vittorio Zoppi], who was the head of the Foreign Office—that's the kind of name you don't forget—</p>
-<p>
-<hi rend="italics">Q:  No.  [laughing]</hi>
-</p>
-<p>LUCE:  Zoppi.  I said to Signor Zoppi, “You have all made these wonderful toasts and said these marvelous things about me.  Would you privately tell me the truth why you say you're all so sad that I'm leaving?” And he gave me a most unexpected answer.  He said, “Because you've always told us the truth.” Now, I don't mean to imply by that other ambassadors didn't tell the truth, but I'll say this is where my congressional experience came in very useful.  Host of the things that happen in your foreign countries are comparable to questions requiring the acquiescence of the American Congress.  And knowing how Congress will vote and what the mood of the American people is, politically is of great value.</p>
-<p>
-<pb facs="0012" n="Page0012"/>
-<hi rend="italics">Q:  I had not thought of that, but you're absolutely right.</hi>
-</p>
-<p>LUCE:  Now it wouldn't matter so much, I suppose, in a country that was very rich.  But it matters that we're on the giving rather than the receiving end.  Most countries in the '50s were on the receiving end.  You had to be very careful.  Now the other triumph I had which did not make me so popular with the Italians, was what was called the Off-Shore Procurement.</p>
-<p>
-<hi rend="italics">Q:  Oh, yes.  I want to hear about that.</hi>
-</p>
-<p>LUCE:  It did make me—someone was telling me—Sylvia Morris, who's doing the biography, has gone to all the trouble to have [Vittorio] Valetta's book translated from Italian.  I haven't even bothered, to tell you the truth, to read it, because you can't sit and read things about yourself; it doesn't make you any younger.</p>
-<p>
-<hi rend="italics">Q:  Well, that's true.</hi>
-</p>
-<p>LUCE:  Valetta was the head of Fiat, and there were two labor unions there.  One was the Christian Labor Union; I think that was called Chislu.  And then there was the Communist Labor Union.  I mean, I should have briefed myself about all this past history.  I haven't thought about this in many years.  At any rate, the name of the game at the American Embassy was lessening the Communist vote and the Communist influence, and where it was most important was in the labor unions.</p>
-<p>And the—the Communist—the fellow who was the shop steward—he was the guy.  He was the Communist who was going to put in other Communists.</p>
-<p>
-<hi rend="italics">Q:  Sure.</hi>
-</p>
-<p>LUCE:  Now, what kind of arm-twisting could we do which was legitimate which wouldn't be called interference?  Well, I found the recipe for that.  There, again, the Congress really was very useful.  The Congress had passed a bill called the Offshore Procurement bill.  And this was part of a plan to restore the industries of the French and the Germans, and everybody by buying in their countries the material that would then be assigned to NATO, the hardware of various sorts for the NATO forces.  And this was terribly important to the Italians, and even more important—most important—to the largest complex, industrial complex, of all, which was Fiat, owned by Gianni [Giovanni] Agnelli's family.  But the brains of the particular thing—and I won't call him the Iacocca, because I think Valetta could have run circles around Iacocca [Lee Iacocca, Chief Operating Officer, Chrysler Corp.]—was a little professore, Valetta.  And then the other important industry, the shipyards—shipping.  Now all these things we were . . .</p>
-<pb facs="0013" n="Page0013"/>
-<p>[Tape 1, Side 2]</p>
-<p>LUCE:  The Congressional law had a clause in it that none of these funds should be used in any way that would increase the Communist influence in any country where the funds were going.  Italy was one of those countries, and it was almost on the verge.</p>
-<p>
-<hi rend="italics">Q:  It certainly was.  It was a big worry.</hi>
-</p>
-<p>LUCE:  And, as I say, this was something I had to do.  And it finally came down to the point where I would either make good on what I was saying or not.  You see, we can't interfere.  I can't say, “You know my heart bleeds for you, Mr. Lauro.” Oddly enough, the guy I had the most trouble with, they've got a ship named after him now, called the Achille Lauro, and he was the big shipowner and shipbuilder in the south of Italy.  He was one of them; there were a number of them.  But my story was the same to all of them, which was—whatever the industry, be it shipowners, automobiles, whatever it was—I always told them the same thing, which was, “Yes, I did understand that if we canceled the order it would mean unemployment.  And I couldn't feel more badly about the whole thing, but the Congress would send for me and I would be fired and the next ambassador would be fired, too, if we allow any Communist-dominated factory,” which was true—true in the sense that the Congress had written the legislation.  It was not quite true that if push came to shove that they would have penalized the poor Italians, but I had to act as though the Congress meant what it said.</p>
-<p>
-<hi rend="italics">Q:  Sure.</hi>
-</p>
-<p>LUCE:  And they didn't believe me.  Not at the beginning.</p>
-<p>
-<hi rend="italics">Q:  They didn't believe you at the beginning?</hi>
-</p>
-<p>LUCE:  If you could see the Italian newspapers! The Archives in Congress are full of the cartoons that they wrote about me.  And, incidentally, during the Trieste one, there was—my name, which has always been a misery here, you know, “loose woman,” “loose talk,” all that kind of thing—in Italy, it was just wonderful: “Clara Lou-chay” meant “clear light.”  And there were a lot of cartoons, many of them puns on my name during the Trieste thing.  “The light at last,” you see.</p>
-<p>
-<hi rend="italics">Q:  Uh-huh.  I see, yes.</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>LUCE:  And all kinds of cartoons were always being— I remember one Trieste cartoon with two characters—always the “Mike and Ike” kind of characters were in one of the Italian papers—and one was saying to the other, “It's a strange thing.  In Italy the only man is a woman.”</p>
-<p>
-<hi rend="italics">Q:  [Laughs] I love that.</hi>
-</p>
-<p>LUCE:  I thought that was funny.  And really, the funniest one is—this is again having the sense of the Congress.  I wrote to Foster and said, “Foster, one of the big things the Italians are talking about is how badly we treat our blacks.  Could you find me a black cultural attach�?” And we brought over—I think I was the first who ever had . . .</p>
-<p>
-<hi rend="italics">Q:  You must have been.</hi>
-</p>
-<p>LUCE:  . . . a black man [as cultural attach�] in an embassy.  A Dr. Snowden from Howard University.  He was Master of Romance Languages at Howard, and a charming man.  He never speaks much about the extraordinary honor.  He just fell so much in love with Italy that, while he returned, his daughters married Italians.  At any rate, he was very good.  But one of the—I'll just tell you this because this is a very amusing pun.  The Italians did not very much like blacks.  I wasn't doing it to please them, but to be able to stop the business that we just. . .</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>LUCE:  The day after he arrived, there was a cartoon in the paper and it showed me—I was always shown smacking along like that, you know. [Laughter] They never quite knew—the Communist papers made me look like a hag.  You know, I was made to look like an awful witch, with shrunken bosom and everything.  And the papers that were for me would have me going along with bosoms pointed out—it really was very funny.  They couldn't get their act together as far as what I looked like.  Well, anyway, there was this cartoon of me spanking along down the Via Veneto, followed by a black man, and the thing underneath it said, “Dopo la luce l'oscuro,” which quite literally means “After the light, the dark.” The way we put it is, “After the night comes the dawn.” But anyhow, there were lots of cartoons, an enormous number of cartoons.</p>
-<p>
-<hi rend="italics">Q:  You were really taken apart by the Communist press over there, weren't you?</hi>
-</p>
-<p>LUCE:  Oh, terribly.</p>
-<p>
-<pb facs="0015" n="Page0015"/>
-<hi rend="italics">Q:  How did that affect you?  Did it bother your self-confidence?  Or did you figure, well, I'm obviously doing the right thing or they wouldn't be after me this way?</hi>
-</p>
-<p>LUCE:  Oh, I didn't let it bother me.  It didn't even bother me when my side was; the side I was for.  And they were in this question I was speaking of.  You cannot imagine the press I got when I canceled a very large ship order.  They were building a new ship.</p>
-<p>
-<hi rend="italics">Q:  Oh, you did?</hi>
-</p>
-<p>LUCE:  But I canceled the contract.  I said, “It's invalid.  The United States will not honor or allow this contract to be signed because you just had an election and your shipyards have gone Communist.” Which they had, to test me, you see.</p>
-<p>
-<hi rend="italics">Q:  I see.</hi>
-</p>
-<p>LUCE:  I'm sure they did it to test me.  And they still didn't believe it.  They thought publicity would get to me.  And then I canceled the second order.  And then things began to happen.</p>
-<p>
-<hi rend="italics">Q:  I bet they did.</hi>
-</p>
-<p>LUCE:  Very quickly.  I would have these endless conversations with Valetta, and he was about as big as a peanut.  I think he was 5'3”, or something like that.  He would send me, after every one of these conversations, enormous boxes of red roses.  My little secretary, the one that died that I loved so dearly, she used to say to me, “You know, I always know how the questions are going in Italy by the length of the stems [laughing] and the number of the roses that come.” That was her barometer about how things were going.  So the nut of this was that the day came when Gianni Agnelli himself, together with Valetta, came in on a very big contract.  And I said, “No.”</p>
-<p>
-<hi rend="italics">Q:  This was the third one, then?</hi>
-</p>
-<p>LUCE:  No.  This was the one that I had to say no to.  Everybody else sort of zipped up and got in line, but Fiat was the biggest one of them all.</p>
-<p>
-<hi rend="italics">Q:  Oh, of course.</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>LUCE:  And I just said, “No, no way.” And Gianni Agnelli plead, and Valetta begged me to do it, and I said, “No.” I mean, they were there for two hours.</p>
-<p>
-<hi rend="italics">Q:  Is that right?</hi>
-</p>
-<p>LUCE:  And along with my labor attach� and the economic officer—you work like a team—that's another very agreeable thing about diplomacy.  You have a team that you work with, and it's very rare that if the ambassador's half-way good that team—even if the ambassador is no good—they do their best.  I'm really very impressed with the way Foreign Service officers shape up those without experience.  Oh, I think they can be very, very helpful.  They're really wonderful.  Anyway, the king was there, and the captain was saying, “No.” Agnelli left first, and Valetta stood at the door, talking to me for a minute, and theGianni Agnelli yelled at him, and he went along out.  That night, I got the biggest bunch of roses that were ever sent, awfully nice roses.  I thought, “My God, I know what happened.  He ordered them before this conversation.”</p>
-<p>I think I ran into him three or four days later, and I said, “Well, Dr. Valetta, I was embarrassed by your wonderful flowers.  I know you were very unhappy when you left.” And I said, “Even if you did put in the order ahead of time.” He said, “No.  I sent them afterward.” He was so afraid someone would see him.  And then he said, “You did make it difficult for us.” He said, “We'll have to use our own money [laughter] to buy up those shop stewards.” But I'll always remember one thing he said, and one thing I said to him.  He said, “Don't you realize if you close us down that you are going to throw hundreds of people out of work?”</p>
-<p>I said, “No, I don't think that will happen.” I said, “Every one of your papers have given wide publicity now to why I cancel orders.” And I said, 'You know what's going to happen?  Joe Boni is coming home to sit down for dinner—or supper—and his wife's going to say to him, 'You vote for the Christian Democrats.  We have to put the meat on the table.'” I said, “I'm counting on that little Italian wife and mother to notice where . . .”</p>
-<p>
-<hi rend="italics">Q:  Where her bread is buttered.</hi>
-</p>
-<p>LUCE:  And so afterward, Valetta told me that he would, as they say, use their own money to finance the campaign for the stewardships.  You see, it's like everything else.  There were campaigns, and they needed campaign contributions, and the Communists were putting them up.  We also got a great deal of help from a wonderful character; I don't even know if he's alive now, but he was the head of the Garment Workers, an American.</p>
-<p>
-<hi rend="italics">Q:  Oh, really?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>LUCE:  The American labor unions, as you know, have always been very anti-Communist, and they were enormously helpful.  They had an experience with Communism in my district.  We were the first union to boot them out up in Connecticut.</p>
-<p>
-<hi rend="italics">Q:  Connecticut, is that so?</hi>
-</p>
-<p>LUCE:  The Fifth Connecticut, in the electrical industry.  What number it was called, I can't remember now.  I should have done more homework on this for you.  But you're talking, you know, about things that happened thirty years ago.  So, at any rate, the [Italian] elections were held.  And this meant a trip for Mr. Scelba, the foreign minister.  He got his trip to America.  I think it was Scelba; I did two trips.  The other one was [Giovanni] Gronchi.</p>
-<p>
-<hi rend="italics">Q:  Now, who was Mr. Gronchi?</hi>
-</p>
-<p>LUCE:  That's wonderful you should ask that.  The president of Italy when I went to Italy was Einaudi, whose son still lives here, and, like his father was, is an economist.  The next president—well, I think the next president was Gronchi.  I'm not sure I haven't missed a president.  Scelba was also president, but I think after Gronchi.  Yes.  Well, anyway, Gronchi was president.</p>
-<p>This is a really funny story.  Mr. Gronchi was very left of the Christian Democratic Party.  So to speak, it's Mondale, except that the left in Italy was a good deal more left than Mr. Mondale.  He was also a very intelligent man, with a large following, and when the question of the presidency came up; I mean, who was going to become the president, everyone was speculating about what the American Embassy would do.  Our instructions were very, very clear: “Do not interfere in the Italian election.”</p>
-<p>And I, having been accused when I had not been interfering with the election of Mr. De Gasperi in 1953, was certainly determined that I would not interfere.  But the people who didn't like Mr. Gronchi would say, “La Signora is against him.” Now, you see, they couldn't call me “L'ambasciatrice” because that means the wife.  And “ambasciatore” was ridiculous.  Can't call a female a male.  So they signed off by calling me “La Signora.” So I became “La Signora d'America.” I was just the American Signora, and everybody knew who they were talking about.  So the word went out, “La Signora was against Gronchi.” And then there were others who said, “La Signora was for Gronchi.  Be that as it may, Gronchi was elected, and the word went out that he was cool to La Signora.</p>
-<pb facs="0018" n="Page0018"/>
-<p>This sort of thing went on all the time. Italiani pette [gossip], we used to call it; it just went on.  Well, at that particular moment, what had happened was that the Soviets had withdrawn from the only country they ever did voluntarily withdraw from, which was Austria.  The Austrians were free, and the conditions were that we would pull our atomic unit, our nuclear unit, out of Austria.  And this unit was sent to Livorno, to embark for the United States.  I received word from the department, would I, for God's sake, do my best to talk to the prime minister, whose name was [Antonio] Segni at that point.  (I told you, I had one [prime minister] a year.  Now this was Mr. Segni.) Would I convince Segni that the unit should be sent into the Po Valley to safeguard Italy at the Ljubljana Gap?  And believe me, my war experiences came in very useful in this job.</p>
-<p>
-<hi rend="italics">Q:  Oh, I can imagine.</hi>
-</p>
-<p>LUCE:  So, if I were given this task of taking Italy at that moment, I could have taken it with two tank divisions going through the Ljubljana Gap into the Po Valley.  So it was much in their interests.  But, like everyone in Europe, and in America now too, the very word “atomic” or “nuclear”—I don't know whether we used “nuclear.” I think we still used “atomic”—well, whichever it was—the Communists would have made a terrific to-do at stationing that unit there.  Now, in between the time that I got these instructions, we had a MAAG [Military Assistance Advisory Group] mission in Rome, a military mission to the Italians, who had just gotten into NATO [North Atlantic Treaty Organization], and in the way that the routine was, the head of the military mission was a general something-or-other.  The head of the military mission consulted his opposite number in Italy, and he would consult the head of the Italian army, and then he would wire back to the Pentagon.  So the first round was that he—our general—wires the Pentagon, “No.” No way the Italians will accept a nuclear division.  So the Pentagon gets in touch with the Department of State, the Department of State to me.  I go to see Segni; Segni says, “No way.” I go back, wire the department, “No way.” The department maybe calls up the Pentagon, the Pentagon goes to MAAG, MAAG goes back to the Pentagon; the Pentagon goes to the State Department; the State Department comes back to me.  So there may be about three rounds, and then, finally, the anguished plea from the department said, “Once those troops are embarked for the United States it will take an Act of Congress to get them back, and there is no way the Italians would then accept it, so you've got to get them in there.” Well, I really thought—we're now coming to lady luck—I said to myself, “Go for it.” I made an appointment with Mr. Segni to have one last crack at it, [with] what?  three days to go before anybody embarked, something like that.  “Perils of Pauline,” I'm now telling you.  [Singing] “Percy drifted to out to sea, then they tie her to a tree.  Wonder what the end will be?  The suspense is awful.” [Laughs] You don't remember that?</p>
-<p>
-<hi rend="italics">Q:  No, I don't remember that.</hi>
-</p>
-<pb facs="0019" n="Page0019"/>
-<p>LUCE:  Well, that's the kind of thing we used to sing when I was a child.  From the “Perils of Pauline.” Anyway, I had an appointment with Mr. Segni at 5 o'clock in the afternoon.  The Foreign Office works the most dreadful hours, as you know.  They wouldn't get to their desks until 11 in the mornings, then they'd quit around 8 o'clock at night, or 9 o'clock at night, and then we have to get up at eight, so we'd have sometimes 12-hour days.  At any rate, I was coming down the steps, walking down the steps of the embassy, when my minister counselor rushed after me and said to me, “Just had word from Mr. Segni that he cannot see you at 5 o'clock.  Will you come at 6:30?” Okay.  I'm on my way out.  I get into my car, and say to Gino, the chauffeur, “Go back to the residence.” Get back to the residence, have a little cup of tea, and sitting there.  And two characters from the Italian Foreign Office, young men, stop by to pay their respects, and there I am with an hour to kill, so I talk to them.  And one of them says, “Too bad you don't get along with Gronchi.”</p>
-<p>“Well, it isn't my not wanting to see him, but he just has never asked to see me.” And they said, “Well, if you ever see him, remember he's a vain man, a brilliant man, an attractive man, and you and he ought to get along very well because he's a military buff.” And I say, “He is?” “Yes, sure.  It's a good thing, too, because after all he is the commander-in-chief.”</p>
-<p>Now, why it never occurred to me that the president of Italy was also the commander-in-chief, I don't know.  But I thought to myself, well, that's interesting.  If I ever see Gronchi, I'll simply tell him.  So the young men left.  I looked at my watch.  It was 6:30, it's time for me to go to the Chigi.  And I got in the car and I had one of those cars with a window that goes up and down [between the front and back seats].  So the window was up and I pressed it and it goes down this far, and I've got my finger on the button.  And I say to the chauffeur, “Gino, Il Presidente della Consiglia.” Now, the Presidente della Consiglia is the prime minister.  The Presidente is the president. It's the difference between the president of the United States and the president of the Ladies' Club, you know?</p>
-<p>
-<hi rend="italics">Q:  Sure.</hi>
-</p>
-<p>LUCE:  Anyway, pressing the button, I cut off the—</p>
-<p>
-<hi rend="italics">Q:  Oh, no!</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>LUCE:  Yes! And now it was getting dark, and I'm reading over my points, clarifying my mind, going, rushing through Rome.  And I looked up from my homework, 'cause I wanted to have every last little point clearly in mind when I saw the prime minister.  The door opens and here's a guy, 6'4” with a plume in his hat and a sword by his side.  And I am at the Caranoli, the president's apartment.  And before I can catch my breath, this huge man says, “Ah, La Signora! Veni.” And he got me in the door.  And there's an elevator and I'm being shot upstairs.  And I thought, “Well, when I get out I'll quietly find a staircase and come back.” But there standing was a character I knew very well; I'll think of his name in a minute.  He'd become the secretary to Gronchi.  He'd been in the foreign office.  And there's this huge room, full of gold chairs, and he comes forward and he says, “But, Signora, what are you doing here?  Did you have an appointment?” God, I could see the papers:  “Mrs. La Signora doesn't even know, after all this time, the difference between the Caranoli and the Chigi [foreign office],” you see.  So I said, “Well, I know I have no appointment, but the matter is really very urgent.” “Maybe you can tell it to me?” And I said, “No, I didn't come here to tell you.”</p>
-<p>He said, “Shall I—well, just a moment,” and he disappeared and he came back.  And he said, “The president will see you in his study.” I walk in a room about half the size of this.  The president is sitting at a big desk, but behind him there's a map.  And he said to me, “To what do I owe the honor?” and in a really sarcastic voice “of this unexpected visit?”</p>
-<p>As I said, the whole think was luck.  So I said, “Well, I think it's a question of the defense of Italy, and you as the commander-in-chief should really make this decision.”</p>
-<p>
-<hi rend="italics">Q:  That's what's known as thinking on your feet.</hi>
-</p>
-<p>LUCE:  He knew all about the matter and was very annoyed that no one in the American Embassy—that his input hadn't been there.  Then I said to him, “Well, how would you defend the Ljubljana Gap?” And then I explained to him that if this bunch got on the ship they'd only be brought back by an Act of Congress.  He knew how long it took for the United States to interest itself in foreign difficulties.  And, my goodness! he was so pleased.  Now he went on and on, talking about the defense of Italy.  And I said, reminding myself that Mr. Segni must be wondering what the devil has become of me—</p>
-<p>
-<hi rend="italics">Q:  Oh, gosh! Yes.</hi>
-</p>
-<p>LUCE:  —And next thing I knew I was—he was leaving for a vacation the next day—the next thing I knew—oh, he said to me during this conversation, “My predecessor visited America.” And I said, “Mr. Gronchi, I'm sure that when this question is settled, you will be received in America with open arms.” At any event, I left.</p>
-<pb facs="0021" n="Page0021"/>
-<p>I went to Mr. Segni.  It was very much on my mind that I'd kept him waiting, and I said, “Now I must tell you, too,” and I said, “I made a mistake.  I kept my finger on the button.” I told him exactly what had happened.  I never had a conversation in Italy, except this one with the president, without an interpreter, an American interpreter as well as Italian, being present.  Anyway, he said he'd already received a telephone call from the president, and he and the president were d'accordo, so everything was fine.  And I got back to the embassy.</p>
-<p>Meanwhile, my troops were lined up for the sad word back.  Communications—even in Rome—are very rapid.  They greeted me with, “My God, why did you go to the Caranoli?” you know.  And, “What happened?” They knew when I left I wasn't going there, and I'd given no word.  And the press was trying to find out.</p>
-<p>
-<hi rend="italics">Q:  I'll bet.</hi>
-</p>
-<p>LUCE:  And Mr. Segni himself was trying to find out what had become of me.  Then I was reported as having been seen going to the Caranoli and staying there a good half-hour, and so on.  And while we were having this conversation, my office telephone rang.  It had been ringing all day.  My secretary came in and said, “The press wants to talk to you.” I said, “Now you just tell them that the ambassador has left and you think is on the way to Castel Gondolfo.” [The Pope's Palace]</p>
-<p>
-<hi rend="italics">Q:  [Laughs]</hi>
-</p>
-<p>LUCE:  Might as well make this a good trip while we're about it.  Well, anyhow, there was great rejoicing over that.  Then my officers began to tell me that nobody believed me.  They thought that I had deliberately planned this.  This is why I say nobody “lucked” very often.  [Luck] plays a much larger part than people know.  Obviously, you have to be able to avail yourself of a sudden opportunity, but without that opportunity I would never have been able to accomplish that mission.  Now having said that, I may say that it didn't much matter because there was surprisingly little publicity about it in the Communist press for the simple reason that there were some thousands—I can't remember, 2,000 to 3,000—[American] troops involved, and that was money in the pockets of the Italians in this otherwise somewhat poor area, so they were delighted to have those people there.  The Communists—once they had to, they had to try to prevent it, but it happened too fast for them.  You see?</p>
-<p>
-<hi rend="italics">Q:  Uh-huh.  Yes.</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>LUCE:  And once it happened, it was bread and butter again, so they couldn't make a fuss about it.  As it happened, thank God, the unit was never needed, and there was no war and nothing else, so that was all to the good.  But diplomatic triumphs are as often a matter of luck, they say, as of skill.  Negotiations are a little different.  But afterward, the press began to publish their version, and five years after I had left Italy, Gronchi wrote his memoirs, and his was that a distraught and weeping American ambassador had arrived, having plotted this carefully.</p>
-<p>
-<hi rend="italics">Q:  Oh, I see.</hi>
-</p>
-<p>LUCE:  And offered to him the prize of coming to America, which he said he would consider, going to America, but that he had before that instructed Mr. Segni to accept the invitation.  So that was the Italian version.</p>
-<p>
-<hi rend="italics">Q:  Afraid he'd lose face, I suppose.</hi>
-</p>
-<p>LUCE:  Oh, yes.</p>
-<p>
-<hi rend="italics">Q:  Well, you have to take people as you find them, but it must be very annoying.</hi>
-</p>
-<p>LUCE:  Well, if I allowed myself to be distraught by every piece of bad publicity, I mean, I wouldn't have a peaceful evening.  Now, furthermore, most of my bad publicity, as far as Italy went, was in the American papers.</p>
-<p>
-<hi rend="italics">Q:  Is that so?</hi>
-</p>
-<p>LUCE:  Uh-hmm.</p>
-<p>
-<hi rend="italics">Q:  Is that so?  I didn't know.  I myself was overseas at the time you were in Italy, so I didn't see the American press.  Why were they vilifying you at that time?</hi>
-</p>
-<p>LUCE:  Well, my mission got off on the wrong foot.  First of all, members of the embassy itself were—this was in the McCarthy [Senator Joseph McCarthy (R-Wisconsin, anti-Communist zealot, accused the Department of State of harboring hundreds of Communists] days, and most of the embassies were staffed by people of the Rooseveltian heyday, really, when New Dealers sponsored a very, very mild and very necessary reform.  I myself began as a New Dealer, as you know.  Bunker—Ellsworth Bunker was the ambassador.  He had called the entire staff together and told them he would have no more talk about me becoming the ambassador.</p>
-<pb facs="0023" n="Page0023"/>
-<p>
-<hi rend="italics">Q:  Was this because you were Mrs. Luce, Harry Luce's wife?</hi>
-</p>
-<p>LUCE:  Yes, and because I was a Republican.</p>
-<p>
-<hi rend="italics">Q:  Because you were a Republican.  It had nothing to do with your being a woman?</hi>
-</p>
-<p>LUCE:  . . . And the idea of being a playwright.  Oh, yes, it did.  Previously I was offered Spain, but I had made a mistake, and this one operated against me.  Well, anyway, an interviewer came, and he didn't speak—hardly a word of English, very poor English.  I said I wouldn't see him unless he spoke English because my Italian was not, at that point, very good—after I was appointed.</p>
-<p>I'd just begun my Italian lessons.  I said I knew De Gasperi.  Because, see, I told you to begin with I'd known De Gasperi during the war, before the war.  Where did I meet him?  I think I met him at some kind of a business conference that my husband had for foreign economists and that sort of thing.  Anyway, I said to this interviewer, “What kind of hobbies does Mr. De Gasperi have?” And there's no word in Italian for hobby.  But I finally said to him, “What does he like to do when he is not working, to amuse himself?” You know.  And very gradually got the idea through to him.  Then he replied to me that he did not know the English word, but he'd say it in Italian.  And I said, “Oh, we have the same word for it in English.” And I repeated, “entomology.” And he said, “Si.”</p>
-<p>Okay, we now found out that Mr. De Gasperi was interested in insects.  And I said, “Butterflies,” and he just didn't understand “butterflies,” and I didn't know the Italian word, but I assumed “Si, si, signora,” as being agreeable, and so on.  So I reported to my husband that I had made my first interesting discovery in having discussed Italy with a foreigner, with an Italian, that De Gasperi collects butterflies.  Harry had the Time people get a frame and box of beautiful butterflies of North America for the entomologist.  I told the State Department that I'd already picked the gift I'm taking to the foreign minister, and they asked me what?  And I said, “He's an entomologist and he's a butterfly collector.” The next thing I'm told is that I have made a serious mistake.  He's not an entomologist, he's an etymologist.  He collects books on linguistics, or languages.  Fine, except someone in the department thought it was so funny they started to tell the press, and it gets in the press that I am so ignorant I don't know the difference between butterflies and books.  But it also gets into the Italian press, where one little writer, who said his knees were shot off by the Red Brigade, called Montenelli—I think he's just died—but he was the wittiest and the cleverest of all the Italian writers, political commentators, and he wrote something called L'histoire des Papillons; it was Pappilloni in Italian.  He said that it was appropriate that a well-known American butterfly—that was me—should bring butterflies to the man with the butterfly brain.  [Laughs]</p>
-<pb facs="0024" n="Page0024"/>
-<p>It was really all very funny, except it was just one more thing, one more thing.  When I landed on the ship, which also sank—fortunately, not with me . . .</p>
-<p>
-<hi rend="italics">Q:  No, not with you on it.  The Andrea Doria [SS Andrea Doria - Italian liner that later collided with the Swedish liner, Stockholm, and sank].</hi>
-</p>
-<p>LUCE:  I took the Andrea Doria to be courteous, mind.  I was met by a swarm of Communists protesting the electrocution of the Rosenbergs [an American couple convicted of espionage for passing nuclear secrets to the Soviet Union and executed].</p>
-<p>That was the way I entered Rome; it was very unfortunate.  And my whole staff was very cold and remote.</p>
-<p>
-<hi rend="italics">Q:  Is that so?</hi>
-</p>
-<p>LUCE:  Very.  And I may say that when I left, much of the original staff was still there, and they assembled outside the residence.  And led by one of the political officers at the embassy, Tony, who was very lucid and a fine boy, they sang I've Grown Accustomed to Her Face.</p>
-<p>
-<hi rend="italics">Q:  Oh, how touching!</hi>
-</p>
-<p>LUCE:  It was so nice.  Really was wonderful, and they gave me a decoration—wasn't really a real decoration, but it had on it: “Pazienza, Sforzo, Coraggio.” [”Patience, Effort, Courage.”] So we all did very well, and it was really a great bunch of men and women.</p>
-<p>Now, the first woman I ever met in the Foreign Service I met under the most extraordinary circumstances, and that was on May 10, 1941.  I was coming from Amsterdam and spent the night at Ambassador Cudahy's.  And that was the morning that the Phony war ended.</p>
-<p>
-<hi rend="italics">Q:  You were in Brussels then?</hi>
-</p>
-<pb facs="0025" n="Page0025"/>
-<p>LUCE:  Yup. And his—I think she was the consul.  I don't know what she was.  In those days, I didn't know much about how an embassy runs.  Harry Luce would always stop with the ambassador, and even he didn't rate much!  [Laughter] Below that, you know, he didn't bother.At any rate, this remarkable woman and myself—not knowing at any moment whether the Germans would go on bombing, because they only dropped two bombs on Brussels, and one of them sent the house next door right up.  It was one of only two bombs dropped.  She became an ambassador.  I think she probably was the first ambassador to Switzerland.  She was a regular Foreign Service Officer.</p>
-<p>
-<hi rend="italics">Q:  Frances Willis. [Frances Willis was the first female FSO to become an ambassador.  She had three embassies (Switzerland, Norway, Ceylon) and was the first (and to date only) woman to achieve the personal rank of career ambassador]</hi>
-</p>
-<p>LUCE:  Frances Willis.  A wonderful woman.  She and I had an extraordinary morning that morning, and she helped me get out of the place with the wife of another ambassador, a French woman, Hugh Gibson's wife.  You read about that.  You might find it very amusing.  In Europe in the Spring.</p>
-<p>
-<hi rend="italics">Q:  I've read your book.</hi>
-</p>
-<p>LUCE:  Well, Frances Willis was this woman I met there, and she or I would have been startled if anybody had come in and said, “You're both going to be ambassadors.”</p>
-<p>
-<hi rend="italics">Q:  Isn't that amazing?  And you liked Frances Willis?</hi>
-</p>
-<p>LUCE:  Oh, yes.  I thought she was une femme serieuse [a reliable woman].</p>
-<p>
-<hi rend="italics">Q:  Yes, she was, yes.</hi>
-</p>
-<pb facs="0026" n="Page0026"/>
-<p>LUCE:  She was straight and very effective.  But I'd always thought that the women undergo the same hazard in this occupation—I mean, the ambassadorial career—as they do in federal office. You may have noticed that whereas there are a great many women mayors and aldermen, and even a number of governors, there's still very few senators, you see, or even congressmen.  There were 17 women in Congress when I was in Congress, and there are now only about 25.  The problem for women is that once they have to leave, the husband must either give up his business or there's a divorce ahead of them.  I mean, I refused to take the post when Ike offered it to me unless Harry would promise to spend six months with me.  And in those days you got three months off for the summer, so that was nine months of the year.  I said, “If you'll do it, that would be—[inaudible]</p>
-<p>
-<hi rend="italics">Q:  Yes, you weren't going to risk the marriage.</hi>
-</p>
-<p>LUCE:  No.</p>
-<p>
-<hi rend="italics">Q:  No, I don't blame you.</hi>
-</p>
-<p>LUCE:  And the same thing is true now.  Therefore, ambassadors almost by definition are going to be widow ladies or divorcees.  Now that [divorce]'s permitted.  Or spinsters.</p>
-<p>
-<hi rend="italics">Q:  Or spinsters.</hi>
-</p>
-<p>LUCE:  And Willis was a spinster.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>LUCE:  But now this charming—Novak's daughter, Tanya Novak; Michael Novak's daughter came to me and said she was so flattered by my [inaudible] that she was going to study for the Foreign Service, and I said, “Now don't do that.  If that is your goal, don't make that your goal unless you are prepared to give your career up in midstream to marry a Foreign Service man or a foreigner that you meet, or unless you're prepared to be single and have no children.” Now, she's a good Catholic.  “Oh my gosh! What should I do?  I want to see the world.” “Well,” I said, “I would go in for Russian or Chinese studies and language, and you'll find that you get around the world in a great many ways without giving up your marriage.”</p>
-<pb facs="0027" n="Page0027"/>
-<p>Well, she's now—she's here now, after one year in Leland Stanford.  She can't believe how much prestige she has because she speaks Russian, even before she's left Stanford.  But I don't think it's a career for young women to embark on unless they are prepared, and some women are, to make real sacrifices.</p>
-<p>
-<hi rend="italics">Q:  I think you're absolutely right.  This is what I'm coming to more and more, as I interview more and more people.  Almost all the career ambassadors in my study have been spinsters.</hi>
-</p>
-<p>LUCE:  Uh-hmm.</p>
-<p>
-<hi rend="italics">Q:  And it's as though they have to make the sacrifice.</hi>
-</p>
-<p>LUCE:  Yes, it is a sacrifice.</p>
-<p>
-<hi rend="italics">Q:  It's a big one.</hi>
-</p>
-<p>LUCE:  And now, of course, they can conveniently get a divorce, which they couldn't.  Look at Von Damm [Helene von Damm, while ambassador to Austria (1983-1986), divorced her American husband to marry an Austrian.  Von Damm was born in Austria and is a naturalized American citizen]; she not only got a couple of divorces, she—well, we won't say much about that.</p>
-<p>
-<hi rend="italics">Q:  [Laughs] We won't talk about that.</hi>
-</p>
-<p>LUCE:  No I don't like to talk about that.  I don't know what became of the old idea that you had to be a native-born American to become a . . . but, even if you weren't, you shouldn't be sent to the country of your origin.  I mean, my other diplomatic—mes colleagues diplomatiques, mes amis—I had a lot of good friendships with many of them.  And I had a good feeling about Italy and the Italians and made many lasting friends and, in many ways, it is the heart of my life in Washington, the many, many friends that led to other friendships, and so on.  That and Congressional life is why I like to live here.</p>
-<p>So . . . after Italy, I was appointed to Brazil, and appointed ambassador twice, and you know the story.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>LUCE:  And my decision not to go Brazil, which I think was the right decision.</p>
-<pb facs="0028" n="Page0028"/>
-<p>
-<hi rend="italics">Q:  You were afraid your effectiveness would have been undercut by the press.</hi>
-</p>
-<p>LUCE:  Oh, I mean it—look—it took me three or four months to get on the track in Italy, and to go to a country where they've been told by the chairman of the Latin American Affairs Committee that an ambassador was arriving that was going to deprive them of money in steel and oil—huh?</p>
-<p>
-<hi rend="italics">Q:  I know; I know.  I often wondered why he went—why Morse [Wayne Morse (D-Oregon), U.S. senator with whom Luce had an acrimonious dispute] undercut you.</hi>
-</p>
-<p>LUCE:  It wasn't me.</p>
-<p>
-<hi rend="italics">Q:  It wasn't you, no.  It was your husband?</hi>
-</p>
-<p>LUCE:  I've taken many a blow . . .</p>
-<p>
-<hi rend="italics">Q:  That's what I was going to say.  You've had to have that too, haven't you?</hi>
-</p>
-<p>LUCE:  Especially in Congress; especially in Congress.  Anyone who's been attacked by Time magazine took it out on me.  I had an awful lot.  And I made the right decision.  When it said that the president [should] send the best man we sent John Cabot.  Jack Kennedy said to me, “Clare, you've only made one mistake in your life.  You've made a terrible mistake, because if you had not resigned, I would have kept you.  You know that.” He was a good friend of mine.  I said, “Jack, you would have kept me?  How would you have done that?” I said, “John Cabot was a lame duck.  He was THE expert ambassador in the field of Latin American affairs, and the Brazilians asked him to leave four months after he got there.” So anyone who got there was in trouble.</p>
-<p>
-<hi rend="italics">Q:  Oh, absolutely.</hi>
-</p>
-<p>LUCE:  But do you know, I have Brazilians, and the Brazilian ambassador here, for example, who say that they still want me?</p>
-<p>
-<hi rend="italics">Q:  Really?</hi>
-</p>
-<p>LUCE:  They still remember I didn't come.  “They want you to come downthere.”</p>
-<pb facs="0029" n="Page0029"/>
-<p>
-<hi rend="italics">Q:  Well, I think after your tremendous success in Italy, any other country would take it as a great compliment to have you sent to them.  I think that's about the size of it.</hi>
-</p>
-<p>LUCE:  Yes, I had a little trouble about that.  I'll tell you a story that was never printed; or I don't think it was ever printed.  [Winthrop] Aldrich, our ambassador [to the U.K.], for some reason or other was not altogether a success.  And somebody—it was toward the end of my stay in Rome—put it in the paper that I was going to replace Aldrich.</p>
-<p>
-<hi rend="italics">Q:  Uh-hmm.</hi>
-</p>
-<p>LUCE:  This piece of news, which was instantly printed in Italy, not only startled me and my husband, it embarrassed us because we had just accepted an invitation from Aldrich for a dinner that he was giving for the Queen.  And so, what to do?  Nothing to do but go.  So we got there and I was sitting in earshot of my husband—it was not difficult to do because he had a very loud voice—and on this occasion I couldn't be more pleased because he was sitting next to Harriet Aldrich, And there was a little silence and Harry's voice was heard to say, “Harriet, there's something I want you to know, and that is that I'm not trying to get your job.”</p>
-<p>
-<hi rend="italics">Q:  [Laughs] He, as the spouse.</hi>
-</p>
-<p>LUCE:  And everybody laughed, you know, and it broke the tension.  Then after that he said “I assure you that there's nothing in the rumor.” But then from the time I came back, things started about where I would go next.  But it was too much of a strain on my marriage. Now the only reason that Harry consented—found it easy in Rome—was because he had an office in Rome.  Time had an office in Paris and London and Berlin, so he was [only] overnight away from any of his offices, and he enjoyed it.</p>
-<p>
-<hi rend="italics">Q:  He loved to travel?</hi>
-</p>
-<p>LUCE:  He loved to travel and he loved parties, and altogether he was happier when he was my husband—I mean, my—</p>
-<p>
-<hi rend="italics">Q:  Yes, I understand.</hi>
-</p>
-<p>LUCE:  —my spouse.</p>
-<p>
-<pb facs="0030" n="Page0030"/>
-<hi rend="italics">Q:  Your spouse.  Well, he was very proud of you.</hi>
-</p>
-<p>LUCE:  Yes.  He wasn't when I was a very successful playwright making a half a million dollars a year.</p>
-<p>
-<hi rend="italics">Q:  Really?  Is that right?</hi>
-</p>
-<p>LUCE:  Yes.</p>
-<p>
-<hi rend="italics">Q:  I wonder why?  Why do you think that was?</hi>
-</p>
-<p>LUCE:  Why, I think that's very simple.  I could write my plays entirely alone.  I couldn't have done the embassy thing without him.</p>
-<p>
-<hi rend="italics">Q:  I see; I see.</hi>
-</p>
-<p>LUCE:  Not in that—at that—I could do it now if I were younger; if I were a young woman.  Today I wouldn't feel the lack—but even a male ambassador is ten times as effective if he has, I don't have to tell you—a good wife.  You've got to have a wife.  Now, in one sense, he was not a “wife,” in that he paid no attention to the embassy.  My embassy “wife” was Tish Baldridge.  And Matilde St. Clair was a marvelous woman.  She was an Italian.  She was the daughter of an American and an Italian, and she spoke aristocratic Italian.  She knew everybody in Italy and she had been the social secretary to the embassy since the end of the war.  And she was a superb character.  She only died a year or two ago.  A very close friend of mine.  So I had Matilde and I had Tish.</p>
-<p>But where Harry was wonderful was that he knew inside and out what I was not very good at, which was the actual talk of business.  You see, all the businessmen in Italy, not to mention all the people who owned newspapers and magazines—Harry was great from the start on the publishing—and he was a man who understood success and how to get from the bottom to the top, so they were just as eager as possible to lunch alone, man-style, with him, you know.  So I was very fortunate.  And he was aware of the important part he played.  Now I don't know what an ambassador like—well, I'm just taking this at random . . .</p>
-<p>
-<hi rend="italics">Q:  Surely.</hi>
-</p>
-<pb facs="0031" n="Page0031"/>
-<p>LUCE:  Shirley Temple [Shirley Temple Black, ambassador to Ghana, 1974 to 1976] — I don't know whether Shirley was married or not.</p>
-<p>
-<hi rend="italics">Q:  Yes.</hi>
-</p>
-<p>LUCE:  Did her husband go with her?</p>
-<p>
-<hi rend="italics">Q:  Well, like yours.  He has his own business.  He was there sometimes and then he would leave for his own business.  He had an international business and I think he was a consultant or something to governments.  But I don't think he played any role at her embassy.</hi>
-</p>
-<p>LUCE:  I think it is not so difficult for Foreign Service women at the ambassadorial level, because a woman has to be—or was when I got it—would certainly have to be in her forties.</p>
-<p>
-<hi rend="italics">Q:  Yes, yes to achieve that.</hi>
-</p>
-<p>LUCE:  And I would suggest that women with children don't do as well, but there's Faith Whittlesey [Faith Ryan Whittlesey, ambassador to Switzerland, 1981 to 1983 and 1985 to 1988], who's made such a case about her children adoring Switzerland.  But what do they do—well, how do they get—who plays the role of spouse?</p>
-<p>
-<hi rend="italics">Q:  I don't know.</hi>
-</p>
-<p>LUCE:  Do you have any ideas?</p>
-<p>
-<hi rend="italics">Q:  No, I don't.</hi>
-</p>
-<p>LUCE:  Because there's great numbers of women now.  Who relates to the wives of the embassy, the embassy wives that's what I want to know.  My experience . . .</p>
-<p>
-<hi rend="italics">Q:  Sometimes the DCM's wife, if there is one.</hi>
-</p>
-<p>LUCE:  Oh!</p>
-<p>
-<hi rend="italics">Q:  Sometimes.  Of course, now—</hi>
-</p>
-<pb facs="0032" n="Page0032"/>
-<p>LUCE:  Now I hear the DCM's wife wants a job.</p>
-<p>
-<hi rend="italics">Q:  That's right; that's right.</hi>
-</p>
-<p>LUCE:  When I went back to Rome this time—that reminds me of something I forgot—oh, my word! God bless me! How could I forget it?  The Women's Club—I founded the Women's Club in Rome.</p>
-<p>
-<hi rend="italics">Q:  Did you?</hi>
-</p>
-<p>LUCE:  And when I was there last year, they were having their whatever it was—I guess 20th or 25th anniversary.  They wanted me to make a speech and I was leaving the next day, so I wrote a letter for the woman who's the president, and left it on the table at the residence.  They were having a big reception for the new cardinals.  She never got it, don't ask me why; I don't know.  I wrote it.  Mrs. Rabb [Mrs. Maxwell Rabb, whose husband was Reagan's ambassador to Italy, 1981 to 1989] called me up—it's now more than a month ago—to ask me to write a letter.  From what I have seen of ambassadors in any given capital, the hardest-working ambassador is certain to be the American ambassador.</p>
-<p>
-<hi rend="italics">Q:  Really?  Well, we're the most important country so we're involved in more things.</hi>
-</p>
-<p>LUCE:  Yes.  Now in Europe, of course, you'll find—well, in Rome—I was always so amused by some of my colleagues who would play golf and tennis.  And most often they'd be off on trips, and they and their wives would pick up chits in other capitals.  I never had time to do anything but work, work, work.</p>
-<p>
-<hi rend="italics">Q:  All the time.  How did you disarm your staff in Rome, the ones who were so cold and hostile?  I know you did it and did it very quickly, but how did you set about doing it?</hi>
-</p>
-<p>LUCE:  Well, I do not wish to be quoted.</p>
-<p>
-<hi rend="italics">Q:  All right.</hi>
-</p>
-<p>LUCE:  You know you can get anything accomplished if you're willing not to get credit for it.</p>
-<p>
-<pb facs="0033" n="Page0033"/>
-<hi rend="italics">Q:  That's true.</hi>
-</p>
-<p>LUCE:  So the first thing I made up my mind [to] was that anything I got done, somebody else would get the credit.</p>
-<p>
-<hi rend="italics">Q:  I see.</hi>
-</p>
-<p>LUCE:  'Cause then I would be sure it was done.</p>
-<p>
-<hi rend="italics">Q:  And you'd get their loyalty.</hi>
-</p>
-<p>LUCE:  So the first thing I did was to admit, quite honestly, my own ignorance in respect to a question, and say, “Tony, would you handle it?” And for a while, for the first few months I was there, a lot of time was spent just in those interminable visits—</p>
-<p>
-<hi rend="italics">Q:  I can imagine.</hi>
-</p>
-<p>LUCE:  —which I put an end to.</p>
-<p>
-<hi rend="italics">Q:  Did you?</hi>
-</p>
-<p>LUCE:  Two things I got Foster Dulles to quit: one was the obligatory half-hour visit to the ambassadors, which took your whole morning, and the other was the Fourth of July reception.</p>
-<p>
-<hi rend="italics">Q:  Oh, you got rid of that?  Good for you! [Laughter]</hi>
-</p>
-<p>LUCE:  I got rid of that because all those poor fellows, those consuls, everybody, was putting out their money for people who had no business with the embassy at all.  It was a hangover from the 19th century, which is understandable; but at any rate, I wrote the letter that got rid of it.</p>
-<p>
-<hi rend="italics">Q:  It was for all American citizens, was it, at that time?</hi>
-</p>
-<p>LUCE:  Yes! [all] Americans.  And I said, “Well, let us have a diplomatic Fourth of July within our own residence for our colleagues.” That I was for.</p>
-<p>
-<pb facs="0034" n="Page0034"/>
-<hi rend="italics">Q:  Exactly.</hi>
-</p>
-<p>LUCE:  The last time, I sort of eased out of it.  [At] first they used to have the reception on the embassy grounds, and there'd be a couple of thousand people there.  Then I insisted that we go somewhere and have a baseball game with hamburgers and wieners, you know.</p>
-<p>
-<hi rend="italics">Q:  Oh sure, sure.  Really American.</hi>
-</p>
-<p>LUCE:  Really American.  One, because it was a little bit out of town, and that knocked out a lot of the tourists.  Well, we got rid of that.  But the american ambassador is, in every place that I've ever been, the hardest working one.</p>
-<p>
-<hi rend="italics">Q:  How much—I don't mean amounts, but percentages—did you have to pay to do all that entertaining you did, and fixing up the embassy, and all?</hi>
-</p>
-<p>LUCE:  Sometimes it's useful, if you're an ambassador, to have a husband who's .  .  . [laughs]</p>
-<p>
-<hi rend="italics">Q:  Especially one who's head of Time-Life.</hi>
-</p>
-<p>LUCE:  Who could well afford to pay for all that.</p>
-<p>
-<hi rend="italics">Q:  Yes, but I mean, it must be a tremendous amount, because what the government gives you . . .</hi>
-</p>
-<p>LUCE:  Yes.  Well, it runs up, especially if you do the flowers.  Oh, the thing that was most amusing was we had to buy all the table linen.  Rome was a very poor embassy, and I remember that we went up to Venice and I bought marvelous tablecloths for 24 people, and teacloths, and lunchcloths—all of which I gave to Nixon's White House when I returned.</p>
-<p>
-<hi rend="italics">Q:  Well, I want to thank you on behalf of the Association for Diplomatic Studies and myself for a most interesting interview.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project Women Ambassadors Series</p>
+                <p>AMBASSADOR CLARE BOOTHE LUCE</p>
+                <p>Interviewed by: Ann Miller Morin </p>
+                <p>Initial interview date: June 19, 1986</p>
+                <p>Copyright Ann Miller Morin (used with permission)</p>
+                <p>
+                    <hi rend="italics">Q: My first question, Ambassador, is this: You have had a
+                        remarkable career by anybody's standards, and you have had, really, several
+                        careers, as a writer, as an editor, as a foreign correspondent,
+                        congresswoman, ambassador, and now you're a consultant. How would you place
+                        your experience as an ambassador in the totality of your life? Is it a high
+                        . . .</hi>
+                </p>
+                <p>LUCE: Well, I wouldn't . . . speaking of it as a human experience in life, it was
+                    very interesting, very rewarding, very exhausting at the time, but I wouldn't
+                    say it was as broadening an experience as being a congressman. In other words, I
+                    think being a congressman would be very helpful to anyone who is appointed an
+                    ambassador. Now, it would not be helpful to him in learning the language of the
+                    country; you'd have to know that before you went. The State Department would
+                    certainly give you what they gave me, a quick course. But the diplomatic
+                    experience is very different. Now I'm leaving out personalities and language,
+                    but just as a process, a technique, the diplomatic experience is very different
+                    from the political experience because, in politics, to use the phrase of one of
+                    the founding fathers, the people are the king and you are getting your orders
+                    from the people. We live now in a democracy and not a republic. The function of
+                    being representative for the people and making decisions for the people has long
+                    since passed. They make the decisions and you are supposed to follow them out.
+                    Their decisions are often very close decisions, they're often confused, they're
+                    often ignorant, they're often conflicting, so that the poor congressman is
+                    driven to guess what it is that his constituents really want.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>Now there are, I suppose, still constituencies in America where your constituents
+                    would be largely represented, let's say, by the tobacco companies, or the
+                    tobacco workers as well as companies—for all the workers in the company, or by
+                    the largely agricultural, or whatever. But sometimes a Congressman will have the
+                    misfortune, misfortune or good fortune, call it what you will, of representing a
+                    district like the Fifth Connecticut District, which has a . . . it's a little
+                    America where there's a little of everything, so, as you can't possibly please
+                    everybody, you please yourself. You do what you think is right. I mean, all the
+                    time that I happened to be in Congress, I only on one occasion made a vote that
+                    I did not in my own conscience believe in. But that I couldn't have done if I
+                    had represented, say, a different kind of a district. I would probably have been
+                    voted out of office if I'd followed my conviction. So, the political experience
+                    is one of trying to keep your conscience and your constituencies together.</p>
+                <p>The diplomatic experience is a good deal more agreeable because you're taking
+                    orders from your commander-in-chief. And while you do have the right, and the
+                    duty, even, to disagree with the Department of State's policy, and you sometimes
+                    can change their minds, nevertheless, you have the comfortable feeling of
+                    following orders for the United States and the American people as a whole. And
+                    that's a very rewarding feeling after politics.</p>
+                <p>
+                    <hi rend="italics">Q: I should imagine it would be.</hi>
+                </p>
+                <p>LUCE: One of the reasons that Mansfield [former senator who was ambassador to
+                    Japan under Carter and Reagan, 1977 to 1988] resigned from the Senate was that
+                    he was promised Japan. And presently he cannot be unstuck with Japan. The way
+                    things are going, he'll be there forever. So, the diplomatic experience . . .
+                    also, the diplomat has a great deal of privacy compared to the politician.</p>
+                <p>
+                    <hi rend="italics">Q: Is that so? I'm surprised. I would have thought it was a
+                        sort of goldfish-bowl-like existence, being the chief . . .</hi>
+                </p>
+                <p>LUCE: Oh, it is a goldfish bowl as far as you are, so to speak, on parade, but
+                    you are not subject to the intrusion, at least in my day, of the press. You
+                    didn't have to account for your actions to anybody but the boss man, who was the
+                    secretary of state or the president and your private life, while it had to be
+                    above board and all the rest of it, which is very important—your privacy, when
+                    it was invaded was invaded by your peers rather than anyone who met you on the
+                    street who could come up and say, “I'm your constituent. Will you take me home
+                    and give me a cup of tea?” You know?</p>
+                <p>
+                    <hi rend="italics">Q: Yes, yes, unfortunately.</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>LUCE: And not always a cup of tea, either. So it is different in that respect.
+                    Then I think that we're seeing more and more women ambassadors. It doesn't
+                    distress me at all. It's a funny thing for a woman to say, that I should even
+                    suggest I might be distressed, but I've always thought myself that getting the
+                    job done as well as possible was a good deal more important than whether you put
+                    in a black or a woman or an ethnic of some sort or someone who had a certain
+                    religious bent.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, exactly.</hi>
+                </p>
+                <p>LUCE: Oddly enough, women are well qualified as diplomats; I think much better
+                    than these politicians. I mean, by nature.</p>
+                <p>
+                    <hi rend="italics">Q: By nature?</hi>
+                </p>
+                <p>LUCE: By nature. Not by where they went to school or anything of that sort, but
+                    by nature, women like to strive for agreement. In fact, I'm not with it. I don't
+                    sound like a member of NOW [National Organization of Women], and I never have
+                    been one, either. But I think women are better negotiators. I think they do what
+                    is diplomatic, always must do, seeming to be a breeze and getting along and
+                    seeking for an honest compromise, and women are very good at that. And then a
+                    lot of diplomacy is done in the foreign office of the host country . . . [phone
+                    rings] Where were we?</p>
+                <p>
+                    <hi rend="italics">Q: You were saying that women have a natural bent for
+                        diplomacy . . .</hi>
+                </p>
+                <p>LUCE: . . . and pleasing . . .</p>
+                <p>
+                    <hi rend="italics">Q: . . . and getting agreement between different people. In
+                        connection with that, would you explain your part in the Treaty of Trieste?
+                        I have seen so many different versions, and it's something that I want to
+                        highlight in the book.</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>LUCE: You've seen many different versions partly because I never wanted to press
+                    my own view on anyone. I was content to let everyone figure it out the way they
+                    wanted to at the time. But the actual fact was, very soon after I arrived, the
+                    prime minister at the time ordered the Italian troops to Trieste, to the border.
+                    And I had been briefed about the so-called Trieste situation, and faced with
+                    what looked like war which was about to come, I remembered that what State
+                    Department advice had been was, “When it boils up, calm it down; when it calms
+                    down, forget it.” And that struck me as a recipe for constant conflict. The
+                    Italians were doing, or the Italian leadership was doing, pretty much what
+                    leadership does in any country when in a domestic jam, trying to create a
+                    diversion with a foreign country with whom you have sufficient disagreement, so
+                    that the diversion seems logical. So there it was, and I strived to find out
+                    from my minister counselor, who was a man called [Elbridge] Durbrow, what steps
+                    we were taking, what steps I should take to get the question solved. And was
+                    told that it was probably insolvable within the present context, you know? So I
+                    wrote some letters, as I remember, to Livy [Livingston] Merchant, who was the
+                    head of the European desk, and got back equivocal answers and they all came to
+                    the same thing: “As soon as they calm down, they'll forget it, forget the whole
+                    thing.” I knew it was boiling up again, because the situation in Italy was such
+                    that the next prime minister, and the next, would all return to Trieste to
+                    settle their own political disagreements. As a matter of fact, De Gasperi
+                    [Alcide De Gasperi, leader of the Christian Democratic Party and sometime prime
+                    minister of Italy.] said to me, “If I had had this Trieste settled, I would
+                    still be Prime Minister.”</p>
+                <p>So I then said, “Well, how do you get this thing settled?” And somebody in the
+                    embassy, and I couldn't remember who it was, said, “You have to get [to] the
+                    National Security Council; you have to get it on the agenda.”</p>
+                <p>
+                    <hi rend="italics">Q: On the agenda of the National Security Council.</hi>
+                </p>
+                <p>LUCE: So I said, “Well, how do you get it on the agenda?” And he said, “Well, you
+                    know the president. He can put it on.” Well, I did know the president, and this
+                    was one thing where it goes to show that it's important to know, and by know, I
+                    don't mean just shake his hand. I knew that Ike, President Eisenhower, was the
+                    kind of military man who never could read more, never had the time to read more
+                    than a page on any question. So I sat down at my own typewriter and tried very
+                    hard to put the complicated Trieste question—it was terribly complicated—and the
+                    reasons for solving it on one sheet of paper. I was always running over onto two
+                    and three, and pulling it out of the typewriter. I said to myself, “My goodness!
+                    This guy is a soldier. If there's anything that he is familiar with, it's that
+                    famous little childhood poem, 'For the want of a nail the shoe was lost; for the
+                    want of a shoe, and so on'.” So I paraphrased it.</p>
+                <p>
+                    <hi rend="italics">Q: Very cleverly, too.</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>LUCE: Anyway, I think that Ike had it in one of the books he wrote, the one that
+                    he called Stories That I Dine Out On, or something like that, I just don't
+                    remember; it's such a long time ago. Anyway, the way the thing began was, “For
+                    the want of a two-penny town.” And I wrote at the bottom of this letter, “Dear
+                    Mr. President, please let us try to solve this.” Put it on the agenda, or
+                    whatever. And the word came over, “Go ahead. Try to solve it.” Well, cheers! And
+                    then [laughs], it was impossible, of course, to solve it without the British,
+                    because the occupying powers were the British and ourselves in Trieste then.
+                    Somehow or other—I've forgotten all this history; it was a long time ago—but the
+                    end of the war left Americans still in Trieste, which was disputed between Tito
+                    [Marshal Tito (Josip Broz), Yugoslav communist leader] and the then caretaker
+                    government of Italy. As it happened, with De Gasperi towards the end, and with
+                    [Mario] Scelba, and then with I've forgotten whom. We had a new prime minister
+                    every year, as you know.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>LUCE: Then it was all right to try to do this, and it was not only all right, it
+                    was most agreeable to do it with the British ambassador. Meanwhile, the news was
+                    that we could put it on the agenda. Permitted my opposite number in
+                    Yugoslavia—sorry, I cannot remember his name . . .</p>
+                <p>
+                    <hi rend="italics">Q: Mr. Riddleberger?</hi>
+                </p>
+                <p>LUCE: Riddleberger [James Riddleberger, FSO, ambassador to Yugoslavia, 1953-1958]
+                    Riddleberger could tell Tito to lay off because we're going to get this solved
+                    and, obviously, Riddleberger was in favor of his client; it was Tito's argument.
+                    I was in favor of the Italians'. So anyway, everybody fell back and the
+                    arguments began. At what point the French latched onto it, I don't know, except
+                    to say that the French always latched onto to everything pour la gloire or pour
+                    raison d'autre . . .</p>
+                <p>
+                    <hi rend="italics">Q: [Laughs] Yes.</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>LUCE: . . . and they don't give up. Anyhow, there the French walked in on it, and
+                    not only did they walk in on it, but I never will forget that French
+                    ambassador—he's a career ambassador—who insisted that he sit in on the meetings
+                    at the American embassy and insisted that every word of everything should be
+                    translated into French, and the final document should be in French. That wasn't
+                    bad enough, but we had to go to the foreign office, and there we finally became
+                    like a musical comedy, with the English ambassador and the American ambassador
+                    and the French ambassador marching three abreast to the Chigi. And there would
+                    be reporters as we went in, and reporters as we left. And after a while . . . I
+                    think that went on for some time. I didn't write up the experience or keep a
+                    diary, but, anyway, it then occurred to me that it would never get settled,
+                    because trying to conduct these diplomatic negotiations in public . . . that's
+                    when I first realized that modern communication had absolutely ruined the
+                    diplomatic technique of getting things solved. It's really a very serious
+                    problem.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, it is, especially in this country.</hi>
+                </p>
+                <p>LUCE: Yes. I mean, for example, there isn't any question that the media has made
+                    it all but impossible to solve the question of terrorism.</p>
+                <p>
+                    <hi rend="italics">Q: That's right.</hi>
+                </p>
+                <p>LUCE: So I said, “How do we get this thing where it belongs? Where it isn't in
+                    the headlines with the dope story, or whatever. I told my husband what I had in
+                    mind and he said, “It's worth a shot.” I made a trip back to Washington and I
+                    went to see the secretary, whom also I knew very well, Foster Dulles [John
+                    Foster Dulles, Secretary of State 1953-59], and said, “Foster, why not—if I can
+                    get them to agree, and I'll do my best, and you tell Riddleberger to go ahead on
+                    his end, and we'll persuade the Italians to appoint a team and the Yugoslavs to
+                    appoint a team to negotiate this thing in the place where they will both agree;
+                    not in Italy and not in Yugoslavia.</p>
+                <p>
+                    <hi rend="italics">Q: In a third country.</hi>
+                </p>
+                <p>LUCE: And then you pick a diplomat and the British pick one to chair it, and see
+                    if you cannot decide [on an agreement]. Now, they began those negotiations and I
+                    think they took over a year. Our man—what was his name? He'd been ambassador to
+                    Austria, a wonderful man.</p>
+                <p>
+                    <hi rend="italics">Q: Llewellyn Thompson.</hi>
+                </p>
+                <p>LUCE: Llewellyn Thompson. That wasn't what we called him.</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: “Tommy.”</hi>
+                </p>
+                <p>LUCE: “Tommy.” Tommy Thompson chaired the Trieste proceedings. Who his British
+                    opposite number was, I don't know. In any case, in the end, when they began
+                    discussing the ownership of Trieste, the whole city and everything it
+                    encompassed, when they got to the end, they hit a road block. It had a certain
+                    similarity to the difficulties the Israelis are having with Golan Heights. What
+                    they were arguing about was the crest of a hill, 14 acres—I mean, a little more
+                    than that—the size of a golf course. That's all there was: a golf course, but it
+                    was on the crest of the hill, and the Israelis' idiotic nationalistic things
+                    come in [to play]. The Yugoslavs didn't want the Italians looking down on them,
+                    and vice-versa. And there it was, absolutely, hopelessly stuck.</p>
+                <p>
+                    <hi rend="italics">Q: As only they can be in the Balkans.</hi>
+                </p>
+                <p>LUCE: Now, I was dressing to go to a dinner when someone came to me, and I shall
+                    not tell you the name at this point because it would be breaking a promise made
+                    many years ago. A telephone rang and it was a man. I was told it was very urgent
+                    and I went to the phone. Oh, yes, I remember my husband was there, and he said
+                    to me, “It's So-and-So,” who asked for me, and it was someone who'd worked for
+                    my husband.</p>
+                <p>
+                    <hi rend="italics">Q: So you knew the person was trustworthy.</hi>
+                </p>
+                <p>LUCE: And my husband said to me, “Doesn't want to talk to me. He wants to talk to
+                    you.” I got on the phone and he said, “May I come and see you? It is really very
+                    urgent, and your husband will tell you I'm a serious man.” I was going out to
+                    dinner, but I put aside the time, and he came to see me. I'll never forget it as
+                    long as I live. He laid down a map and that's how I remember his pointing. He
+                    said, “This is all that it's about. These few little acres.” And he said, “Now
+                    I'll tell you why; what the real argument is about. The real argument.”</p>
+                <p>Now if you've been reading the history of Trieste, you might come to think it was
+                    about fishing rights and this or that. Even today I'll be in trouble if I tell
+                    you what real troubles it was about. I just can't tell you. All I can tell you
+                    is there was something—there was a way in Tito's own interest, and there was a
+                    way that certain very important people in Italy would be satisfied on the
+                    question of the debt they thought was owed to them. . Q: I see. I
+                    understand.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>LUCE: Then this man—I said to him, “Why are you telling me these things instead
+                    of the CIA?” “Well,” he said, “I'm telling you first because I've never met you
+                    and I've always liked you and, secondly, because I'm going to tell them tomorrow
+                    but I thought you should have the first crack at it because you have worked so
+                    hard and you're the only person that has.” So there I had the secret, but I did
+                    not have the means at my disposal of twisting Tito's arm, and there were reasons
+                    why it couldn't be twisted, even on the cables, so I was very unhappy about it
+                    and said, “I will go back to Washington. I got back to Washington, and the day
+                    before I was going to see the president there was big dinner given at the Pan
+                    American Union, a ball of some sort—a big diplomatic dinner, enormous. And the
+                    man I sat next to was an old friend, Bob Murphy [FSO, ambassador-at-large].</p>
+                <p>
+                    <hi rend="italics">Q: Oh, yes.</hi>
+                </p>
+                <p>LUCE: And Bob said to me, “How is the Trieste affair going?” And I said, “Bob,
+                    it's hung up because we have a little problem that I can't solve. I can take
+                    care of the Italian end, but I can't take care of the Yugoslavian, because our
+                    ambassador there has gotten us painted into a corner because he insists that
+                    there is no possible way of changing Tito's mind.” That was also part of my
+                    information.</p>
+                <p>
+                    <hi rend="italics">Q: Sure.</hi>
+                </p>
+                <p>LUCE: And I said—and I remember using that phrase, because it always stuck in my
+                    mind, “What we need is someone who knows Tito well enough to twist his arm.” And
+                    he said, “You're talking to the man.”</p>
+                <p>
+                    <hi rend="italics">Q: Isn't it amazing, the fortunes of history?</hi>
+                </p>
+                <p>LUCE: It always reminds me of Churchill, when we were talking about what makes a
+                    great man, and he said, “I've told you all these things and you've forgotten the
+                    most important thing.” I said, “What's that?” He said, “Luck.” Well, anyway,
+                    there I was, lucky enough to sit next to Bob Murphy who , who had been in the
+                    OSS during the war and who had had OSS contacts with the Partisans in Vis. He
+                    was on a first-name basis with Tito. I said, “Now,” and this I can say now
+                    because Tito's dead and all of that doesn't matter. We were then giving wheat to
+                    Tito under our Marshall Aid. It's still going on. Now one of the unbreakable
+                    rules in the State Department was, you do not—what do they call it— I haven't
+                    thought of all these things in a long time—I must remember the phrase—
+                    Kissinger—linkage. You were not permitted linkage. The person who, say, was
+                    negotiating a trade treaty would not be able, for example, to use part of one.
+                    Our government would not be able to marry two separate problems.</p>
+                <p>
+                    <pb facs="0009" n="Page0009"/>
+                    <hi rend="italics">Q: Right. I understand. It would look like a bribe otherwise,
+                        I suppose.</hi>
+                </p>
+                <p>LUCE: Yes. We've—Kissinger [Henry Kissinger, secretary of state, 1973-77] got all
+                    over that by coming outright and saying, “We're going to proceed on a quid pro
+                    quo basis.” But in my day you weren't supposed to link things. So I said, “Now,
+                    if you will go over and tell Tito that unless he gives in on those 14 acres
+                    [whatever the little piece of property was], no wheat.” He won't know because
+                    he's a totalitarian and he thinks that the State Department, the president, and
+                    everybody would act the way he would act in those circumstances.</p>
+                <p>
+                    <hi rend="italics">Q: He'd believe it.</hi>
+                </p>
+                <p>LUCE: I said, “Could you go? He said, “I can't go like that unless the President
+                    sends me.” So the next day I went to see the President. I said, “Mr. President,
+                    I only have one favor to ask, and we've almost gotten this Trieste thing solved.
+                    If Bob will stop in Rome and then go on to Belgrade, and be briefed in both
+                    places, and make his call on Tito, we can settle this thing.” And I think if you
+                    looked this up in the papers, you will see that he wasn't gone but three days,
+                    or four days—and a few days later, with great sighs of relief, Tito and the
+                    Yugoslavs signed the treaty. Then there were all sorts of amusing things
+                    happening after that.</p>
+                <p>I may say in passing, and I haven't sought to make any great capital out of this
+                    because what is Trieste to the average American? But you ask any Italian . . .
+                    There's no doubt in their minds who—you may find there's still . . . First, the
+                    Italians knew I did it, and everybody in the embassy knew.</p>
+                <p>
+                    <hi rend="italics">Q: Sure.</hi>
+                </p>
+                <p>LUCE: The first—this is very funny. After I left Rome, I think the first public
+                    service job that I took was with the Carnegie Peace Foundation, right after
+                    Alger Hiss [a former assistant of state, was accused of being a communist spy
+                    and was convicted of perjury in 1950] left, and they had put an awful lot of
+                    money up for articles on how the nations deal with conscience. I hadn't been
+                    there a week before the chairman asked the executive secretary—he was the one
+                    who did all the work—and there was no money for any new project. That's why I
+                    left, because Mr. Hiss had allocated all the money for the next six years.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, is that so?</hi>
+                </p>
+                <p>LUCE: You know? So there really was very little money. So the executive secretary
+                    came forth with a document called La Problems de Trieste.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>And so help me, I found out to my amazement—what was on the table was whether it
+                    should be translated and put out—I took it home and read it and I was really
+                    enchanted to discover that the French had settled it.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, had they? [Laughter] Isn't that lovely?</hi>
+                </p>
+                <p>LUCE: We'd check the French out, you know, in London. [Laughs] It really was
+                    funny.</p>
+                <p>
+                    <hi rend="italics">Q: They had no part at all in the final settlement, did
+                        they?</hi>
+                </p>
+                <p>LUCE: Nothing at all. That's one of the reasons why, like I told them in the
+                    State Department, “You will not be able to keep the French out of this if we go
+                    on,” so, it was only by dropping—</p>
+                <p>
+                    <hi rend="italics">Q: It had to be done by secret means. Isn't that funny?</hi>
+                </p>
+                <p>LUCE: Yes. So then after that, there were various interpretations and, generally,
+                    Bob Murphy was given the credit, which was due him.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>LUCE: That his visits, surprisingly, unblocked everything. And I was perfectly
+                    happy he should have that credit, because it is true that I would not have known
+                    quite how to dig us out of that personal contact.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, yes, yes. But all the same, you put him up to it. So
+                        . . .</hi>
+                </p>
+                <p>LUCE: Yes. I went to the President.</p>
+                <p>
+                    <hi rend="italics">Q: You were the deus ex machina, weren't you?</hi>
+                </p>
+                <p>LUCE: That was one of the reasons he was given this great dinner at the OSS. He
+                    asked me to do some things—</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: Oh, did he? Is that why you were given the high award— the
+                        Knight of the Grand Cross of the Order of Merit of the Italian
+                        Republic?</hi>
+                </p>
+                <p>LUCE: Well, that may go with the job, I don't know. But they did give me—and I
+                    have it somewhere—when I left (and I may say that this was before we had rules
+                    about personal gifts)—I have a little charm bracelet that I wore very
+                    often—little mementos, things my husband—every time I did anything that he
+                    thought was interesting—I have it inside. It's really a very fascinating piece
+                    of jewelry.</p>
+                <p>
+                    <hi rend="italics">Q: I'm sure it is.</hi>
+                </p>
+                <p>LUCE: But I thought I'd lost it, and my husband kept saying, “Don't worry, it
+                    will turn up.” He had come and gone to the Foreign Office—</p>
+                <p>
+                    <hi rend="italics">Q: Really? The Italian Foreign Office?</hi>
+                </p>
+                <p>LUCE: Yes. Got my bracelet and had made in enamel with just very tiny little,
+                    itsy-bitsy chip diamonds, a charm, about as big as my thumb but, nevertheless, a
+                    charm to wear on my bracelet, with the insignia of Trieste.</p>
+                <p>
+                    <hi rend="italics">Q: How charming!</hi>
+                </p>
+                <p>LUCE: Which was wonderful. And when I left, they gave me a huge dinner at the
+                    Villa Madonna. And I said to [Vittorio Zoppi], who was the head of the Foreign
+                    Office—that's the kind of name you don't forget—</p>
+                <p>
+                    <hi rend="italics">Q: No. [laughing]</hi>
+                </p>
+                <p>LUCE: Zoppi. I said to Signor Zoppi, “You have all made these wonderful toasts
+                    and said these marvelous things about me. Would you privately tell me the truth
+                    why you say you're all so sad that I'm leaving?” And he gave me a most
+                    unexpected answer. He said, “Because you've always told us the truth.” Now, I
+                    don't mean to imply by that other ambassadors didn't tell the truth, but I'll
+                    say this is where my congressional experience came in very useful. Host of the
+                    things that happen in your foreign countries are comparable to questions
+                    requiring the acquiescence of the American Congress. And knowing how Congress
+                    will vote and what the mood of the American people is, politically is of great
+                    value.</p>
+                <p>
+                    <pb facs="0012" n="Page0012"/>
+                    <hi rend="italics">Q: I had not thought of that, but you're absolutely
+                        right.</hi>
+                </p>
+                <p>LUCE: Now it wouldn't matter so much, I suppose, in a country that was very rich.
+                    But it matters that we're on the giving rather than the receiving end. Most
+                    countries in the '50s were on the receiving end. You had to be very careful. Now
+                    the other triumph I had which did not make me so popular with the Italians, was
+                    what was called the Off-Shore Procurement.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, yes. I want to hear about that.</hi>
+                </p>
+                <p>LUCE: It did make me—someone was telling me—Sylvia Morris, who's doing the
+                    biography, has gone to all the trouble to have [Vittorio] Valetta's book
+                    translated from Italian. I haven't even bothered, to tell you the truth, to read
+                    it, because you can't sit and read things about yourself; it doesn't make you
+                    any younger.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's true.</hi>
+                </p>
+                <p>LUCE: Valetta was the head of Fiat, and there were two labor unions there. One
+                    was the Christian Labor Union; I think that was called Chislu. And then there
+                    was the Communist Labor Union. I mean, I should have briefed myself about all
+                    this past history. I haven't thought about this in many years. At any rate, the
+                    name of the game at the American Embassy was lessening the Communist vote and
+                    the Communist influence, and where it was most important was in the labor
+                    unions.</p>
+                <p>And the—the Communist—the fellow who was the shop steward—he was the guy. He was
+                    the Communist who was going to put in other Communists.</p>
+                <p>
+                    <hi rend="italics">Q: Sure.</hi>
+                </p>
+                <p>LUCE: Now, what kind of arm-twisting could we do which was legitimate which
+                    wouldn't be called interference? Well, I found the recipe for that. There,
+                    again, the Congress really was very useful. The Congress had passed a bill
+                    called the Offshore Procurement bill. And this was part of a plan to restore the
+                    industries of the French and the Germans, and everybody by buying in their
+                    countries the material that would then be assigned to NATO, the hardware of
+                    various sorts for the NATO forces. And this was terribly important to the
+                    Italians, and even more important—most important—to the largest complex,
+                    industrial complex, of all, which was Fiat, owned by Gianni [Giovanni] Agnelli's
+                    family. But the brains of the particular thing—and I won't call him the Iacocca,
+                    because I think Valetta could have run circles around Iacocca [Lee Iacocca,
+                    Chief Operating Officer, Chrysler Corp.]—was a little professore, Valetta. And
+                    then the other important industry, the shipyards—shipping. Now all these things
+                    we were . . .</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>[Tape 1, Side 2]</p>
+                <p>LUCE: The Congressional law had a clause in it that none of these funds should be
+                    used in any way that would increase the Communist influence in any country where
+                    the funds were going. Italy was one of those countries, and it was almost on the
+                    verge.</p>
+                <p>
+                    <hi rend="italics">Q: It certainly was. It was a big worry.</hi>
+                </p>
+                <p>LUCE: And, as I say, this was something I had to do. And it finally came down to
+                    the point where I would either make good on what I was saying or not. You see,
+                    we can't interfere. I can't say, “You know my heart bleeds for you, Mr. Lauro.”
+                    Oddly enough, the guy I had the most trouble with, they've got a ship named
+                    after him now, called the Achille Lauro, and he was the big shipowner and
+                    shipbuilder in the south of Italy. He was one of them; there were a number of
+                    them. But my story was the same to all of them, which was—whatever the industry,
+                    be it shipowners, automobiles, whatever it was—I always told them the same
+                    thing, which was, “Yes, I did understand that if we canceled the order it would
+                    mean unemployment. And I couldn't feel more badly about the whole thing, but the
+                    Congress would send for me and I would be fired and the next ambassador would be
+                    fired, too, if we allow any Communist-dominated factory,” which was true—true in
+                    the sense that the Congress had written the legislation. It was not quite true
+                    that if push came to shove that they would have penalized the poor Italians, but
+                    I had to act as though the Congress meant what it said.</p>
+                <p>
+                    <hi rend="italics">Q: Sure.</hi>
+                </p>
+                <p>LUCE: And they didn't believe me. Not at the beginning.</p>
+                <p>
+                    <hi rend="italics">Q: They didn't believe you at the beginning?</hi>
+                </p>
+                <p>LUCE: If you could see the Italian newspapers! The Archives in Congress are full
+                    of the cartoons that they wrote about me. And, incidentally, during the Trieste
+                    one, there was—my name, which has always been a misery here, you know, “loose
+                    woman,” “loose talk,” all that kind of thing—in Italy, it was just wonderful:
+                    “Clara Lou-chay” meant “clear light.” And there were a lot of cartoons, many of
+                    them puns on my name during the Trieste thing. “The light at last,” you see.</p>
+                <p>
+                    <hi rend="italics">Q: Uh-huh. I see, yes.</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>LUCE: And all kinds of cartoons were always being— I remember one Trieste cartoon
+                    with two characters—always the “Mike and Ike” kind of characters were in one of
+                    the Italian papers—and one was saying to the other, “It's a strange thing. In
+                    Italy the only man is a woman.”</p>
+                <p>
+                    <hi rend="italics">Q: [Laughs] I love that.</hi>
+                </p>
+                <p>LUCE: I thought that was funny. And really, the funniest one is—this is again
+                    having the sense of the Congress. I wrote to Foster and said, “Foster, one of
+                    the big things the Italians are talking about is how badly we treat our blacks.
+                    Could you find me a black cultural attach�?” And we brought over—I think I was
+                    the first who ever had . . .</p>
+                <p>
+                    <hi rend="italics">Q: You must have been.</hi>
+                </p>
+                <p>LUCE: . . . a black man [as cultural attach�] in an embassy. A Dr. Snowden from
+                    Howard University. He was Master of Romance Languages at Howard, and a charming
+                    man. He never speaks much about the extraordinary honor. He just fell so much in
+                    love with Italy that, while he returned, his daughters married Italians. At any
+                    rate, he was very good. But one of the—I'll just tell you this because this is a
+                    very amusing pun. The Italians did not very much like blacks. I wasn't doing it
+                    to please them, but to be able to stop the business that we just. . .</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>LUCE: The day after he arrived, there was a cartoon in the paper and it showed
+                    me—I was always shown smacking along like that, you know. [Laughter] They never
+                    quite knew—the Communist papers made me look like a hag. You know, I was made to
+                    look like an awful witch, with shrunken bosom and everything. And the papers
+                    that were for me would have me going along with bosoms pointed out—it really was
+                    very funny. They couldn't get their act together as far as what I looked like.
+                    Well, anyway, there was this cartoon of me spanking along down the Via Veneto,
+                    followed by a black man, and the thing underneath it said, “Dopo la luce
+                    l'oscuro,” which quite literally means “After the light, the dark.” The way we
+                    put it is, “After the night comes the dawn.” But anyhow, there were lots of
+                    cartoons, an enormous number of cartoons.</p>
+                <p>
+                    <hi rend="italics">Q: You were really taken apart by the Communist press over
+                        there, weren't you?</hi>
+                </p>
+                <p>LUCE: Oh, terribly.</p>
+                <p>
+                    <pb facs="0015" n="Page0015"/>
+                    <hi rend="italics">Q: How did that affect you? Did it bother your
+                        self-confidence? Or did you figure, well, I'm obviously doing the right
+                        thing or they wouldn't be after me this way?</hi>
+                </p>
+                <p>LUCE: Oh, I didn't let it bother me. It didn't even bother me when my side was;
+                    the side I was for. And they were in this question I was speaking of. You cannot
+                    imagine the press I got when I canceled a very large ship order. They were
+                    building a new ship.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, you did?</hi>
+                </p>
+                <p>LUCE: But I canceled the contract. I said, “It's invalid. The United States will
+                    not honor or allow this contract to be signed because you just had an election
+                    and your shipyards have gone Communist.” Which they had, to test me, you
+                    see.</p>
+                <p>
+                    <hi rend="italics">Q: I see.</hi>
+                </p>
+                <p>LUCE: I'm sure they did it to test me. And they still didn't believe it. They
+                    thought publicity would get to me. And then I canceled the second order. And
+                    then things began to happen.</p>
+                <p>
+                    <hi rend="italics">Q: I bet they did.</hi>
+                </p>
+                <p>LUCE: Very quickly. I would have these endless conversations with Valetta, and he
+                    was about as big as a peanut. I think he was 5'3”, or something like that. He
+                    would send me, after every one of these conversations, enormous boxes of red
+                    roses. My little secretary, the one that died that I loved so dearly, she used
+                    to say to me, “You know, I always know how the questions are going in Italy by
+                    the length of the stems [laughing] and the number of the roses that come.” That
+                    was her barometer about how things were going. So the nut of this was that the
+                    day came when Gianni Agnelli himself, together with Valetta, came in on a very
+                    big contract. And I said, “No.”</p>
+                <p>
+                    <hi rend="italics">Q: This was the third one, then?</hi>
+                </p>
+                <p>LUCE: No. This was the one that I had to say no to. Everybody else sort of zipped
+                    up and got in line, but Fiat was the biggest one of them all.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, of course.</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>LUCE: And I just said, “No, no way.” And Gianni Agnelli plead, and Valetta begged
+                    me to do it, and I said, “No.” I mean, they were there for two hours.</p>
+                <p>
+                    <hi rend="italics">Q: Is that right?</hi>
+                </p>
+                <p>LUCE: And along with my labor attach� and the economic officer—you work like a
+                    team—that's another very agreeable thing about diplomacy. You have a team that
+                    you work with, and it's very rare that if the ambassador's half-way good that
+                    team—even if the ambassador is no good—they do their best. I'm really very
+                    impressed with the way Foreign Service officers shape up those without
+                    experience. Oh, I think they can be very, very helpful. They're really
+                    wonderful. Anyway, the king was there, and the captain was saying, “No.” Agnelli
+                    left first, and Valetta stood at the door, talking to me for a minute, and
+                    theGianni Agnelli yelled at him, and he went along out. That night, I got the
+                    biggest bunch of roses that were ever sent, awfully nice roses. I thought, “My
+                    God, I know what happened. He ordered them before this conversation.”</p>
+                <p>I think I ran into him three or four days later, and I said, “Well, Dr. Valetta,
+                    I was embarrassed by your wonderful flowers. I know you were very unhappy when
+                    you left.” And I said, “Even if you did put in the order ahead of time.” He
+                    said, “No. I sent them afterward.” He was so afraid someone would see him. And
+                    then he said, “You did make it difficult for us.” He said, “We'll have to use
+                    our own money [laughter] to buy up those shop stewards.” But I'll always
+                    remember one thing he said, and one thing I said to him. He said, “Don't you
+                    realize if you close us down that you are going to throw hundreds of people out
+                    of work?”</p>
+                <p>I said, “No, I don't think that will happen.” I said, “Every one of your papers
+                    have given wide publicity now to why I cancel orders.” And I said, 'You know
+                    what's going to happen? Joe Boni is coming home to sit down for dinner—or
+                    supper—and his wife's going to say to him, 'You vote for the Christian
+                    Democrats. We have to put the meat on the table.'” I said, “I'm counting on that
+                    little Italian wife and mother to notice where . . .”</p>
+                <p>
+                    <hi rend="italics">Q: Where her bread is buttered.</hi>
+                </p>
+                <p>LUCE: And so afterward, Valetta told me that he would, as they say, use their own
+                    money to finance the campaign for the stewardships. You see, it's like
+                    everything else. There were campaigns, and they needed campaign contributions,
+                    and the Communists were putting them up. We also got a great deal of help from a
+                    wonderful character; I don't even know if he's alive now, but he was the head of
+                    the Garment Workers, an American.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, really?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>LUCE: The American labor unions, as you know, have always been very
+                    anti-Communist, and they were enormously helpful. They had an experience with
+                    Communism in my district. We were the first union to boot them out up in
+                    Connecticut.</p>
+                <p>
+                    <hi rend="italics">Q: Connecticut, is that so?</hi>
+                </p>
+                <p>LUCE: The Fifth Connecticut, in the electrical industry. What number it was
+                    called, I can't remember now. I should have done more homework on this for you.
+                    But you're talking, you know, about things that happened thirty years ago. So,
+                    at any rate, the [Italian] elections were held. And this meant a trip for Mr.
+                    Scelba, the foreign minister. He got his trip to America. I think it was Scelba;
+                    I did two trips. The other one was [Giovanni] Gronchi.</p>
+                <p>
+                    <hi rend="italics">Q: Now, who was Mr. Gronchi?</hi>
+                </p>
+                <p>LUCE: That's wonderful you should ask that. The president of Italy when I went to
+                    Italy was Einaudi, whose son still lives here, and, like his father was, is an
+                    economist. The next president—well, I think the next president was Gronchi. I'm
+                    not sure I haven't missed a president. Scelba was also president, but I think
+                    after Gronchi. Yes. Well, anyway, Gronchi was president.</p>
+                <p>This is a really funny story. Mr. Gronchi was very left of the Christian
+                    Democratic Party. So to speak, it's Mondale, except that the left in Italy was a
+                    good deal more left than Mr. Mondale. He was also a very intelligent man, with a
+                    large following, and when the question of the presidency came up; I mean, who
+                    was going to become the president, everyone was speculating about what the
+                    American Embassy would do. Our instructions were very, very clear: “Do not
+                    interfere in the Italian election.”</p>
+                <p>And I, having been accused when I had not been interfering with the election of
+                    Mr. De Gasperi in 1953, was certainly determined that I would not interfere. But
+                    the people who didn't like Mr. Gronchi would say, “La Signora is against him.”
+                    Now, you see, they couldn't call me “L'ambasciatrice” because that means the
+                    wife. And “ambasciatore” was ridiculous. Can't call a female a male. So they
+                    signed off by calling me “La Signora.” So I became “La Signora d'America.” I was
+                    just the American Signora, and everybody knew who they were talking about. So
+                    the word went out, “La Signora was against Gronchi.” And then there were others
+                    who said, “La Signora was for Gronchi. Be that as it may, Gronchi was elected,
+                    and the word went out that he was cool to La Signora.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>This sort of thing went on all the time. Italiani pette [gossip], we used to call
+                    it; it just went on. Well, at that particular moment, what had happened was that
+                    the Soviets had withdrawn from the only country they ever did voluntarily
+                    withdraw from, which was Austria. The Austrians were free, and the conditions
+                    were that we would pull our atomic unit, our nuclear unit, out of Austria. And
+                    this unit was sent to Livorno, to embark for the United States. I received word
+                    from the department, would I, for God's sake, do my best to talk to the prime
+                    minister, whose name was [Antonio] Segni at that point. (I told you, I had one
+                    [prime minister] a year. Now this was Mr. Segni.) Would I convince Segni that
+                    the unit should be sent into the Po Valley to safeguard Italy at the Ljubljana
+                    Gap? And believe me, my war experiences came in very useful in this job.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, I can imagine.</hi>
+                </p>
+                <p>LUCE: So, if I were given this task of taking Italy at that moment, I could have
+                    taken it with two tank divisions going through the Ljubljana Gap into the Po
+                    Valley. So it was much in their interests. But, like everyone in Europe, and in
+                    America now too, the very word “atomic” or “nuclear”—I don't know whether we
+                    used “nuclear.” I think we still used “atomic”—well, whichever it was—the
+                    Communists would have made a terrific to-do at stationing that unit there. Now,
+                    in between the time that I got these instructions, we had a MAAG [Military
+                    Assistance Advisory Group] mission in Rome, a military mission to the Italians,
+                    who had just gotten into NATO [North Atlantic Treaty Organization], and in the
+                    way that the routine was, the head of the military mission was a general
+                    something-or-other. The head of the military mission consulted his opposite
+                    number in Italy, and he would consult the head of the Italian army, and then he
+                    would wire back to the Pentagon. So the first round was that he—our
+                    general—wires the Pentagon, “No.” No way the Italians will accept a nuclear
+                    division. So the Pentagon gets in touch with the Department of State, the
+                    Department of State to me. I go to see Segni; Segni says, “No way.” I go back,
+                    wire the department, “No way.” The department maybe calls up the Pentagon, the
+                    Pentagon goes to MAAG, MAAG goes back to the Pentagon; the Pentagon goes to the
+                    State Department; the State Department comes back to me. So there may be about
+                    three rounds, and then, finally, the anguished plea from the department said,
+                    “Once those troops are embarked for the United States it will take an Act of
+                    Congress to get them back, and there is no way the Italians would then accept
+                    it, so you've got to get them in there.” Well, I really thought—we're now coming
+                    to lady luck—I said to myself, “Go for it.” I made an appointment with Mr. Segni
+                    to have one last crack at it, [with] what? three days to go before anybody
+                    embarked, something like that. “Perils of Pauline,” I'm now telling you.
+                    [Singing] “Percy drifted to out to sea, then they tie her to a tree. Wonder what
+                    the end will be? The suspense is awful.” [Laughs] You don't remember that?</p>
+                <p>
+                    <hi rend="italics">Q: No, I don't remember that.</hi>
+                </p>
+                <pb facs="0019" n="Page0019"/>
+                <p>LUCE: Well, that's the kind of thing we used to sing when I was a child. From the
+                    “Perils of Pauline.” Anyway, I had an appointment with Mr. Segni at 5 o'clock in
+                    the afternoon. The Foreign Office works the most dreadful hours, as you know.
+                    They wouldn't get to their desks until 11 in the mornings, then they'd quit
+                    around 8 o'clock at night, or 9 o'clock at night, and then we have to get up at
+                    eight, so we'd have sometimes 12-hour days. At any rate, I was coming down the
+                    steps, walking down the steps of the embassy, when my minister counselor rushed
+                    after me and said to me, “Just had word from Mr. Segni that he cannot see you at
+                    5 o'clock. Will you come at 6:30?” Okay. I'm on my way out. I get into my car,
+                    and say to Gino, the chauffeur, “Go back to the residence.” Get back to the
+                    residence, have a little cup of tea, and sitting there. And two characters from
+                    the Italian Foreign Office, young men, stop by to pay their respects, and there
+                    I am with an hour to kill, so I talk to them. And one of them says, “Too bad you
+                    don't get along with Gronchi.”</p>
+                <p>“Well, it isn't my not wanting to see him, but he just has never asked to see
+                    me.” And they said, “Well, if you ever see him, remember he's a vain man, a
+                    brilliant man, an attractive man, and you and he ought to get along very well
+                    because he's a military buff.” And I say, “He is?” “Yes, sure. It's a good
+                    thing, too, because after all he is the commander-in-chief.”</p>
+                <p>Now, why it never occurred to me that the president of Italy was also the
+                    commander-in-chief, I don't know. But I thought to myself, well, that's
+                    interesting. If I ever see Gronchi, I'll simply tell him. So the young men left.
+                    I looked at my watch. It was 6:30, it's time for me to go to the Chigi. And I
+                    got in the car and I had one of those cars with a window that goes up and down
+                    [between the front and back seats]. So the window was up and I pressed it and it
+                    goes down this far, and I've got my finger on the button. And I say to the
+                    chauffeur, “Gino, Il Presidente della Consiglia.” Now, the Presidente della
+                    Consiglia is the prime minister. The Presidente is the president. It's the
+                    difference between the president of the United States and the president of the
+                    Ladies' Club, you know?</p>
+                <p>
+                    <hi rend="italics">Q: Sure.</hi>
+                </p>
+                <p>LUCE: Anyway, pressing the button, I cut off the—</p>
+                <p>
+                    <hi rend="italics">Q: Oh, no!</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>LUCE: Yes! And now it was getting dark, and I'm reading over my points,
+                    clarifying my mind, going, rushing through Rome. And I looked up from my
+                    homework, 'cause I wanted to have every last little point clearly in mind when I
+                    saw the prime minister. The door opens and here's a guy, 6'4” with a plume in
+                    his hat and a sword by his side. And I am at the Caranoli, the president's
+                    apartment. And before I can catch my breath, this huge man says, “Ah, La
+                    Signora! Veni.” And he got me in the door. And there's an elevator and I'm being
+                    shot upstairs. And I thought, “Well, when I get out I'll quietly find a
+                    staircase and come back.” But there standing was a character I knew very well;
+                    I'll think of his name in a minute. He'd become the secretary to Gronchi. He'd
+                    been in the foreign office. And there's this huge room, full of gold chairs, and
+                    he comes forward and he says, “But, Signora, what are you doing here? Did you
+                    have an appointment?” God, I could see the papers: “Mrs. La Signora doesn't even
+                    know, after all this time, the difference between the Caranoli and the Chigi
+                    [foreign office],” you see. So I said, “Well, I know I have no appointment, but
+                    the matter is really very urgent.” “Maybe you can tell it to me?” And I said,
+                    “No, I didn't come here to tell you.”</p>
+                <p>He said, “Shall I—well, just a moment,” and he disappeared and he came back. And
+                    he said, “The president will see you in his study.” I walk in a room about half
+                    the size of this. The president is sitting at a big desk, but behind him there's
+                    a map. And he said to me, “To what do I owe the honor?” and in a really
+                    sarcastic voice “of this unexpected visit?”</p>
+                <p>As I said, the whole think was luck. So I said, “Well, I think it's a question of
+                    the defense of Italy, and you as the commander-in-chief should really make this
+                    decision.”</p>
+                <p>
+                    <hi rend="italics">Q: That's what's known as thinking on your feet.</hi>
+                </p>
+                <p>LUCE: He knew all about the matter and was very annoyed that no one in the
+                    American Embassy—that his input hadn't been there. Then I said to him, “Well,
+                    how would you defend the Ljubljana Gap?” And then I explained to him that if
+                    this bunch got on the ship they'd only be brought back by an Act of Congress. He
+                    knew how long it took for the United States to interest itself in foreign
+                    difficulties. And, my goodness! he was so pleased. Now he went on and on,
+                    talking about the defense of Italy. And I said, reminding myself that Mr. Segni
+                    must be wondering what the devil has become of me—</p>
+                <p>
+                    <hi rend="italics">Q: Oh, gosh! Yes.</hi>
+                </p>
+                <p>LUCE: —And next thing I knew I was—he was leaving for a vacation the next day—the
+                    next thing I knew—oh, he said to me during this conversation, “My predecessor
+                    visited America.” And I said, “Mr. Gronchi, I'm sure that when this question is
+                    settled, you will be received in America with open arms.” At any event, I
+                    left.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>I went to Mr. Segni. It was very much on my mind that I'd kept him waiting, and I
+                    said, “Now I must tell you, too,” and I said, “I made a mistake. I kept my
+                    finger on the button.” I told him exactly what had happened. I never had a
+                    conversation in Italy, except this one with the president, without an
+                    interpreter, an American interpreter as well as Italian, being present. Anyway,
+                    he said he'd already received a telephone call from the president, and he and
+                    the president were d'accordo, so everything was fine. And I got back to the
+                    embassy.</p>
+                <p>Meanwhile, my troops were lined up for the sad word back. Communications—even in
+                    Rome—are very rapid. They greeted me with, “My God, why did you go to the
+                    Caranoli?” you know. And, “What happened?” They knew when I left I wasn't going
+                    there, and I'd given no word. And the press was trying to find out.</p>
+                <p>
+                    <hi rend="italics">Q: I'll bet.</hi>
+                </p>
+                <p>LUCE: And Mr. Segni himself was trying to find out what had become of me. Then I
+                    was reported as having been seen going to the Caranoli and staying there a good
+                    half-hour, and so on. And while we were having this conversation, my office
+                    telephone rang. It had been ringing all day. My secretary came in and said, “The
+                    press wants to talk to you.” I said, “Now you just tell them that the ambassador
+                    has left and you think is on the way to Castel Gondolfo.” [The Pope's
+                    Palace]</p>
+                <p>
+                    <hi rend="italics">Q: [Laughs]</hi>
+                </p>
+                <p>LUCE: Might as well make this a good trip while we're about it. Well, anyhow,
+                    there was great rejoicing over that. Then my officers began to tell me that
+                    nobody believed me. They thought that I had deliberately planned this. This is
+                    why I say nobody “lucked” very often. [Luck] plays a much larger part than
+                    people know. Obviously, you have to be able to avail yourself of a sudden
+                    opportunity, but without that opportunity I would never have been able to
+                    accomplish that mission. Now having said that, I may say that it didn't much
+                    matter because there was surprisingly little publicity about it in the Communist
+                    press for the simple reason that there were some thousands—I can't remember,
+                    2,000 to 3,000—[American] troops involved, and that was money in the pockets of
+                    the Italians in this otherwise somewhat poor area, so they were delighted to
+                    have those people there. The Communists—once they had to, they had to try to
+                    prevent it, but it happened too fast for them. You see?</p>
+                <p>
+                    <hi rend="italics">Q: Uh-huh. Yes.</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>LUCE: And once it happened, it was bread and butter again, so they couldn't make
+                    a fuss about it. As it happened, thank God, the unit was never needed, and there
+                    was no war and nothing else, so that was all to the good. But diplomatic
+                    triumphs are as often a matter of luck, they say, as of skill. Negotiations are
+                    a little different. But afterward, the press began to publish their version, and
+                    five years after I had left Italy, Gronchi wrote his memoirs, and his was that a
+                    distraught and weeping American ambassador had arrived, having plotted this
+                    carefully.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, I see.</hi>
+                </p>
+                <p>LUCE: And offered to him the prize of coming to America, which he said he would
+                    consider, going to America, but that he had before that instructed Mr. Segni to
+                    accept the invitation. So that was the Italian version.</p>
+                <p>
+                    <hi rend="italics">Q: Afraid he'd lose face, I suppose.</hi>
+                </p>
+                <p>LUCE: Oh, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Well, you have to take people as you find them, but it
+                        must be very annoying.</hi>
+                </p>
+                <p>LUCE: Well, if I allowed myself to be distraught by every piece of bad publicity,
+                    I mean, I wouldn't have a peaceful evening. Now, furthermore, most of my bad
+                    publicity, as far as Italy went, was in the American papers.</p>
+                <p>
+                    <hi rend="italics">Q: Is that so?</hi>
+                </p>
+                <p>LUCE: Uh-hmm.</p>
+                <p>
+                    <hi rend="italics">Q: Is that so? I didn't know. I myself was overseas at the
+                        time you were in Italy, so I didn't see the American press. Why were they
+                        vilifying you at that time?</hi>
+                </p>
+                <p>LUCE: Well, my mission got off on the wrong foot. First of all, members of the
+                    embassy itself were—this was in the McCarthy [Senator Joseph McCarthy
+                    (R-Wisconsin, anti-Communist zealot, accused the Department of State of
+                    harboring hundreds of Communists] days, and most of the embassies were staffed
+                    by people of the Rooseveltian heyday, really, when New Dealers sponsored a very,
+                    very mild and very necessary reform. I myself began as a New Dealer, as you
+                    know. Bunker—Ellsworth Bunker was the ambassador. He had called the entire staff
+                    together and told them he would have no more talk about me becoming the
+                    ambassador.</p>
+                <pb facs="0023" n="Page0023"/>
+                <p>
+                    <hi rend="italics">Q: Was this because you were Mrs. Luce, Harry Luce's
+                        wife?</hi>
+                </p>
+                <p>LUCE: Yes, and because I was a Republican.</p>
+                <p>
+                    <hi rend="italics">Q: Because you were a Republican. It had nothing to do with
+                        your being a woman?</hi>
+                </p>
+                <p>LUCE: . . . And the idea of being a playwright. Oh, yes, it did. Previously I was
+                    offered Spain, but I had made a mistake, and this one operated against me. Well,
+                    anyway, an interviewer came, and he didn't speak—hardly a word of English, very
+                    poor English. I said I wouldn't see him unless he spoke English because my
+                    Italian was not, at that point, very good—after I was appointed.</p>
+                <p>I'd just begun my Italian lessons. I said I knew De Gasperi. Because, see, I told
+                    you to begin with I'd known De Gasperi during the war, before the war. Where did
+                    I meet him? I think I met him at some kind of a business conference that my
+                    husband had for foreign economists and that sort of thing. Anyway, I said to
+                    this interviewer, “What kind of hobbies does Mr. De Gasperi have?” And there's
+                    no word in Italian for hobby. But I finally said to him, “What does he like to
+                    do when he is not working, to amuse himself?” You know. And very gradually got
+                    the idea through to him. Then he replied to me that he did not know the English
+                    word, but he'd say it in Italian. And I said, “Oh, we have the same word for it
+                    in English.” And I repeated, “entomology.” And he said, “Si.”</p>
+                <p>Okay, we now found out that Mr. De Gasperi was interested in insects. And I said,
+                    “Butterflies,” and he just didn't understand “butterflies,” and I didn't know
+                    the Italian word, but I assumed “Si, si, signora,” as being agreeable, and so
+                    on. So I reported to my husband that I had made my first interesting discovery
+                    in having discussed Italy with a foreigner, with an Italian, that De Gasperi
+                    collects butterflies. Harry had the Time people get a frame and box of beautiful
+                    butterflies of North America for the entomologist. I told the State Department
+                    that I'd already picked the gift I'm taking to the foreign minister, and they
+                    asked me what? And I said, “He's an entomologist and he's a butterfly
+                    collector.” The next thing I'm told is that I have made a serious mistake. He's
+                    not an entomologist, he's an etymologist. He collects books on linguistics, or
+                    languages. Fine, except someone in the department thought it was so funny they
+                    started to tell the press, and it gets in the press that I am so ignorant I
+                    don't know the difference between butterflies and books. But it also gets into
+                    the Italian press, where one little writer, who said his knees were shot off by
+                    the Red Brigade, called Montenelli—I think he's just died—but he was the
+                    wittiest and the cleverest of all the Italian writers, political commentators,
+                    and he wrote something called L'histoire des Papillons; it was Pappilloni in
+                    Italian. He said that it was appropriate that a well-known American
+                    butterfly—that was me—should bring butterflies to the man with the butterfly
+                    brain. [Laughs]</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>It was really all very funny, except it was just one more thing, one more thing.
+                    When I landed on the ship, which also sank—fortunately, not with me . . .</p>
+                <p>
+                    <hi rend="italics">Q: No, not with you on it. The Andrea Doria [SS Andrea Doria
+                        - Italian liner that later collided with the Swedish liner, Stockholm, and
+                        sank].</hi>
+                </p>
+                <p>LUCE: I took the Andrea Doria to be courteous, mind. I was met by a swarm of
+                    Communists protesting the electrocution of the Rosenbergs [an American couple
+                    convicted of espionage for passing nuclear secrets to the Soviet Union and
+                    executed].</p>
+                <p>That was the way I entered Rome; it was very unfortunate. And my whole staff was
+                    very cold and remote.</p>
+                <p>
+                    <hi rend="italics">Q: Is that so?</hi>
+                </p>
+                <p>LUCE: Very. And I may say that when I left, much of the original staff was still
+                    there, and they assembled outside the residence. And led by one of the political
+                    officers at the embassy, Tony, who was very lucid and a fine boy, they sang I've
+                    Grown Accustomed to Her Face.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, how touching!</hi>
+                </p>
+                <p>LUCE: It was so nice. Really was wonderful, and they gave me a decoration—wasn't
+                    really a real decoration, but it had on it: “Pazienza, Sforzo, Coraggio.”
+                    [”Patience, Effort, Courage.”] So we all did very well, and it was really a
+                    great bunch of men and women.</p>
+                <p>Now, the first woman I ever met in the Foreign Service I met under the most
+                    extraordinary circumstances, and that was on May 10, 1941. I was coming from
+                    Amsterdam and spent the night at Ambassador Cudahy's. And that was the morning
+                    that the Phony war ended.</p>
+                <p>
+                    <hi rend="italics">Q: You were in Brussels then?</hi>
+                </p>
+                <pb facs="0025" n="Page0025"/>
+                <p>LUCE: Yup. And his—I think she was the consul. I don't know what she was. In
+                    those days, I didn't know much about how an embassy runs. Harry Luce would
+                    always stop with the ambassador, and even he didn't rate much! [Laughter] Below
+                    that, you know, he didn't bother.At any rate, this remarkable woman and
+                    myself—not knowing at any moment whether the Germans would go on bombing,
+                    because they only dropped two bombs on Brussels, and one of them sent the house
+                    next door right up. It was one of only two bombs dropped. She became an
+                    ambassador. I think she probably was the first ambassador to Switzerland. She
+                    was a regular Foreign Service Officer.</p>
+                <p>
+                    <hi rend="italics">Q: Frances Willis. [Frances Willis was the first female FSO
+                        to become an ambassador. She had three embassies (Switzerland, Norway,
+                        Ceylon) and was the first (and to date only) woman to achieve the personal
+                        rank of career ambassador]</hi>
+                </p>
+                <p>LUCE: Frances Willis. A wonderful woman. She and I had an extraordinary morning
+                    that morning, and she helped me get out of the place with the wife of another
+                    ambassador, a French woman, Hugh Gibson's wife. You read about that. You might
+                    find it very amusing. In Europe in the Spring.</p>
+                <p>
+                    <hi rend="italics">Q: I've read your book.</hi>
+                </p>
+                <p>LUCE: Well, Frances Willis was this woman I met there, and she or I would have
+                    been startled if anybody had come in and said, “You're both going to be
+                    ambassadors.”</p>
+                <p>
+                    <hi rend="italics">Q: Isn't that amazing? And you liked Frances Willis?</hi>
+                </p>
+                <p>LUCE: Oh, yes. I thought she was une femme serieuse [a reliable woman].</p>
+                <p>
+                    <hi rend="italics">Q: Yes, she was, yes.</hi>
+                </p>
+                <pb facs="0026" n="Page0026"/>
+                <p>LUCE: She was straight and very effective. But I'd always thought that the women
+                    undergo the same hazard in this occupation—I mean, the ambassadorial career—as
+                    they do in federal office. You may have noticed that whereas there are a great
+                    many women mayors and aldermen, and even a number of governors, there's still
+                    very few senators, you see, or even congressmen. There were 17 women in Congress
+                    when I was in Congress, and there are now only about 25. The problem for women
+                    is that once they have to leave, the husband must either give up his business or
+                    there's a divorce ahead of them. I mean, I refused to take the post when Ike
+                    offered it to me unless Harry would promise to spend six months with me. And in
+                    those days you got three months off for the summer, so that was nine months of
+                    the year. I said, “If you'll do it, that would be—[inaudible]</p>
+                <p>
+                    <hi rend="italics">Q: Yes, you weren't going to risk the marriage.</hi>
+                </p>
+                <p>LUCE: No.</p>
+                <p>
+                    <hi rend="italics">Q: No, I don't blame you.</hi>
+                </p>
+                <p>LUCE: And the same thing is true now. Therefore, ambassadors almost by definition
+                    are going to be widow ladies or divorcees. Now that [divorce]'s permitted. Or
+                    spinsters.</p>
+                <p>
+                    <hi rend="italics">Q: Or spinsters.</hi>
+                </p>
+                <p>LUCE: And Willis was a spinster.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>LUCE: But now this charming—Novak's daughter, Tanya Novak; Michael Novak's
+                    daughter came to me and said she was so flattered by my [inaudible] that she was
+                    going to study for the Foreign Service, and I said, “Now don't do that. If that
+                    is your goal, don't make that your goal unless you are prepared to give your
+                    career up in midstream to marry a Foreign Service man or a foreigner that you
+                    meet, or unless you're prepared to be single and have no children.” Now, she's a
+                    good Catholic. “Oh my gosh! What should I do? I want to see the world.” “Well,”
+                    I said, “I would go in for Russian or Chinese studies and language, and you'll
+                    find that you get around the world in a great many ways without giving up your
+                    marriage.”</p>
+                <pb facs="0027" n="Page0027"/>
+                <p>Well, she's now—she's here now, after one year in Leland Stanford. She can't
+                    believe how much prestige she has because she speaks Russian, even before she's
+                    left Stanford. But I don't think it's a career for young women to embark on
+                    unless they are prepared, and some women are, to make real sacrifices.</p>
+                <p>
+                    <hi rend="italics">Q: I think you're absolutely right. This is what I'm coming
+                        to more and more, as I interview more and more people. Almost all the career
+                        ambassadors in my study have been spinsters.</hi>
+                </p>
+                <p>LUCE: Uh-hmm.</p>
+                <p>
+                    <hi rend="italics">Q: And it's as though they have to make the sacrifice.</hi>
+                </p>
+                <p>LUCE: Yes, it is a sacrifice.</p>
+                <p>
+                    <hi rend="italics">Q: It's a big one.</hi>
+                </p>
+                <p>LUCE: And now, of course, they can conveniently get a divorce, which they
+                    couldn't. Look at Von Damm [Helene von Damm, while ambassador to Austria
+                    (1983-1986), divorced her American husband to marry an Austrian. Von Damm was
+                    born in Austria and is a naturalized American citizen]; she not only got a
+                    couple of divorces, she—well, we won't say much about that.</p>
+                <p>
+                    <hi rend="italics">Q: [Laughs] We won't talk about that.</hi>
+                </p>
+                <p>LUCE: No I don't like to talk about that. I don't know what became of the old
+                    idea that you had to be a native-born American to become a . . . but, even if
+                    you weren't, you shouldn't be sent to the country of your origin. I mean, my
+                    other diplomatic—mes colleagues diplomatiques, mes amis—I had a lot of good
+                    friendships with many of them. And I had a good feeling about Italy and the
+                    Italians and made many lasting friends and, in many ways, it is the heart of my
+                    life in Washington, the many, many friends that led to other friendships, and so
+                    on. That and Congressional life is why I like to live here.</p>
+                <p>So . . . after Italy, I was appointed to Brazil, and appointed ambassador twice,
+                    and you know the story.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>LUCE: And my decision not to go Brazil, which I think was the right decision.</p>
+                <pb facs="0028" n="Page0028"/>
+                <p>
+                    <hi rend="italics">Q: You were afraid your effectiveness would have been
+                        undercut by the press.</hi>
+                </p>
+                <p>LUCE: Oh, I mean it—look—it took me three or four months to get on the track in
+                    Italy, and to go to a country where they've been told by the chairman of the
+                    Latin American Affairs Committee that an ambassador was arriving that was going
+                    to deprive them of money in steel and oil—huh?</p>
+                <p>
+                    <hi rend="italics">Q: I know; I know. I often wondered why he went—why Morse
+                        [Wayne Morse (D-Oregon), U.S. senator with whom Luce had an acrimonious
+                        dispute] undercut you.</hi>
+                </p>
+                <p>LUCE: It wasn't me.</p>
+                <p>
+                    <hi rend="italics">Q: It wasn't you, no. It was your husband?</hi>
+                </p>
+                <p>LUCE: I've taken many a blow . . .</p>
+                <p>
+                    <hi rend="italics">Q: That's what I was going to say. You've had to have that
+                        too, haven't you?</hi>
+                </p>
+                <p>LUCE: Especially in Congress; especially in Congress. Anyone who's been attacked
+                    by Time magazine took it out on me. I had an awful lot. And I made the right
+                    decision. When it said that the president [should] send the best man we sent
+                    John Cabot. Jack Kennedy said to me, “Clare, you've only made one mistake in
+                    your life. You've made a terrible mistake, because if you had not resigned, I
+                    would have kept you. You know that.” He was a good friend of mine. I said,
+                    “Jack, you would have kept me? How would you have done that?” I said, “John
+                    Cabot was a lame duck. He was THE expert ambassador in the field of Latin
+                    American affairs, and the Brazilians asked him to leave four months after he got
+                    there.” So anyone who got there was in trouble.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, absolutely.</hi>
+                </p>
+                <p>LUCE: But do you know, I have Brazilians, and the Brazilian ambassador here, for
+                    example, who say that they still want me?</p>
+                <p>
+                    <hi rend="italics">Q: Really?</hi>
+                </p>
+                <p>LUCE: They still remember I didn't come. “They want you to come downthere.”</p>
+                <pb facs="0029" n="Page0029"/>
+                <p>
+                    <hi rend="italics">Q: Well, I think after your tremendous success in Italy, any
+                        other country would take it as a great compliment to have you sent to them.
+                        I think that's about the size of it.</hi>
+                </p>
+                <p>LUCE: Yes, I had a little trouble about that. I'll tell you a story that was
+                    never printed; or I don't think it was ever printed. [Winthrop] Aldrich, our
+                    ambassador [to the U.K.], for some reason or other was not altogether a success.
+                    And somebody—it was toward the end of my stay in Rome—put it in the paper that I
+                    was going to replace Aldrich.</p>
+                <p>
+                    <hi rend="italics">Q: Uh-hmm.</hi>
+                </p>
+                <p>LUCE: This piece of news, which was instantly printed in Italy, not only startled
+                    me and my husband, it embarrassed us because we had just accepted an invitation
+                    from Aldrich for a dinner that he was giving for the Queen. And so, what to do?
+                    Nothing to do but go. So we got there and I was sitting in earshot of my
+                    husband—it was not difficult to do because he had a very loud voice—and on this
+                    occasion I couldn't be more pleased because he was sitting next to Harriet
+                    Aldrich, And there was a little silence and Harry's voice was heard to say,
+                    “Harriet, there's something I want you to know, and that is that I'm not trying
+                    to get your job.”</p>
+                <p>
+                    <hi rend="italics">Q: [Laughs] He, as the spouse.</hi>
+                </p>
+                <p>LUCE: And everybody laughed, you know, and it broke the tension. Then after that
+                    he said “I assure you that there's nothing in the rumor.” But then from the time
+                    I came back, things started about where I would go next. But it was too much of
+                    a strain on my marriage. Now the only reason that Harry consented—found it easy
+                    in Rome—was because he had an office in Rome. Time had an office in Paris and
+                    London and Berlin, so he was [only] overnight away from any of his offices, and
+                    he enjoyed it.</p>
+                <p>
+                    <hi rend="italics">Q: He loved to travel?</hi>
+                </p>
+                <p>LUCE: He loved to travel and he loved parties, and altogether he was happier when
+                    he was my husband—I mean, my—</p>
+                <p>
+                    <hi rend="italics">Q: Yes, I understand.</hi>
+                </p>
+                <p>LUCE: —my spouse.</p>
+                <p>
+                    <pb facs="0030" n="Page0030"/>
+                    <hi rend="italics">Q: Your spouse. Well, he was very proud of you.</hi>
+                </p>
+                <p>LUCE: Yes. He wasn't when I was a very successful playwright making a half a
+                    million dollars a year.</p>
+                <p>
+                    <hi rend="italics">Q: Really? Is that right?</hi>
+                </p>
+                <p>LUCE: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: I wonder why? Why do you think that was?</hi>
+                </p>
+                <p>LUCE: Why, I think that's very simple. I could write my plays entirely alone. I
+                    couldn't have done the embassy thing without him.</p>
+                <p>
+                    <hi rend="italics">Q: I see; I see.</hi>
+                </p>
+                <p>LUCE: Not in that—at that—I could do it now if I were younger; if I were a young
+                    woman. Today I wouldn't feel the lack—but even a male ambassador is ten times as
+                    effective if he has, I don't have to tell you—a good wife. You've got to have a
+                    wife. Now, in one sense, he was not a “wife,” in that he paid no attention to
+                    the embassy. My embassy “wife” was Tish Baldridge. And Matilde St. Clair was a
+                    marvelous woman. She was an Italian. She was the daughter of an American and an
+                    Italian, and she spoke aristocratic Italian. She knew everybody in Italy and she
+                    had been the social secretary to the embassy since the end of the war. And she
+                    was a superb character. She only died a year or two ago. A very close friend of
+                    mine. So I had Matilde and I had Tish.</p>
+                <p>But where Harry was wonderful was that he knew inside and out what I was not very
+                    good at, which was the actual talk of business. You see, all the businessmen in
+                    Italy, not to mention all the people who owned newspapers and magazines—Harry
+                    was great from the start on the publishing—and he was a man who understood
+                    success and how to get from the bottom to the top, so they were just as eager as
+                    possible to lunch alone, man-style, with him, you know. So I was very fortunate.
+                    And he was aware of the important part he played. Now I don't know what an
+                    ambassador like—well, I'm just taking this at random . . .</p>
+                <p>
+                    <hi rend="italics">Q: Surely.</hi>
+                </p>
+                <pb facs="0031" n="Page0031"/>
+                <p>LUCE: Shirley Temple [Shirley Temple Black, ambassador to Ghana, 1974 to 1976] —
+                    I don't know whether Shirley was married or not.</p>
+                <p>
+                    <hi rend="italics">Q: Yes.</hi>
+                </p>
+                <p>LUCE: Did her husband go with her?</p>
+                <p>
+                    <hi rend="italics">Q: Well, like yours. He has his own business. He was there
+                        sometimes and then he would leave for his own business. He had an
+                        international business and I think he was a consultant or something to
+                        governments. But I don't think he played any role at her embassy.</hi>
+                </p>
+                <p>LUCE: I think it is not so difficult for Foreign Service women at the
+                    ambassadorial level, because a woman has to be—or was when I got it—would
+                    certainly have to be in her forties.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, yes to achieve that.</hi>
+                </p>
+                <p>LUCE: And I would suggest that women with children don't do as well, but there's
+                    Faith Whittlesey [Faith Ryan Whittlesey, ambassador to Switzerland, 1981 to 1983
+                    and 1985 to 1988], who's made such a case about her children adoring
+                    Switzerland. But what do they do—well, how do they get—who plays the role of
+                    spouse?</p>
+                <p>
+                    <hi rend="italics">Q: I don't know.</hi>
+                </p>
+                <p>LUCE: Do you have any ideas?</p>
+                <p>
+                    <hi rend="italics">Q: No, I don't.</hi>
+                </p>
+                <p>LUCE: Because there's great numbers of women now. Who relates to the wives of the
+                    embassy, the embassy wives that's what I want to know. My experience . . .</p>
+                <p>
+                    <hi rend="italics">Q: Sometimes the DCM's wife, if there is one.</hi>
+                </p>
+                <p>LUCE: Oh!</p>
+                <p>
+                    <hi rend="italics">Q: Sometimes. Of course, now—</hi>
+                </p>
+                <pb facs="0032" n="Page0032"/>
+                <p>LUCE: Now I hear the DCM's wife wants a job.</p>
+                <p>
+                    <hi rend="italics">Q: That's right; that's right.</hi>
+                </p>
+                <p>LUCE: When I went back to Rome this time—that reminds me of something I
+                    forgot—oh, my word! God bless me! How could I forget it? The Women's Club—I
+                    founded the Women's Club in Rome.</p>
+                <p>
+                    <hi rend="italics">Q: Did you?</hi>
+                </p>
+                <p>LUCE: And when I was there last year, they were having their whatever it was—I
+                    guess 20th or 25th anniversary. They wanted me to make a speech and I was
+                    leaving the next day, so I wrote a letter for the woman who's the president, and
+                    left it on the table at the residence. They were having a big reception for the
+                    new cardinals. She never got it, don't ask me why; I don't know. I wrote it.
+                    Mrs. Rabb [Mrs. Maxwell Rabb, whose husband was Reagan's ambassador to Italy,
+                    1981 to 1989] called me up—it's now more than a month ago—to ask me to write a
+                    letter. From what I have seen of ambassadors in any given capital, the
+                    hardest-working ambassador is certain to be the American ambassador.</p>
+                <p>
+                    <hi rend="italics">Q: Really? Well, we're the most important country so we're
+                        involved in more things.</hi>
+                </p>
+                <p>LUCE: Yes. Now in Europe, of course, you'll find—well, in Rome—I was always so
+                    amused by some of my colleagues who would play golf and tennis. And most often
+                    they'd be off on trips, and they and their wives would pick up chits in other
+                    capitals. I never had time to do anything but work, work, work.</p>
+                <p>
+                    <hi rend="italics">Q: All the time. How did you disarm your staff in Rome, the
+                        ones who were so cold and hostile? I know you did it and did it very
+                        quickly, but how did you set about doing it?</hi>
+                </p>
+                <p>LUCE: Well, I do not wish to be quoted.</p>
+                <p>
+                    <hi rend="italics">Q: All right.</hi>
+                </p>
+                <p>LUCE: You know you can get anything accomplished if you're willing not to get
+                    credit for it.</p>
+                <p>
+                    <pb facs="0033" n="Page0033"/>
+                    <hi rend="italics">Q: That's true.</hi>
+                </p>
+                <p>LUCE: So the first thing I made up my mind [to] was that anything I got done,
+                    somebody else would get the credit.</p>
+                <p>
+                    <hi rend="italics">Q: I see.</hi>
+                </p>
+                <p>LUCE: 'Cause then I would be sure it was done.</p>
+                <p>
+                    <hi rend="italics">Q: And you'd get their loyalty.</hi>
+                </p>
+                <p>LUCE: So the first thing I did was to admit, quite honestly, my own ignorance in
+                    respect to a question, and say, “Tony, would you handle it?” And for a while,
+                    for the first few months I was there, a lot of time was spent just in those
+                    interminable visits—</p>
+                <p>
+                    <hi rend="italics">Q: I can imagine.</hi>
+                </p>
+                <p>LUCE: —which I put an end to.</p>
+                <p>
+                    <hi rend="italics">Q: Did you?</hi>
+                </p>
+                <p>LUCE: Two things I got Foster Dulles to quit: one was the obligatory half-hour
+                    visit to the ambassadors, which took your whole morning, and the other was the
+                    Fourth of July reception.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, you got rid of that? Good for you! [Laughter]</hi>
+                </p>
+                <p>LUCE: I got rid of that because all those poor fellows, those consuls, everybody,
+                    was putting out their money for people who had no business with the embassy at
+                    all. It was a hangover from the 19th century, which is understandable; but at
+                    any rate, I wrote the letter that got rid of it.</p>
+                <p>
+                    <hi rend="italics">Q: It was for all American citizens, was it, at that
+                        time?</hi>
+                </p>
+                <p>LUCE: Yes! [all] Americans. And I said, “Well, let us have a diplomatic Fourth of
+                    July within our own residence for our colleagues.” That I was for.</p>
+                <p>
+                    <pb facs="0034" n="Page0034"/>
+                    <hi rend="italics">Q: Exactly.</hi>
+                </p>
+                <p>LUCE: The last time, I sort of eased out of it. [At] first they used to have the
+                    reception on the embassy grounds, and there'd be a couple of thousand people
+                    there. Then I insisted that we go somewhere and have a baseball game with
+                    hamburgers and wieners, you know.</p>
+                <p>
+                    <hi rend="italics">Q: Oh sure, sure. Really American.</hi>
+                </p>
+                <p>LUCE: Really American. One, because it was a little bit out of town, and that
+                    knocked out a lot of the tourists. Well, we got rid of that. But the american
+                    ambassador is, in every place that I've ever been, the hardest working one.</p>
+                <p>
+                    <hi rend="italics">Q: How much—I don't mean amounts, but percentages—did you
+                        have to pay to do all that entertaining you did, and fixing up the embassy,
+                        and all?</hi>
+                </p>
+                <p>LUCE: Sometimes it's useful, if you're an ambassador, to have a husband who's . .
+                    . [laughs]</p>
+                <p>
+                    <hi rend="italics">Q: Especially one who's head of Time-Life.</hi>
+                </p>
+                <p>LUCE: Who could well afford to pay for all that.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, but I mean, it must be a tremendous amount, because
+                        what the government gives you . . .</hi>
+                </p>
+                <p>LUCE: Yes. Well, it runs up, especially if you do the flowers. Oh, the thing that
+                    was most amusing was we had to buy all the table linen. Rome was a very poor
+                    embassy, and I remember that we went up to Venice and I bought marvelous
+                    tablecloths for 24 people, and teacloths, and lunchcloths—all of which I gave to
+                    Nixon's White House when I returned.</p>
+                <p>
+                    <hi rend="italics">Q: Well, I want to thank you on behalf of the Association for
+                        Diplomatic Studies and myself for a most interesting interview.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

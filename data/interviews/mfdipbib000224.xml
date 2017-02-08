@@ -1,264 +1,1096 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000224">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Thomas F. Conlon </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Thomas F. Conlon </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>THOMAS F. CONLON</p>
-<p>Interviewed by:  Arbor W. Gray </p>
-<p>Initial interview date:  August 12, 1992</p>
-<p>Copyright 1998 ADST</p>
-<p>Today is August 12, 1992.  This is an interview with retired Foreign Service Officer Thomas F. Conlon on behalf of the Association for Diplomatic Studies.  I am Arbor W. Gray.</p>
-<p>
-<hi rend="italics">Q: Could you describe briefly your background—your birthplace and education?</hi>
-</p>
-<p>CONLON: I was born in the family home in Park Ridge, Ill., a northwest suburb of Chicago.  I was one of five children (three girls, two boys).  My father was an Internal Revenue Service agent, and my mother was a school teacher.  After graduating from parochial elementary school I went to Fenwick High School, a Dominican school in Oak Park, Ill., a western suburb of Chicago.  After serving in the Army Air Forces during World War II I attended and graduated from the Georgetown University School of Foreign Service in 1948.</p>
-<p>
-<hi rend="italics">Q: How did you become interested in the State Dept; did you ever know or meet a diplomat while you were growing up?</hi>
-</p>
-<p>CONLON: I saw a movie, “Vice Consul,” with Joel McCrea and Andrea Marshall in 1940, when I was 15 and a sophomore in high school. This decided me on a Foreign Service career.  The first diplomat I ever met was Raul Barrios, the Guatemalan Consul in Chicago, while I was working on my high school newspaper.  I met FSO Robert J. Kavanaugh, the brother of a friend of ours, on Pearl Harbor Day (12/7/41) when he and his family were having dinner at our house.  I talked to him at length about the Foreign Service. I never forgot the date or the conversation.</p>
-<p>
-<hi rend="italics">Q: Were you in military service during World War II?</hi>
-</p>
-<p>CONLON: Yes, in the Army Air Forces; after extensive shuttling around, during which time I went through basic training three times, I was trained as an Army Air Force cryptographer and ultimately served in the Fifth Air Force in New Guinea.  This was one of the accidents of the service, but it aroused my interest in Southeast Asia.</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q: You noted that you had been a cryptographer in the Army Air Force.  Have you had any special interest in that field since?</hi>
-</p>
-<p>CONLON: Well, of course, the State Dept is involved in codes and ciphers, because this involves encrypted messages to and from the State Dept and to and from Foreign Service posts.  Because I was interested in cryptography, I've also been interested in the history of World War II and particularly the Ultra affair and the “Magic” intercepts which had a tremendous amount to do with our performance during World War II.  However, I was not involved in any of that.  This was a very simple sort of thing.  I really was a cryptographic clerk.  That's what it came down to.</p>
-<p>
-<hi rend="italics">Q: I note that You attended and graduated from Georgetown University immediately after WWII; did you have any direct contact with the State Dept then?</hi>
-</p>
-<p>CONLON: Well, two of my professors, John Hickerson, and Llewellyn Thompson, were fairly senior Foreign Service Officers.  They taught a course at Georgetown called “Diplomatic and Consular Practice.”</p>
-<p>In Washington I absorbed the some of the atmosphere of our capital and felt a part of the diplomatic world.  Two of my professors were Boyd Carpenter, a much traveled scholar of Far Eastern matters, and Ernst Feilchenfeld, a professor of international law.  I remember particularly Feilchenfeld's three principles of international law: A's territory is not B's territory; treaties, on the whole, should be kept; and ambassadors, on the whole, should not be beaten up.  This is as good a brief summary of international law as any.</p>
-<p>
-<hi rend="italics">Q: How did you enter the Foreign Service?</hi>
-</p>
-<p>CONLON: I took and passed the Foreign Service exam in September, 1947.  At the time the exam was a 2 � day ordeal. I passed the Foreign Service oral exam in March, 1948.  In December, 1948, I was offered and accepted appointment in the Foreign Service at the handsome salary of $3,300 per year.</p>
-<p>
-<hi rend="italics">Q: Then I take it that you took the written exam while you were still in Georgetown, and the oral exam just before graduation.</hi>
-</p>
-<p>CONLON: Yes, that's right.  Well, the oral exam was just after graduation, but the written exam was while I was still at Georgetown.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q: What kind of initial training did you receive?</hi>
-</p>
-<p>CONLON:  I took a three month course at the Foreign Service Institute in early 1949.  My entry class of 21 young Foreign Service Officers heard lectures from senior officers in the Department, including Career Ministers George Allen and George Kennan, on various aspects of the work of the Department and of our embassies and consulates abroad.</p>
-<p>We spent a week in New York after the Washington training. We attended a session of the UN General Assembly and visited the U. S. Customs and the Immigration and Naturalization Service Offices in New York.</p>
-<p>I was also married in Washington, DC, during this initial training period.  My wife was and is the former Joan Grace, a classmate of my sister's.  We spent our honeymoon traveling by ship, the SS AGWIKING, to Havana, Cuba, my first post in the Foreign Service.</p>
-<p>
-<hi rend="italics">Q: You would have arrived in Cuba, probably in the Spring of 1949.  How did the country strike you?</hi>
-</p>
-<p>CONLON: It's hard to believe that people are still talking about the same place.  When we were there, it was a free, open, democratic society.  At the Embassy I was a visa officer, a common assignment for junior officers where we could do the least harm.  I really profited from the experience by learning to read and speak Spanish fluently.  I'd studied it previously in high school and college.  It is perhaps typical of the Foreign Service that I was never assigned to a Spanish-speaking country again.</p>
-<p>
-<hi rend="italics">Q: Are there any incidents during your tour in Cuba that you particularly remember?</hi>
-</p>
-<p>CONLON: There was the death of an American citizen, from natural causes, when I was Embassy duty officer for the first time.  When I was reporting his death at a local Police Station, as the law required, I observed Cuban Police beating up a black man who reportedly pulled a knife on another policeman.  I learned then that there were some things in life that you may find distressing but which you cannot do anything about.</p>
-<p>We were robbed in our apartment when we were sleeping—the only such experience during our 20 + years overseas.</p>
-<p>Perhaps most important of all, during these years, two of our sons were born in Havana.</p>
-<p>
-<hi rend="italics">Q: As I understand it, you left Cuba in July, 1951.  What happened next?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>CONLON: I was sent to Yale University to study the Indonesian language and take several courses on Southeast Asian history and culture.  The Department was starting up a program to develop language and area specialists.</p>
-<p>
-<hi rend="italics">Q: What was your next assignment?</hi>
-</p>
-<p>CONLON: Vice Consul in Surabaya, Indonesia.  This was a great opportunity to apply the Indonesian language which I had studied at Yale.</p>
-<p>Indonesia was and is a highly interesting and complex society.  It was then recovering from years of war and revolution and was developing its national institutions.  On the whole, it was a free and democratic country, although later on, under the leadership of President Sukarno, it moved away from democracy and toward a Left-leaning autocracy.</p>
-<p>My duties involved mainly economic work: following trade, rubber, coffee, and tobacco developments.  During my service there Indonesia recovered economically up to a point and then began to unravel.</p>
-<p>Two of our daughters were born there, in Surabaya.</p>
-<p>
-<hi rend="italics">Q: You were next assigned to Singapore?</hi>
-</p>
-<p>CONLON: Yes, from 1954 to 1956, again as an economic officer, working particularly on rubber, tin, and financial matters.</p>
-<p>This was my first experience in a great Chinese city.  Singapore had, and still has, about 85% Chinese, 10% Malay, 2-3% Indian, and the balance Eurasians and Europeans, including, at the time, an American community of about 250, mainly in business.</p>
-<p>This was a period when Singapore was evolving from a British Crown Colony into an independent state.  I watched the last gasps of British colonialism and observed the transition to independence, against a backdrop of the Communist Insurgency in Malaya.</p>
-<p>The British authorities accepted the need to move toward independence. However, the party which won the most seats in the freely-contested elections of 1954 was the recently-formed People's Action Party, which contained numerous Communists and was hostile to U. S. interests.</p>
-<pb facs="0005" n="Page0005"/>
-<p>One of our sons was born in Singapore, though, sadly enough, he died later on in Washington, D. C., of meningitis.</p>
-<p>
-<hi rend="italics">Q: That was a tragic thing.  Then you were assigned to the Dept of State in Washington, D C?</hi>
-</p>
-<p>CONLON: Yes, serving in the Office of Intelligence Research from 1956 to 1959 as an intelligence analyst.  I prepared mainly political analyses on the situation in Indonesia, which seemed to be moving steadily toward Communist control, with the willing acquiescence of President Sukarno.</p>
-<p>In the summer and fall of 1957 I worked closely with Ambassador Hugh Cumming, who had been ambassador in Jakarta during part of the time when I had been vice consul in Surabaya.  Cumming had returned from Indonesia and became the director of OIR, which was renamed the Bureau of Intelligence Research and Analysis (INR).  I participated in his regular, early morning briefing.  He remembered me from Indonesia, for I had interpreted for him on a few occasions.  Since I was a familiar face at his morning briefings, after which he would, in turn, brief the Secretary of State, he called me in fairly often for discussions of the deteriorating situation in Indonesia.  Sometimes, after the Secretary's staff meeting, he would telephone me and ask me to prepare a memorandum on some specific aspect of the Indonesian situation.  Since he never went through channels, my supervisors knew nothing of the requests and, I imagine, suspected me of making them up.</p>
-<p>The Indonesian situation continued to deteriorate, with Sukarno openly favoring the communists, whose influence was growing. There were increasing prospects for civil war between the central government and regional, dissident groups.  I think that I had an opportunity in these circumstances to nudge history.  Cumming telephoned me at home one evening in January, 1958, around 9:00 PM.  He asked me to prepare a paper which he described as a “lawyer's brief,” justifying U. S. intervention in Indonesia, to prevent what was feared would be a communist takeover of the country.  He said that President Eisenhower was strongly in favor of intervention but he indicated that Secretary of State Dulles was rather dubious about it.  Cumming described this as a Top Secret project (so much for telephone security).  He said that he needed the paper by the opening of business on the following morning.  He authorized me to bring one other person in for consultation purposes in drafting the paper.  I called up Dick Stuart, who had been my immediate supervisor some time before and who knew the Indonesian situation in considerable detail.</p>
-<pb facs="0006" n="Page0006"/>
-<p>Direct U. S. interests in Indonesia at that time were relatively modest (oil fields and rubber plantations, in particular).  However, it was the geographic position of Indonesia, across sea communications between Europe and the Far East which most concerned the president.  I felt that U. S. intervention in Indonesia was potentially disastrous, as the country is spread out over an area as large as the continental U. S., and is highly diverse, culturally.  Few Americans speak any of the languages in Indonesia.</p>
-<p>Still, I had my assignment.  After discussing the matter with Dick Stuart, I prepared a transmitting memorandum from me to Cumming with two attachments: one of them was the “lawyer's brief” justifying intervention on the basis that Indonesia had violated its treaty obligations with the Netherlands by unilaterally changing the form of the state from a federation to a unitary system.  This was thin stuff, but there was not much to say in favor of such an ill-advised proposal.  The other attachment strongly argued against U. S. intervention.  Dick reviewed the draft, made some suggestions, and I typed a final copy, which I delivered to Cumming's office the following morning.  Cumming never discussed the matter with me, but his staff aide later showed me a copy of a memo which Cumming had sent to the Secretary.  In it he noted the two “talking papers,” said that the “intervention” paper was thin and that the paper arguing against intervention had his support.  The Vietnam War was a nightmare in many ways, but I think that an intervention in Indonesia would have been worse.</p>
-<p>
-<hi rend="italics">Q: Then you left INR in 1959 to study Vietnamese at the Foreign Service Institute.  Why did you want to study Vietnamese?</hi>
-</p>
-<p>CONLON: Yes, along with Jim Montgomery and John Helble, two other Foreign Service Officers with whom I have kept in regular touch since then, both in Vietnam and in the U. S.  The language course was too short, considering the complexity of the language, which is really a sub-dialect of Chinese, with similar features. Still, someone decided to allow only 9 months to study it, whereas the Chinese program was for 2 � years.  We survived the 9 months, cooped up in a 10' x 6' room, and were and are still good friends.</p>
-<p>As to why Vietnamese, by 1959 I was well and truly fed up with Indonesia and its problems.  I thought then that the communists were going to take it over and I didn't want to be associated with a failed policy of that kind.  I did not, of course, anticipate that the roof was about to collapse in Vietnam, but no one else did, either.  South Vietnam was spoken of as one of the “miracles” of Asia, having recovered from extensive internal struggles in the mid 1950's.  There were indications of a slowly growing communist insurgency, but one of our INR specialists on Vietnam said that this seemed merely to be improved reporting of an existing condition and felt that the problem could be contained.</p>
-<p>Two of our sons were born in Washington during this period.</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q: Then in 1960 you headed out to Saigon.</hi>
-</p>
-<p>CONLON: Yes.  I was assigned as Consul to the American Consulate in Hue, in Central Vietnam.  I welcomed this assignment, as I felt that I could really become fluent in the language, away from the Embassy and with few Americans to associate with.  The Consul in Hue had a nice house to live in, even for my large family, and a convenient office nearby.  There were acceptable, French schools for my sons and daughters of school age, and I was looking forward to this assignment.</p>
-<p>On arrival in Saigon I called on Ambassador Durbrow, who had been our Consul General in Singapore in 1955-56, when we served there.  He told me that I would not be going up to Hue immediately.  He wanted to keep me in the Political Section in Saigon for three months to get well read into the situation.  In the event I never went to Hue, other than for occasional, short visits, spending the next two years or so in Saigon.  I was, of course, pleased to work with Durby once again.  He was one of the very best ambassadors I ever knew.</p>
-<p>1960-62 was an eventful and decisive period in South Vietnam.  Initially, I did the bulk of the Embassy reporting on the communist insurgency (although almost everyone in the Mission got involved in this, one way or another).  Later, I did the reporting on the internal political situation, and still later on external developments, including North Vietnam, or the “Democratic Republic of Vietnam,” as it was called. Along the way, there were two failed coups d'etat in Saigon to report on.  One took place on November 10-11, 1960, and was ultimately unsuccessful, though it gravely weakened the anti-Communist government led by President Ngo Dinh Diem.  The latter incident, which took place in February, 1962, involved the bombing of the Presidential Palace by two Vietnamese Air Force AlH attack aircraft, in an attempt to kill President Diem.  Unfortunately, we lived across the street and were dangerously close to possible near miss bomb explosions.  In fact, our house had some broken windows, but none of us was hurt.</p>
-<p>I mentioned 1960.  In fact, the National Liberation Front, the NLF, so-called, was formed in December, 1960.  I had occasion to write, I think, the first report by any post on the establishment of the NLF, which later was to become a major factor in the situation in Vietnam.  It was clear from the beginning that this was simply a front group, completely controlled by North Vietnam, but it did have the tissue of being of southern origin.  In fact, it was not that.</p>
-<pb facs="0008" n="Page0008"/>
-<p>The basic decisions on American policy and involvement in Vietnam were, of course, being made in Washington, and the Embassy in Saigon often learned of them well after the fact.  As I saw it, President Kennedy dithered steadily in making decisions on what to do about Vietnam.  The decisive point in our involvement in Vietnam was reached in October, 1961, when we increased the size of our forces from the 888 members of the Military Assistance and Advisory Group to 16,000 military personnel.  Typically, Washington was very reluctant to face the implications of what we were doing and initially portrayed the increase in the number of American military personnel by saying that they were there to help deal with the floods on the Mekong River (an annual event, in any case).  This obvious falsehood lay at the roots of our problems with American journalists then and later on in Vietnam.</p>
-<p>Perhaps here I had another opportunity to nudge history.  In October, 1961, I recall talking to Ambassador Frederick Nolting, who had replaced Ambassador Durbrow in April, 1961.  Ambassador Nolting was considering making a recommendation to increase our military commitment to South Vietnam substantially.  I told the ambassador that, if it were our intention to halt communist aggression in Southeast Asia, the best place to do it was in Vietnam, as our access to the country lay across a string of U. S. bases in the Western Pacific, and the Vietnamese people in South Vietnam had proved that they were willing to fight against the communists.  I said that I thought the situation in South Vietnam was similar to the situation in South Korea in 1950- 53, when our support was critical to the security of Northeast Asia.  I think that I had some effect on Ambassador Nolting, for he did recommend a major American intervention in South Vietnam.  Of course, the decisions were being made in Washington, and what I said may have had little effect.  Unfortunately, we ultimately lost our nerve and withdrew from South Vietnam but never withdrew from South Korea—correctly, in my view.  We had failure in one case and success in the other, though our combat losses in both places were similar.</p>
-<p>Perhaps one other thing I might mention was that then Vice President Johnson in May, 1961.  I was supposed to be the Embassy control officer for the visit, although anybody presuming to control the visit of a personality like that has to have great illusions.  Anyhow, the whole visit was disorganized, to an extreme.  I was told one evening about 10:00 PM, called at home, and told that I was to interpret in French for Vice President Johnson and President Diem the following morning at breakfast.  I was to be at the Presidential Palace at a quarter to seven.  So I did.  I turned up at a quarter to seven, knowing nothing about what was going to be discussed.  The Embassy had a general posture at the time of trying to press the Saigon Government under President Diem to undertake substantial reforms in a number of areas.  In exchange for that, we would increase our military and political assistance.  The assumption was that, if he did not make these reforms, we would not increase our military assistance.  Well, I was astonished to hear Vice President Johnson simply giving assurances of increased military and economic assistance without insisting on anything in return at all.  This was just the reverse of the Embassy policy.  As an interpreter, I had, on the one hand, to do the interpreting job and, on the other hand, trying to absorb what was clearly a fundamental change in policy.  An interpreter should never be put in a position like this, but I was, in this case.</p>
-<pb facs="0009" n="Page0009"/>
-<p>Well, our youngest daughter was born in Saigon in 1961.</p>
-<p>
-<hi rend="italics">Q: But, of course, much of the Vietnam controversy lay in the future.  You left Saigon in 1962.</hi>
-</p>
-<p>CONLON: Yes, I was assigned as Consul at the American Consulate in Le Havre, France.  This was a small post—two American officers and five French employees- -essentially providing consular service in Northern France.  This was an opportunity for me to travel through much of the area involved in the Normandy invasion of 1944 and the subsequent liberation of France.  I took advantage of this opportunity.  Some six weeks after I had arrived in Le Havre in August, 1962, I was told by Consul General Herb Fales in Paris that, for budgetary reasons, it had been decided to close the Consulate and that I would probably be assigned to the Embassy in Paris.  The final decision on closing the Consulate was delayed, however, until May, 1963, largely because of the Cuban Missile Crisis of 1962.  It turned out that the Consulate in Le Havre was needed to issue “Navicerts” to French merchant vessels entering the quarantine area the U. S. had proclaimed around Cuba.  The French, of course, continued to have regular freight service to Martinique and Guadeloupe in the West Indies.  Meanwhile, my wife and I had become concerned over the spotty kind of education our children were getting in French schools and decided to ask for an assignment to Washington.</p>
-<p>It was easy to arrange an assignment to the Department of State, where I was posted as Deputy Director of the Vietnam Working Group, as the Vietnam desk was then called.  We left Le Havre in late July, 1963, on the SS AMERICA, and arrived in New York in August.  From there we went down to Washington, D. C.</p>
-<p>
-<hi rend="italics">Q: How did you find the Department of State in 1963?</hi>
-</p>
-<p>CONLON: Well, although I had been continuously overseas for over three years, I was able to take only about a week's “home leave” before reporting for duty, as South Vietnam was then in a real crisis situation.  Opposition to our involvement in Vietnam had grown substantially for a number of reasons.  North Vietnamese propaganda had had a significant impact, particularly in American universities and in the press.  Moreover, we were sincerely seen by some Americans as repeating the French “dirty war” in Indochina, 1946-54.  Other Americans were concerned at what they regarded as our “intervention” in what they considered essentially a civil war.  (Though they conveniently forgot that our involvement in Korea in the 1950's could have been viewed in the same light.) However, the Buddhist crisis made South Vietnam front page news in 1963, a position which, unfortunately, it never lost till the Communist victory in 1975.</p>
-<pb facs="0010" n="Page0010"/>
-<p>In general, Vietnam, North and South, is a country in the Buddhist tradition.  Buddhism is not so much a religion, but rather a discipline or a “way of living.” A Buddhist shrine or monastery was to be found in almost every South Vietnamese village and town.  The same had been true in North Vietnam before the Communist takeover there in 1954-55, after which most Buddhist shrines were closed or converted to other uses, sometimes for storing grain or other secular purposes.  No one knows the exact number, but there were probably 5,000 or so Buddhist shrines and monasteries in South Vietnam by 1963.  There also were about 1.5 million Catholics—perhaps 10% of the population—either recent converts or long accustomed to Catholicism.  The president of the Republic of Vietnam, as South Vietnam was officially called, was Ngo Dinh Diem, a member of a high-ranking, “mandarin” family from the Hue area of Central Vietnam, which had long been Roman Catholic.  Diem himself was a bachelor and a man of simple habits, though he had become accustomed to living in Freedom Palace in Saigon, a palatial building formerly the residence of the French High Commissioner in Cochin-China, and to traveling around South Vietnam in a cavalcade of vehicles and with a truly “imperial” kind of entourage.  He was far removed from the ordinary people, although he was personally honest and probably enjoyed considerable respect in the country.</p>
-<p>This was not the case with his brothers.  One brother, Ngo Dinh Thuc, was Catholic Archbishop of Hue.  Another brother was Ngo Dinh Canh, more or less the political “boss” of Central Vietnam.  Another brother was Ngo Dinh Nhu, a French-type intellectual who was the president's adviser on virtually every issue.  Ngo Dinh Nhu's wife became a considerable problem because she was articulate and outspoken and a natural target for journalists, who coaxed her to make unfortunate remarks which considerably damaged the cause of the Republic of Vietnam.  Rightly or wrongly, the Ngo family was considered to be generally corrupt.</p>
-<p>In May, 1963, an event took place in Hue, the details of which are still a matter of controversy.  President Diem had become concerned at the practice of flying Buddhist flags at anti-government rallies throughout the country.  Legislation was passed prohibiting the flying of flags other than that of the Republic of Vietnam.  In an obvious attempt to defy the government, extremist Buddhist groups flew the Buddhist flag in Hue.  Government police, who anticipated trouble, moved in to seize the Buddhist flag.  Scuffling broke out and shots were fired which caused a number of dead and injured.  This incident was represented by anti-government Buddhists and their supporters in the foreign, and particularly the American press, as anti-Buddhist activity by the “Catholic” government of President Diem.  In fact, there were very few Catholics in the Vietnamese Government at the time.  A series of more or less continuing, anti-government demonstrations ensued at about 20 of the 5,000 Buddhist temples and monasteries in South Vietnam.  Finally, in July, 1963, Vietnamese “Special Forces” controlled by Ngo Dinh Nhu raided the 20 Buddhist centers where virtually continuous anti-government protests were going on.  Numbers of Buddhist monks and their supporters were arrested.  At about this time a Buddhist monk doused himself with gasoline and set himself afire, dying in the blaze.  Several other such suicides, or “immolations,” took place, underlining Buddhist opposition to the Diem Government.</p>
-<pb facs="0011" n="Page0011"/>
-<p>Since Paul Kattenburg, the director of the Vietnam Working Group, was visiting Saigon, which he had not seen for about seven years or so, on the day following the pagoda raids I accompanied Ed Rice, the acting Assistant Secretary for Far Eastern Affairs, to a special, inter-agency meeting in the White House cabinet room, presided over by President Kennedy.  Roger Hilsman, the Assistant Secretary, was out in the San Francisco area, giving a speech.  At the meeting Kennedy's charisma filled the room, though he said very little beyond opening the meeting with a question, “What do we have to decide here?” I was appalled at the low quality, emotional discussion of the pagoda raids and their impact on policy, in which some of the most senior officials of the State Dept were involved, including George Ball, then Under Secretary of State, and Averell Harriman, then a “Roving Ambassador” on the staff of Secretary of State Rusk.  Only Bill Colby, then Assistant Director of CIA for the Far East, spoke up for the policy of support for President Diem and the Republic of Vietnam which had been approved and continued by five presidents from both Republican and Democratic Parties. The condemnation of the pagoda raids and the Diem Government which emerged from that meeting set the stage for a series of statements virtually calling for the overthrow of that government, then fighting for its life against communist aggression from North Vietnam.</p>
-<p>It was not surprising that this relentless pressure on the Diem Government virtually paralyzed it and eventually led a group of South Vietnamese generals to approach our Embassy in Saigon, asking if the U. S. would continue to support the Republic of Vietnam if they overthrew Diem.  The reply from Washington, decided on at a high level, was that we would continue to provide such support.  Meanwhile, economic aid to the Diem Government had all but stopped, further increasing the pressure.  Even so, it took nearly four months from the time of the pagoda raids in late July to the overthrow and murder of Diem and his brother, Ngo Dinh Nhu, on November 2, during which time the communist insurgency made rapid strides in the countryside.</p>
-<p>Since it took a fairly long time for the coup against Diem to be mounted, once the subject had been broached, there were numerous figures in Washington, including Secretary of State Rusk, who began to have serious doubts about the wisdom of the policy of pressure against the Diem Government.  I was called in to the Department at about 10:00 PM on a Saturday night late in October by Paul Kattenburg.  Walt Rostow, one of the senior advisers of President Kennedy, wanted a memo prepared on the assumption that we would attempt to reestablish working relations with President Diem.  Kattenburg flatly refused to prepare such a memo, saying that he was totally opposed even to considering such a course.  With no advance notice, I prepared a memo outlining the steps we would need to take to resume military and economic aid to the Saigon Government but noting that we should, in any case, insist on maintaining contact with all non- communist elements not in jail.  Most unwisely, in my view, we had agreed, at Diem's insistence, on not contacting non-communist figures opposed to Diem, although the British and other embassies in Saigon were in regular contact with them.  But it was far too late to consider such action, as events were rapidly unfolding.</p>
-<pb facs="0012" n="Page0012"/>
-<p>The coup began on November 1, but Diem and Nhu escaped from the Palace through a tunnel and were not found until November 2, when they were murdered by some of the coup plotters who had scores to settle with them.  The Vietnam Working Group, where I was still assigned, had an officer on duty all through that night.  Jim Montgomery passed the word of Diem and Nhu's death (allegedly by suicide) to the White House Situation Room at about 5:00 AM on November 2 (Washington time).  He was told that the information was brought to President Kennedy's attention and that the President was deeply concerned over having approved actions which led to the suicide of two fellow Catholics.  I relieved Jim at 7:00 AM at the Operations Center and had the task of informing Assistant Secretary of State Hilsman of what had happened.  Hilsman had left word that, under no circumstances, was he to be disturbed before 7:00 AM.  I told him of what had happened, that the information had been passed to the President, and that he was deeply upset.  Hilsman limited his comment to, “God damn it” and then hung up.  It was not long, of course, before it became apparent that the Ngo brothers had been murdered.  The suicide story was a deliberate fabrication by the coup plotters which convinced no one.</p>
-<p>It was curious to see the reactions of both Hilsman and Paul Kattenburg to the final overthrow of Diem and Nhu.  Hilsman had deliberately sought this end, as had Kattenburg.  Hilsman wanted to claim credit for this “achievement,” if you can call it that, but he knew that President Kennedy was not pleased with the outcome, and so he had to keep quiet and not refer to it.  Kattenburg, as I learned only later, had come to the Vietnam Working Group with the intention of working to overthrow the Diem Government and turn the country over to the communists, whom he considered the only legitimate nationalists.  He makes this point fairly explicit in his book, The Vietnam Trauma in American Foreign Policy, 1945-75.</p>
-<p>
-<hi rend="italics">Q: I take it, then, that you didn't think much of either Hilsman or Kattenburg?</hi>
-</p>
-<p>CONLON: That's right.  Hilsman knew very little about Vietnam, and he was one of the most ambitious, self-centered, and arrogant people I have ever met.  During the fall of 1963 he concentrated almost exclusively on Vietnamese developments, to the neglect of his other duties in the Far Eastern area. In mind's eye I can still see Ed Ingraham, then Indonesian desk officer, trying to get a moment of Hilsman's attention to focus on the beginning of Indonesian “confrontation” of Malaysia as one of the endless meetings on Vietnam was about to begin.  Hilsman's experience in the Far East was limited to his service during World War II in the OSS in Burma.  Kattenburg was an example of a man with his own agenda, the overthrow of the Diem Government and turning the country over to the communists, which he somehow saw as serving the U. S. interest. I was his deputy, but he never exposed this central view to me.  I was only able to see it in retrospect.</p>
-<p>
-<hi rend="italics">Q: What happened after that?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>CONLON: President Kennedy was assassinated on November 21 or 22, 1963, and Secretary Rusk took advantage of the situation by moving the Vietnam Working Group into the Executive Secretariat, under Joe Mendenhall, my former boss in Saigon.  However, oddly enough, I was designated by name, though Rusk didn't know me personally, to remain in the Bureau of Far Eastern Affairs to handle “routine diplomatic business” involving South Vietnam.  Joe Mendenhall said that he thought this was a misunderstanding and that I would eventually join the rest of the Working Group.  Hilsman and Kattenburg both left Vietnam affairs, Hilsman returning to private life and Kattenburg going on to another assignment in the Department.  I never went back to the Working Group.</p>
-<p>“Routine diplomatic business” eventually came to be interpreted as keeping in contact with the Vietnamese Embassy in Washington, then in complete disarray, and helping them with their problems.  The Riggs Bank, where the Embassy had a substantial checking account, promptly froze the account after the overthrow of President Diem.  I was able to get it unfrozen, as otherwise the diplomats assigned there would have been penniless.  I accompanied the very able Pham khac Rau, the Vietnamese charg� d'affaires, on a few calls in the Department, but I had no secretary or other staff, and I marked time for almost three months, with virtually nothing to do.</p>
-<p>Eventually, Dave Cuthell, the director of the Office of Southwest Pacific Affairs, rescued me, arranging to have me assigned to the Indonesian desk in March, 1964.  He had not discussed the assignment with me, although this was the usual practice.  I was appalled, as I felt that our Indonesian policy of support for President Sukarno, then in his final and pro-communist period, was not in our interest.  My position was all the more difficult, since Ed Ingraham, my immediate superior, was a convinced supporter of what I felt was a mistaken policy.</p>
-<pb facs="0014" n="Page0014"/>
-<p>The only interesting development during this period was my accompanying Ambassador Howard P. Jones, our ambassador to Indonesia, on a call on Senator Birch Bayh (Democrat, Indiana) to discuss the situation in Indonesia.  Ed Ingraham was unavailable and may have been on leave.  Ambassador Jones was in Washington on leave, was very tired, and wanted to avoid calling on anyone until after Labor Day.  However, Senator Bayh's staff was very insistent, and Ambassador Jones finally decided to meet with him, asking me to go with him.  Jones was a very honorable and decent man, though he had become too committed to a pro-Sukarno line for my taste.  At the meeting Senator Bayh said very little, asking only a couple of questions designed to give Jones an opportunity to defend the established policy of support for Sukarno.  Although I did not personally agree with Ambassador Jones, I felt that he ably defended our policy.  I thought that Bayh's silence indicated that he accepted this defense.  After the meeting Ambassador Jones very graciously asked me to lunch at the Cosmos Club with Mrs. Jones.  We agreed that he had seemed to have a positive impact on Senator Bayh.  When I returned to the Department after lunch, I reported to Dave Cuthell to this effect.  Dave, who had a rather sardonic manner of speech, said, “You haven't seen what Bayh has done.  At 2:00 PM (in other words, just after Ambassador Jones and I had left him) he introduced an amendment to the Foreign Aid bill, cutting off all aid to Indonesia.” I basically agreed with Bayh rather than Jones on Indonesia, but this was dirty pool, in my view.  It was clear, in fact, that Bayh had decided to do this before he met with Jones, since the amendment had to be submitted for printing the day before.  About 10 years later, some two weeks before Ambassador Jones died, he passed through Canberra, where I was then Political Counselor.  He was retired by then, but I was asked to give him a briefing on the situation in Australia.  I did so but I then reminded him of our call on Senator Bayh in 1964 and Bayh's subsequent action.  Ambassador Jones was an active Christian Scientist and a very charitable man.  He limited himself to saying that Senator Bayh had been rather “naughty” on that occasion.</p>
-<p>
-<hi rend="italics">Q: Then you were assigned as Australia-New Zealand desk officer.  How did this happen?</hi>
-</p>
-<p>CONLON: Dave Cuthell had arranged to have me assigned to the Indonesian desk, with a view to my ultimately being desk officer, since I had an Indonesian background and Ed Ingraham, the desk officer, was due for transfer to another assignment before long.  In fact, he was assigned to the National War College in mid 1964.  However, Dave had not discussed this assignment with me, and he quickly learned how strongly opposed I was to the established policy of support for President Sukarno.  Other people might simply have dumped me at this point, but Dave was a very decent man, and he may have felt bad about not having asked whether I would accept assignment to the Indonesian desk.  In July, 1964, the Australia-New Zealand desk became vacant, and Dave assigned me to it.</p>
-<pb facs="0015" n="Page0015"/>
-<p>This was a marvelous assignment.  Our relations with Australia and New Zealand had always been very close and cordial, beyond occasional differences on trade matters.  Coming after assignments to Vietnam and Indonesian affairs, it was like coming out into the sunlight.  I did the usual desk officer jobs—keeping up with the reporting from the Embassy, arranging for calls by Australian leaders on the Secretary and other senior officers in the Department, and getting in three visits to Australia.  It was very helpful and agreeable to work with the high quality Australian and New Zealand Embassies in Washington.</p>
-<p>But I didn't escape Vietnam completely.  I had gone around giving talks on Vietnam to university and public groups for a couple of years and I continued to do so even after moving over to the Australian-New Zealand desk.  In fact, Dave Cuthell told me that he had been instructed “from a very high level” not to object to my continuing to go out on such speaking trips.  He never told me what the level was, and I didn't ask him, since he didn't want to explain.  He used to refer to these trips as “Tom Conlon's social engagements.” Despite his having stuck me on the Indonesian desk without consulting me, he more than made up for it with the Australia-New Zealand desk.  He was a very decent man for whom I always had the highest personal regard, even if I didn't always agree with his views on Indonesia.</p>
-<p>
-<hi rend="italics">Q: Your next assignment was to the Embassy in Manila.  How did this come about?</hi>
-</p>
-<p>CONLON: The Department was going through one of its reorganization programs, involving the appointment of so-called “country directors” for each country in the world.  The idea came from Secretary Rusk, who wanted to have one person, usually a senior officer, immediately available for assignment as ambassador to that country.  The idea was not a very good one, as it meant, in many cases, that “country directors” were assigned to a given country after serving as desk officers some 5-10 years previously.  It also meant that several junior officers would have to be available to support a senior officer, instead of the desk officer doing most of his own work, which was the previous system.</p>
-<p>In any case, since the Office of Southwest Pacific Affairs was being dissolved and Dave Cuthell was going on to another assignment anyway, he had no objection to my looking for another post.  I knew that there was an opening coming up in the Embassy in Manila and I was able to get assigned there as First Secretary.</p>
-<p>Manila was an extraordinarily complex and interesting assignment.  There were so many things that we had in common with the Filipinos, and yet they were so different from us.  I couldn't have asked for better bosses than Ambassador William P. Blair, Deputy Chief of Mission Jim Wilson, and Political Counselor Dick Usher.  I was initially in charge of the External Unit in the Political Section and then the Internal Unit.  Filipino politics are very complex, as they have continued to be over the years.</p>
-<pb facs="0016" n="Page0016"/>
-<p>However, I had only spent six months in Manila when the Embassy in Saigon began to press me to return there for assignment.  I felt personally that Vietnam was a very important testing place for the United States and, although I might have avoided returning there, I didn't feel that I could do this and still be consistent with my own views.</p>
-<p>
-<hi rend="italics">Q: So you accepted reassignment to Saigon?</hi>
-</p>
-<p>CONLON: Yes, as First Secretary.  Initially, I filled in as chief of the Internal Unit in the Political Section, replacing Ted Heavner, who was scheduled for reassignment elsewhere.  After going on home leave Ted decided to return to Saigon, to his old position, and I was assigned as head of the “Provincial Reporting Unit.” There were seven very capable young Foreign Service Officers assigned to it, most of them Vietnamese language officers, living in the provinces, working out of a central point, and reporting more or less on what they thought would be interesting and significant.  My job was to keep in touch with them, review and send on their reports, and suggest other reports to them.  Several senior officers from the Department told me how important this unit was, but it was apparent that few of them actually read the reports.  I came to have considerable reservations about whether it was useful to have these guys risking their lives, frequently moving alone through a hazardous countryside, to produce reports that few people read.  All in all, I felt that I was about 50% occupied, which was all the more disagreeable, since my family was still in the Philippines.</p>
-<p>One incident occurred during this second tour in Saigon which made me reflect more deeply on how we should have responded to the Vietnamese generals' request for reassurance of support in 1963 in the event that they overthrew Diem.  For a long time I had felt that, though it was regrettable, it was inevitable that we would reply that we would continue to support the non- communist side in South Vietnam.  However, I believe that in September, 1967, presidential elections were held in South Vietnam, in which there were more than a dozen candidates.  Nguyen van Thieu was elected president after a campaign which numerous American observers who came to South Vietnam for the event said was reasonably fair and democratic.  Naturally, there were Vietnamese who did not accept the results and who were moving to have the National Assembly decline to certify the election outcome.  At this point Ambassador Ellsworth Bunker, a superb ambassador and a very perceptive but tough-minded man, called in all of the political officers and told us to pass the word to our Vietnamese contacts that if the National Assembly refused to certify the election results, the U. S. would regard this as a request for us to withdraw our military and economic support for the Republic of Vietnam and to pull our forces out of the country, leaving the non-communist Vietnamese to deal with the communists on their own.  This quickly ended that kind of maneuver.  I wondered what would have happened if we had taken similar action in the fall of 1963 when a group of Vietnamese generals asked for assurances of U. S. support if they overthrew Diem.  Certainly, we never encountered as effective a Vietnamese Government as the one headed by President Diem.</p>
-<pb facs="0017" n="Page0017"/>
-<p>Here, perhaps, a word or two about my long suffering but dutiful Foreign Service wife, Joan, would be appropriate.  At the time I went back to Saigon in June, 1967, we had seven children, all living with us in Manila.  I was able to get back to Manila from Saigon about once every six weeks or so, spending a week each time.  This left Joan with all of the day to day problems of coping with a large family, handling local and U. S. bills (which I had always handled before), and having only indeterminate status in Manila.  She had ordinary Filipino license plates on the car but still had access to the Embassy and Navy commissaries and the dispensary, as well as the clubs which we had joined when I was assigned to Manila.  Although Joan could have returned to the U. S. or gone virtually anywhere else in the world other than Saigon, she decided to stay in Manila.  We had a very pleasant house in the Bel Air suburb of Manila, a good household staff, and the children were more or less content in school.  Our eldest daughter, Peggy, however, decided that she would like to return to Washington, D. C., to go to high school with one of her best friends, Kathleen Conley.  Kathleen's parents agreed to have Peggy live with them in Washington.  During my absence in Saigon Joan also had unstinting support from the Political Counselor, Dick Usher, and his replacement, Frank Underhill, as well as other members of the Political Section, who treated her as if she was still the wife of one of the officers in the Section.</p>
-<p>Then, just before I left Manila for Saigon, our eldest son Paco (so we called him, as he had been born in Havana), then not quite 17, asked if he could go to sea for a year or so.  U. S. registered ships were being taken out of mothballs faster than the seamen's union could provide crews.  A special arrangement had been made under which young American males in good physical condition could obtain temporary Coast Guard authorization to be signed on as ordinary seamen.  The union grudgingly accepted this situation.  I had myself wanted to serve in the Merchant Marine during World War II, but my mother refused her permission, as she said I “would meet rough men” if I went to sea.  Poor Mother!  I met “rough men” in the Army Air Forces instead and suffered no permanent harm.  She must have been thinking of Eugene O'Neill's novel, The Long Voyage Home, made into a movie about this time, which depicted seamen as boozing brawlers.  Well, I decided that I would sign the necessary authorization for Paco to go to sea.  This relieved Joan of some responsibilities, as Paco was in a rather rebellious mood at the time, and his being at sea meant that she did not have to deal directly with him.</p>
-<p>I think that the experience did him good, and he ultimately came to take this view.  In fact, at the end of his year of service, he decided to return to Manila and complete his last year of high school.  However, he had done a good job on the ship, and the captain was reluctant to let him go.  I prevailed on the shipping officer in the Embassy in Saigon to go up to Cam Ranh Bay, where Paco's ship then was located, and “lean” on the captain to have him released.  The task was made easier than seemed likely at first, because Paco had fallen down a slippery ladder while at sea, breaking an arm.  This limited his usefulness on the ship.  He was duly discharged, spent a week or so with me in Saigon, and then returned to Manila to finish high school.</p>
-<pb facs="0018" n="Page0018"/>
-<p>Meanwhile, my 18 month tour in Saigon was cut short prematurely when I came down with hepatitis in September, 1968.  I was in Manila for a short visit.  I had had what I thought was flu.  However, my skin turned yellow, as did the whites of my eyes.  The Embassy doctor in Manila said that I had hepatitis and needed to spend at least three and perhaps six months in bed.  So the Embassy in Saigon had to do without me.  In fact, in November, 1968, while I was still in Manila recovering from hepatitis, I was assigned to Nice, France, as Consul General.  The Departmenwas aware that I was ill and no longer in Saigon.  In this case the assignment was arranged by Rhee Shannon, former personnel officer at the Embassy in Saigon in the early 1960's, who knew that I needed a fairly easy assignment for the next year or so, due to my health.</p>
-<p>
-<hi rend="italics">Q: Did you return to Saigon from Manila?</hi>
-</p>
-<p>CONLON: Only for about a week, enough time to pack up and head for Nice.  Joan was still in Manila with the children, whose school year did not end until March, 1969.  She stayed until they finished the school year and then came to Nice with them.</p>
-<p>In Nice, although I was still very weak and could not put in more than a few hours of work per day, I was slowly recovering from hepatitis.  Nice was an ideal post for this purpose.  I would come into the small office, which had another American, Bill Holm, with me, plus seven very capable French employees, at about 10:00 AM, stay till about 1:00 PM, have lunch, take a nap, return for a couple of hours in the afternoon, leave the Consulate at 6:00 PM, have dinner at a local hotel or restaurant, and go to bed at 8:00 PM or so, unless I had a reception or dinner to attend.  I paced myself carefully and recovered slowly but steadily.</p>
-<p>Initially, when I was in Nice by myself, I lived in a hotel near the Consulate.  However, I found a beautiful house, big enough for our large family, on the Moyenne Corniche East of Nice, with a fantastic view of the harbor at Villefranche.  The kitchen was fairly primitive, as Joan regularly reminded me, and there were no domestic servants available.  However, we found suitable French schools for the younger children.  Some of them still remembered their French from Saigon and Le Havre, but the others more or less had to sink or swim. Actually, they did pretty well.</p>
-<pb facs="0019" n="Page0019"/>
-<p>Our two eldest sons had completed high school with nothing better than “C” grades.  I told them that, as they were of draft age, they should serve in the Army or another service and go through college after their military service, as I had done myself.  I don't think that the boys much appreciated my attitude, particularly as they knew that many of their contemporaries in high school in Manila were going on to college in the U. S., where they could get deferments and avoid military service entirely under our truly iniquitous draft law, as many of them did.  I had warned them that I could not see why we should spend the kind of money college involved, even then, when they had made so little effort in high school.  After a couple of months in Nice they returned to the U. S., Paco joining the Army, where he served in an intelligence unit, and Terry joining the Air Force, where he served in communications.  Both were assigned to Southeast Asia—Paco in Vietnam (in Bien Hoa and Cu Chi) and Terry at Nakhon Phnom, Thailand, on the Mekong River, at a Strategic Air Command base.</p>
-<p>I mention family matters because a Foreign Service Officer, like everyone else, lives in both his official and personal dimension.  Some of the problems, such as health conditions and the education of our children, are quite unique and unlike those facing our relatives and friends back in the U. S.</p>
-<p>
-<hi rend="italics">Q: Am I correct that after 18 months in Nice you were assigned to the Army War College?</hi>
-</p>
-<p>CONLON: Yes, that's right.  Nice had been pleasant enough, but I had recovered fully from hepatitis and was finding the placid, consular round rather less than absorbing.  Of course, after Saigon, all assignments were rather humdrum, as many of my colleagues at the Embassy there found out.</p>
-<p>Every year the State Dept sent about 15 officers on to what was called “senior training.” This involved assignment to a year of study at the National, Army, Navy, or Air Force War Colleges or to the Senior Seminar in the State Dept itself.  The classes were mainly composed of senior Army, Navy, or Air Force officers, usually lieutenant colonels or colonels, plus a dozen or so civilians from State, CIA, or other agencies.  The Senior Seminar, of course, involved mainly State Dept officers, although some military officers were assigned as well.  Classes involved looking at U. S. society and U. S. interests in their broadest sense, with emphasis on the international context.  I found the course at the Army War College highly interesting and rewarding.</p>
-<p>Meanwhile, my family enjoyed the experience at Carlisle Barracks, our second oldest Army base (after West Point), where the Army War College was located.</p>
-<p>
-<hi rend="italics">Q: How were you assigned to the Embassy in Canberra?</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>CONLON: The assignment to the Army War College was only for one year.  One morning I was shaving, before going to class, when I had a phone call from Harry Holland, then in Personnel in the Department.  He had gone with me on a rather tumultuous speaking trip in the spring of 1966, which focused on Vietnam.  He recalled that I had been Australia-New Zealand desk officer at the time.  The post of Political Counselor in Canberra was opening up, and he asked me if I would like that assignment.  After a quick consultation with Joan, I called him back and agreed to accept it.</p>
-<p>
-<hi rend="italics">Q: How did you find living and working in Australia?</hi>
-</p>
-<p>CONLON: It was one of the most satisfying assignments I had.  My family certainly liked it, probably the best of all assignments we had.  We spent four years there—1971-75.  There were two officers in the Political Section—Bill Nenno and myself.  There was a steady amount of highly interesting but non-crisis work.  Australia is a stable, democratic, complex society much like the U. S. in so many ways.  Language is, of course, no problem, though some Australian words and phrases took some getting used to.  I had the good fortune to serve under three particularly competent Deputy Chiefs of Mission: Hugh Appling, Bill Harrop, and Roy Percival, all very different personalities but all willing to let me do my job as I saw fit.  The Ambassador was initially Walter Rice, a retired R. J. Reynolds executive who preferred economic and financial questions and rarely troubled me.  He was replaced in 1973 by Marshall Green, one of the best Ambassadors I knew, who was enormously stimulating to work for.  Marshall had spent most of his career in Northeast Asia, apart from four years as ambassador to Indonesia, 1965-1969.  He had been recruited into the Foreign Service by Ambassador William C. Grew, when Grew was ambassador to Japan.  Marshall was evacuated from Tokyo in September, 1941, as war in the Far East was looking more and more imminent.  One wonders how we missed the clues at Pearl Harbor.</p>
-<p>Anyhow, Marshall had kept up a correspondence with several Japanese businessmen and government officials over the years, and it must have been painful for him when the post of ambassador to Japan became vacant in early 1974.  Marshall was the logical candidate for the job, but he had only been in Australia for four or five months, and it was impossible for him to make the shift.  A pity because he had prepared himself for the post for decades, only to miss it for stupid considerations of timing.</p>
-<pb facs="0021" n="Page0021"/>
-<p>The principal problem during my time in Australia was adjusting to the change between a conservative, pro-American government led by the Liberal and Country Parties, and an Australian Labor Party government led by Gough Whitlam, a figure much in the image of Democratic Party leaders in the United States.  The change occurred in December, 1972, when President Nixon was already embattled over the Watergate Affair and the “Christmas bombing” of Hanoi and Haiphong.  Several Labor ministers were outspoken in their criticism of Nixon, although they said nothing beyond what was commonly being commonly said in the U. S. by Americans.  The problem was that Labor had been in opposition from 1949 to 1972- -23 years.  Neither Whitlam nor any of his cabinet colleagues had been in government before.  They just didn't know how to behave.  Moreover, there were joint Australian-American defense facilities set up during the period of the conservative governments, some of which performed highly classified functions.  One of the conservative prime ministers, John Grey Gorton, had refused to allow the Labor leaders to be briefed on their significance, though previous Labor leaders had been informed about their purpose and functions.  To his credit, Labor Prime Minister Gough Whitlam knew that the U. S. had wanted to inform the Labor leaders about them and correctly blamed Gorton for the problem.  Ultimately, after some alarums and excursions, we completed the process of transition to a Labor Government without significant damage, and enjoyed good relations with Whitlam and his principal associates.</p>
-<p>The situation in Vietnam, of course, continued to engage our attention during our years in Australia.  More specifically, after the Paris Accords were signed in January, 1973, purportedly bringing an end to the fighting, I was included in a group of some 45 Foreign Service Officers with previous experience in Vietnam who were sent back for a period of three to six months' temporary duty to beef up the Embassy in the new situation thus created.</p>
-<p>After arriving in Saigon I was assigned to the U. S. Delegation to the Four Party Joint Military Commission, composed of North Vietnamese, Viet Cong, Saigon Government, and U. S. elements. However, this commission, provided for in the Paris Accords, was called a “military” entity.  The U. S. military interpreted this as meaning no civilians, and this limited what I could do with it.  Of course, the other delegations consisted of both militarand civilian officers, as they interpreted the Accord in a different way.  Finally, Maj Gen Woodward, the chairman of the U. S. Delegation, decided that I would be the spokesman for our Delegation, even though I could not attend any of the meetings.  I went to Gen. Woodward's staff meetings, held immediately after Commission sessions and I was free to talk to other American Army officers involved in the proceedings.</p>
-<pb facs="0022" n="Page0022"/>
-<p>Minutes of the plenary sessions of the Commission were not kept up to date, and Col O'Connor, secretary of the U. S. Delegation, declined to allow the Embassy access to the tapes made of the proceedings of the Commission or to obtain a copy of Gen. Woodward's reports to the Joint Chiefs of Staff, though Ambassador Bunker asked me to arrange for the Embassy to obtain copies as soon as the reports were sent.  We received copies a day late after they had been transmitted to Washington and then relayed back to us by the Department.  I tried without success to get Colonel O'Connor to provide the Embassy with immediate copies of the reports.  I pointed out to him that we could resolve the problem the easy way or the hard way.  The easy way was to release the reports to the Embassy immediately.  The hard way was for Ambassador Bunker to raise this ridiculous matter with Gen. Woodward or with the President.  O'Connor preferred the hard way and was slapped down in a couple of days.  Ambassador Bunker began to receive copies of Gen Woodward's reports as they were sent.  This was a pointless bureaucratic struggle because the proceedings of the Commission were of little interest, anyway.  Finally, about one week before the U. S. military completed its withdrawal from Vietnam at the end of March, 1973, Colonel O'Connor dumped all of the meeting tapes which he had withheld from us into our hands.  We had neither the staff nor the resources to transcribe them.  As no Embassy officer had attended any of the sessions, none of us could even identify the voices.</p>
-<p>I spent three months in Saigon, my last period of service there, with little to show for it but a growing concern that things were going to fall apart.  I returned to Canberra around the middle of May, 1973.  I was spared being present for the fall of Saigon in April, 1975.</p>
-<p>
-<hi rend="italics">Q: Then came your last post overseas in the Embassy in Bangkok.  How were you chosen for this position?</hi>
-</p>
-<p>CONLON: By 1975 I had been in Australia for four years, about a normal tour of duty.  Assistant Secretary of State for East Asian Affairs Phil Habib came through Canberra in May, 1975, and asked me if I would take the East Asian position on the National Security Council staff in Washington.  I said that I would, though I was not particularly enthusiastic about returning to Washington.  I had been in touch with Hugh Appling, the former Deputy Chief of Mission in Canberra and then Deputy Director General of the Foreign Service in Washington (who also serves as chief of personnel matters).  I told him what Phil Habib had asked me.  Hugh said that, as Phil had been traveling, he was not up to speed on personnel matters.  The position on the National Security Council staff had already been filled.  However, Hugh asked if I would like to be Political Counselor in Bangkok.  (It later turned out that Tom Barnes, the former Political Counselor in Bangkok, was involved in a somewhat messy divorce case and had asked for a Washington assignment to handle this.  He was assigned to the National Security Council staff position which Habib had asked me to take.) It was easy to switch the two assignments around.</p>
-<pb facs="0023" n="Page0023"/>
-<p>After I had accepted Phil Habib's offer of the position on the National Security Council staff, I mentioned the matter to Ambassador and Mrs. Marshall Green.  Marshall was fairly noncommittal.  However, Lisa Green, always outspoken, told me that “they will eat you up,” as this is a high pressure job and always has been.  I was somewhat relieved when I learned from Hugh Appling that the job was no longer available and that I could go to Bangkok if I wished.</p>
-<p>
-<hi rend="italics">Q: Had you had much contact with Thailand previously?</hi>
-</p>
-<p>CONLON: I had passed through Bangkok several times, but knew little about the country, other than what I knew from my readings on the history of Southeast Asia.  In this respect Thailand is unique in never having been a European colony.  The Thai therefore did not have the kind of inferiority complex which many ex-colonial peoples have.  Moreover, Thailand is a relatively homogeneous country with few minorities and no serious border problems.</p>
-<p>I had the good fortune to serve under a particularly capable Ambassador, Charles S. Whitehouse, whom I had previously worked with in Saigon.  The Political Section was fairly large, with seven capable officers.  They had, perhaps, developed bad habits of not doing very much, or so Ambassador Whitehouse and Deputy Chief of Mission Ed Masters, immediately told me, on my arrival there.  Oddly, neither Whitehouse nor Masters was aware that Barnes had a rather complicated family situation.  Barnes was married to Joan Barnes, a very agreeable American woman, by whom he had three children.  Barnes had been a Vietnamese language officer whom I knew in Saigon in the early 1960's, when he was noted for being something of a womanizer.  It turned out, however, that he had acquired a Vietnamese “minor wife,” by whom he also had three children.  He was able to handle this situation until Saigon was falling in early 1975.  He spent almost all of his time in those early months of 1975, trying to get his Vietnamese “wife” and children out of Saigon.  No wonder he hadn't been doing much as Political Counselor in Bangkok.  The Political Section had been left to run itself, which is never a good idea.</p>
-<p>After four years in Canberra, where I had done a substantial part of the work myself, I was used to working fairly steadily.  I encouraged the other officers to buckle down and do some work for a change, an effort which bore fruit fairly quickly.</p>
-<p>Thailand had the problem of adjusting to the situation at the end of the Vietnam War in which it had participated alongside the U. S.  It had contributed two divisions of troops and committed itself in a way which was unusual in the cautious Thai approach to foreign policy.  Ultimately, the Thai were successful in making the adjustment, in cooperation with the other members of ASEAN (that is, the Association of Southeast Asian Nations).</p>
-<pb facs="0024" n="Page0024"/>
-<p>I became more involved in narcotics problems than I really wanted to be, since Thailand is a major producer of opium and the site for a substantial amount of narcotics trafficking.  For a time I did much of the narcotics reporting for the Embassy, though ultimately another officer was assigned to handle this responsibility, in a separate unit.</p>
-<p>Our four years in Bangkok were quite interesting for both me and my family.  Of course, several of our children were now in the U. S., though the younger children were still with us, attending the International School of Bangkok (ISB), from which three of them eventually graduated.  Joan found a personally rewarding niche for herself as copy editor for Sawaddi, a quarterly publication of the American Women's Club, where she worked with several women up to 20 years younger than she was.  She recalls once referring to the evils of split infinitives, only to have one of the young women ask her, “Joan, what's a split infinitive?” We did a good bit of travel around this fascinating and friendly country.</p>
-<p>Professionally, it was a very rewarding experience, though it had its negative aspects.  With one exception the Deputy Chiefs of Mission I worked under were nowhere near as capable and helpful as the DCM's in Canberra.  Moreover, after three years under Ambassador Whitehouse, I found the final year, under Ambassador Morton I. Abramowitz, very trying.  Whitehouse was and is true American establishment and a very wealthy man whose background is far different from mine.  However, we were always on good terms, and if I were to be thrown together with him tomorrow, we would pick up again with great confidence in each other.  Abramowitz is a very difficult person.  He has few friends, is remote and almost unfriendly, and never opens himself up.  The door to his office was almost always closed.  Whitehouse's door was almost always open, unless he had a visitor.  In the British phrase, they were as different as chalk and cheese.</p>
-<p>In May, 1979, Joan was diagnosed as having an arterial blockage in her left leg which would require bypass surgery.  She was medically evacuated, bound for surgery at Georgetown University Hospital in Washington, D. C.  Our youngest daughter, Claudia, had been less than thrilled with her high school experience and was more than glad to leave with Joan, who needed someone to accompany her.  So this time I was left behind to close up and pack up.  There had been some question of my being assigned as Deputy Chief of Mission in Rangoon, Burma, a post which I would have liked.  However, Joan felt that she would not be happy there, and, after 30 years in the Foreign Service, when my career interests were usually the deciding element in whether or not to accept a given post, it seemed fair to have her call the shot on this occasion.</p>
-<pb facs="0025" n="Page0025"/>
-<p>Joan's arterial bypass surgery was a success, though it had to be repeated in November, 1979, and she has made a full recovery.  We were fortunate in being able to stay with Hugh and Mary Appling in McLean, VA.  Hugh had retired from the Foreign Service, and he and Mary remain some of our closest friends. I had no assignment in Washington and spent about three months as a member of the “corridor brigade,” a group of some 100 Foreign Service Officers without an assignment or anything much to do.  It was a strange experience, to say the least.  Eventually, I was given an assignment of sorts in the Bureau of Intelligence Research in March, 1980.  I had found an apartment on upper Connecticut Avenue, but Joan was never really happy there, as she hates apartments.  We had never bought a house in D. C., always renting when we were there in the Department.  Real estate prices mushroomed out of sight and our reach in 1973 or so, and it was clear that we would both have to work for the rest of our lives to be able to afford the kind of house we wanted.  This didn't seem like a very attractive prospect.  So we looked elsewhere and finally, after a series of pure accidents, found our way to Washington, NC, and to the house where we now live.  It is an older house, built around 1905-10 and then in need of extensive repairs and remodeling.  We found an excellent contractor, Frank Woolard, to do what was necessary.</p>
-<p>Initially, I had thought that I would retire some time in 1981 or 1982, after some 33 years in the Department.  We told Frank Woolard that I would retire in two years.  However, the job in INR did not amount to much, and other assignments did not sound very attractive.  It has been said that “Foreign Service Officers retire themselves.” I think this is very often true—at least it was in my case.  I retired from the Foreign Service in November, 1980, after just less than 32 years.  It was a wonderful, fulfilling career, though not without its problems, both professional and personal.  We often wondered whether we were short changing our children in terms of education, as they had a very checkered school experience.  However, when we mentioned this to our eldest daughter, she said, very firmly, that she thought that she and her brothers and sisters had had a wonderful and particularly rich experience, growing up in these circumstances.  I can only say that I would have liked to have had this kind of experience as a childhood, instead of being born and raised in the same house until I entered the Army in 1943.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>THOMAS F. CONLON</p>
+                <p>Interviewed by: Arbor W. Gray </p>
+                <p>Initial interview date: August 12, 1992</p>
+                <p>Copyright 1998 ADST</p>
+                <p>Today is August 12, 1992. This is an interview with retired Foreign Service
+                    Officer Thomas F. Conlon on behalf of the Association for Diplomatic Studies. I
+                    am Arbor W. Gray.</p>
+                <p>
+                    <hi rend="italics">Q: Could you describe briefly your background—your birthplace
+                        and education?</hi>
+                </p>
+                <p>CONLON: I was born in the family home in Park Ridge, Ill., a northwest suburb of
+                    Chicago. I was one of five children (three girls, two boys). My father was an
+                    Internal Revenue Service agent, and my mother was a school teacher. After
+                    graduating from parochial elementary school I went to Fenwick High School, a
+                    Dominican school in Oak Park, Ill., a western suburb of Chicago. After serving
+                    in the Army Air Forces during World War II I attended and graduated from the
+                    Georgetown University School of Foreign Service in 1948.</p>
+                <p>
+                    <hi rend="italics">Q: How did you become interested in the State Dept; did you
+                        ever know or meet a diplomat while you were growing up?</hi>
+                </p>
+                <p>CONLON: I saw a movie, “Vice Consul,” with Joel McCrea and Andrea Marshall in
+                    1940, when I was 15 and a sophomore in high school. This decided me on a Foreign
+                    Service career. The first diplomat I ever met was Raul Barrios, the Guatemalan
+                    Consul in Chicago, while I was working on my high school newspaper. I met FSO
+                    Robert J. Kavanaugh, the brother of a friend of ours, on Pearl Harbor Day
+                    (12/7/41) when he and his family were having dinner at our house. I talked to
+                    him at length about the Foreign Service. I never forgot the date or the
+                    conversation.</p>
+                <p>
+                    <hi rend="italics">Q: Were you in military service during World War II?</hi>
+                </p>
+                <p>CONLON: Yes, in the Army Air Forces; after extensive shuttling around, during
+                    which time I went through basic training three times, I was trained as an Army
+                    Air Force cryptographer and ultimately served in the Fifth Air Force in New
+                    Guinea. This was one of the accidents of the service, but it aroused my interest
+                    in Southeast Asia.</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: You noted that you had been a cryptographer in the Army
+                        Air Force. Have you had any special interest in that field since?</hi>
+                </p>
+                <p>CONLON: Well, of course, the State Dept is involved in codes and ciphers, because
+                    this involves encrypted messages to and from the State Dept and to and from
+                    Foreign Service posts. Because I was interested in cryptography, I've also been
+                    interested in the history of World War II and particularly the Ultra affair and
+                    the “Magic” intercepts which had a tremendous amount to do with our performance
+                    during World War II. However, I was not involved in any of that. This was a very
+                    simple sort of thing. I really was a cryptographic clerk. That's what it came
+                    down to.</p>
+                <p>
+                    <hi rend="italics">Q: I note that You attended and graduated from Georgetown
+                        University immediately after WWII; did you have any direct contact with the
+                        State Dept then?</hi>
+                </p>
+                <p>CONLON: Well, two of my professors, John Hickerson, and Llewellyn Thompson, were
+                    fairly senior Foreign Service Officers. They taught a course at Georgetown
+                    called “Diplomatic and Consular Practice.”</p>
+                <p>In Washington I absorbed the some of the atmosphere of our capital and felt a
+                    part of the diplomatic world. Two of my professors were Boyd Carpenter, a much
+                    traveled scholar of Far Eastern matters, and Ernst Feilchenfeld, a professor of
+                    international law. I remember particularly Feilchenfeld's three principles of
+                    international law: A's territory is not B's territory; treaties, on the whole,
+                    should be kept; and ambassadors, on the whole, should not be beaten up. This is
+                    as good a brief summary of international law as any.</p>
+                <p>
+                    <hi rend="italics">Q: How did you enter the Foreign Service?</hi>
+                </p>
+                <p>CONLON: I took and passed the Foreign Service exam in September, 1947. At the
+                    time the exam was a 2 � day ordeal. I passed the Foreign Service oral exam in
+                    March, 1948. In December, 1948, I was offered and accepted appointment in the
+                    Foreign Service at the handsome salary of $3,300 per year.</p>
+                <p>
+                    <hi rend="italics">Q: Then I take it that you took the written exam while you
+                        were still in Georgetown, and the oral exam just before graduation.</hi>
+                </p>
+                <p>CONLON: Yes, that's right. Well, the oral exam was just after graduation, but the
+                    written exam was while I was still at Georgetown.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q: What kind of initial training did you receive?</hi>
+                </p>
+                <p>CONLON: I took a three month course at the Foreign Service Institute in early
+                    1949. My entry class of 21 young Foreign Service Officers heard lectures from
+                    senior officers in the Department, including Career Ministers George Allen and
+                    George Kennan, on various aspects of the work of the Department and of our
+                    embassies and consulates abroad.</p>
+                <p>We spent a week in New York after the Washington training. We attended a session
+                    of the UN General Assembly and visited the U. S. Customs and the Immigration and
+                    Naturalization Service Offices in New York.</p>
+                <p>I was also married in Washington, DC, during this initial training period. My
+                    wife was and is the former Joan Grace, a classmate of my sister's. We spent our
+                    honeymoon traveling by ship, the SS AGWIKING, to Havana, Cuba, my first post in
+                    the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: You would have arrived in Cuba, probably in the Spring of
+                        1949. How did the country strike you?</hi>
+                </p>
+                <p>CONLON: It's hard to believe that people are still talking about the same place.
+                    When we were there, it was a free, open, democratic society. At the Embassy I
+                    was a visa officer, a common assignment for junior officers where we could do
+                    the least harm. I really profited from the experience by learning to read and
+                    speak Spanish fluently. I'd studied it previously in high school and college. It
+                    is perhaps typical of the Foreign Service that I was never assigned to a
+                    Spanish-speaking country again.</p>
+                <p>
+                    <hi rend="italics">Q: Are there any incidents during your tour in Cuba that you
+                        particularly remember?</hi>
+                </p>
+                <p>CONLON: There was the death of an American citizen, from natural causes, when I
+                    was Embassy duty officer for the first time. When I was reporting his death at a
+                    local Police Station, as the law required, I observed Cuban Police beating up a
+                    black man who reportedly pulled a knife on another policeman. I learned then
+                    that there were some things in life that you may find distressing but which you
+                    cannot do anything about.</p>
+                <p>We were robbed in our apartment when we were sleeping—the only such experience
+                    during our 20 + years overseas.</p>
+                <p>Perhaps most important of all, during these years, two of our sons were born in
+                    Havana.</p>
+                <p>
+                    <hi rend="italics">Q: As I understand it, you left Cuba in July, 1951. What
+                        happened next?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>CONLON: I was sent to Yale University to study the Indonesian language and take
+                    several courses on Southeast Asian history and culture. The Department was
+                    starting up a program to develop language and area specialists.</p>
+                <p>
+                    <hi rend="italics">Q: What was your next assignment?</hi>
+                </p>
+                <p>CONLON: Vice Consul in Surabaya, Indonesia. This was a great opportunity to apply
+                    the Indonesian language which I had studied at Yale.</p>
+                <p>Indonesia was and is a highly interesting and complex society. It was then
+                    recovering from years of war and revolution and was developing its national
+                    institutions. On the whole, it was a free and democratic country, although later
+                    on, under the leadership of President Sukarno, it moved away from democracy and
+                    toward a Left-leaning autocracy.</p>
+                <p>My duties involved mainly economic work: following trade, rubber, coffee, and
+                    tobacco developments. During my service there Indonesia recovered economically
+                    up to a point and then began to unravel.</p>
+                <p>Two of our daughters were born there, in Surabaya.</p>
+                <p>
+                    <hi rend="italics">Q: You were next assigned to Singapore?</hi>
+                </p>
+                <p>CONLON: Yes, from 1954 to 1956, again as an economic officer, working
+                    particularly on rubber, tin, and financial matters.</p>
+                <p>This was my first experience in a great Chinese city. Singapore had, and still
+                    has, about 85% Chinese, 10% Malay, 2-3% Indian, and the balance Eurasians and
+                    Europeans, including, at the time, an American community of about 250, mainly in
+                    business.</p>
+                <p>This was a period when Singapore was evolving from a British Crown Colony into an
+                    independent state. I watched the last gasps of British colonialism and observed
+                    the transition to independence, against a backdrop of the Communist Insurgency
+                    in Malaya.</p>
+                <p>The British authorities accepted the need to move toward independence. However,
+                    the party which won the most seats in the freely-contested elections of 1954 was
+                    the recently-formed People's Action Party, which contained numerous Communists
+                    and was hostile to U. S. interests.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>One of our sons was born in Singapore, though, sadly enough, he died later on in
+                    Washington, D. C., of meningitis.</p>
+                <p>
+                    <hi rend="italics">Q: That was a tragic thing. Then you were assigned to the
+                        Dept of State in Washington, D C?</hi>
+                </p>
+                <p>CONLON: Yes, serving in the Office of Intelligence Research from 1956 to 1959 as
+                    an intelligence analyst. I prepared mainly political analyses on the situation
+                    in Indonesia, which seemed to be moving steadily toward Communist control, with
+                    the willing acquiescence of President Sukarno.</p>
+                <p>In the summer and fall of 1957 I worked closely with Ambassador Hugh Cumming, who
+                    had been ambassador in Jakarta during part of the time when I had been vice
+                    consul in Surabaya. Cumming had returned from Indonesia and became the director
+                    of OIR, which was renamed the Bureau of Intelligence Research and Analysis
+                    (INR). I participated in his regular, early morning briefing. He remembered me
+                    from Indonesia, for I had interpreted for him on a few occasions. Since I was a
+                    familiar face at his morning briefings, after which he would, in turn, brief the
+                    Secretary of State, he called me in fairly often for discussions of the
+                    deteriorating situation in Indonesia. Sometimes, after the Secretary's staff
+                    meeting, he would telephone me and ask me to prepare a memorandum on some
+                    specific aspect of the Indonesian situation. Since he never went through
+                    channels, my supervisors knew nothing of the requests and, I imagine, suspected
+                    me of making them up.</p>
+                <p>The Indonesian situation continued to deteriorate, with Sukarno openly favoring
+                    the communists, whose influence was growing. There were increasing prospects for
+                    civil war between the central government and regional, dissident groups. I think
+                    that I had an opportunity in these circumstances to nudge history. Cumming
+                    telephoned me at home one evening in January, 1958, around 9:00 PM. He asked me
+                    to prepare a paper which he described as a “lawyer's brief,” justifying U. S.
+                    intervention in Indonesia, to prevent what was feared would be a communist
+                    takeover of the country. He said that President Eisenhower was strongly in favor
+                    of intervention but he indicated that Secretary of State Dulles was rather
+                    dubious about it. Cumming described this as a Top Secret project (so much for
+                    telephone security). He said that he needed the paper by the opening of business
+                    on the following morning. He authorized me to bring one other person in for
+                    consultation purposes in drafting the paper. I called up Dick Stuart, who had
+                    been my immediate supervisor some time before and who knew the Indonesian
+                    situation in considerable detail.</p>
+                <pb facs="0006" n="Page0006"/>
+                <p>Direct U. S. interests in Indonesia at that time were relatively modest (oil
+                    fields and rubber plantations, in particular). However, it was the geographic
+                    position of Indonesia, across sea communications between Europe and the Far East
+                    which most concerned the president. I felt that U. S. intervention in Indonesia
+                    was potentially disastrous, as the country is spread out over an area as large
+                    as the continental U. S., and is highly diverse, culturally. Few Americans speak
+                    any of the languages in Indonesia.</p>
+                <p>Still, I had my assignment. After discussing the matter with Dick Stuart, I
+                    prepared a transmitting memorandum from me to Cumming with two attachments: one
+                    of them was the “lawyer's brief” justifying intervention on the basis that
+                    Indonesia had violated its treaty obligations with the Netherlands by
+                    unilaterally changing the form of the state from a federation to a unitary
+                    system. This was thin stuff, but there was not much to say in favor of such an
+                    ill-advised proposal. The other attachment strongly argued against U. S.
+                    intervention. Dick reviewed the draft, made some suggestions, and I typed a
+                    final copy, which I delivered to Cumming's office the following morning. Cumming
+                    never discussed the matter with me, but his staff aide later showed me a copy of
+                    a memo which Cumming had sent to the Secretary. In it he noted the two “talking
+                    papers,” said that the “intervention” paper was thin and that the paper arguing
+                    against intervention had his support. The Vietnam War was a nightmare in many
+                    ways, but I think that an intervention in Indonesia would have been worse.</p>
+                <p>
+                    <hi rend="italics">Q: Then you left INR in 1959 to study Vietnamese at the
+                        Foreign Service Institute. Why did you want to study Vietnamese?</hi>
+                </p>
+                <p>CONLON: Yes, along with Jim Montgomery and John Helble, two other Foreign Service
+                    Officers with whom I have kept in regular touch since then, both in Vietnam and
+                    in the U. S. The language course was too short, considering the complexity of
+                    the language, which is really a sub-dialect of Chinese, with similar features.
+                    Still, someone decided to allow only 9 months to study it, whereas the Chinese
+                    program was for 2 � years. We survived the 9 months, cooped up in a 10' x 6'
+                    room, and were and are still good friends.</p>
+                <p>As to why Vietnamese, by 1959 I was well and truly fed up with Indonesia and its
+                    problems. I thought then that the communists were going to take it over and I
+                    didn't want to be associated with a failed policy of that kind. I did not, of
+                    course, anticipate that the roof was about to collapse in Vietnam, but no one
+                    else did, either. South Vietnam was spoken of as one of the “miracles” of Asia,
+                    having recovered from extensive internal struggles in the mid 1950's. There were
+                    indications of a slowly growing communist insurgency, but one of our INR
+                    specialists on Vietnam said that this seemed merely to be improved reporting of
+                    an existing condition and felt that the problem could be contained.</p>
+                <p>Two of our sons were born in Washington during this period.</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: Then in 1960 you headed out to Saigon.</hi>
+                </p>
+                <p>CONLON: Yes. I was assigned as Consul to the American Consulate in Hue, in
+                    Central Vietnam. I welcomed this assignment, as I felt that I could really
+                    become fluent in the language, away from the Embassy and with few Americans to
+                    associate with. The Consul in Hue had a nice house to live in, even for my large
+                    family, and a convenient office nearby. There were acceptable, French schools
+                    for my sons and daughters of school age, and I was looking forward to this
+                    assignment.</p>
+                <p>On arrival in Saigon I called on Ambassador Durbrow, who had been our Consul
+                    General in Singapore in 1955-56, when we served there. He told me that I would
+                    not be going up to Hue immediately. He wanted to keep me in the Political
+                    Section in Saigon for three months to get well read into the situation. In the
+                    event I never went to Hue, other than for occasional, short visits, spending the
+                    next two years or so in Saigon. I was, of course, pleased to work with Durby
+                    once again. He was one of the very best ambassadors I ever knew.</p>
+                <p>1960-62 was an eventful and decisive period in South Vietnam. Initially, I did
+                    the bulk of the Embassy reporting on the communist insurgency (although almost
+                    everyone in the Mission got involved in this, one way or another). Later, I did
+                    the reporting on the internal political situation, and still later on external
+                    developments, including North Vietnam, or the “Democratic Republic of Vietnam,”
+                    as it was called. Along the way, there were two failed coups d'etat in Saigon to
+                    report on. One took place on November 10-11, 1960, and was ultimately
+                    unsuccessful, though it gravely weakened the anti-Communist government led by
+                    President Ngo Dinh Diem. The latter incident, which took place in February,
+                    1962, involved the bombing of the Presidential Palace by two Vietnamese Air
+                    Force AlH attack aircraft, in an attempt to kill President Diem. Unfortunately,
+                    we lived across the street and were dangerously close to possible near miss bomb
+                    explosions. In fact, our house had some broken windows, but none of us was
+                    hurt.</p>
+                <p>I mentioned 1960. In fact, the National Liberation Front, the NLF, so-called, was
+                    formed in December, 1960. I had occasion to write, I think, the first report by
+                    any post on the establishment of the NLF, which later was to become a major
+                    factor in the situation in Vietnam. It was clear from the beginning that this
+                    was simply a front group, completely controlled by North Vietnam, but it did
+                    have the tissue of being of southern origin. In fact, it was not that.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>The basic decisions on American policy and involvement in Vietnam were, of
+                    course, being made in Washington, and the Embassy in Saigon often learned of
+                    them well after the fact. As I saw it, President Kennedy dithered steadily in
+                    making decisions on what to do about Vietnam. The decisive point in our
+                    involvement in Vietnam was reached in October, 1961, when we increased the size
+                    of our forces from the 888 members of the Military Assistance and Advisory Group
+                    to 16,000 military personnel. Typically, Washington was very reluctant to face
+                    the implications of what we were doing and initially portrayed the increase in
+                    the number of American military personnel by saying that they were there to help
+                    deal with the floods on the Mekong River (an annual event, in any case). This
+                    obvious falsehood lay at the roots of our problems with American journalists
+                    then and later on in Vietnam.</p>
+                <p>Perhaps here I had another opportunity to nudge history. In October, 1961, I
+                    recall talking to Ambassador Frederick Nolting, who had replaced Ambassador
+                    Durbrow in April, 1961. Ambassador Nolting was considering making a
+                    recommendation to increase our military commitment to South Vietnam
+                    substantially. I told the ambassador that, if it were our intention to halt
+                    communist aggression in Southeast Asia, the best place to do it was in Vietnam,
+                    as our access to the country lay across a string of U. S. bases in the Western
+                    Pacific, and the Vietnamese people in South Vietnam had proved that they were
+                    willing to fight against the communists. I said that I thought the situation in
+                    South Vietnam was similar to the situation in South Korea in 1950- 53, when our
+                    support was critical to the security of Northeast Asia. I think that I had some
+                    effect on Ambassador Nolting, for he did recommend a major American intervention
+                    in South Vietnam. Of course, the decisions were being made in Washington, and
+                    what I said may have had little effect. Unfortunately, we ultimately lost our
+                    nerve and withdrew from South Vietnam but never withdrew from South
+                    Korea—correctly, in my view. We had failure in one case and success in the
+                    other, though our combat losses in both places were similar.</p>
+                <p>Perhaps one other thing I might mention was that then Vice President Johnson in
+                    May, 1961. I was supposed to be the Embassy control officer for the visit,
+                    although anybody presuming to control the visit of a personality like that has
+                    to have great illusions. Anyhow, the whole visit was disorganized, to an
+                    extreme. I was told one evening about 10:00 PM, called at home, and told that I
+                    was to interpret in French for Vice President Johnson and President Diem the
+                    following morning at breakfast. I was to be at the Presidential Palace at a
+                    quarter to seven. So I did. I turned up at a quarter to seven, knowing nothing
+                    about what was going to be discussed. The Embassy had a general posture at the
+                    time of trying to press the Saigon Government under President Diem to undertake
+                    substantial reforms in a number of areas. In exchange for that, we would
+                    increase our military and political assistance. The assumption was that, if he
+                    did not make these reforms, we would not increase our military assistance. Well,
+                    I was astonished to hear Vice President Johnson simply giving assurances of
+                    increased military and economic assistance without insisting on anything in
+                    return at all. This was just the reverse of the Embassy policy. As an
+                    interpreter, I had, on the one hand, to do the interpreting job and, on the
+                    other hand, trying to absorb what was clearly a fundamental change in policy. An
+                    interpreter should never be put in a position like this, but I was, in this
+                    case.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>Well, our youngest daughter was born in Saigon in 1961.</p>
+                <p>
+                    <hi rend="italics">Q: But, of course, much of the Vietnam controversy lay in the
+                        future. You left Saigon in 1962.</hi>
+                </p>
+                <p>CONLON: Yes, I was assigned as Consul at the American Consulate in Le Havre,
+                    France. This was a small post—two American officers and five French employees-
+                    -essentially providing consular service in Northern France. This was an
+                    opportunity for me to travel through much of the area involved in the Normandy
+                    invasion of 1944 and the subsequent liberation of France. I took advantage of
+                    this opportunity. Some six weeks after I had arrived in Le Havre in August,
+                    1962, I was told by Consul General Herb Fales in Paris that, for budgetary
+                    reasons, it had been decided to close the Consulate and that I would probably be
+                    assigned to the Embassy in Paris. The final decision on closing the Consulate
+                    was delayed, however, until May, 1963, largely because of the Cuban Missile
+                    Crisis of 1962. It turned out that the Consulate in Le Havre was needed to issue
+                    “Navicerts” to French merchant vessels entering the quarantine area the U. S.
+                    had proclaimed around Cuba. The French, of course, continued to have regular
+                    freight service to Martinique and Guadeloupe in the West Indies. Meanwhile, my
+                    wife and I had become concerned over the spotty kind of education our children
+                    were getting in French schools and decided to ask for an assignment to
+                    Washington.</p>
+                <p>It was easy to arrange an assignment to the Department of State, where I was
+                    posted as Deputy Director of the Vietnam Working Group, as the Vietnam desk was
+                    then called. We left Le Havre in late July, 1963, on the SS AMERICA, and arrived
+                    in New York in August. From there we went down to Washington, D. C.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find the Department of State in 1963?</hi>
+                </p>
+                <p>CONLON: Well, although I had been continuously overseas for over three years, I
+                    was able to take only about a week's “home leave” before reporting for duty, as
+                    South Vietnam was then in a real crisis situation. Opposition to our involvement
+                    in Vietnam had grown substantially for a number of reasons. North Vietnamese
+                    propaganda had had a significant impact, particularly in American universities
+                    and in the press. Moreover, we were sincerely seen by some Americans as
+                    repeating the French “dirty war” in Indochina, 1946-54. Other Americans were
+                    concerned at what they regarded as our “intervention” in what they considered
+                    essentially a civil war. (Though they conveniently forgot that our involvement
+                    in Korea in the 1950's could have been viewed in the same light.) However, the
+                    Buddhist crisis made South Vietnam front page news in 1963, a position which,
+                    unfortunately, it never lost till the Communist victory in 1975.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>In general, Vietnam, North and South, is a country in the Buddhist tradition.
+                    Buddhism is not so much a religion, but rather a discipline or a “way of
+                    living.” A Buddhist shrine or monastery was to be found in almost every South
+                    Vietnamese village and town. The same had been true in North Vietnam before the
+                    Communist takeover there in 1954-55, after which most Buddhist shrines were
+                    closed or converted to other uses, sometimes for storing grain or other secular
+                    purposes. No one knows the exact number, but there were probably 5,000 or so
+                    Buddhist shrines and monasteries in South Vietnam by 1963. There also were about
+                    1.5 million Catholics—perhaps 10% of the population—either recent converts or
+                    long accustomed to Catholicism. The president of the Republic of Vietnam, as
+                    South Vietnam was officially called, was Ngo Dinh Diem, a member of a
+                    high-ranking, “mandarin” family from the Hue area of Central Vietnam, which had
+                    long been Roman Catholic. Diem himself was a bachelor and a man of simple
+                    habits, though he had become accustomed to living in Freedom Palace in Saigon, a
+                    palatial building formerly the residence of the French High Commissioner in
+                    Cochin-China, and to traveling around South Vietnam in a cavalcade of vehicles
+                    and with a truly “imperial” kind of entourage. He was far removed from the
+                    ordinary people, although he was personally honest and probably enjoyed
+                    considerable respect in the country.</p>
+                <p>This was not the case with his brothers. One brother, Ngo Dinh Thuc, was Catholic
+                    Archbishop of Hue. Another brother was Ngo Dinh Canh, more or less the political
+                    “boss” of Central Vietnam. Another brother was Ngo Dinh Nhu, a French-type
+                    intellectual who was the president's adviser on virtually every issue. Ngo Dinh
+                    Nhu's wife became a considerable problem because she was articulate and
+                    outspoken and a natural target for journalists, who coaxed her to make
+                    unfortunate remarks which considerably damaged the cause of the Republic of
+                    Vietnam. Rightly or wrongly, the Ngo family was considered to be generally
+                    corrupt.</p>
+                <p>In May, 1963, an event took place in Hue, the details of which are still a matter
+                    of controversy. President Diem had become concerned at the practice of flying
+                    Buddhist flags at anti-government rallies throughout the country. Legislation
+                    was passed prohibiting the flying of flags other than that of the Republic of
+                    Vietnam. In an obvious attempt to defy the government, extremist Buddhist groups
+                    flew the Buddhist flag in Hue. Government police, who anticipated trouble, moved
+                    in to seize the Buddhist flag. Scuffling broke out and shots were fired which
+                    caused a number of dead and injured. This incident was represented by
+                    anti-government Buddhists and their supporters in the foreign, and particularly
+                    the American press, as anti-Buddhist activity by the “Catholic” government of
+                    President Diem. In fact, there were very few Catholics in the Vietnamese
+                    Government at the time. A series of more or less continuing, anti-government
+                    demonstrations ensued at about 20 of the 5,000 Buddhist temples and monasteries
+                    in South Vietnam. Finally, in July, 1963, Vietnamese “Special Forces” controlled
+                    by Ngo Dinh Nhu raided the 20 Buddhist centers where virtually continuous
+                    anti-government protests were going on. Numbers of Buddhist monks and their
+                    supporters were arrested. At about this time a Buddhist monk doused himself with
+                    gasoline and set himself afire, dying in the blaze. Several other such suicides,
+                    or “immolations,” took place, underlining Buddhist opposition to the Diem
+                    Government.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>Since Paul Kattenburg, the director of the Vietnam Working Group, was visiting
+                    Saigon, which he had not seen for about seven years or so, on the day following
+                    the pagoda raids I accompanied Ed Rice, the acting Assistant Secretary for Far
+                    Eastern Affairs, to a special, inter-agency meeting in the White House cabinet
+                    room, presided over by President Kennedy. Roger Hilsman, the Assistant
+                    Secretary, was out in the San Francisco area, giving a speech. At the meeting
+                    Kennedy's charisma filled the room, though he said very little beyond opening
+                    the meeting with a question, “What do we have to decide here?” I was appalled at
+                    the low quality, emotional discussion of the pagoda raids and their impact on
+                    policy, in which some of the most senior officials of the State Dept were
+                    involved, including George Ball, then Under Secretary of State, and Averell
+                    Harriman, then a “Roving Ambassador” on the staff of Secretary of State Rusk.
+                    Only Bill Colby, then Assistant Director of CIA for the Far East, spoke up for
+                    the policy of support for President Diem and the Republic of Vietnam which had
+                    been approved and continued by five presidents from both Republican and
+                    Democratic Parties. The condemnation of the pagoda raids and the Diem Government
+                    which emerged from that meeting set the stage for a series of statements
+                    virtually calling for the overthrow of that government, then fighting for its
+                    life against communist aggression from North Vietnam.</p>
+                <p>It was not surprising that this relentless pressure on the Diem Government
+                    virtually paralyzed it and eventually led a group of South Vietnamese generals
+                    to approach our Embassy in Saigon, asking if the U. S. would continue to support
+                    the Republic of Vietnam if they overthrew Diem. The reply from Washington,
+                    decided on at a high level, was that we would continue to provide such support.
+                    Meanwhile, economic aid to the Diem Government had all but stopped, further
+                    increasing the pressure. Even so, it took nearly four months from the time of
+                    the pagoda raids in late July to the overthrow and murder of Diem and his
+                    brother, Ngo Dinh Nhu, on November 2, during which time the communist insurgency
+                    made rapid strides in the countryside.</p>
+                <p>Since it took a fairly long time for the coup against Diem to be mounted, once
+                    the subject had been broached, there were numerous figures in Washington,
+                    including Secretary of State Rusk, who began to have serious doubts about the
+                    wisdom of the policy of pressure against the Diem Government. I was called in to
+                    the Department at about 10:00 PM on a Saturday night late in October by Paul
+                    Kattenburg. Walt Rostow, one of the senior advisers of President Kennedy, wanted
+                    a memo prepared on the assumption that we would attempt to reestablish working
+                    relations with President Diem. Kattenburg flatly refused to prepare such a memo,
+                    saying that he was totally opposed even to considering such a course. With no
+                    advance notice, I prepared a memo outlining the steps we would need to take to
+                    resume military and economic aid to the Saigon Government but noting that we
+                    should, in any case, insist on maintaining contact with all non- communist
+                    elements not in jail. Most unwisely, in my view, we had agreed, at Diem's
+                    insistence, on not contacting non-communist figures opposed to Diem, although
+                    the British and other embassies in Saigon were in regular contact with them. But
+                    it was far too late to consider such action, as events were rapidly
+                    unfolding.</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>The coup began on November 1, but Diem and Nhu escaped from the Palace through a
+                    tunnel and were not found until November 2, when they were murdered by some of
+                    the coup plotters who had scores to settle with them. The Vietnam Working Group,
+                    where I was still assigned, had an officer on duty all through that night. Jim
+                    Montgomery passed the word of Diem and Nhu's death (allegedly by suicide) to the
+                    White House Situation Room at about 5:00 AM on November 2 (Washington time). He
+                    was told that the information was brought to President Kennedy's attention and
+                    that the President was deeply concerned over having approved actions which led
+                    to the suicide of two fellow Catholics. I relieved Jim at 7:00 AM at the
+                    Operations Center and had the task of informing Assistant Secretary of State
+                    Hilsman of what had happened. Hilsman had left word that, under no
+                    circumstances, was he to be disturbed before 7:00 AM. I told him of what had
+                    happened, that the information had been passed to the President, and that he was
+                    deeply upset. Hilsman limited his comment to, “God damn it” and then hung up. It
+                    was not long, of course, before it became apparent that the Ngo brothers had
+                    been murdered. The suicide story was a deliberate fabrication by the coup
+                    plotters which convinced no one.</p>
+                <p>It was curious to see the reactions of both Hilsman and Paul Kattenburg to the
+                    final overthrow of Diem and Nhu. Hilsman had deliberately sought this end, as
+                    had Kattenburg. Hilsman wanted to claim credit for this “achievement,” if you
+                    can call it that, but he knew that President Kennedy was not pleased with the
+                    outcome, and so he had to keep quiet and not refer to it. Kattenburg, as I
+                    learned only later, had come to the Vietnam Working Group with the intention of
+                    working to overthrow the Diem Government and turn the country over to the
+                    communists, whom he considered the only legitimate nationalists. He makes this
+                    point fairly explicit in his book, The Vietnam Trauma in American Foreign
+                    Policy, 1945-75.</p>
+                <p>
+                    <hi rend="italics">Q: I take it, then, that you didn't think much of either
+                        Hilsman or Kattenburg?</hi>
+                </p>
+                <p>CONLON: That's right. Hilsman knew very little about Vietnam, and he was one of
+                    the most ambitious, self-centered, and arrogant people I have ever met. During
+                    the fall of 1963 he concentrated almost exclusively on Vietnamese developments,
+                    to the neglect of his other duties in the Far Eastern area. In mind's eye I can
+                    still see Ed Ingraham, then Indonesian desk officer, trying to get a moment of
+                    Hilsman's attention to focus on the beginning of Indonesian “confrontation” of
+                    Malaysia as one of the endless meetings on Vietnam was about to begin. Hilsman's
+                    experience in the Far East was limited to his service during World War II in the
+                    OSS in Burma. Kattenburg was an example of a man with his own agenda, the
+                    overthrow of the Diem Government and turning the country over to the communists,
+                    which he somehow saw as serving the U. S. interest. I was his deputy, but he
+                    never exposed this central view to me. I was only able to see it in
+                    retrospect.</p>
+                <p>
+                    <hi rend="italics">Q: What happened after that?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>CONLON: President Kennedy was assassinated on November 21 or 22, 1963, and
+                    Secretary Rusk took advantage of the situation by moving the Vietnam Working
+                    Group into the Executive Secretariat, under Joe Mendenhall, my former boss in
+                    Saigon. However, oddly enough, I was designated by name, though Rusk didn't know
+                    me personally, to remain in the Bureau of Far Eastern Affairs to handle “routine
+                    diplomatic business” involving South Vietnam. Joe Mendenhall said that he
+                    thought this was a misunderstanding and that I would eventually join the rest of
+                    the Working Group. Hilsman and Kattenburg both left Vietnam affairs, Hilsman
+                    returning to private life and Kattenburg going on to another assignment in the
+                    Department. I never went back to the Working Group.</p>
+                <p>“Routine diplomatic business” eventually came to be interpreted as keeping in
+                    contact with the Vietnamese Embassy in Washington, then in complete disarray,
+                    and helping them with their problems. The Riggs Bank, where the Embassy had a
+                    substantial checking account, promptly froze the account after the overthrow of
+                    President Diem. I was able to get it unfrozen, as otherwise the diplomats
+                    assigned there would have been penniless. I accompanied the very able Pham khac
+                    Rau, the Vietnamese charg� d'affaires, on a few calls in the Department, but I
+                    had no secretary or other staff, and I marked time for almost three months, with
+                    virtually nothing to do.</p>
+                <p>Eventually, Dave Cuthell, the director of the Office of Southwest Pacific
+                    Affairs, rescued me, arranging to have me assigned to the Indonesian desk in
+                    March, 1964. He had not discussed the assignment with me, although this was the
+                    usual practice. I was appalled, as I felt that our Indonesian policy of support
+                    for President Sukarno, then in his final and pro-communist period, was not in
+                    our interest. My position was all the more difficult, since Ed Ingraham, my
+                    immediate superior, was a convinced supporter of what I felt was a mistaken
+                    policy.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>The only interesting development during this period was my accompanying
+                    Ambassador Howard P. Jones, our ambassador to Indonesia, on a call on Senator
+                    Birch Bayh (Democrat, Indiana) to discuss the situation in Indonesia. Ed
+                    Ingraham was unavailable and may have been on leave. Ambassador Jones was in
+                    Washington on leave, was very tired, and wanted to avoid calling on anyone until
+                    after Labor Day. However, Senator Bayh's staff was very insistent, and
+                    Ambassador Jones finally decided to meet with him, asking me to go with him.
+                    Jones was a very honorable and decent man, though he had become too committed to
+                    a pro-Sukarno line for my taste. At the meeting Senator Bayh said very little,
+                    asking only a couple of questions designed to give Jones an opportunity to
+                    defend the established policy of support for Sukarno. Although I did not
+                    personally agree with Ambassador Jones, I felt that he ably defended our policy.
+                    I thought that Bayh's silence indicated that he accepted this defense. After the
+                    meeting Ambassador Jones very graciously asked me to lunch at the Cosmos Club
+                    with Mrs. Jones. We agreed that he had seemed to have a positive impact on
+                    Senator Bayh. When I returned to the Department after lunch, I reported to Dave
+                    Cuthell to this effect. Dave, who had a rather sardonic manner of speech, said,
+                    “You haven't seen what Bayh has done. At 2:00 PM (in other words, just after
+                    Ambassador Jones and I had left him) he introduced an amendment to the Foreign
+                    Aid bill, cutting off all aid to Indonesia.” I basically agreed with Bayh rather
+                    than Jones on Indonesia, but this was dirty pool, in my view. It was clear, in
+                    fact, that Bayh had decided to do this before he met with Jones, since the
+                    amendment had to be submitted for printing the day before. About 10 years later,
+                    some two weeks before Ambassador Jones died, he passed through Canberra, where I
+                    was then Political Counselor. He was retired by then, but I was asked to give
+                    him a briefing on the situation in Australia. I did so but I then reminded him
+                    of our call on Senator Bayh in 1964 and Bayh's subsequent action. Ambassador
+                    Jones was an active Christian Scientist and a very charitable man. He limited
+                    himself to saying that Senator Bayh had been rather “naughty” on that
+                    occasion.</p>
+                <p>
+                    <hi rend="italics">Q: Then you were assigned as Australia-New Zealand desk
+                        officer. How did this happen?</hi>
+                </p>
+                <p>CONLON: Dave Cuthell had arranged to have me assigned to the Indonesian desk,
+                    with a view to my ultimately being desk officer, since I had an Indonesian
+                    background and Ed Ingraham, the desk officer, was due for transfer to another
+                    assignment before long. In fact, he was assigned to the National War College in
+                    mid 1964. However, Dave had not discussed this assignment with me, and he
+                    quickly learned how strongly opposed I was to the established policy of support
+                    for President Sukarno. Other people might simply have dumped me at this point,
+                    but Dave was a very decent man, and he may have felt bad about not having asked
+                    whether I would accept assignment to the Indonesian desk. In July, 1964, the
+                    Australia-New Zealand desk became vacant, and Dave assigned me to it.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>This was a marvelous assignment. Our relations with Australia and New Zealand had
+                    always been very close and cordial, beyond occasional differences on trade
+                    matters. Coming after assignments to Vietnam and Indonesian affairs, it was like
+                    coming out into the sunlight. I did the usual desk officer jobs—keeping up with
+                    the reporting from the Embassy, arranging for calls by Australian leaders on the
+                    Secretary and other senior officers in the Department, and getting in three
+                    visits to Australia. It was very helpful and agreeable to work with the high
+                    quality Australian and New Zealand Embassies in Washington.</p>
+                <p>But I didn't escape Vietnam completely. I had gone around giving talks on Vietnam
+                    to university and public groups for a couple of years and I continued to do so
+                    even after moving over to the Australian-New Zealand desk. In fact, Dave Cuthell
+                    told me that he had been instructed “from a very high level” not to object to my
+                    continuing to go out on such speaking trips. He never told me what the level
+                    was, and I didn't ask him, since he didn't want to explain. He used to refer to
+                    these trips as “Tom Conlon's social engagements.” Despite his having stuck me on
+                    the Indonesian desk without consulting me, he more than made up for it with the
+                    Australia-New Zealand desk. He was a very decent man for whom I always had the
+                    highest personal regard, even if I didn't always agree with his views on
+                    Indonesia.</p>
+                <p>
+                    <hi rend="italics">Q: Your next assignment was to the Embassy in Manila. How did
+                        this come about?</hi>
+                </p>
+                <p>CONLON: The Department was going through one of its reorganization programs,
+                    involving the appointment of so-called “country directors” for each country in
+                    the world. The idea came from Secretary Rusk, who wanted to have one person,
+                    usually a senior officer, immediately available for assignment as ambassador to
+                    that country. The idea was not a very good one, as it meant, in many cases, that
+                    “country directors” were assigned to a given country after serving as desk
+                    officers some 5-10 years previously. It also meant that several junior officers
+                    would have to be available to support a senior officer, instead of the desk
+                    officer doing most of his own work, which was the previous system.</p>
+                <p>In any case, since the Office of Southwest Pacific Affairs was being dissolved
+                    and Dave Cuthell was going on to another assignment anyway, he had no objection
+                    to my looking for another post. I knew that there was an opening coming up in
+                    the Embassy in Manila and I was able to get assigned there as First
+                    Secretary.</p>
+                <p>Manila was an extraordinarily complex and interesting assignment. There were so
+                    many things that we had in common with the Filipinos, and yet they were so
+                    different from us. I couldn't have asked for better bosses than Ambassador
+                    William P. Blair, Deputy Chief of Mission Jim Wilson, and Political Counselor
+                    Dick Usher. I was initially in charge of the External Unit in the Political
+                    Section and then the Internal Unit. Filipino politics are very complex, as they
+                    have continued to be over the years.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>However, I had only spent six months in Manila when the Embassy in Saigon began
+                    to press me to return there for assignment. I felt personally that Vietnam was a
+                    very important testing place for the United States and, although I might have
+                    avoided returning there, I didn't feel that I could do this and still be
+                    consistent with my own views.</p>
+                <p>
+                    <hi rend="italics">Q: So you accepted reassignment to Saigon?</hi>
+                </p>
+                <p>CONLON: Yes, as First Secretary. Initially, I filled in as chief of the Internal
+                    Unit in the Political Section, replacing Ted Heavner, who was scheduled for
+                    reassignment elsewhere. After going on home leave Ted decided to return to
+                    Saigon, to his old position, and I was assigned as head of the “Provincial
+                    Reporting Unit.” There were seven very capable young Foreign Service Officers
+                    assigned to it, most of them Vietnamese language officers, living in the
+                    provinces, working out of a central point, and reporting more or less on what
+                    they thought would be interesting and significant. My job was to keep in touch
+                    with them, review and send on their reports, and suggest other reports to them.
+                    Several senior officers from the Department told me how important this unit was,
+                    but it was apparent that few of them actually read the reports. I came to have
+                    considerable reservations about whether it was useful to have these guys risking
+                    their lives, frequently moving alone through a hazardous countryside, to produce
+                    reports that few people read. All in all, I felt that I was about 50% occupied,
+                    which was all the more disagreeable, since my family was still in the
+                    Philippines.</p>
+                <p>One incident occurred during this second tour in Saigon which made me reflect
+                    more deeply on how we should have responded to the Vietnamese generals' request
+                    for reassurance of support in 1963 in the event that they overthrew Diem. For a
+                    long time I had felt that, though it was regrettable, it was inevitable that we
+                    would reply that we would continue to support the non- communist side in South
+                    Vietnam. However, I believe that in September, 1967, presidential elections were
+                    held in South Vietnam, in which there were more than a dozen candidates. Nguyen
+                    van Thieu was elected president after a campaign which numerous American
+                    observers who came to South Vietnam for the event said was reasonably fair and
+                    democratic. Naturally, there were Vietnamese who did not accept the results and
+                    who were moving to have the National Assembly decline to certify the election
+                    outcome. At this point Ambassador Ellsworth Bunker, a superb ambassador and a
+                    very perceptive but tough-minded man, called in all of the political officers
+                    and told us to pass the word to our Vietnamese contacts that if the National
+                    Assembly refused to certify the election results, the U. S. would regard this as
+                    a request for us to withdraw our military and economic support for the Republic
+                    of Vietnam and to pull our forces out of the country, leaving the non-communist
+                    Vietnamese to deal with the communists on their own. This quickly ended that
+                    kind of maneuver. I wondered what would have happened if we had taken similar
+                    action in the fall of 1963 when a group of Vietnamese generals asked for
+                    assurances of U. S. support if they overthrew Diem. Certainly, we never
+                    encountered as effective a Vietnamese Government as the one headed by President
+                    Diem.</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>Here, perhaps, a word or two about my long suffering but dutiful Foreign Service
+                    wife, Joan, would be appropriate. At the time I went back to Saigon in June,
+                    1967, we had seven children, all living with us in Manila. I was able to get
+                    back to Manila from Saigon about once every six weeks or so, spending a week
+                    each time. This left Joan with all of the day to day problems of coping with a
+                    large family, handling local and U. S. bills (which I had always handled
+                    before), and having only indeterminate status in Manila. She had ordinary
+                    Filipino license plates on the car but still had access to the Embassy and Navy
+                    commissaries and the dispensary, as well as the clubs which we had joined when I
+                    was assigned to Manila. Although Joan could have returned to the U. S. or gone
+                    virtually anywhere else in the world other than Saigon, she decided to stay in
+                    Manila. We had a very pleasant house in the Bel Air suburb of Manila, a good
+                    household staff, and the children were more or less content in school. Our
+                    eldest daughter, Peggy, however, decided that she would like to return to
+                    Washington, D. C., to go to high school with one of her best friends, Kathleen
+                    Conley. Kathleen's parents agreed to have Peggy live with them in Washington.
+                    During my absence in Saigon Joan also had unstinting support from the Political
+                    Counselor, Dick Usher, and his replacement, Frank Underhill, as well as other
+                    members of the Political Section, who treated her as if she was still the wife
+                    of one of the officers in the Section.</p>
+                <p>Then, just before I left Manila for Saigon, our eldest son Paco (so we called
+                    him, as he had been born in Havana), then not quite 17, asked if he could go to
+                    sea for a year or so. U. S. registered ships were being taken out of mothballs
+                    faster than the seamen's union could provide crews. A special arrangement had
+                    been made under which young American males in good physical condition could
+                    obtain temporary Coast Guard authorization to be signed on as ordinary seamen.
+                    The union grudgingly accepted this situation. I had myself wanted to serve in
+                    the Merchant Marine during World War II, but my mother refused her permission,
+                    as she said I “would meet rough men” if I went to sea. Poor Mother! I met “rough
+                    men” in the Army Air Forces instead and suffered no permanent harm. She must
+                    have been thinking of Eugene O'Neill's novel, The Long Voyage Home, made into a
+                    movie about this time, which depicted seamen as boozing brawlers. Well, I
+                    decided that I would sign the necessary authorization for Paco to go to sea.
+                    This relieved Joan of some responsibilities, as Paco was in a rather rebellious
+                    mood at the time, and his being at sea meant that she did not have to deal
+                    directly with him.</p>
+                <p>I think that the experience did him good, and he ultimately came to take this
+                    view. In fact, at the end of his year of service, he decided to return to Manila
+                    and complete his last year of high school. However, he had done a good job on
+                    the ship, and the captain was reluctant to let him go. I prevailed on the
+                    shipping officer in the Embassy in Saigon to go up to Cam Ranh Bay, where Paco's
+                    ship then was located, and “lean” on the captain to have him released. The task
+                    was made easier than seemed likely at first, because Paco had fallen down a
+                    slippery ladder while at sea, breaking an arm. This limited his usefulness on
+                    the ship. He was duly discharged, spent a week or so with me in Saigon, and then
+                    returned to Manila to finish high school.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>Meanwhile, my 18 month tour in Saigon was cut short prematurely when I came down
+                    with hepatitis in September, 1968. I was in Manila for a short visit. I had had
+                    what I thought was flu. However, my skin turned yellow, as did the whites of my
+                    eyes. The Embassy doctor in Manila said that I had hepatitis and needed to spend
+                    at least three and perhaps six months in bed. So the Embassy in Saigon had to do
+                    without me. In fact, in November, 1968, while I was still in Manila recovering
+                    from hepatitis, I was assigned to Nice, France, as Consul General. The
+                    Departmenwas aware that I was ill and no longer in Saigon. In this case the
+                    assignment was arranged by Rhee Shannon, former personnel officer at the Embassy
+                    in Saigon in the early 1960's, who knew that I needed a fairly easy assignment
+                    for the next year or so, due to my health.</p>
+                <p>
+                    <hi rend="italics">Q: Did you return to Saigon from Manila?</hi>
+                </p>
+                <p>CONLON: Only for about a week, enough time to pack up and head for Nice. Joan was
+                    still in Manila with the children, whose school year did not end until March,
+                    1969. She stayed until they finished the school year and then came to Nice with
+                    them.</p>
+                <p>In Nice, although I was still very weak and could not put in more than a few
+                    hours of work per day, I was slowly recovering from hepatitis. Nice was an ideal
+                    post for this purpose. I would come into the small office, which had another
+                    American, Bill Holm, with me, plus seven very capable French employees, at about
+                    10:00 AM, stay till about 1:00 PM, have lunch, take a nap, return for a couple
+                    of hours in the afternoon, leave the Consulate at 6:00 PM, have dinner at a
+                    local hotel or restaurant, and go to bed at 8:00 PM or so, unless I had a
+                    reception or dinner to attend. I paced myself carefully and recovered slowly but
+                    steadily.</p>
+                <p>Initially, when I was in Nice by myself, I lived in a hotel near the Consulate.
+                    However, I found a beautiful house, big enough for our large family, on the
+                    Moyenne Corniche East of Nice, with a fantastic view of the harbor at
+                    Villefranche. The kitchen was fairly primitive, as Joan regularly reminded me,
+                    and there were no domestic servants available. However, we found suitable French
+                    schools for the younger children. Some of them still remembered their French
+                    from Saigon and Le Havre, but the others more or less had to sink or swim.
+                    Actually, they did pretty well.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>Our two eldest sons had completed high school with nothing better than “C”
+                    grades. I told them that, as they were of draft age, they should serve in the
+                    Army or another service and go through college after their military service, as
+                    I had done myself. I don't think that the boys much appreciated my attitude,
+                    particularly as they knew that many of their contemporaries in high school in
+                    Manila were going on to college in the U. S., where they could get deferments
+                    and avoid military service entirely under our truly iniquitous draft law, as
+                    many of them did. I had warned them that I could not see why we should spend the
+                    kind of money college involved, even then, when they had made so little effort
+                    in high school. After a couple of months in Nice they returned to the U. S.,
+                    Paco joining the Army, where he served in an intelligence unit, and Terry
+                    joining the Air Force, where he served in communications. Both were assigned to
+                    Southeast Asia—Paco in Vietnam (in Bien Hoa and Cu Chi) and Terry at Nakhon
+                    Phnom, Thailand, on the Mekong River, at a Strategic Air Command base.</p>
+                <p>I mention family matters because a Foreign Service Officer, like everyone else,
+                    lives in both his official and personal dimension. Some of the problems, such as
+                    health conditions and the education of our children, are quite unique and unlike
+                    those facing our relatives and friends back in the U. S.</p>
+                <p>
+                    <hi rend="italics">Q: Am I correct that after 18 months in Nice you were
+                        assigned to the Army War College?</hi>
+                </p>
+                <p>CONLON: Yes, that's right. Nice had been pleasant enough, but I had recovered
+                    fully from hepatitis and was finding the placid, consular round rather less than
+                    absorbing. Of course, after Saigon, all assignments were rather humdrum, as many
+                    of my colleagues at the Embassy there found out.</p>
+                <p>Every year the State Dept sent about 15 officers on to what was called “senior
+                    training.” This involved assignment to a year of study at the National, Army,
+                    Navy, or Air Force War Colleges or to the Senior Seminar in the State Dept
+                    itself. The classes were mainly composed of senior Army, Navy, or Air Force
+                    officers, usually lieutenant colonels or colonels, plus a dozen or so civilians
+                    from State, CIA, or other agencies. The Senior Seminar, of course, involved
+                    mainly State Dept officers, although some military officers were assigned as
+                    well. Classes involved looking at U. S. society and U. S. interests in their
+                    broadest sense, with emphasis on the international context. I found the course
+                    at the Army War College highly interesting and rewarding.</p>
+                <p>Meanwhile, my family enjoyed the experience at Carlisle Barracks, our second
+                    oldest Army base (after West Point), where the Army War College was located.</p>
+                <p>
+                    <hi rend="italics">Q: How were you assigned to the Embassy in Canberra?</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>CONLON: The assignment to the Army War College was only for one year. One morning
+                    I was shaving, before going to class, when I had a phone call from Harry
+                    Holland, then in Personnel in the Department. He had gone with me on a rather
+                    tumultuous speaking trip in the spring of 1966, which focused on Vietnam. He
+                    recalled that I had been Australia-New Zealand desk officer at the time. The
+                    post of Political Counselor in Canberra was opening up, and he asked me if I
+                    would like that assignment. After a quick consultation with Joan, I called him
+                    back and agreed to accept it.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find living and working in Australia?</hi>
+                </p>
+                <p>CONLON: It was one of the most satisfying assignments I had. My family certainly
+                    liked it, probably the best of all assignments we had. We spent four years
+                    there—1971-75. There were two officers in the Political Section—Bill Nenno and
+                    myself. There was a steady amount of highly interesting but non-crisis work.
+                    Australia is a stable, democratic, complex society much like the U. S. in so
+                    many ways. Language is, of course, no problem, though some Australian words and
+                    phrases took some getting used to. I had the good fortune to serve under three
+                    particularly competent Deputy Chiefs of Mission: Hugh Appling, Bill Harrop, and
+                    Roy Percival, all very different personalities but all willing to let me do my
+                    job as I saw fit. The Ambassador was initially Walter Rice, a retired R. J.
+                    Reynolds executive who preferred economic and financial questions and rarely
+                    troubled me. He was replaced in 1973 by Marshall Green, one of the best
+                    Ambassadors I knew, who was enormously stimulating to work for. Marshall had
+                    spent most of his career in Northeast Asia, apart from four years as ambassador
+                    to Indonesia, 1965-1969. He had been recruited into the Foreign Service by
+                    Ambassador William C. Grew, when Grew was ambassador to Japan. Marshall was
+                    evacuated from Tokyo in September, 1941, as war in the Far East was looking more
+                    and more imminent. One wonders how we missed the clues at Pearl Harbor.</p>
+                <p>Anyhow, Marshall had kept up a correspondence with several Japanese businessmen
+                    and government officials over the years, and it must have been painful for him
+                    when the post of ambassador to Japan became vacant in early 1974. Marshall was
+                    the logical candidate for the job, but he had only been in Australia for four or
+                    five months, and it was impossible for him to make the shift. A pity because he
+                    had prepared himself for the post for decades, only to miss it for stupid
+                    considerations of timing.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>The principal problem during my time in Australia was adjusting to the change
+                    between a conservative, pro-American government led by the Liberal and Country
+                    Parties, and an Australian Labor Party government led by Gough Whitlam, a figure
+                    much in the image of Democratic Party leaders in the United States. The change
+                    occurred in December, 1972, when President Nixon was already embattled over the
+                    Watergate Affair and the “Christmas bombing” of Hanoi and Haiphong. Several
+                    Labor ministers were outspoken in their criticism of Nixon, although they said
+                    nothing beyond what was commonly being commonly said in the U. S. by Americans.
+                    The problem was that Labor had been in opposition from 1949 to 1972- -23 years.
+                    Neither Whitlam nor any of his cabinet colleagues had been in government before.
+                    They just didn't know how to behave. Moreover, there were joint
+                    Australian-American defense facilities set up during the period of the
+                    conservative governments, some of which performed highly classified functions.
+                    One of the conservative prime ministers, John Grey Gorton, had refused to allow
+                    the Labor leaders to be briefed on their significance, though previous Labor
+                    leaders had been informed about their purpose and functions. To his credit,
+                    Labor Prime Minister Gough Whitlam knew that the U. S. had wanted to inform the
+                    Labor leaders about them and correctly blamed Gorton for the problem.
+                    Ultimately, after some alarums and excursions, we completed the process of
+                    transition to a Labor Government without significant damage, and enjoyed good
+                    relations with Whitlam and his principal associates.</p>
+                <p>The situation in Vietnam, of course, continued to engage our attention during our
+                    years in Australia. More specifically, after the Paris Accords were signed in
+                    January, 1973, purportedly bringing an end to the fighting, I was included in a
+                    group of some 45 Foreign Service Officers with previous experience in Vietnam
+                    who were sent back for a period of three to six months' temporary duty to beef
+                    up the Embassy in the new situation thus created.</p>
+                <p>After arriving in Saigon I was assigned to the U. S. Delegation to the Four Party
+                    Joint Military Commission, composed of North Vietnamese, Viet Cong, Saigon
+                    Government, and U. S. elements. However, this commission, provided for in the
+                    Paris Accords, was called a “military” entity. The U. S. military interpreted
+                    this as meaning no civilians, and this limited what I could do with it. Of
+                    course, the other delegations consisted of both militarand civilian officers, as
+                    they interpreted the Accord in a different way. Finally, Maj Gen Woodward, the
+                    chairman of the U. S. Delegation, decided that I would be the spokesman for our
+                    Delegation, even though I could not attend any of the meetings. I went to Gen.
+                    Woodward's staff meetings, held immediately after Commission sessions and I was
+                    free to talk to other American Army officers involved in the proceedings.</p>
+                <pb facs="0022" n="Page0022"/>
+                <p>Minutes of the plenary sessions of the Commission were not kept up to date, and
+                    Col O'Connor, secretary of the U. S. Delegation, declined to allow the Embassy
+                    access to the tapes made of the proceedings of the Commission or to obtain a
+                    copy of Gen. Woodward's reports to the Joint Chiefs of Staff, though Ambassador
+                    Bunker asked me to arrange for the Embassy to obtain copies as soon as the
+                    reports were sent. We received copies a day late after they had been transmitted
+                    to Washington and then relayed back to us by the Department. I tried without
+                    success to get Colonel O'Connor to provide the Embassy with immediate copies of
+                    the reports. I pointed out to him that we could resolve the problem the easy way
+                    or the hard way. The easy way was to release the reports to the Embassy
+                    immediately. The hard way was for Ambassador Bunker to raise this ridiculous
+                    matter with Gen. Woodward or with the President. O'Connor preferred the hard way
+                    and was slapped down in a couple of days. Ambassador Bunker began to receive
+                    copies of Gen Woodward's reports as they were sent. This was a pointless
+                    bureaucratic struggle because the proceedings of the Commission were of little
+                    interest, anyway. Finally, about one week before the U. S. military completed
+                    its withdrawal from Vietnam at the end of March, 1973, Colonel O'Connor dumped
+                    all of the meeting tapes which he had withheld from us into our hands. We had
+                    neither the staff nor the resources to transcribe them. As no Embassy officer
+                    had attended any of the sessions, none of us could even identify the voices.</p>
+                <p>I spent three months in Saigon, my last period of service there, with little to
+                    show for it but a growing concern that things were going to fall apart. I
+                    returned to Canberra around the middle of May, 1973. I was spared being present
+                    for the fall of Saigon in April, 1975.</p>
+                <p>
+                    <hi rend="italics">Q: Then came your last post overseas in the Embassy in
+                        Bangkok. How were you chosen for this position?</hi>
+                </p>
+                <p>CONLON: By 1975 I had been in Australia for four years, about a normal tour of
+                    duty. Assistant Secretary of State for East Asian Affairs Phil Habib came
+                    through Canberra in May, 1975, and asked me if I would take the East Asian
+                    position on the National Security Council staff in Washington. I said that I
+                    would, though I was not particularly enthusiastic about returning to Washington.
+                    I had been in touch with Hugh Appling, the former Deputy Chief of Mission in
+                    Canberra and then Deputy Director General of the Foreign Service in Washington
+                    (who also serves as chief of personnel matters). I told him what Phil Habib had
+                    asked me. Hugh said that, as Phil had been traveling, he was not up to speed on
+                    personnel matters. The position on the National Security Council staff had
+                    already been filled. However, Hugh asked if I would like to be Political
+                    Counselor in Bangkok. (It later turned out that Tom Barnes, the former Political
+                    Counselor in Bangkok, was involved in a somewhat messy divorce case and had
+                    asked for a Washington assignment to handle this. He was assigned to the
+                    National Security Council staff position which Habib had asked me to take.) It
+                    was easy to switch the two assignments around.</p>
+                <pb facs="0023" n="Page0023"/>
+                <p>After I had accepted Phil Habib's offer of the position on the National Security
+                    Council staff, I mentioned the matter to Ambassador and Mrs. Marshall Green.
+                    Marshall was fairly noncommittal. However, Lisa Green, always outspoken, told me
+                    that “they will eat you up,” as this is a high pressure job and always has been.
+                    I was somewhat relieved when I learned from Hugh Appling that the job was no
+                    longer available and that I could go to Bangkok if I wished.</p>
+                <p>
+                    <hi rend="italics">Q: Had you had much contact with Thailand previously?</hi>
+                </p>
+                <p>CONLON: I had passed through Bangkok several times, but knew little about the
+                    country, other than what I knew from my readings on the history of Southeast
+                    Asia. In this respect Thailand is unique in never having been a European colony.
+                    The Thai therefore did not have the kind of inferiority complex which many
+                    ex-colonial peoples have. Moreover, Thailand is a relatively homogeneous country
+                    with few minorities and no serious border problems.</p>
+                <p>I had the good fortune to serve under a particularly capable Ambassador, Charles
+                    S. Whitehouse, whom I had previously worked with in Saigon. The Political
+                    Section was fairly large, with seven capable officers. They had, perhaps,
+                    developed bad habits of not doing very much, or so Ambassador Whitehouse and
+                    Deputy Chief of Mission Ed Masters, immediately told me, on my arrival there.
+                    Oddly, neither Whitehouse nor Masters was aware that Barnes had a rather
+                    complicated family situation. Barnes was married to Joan Barnes, a very
+                    agreeable American woman, by whom he had three children. Barnes had been a
+                    Vietnamese language officer whom I knew in Saigon in the early 1960's, when he
+                    was noted for being something of a womanizer. It turned out, however, that he
+                    had acquired a Vietnamese “minor wife,” by whom he also had three children. He
+                    was able to handle this situation until Saigon was falling in early 1975. He
+                    spent almost all of his time in those early months of 1975, trying to get his
+                    Vietnamese “wife” and children out of Saigon. No wonder he hadn't been doing
+                    much as Political Counselor in Bangkok. The Political Section had been left to
+                    run itself, which is never a good idea.</p>
+                <p>After four years in Canberra, where I had done a substantial part of the work
+                    myself, I was used to working fairly steadily. I encouraged the other officers
+                    to buckle down and do some work for a change, an effort which bore fruit fairly
+                    quickly.</p>
+                <p>Thailand had the problem of adjusting to the situation at the end of the Vietnam
+                    War in which it had participated alongside the U. S. It had contributed two
+                    divisions of troops and committed itself in a way which was unusual in the
+                    cautious Thai approach to foreign policy. Ultimately, the Thai were successful
+                    in making the adjustment, in cooperation with the other members of ASEAN (that
+                    is, the Association of Southeast Asian Nations).</p>
+                <pb facs="0024" n="Page0024"/>
+                <p>I became more involved in narcotics problems than I really wanted to be, since
+                    Thailand is a major producer of opium and the site for a substantial amount of
+                    narcotics trafficking. For a time I did much of the narcotics reporting for the
+                    Embassy, though ultimately another officer was assigned to handle this
+                    responsibility, in a separate unit.</p>
+                <p>Our four years in Bangkok were quite interesting for both me and my family. Of
+                    course, several of our children were now in the U. S., though the younger
+                    children were still with us, attending the International School of Bangkok
+                    (ISB), from which three of them eventually graduated. Joan found a personally
+                    rewarding niche for herself as copy editor for Sawaddi, a quarterly publication
+                    of the American Women's Club, where she worked with several women up to 20 years
+                    younger than she was. She recalls once referring to the evils of split
+                    infinitives, only to have one of the young women ask her, “Joan, what's a split
+                    infinitive?” We did a good bit of travel around this fascinating and friendly
+                    country.</p>
+                <p>Professionally, it was a very rewarding experience, though it had its negative
+                    aspects. With one exception the Deputy Chiefs of Mission I worked under were
+                    nowhere near as capable and helpful as the DCM's in Canberra. Moreover, after
+                    three years under Ambassador Whitehouse, I found the final year, under
+                    Ambassador Morton I. Abramowitz, very trying. Whitehouse was and is true
+                    American establishment and a very wealthy man whose background is far different
+                    from mine. However, we were always on good terms, and if I were to be thrown
+                    together with him tomorrow, we would pick up again with great confidence in each
+                    other. Abramowitz is a very difficult person. He has few friends, is remote and
+                    almost unfriendly, and never opens himself up. The door to his office was almost
+                    always closed. Whitehouse's door was almost always open, unless he had a
+                    visitor. In the British phrase, they were as different as chalk and cheese.</p>
+                <p>In May, 1979, Joan was diagnosed as having an arterial blockage in her left leg
+                    which would require bypass surgery. She was medically evacuated, bound for
+                    surgery at Georgetown University Hospital in Washington, D. C. Our youngest
+                    daughter, Claudia, had been less than thrilled with her high school experience
+                    and was more than glad to leave with Joan, who needed someone to accompany her.
+                    So this time I was left behind to close up and pack up. There had been some
+                    question of my being assigned as Deputy Chief of Mission in Rangoon, Burma, a
+                    post which I would have liked. However, Joan felt that she would not be happy
+                    there, and, after 30 years in the Foreign Service, when my career interests were
+                    usually the deciding element in whether or not to accept a given post, it seemed
+                    fair to have her call the shot on this occasion.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>Joan's arterial bypass surgery was a success, though it had to be repeated in
+                    November, 1979, and she has made a full recovery. We were fortunate in being
+                    able to stay with Hugh and Mary Appling in McLean, VA. Hugh had retired from the
+                    Foreign Service, and he and Mary remain some of our closest friends. I had no
+                    assignment in Washington and spent about three months as a member of the
+                    “corridor brigade,” a group of some 100 Foreign Service Officers without an
+                    assignment or anything much to do. It was a strange experience, to say the
+                    least. Eventually, I was given an assignment of sorts in the Bureau of
+                    Intelligence Research in March, 1980. I had found an apartment on upper
+                    Connecticut Avenue, but Joan was never really happy there, as she hates
+                    apartments. We had never bought a house in D. C., always renting when we were
+                    there in the Department. Real estate prices mushroomed out of sight and our
+                    reach in 1973 or so, and it was clear that we would both have to work for the
+                    rest of our lives to be able to afford the kind of house we wanted. This didn't
+                    seem like a very attractive prospect. So we looked elsewhere and finally, after
+                    a series of pure accidents, found our way to Washington, NC, and to the house
+                    where we now live. It is an older house, built around 1905-10 and then in need
+                    of extensive repairs and remodeling. We found an excellent contractor, Frank
+                    Woolard, to do what was necessary.</p>
+                <p>Initially, I had thought that I would retire some time in 1981 or 1982, after
+                    some 33 years in the Department. We told Frank Woolard that I would retire in
+                    two years. However, the job in INR did not amount to much, and other assignments
+                    did not sound very attractive. It has been said that “Foreign Service Officers
+                    retire themselves.” I think this is very often true—at least it was in my case.
+                    I retired from the Foreign Service in November, 1980, after just less than 32
+                    years. It was a wonderful, fulfilling career, though not without its problems,
+                    both professional and personal. We often wondered whether we were short changing
+                    our children in terms of education, as they had a very checkered school
+                    experience. However, when we mentioned this to our eldest daughter, she said,
+                    very firmly, that she thought that she and her brothers and sisters had had a
+                    wonderful and particularly rich experience, growing up in these circumstances. I
+                    can only say that I would have liked to have had this kind of experience as a
+                    childhood, instead of being born and raised in the same house until I entered
+                    the Army in 1943.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

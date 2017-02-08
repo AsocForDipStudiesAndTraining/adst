@@ -1,451 +1,925 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000760">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Parke D. Massey </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Parke D. Massey </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project Labor Series</p>
-<p>PARKE D. MASSEY</p>
-<p>Interviewed by:  Morris Weisz </p>
-<p>Initial interview date:  March 19, 1992</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  We are sitting in the pleasant home of Mr. and Mrs. Parke D. Massey where Parke will be interviewed on the subject of “Labor Diplomacy in the Foreign Service” and I'll let him now begin.</hi>
-</p>
-<p>MASSEY:  Anything I say to you today, Murray, will tend to reflect a basic theme.  That theme is, that despite a great deal of lip service toward labor diplomacy over the years of the Marshall Plan and the developing country programs, that was lip service.  Labor was not fully incorporated into the foreign policy decisions and actions of the United States foreign policy; neither in terms of its economic impact—manpower, manpower training, manpower available—or in terms of its political impact in the role of trade unions and other labor organizations in political development in the various countries in which I served.  I arrived at that conclusion as a result of service that touched upon labor affairs in the Department of State as a Foreign Service Officer, as a civil servant in the Bureau of International Labor Affairs in the Department of Labor, and as an officer of the Agency for International Development where I served both in Washington and in the field, ending my career as a Director of an AID mission.</p>
-<p>
-<hi rend="italics">Q:  What was your background before you came into the Foreign Service?</hi>
-</p>
-<p>MASSEY:  I had had no contact with labor.  I had been a soldier.  I came out and under the G.I. Bill of Rights completed my undergraduate work at Haverford College.</p>
-<p>
-<hi rend="italics">Q:  Major?</hi>
-</p>
-<p>MASSEY:  It was government—political science.  I took the written exams for the Foreign Service and passed them and the orals and entered the Foreign Service of the United States in September of 1947.</p>
-<p>
-<hi rend="italics">Q:  Who was President of Haverford at the time?</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>MASSEY:  The President of Haverford was a man named Gilbert White.</p>
-<p>
-<hi rend="italics">Q:  Did he in anyway influence...because Haverford is small enough to have a direct association with its students.  Did he have any influence in your decision to enter the Foreign Service?</hi>
-</p>
-<p>MASSEY:  No, I had wanted to enter the Foreign Service since before World War II.  I'd always wanted to be a Foreign Service Officer.</p>
-<p>
-<hi rend="italics">Q:  So this was no special individual influence upon you as much as your own background?</hi>
-</p>
-<p>MASSEY:  No, my own background and desires.</p>
-<p>
-<hi rend="italics">Q:  ...to enter the Foreign Service.</hi>
-</p>
-<p>MASSEY:  ...to enter the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  You entered the Foreign Service and your first posting?</hi>
-</p>
-<p>MASSEY:  My first posting was Mexico City, where I served in the economics section, commercial, consular, and political, because Mexico City at that time was used very much as a post to rotate young officers to the various aspects of the embassy's work.</p>
-<p>
-<hi rend="italics">Q:  So you had a broad experience within the first posting in Mexico City?</hi>
-</p>
-<p>MASSEY:  Very broad.</p>
-<p>
-<hi rend="italics">Q:  That would have been when?</hi>
-</p>
-<p>MASSEY:  That would have been from 1947 to 1950.  It was there that I first encountered labor diplomacy in the person of a man named Smith Simpson.</p>
-<p>
-<hi rend="italics">Q:  ...to whom I just spoke over the telephone the other day by the way.  He's going to be giving us an interview shortly?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>MASSEY:  Smith Simpson was assigned as Labor Attach�, and, of course, in Mexico the trade union movement was extremely important because the official majority party was a three-legged stool, based essentially on the support of the trade unions, the military, and the bureaucrats and career politicians.  This was known as the Partido Revolucionario Institucional and these were the three elements that supported it.  I felt that Smith Simpson's work was obviously necessary; it was one-third of the political power of the country, and yet I did not have the feeling, at that time, that he was very much heeded.  He wrote reports, and they were sent off and disappeared into nowhere.  Certainly when I was in the political section, I never recall at a staff meeting with the Ambassador any extensive discussions of important developments and changes in the trade union movement as they affected the political development of the country.</p>
-<p>
-<hi rend="italics">Q:  The Ambassador at the time?</hi>
-</p>
-<p>MASSEY:  Walter Thurston, a career ambassador with many years experience.</p>
-<p>
-<hi rend="italics">Q:  That was before the days of a Labor Attach� named Ben Stephansky, who later became an ambassador also?</hi>
-</p>
-<p>MASSEY:  Yes, that was before Ben Stephansky.</p>
-<p>
-<hi rend="italics">Q:  Did you know him?</hi>
-</p>
-<p>MASSEY:  I knew Ben Stephansky later in various capacities, mostly in Latin America.  In fact, I knew him when he was an ambassador at one post. One thing sticks in my mind as to why there was any interest at all in labor.  At that time apparently people remembered that in 1945 when Clement Attlee defeated Winston Churchill, the American Embassy in London had no contacts whatsoever with the Labor Party or the labor movement in England which was taking over power with the single exception of the Labor Attach�, whose name at the time, I believe, was Sam Berger.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  But he was not the Labor Attach�.  It's almost by accident that that happened.  He was an assistant to Harriman, who was the Lend Lease Administrator, and just happened to be there but had a background at the University of Wisconsin in labor studies with Commons.  So it was fortuitous that that happened, and you're about the third or fourth person, including a couple who served in Latin America, who might not have been expected to know about that happenstance, John Fishburn being one, Dan Horowitz another, who point to this instance, and who also identify Sam as the Labor Attach�, which he was not at that time.  It's curious.  It was very important at that time.  He later, of course, had a wonderful career. Now that was your experience in Mexico, and you felt there was sort of a blank there that could have been attributed to what? Foreign policy generally, the Ambassador or the lack of specific attention to labor, and its importance by the Labor Attach�?  I know you don't want to criticize Smith or anything like that...and by the way, he became very interested in precisely the direction you're pointing to later on in his career, and when I spoke to him about filing a statement with us, he made the point that he wanted that indicated.  Very interesting.</hi>
-</p>
-<p>MASSEY:  The fault was not that of the Labor Attach�, who was extremely hard working, and extraordinarily knowledgeable.  I think this reflected an attitude that permeated the Department of State.  We sometimes pejoratively speak of the Department of State as, you know, Eastern Establishment WASPs (White Anglo Saxon Protestants).  I can't imagine a more Eastern Establishment WASP than Smith Simpson, but that's all right.  And I think that is the reason...the reason the Ambassador was indifferent.  He understood intellectually, but did not understand emotionally.  In Washington on the Mexican Desk, they may have understood intellectually but did not understand emotionally.  After all, they had assigned a talented officer to the job, who was very good at doing the job.  They just didn't pay much attention to him.</p>
-<p>
-<hi rend="italics">Q:  Could you reflect for a minute on the possibility that that lack of interest by the Mexican Desk might have been due to the fact that a policy decision was made to have a labor office in a separate division of the State Department, rather than having it built into the geographic bureaus.  You know, the labor interest was reflected at that time by a central office called, I think, ILH—International Labor and Health, under very good people, Otis Mulliken, Tobin, Horowitz himself, and those people, but it was separate from the operating geographic bureaus.  And should we learn from that that there's more of a necessity to have the geographic bureaus?</hi>
-</p>
-<p>MASSEY:  I was not at that time, as a young officer, sufficiently familiar with the organization of the Department, or the importance of organizational placements.  What you suggest is a possibility, but I think the problem is an attitude rather than an administrative or organizational problem.</p>
-<p>
-<pb facs="0005" n="Page0005"/>
-<hi rend="italics">Q:  And this is an attitude shared by some very good people, but Eastern Establishment, Acheson himself, and those people.  You served there then for three years with a growing interest in labor at that time, or was this a conclusion you arrived at after?</hi>
-</p>
-<p>MASSEY:  No, I had no growing interest in labor.  At that particular time, I left that up to Smith.  We talked about it at length, but I did not include any reference to labor affairs or labor matters in my own political reporting.  I was not terribly interested.</p>
-<p>
-<hi rend="italics">Q:  That's interesting in light of what happened later.  It's very interesting.  You finished that then after three years.  It was sort of a training assignment in which you got a broad view, and I see that Mexico, with its large Embassy, was used for that purpose as, later on in my career, New Delhi was.  It was a training post with a very large staff, and we had young people coming in and serving a few months in different capacities.  You came back to Washington then?</hi>
-</p>
-<p>MASSEY:  No, I was transferred to Genoa, Italy</p>
-<p>
-<hi rend="italics">Q:  Oh, really.  Now there you saw some labor.</hi>
-</p>
-<p>MASSEY:  There the situation was quite different.  I was in the Consulate General in Genoa as economic and political reporting officer...(Tape recorder turned off.)</p>
-<p>
-<hi rend="italics">Q:  Okay, Parke, can we continue?</hi>
-</p>
-<p>MASSEY:  Yes.</p>
-<p>
-<hi rend="italics">Q:  You came to Genoa.</hi>
-</p>
-<p>MASSEY:  Right, as economic and political reporting officer.  I wrote a political report every two weeks.  This industrial area along the Genovese coast was of great political importance to us.  It had a communist mayor, who was very effective.  And, of course, the three great contending parties in Italy at that time each was associated with a trade union movement.  The Christian Democrats had a trade union movement as did the Communists.</p>
-<p>
-<hi rend="italics">Q:  CGIL and UIL?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>MASSEY:  CISL.  Although I followed as best I could the trade union part of the political activity, it was in some measure not my primary concern because, if I remember the name right, Tom Lane in Rome was essentially responsible for this coverage, the importance of the trade unions in the political activity.  I would say that in Italy the attempt to make the labor diplomacy a more coherent part of our foreign policy was more successful than any other place that I knew of.  It may have been in other parts of Europe, in other parts of the Marshall Plan, I do not know.  Lane was hard working, hail fellow well met, knew everybody on God's green earth.</p>
-<p>
-<hi rend="italics">Q:  Including all the political groupings or just...</hi>
-</p>
-<p>MASSEY:  I think he knew the labor people far better than he knew the political people.</p>
-<p>
-<hi rend="italics">Q:  But even the labor people on different sides like the Communists?</hi>
-</p>
-<p>MASSEY:  Absolutely, he knew them.  He frequently would talk about those in the labor movement who had a tendency to shift their allegiances back and forth.  Now then, he gave every impression to me of a very wide personal acquaintance with the people of the labor movement and their attitudes in Italy.  How well he was able to judge their impact, their influence on their parties, the influence on the workers, how often a worker voted the party that was associated with his trade union, I never heard him mention.  And I would doubt if given the highly volatile mature of Marshall Plan era politics in Italy, I doubt if anybody could answer that sort of question.</p>
-<p>
-<hi rend="italics">Q:  Did he come frequently to Genoa?</hi>
-</p>
-<p>MASSEY:  Very frequently.</p>
-<p>
-<hi rend="italics">Q:  Was Livorno part of the consular district of Genoa?</hi>
-</p>
-<p>MASSEY:  No.</p>
-<p>
-<hi rend="italics">Q:  He was very active in Leghorn.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>MASSEY:  In Leghorn, yes.  No, the consular district of Genoa consisted of the provinces there of Laspezia, Genoa itself and over towards the French border San Remo and Savona.  Those are the areas which are known as Liguria.  Yes, he visited frequently.  He had his own agenda as far as people he would be meeting and talking to, but he was in a very friendly, almost boisterous fashion, meticulous in seeing to it that I, although a very junior officer doing political reporting, was kept informed of his feelings and findings and the people he talked to.</p>
-<p>
-<hi rend="italics">Q:  Did he use you in any way? Did he say, “While I'm gone could you look into that or this?”</hi>
-</p>
-<p>MASSEY:  Frequently.  Not quite in that manner.  Basically he would urge me to include more trade union and labor data in my fortnightly political reporting.</p>
-<p>
-<hi rend="italics">Q:  To make sure to include it?</hi>
-</p>
-<p>MASSEY:  Yes.  He always wanted for me to make sure to include it.</p>
-<p>
-<hi rend="italics">Q:  Now he had some responsibility in the Marshall Plan aid function, and he also had an Assistant Labor Attach�, Bruce Millen, whom you may know.</hi>
-</p>
-<p>MASSEY:  Yes, I remember Bruce Millen but not well.</p>
-<p>
-<hi rend="italics">Q:  Bruce is a member of this committee that is active in this study that we are doing.  What was his relation to the Marshall Plan? Was there any clear line of demarcation between the Embassy work and the Marshall Plan assistance to trade unions and labor work generally? Could you distinguish in your own mind as to who was a labor guy from the Marshall Plan labor office or from the Embassy office or was it all in one bowl under Tom Lane?</hi>
-</p>
-<p>MASSEY:  In Rome the economic section of the Embassy and the Marshall Plan were combined into a single office.</p>
-<p>
-<hi rend="italics">Q:  Oh, that's right, under Henry Tasca, I believe.</hi>
-</p>
-<p>MASSEY:  That's right.  I always thought of Tom Lane as being more politically oriented than economically or Marshall Plan oriented.  I do not recall ever any discussion with anybody from the Marshall Plan on the economic side of labor and manpower in Italy.  It was assumed that the skilled labor was there and that problems of unemployment were far more important than problems of making effective use of the manpower resources.</p>
-<pb facs="0008" n="Page0008"/>
-<p>
-<hi rend="italics">Q:  And any indication of a favoritism toward one type of manpower policy that would favor one of the politically oriented unions as against another?</hi>
-</p>
-<p>MASSEY:  Not that I was aware of.</p>
-<p>
-<hi rend="italics">Q:  You know the allegation by many people that we used Marshall Plan manpower policy to favor our own people.  I have no objection to that.</hi>
-</p>
-<p>MASSEY:  ...no quarrel with it.  But this is all in the realm of speculation.  Certainly a project where the labor force was heavily committed to the Christian Democrats would stand a better chance of being financed than one where the labor force was voting 100 percent Communist Party.  I mean, we were fighting the Communists for control of the country.</p>
-<p>
-<hi rend="italics">Q:  Well, that's one of the subjects that concerns us, the tendency to look back at the period and ascribe dire purpose to our confessed objective of helping one side in this terrible war.</hi>
-</p>
-<p>MASSEY:  Having been a soldier on various occasions, I have a peculiar notion and that is one helps one's friends and confuses one's enemies.</p>
-<p>
-<hi rend="italics">Q:  If possible.  How long were you in the Genoa district?</hi>
-</p>
-<p>MASSEY:  I was to stay there for two years, a full tour.  I was then to go to Rome for six months, however, not in a position that had anything to do with labor or labor diplomacy.  I was primarily concerned with international payments and finance and with East-West trade problems.</p>
-<p>
-<hi rend="italics">Q:  That's interesting.  But retained an interest in labor things or follow them in any way?</hi>
-</p>
-<p>MASSEY:  I would say that I tended, when it reflected directly upon my responsibilities, to maintain some interest in the labor side.  But I also tended to abandon that interest when I moved into another assignment.  And my coming back to labor is another story.</p>
-<p>
-<hi rend="italics">Q:  Then you finished a two year tour and went on to another? Or go back to Washington?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>MASSEY:  After the two year tour, I did six months in Rome and then came back to the United States but not to Washington, to Columbia University where I spent a year in German area studies—actually primarily European economic studies.</p>
-<p>
-<hi rend="italics">Q:  This would have been 1952</hi>
-</p>
-<p>MASSEY:  The academic year of 1952-53 I spent at Graduate School at Columbia University.</p>
-<p>
-<hi rend="italics">Q:  Language also?</hi>
-</p>
-<p>MASSEY:  Language also.  However, I was already moderately fluent in German as a result of World War II service.</p>
-<p>
-<hi rend="italics">Q:  Oh, you served in the European theater?</hi>
-</p>
-<p>MASSEY:  As a paratrooper intelligence sergeant.</p>
-<p>
-<hi rend="italics">Q:  By that time you had Spanish from Mexico, Italian, which you could pick up easily, and German.</hi>
-</p>
-<p>MASSEY:  And French.</p>
-<p>
-<hi rend="italics">Q:  And French by education?</hi>
-</p>
-<p>MASSEY:  By education and military service.</p>
-<p>
-<hi rend="italics">Q:  Were you in the military occupation forces immediately after World War II?</hi>
-</p>
-<p>MASSEY:  Very briefly, but in a special intelligence assignment in Berlin regarding the problems of establishing—at that time we thought we were going to establish a German Government and I was engaged primarily in identifying people and their backgrounds and that sort of thing.</p>
-<p>
-<hi rend="italics">Q:  But you did not have anything to do with the labor aspect of the occupation forces under Dave Morse, and Dave Saposs and those people?</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>MASSEY:  Not a bit.</p>
-<p>
-<hi rend="italics">Q:  Very interesting because you...</hi>
-</p>
-<p>MASSEY:  Didn't even know they existed.</p>
-<p>
-<hi rend="italics">Q:  So you spent a couple semesters at Columbia studying the economics of the area and then?</hi>
-</p>
-<p>MASSEY:  Went to Germany for three years from 1953 to 1956.</p>
-<p>
-<hi rend="italics">Q:  Did you know Paul Porter then? He was there before.  He was Economic Minister.</hi>
-</p>
-<p>MASSEY:  No.  While I was there oddly enough there was a labor connection, but I made nothing of it.  The head of the Economic Division of the Embassy, who was also head of the assistance program, was a man named Mike Harris, who came out of the labor movement and had previously served in one of the Scandinavian countries.  And during all of the time I was in Germany, the rule was that the head of the Economic Section would be either a State Department officer or a Marshall Plan officer and his deputy would be the reverse and the number three man all during this time was the Treasury Attach�.  I was assigned for those three years to the Treasury Attach�, which of course was to shape my career in the direction of finance and economics.</p>
-<p>
-<hi rend="italics">Q:  Did you get to know Mike?</hi>
-</p>
-<p>MASSEY:  Oh, very well.</p>
-<p>
-<hi rend="italics">Q:  A wonderful guy.</hi>
-</p>
-<p>MASSEY:  After a while he left and Mr. John Tuthill, later Ambassador to Brazil, replaced him as head of the section.  Tuthill himself was replaced by a man whose name I can't remember, but as I recall, it was a Greek name.</p>
-<p>
-<hi rend="italics">Q:  Well, it's interesting that you should have gotten to know Mike Harris whose name comes up frequently in this project.  He died a few years ago.  Then you served for three years in a non-labor capacity and then?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>MASSEY:  From then I was transferred after a brief period in Washington for training to Abidjan, Ivory Coast, as the American Consul where I opened the first American Consulate in the Ivory Coast and was responsible for the Ivory Coast and what was then Upper Volta, now Burkina Faso.  Theoretically because that was still a French colony I was accredited to France and my boss was the American Ambassador in Paris.  To the best of my knowledge, he was totally unaware of my existence and I did nothing whatsoever to change that situation.</p>
-<p>
-<hi rend="italics">Q:  You reported directly to Washington without going through Paris?</hi>
-</p>
-<p>MASSEY:  I reported directly to Washington with a copy to Dakar and a copy to Paris but without having to go through them and without them having any control over the content of my reporting.  In other words, I was a small, independent mission.  Three people.</p>
-<p>
-<hi rend="italics">Q:  This would have been in the early 1960s?</hi>
-</p>
-<p>MASSEY:  No, this was the late 1950s, 1957 to 1958 approximately.</p>
-<p>
-<hi rend="italics">Q:  And then? I'm getting gradually to how you got into the labor field and when I remember you first.</hi>
-</p>
-<p>MASSEY:  I then was transferred back to Washington.  My assignment was to be to the Foreign Service Institute, supposedly to teach economics.</p>
-<p>
-<hi rend="italics">Q:  By the way, did you get a graduate degree in economics at Columbia?</hi>
-</p>
-<p>MASSEY:  No, I was to get a degree in public administration from Harvard some years later.  To the best of my knowledge I have no qualifications to teach economics what-so-bloody-ever.  Now among the responsibilities of that particular job in the Foreign Service Institute was the running of a seminar on international labor affairs, which was given, as I recall, approximately four times a year.  The running of the seminar meant recruiting speakers, arranging timing, and because I had had this rather minimum contact with labor before, I found this by far the most interesting part of my work at the Foreign Service Institute.</p>
-<p>
-<hi rend="italics">Q:  I think that's where we first met.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>MASSEY:  I think so, exactly.  And at that time I got to know a number of people in the Bureau of International Labor Affairs—a Mr. Arnold Steinbach, Dan Lazorchek, Murray Weisz, and various people.</p>
-<p>
-<hi rend="italics">Q:  Jim Taylor?</hi>
-</p>
-<p>MASSEY:  Jim Taylor</p>
-<p>
-<hi rend="italics">Q:  A voice of continuity in all this period and we lost him last year.</hi>
-</p>
-<p>MASSEY:  Again, I'm sorry to hear it.  We're losing...  It's always the wrong ones.</p>
-<p>
-<hi rend="italics">Q:  That's right.  Steinbach was a person who had quite a background.</hi>
-</p>
-<p>MASSEY:  This also brought me in contact, of course, with various members of the American labor movement, particularly what was already the American Institute for Free Labor Development, although I can't say that I fully understood what it was doing and of course I was to see them again later after my service in Central America.I was not very long at the Foreign Service Institute because in 1960 I managed to wangle my name onto a fellowship list to attend the Littauer School at Harvard.  The semester of 1960 to 1961 I went to Harvard and studied the various aspects of public administration.  However, the experience at the Institute in the seminar had piqued my interest in labor affairs, but on the economic side.  And of the two papers that I wrote at Harvard, one was a paper on attempting to predict labor force trends in the countries of the European Common Market over the next ten years.  This was a fairly simple task when you think about it and my predictions were fairly accurate in such areas as increased employment of women and shifting from manufacturing into service industries.  These are the things which by that time were already easily predictable.</p>
-<p>
-<hi rend="italics">Q:  Let me ask you, if you can, to identify where a student who will be using the materials in this project would find that.  It was a report to the State Department?</hi>
-</p>
-<p>MASSEY:  Yes, the State Department collected all of the papers written by the various students they sponsored at various universities.  Somewhere in the archives of the State Department is a copy of that paper.</p>
-<p>
-<hi rend="italics">Q:  Other than your name, it would be identified by a title that you could repeat possibly?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>MASSEY:  I think the title was “Labor Force Trends in the Countries of the European Common Market.”</p>
-<p>
-<hi rend="italics">Q:  Okay, that will identify it.  Now then, you come back and is that when you transferred to Labor or were seconded to Labor?</hi>
-</p>
-<p>MASSEY:  Yes, I came back and I was going through a personal personnel crisis.  I felt that my advancement had been slow and that my advancement for various reasons, some of them my own fault—many of them—I could not expect rapid further advancement in the Department of State.  I had a number of discussions with the Department of Labor and with the Department of State.  The offer that was made to me by the Department of State and the Department of Labor jointly was that, if I waited until the next promotion board, which would have been in the fall, and I were promoted, I would stay in the Department of State, and if I were not promoted, the Department of Labor would be happy to employ me.  I felt that this was a cop-out compromise.  The Department of Labor, including people whose names we have just mentioned—Jim Taylor, Dan Lazorchek very much so, and Arnold Steinbach—said that if I wanted to make a clean break, they would not only have a job for me, I would have a promotion and the assignment would be interesting.  Thereupon I retired, or rather resigned as a Foreign Service Officer, and became a civil servant in the Department of Labor.</p>
-<p>
-<hi rend="italics">Q:  The Labor Department was very much outraged that the fact that people who had indicated an interest in labor were discriminated against because of that.  That is they were not among the very rapidly advanced groups.  It was looked upon as a side interest, “What the hell is this guy doing in the labor field? We got big business to do and this is...”</hi>
-</p>
-<p>MASSEY:  Oddly enough, among the young men who were members of a special training group that I ran at the Foreign Service Institute—I have their names on a silver plate here somewhere—a couple of them became very successful thereafter, and those people assigned to the Foreign Service Institute for training—there were two long programs—were very well qualified and well selected persons.  They sent me some very good people, so I can't complain about that.  But I agree their success was in spite of their having received labor training rather than because of it.</p>
-<p>
-<hi rend="italics">Q:  Any names come to mind?</hi>
-</p>
-<p>MASSEY:  Ernie Nagy.  I am reading from a small silver card dish which was given to me in August of 1960 by four trainees in labor affairs at the Foreign Service Institute.  It gives only first names and it says, “Parke from Harold, Steve, Ernie and Sam.” Harold Aisley...</p>
-<p>
-<pb facs="0014" n="Page0014"/>
-<hi rend="italics">Q:  The reason I remember these is they were students of ours at American University assigned to the FSI for some special...  We had a whole lot to do with one another.  Ernie was Ernie Nagy.</hi>
-</p>
-<p>MASSEY:  Steve was Steve Low and Sam was Sam Janney, who left the Service not long thereafter.  Incidentally, you're right, the Foreign Service Institute did work with American University on a labor program where the two most important figures were Phil Kaiser and Ben Stephansky.</p>
-<p>
-<hi rend="italics">Q:  With all due respect to Ben Stephansky, let me tell you that it was I who took Phil's place when he became an ambassador because Ben became an ambassador under Kennedy also, so that left it to me to take his place.</hi>
-</p>
-<p>MASSEY:  When I went to the Department of Labor I was assigned to a unit that was headed by Arnold Steinbach.  This unit was essentially a biographic and organizational register.  It was essentially the creation of Arnold Steinbach, who believed that all forms of labor reporting had to be based on maximum knowledge of organizational and individual relationships and interrelationships.</p>
-<p>
-<hi rend="italics">Q:  It was what he called, “The International Trade Union Directory.” A fascinating document.</hi>
-</p>
-<p>MASSEY:  I understand that part of the funding for this project came from the Central Intelligence Agency as a research project.  If so, it was one of the few intelligent uses of CIA moneys that I can recall.</p>
-<p>
-<hi rend="italics">Q:  Well, with all due respect, these things come out occasionally in these interviews and otherwise, and we find that some of the best things done by the CIA—the worst things come out in some other way.  But some of the best things you get in interviews such as this where you find out—I had a few experiences like that in Paris, where I had people on my staff, in the Marshall Plan,—and I found out later that the funds...  I didn't know where the funds came from, it came from the CIA.  All credit to them for that.</hi>
-</p>
-<p>MASSEY:  From my own experience as a young intelligence sergeant, and later an intelligence officer in places, my own belief is that good intelligence must be based on good research, and everything else is a bloody waste of time.</p>
-<p>
-<hi rend="italics">Q:  Your friend in Italy, Tom Lane, would have disagreed with that.  He had other functions to be performed.  Well, then you were really working as a civil servant.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>MASSEY:  That's right, no longer as a Foreign Service Officer.</p>
-<p>
-<hi rend="italics">Q:  ...in the project of Arnold Steinbach, which became so important later on in its results.  You stayed there?</hi>
-</p>
-<p>MASSEY:  I stayed there less than two years.  The Agency for International Development came to me and asked if I wanted to go to the Agency in a financial position in the Office of Development Finance.  This was frankly much closer to my heart's desire than the research on the trade union movement in Steinbach's office, plus it carried with it a promotion and it carried with it a promise to leave the Civil Service and go back into the Foreign Service, in this case the Foreign Service of AID.  It was to take me a couple of years to achieve that and get overseas again, but that is what actually happened.  So I went to AID as a development finance officer reviewing loans, grants, guarantees, both of the United States, the international banks, Treasury, Agriculture, and so on.  My work really stopped having very much to do with labor.  After all, I was reading and doing financial analysis of literally hundreds of projects a year all over the world and in different agencies.</p>
-<p>
-<hi rend="italics">Q:  Was there ever any labor facet to the loan applications such as there is or is not skilled labor that would take advantage of this? Did you feel as though your background contributed toward an understanding of the viability of a loan proposal?</hi>
-</p>
-<p>MASSEY:  That is exactly the point I've made at the start of this meeting.  Murray, I would say that, disregarding even the trade union aspect, but the manpower aspect of project development and project analysis tended to be neglected.  The questions regarding where are you going to find the skilled, unskilled, and managerial manpower necessary to carry out this project was a question that was either not asked or asked in a very perfunctory way.  I would look for it very briefly in paper after paper; I would seldom find it.  I feel that this is a perfect example of what I said before.  Lip service was given to problems of labor, but actual incorporation of a labor factor in decision making was not happening.  Someone should have had to report in each of those papers exactly what are the manpower problems one might expect to encounter and how do you plan on dealing with them.  That seldom, if ever, happened.</p>
-<p>
-<hi rend="italics">Q:  Did you ever have to reject a project because you didn't have sufficient knowledge as to how manpower factors would affect adversely or enhance the possibility of achieving a result?</hi>
-</p>
-<p>MASSEY:  It would have been outside my area of jurisprudence.  I other words, my job...</p>
-<p>(End of tape one, side A)</p>
-<pb facs="0016" n="Page0016"/>
-<p>I must confess that theoretically I should have taken into account the manpower aspect when I was looking at the financial numbers.  I should have said, “Hey, wait a minute, your output isn't going to be achieved without this sort of thing.” I must confess that I did not tend to do that.  I tended to dodge that responsibility, and I regret it, but there are limits to what one human being can do.</p>
-<p>
-<hi rend="italics">Q:  Believe me, your reaction was not an exceptional one, especially with the political pressures on getting the thing actively done.  Well, you had then a number of AID assignments, if you want to mention those before I go into some specific questions that I have on my outline.  You went out first after some training in Washington?</hi>
-</p>
-<p>MASSEY:  In Washington I had two basic assignments.  One was the development finance assignment.  I later, with reference to the Vietnamese war, noticed the high level of corruption and also noticed the obvious fact that if you are fighting a guerrilla enemy—and remember I had been a soldier—who lives off of an economy as a guerrilla, and you are the principal supplier of that economy, you of necessity are the basic supplier of your enemy.  I therefore brought this to the attention of my superiors, and because I was stupid enough to write the memo, was assigned to do something about it.  And I spent approximately the next two years traveling back and forth between Washington and Vietnam dealing with the problem of the diversion of our supplies to the enemy.  Finally, I noticed that much of this was again involved with how the financing was taking place, and I came to the conclusion that we were not only supplying our enemy, we were financing our enemy through a network of international banking institutions.  And I did that until 1967 at which time a promise that had been made to me before, that I could transfer to the Foreign Service, was complied with.  I transferred to the Foreign Service and went as a capital development officer to Managua, Nicaragua; later to Panama, again as a capital development officer, as essentially a projects development and financial officer; then as Deputy Director and Acting Director in Bolivia.</p>
-<p>
-<hi rend="italics">Q:  Of the AID Mission?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>MASSEY:  ...of the AID Mission; Deputy Director and Acting Director of the AID Mission in Chile:  a similar position in Haiti, a very frustrating period because of the fact that Haiti is impossible to do any good for; and finally I was made Mission Director of the United States AID Mission to Uruguay, which I ultimately closed out, which I think was a mistake, but at the time seemed like a good idea because our assistance was not really helping the Uruguayans in solving their economic problems.  During all of this time, I saw little or nothing of an interest in either trade unions or labor or manpower in any of those missions in which I served.  I did not take into much account labor and manpower concerns, although I was in the top management of the missions that were involved.  I don't know why that was.  It may have been that the concerns tended to move in other ways, or in some cases the trade union movements in many of these countries were so fragile and the understanding of manpower problems within my own mission so weak as to tend to let them be pushed aside.  But labor and manpower were not really terribly important in those missions.</p>
-<p>
-<hi rend="italics">Q:  Relations with AIFLD (American Institute for Free Labor Development) at all?</hi>
-</p>
-<p>MASSEY:  Yes, but the relations with the AIFLD were primarily on a friendly, cooperative basis.  Where they had a program, we were delighted to fund it.  Despite what I have said about the lack of interest in Washington in a coherent labor diplomacy, an AIFLD project always got a good reception in Washington, and people liked you to send them up because, of course, the American labor movement was a strong supporter of the Agency for International Development, and where we could use them effectively, and they were effective, we did so.  However, it was hard sometimes to work them into either health programs or educational programs and so on.</p>
-<p>
-<hi rend="italics">Q:  I have a series of questions.  Oh, I've got to get to your retirement.  Yes, go ahead.</hi>
-</p>
-<p>MASSEY:  At the end of 1979 I retired.  After some short period of extreme boredom, I sought work consulting.  I started consulting on various economic problems in Africa, mostly the management of projects.  And then during the period of the middle 1980s until about 1988, I was in Central America where I was primarily an adviser on the economics and logistics of guerrilla warfare.  This was very interesting, very exciting, but once again without anything that one would call a labor diplomacy input, although in several of the countries there were labor offices, and again I ran into the AIFLD, because I did attempt to advise and wrote a paper on legal reform in El Salvador which was related to the murder of the Agrarian reform workers supplied by the AIFLD to El Salvador.  It was at that time I was to see again various people—one man with an Armenian name, a great giant of a man, who I think may have been AIFLD.  I feel that the American labor movement felt a little betrayed by the fact that once again there was a lot of lip service, but a very tough pursuit of the murderers of American trade unionists in El Salvador was not followed through.</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q:  There was quite a bit of bitterness about that.</hi>
-</p>
-<p>MASSEY:  I would have been bitter too.  All right, I think that completes my career.</p>
-<p>
-<hi rend="italics">Q:  You retired in 1979 and after that you did some consulting work...</hi>
-</p>
-<p>MASSEY:  Until 1988.</p>
-<p>
-<hi rend="italics">Q:  That by a curious coincidence is when I stopped consulting at the FSI.  Some specific questions.  One of the issues you took care of very well and that is to emphasize that you're not discussing what should have been done, but rather actually what was done, or what was not done.  Any comments on the Cold War, McCarthyism, civil rights studies, the impact on you of that? Did you have any trouble in the McCarthyism period?</hi>
-</p>
-<p>MASSEY:  I had no personal trouble.  However, I am a maverick, and my reaction when the Cohn and Schine group came through Europe was to say, “Keep those two pansies away from me or I'm going to ask them who buggers whom.” They stayed away.  My attitude toward McCarthyism was, this man was a drunken homosexual, well known to be so by the entire Washington press and nobody said a word about it.  The most cowardly period in American history.</p>
-<p>
-<hi rend="italics">Q:  I have just finished an article sent in to a magazine on the subject of “Could McCarthy have been a KGB Agent?”</hi>
-</p>
-<p>MASSEY:  No, he was not a KGB agent.  The KGB did not recruit drunken queers.</p>
-<p>
-<hi rend="italics">Q:  Well now, wait a minute.  I raise it as a humorous one, but then go into the subject of how his work helped the Communist cause in effect by surrounding true Communists with protective shields.  But don't say that the KGB doesn't hire homosexuals.</hi>
-</p>
-<p>MASSEY:  Come to think of it, it did.  Kim Philby comes to mind immediately.</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q:  My article refers to that whole group from Cambridge University who were recruited and a sword of Damocles was held over their heads.  A fascinating period of our history, but your reaction is a very interesting one.  But you had no personal trouble.  By the way, you remember the Cohn and Schine business.  He was the son of some real estate mogul down here in Florida.  Was he S-c-h-e-i-n or i-n-e?</hi>
-</p>
-<p>MASSEY:  S-h-i-n-e.  I do not believe there was a “c” in it.  His mother, I believe, still lives over here just off the intercoastal waterway, if she is still alive.</p>
-<p>
-<hi rend="italics">Q:  The whole period, the idea that I mention in my article...the idea that these guys were going through the libraries of the USIA trying to find books...  I mention the fact that some German humorist said that maybe they could dig up some Nazi who is still around who could give them some technical advice on how to burn books, because essentially that's what they were doing, and the whole effort of ours in that period was directed in a way to make us seem either ridiculous, or viciously...</hi>
-</p>
-<p>MASSEY:  I do not believe that it affected this basic problem that we have discussed regarding labor diplomacy.  The problem of the Eastern Establishment towards the trade union movement and manpower problems in our programs was not one of enmity based on the fact they're a bunch of Commies, it is based on indifference and a lack of understanding.</p>
-<p>
-<hi rend="italics">Q:  You've covered most of these things as I look at our outline.  Do you have any insight into how fellow officers, other than yourself, viewed the labor officer and his activities.  From what you've said so far, it seems that they thought of themselves as separate from it.  Not against it, but separate from it.</hi>
-</p>
-<p>MASSEY:  It was a combination of indifference and separateness, yes.  It was not a part of their job.</p>
-<p>
-<hi rend="italics">Q:  But it was not any calculated hostility?</hi>
-</p>
-<p>MASSEY:  Not at all.</p>
-<p>
-<hi rend="italics">Q:  Family involved in any way, not in your labor work obviously.  You had children?</hi>
-</p>
-<p>MASSEY:  Yes, one.</p>
-<p>
-<pb facs="0020" n="Page0020"/>
-<hi rend="italics">Q:  The human rights situation, any work in that area?</hi>
-</p>
-<p>MASSEY:  Very little.  We had to certify in projects towards the end of my AID career as to human rights conditions as part of a project.  That became most important for me in Chile and in Uruguay, both of which had severe human rights problems.  But the human rights problems were that basically we could not justify new major assistance to Chile under the conditions of the Pinochet dictatorship.</p>
-<p>
-<hi rend="italics">Q:  The relations between State and the Labor Departments, you've covered that pretty well.</hi>
-</p>
-<p>MASSEY:  The only thing I would say about this is that this was also tangled up with something that happened in 1954, the famous Wristonization Program, which I think in some cases may have created some minor friction between old-line Foreign Service Officers and Labor Officers who entered laterally.</p>
-<p>
-<hi rend="italics">Q:  The role of the CIA, the role of USIA, any comments on that?</hi>
-</p>
-<p>MASSEY:  No, no more than what I've already commented on.</p>
-<p>
-<hi rend="italics">Q:  Individual Congress or Congressional visits, any experiences?</hi>
-</p>
-<p>MASSEY:  The Congressional visits to the missions I served in, and particularly that I was senior in, almost never had a labor or trade union interest.  Frequently they would be a commercial, agricultural, special economic interest by the Congressional delegation, sometimes simple oversight.</p>
-<p>
-<hi rend="italics">Q:  Any comments on the attempts, or lack of attempts, of the AFL, the CIO, or the AFL-CIO on the designation or assignment of labor officers?</hi>
-</p>
-<p>MASSEY:  I always assumed that the assignment of Labor Officers was cleared with those organizations.  An Agricultural Officer is cleared with the Department of Agriculture.</p>
-<p>
-<hi rend="italics">Q:  With the Department of Agriculture, the parallel doesn't exist there.  It's an outside organization.  But you had no experience, like some of the people did, in which one union or another favored or opposed their appointment.  That didn't affect you as a regular...</hi>
-</p>
-<p>MASSEY:  Never bothered me; I never even encountered it.</p>
-<pb facs="0021" n="Page0021"/>
-<p>
-<hi rend="italics">Q:  Parke, I think we're within the 15 minutes when you have to take your medication.  I don't want to end this interview without saying how grateful I am to have you agree to an interview of this sort the day after you get out of the hospital, and I'm happy to see you've done well enough so you can participate in it.  But thank you very, very much, and we'll send you a copy of the document to go over if you wish, and amend or add in any way you want to correct, and we will ask you to sign the release so that students can feel free to use your material.  And if you find anything in your records that you think might add, if you'll lend it to us, we'll copy it and put it with the material.  And it's wonderful to see you after all these years.</hi>
-</p>
-<p>MASSEY:  It is great.  I just want to say that part of the gratitude is mine.  You have given me a chance to be one tiny little speck of dust in posterity.</p>
-<p>
-<hi rend="italics">Q:  Well, thanks.  So far in each of the interviews I have found that the people—you know we're grateful for their help and all that—but they also enjoy thinking back on what they did.  Okay, thank you very much, and thank you on behalf of all the students in the future at the Meany Institute, at the Walter Reuther Archives, and at the Georgetown University Diplomatic Library.  Thanks from them to you.  Thanks.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project Labor Series</p>
+                <p>PARKE D. MASSEY</p>
+                <p>Interviewed by: Morris Weisz </p>
+                <p>Initial interview date: March 19, 1992</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: We are sitting in the pleasant home of Mr. and Mrs. Parke
+                        D. Massey where Parke will be interviewed on the subject of “Labor Diplomacy
+                        in the Foreign Service” and I'll let him now begin.</hi>
+                </p>
+                <p>MASSEY: Anything I say to you today, Murray, will tend to reflect a basic theme.
+                    That theme is, that despite a great deal of lip service toward labor diplomacy
+                    over the years of the Marshall Plan and the developing country programs, that
+                    was lip service. Labor was not fully incorporated into the foreign policy
+                    decisions and actions of the United States foreign policy; neither in terms of
+                    its economic impact—manpower, manpower training, manpower available—or in terms
+                    of its political impact in the role of trade unions and other labor
+                    organizations in political development in the various countries in which I
+                    served. I arrived at that conclusion as a result of service that touched upon
+                    labor affairs in the Department of State as a Foreign Service Officer, as a
+                    civil servant in the Bureau of International Labor Affairs in the Department of
+                    Labor, and as an officer of the Agency for International Development where I
+                    served both in Washington and in the field, ending my career as a Director of an
+                    AID mission.</p>
+                <p>
+                    <hi rend="italics">Q: What was your background before you came into the Foreign
+                        Service?</hi>
+                </p>
+                <p>MASSEY: I had had no contact with labor. I had been a soldier. I came out and
+                    under the G.I. Bill of Rights completed my undergraduate work at Haverford
+                    College.</p>
+                <p>
+                    <hi rend="italics">Q: Major?</hi>
+                </p>
+                <p>MASSEY: It was government—political science. I took the written exams for the
+                    Foreign Service and passed them and the orals and entered the Foreign Service of
+                    the United States in September of 1947.</p>
+                <p>
+                    <hi rend="italics">Q: Who was President of Haverford at the time?</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>MASSEY: The President of Haverford was a man named Gilbert White.</p>
+                <p>
+                    <hi rend="italics">Q: Did he in anyway influence...because Haverford is small
+                        enough to have a direct association with its students. Did he have any
+                        influence in your decision to enter the Foreign Service?</hi>
+                </p>
+                <p>MASSEY: No, I had wanted to enter the Foreign Service since before World War II.
+                    I'd always wanted to be a Foreign Service Officer.</p>
+                <p>
+                    <hi rend="italics">Q: So this was no special individual influence upon you as
+                        much as your own background?</hi>
+                </p>
+                <p>MASSEY: No, my own background and desires.</p>
+                <p>
+                    <hi rend="italics">Q: ...to enter the Foreign Service.</hi>
+                </p>
+                <p>MASSEY: ...to enter the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: You entered the Foreign Service and your first
+                        posting?</hi>
+                </p>
+                <p>MASSEY: My first posting was Mexico City, where I served in the economics
+                    section, commercial, consular, and political, because Mexico City at that time
+                    was used very much as a post to rotate young officers to the various aspects of
+                    the embassy's work.</p>
+                <p>
+                    <hi rend="italics">Q: So you had a broad experience within the first posting in
+                        Mexico City?</hi>
+                </p>
+                <p>MASSEY: Very broad.</p>
+                <p>
+                    <hi rend="italics">Q: That would have been when?</hi>
+                </p>
+                <p>MASSEY: That would have been from 1947 to 1950. It was there that I first
+                    encountered labor diplomacy in the person of a man named Smith Simpson.</p>
+                <p>
+                    <hi rend="italics">Q: ...to whom I just spoke over the telephone the other day
+                        by the way. He's going to be giving us an interview shortly?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>MASSEY: Smith Simpson was assigned as Labor Attach�, and, of course, in Mexico
+                    the trade union movement was extremely important because the official majority
+                    party was a three-legged stool, based essentially on the support of the trade
+                    unions, the military, and the bureaucrats and career politicians. This was known
+                    as the Partido Revolucionario Institucional and these were the three elements
+                    that supported it. I felt that Smith Simpson's work was obviously necessary; it
+                    was one-third of the political power of the country, and yet I did not have the
+                    feeling, at that time, that he was very much heeded. He wrote reports, and they
+                    were sent off and disappeared into nowhere. Certainly when I was in the
+                    political section, I never recall at a staff meeting with the Ambassador any
+                    extensive discussions of important developments and changes in the trade union
+                    movement as they affected the political development of the country.</p>
+                <p>
+                    <hi rend="italics">Q: The Ambassador at the time?</hi>
+                </p>
+                <p>MASSEY: Walter Thurston, a career ambassador with many years experience.</p>
+                <p>
+                    <hi rend="italics">Q: That was before the days of a Labor Attach� named Ben
+                        Stephansky, who later became an ambassador also?</hi>
+                </p>
+                <p>MASSEY: Yes, that was before Ben Stephansky.</p>
+                <p>
+                    <hi rend="italics">Q: Did you know him?</hi>
+                </p>
+                <p>MASSEY: I knew Ben Stephansky later in various capacities, mostly in Latin
+                    America. In fact, I knew him when he was an ambassador at one post. One thing
+                    sticks in my mind as to why there was any interest at all in labor. At that time
+                    apparently people remembered that in 1945 when Clement Attlee defeated Winston
+                    Churchill, the American Embassy in London had no contacts whatsoever with the
+                    Labor Party or the labor movement in England which was taking over power with
+                    the single exception of the Labor Attach�, whose name at the time, I believe,
+                    was Sam Berger.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: But he was not the Labor Attach�. It's almost by accident
+                        that that happened. He was an assistant to Harriman, who was the Lend Lease
+                        Administrator, and just happened to be there but had a background at the
+                        University of Wisconsin in labor studies with Commons. So it was fortuitous
+                        that that happened, and you're about the third or fourth person, including a
+                        couple who served in Latin America, who might not have been expected to know
+                        about that happenstance, John Fishburn being one, Dan Horowitz another, who
+                        point to this instance, and who also identify Sam as the Labor Attach�,
+                        which he was not at that time. It's curious. It was very important at that
+                        time. He later, of course, had a wonderful career. Now that was your
+                        experience in Mexico, and you felt there was sort of a blank there that
+                        could have been attributed to what? Foreign policy generally, the Ambassador
+                        or the lack of specific attention to labor, and its importance by the Labor
+                        Attach�? I know you don't want to criticize Smith or anything like
+                        that...and by the way, he became very interested in precisely the direction
+                        you're pointing to later on in his career, and when I spoke to him about
+                        filing a statement with us, he made the point that he wanted that indicated.
+                        Very interesting.</hi>
+                </p>
+                <p>MASSEY: The fault was not that of the Labor Attach�, who was extremely hard
+                    working, and extraordinarily knowledgeable. I think this reflected an attitude
+                    that permeated the Department of State. We sometimes pejoratively speak of the
+                    Department of State as, you know, Eastern Establishment WASPs (White Anglo Saxon
+                    Protestants). I can't imagine a more Eastern Establishment WASP than Smith
+                    Simpson, but that's all right. And I think that is the reason...the reason the
+                    Ambassador was indifferent. He understood intellectually, but did not understand
+                    emotionally. In Washington on the Mexican Desk, they may have understood
+                    intellectually but did not understand emotionally. After all, they had assigned
+                    a talented officer to the job, who was very good at doing the job. They just
+                    didn't pay much attention to him.</p>
+                <p>
+                    <hi rend="italics">Q: Could you reflect for a minute on the possibility that
+                        that lack of interest by the Mexican Desk might have been due to the fact
+                        that a policy decision was made to have a labor office in a separate
+                        division of the State Department, rather than having it built into the
+                        geographic bureaus. You know, the labor interest was reflected at that time
+                        by a central office called, I think, ILH—International Labor and Health,
+                        under very good people, Otis Mulliken, Tobin, Horowitz himself, and those
+                        people, but it was separate from the operating geographic bureaus. And
+                        should we learn from that that there's more of a necessity to have the
+                        geographic bureaus?</hi>
+                </p>
+                <p>MASSEY: I was not at that time, as a young officer, sufficiently familiar with
+                    the organization of the Department, or the importance of organizational
+                    placements. What you suggest is a possibility, but I think the problem is an
+                    attitude rather than an administrative or organizational problem.</p>
+                <p>
+                    <pb facs="0005" n="Page0005"/>
+                    <hi rend="italics">Q: And this is an attitude shared by some very good people,
+                        but Eastern Establishment, Acheson himself, and those people. You served
+                        there then for three years with a growing interest in labor at that time, or
+                        was this a conclusion you arrived at after?</hi>
+                </p>
+                <p>MASSEY: No, I had no growing interest in labor. At that particular time, I left
+                    that up to Smith. We talked about it at length, but I did not include any
+                    reference to labor affairs or labor matters in my own political reporting. I was
+                    not terribly interested.</p>
+                <p>
+                    <hi rend="italics">Q: That's interesting in light of what happened later. It's
+                        very interesting. You finished that then after three years. It was sort of a
+                        training assignment in which you got a broad view, and I see that Mexico,
+                        with its large Embassy, was used for that purpose as, later on in my career,
+                        New Delhi was. It was a training post with a very large staff, and we had
+                        young people coming in and serving a few months in different capacities. You
+                        came back to Washington then?</hi>
+                </p>
+                <p>MASSEY: No, I was transferred to Genoa, Italy</p>
+                <p>
+                    <hi rend="italics">Q: Oh, really. Now there you saw some labor.</hi>
+                </p>
+                <p>MASSEY: There the situation was quite different. I was in the Consulate General
+                    in Genoa as economic and political reporting officer...(Tape recorder turned
+                    off.)</p>
+                <p>
+                    <hi rend="italics">Q: Okay, Parke, can we continue?</hi>
+                </p>
+                <p>MASSEY: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: You came to Genoa.</hi>
+                </p>
+                <p>MASSEY: Right, as economic and political reporting officer. I wrote a political
+                    report every two weeks. This industrial area along the Genovese coast was of
+                    great political importance to us. It had a communist mayor, who was very
+                    effective. And, of course, the three great contending parties in Italy at that
+                    time each was associated with a trade union movement. The Christian Democrats
+                    had a trade union movement as did the Communists.</p>
+                <p>
+                    <hi rend="italics">Q: CGIL and UIL?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>MASSEY: CISL. Although I followed as best I could the trade union part of the
+                    political activity, it was in some measure not my primary concern because, if I
+                    remember the name right, Tom Lane in Rome was essentially responsible for this
+                    coverage, the importance of the trade unions in the political activity. I would
+                    say that in Italy the attempt to make the labor diplomacy a more coherent part
+                    of our foreign policy was more successful than any other place that I knew of.
+                    It may have been in other parts of Europe, in other parts of the Marshall Plan,
+                    I do not know. Lane was hard working, hail fellow well met, knew everybody on
+                    God's green earth.</p>
+                <p>
+                    <hi rend="italics">Q: Including all the political groupings or just...</hi>
+                </p>
+                <p>MASSEY: I think he knew the labor people far better than he knew the political
+                    people.</p>
+                <p>
+                    <hi rend="italics">Q: But even the labor people on different sides like the
+                        Communists?</hi>
+                </p>
+                <p>MASSEY: Absolutely, he knew them. He frequently would talk about those in the
+                    labor movement who had a tendency to shift their allegiances back and forth. Now
+                    then, he gave every impression to me of a very wide personal acquaintance with
+                    the people of the labor movement and their attitudes in Italy. How well he was
+                    able to judge their impact, their influence on their parties, the influence on
+                    the workers, how often a worker voted the party that was associated with his
+                    trade union, I never heard him mention. And I would doubt if given the highly
+                    volatile mature of Marshall Plan era politics in Italy, I doubt if anybody could
+                    answer that sort of question.</p>
+                <p>
+                    <hi rend="italics">Q: Did he come frequently to Genoa?</hi>
+                </p>
+                <p>MASSEY: Very frequently.</p>
+                <p>
+                    <hi rend="italics">Q: Was Livorno part of the consular district of Genoa?</hi>
+                </p>
+                <p>MASSEY: No.</p>
+                <p>
+                    <hi rend="italics">Q: He was very active in Leghorn.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>MASSEY: In Leghorn, yes. No, the consular district of Genoa consisted of the
+                    provinces there of Laspezia, Genoa itself and over towards the French border San
+                    Remo and Savona. Those are the areas which are known as Liguria. Yes, he visited
+                    frequently. He had his own agenda as far as people he would be meeting and
+                    talking to, but he was in a very friendly, almost boisterous fashion, meticulous
+                    in seeing to it that I, although a very junior officer doing political
+                    reporting, was kept informed of his feelings and findings and the people he
+                    talked to.</p>
+                <p>
+                    <hi rend="italics">Q: Did he use you in any way? Did he say, “While I'm gone
+                        could you look into that or this?”</hi>
+                </p>
+                <p>MASSEY: Frequently. Not quite in that manner. Basically he would urge me to
+                    include more trade union and labor data in my fortnightly political
+                    reporting.</p>
+                <p>
+                    <hi rend="italics">Q: To make sure to include it?</hi>
+                </p>
+                <p>MASSEY: Yes. He always wanted for me to make sure to include it.</p>
+                <p>
+                    <hi rend="italics">Q: Now he had some responsibility in the Marshall Plan aid
+                        function, and he also had an Assistant Labor Attach�, Bruce Millen, whom you
+                        may know.</hi>
+                </p>
+                <p>MASSEY: Yes, I remember Bruce Millen but not well.</p>
+                <p>
+                    <hi rend="italics">Q: Bruce is a member of this committee that is active in this
+                        study that we are doing. What was his relation to the Marshall Plan? Was
+                        there any clear line of demarcation between the Embassy work and the
+                        Marshall Plan assistance to trade unions and labor work generally? Could you
+                        distinguish in your own mind as to who was a labor guy from the Marshall
+                        Plan labor office or from the Embassy office or was it all in one bowl under
+                        Tom Lane?</hi>
+                </p>
+                <p>MASSEY: In Rome the economic section of the Embassy and the Marshall Plan were
+                    combined into a single office.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, that's right, under Henry Tasca, I believe.</hi>
+                </p>
+                <p>MASSEY: That's right. I always thought of Tom Lane as being more politically
+                    oriented than economically or Marshall Plan oriented. I do not recall ever any
+                    discussion with anybody from the Marshall Plan on the economic side of labor and
+                    manpower in Italy. It was assumed that the skilled labor was there and that
+                    problems of unemployment were far more important than problems of making
+                    effective use of the manpower resources.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>
+                    <hi rend="italics">Q: And any indication of a favoritism toward one type of
+                        manpower policy that would favor one of the politically oriented unions as
+                        against another?</hi>
+                </p>
+                <p>MASSEY: Not that I was aware of.</p>
+                <p>
+                    <hi rend="italics">Q: You know the allegation by many people that we used
+                        Marshall Plan manpower policy to favor our own people. I have no objection
+                        to that.</hi>
+                </p>
+                <p>MASSEY: ...no quarrel with it. But this is all in the realm of speculation.
+                    Certainly a project where the labor force was heavily committed to the Christian
+                    Democrats would stand a better chance of being financed than one where the labor
+                    force was voting 100 percent Communist Party. I mean, we were fighting the
+                    Communists for control of the country.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's one of the subjects that concerns us, the
+                        tendency to look back at the period and ascribe dire purpose to our
+                        confessed objective of helping one side in this terrible war.</hi>
+                </p>
+                <p>MASSEY: Having been a soldier on various occasions, I have a peculiar notion and
+                    that is one helps one's friends and confuses one's enemies.</p>
+                <p>
+                    <hi rend="italics">Q: If possible. How long were you in the Genoa district?</hi>
+                </p>
+                <p>MASSEY: I was to stay there for two years, a full tour. I was then to go to Rome
+                    for six months, however, not in a position that had anything to do with labor or
+                    labor diplomacy. I was primarily concerned with international payments and
+                    finance and with East-West trade problems.</p>
+                <p>
+                    <hi rend="italics">Q: That's interesting. But retained an interest in labor
+                        things or follow them in any way?</hi>
+                </p>
+                <p>MASSEY: I would say that I tended, when it reflected directly upon my
+                    responsibilities, to maintain some interest in the labor side. But I also tended
+                    to abandon that interest when I moved into another assignment. And my coming
+                    back to labor is another story.</p>
+                <p>
+                    <hi rend="italics">Q: Then you finished a two year tour and went on to another?
+                        Or go back to Washington?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>MASSEY: After the two year tour, I did six months in Rome and then came back to
+                    the United States but not to Washington, to Columbia University where I spent a
+                    year in German area studies—actually primarily European economic studies.</p>
+                <p>
+                    <hi rend="italics">Q: This would have been 1952</hi>
+                </p>
+                <p>MASSEY: The academic year of 1952-53 I spent at Graduate School at Columbia
+                    University.</p>
+                <p>
+                    <hi rend="italics">Q: Language also?</hi>
+                </p>
+                <p>MASSEY: Language also. However, I was already moderately fluent in German as a
+                    result of World War II service.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, you served in the European theater?</hi>
+                </p>
+                <p>MASSEY: As a paratrooper intelligence sergeant.</p>
+                <p>
+                    <hi rend="italics">Q: By that time you had Spanish from Mexico, Italian, which
+                        you could pick up easily, and German.</hi>
+                </p>
+                <p>MASSEY: And French.</p>
+                <p>
+                    <hi rend="italics">Q: And French by education?</hi>
+                </p>
+                <p>MASSEY: By education and military service.</p>
+                <p>
+                    <hi rend="italics">Q: Were you in the military occupation forces immediately
+                        after World War II?</hi>
+                </p>
+                <p>MASSEY: Very briefly, but in a special intelligence assignment in Berlin
+                    regarding the problems of establishing—at that time we thought we were going to
+                    establish a German Government and I was engaged primarily in identifying people
+                    and their backgrounds and that sort of thing.</p>
+                <p>
+                    <hi rend="italics">Q: But you did not have anything to do with the labor aspect
+                        of the occupation forces under Dave Morse, and Dave Saposs and those
+                        people?</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>MASSEY: Not a bit.</p>
+                <p>
+                    <hi rend="italics">Q: Very interesting because you...</hi>
+                </p>
+                <p>MASSEY: Didn't even know they existed.</p>
+                <p>
+                    <hi rend="italics">Q: So you spent a couple semesters at Columbia studying the
+                        economics of the area and then?</hi>
+                </p>
+                <p>MASSEY: Went to Germany for three years from 1953 to 1956.</p>
+                <p>
+                    <hi rend="italics">Q: Did you know Paul Porter then? He was there before. He was
+                        Economic Minister.</hi>
+                </p>
+                <p>MASSEY: No. While I was there oddly enough there was a labor connection, but I
+                    made nothing of it. The head of the Economic Division of the Embassy, who was
+                    also head of the assistance program, was a man named Mike Harris, who came out
+                    of the labor movement and had previously served in one of the Scandinavian
+                    countries. And during all of the time I was in Germany, the rule was that the
+                    head of the Economic Section would be either a State Department officer or a
+                    Marshall Plan officer and his deputy would be the reverse and the number three
+                    man all during this time was the Treasury Attach�. I was assigned for those
+                    three years to the Treasury Attach�, which of course was to shape my career in
+                    the direction of finance and economics.</p>
+                <p>
+                    <hi rend="italics">Q: Did you get to know Mike?</hi>
+                </p>
+                <p>MASSEY: Oh, very well.</p>
+                <p>
+                    <hi rend="italics">Q: A wonderful guy.</hi>
+                </p>
+                <p>MASSEY: After a while he left and Mr. John Tuthill, later Ambassador to Brazil,
+                    replaced him as head of the section. Tuthill himself was replaced by a man whose
+                    name I can't remember, but as I recall, it was a Greek name.</p>
+                <p>
+                    <hi rend="italics">Q: Well, it's interesting that you should have gotten to know
+                        Mike Harris whose name comes up frequently in this project. He died a few
+                        years ago. Then you served for three years in a non-labor capacity and
+                        then?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>MASSEY: From then I was transferred after a brief period in Washington for
+                    training to Abidjan, Ivory Coast, as the American Consul where I opened the
+                    first American Consulate in the Ivory Coast and was responsible for the Ivory
+                    Coast and what was then Upper Volta, now Burkina Faso. Theoretically because
+                    that was still a French colony I was accredited to France and my boss was the
+                    American Ambassador in Paris. To the best of my knowledge, he was totally
+                    unaware of my existence and I did nothing whatsoever to change that
+                    situation.</p>
+                <p>
+                    <hi rend="italics">Q: You reported directly to Washington without going through
+                        Paris?</hi>
+                </p>
+                <p>MASSEY: I reported directly to Washington with a copy to Dakar and a copy to
+                    Paris but without having to go through them and without them having any control
+                    over the content of my reporting. In other words, I was a small, independent
+                    mission. Three people.</p>
+                <p>
+                    <hi rend="italics">Q: This would have been in the early 1960s?</hi>
+                </p>
+                <p>MASSEY: No, this was the late 1950s, 1957 to 1958 approximately.</p>
+                <p>
+                    <hi rend="italics">Q: And then? I'm getting gradually to how you got into the
+                        labor field and when I remember you first.</hi>
+                </p>
+                <p>MASSEY: I then was transferred back to Washington. My assignment was to be to the
+                    Foreign Service Institute, supposedly to teach economics.</p>
+                <p>
+                    <hi rend="italics">Q: By the way, did you get a graduate degree in economics at
+                        Columbia?</hi>
+                </p>
+                <p>MASSEY: No, I was to get a degree in public administration from Harvard some
+                    years later. To the best of my knowledge I have no qualifications to teach
+                    economics what-so-bloody-ever. Now among the responsibilities of that particular
+                    job in the Foreign Service Institute was the running of a seminar on
+                    international labor affairs, which was given, as I recall, approximately four
+                    times a year. The running of the seminar meant recruiting speakers, arranging
+                    timing, and because I had had this rather minimum contact with labor before, I
+                    found this by far the most interesting part of my work at the Foreign Service
+                    Institute.</p>
+                <p>
+                    <hi rend="italics">Q: I think that's where we first met.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>MASSEY: I think so, exactly. And at that time I got to know a number of people in
+                    the Bureau of International Labor Affairs—a Mr. Arnold Steinbach, Dan Lazorchek,
+                    Murray Weisz, and various people.</p>
+                <p>
+                    <hi rend="italics">Q: Jim Taylor?</hi>
+                </p>
+                <p>MASSEY: Jim Taylor</p>
+                <p>
+                    <hi rend="italics">Q: A voice of continuity in all this period and we lost him
+                        last year.</hi>
+                </p>
+                <p>MASSEY: Again, I'm sorry to hear it. We're losing... It's always the wrong
+                    ones.</p>
+                <p>
+                    <hi rend="italics">Q: That's right. Steinbach was a person who had quite a
+                        background.</hi>
+                </p>
+                <p>MASSEY: This also brought me in contact, of course, with various members of the
+                    American labor movement, particularly what was already the American Institute
+                    for Free Labor Development, although I can't say that I fully understood what it
+                    was doing and of course I was to see them again later after my service in
+                    Central America.I was not very long at the Foreign Service Institute because in
+                    1960 I managed to wangle my name onto a fellowship list to attend the Littauer
+                    School at Harvard. The semester of 1960 to 1961 I went to Harvard and studied
+                    the various aspects of public administration. However, the experience at the
+                    Institute in the seminar had piqued my interest in labor affairs, but on the
+                    economic side. And of the two papers that I wrote at Harvard, one was a paper on
+                    attempting to predict labor force trends in the countries of the European Common
+                    Market over the next ten years. This was a fairly simple task when you think
+                    about it and my predictions were fairly accurate in such areas as increased
+                    employment of women and shifting from manufacturing into service industries.
+                    These are the things which by that time were already easily predictable.</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you, if you can, to identify where a student
+                        who will be using the materials in this project would find that. It was a
+                        report to the State Department?</hi>
+                </p>
+                <p>MASSEY: Yes, the State Department collected all of the papers written by the
+                    various students they sponsored at various universities. Somewhere in the
+                    archives of the State Department is a copy of that paper.</p>
+                <p>
+                    <hi rend="italics">Q: Other than your name, it would be identified by a title
+                        that you could repeat possibly?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>MASSEY: I think the title was “Labor Force Trends in the Countries of the
+                    European Common Market.”</p>
+                <p>
+                    <hi rend="italics">Q: Okay, that will identify it. Now then, you come back and
+                        is that when you transferred to Labor or were seconded to Labor?</hi>
+                </p>
+                <p>MASSEY: Yes, I came back and I was going through a personal personnel crisis. I
+                    felt that my advancement had been slow and that my advancement for various
+                    reasons, some of them my own fault—many of them—I could not expect rapid further
+                    advancement in the Department of State. I had a number of discussions with the
+                    Department of Labor and with the Department of State. The offer that was made to
+                    me by the Department of State and the Department of Labor jointly was that, if I
+                    waited until the next promotion board, which would have been in the fall, and I
+                    were promoted, I would stay in the Department of State, and if I were not
+                    promoted, the Department of Labor would be happy to employ me. I felt that this
+                    was a cop-out compromise. The Department of Labor, including people whose names
+                    we have just mentioned—Jim Taylor, Dan Lazorchek very much so, and Arnold
+                    Steinbach—said that if I wanted to make a clean break, they would not only have
+                    a job for me, I would have a promotion and the assignment would be interesting.
+                    Thereupon I retired, or rather resigned as a Foreign Service Officer, and became
+                    a civil servant in the Department of Labor.</p>
+                <p>
+                    <hi rend="italics">Q: The Labor Department was very much outraged that the fact
+                        that people who had indicated an interest in labor were discriminated
+                        against because of that. That is they were not among the very rapidly
+                        advanced groups. It was looked upon as a side interest, “What the hell is
+                        this guy doing in the labor field? We got big business to do and this
+                        is...”</hi>
+                </p>
+                <p>MASSEY: Oddly enough, among the young men who were members of a special training
+                    group that I ran at the Foreign Service Institute—I have their names on a silver
+                    plate here somewhere—a couple of them became very successful thereafter, and
+                    those people assigned to the Foreign Service Institute for training—there were
+                    two long programs—were very well qualified and well selected persons. They sent
+                    me some very good people, so I can't complain about that. But I agree their
+                    success was in spite of their having received labor training rather than because
+                    of it.</p>
+                <p>
+                    <hi rend="italics">Q: Any names come to mind?</hi>
+                </p>
+                <p>MASSEY: Ernie Nagy. I am reading from a small silver card dish which was given to
+                    me in August of 1960 by four trainees in labor affairs at the Foreign Service
+                    Institute. It gives only first names and it says, “Parke from Harold, Steve,
+                    Ernie and Sam.” Harold Aisley...</p>
+                <p>
+                    <pb facs="0014" n="Page0014"/>
+                    <hi rend="italics">Q: The reason I remember these is they were students of ours
+                        at American University assigned to the FSI for some special... We had a
+                        whole lot to do with one another. Ernie was Ernie Nagy.</hi>
+                </p>
+                <p>MASSEY: Steve was Steve Low and Sam was Sam Janney, who left the Service not long
+                    thereafter. Incidentally, you're right, the Foreign Service Institute did work
+                    with American University on a labor program where the two most important figures
+                    were Phil Kaiser and Ben Stephansky.</p>
+                <p>
+                    <hi rend="italics">Q: With all due respect to Ben Stephansky, let me tell you
+                        that it was I who took Phil's place when he became an ambassador because Ben
+                        became an ambassador under Kennedy also, so that left it to me to take his
+                        place.</hi>
+                </p>
+                <p>MASSEY: When I went to the Department of Labor I was assigned to a unit that was
+                    headed by Arnold Steinbach. This unit was essentially a biographic and
+                    organizational register. It was essentially the creation of Arnold Steinbach,
+                    who believed that all forms of labor reporting had to be based on maximum
+                    knowledge of organizational and individual relationships and
+                    interrelationships.</p>
+                <p>
+                    <hi rend="italics">Q: It was what he called, “The International Trade Union
+                        Directory.” A fascinating document.</hi>
+                </p>
+                <p>MASSEY: I understand that part of the funding for this project came from the
+                    Central Intelligence Agency as a research project. If so, it was one of the few
+                    intelligent uses of CIA moneys that I can recall.</p>
+                <p>
+                    <hi rend="italics">Q: Well, with all due respect, these things come out
+                        occasionally in these interviews and otherwise, and we find that some of the
+                        best things done by the CIA—the worst things come out in some other way. But
+                        some of the best things you get in interviews such as this where you find
+                        out—I had a few experiences like that in Paris, where I had people on my
+                        staff, in the Marshall Plan,—and I found out later that the funds... I
+                        didn't know where the funds came from, it came from the CIA. All credit to
+                        them for that.</hi>
+                </p>
+                <p>MASSEY: From my own experience as a young intelligence sergeant, and later an
+                    intelligence officer in places, my own belief is that good intelligence must be
+                    based on good research, and everything else is a bloody waste of time.</p>
+                <p>
+                    <hi rend="italics">Q: Your friend in Italy, Tom Lane, would have disagreed with
+                        that. He had other functions to be performed. Well, then you were really
+                        working as a civil servant.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>MASSEY: That's right, no longer as a Foreign Service Officer.</p>
+                <p>
+                    <hi rend="italics">Q: ...in the project of Arnold Steinbach, which became so
+                        important later on in its results. You stayed there?</hi>
+                </p>
+                <p>MASSEY: I stayed there less than two years. The Agency for International
+                    Development came to me and asked if I wanted to go to the Agency in a financial
+                    position in the Office of Development Finance. This was frankly much closer to
+                    my heart's desire than the research on the trade union movement in Steinbach's
+                    office, plus it carried with it a promotion and it carried with it a promise to
+                    leave the Civil Service and go back into the Foreign Service, in this case the
+                    Foreign Service of AID. It was to take me a couple of years to achieve that and
+                    get overseas again, but that is what actually happened. So I went to AID as a
+                    development finance officer reviewing loans, grants, guarantees, both of the
+                    United States, the international banks, Treasury, Agriculture, and so on. My
+                    work really stopped having very much to do with labor. After all, I was reading
+                    and doing financial analysis of literally hundreds of projects a year all over
+                    the world and in different agencies.</p>
+                <p>
+                    <hi rend="italics">Q: Was there ever any labor facet to the loan applications
+                        such as there is or is not skilled labor that would take advantage of this?
+                        Did you feel as though your background contributed toward an understanding
+                        of the viability of a loan proposal?</hi>
+                </p>
+                <p>MASSEY: That is exactly the point I've made at the start of this meeting. Murray,
+                    I would say that, disregarding even the trade union aspect, but the manpower
+                    aspect of project development and project analysis tended to be neglected. The
+                    questions regarding where are you going to find the skilled, unskilled, and
+                    managerial manpower necessary to carry out this project was a question that was
+                    either not asked or asked in a very perfunctory way. I would look for it very
+                    briefly in paper after paper; I would seldom find it. I feel that this is a
+                    perfect example of what I said before. Lip service was given to problems of
+                    labor, but actual incorporation of a labor factor in decision making was not
+                    happening. Someone should have had to report in each of those papers exactly
+                    what are the manpower problems one might expect to encounter and how do you plan
+                    on dealing with them. That seldom, if ever, happened.</p>
+                <p>
+                    <hi rend="italics">Q: Did you ever have to reject a project because you didn't
+                        have sufficient knowledge as to how manpower factors would affect adversely
+                        or enhance the possibility of achieving a result?</hi>
+                </p>
+                <p>MASSEY: It would have been outside my area of jurisprudence. I other words, my
+                    job...</p>
+                <p>(End of tape one, side A)</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>I must confess that theoretically I should have taken into account the manpower
+                    aspect when I was looking at the financial numbers. I should have said, “Hey,
+                    wait a minute, your output isn't going to be achieved without this sort of
+                    thing.” I must confess that I did not tend to do that. I tended to dodge that
+                    responsibility, and I regret it, but there are limits to what one human being
+                    can do.</p>
+                <p>
+                    <hi rend="italics">Q: Believe me, your reaction was not an exceptional one,
+                        especially with the political pressures on getting the thing actively done.
+                        Well, you had then a number of AID assignments, if you want to mention those
+                        before I go into some specific questions that I have on my outline. You went
+                        out first after some training in Washington?</hi>
+                </p>
+                <p>MASSEY: In Washington I had two basic assignments. One was the development
+                    finance assignment. I later, with reference to the Vietnamese war, noticed the
+                    high level of corruption and also noticed the obvious fact that if you are
+                    fighting a guerrilla enemy—and remember I had been a soldier—who lives off of an
+                    economy as a guerrilla, and you are the principal supplier of that economy, you
+                    of necessity are the basic supplier of your enemy. I therefore brought this to
+                    the attention of my superiors, and because I was stupid enough to write the
+                    memo, was assigned to do something about it. And I spent approximately the next
+                    two years traveling back and forth between Washington and Vietnam dealing with
+                    the problem of the diversion of our supplies to the enemy. Finally, I noticed
+                    that much of this was again involved with how the financing was taking place,
+                    and I came to the conclusion that we were not only supplying our enemy, we were
+                    financing our enemy through a network of international banking institutions. And
+                    I did that until 1967 at which time a promise that had been made to me before,
+                    that I could transfer to the Foreign Service, was complied with. I transferred
+                    to the Foreign Service and went as a capital development officer to Managua,
+                    Nicaragua; later to Panama, again as a capital development officer, as
+                    essentially a projects development and financial officer; then as Deputy
+                    Director and Acting Director in Bolivia.</p>
+                <p>
+                    <hi rend="italics">Q: Of the AID Mission?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>MASSEY: ...of the AID Mission; Deputy Director and Acting Director of the AID
+                    Mission in Chile: a similar position in Haiti, a very frustrating period because
+                    of the fact that Haiti is impossible to do any good for; and finally I was made
+                    Mission Director of the United States AID Mission to Uruguay, which I ultimately
+                    closed out, which I think was a mistake, but at the time seemed like a good idea
+                    because our assistance was not really helping the Uruguayans in solving their
+                    economic problems. During all of this time, I saw little or nothing of an
+                    interest in either trade unions or labor or manpower in any of those missions in
+                    which I served. I did not take into much account labor and manpower concerns,
+                    although I was in the top management of the missions that were involved. I don't
+                    know why that was. It may have been that the concerns tended to move in other
+                    ways, or in some cases the trade union movements in many of these countries were
+                    so fragile and the understanding of manpower problems within my own mission so
+                    weak as to tend to let them be pushed aside. But labor and manpower were not
+                    really terribly important in those missions.</p>
+                <p>
+                    <hi rend="italics">Q: Relations with AIFLD (American Institute for Free Labor
+                        Development) at all?</hi>
+                </p>
+                <p>MASSEY: Yes, but the relations with the AIFLD were primarily on a friendly,
+                    cooperative basis. Where they had a program, we were delighted to fund it.
+                    Despite what I have said about the lack of interest in Washington in a coherent
+                    labor diplomacy, an AIFLD project always got a good reception in Washington, and
+                    people liked you to send them up because, of course, the American labor movement
+                    was a strong supporter of the Agency for International Development, and where we
+                    could use them effectively, and they were effective, we did so. However, it was
+                    hard sometimes to work them into either health programs or educational programs
+                    and so on.</p>
+                <p>
+                    <hi rend="italics">Q: I have a series of questions. Oh, I've got to get to your
+                        retirement. Yes, go ahead.</hi>
+                </p>
+                <p>MASSEY: At the end of 1979 I retired. After some short period of extreme boredom,
+                    I sought work consulting. I started consulting on various economic problems in
+                    Africa, mostly the management of projects. And then during the period of the
+                    middle 1980s until about 1988, I was in Central America where I was primarily an
+                    adviser on the economics and logistics of guerrilla warfare. This was very
+                    interesting, very exciting, but once again without anything that one would call
+                    a labor diplomacy input, although in several of the countries there were labor
+                    offices, and again I ran into the AIFLD, because I did attempt to advise and
+                    wrote a paper on legal reform in El Salvador which was related to the murder of
+                    the Agrarian reform workers supplied by the AIFLD to El Salvador. It was at that
+                    time I was to see again various people—one man with an Armenian name, a great
+                    giant of a man, who I think may have been AIFLD. I feel that the American labor
+                    movement felt a little betrayed by the fact that once again there was a lot of
+                    lip service, but a very tough pursuit of the murderers of American trade
+                    unionists in El Salvador was not followed through.</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: There was quite a bit of bitterness about that.</hi>
+                </p>
+                <p>MASSEY: I would have been bitter too. All right, I think that completes my
+                    career.</p>
+                <p>
+                    <hi rend="italics">Q: You retired in 1979 and after that you did some consulting
+                        work...</hi>
+                </p>
+                <p>MASSEY: Until 1988.</p>
+                <p>
+                    <hi rend="italics">Q: That by a curious coincidence is when I stopped consulting
+                        at the FSI. Some specific questions. One of the issues you took care of very
+                        well and that is to emphasize that you're not discussing what should have
+                        been done, but rather actually what was done, or what was not done. Any
+                        comments on the Cold War, McCarthyism, civil rights studies, the impact on
+                        you of that? Did you have any trouble in the McCarthyism period?</hi>
+                </p>
+                <p>MASSEY: I had no personal trouble. However, I am a maverick, and my reaction when
+                    the Cohn and Schine group came through Europe was to say, “Keep those two
+                    pansies away from me or I'm going to ask them who buggers whom.” They stayed
+                    away. My attitude toward McCarthyism was, this man was a drunken homosexual,
+                    well known to be so by the entire Washington press and nobody said a word about
+                    it. The most cowardly period in American history.</p>
+                <p>
+                    <hi rend="italics">Q: I have just finished an article sent in to a magazine on
+                        the subject of “Could McCarthy have been a KGB Agent?”</hi>
+                </p>
+                <p>MASSEY: No, he was not a KGB agent. The KGB did not recruit drunken queers.</p>
+                <p>
+                    <hi rend="italics">Q: Well now, wait a minute. I raise it as a humorous one, but
+                        then go into the subject of how his work helped the Communist cause in
+                        effect by surrounding true Communists with protective shields. But don't say
+                        that the KGB doesn't hire homosexuals.</hi>
+                </p>
+                <p>MASSEY: Come to think of it, it did. Kim Philby comes to mind immediately.</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: My article refers to that whole group from Cambridge
+                        University who were recruited and a sword of Damocles was held over their
+                        heads. A fascinating period of our history, but your reaction is a very
+                        interesting one. But you had no personal trouble. By the way, you remember
+                        the Cohn and Schine business. He was the son of some real estate mogul down
+                        here in Florida. Was he S-c-h-e-i-n or i-n-e?</hi>
+                </p>
+                <p>MASSEY: S-h-i-n-e. I do not believe there was a “c” in it. His mother, I believe,
+                    still lives over here just off the intercoastal waterway, if she is still
+                    alive.</p>
+                <p>
+                    <hi rend="italics">Q: The whole period, the idea that I mention in my
+                        article...the idea that these guys were going through the libraries of the
+                        USIA trying to find books... I mention the fact that some German humorist
+                        said that maybe they could dig up some Nazi who is still around who could
+                        give them some technical advice on how to burn books, because essentially
+                        that's what they were doing, and the whole effort of ours in that period was
+                        directed in a way to make us seem either ridiculous, or viciously...</hi>
+                </p>
+                <p>MASSEY: I do not believe that it affected this basic problem that we have
+                    discussed regarding labor diplomacy. The problem of the Eastern Establishment
+                    towards the trade union movement and manpower problems in our programs was not
+                    one of enmity based on the fact they're a bunch of Commies, it is based on
+                    indifference and a lack of understanding.</p>
+                <p>
+                    <hi rend="italics">Q: You've covered most of these things as I look at our
+                        outline. Do you have any insight into how fellow officers, other than
+                        yourself, viewed the labor officer and his activities. From what you've said
+                        so far, it seems that they thought of themselves as separate from it. Not
+                        against it, but separate from it.</hi>
+                </p>
+                <p>MASSEY: It was a combination of indifference and separateness, yes. It was not a
+                    part of their job.</p>
+                <p>
+                    <hi rend="italics">Q: But it was not any calculated hostility?</hi>
+                </p>
+                <p>MASSEY: Not at all.</p>
+                <p>
+                    <hi rend="italics">Q: Family involved in any way, not in your labor work
+                        obviously. You had children?</hi>
+                </p>
+                <p>MASSEY: Yes, one.</p>
+                <p>
+                    <pb facs="0020" n="Page0020"/>
+                    <hi rend="italics">Q: The human rights situation, any work in that area?</hi>
+                </p>
+                <p>MASSEY: Very little. We had to certify in projects towards the end of my AID
+                    career as to human rights conditions as part of a project. That became most
+                    important for me in Chile and in Uruguay, both of which had severe human rights
+                    problems. But the human rights problems were that basically we could not justify
+                    new major assistance to Chile under the conditions of the Pinochet
+                    dictatorship.</p>
+                <p>
+                    <hi rend="italics">Q: The relations between State and the Labor Departments,
+                        you've covered that pretty well.</hi>
+                </p>
+                <p>MASSEY: The only thing I would say about this is that this was also tangled up
+                    with something that happened in 1954, the famous Wristonization Program, which I
+                    think in some cases may have created some minor friction between old-line
+                    Foreign Service Officers and Labor Officers who entered laterally.</p>
+                <p>
+                    <hi rend="italics">Q: The role of the CIA, the role of USIA, any comments on
+                        that?</hi>
+                </p>
+                <p>MASSEY: No, no more than what I've already commented on.</p>
+                <p>
+                    <hi rend="italics">Q: Individual Congress or Congressional visits, any
+                        experiences?</hi>
+                </p>
+                <p>MASSEY: The Congressional visits to the missions I served in, and particularly
+                    that I was senior in, almost never had a labor or trade union interest.
+                    Frequently they would be a commercial, agricultural, special economic interest
+                    by the Congressional delegation, sometimes simple oversight.</p>
+                <p>
+                    <hi rend="italics">Q: Any comments on the attempts, or lack of attempts, of the
+                        AFL, the CIO, or the AFL-CIO on the designation or assignment of labor
+                        officers?</hi>
+                </p>
+                <p>MASSEY: I always assumed that the assignment of Labor Officers was cleared with
+                    those organizations. An Agricultural Officer is cleared with the Department of
+                    Agriculture.</p>
+                <p>
+                    <hi rend="italics">Q: With the Department of Agriculture, the parallel doesn't
+                        exist there. It's an outside organization. But you had no experience, like
+                        some of the people did, in which one union or another favored or opposed
+                        their appointment. That didn't affect you as a regular...</hi>
+                </p>
+                <p>MASSEY: Never bothered me; I never even encountered it.</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>
+                    <hi rend="italics">Q: Parke, I think we're within the 15 minutes when you have
+                        to take your medication. I don't want to end this interview without saying
+                        how grateful I am to have you agree to an interview of this sort the day
+                        after you get out of the hospital, and I'm happy to see you've done well
+                        enough so you can participate in it. But thank you very, very much, and
+                        we'll send you a copy of the document to go over if you wish, and amend or
+                        add in any way you want to correct, and we will ask you to sign the release
+                        so that students can feel free to use your material. And if you find
+                        anything in your records that you think might add, if you'll lend it to us,
+                        we'll copy it and put it with the material. And it's wonderful to see you
+                        after all these years.</hi>
+                </p>
+                <p>MASSEY: It is great. I just want to say that part of the gratitude is mine. You
+                    have given me a chance to be one tiny little speck of dust in posterity.</p>
+                <p>
+                    <hi rend="italics">Q: Well, thanks. So far in each of the interviews I have
+                        found that the people—you know we're grateful for their help and all
+                        that—but they also enjoy thinking back on what they did. Okay, thank you
+                        very much, and thank you on behalf of all the students in the future at the
+                        Meany Institute, at the Walter Reuther Archives, and at the Georgetown
+                        University Diplomatic Library. Thanks from them to you. Thanks.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

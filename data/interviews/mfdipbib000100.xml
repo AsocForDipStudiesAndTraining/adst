@@ -1,703 +1,1518 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000100">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Arthur F. Blaser Jr.</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Arthur F. Blaser Jr.</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>ARTHUR F. BLASER, JR.</p>
-<p>Interviewed by: Raymond Ewing Date:  October 16, 1996</p>
-<p>Copyright 1998 ADST</p>
-<p>This is a foreign affairs oral history interview with Arthur F. Blaser, Jr., who started with the Treasury Department in 1945, right after the end of the Second World War, and had a number of foreign assignments over his career.</p>
-<p>
-<hi rend="italics">Q:  Art, it's really good to have a chance to talk with you.  We served together in Japan quite a few years ago and I was delighted to run into you last year now that you're around and maybe we would have a chance to do this.</hi>
-</p>
-<p>Art, I believe you joined the Treasury Department in 1945.  What was it that drew you to Treasury, and when you joined Treasury were you particularly interested in the international side?</p>
-<p>BLASER:  I was in the Civil Service Commission and the job there was to recruit and examine economists and statisticians for the war agencies and, of course, as the war drew to a close the recruiting phase clearly was drawing to a close as well.  And the writing was on the wall that that job was finishing up.  I was teaching at Rensselaer Polytechnic in Troy, New York, in 1942, and I had decided that I wasn't going to be a teacher all my life.  As you know many academics were flocking to Washington.  So in thinking about a possible job in the government, I made an application to the Civil Service Commission.  This was just a general idea of throwing my name into the pot of the Commission which would be recruiting for jobs Government-wide.  But strangely enough the Commission offered me a job in its own organization, and in reflecting I thought, well, this is a pretty good idea because if you take this job you'll get a bird's eye view of what's going on in Washington in the economic and statistical work in many agencies.  And actually that's the way it worked out.  I had some contacts with the Treasury people, in particular the then Office of Monetary Research which was the precursor of the later organizations in the Treasury that I was a part of.  So when it became obvious that it was time to make a change, I went to the administrative people in that Treasury unit and there was a position.  That's the background of how it was Treasury rather than something else.</p>
-<p>
-<hi rend="italics">Q:  Certainly at the Civil Service Commission recruiting and dealing with the various agencies involved with economics and statistics, you certainly had an excellent opportunity to see what everybody was doing and what possibilities there might be.</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>BLASER:  Yes, and of course Treasury being an old-line agency, from a selfish point of view I reflected that they'd probably be there when the War Production Board and the Office of Price Administration had long disappeared.  So there was that factor also.</p>
-<p>
-<hi rend="italics">Q:  And then, of course, in the immediate post-war period there were enormous international considerations in the economic areas.  Europe had been devastated by the war.</hi>
-</p>
-<p>BLASER:  Lots of money had been transferred and was sloshing around, and a lot of things to tidy up after the war.</p>
-<p>
-<hi rend="italics">Q:  In the pre-war period, before you were involved, was Treasury involved in these international issues, or not?</hi>
-</p>
-<p>BLASER:  I don't have too much focus on that.  Just from an outside point of view, I think the Treasury was probably more interested in selling war bonds, and managing government finance, and financing the war.  I imagine most of their energies were absorbed in that rather than other factors.</p>
-<p>
-<hi rend="italics">Q:  So you joined, as we said, in 1945 right after the end of the war.  The Secretary of Treasury then was Morgenthau?</hi>
-</p>
-<p>BLASER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  What kind of work did you do initially at Treasury?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>BLASER:  It was more of a research job.  I first joined a section that had to do with France.  It was a question of studying the French economy.  The French, like others, had many problems and my first sort of baptism of fire came during the Christmas holidays in 1945 when the French government undertook a devaluation.  Of course, those things are always handled very quietly, but we in the Treasury knew this was going to happen.  My job, as a fairly junior member, was to do the watching.  I was sent over to the Pentagon.  Military communications were the ones that were being used, to get the word and keep my superiors involved.  As it happened no word came through.  Apparently the communication lines got diverted, and the boss was called out of bed or something with a sick baby, and Monday morning after the weekend when the devaluation was carried out, he called me on the carpet and said, “Hey, where were you?” And I said I was over there.  I checked with the people that I was directed to stay in touch with, and my phone was covered 24 hours a day, and I heard nothing from anybody.  He sort of grumbled, but there was nothing further that he could say.  Later the French had negotiated a number of bilateral trade agreements and we went over those.  There was no real big problem there.  I was just helping with the analysis of those agreements.</p>
-<p>Then the British loan came up, the American post-war loan to Britain to stabilize the pound, and to clear off World War II debts.</p>
-<p>
-<hi rend="italics">Q:  And by then you had moved from working on France to working to working on UK matters.</hi>
-</p>
-<p>BLASER:  Yes.  I was transferred to that section as its work increased in preparing for this important financing.</p>
-<p>
-<hi rend="italics">Q:  And that in effect prepared you for your first overseas assignment which was...when did you go to London?</hi>
-</p>
-<p>BLASER:  We flew to London on the last day of 1946 and landed there New Year's Eve.  We went to our hotel and looked down the corridor, and there the fog was coming into the corridor from outside.  That was my introduction to London.</p>
-<p>
-<hi rend="italics">Q:  It's hard to think of a more difficult day to arrive at a Foreign Service post than New Year's eve.  I guess only exceeded maybe by Christmas Eve would perhaps be even worse.  You were in London, you were part of the embassy, part of the economic section.</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>BLASER:  Yes, I guess you'd say that.  I don't remember exactly the organizational details.  I had a more senior Treasury representative under whose direct supervision I worked, but we were in close touch with the Ambassador.  I'm a little unclear.  I believe when I first arrived in London there was a sort of an interregnum, there was no ambassador and the minister was in charge.  It's been so long I can't recall the actual details.</p>
-<p>
-<hi rend="italics">Q:  In that period, in the 1946-47 immediate post-war period, do you recall where else the Treasury Department had representatives?  There weren't very many, or were there?</hi>
-</p>
-<p>BLASER:  No, not a great many.  We had a man in Paris, one in Rome, one in the Middle East who was based in Cairo but traveled around, and one in Brazil.  We also had somebody in Japan.  Just a handful, there was no widespread thing.  Their link to Treasury was to the Office of Monetary Research which later became the Office of the Assistant Secretary for International Affairs.  That title was a little more apt in later years.  With State Department concurrence they sent people where there were heavy United States financial interests and commitments.</p>
-<p>
-<hi rend="italics">Q:  We certainly had interests and commitments in Britain at that time, and I guess you were reporting, analyzing the British economy as well as the operation of exchange controls because that was very regulated.</hi>
-</p>
-<p>BLASER:  Yes, it was indeed.  And then we had to watch the progress of the loan too.  But in general, of course, that simply related to Britain's success in international trade, and international finance which would enable the UK to generate the money to service the loan.</p>
-<p>I would like to take one minute to go back to the scene in the US, when the congress was debating whether or not it would approve the British loan which was $3 billion, seven hundred and fifty million dollars, plus a lend lease settlement.  I was in the gallery in the House of Representatives and it was quite dramatic.  The speaker of the House, Sam Rayburn, abandoned the chair, and came down on the floor and made a stirring speech.  He said the loan would help to buttress our system against the advance of communism, “something which I abhor.” It was dramatic really.  You could just feel it in the hall that that speech had put the loan across.  I went back and telephoned my office on this development.</p>
-<p>
-<hi rend="italics">Q:  That was a very important step.  The British government at the time that you were there, and when the loan was approved, was under Labor wasn't it?</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>BLASER:  Yes.  Well, that was the interesting thing.  As you know, the British kicked Winston Churchill out shortly after the close of the war and Labor was in, and Clement Attlee was prime minister.  Lewis Douglas, the former director of the Bureau of the Budget had come to London as the Ambassador.  And Sam Berger, who later became Ambassador in Korea and elsewhere, was the labor attach�.  He was top dog in the embassy staff from the time Labor took over because he knew all the Labor people.  He became the Ambassador's right arm.  This was a little amusing in that the old embassy stalwarts who had ruled the roost before Labor came in were not quite as influential in the embassy as they had been.  Sam knew the whole UK Government power structure, so he was in.</p>
-<p>
-<hi rend="italics">Q:  You and your colleague from Treasury had a lot of contacts with the Bank of England and Treasury.</hi>
-</p>
-<p>BLASER:  Yes, Treasury mostly.  The Bank of England was sort of the handmaiden and the Treasury was where the power was.  We kept in touch with them.</p>
-<p>
-<hi rend="italics">Q:  Well, anyone who has had an assignment in London always, of course, looks back on it as a great experience, and I think for your first Foreign Service assignment that must have been very special.  How long were you in London?  A couple of years?</hi>
-</p>
-<p>BLASER:  Yes, just a couple of months short of two years.</p>
-<p>
-<hi rend="italics">Q:  And then you came back to Washington?</hi>
-</p>
-<p>BLASER:  Yes, that's right.  We came back in '48 and didn't go out again until '56.</p>
-<p>
-<hi rend="italics">Q:  And part of that time you continued to be involved with British financial monetary affairs.</hi>
-</p>
-<p>BLASER:  Yes, I did.  One thing that happened while I was back in Washington was the devaluation of the pound.  We had a lot of sort of hurry-up economic studies.  Some colleagues and I went to New York and went into the stores, and checked with clerks about British merchandise.  We found in general it was pretty expensive.  The whole idea, of course, was to buttress the need for a reduction in value of the pound.  So there was a lot of pulling and hauling, and staff work.  But as it developed, as you might expect, this was a matter so important that the staff work was just sort of trimming, and the people who had to make the decision finally made it.  That was that.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  I notice in this memorandum that you have given me, that after about three years, in 1951, you and another colleague became the staff support for Treasury's representation on the National Security Council.</hi>
-</p>
-<p>BLASER:  That's right.  I was transferred out of the British section and took over that staff job.</p>
-<p>
-<hi rend="italics">Q:  The Secretary of Treasury was a member of the National Security Council.</hi>
-</p>
-<p>BLASER:  Yes, indeed he was.</p>
-<p>
-<hi rend="italics">Q:  Were you actually a NSC staff member?</hi>
-</p>
-<p>BLASER:  No, I was Treasury.  I was never on the NSC staff as such.  We worked with those people.  James Lay was the executive secretary, or whatever the title of his job was.</p>
-<p>
-<hi rend="italics">Q:  But at that time the NSC staff was probably pretty small.</hi>
-</p>
-<p>BLASER:  It probably was, yes.  I don't think they were as big as they grew to be later.</p>
-<p>
-<hi rend="italics">Q:  But your job was to prepare the Secretary of the Treasury for meetings for issues that were going to come up at the NSC.</hi>
-</p>
-<p>BLASER:  Yes, exactly.  The Assistant Secretary of the Treasury for International Affairs was on the NSC Planning Board which was the second layer under the Council.  So our briefing was more for him, but occasionally we went to the Secretary's office and discussed the issues that were coming up with the Secretary.</p>
-<p>
-<hi rend="italics">Q:  So you were involved with other agencies to a considerable extent?</hi>
-</p>
-<p>BLASER:  Oh, yes.  And as usual in Washington, if there were prospective divisions among departments, you would go and look for recruits or allies for various issues.  But that's the old bureaucratic game.</p>
-<p>
-<hi rend="italics">Q:  Of course 1951 was the time of the Korean War, it was a time when Europe was beginning to revive a little bit.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>BLASER:  Yes, that's right.  I recall that one of the issues in the National Security Council in which we were more or less directly involved was a decision as to whether the International Bank could go forward with loans to Japan.  The issue was whether Japan was good for a hundred million dollar loan or not.  Of course, in the light of later economic changes that is laughable, but at the time we approached it very seriously.  Japan was rising from the ashes and this was a process that took place over a number of years.  So, at that particular stage, it wasn't evident that it was an open and shut case.  Of course, we did approve the loan but it's symptomatic of how things were as we came out of the war.</p>
-<p>
-<hi rend="italics">Q:  Which also brings us to your next assignment.  Where did you go next after your time in Washington?</hi>
-</p>
-<p>BLASER:  The next assignment was Japan.  In 1956 we were asked to go and replace a man who had been there seven years.</p>
-<p>
-<hi rend="italics">Q:  This time you went as the Financial Attach�.</hi>
-</p>
-<p>BLASER:  Yes.  The nomenclature had been changed between 1948 and 1956.  In London we were Treasury representative, and I was assistant Treasury representative.  And we had special passports.  Treasury and State had agreed on changes.  (I don't know anything about the negotiations.) The State Department designated me as financial attach� on the Ambassador's staff and I was issued a diplomatic passport.  I went on the diplomatic list and all the rest of it.</p>
-<p>
-<hi rend="italics">Q:  So that was in 1956.  Japan had begun to respond to, among other things, the Korean War activity.</hi>
-</p>
-<p>BLASER:  Yes, that's right.  We didn't see too much of that.  It was handled by the military, and we didn't do a whole lot there.</p>
-<p>
-<hi rend="italics">Q:  When you went in 1956, did you still see destruction from the war, evidence of war damage?  Or had that pretty well been cleaned up?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>BLASER:  That was pretty well cleaned up.  It was a great contrast to the way it was in London when we arrived there in 1947.  Grosvenor Square where the embassy is, was full of devastated apartment houses.  The bombing had been close, although the embassy itself, the building that was used for the embassy, wasn't damaged.  But walking from the bus to the embassy office, we'd see a pussy willow tree growing in the basement of a bombed out apartment.  But in Japan there was nothing like that.</p>
-<p>
-<hi rend="italics">Q:  What were some of the main tasks, jobs, that you had as the financial attach� in Tokyo in this period?</hi>
-</p>
-<p>BLASER:  One of the main assignments was to participate in the efforts to settle the bill for “GARIOA” (Government and Relief in Occupied Areas).  After the war the United States had poured resources into Japan and other countries in an effort to resuscitate their economies.</p>
-<p>
-<hi rend="italics">Q:  This had not been so much a loan, but just...</hi>
-</p>
-<p>BLASER:  It wasn't too clear what the terms were, nor the amount of assistance given.  There were all kinds of records and things we looked at.  We talked and negotiated.  And again, as in the British pound, the settlement didn't come until the political climate was right.  The Finance Minister finally informed us that they were ready to settle, but the figure would have to be under six hundred million dollars.  So it was agreed it would be $595 million.  That's how it was settled.</p>
-<p>
-<hi rend="italics">Q:  The occupation, the immediate post-war period, I guess ended in 1952 with the...</hi>
-</p>
-<p>BLASER:  At the time we arrived in 1956 General MacArthur was gone, although echoes of his tenure were still reverberating in the embassy and elsewhere.  The embassy was normal, and diplomatic relations were restored.</p>
-<p>
-<hi rend="italics">Q:  When you got there in 1956 the ambassador was...was Douglas MacArthur the second...</hi>
-</p>
-<p>BLASER:  No, John Allison, who was a Far East expert.  He had been or became Assistant Secretary for the Far East.  His wife was a very nice woman who had a collection of wonderful Chinese blue and white.</p>
-<p>
-<hi rend="italics">Q:  And he was replaced then by MacArthur?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>BLASER:  Yes, by Douglas MacArthur II.  We were there in Japan for seven years, of course, and I told my wife we'd have to leave after that time or our eyes would become slanted.</p>
-<p>
-<hi rend="italics">Q:  You wouldn't be able to use a fork and spoon.  So you were there really under three different ambassadors, Edwin Reischauer being the last.</hi>
-</p>
-<p>BLASER:  ...at the end of our tour, yes.</p>
-<p>
-<hi rend="italics">Q:  As the senior Treasury person in the embassy staff, the financial attach�, did you find they were interested in what you could tell them about the financial situation and the economy?</hi>
-</p>
-<p>BLASER:  Yes.  Ambassador Allison left fairly soon, so that I never really had too much contact with him.  Since I was the new boy on the block, I had a lot to learn.  So I wasn't able to counsel him very much.  Ambassador MacArthur would have various visiting business men in, and when the subject was mostly business or financial, he'd often invite me to participate.  In general, Ambassador MacArthur was very interested and listened to what we had to say, and briefed himself.  I was very interested in his way of conducting interviews.  He would determine in advance how much time he had, or the visitor had, which ever one controlled, and then after polite exchanges with the visitor, the ambassador would in effect launch into a lecture mostly tailored to the time available.  His comments were very good and covered the topic.  I did have some feedback that sometimes the ambassador talked a little more than the visitor would have liked.  Some told me that they would have liked the chance to ask more questions, and talk a little more.</p>
-<p>
-<hi rend="italics">Q:  Or to get their ideas on the table as well.</hi>
-</p>
-<p>BLASER:  Yes, that's right.  I don't want to over-stress that, but Ambassador MacArthur was a very aggressive, hard driving individual, who knew what he wanted to do, and it often worked out that way.  And I think he was maybe a little bit insensitive to the point you just suggested.</p>
-<p>
-<hi rend="italics">Q:  Edwin Reischauer was quite different.  A tremendous background and experience with Japan, but perhaps not so much on the diplomatic or...</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>BLASER:  That's true.  His minister, John Emerson, who also came along, was fairly new, and both of them felt that they had little contact with the businessmen and bankers.  So they asked me on several occasions to convene groups of bankers and businessmen, people that I knew, to talk to them about American interests, business and financial interests as they saw it.  And this was very nice because it helped me a lot with the business community having the ambassador having that interest.  And I had one representative of the Bank of America, who thanked me for the arrangements that had been instigated at the ambassador's suggestion, and the minister's suggestion.  He said that he hadn't been near the embassy for several years and was glad of the opportunity to do it.  Ambassador MacArthur, although he was well briefed, hadn't taken too much initiative in that area.</p>
-<p>
-<hi rend="italics">Q:  There were a couple of things happening during this period.  One was that the US military in Japan came into a new situation—the security treaty was negotiated, and I think entered into effect in about 1960.  Were you involved with the negotiation of that?</hi>
-</p>
-<p>BLASER:  No, not really.  No I wasn't.  But as in Germany there was the question of how much the Japanese would contribute to support of our forces.  There was some work along that line that we tried to follow.</p>
-<p>
-<hi rend="italics">Q:  Which later, or maybe even at the time was called off-set—or to off-set our costs.</hi>
-</p>
-<p>BLASER:  Well, that's what it amounted to, yes.</p>
-<p>
-<hi rend="italics">Q:  Japan at the time wasn't seen as the great economic power that it is today.</hi>
-</p>
-<p>BLASER:  No, that's right.  It was sort of a creeping thing.  Japan was getting stronger, and thus the United States would be looking for more and more assistance on this, and those two forces moved along somewhat in parallel.  It was a question how much we could hope to benefit from the growing Japanese economic strength.</p>
-<p>
-<hi rend="italics">Q:  I remember when I was there in Japan with you, and I was briefly in the commercial section, and I think we probably spent as much effort to try to help Japan with its exports to stand on its own feet, to be able to support itself.  And, of course, today we're much more interested in how much we can export to Japan.</hi>
-</p>
-<p>Let me ask you just a little bit about the economic section of the embassy.  It was quite large, it had a commercial attach�, economic minister, you were part of that team.  There were some good people there, I think, at least in the time that I was there, Phil Trezise.</p>
-<pb facs="0011" n="Page0011"/>
-<p>BLASER:  He was outstanding.  Arthur Gardiner was in the AID mission.</p>
-<p>
-<hi rend="italics">Q:  There was still an AID mission in the time you were there?</hi>
-</p>
-<p>BLASER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  Which was getting itself out of the business.</hi>
-</p>
-<p>BLASER:  Yes, there wasn't too much point after a while.</p>
-<p>
-<hi rend="italics">Q:  You say you were there for seven years, which meant you left in about 1963, which was just before the Olympic games.  That was obviously a big stimulus for economic growth and activity and construction.</hi>
-</p>
-<p>BLASER:  I recall one incident that's sort of revealing in a way.  There was a question whether President Eisenhower would visit Japan.  You recall there was a certain amount of leftist unrest and riots.  So the Department, I think, felt it would be unwise for President Eisenhower to visit.  This sort of hurt the ambassador because having the big boss come would be a real feather.  I recall seeing a cable the ambassador sent to Washington to the effect that, well, they'd have two divisions of troops, and they would line this avenue, and so on, that security would be absolutely foolproof and airtight.  But I think the Department decided very wisely that these were not the circumstances on which a presidential visit should be mounted.  But Ambassador MacArthur was reluctant to give up the idea.  He was no shrinking violet, let's say.</p>
-<p>
-<hi rend="italics">Q:  Of course, the other thing that really hurt his case for the visit by President Eisenhower, was what happened when the advance party came and the press secretary, Jim Hagerty, and Stevens, they were covered with rocks at the airport.  It was a scary situation for them, but I think for the United States.</hi>
-</p>
-<p>BLASER:  Poor Hagerty was really shook.</p>
-<p>
-<hi rend="italics">Q:  Besides what they would have done for MacArthur personally, and for the United States, I think he was anxious to show that Japan had come back, had a new security treaty.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>BLASER:  It wouldn't be fair to attribute that cable wholly to his own personal ambitions.  No way.  I didn't intend to imply that, but it was interesting.  Just one other note which you can expunge if you want.  I understand that Ambassador MacArthur was a graduate of Yale, and he went out for football, and he was quite a small man.  But apparently he earned a place on the team as a running guard, and they used to call him Legdrive MacArthur.</p>
-<p>
-<hi rend="italics">Q:  You went to Yale too.  You weren't there at the same time he was.</hi>
-</p>
-<p>BLASER:  Oh, no.</p>
-<p>
-<hi rend="italics">Q:  You were in the embassy in Tokyo longer than most people, seven years.  Did you feel at times that was too long?  You were able to build on your contacts, and got to know people really well.</hi>
-</p>
-<p>BLASER:  Oh, yes.  That's right.  My predecessor had been there a long time, and he was deeply dug in.  I was able to profit to a considerable extent from his work preceding me.  He, of course, introduced me to all his people.  No, I didn't think so, and I don't think my effectiveness deteriorated over the time.  In fact, I think it probably improved.  But as you said somewhat earlier in this talk, I came to feel that it was time to make a change.  My wife loved it.  She entered into Japanese painting, flower arranging, paper folding (origami), and had considerable association with Japanese ladies.  We both studied the language and she got good enough so that when Ambassador Reischauer invited Japanese cabinet ministers it was customary to invite their wives as well.  And, of course, the ambassador wanted to devote his time to the men, and Mrs. Reischauer being of Japanese origin could do it very well, but with six or seven cabinet ladies there, it was kind of a handful.  So on a couple of occasions she invited my wife to participate because she could talk well enough.  I never got that good, but she did.</p>
-<p>
-<hi rend="italics">Q:  One hears that the civil servants, the senior officials below the ministerial level in Japan, are very important, and tend to stay in place for long periods of time.</hi>
-</p>
-<p>BLASER:  Yes.  The Japanese Finance Ministry bureaucracy was a very powerful organization.  The leaders, the various bureau chiefs were extremely powerful—Budget Director, and the several bureau chiefs.  They in effect called the shots.  The Bank of Japan was a sort of handmaiden of the Finance Ministry.  The Bank governors that I knew were very nice men and capable people, but they were not strong individuals and appeared to take orders from the Finance Ministry people.</p>
-<p>
-<hi rend="italics">Q:  And not just the Finance Minister but the senior officials.</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>BLASER:  Of course the Finance Minister was a political appointee and might or might not know much about the business.  So he was sort of in the hands of his bureaucracy.  They were very powerful, indeed.</p>
-<p>
-<hi rend="italics">Q:  So after seven years you came back to Washington...</hi>
-</p>
-<p>BLASER:  ...and rejoined the Treasury group again.</p>
-<p>
-<hi rend="italics">Q:  They had been reorganized, it was now called the Office of Industrial Nations.</hi>
-</p>
-<p>BLASER:  At least the section that I was assigned to.  The overall organization was the Office of the Assistant Secretary for International Affairs, but within that group I was in the Office of Industrial Nations.</p>
-<p>
-<hi rend="italics">Q:  And you continued to do some work related to Japan?</hi>
-</p>
-<p>BLASER:  Yes, that was the nice thing.  One of my main jobs was to continue to follow Japan from Washington, to keep in touch with the people there.  Bob Pelican, the name your colleague here mentioned, was my successor in Tokyo.</p>
-<p>
-<hi rend="italics">Q:  In 1969 you went to another major trading partner and ally of the United States, Germany.</hi>
-</p>
-<p>BLASER:  That's right.  And as I have explained too, we had no children and we were free to go.  We liked to think we'd been successful in our other posts, and the Treasury liked what we were doing, or had done.  So when a change loomed in Germany I was asked to take that over.</p>
-<p>
-<hi rend="italics">Q:  And you again went as the Financial Attach�.  You had one or two assistants also from Treasury?</hi>
-</p>
-<p>BLASER:  One, who was later eliminated for budget reasons.  I had an assistant in Japan as well.</p>
-<p>
-<hi rend="italics">Q:  In Germany, and I guess in Japan, you were responsible only for Germany and Japan.  You did not have regional responsibilities.</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>BLASER:  No, although in Japan...it was the same thing, I did some work in Okinawa.</p>
-<p>
-<hi rend="italics">Q:  That was before Okinawa reverted back to Japan.</hi>
-</p>
-<p>BLASER:  Yes.  It was still under US military administration.</p>
-<p>
-<hi rend="italics">Q:  Did you have German language training before you went to Bonn?</hi>
-</p>
-<p>BLASER:  No, not before.  I had taken a little German.  I wasn't completely unknowing about German and had a little bit of family background in the German language but only scattered.  Both my wife and I took daily lessons in German as soon as we arrived.  We got fair but I never became proficient enough to do business in German.  You don't master German very quickly.</p>
-<p>
-<hi rend="italics">Q:  You had traveled in Germany when you were a student some before the war.  And, of course, you had served almost two years in London.  But at that time you probably didn't travel on the continent very much, did you?</hi>
-</p>
-<p>BLASER:  No.  I went to Paris a few times on business, particularly when the Marshall Plan was being instituted.  The Marshall Plan in Europe was being sort of hatched in Paris, at least the European side of it.  I knew the Treasury man there, and he was pretty much in the middle of the planning.  So the London Embassy people asked me to go over and find out what was going on, and come back and tell them.  I also went to Paris from Germany on business.</p>
-<p>
-<hi rend="italics">Q:  But in Germany in the mid-60s things were going along pretty well.  This was 20 years after the end of the war.</hi>
-</p>
-<p>BLASER:  Yes, Germany had come back.  They rebuilt much more quickly than the British did.</p>
-<p>
-<hi rend="italics">Q:  Or the Japanese?</hi>
-</p>
-<p>BLASER:  I don't think there was that much difference between Japan and Germany.  The British were the laggards in pulling up their socks.  I don't say that critically, maybe they had more to do.  At least it seemed to be the fact.</p>
-<p>
-<hi rend="italics">Q:  Well, being defeated in the war, you almost have to start from scratch.  Whereas the British won.</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>BLASER:  They seemed to suffer more post-war than the others.</p>
-<p>
-<hi rend="italics">Q:  The US military was still very much a part of the scene in Germany.  You had mentioned that we were trying to get some support from Japan to help finance our...</hi>
-</p>
-<p>BLASER:  Even bigger in Germany.  We exerted a lot more pressure and there were constant missions from the Department of Defense.  I often went to meetings with them in pursuance of their efforts to get more support for various things that the military was doing in Germany.</p>
-<p>
-<hi rend="italics">Q:  The European Common Market of course had begun, and there wasn't probably much being done on the financial monetary side at that stage.</hi>
-</p>
-<p>BLASER:  No, and even to this day they're still fussing about a common currency.  It probably won't come very soon.</p>
-<p>
-<hi rend="italics">Q:  The Bundesbank, the Central Bank at the time was in Frankfurt, right?</hi>
-</p>
-<p>BLASER:  Yes, that's right.  I used to go every month or so and talk to the directors of the Bundesbank, and American bankers, and German private bankers in Frankfurt which was the financial center, to...</p>
-<p>
-<hi rend="italics">Q:  Okay, Art, we've just gotten you to Germany, to Bonn, and we were talking a little bit about your monthly visits to Frankfurt to visit with the Bundesbank and the private bankers.  I think you were starting to say what was the role of the Central Bank, the Bundesbank in Germany, as compared with some of the other countries where you served.</hi>
-</p>
-<p>BLASER:  I think they were a bit more influential, and the leader, Karl Blessing, was a strong individual.  I think his voice carried considerable weight.  There were things about the exchange rate that were involved although the German mark was pretty solid.</p>
-<p>
-<hi rend="italics">Q:  There were still exchange controls?</hi>
-</p>
-<p>BLASER:  I don't recall exactly, but I have the impression they were pretty well dismantled by that time.  The Germans were going along very well.</p>
-<p>
-<pb facs="0016" n="Page0016"/>
-<hi rend="italics">Q:  The economy was really developing.</hi>
-</p>
-<p>BLASER:  Yes, I think so.</p>
-<p>
-<hi rend="italics">Q:  Besides Frankfurt, of course Bonn itself is a pretty small capital, and you got with the Finance Ministry, and the other key economic ministry.  How about Berlin?  Did you have occasion to go there very often?  Or pay much attention to Berlin?</hi>
-</p>
-<p>BLASER:  No, it was fairly separate.  I went once as a tourist with the man whom I succeeded at the post.  We went by car to Berlin and it was quite an experience going through the Soviet zone into Berlin.  We were instructed to observe anything we saw of interest, particularly any troop movements.  But as far as my professional work was concerned, we didn't really become involved with Berlin at all.</p>
-<p>
-<hi rend="italics">Q:  I think you were in Germany about four years?</hi>
-</p>
-<p>BLASER:  Yes, a little short of four years.</p>
-<p>
-<hi rend="italics">Q:  Again you were associated with the economic section which was as large as in Tokyo probably.</hi>
-</p>
-<p>BLASER:  Yes, they had a large group.</p>
-<p>
-<hi rend="italics">Q:  But in the case of Germany, we also had a large consulate in Frankfurt, Munich and some other places.  Did you interact much with those posts.</hi>
-</p>
-<p>BLASER:  To some extent.  I went to Frankfurt mostly, but we did go to Hamburg and Dusseldorf also.</p>
-<p>
-<hi rend="italics">Q:  I believe your next assignment was to Brazil.  You had some German before, you learned German there, you had learned some Japanese in Tokyo.  Before you went to Brazil did you have a chance to study Portuguese?</hi>
-</p>
-<pb facs="0017" n="Page0017"/>
-<p>BLASER:  Oh, yes.  There we had the best chance of all because we left Germany in February, and went directly to the Foreign Service Institute for 16 weeks of intensive work in Portuguese, and didn't go to Brazil until mid-year.  So we went fairly well equipped, and we continued to study daily in Brazil at the Foreign Service Language Program there.  We finally became able to do business in Portuguese.  This was very helpful.</p>
-<p>
-<hi rend="italics">Q:  You went to Brazil in 1969.  Had there been a financial attach� there for some time before?</hi>
-</p>
-<p>BLASER:  Yes.  I replaced the man there.</p>
-<p>
-<hi rend="italics">Q:  In contrast to London and Tokyo and Bonn, Brazil was a developing country, a vast economy.  Was your work pretty much the same, or was it quite different?</hi>
-</p>
-<p>BLASER:  A little of both I guess.  The physical contrast in the country was remarkable because of course Rio was an old established city, but out in the country it was very undeveloped.  Brasilia had just been hacked out of the semi arid scrub.  Brasilia is a curious place.  It's semi-desert.  It rains not at all for about six months, and then rains fairly much.  So the growth is mostly scrub trees, and more desert type plants.  So that, plus the streets, the workmen, everything, was more of a rural mud on your boots sort of thing...excepting, of course, Rio which was an old established city with a very Spanish type aspect in its architecture.</p>
-<p>
-<hi rend="italics">Q:  The initial period of your assignment in Brazil was in Rio.</hi>
-</p>
-<p>BLASER:  Yes, two years in Rio, then two years in Brasilia.</p>
-<p>
-<hi rend="italics">Q:  And the ambassador when you first arrived there was in Rio?</hi>
-</p>
-<p>BLASER:  Yes.  That was Ambassador Burke Elbrick.  As you may remember he was kidnapped, which was a strange and somewhat frightening experience for all of us.  I wasn't directly involved in his recovery, of course.  All I could do was volunteer to do whatever any staff person was needed to do.  But I wasn't called on for anything.  Some negotiations took place of which I'm not apprized, and he was later returned.</p>
-<p>
-<hi rend="italics">Q:  Was it a matter of weeks, or days?</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>BLASER:  Well, certainly days.  Perhaps a few weeks.  I don't recall exactly, but he didn't come back the next day that's for sure.  As I believe, he wasn't harmed physically as such, but I felt that he was pretty badly shaken up psychologically.  And, of course, he went back to the United States and didn't return.</p>
-<p>
-<hi rend="italics">Q:  Soon after he was released?</hi>
-</p>
-<p>BLASER:  Yes, that's right.</p>
-<p>
-<hi rend="italics">Q:  Did that make quite a difference to you and others in the embassy in terms of security, precautions that you took?</hi>
-</p>
-<p>BLASER:  I guess a little.  It was more severe later.  In Brasilia they tried to have the ambassador come to his office by different routes daily, and not have any established pattern that could be marked.  When we were in Brasilia, of course the government offices were there, but the financial community was in Rio and in Sao Paulo, both cities which I visited fairly regularly.  I recall one time being in the Minister's car—the Minister, as Steve Low just mentioned, stayed in Rio and was in charge there—riding in his car and he said, “Watch out for that thing.” I looked on the floor and it was a submachine gun.</p>
-<p>
-<hi rend="italics">Q:  In the back seat of the car.  I wonder if he knew how to use it.</hi>
-</p>
-<p>BLASER:  It wasn't clear, it was just lying there and I wasn't sure who was supposed to operate it should the need arise.</p>
-<p>
-<hi rend="italics">Q:  It wasn't going to be you though.</hi>
-</p>
-<p>BLASER:  No.  I couldn't.  But it was a little shocking to see this Tommy gun there.</p>
-<p>
-<hi rend="italics">Q:  After Ambassador Elbrick left, he was replaced by Ambassador William Rountree, who had been an ambassador in several other countries, and Assistant Secretary.</hi>
-</p>
-<p>BLASER:  A Middle East expert really.  It seemed Brazil was a somewhat strange assignment, but Ambassador Rountree was a veteran who knew his way around, and didn't have any trouble adjusting.</p>
-<p>
-<pb facs="0019" n="Page0019"/>
-<hi rend="italics">Q:  When he arrived he located himself in Brasilia.</hi>
-</p>
-<p>BLASER:  He never did go to Rio, that's right.  We were still in Rio but it was evident that the whole weight of the embassy was shifting then to Brasilia, and that's where we wanted to be.  The Finance Ministry was there and all their people.</p>
-<p>
-<hi rend="italics">Q:  The Bank of Brazil and the Central Bank, the banking community was still in Rio.</hi>
-</p>
-<p>BLASER:  No, the Central Bank, the Bank of Brazil is another bank.</p>
-<p>
-<hi rend="italics">Q:  Okay, the Central Bank.</hi>
-</p>
-<p>BLASER:  I was in contact with them in both places.  I think they moved, but I'm not sure.  But the whole weight of the financial establishment was still in Rio and in Sao Paulo.  Sao Paulo was very important too.</p>
-<p>
-<hi rend="italics">Q:  So after you moved to Brasilia you still regularly visited both other cities.  I had an occasion to visit both Rio and Brasilia in 1987, I think, and I had kind of a strange feeling about Brasilia.  It didn't seem quite real.</hi>
-</p>
-<p>BLASER:  It's artificial, that's right.</p>
-<p>
-<hi rend="italics">Q:  And I realized that one of the things was, there are a lot of hotels, and a lot of Brazilians were spending four or five days during the week in hotels and then going home somewhere else.</hi>
-</p>
-<p>BLASER:  The bureaucrats, I'm sure, were dragged kicking and screaming from the nice beaches in Rio up to Brasilia.  And as you say, I'm sure many of them maintained their former residences and just had a place to sleep in Brasilia.  Gradually, I suppose, that changed but those Rio people didn't care much to go out there.  And that's understandable.  Here you have a sophisticated, vibrant city, and to go out to the back woods so to speak, it's quite a difference in lifestyle which they didn't care for.</p>
-<p>
-<hi rend="italics">Q:  Another thing that struck me on the basis of a two day visit was, it seemed to be a city built for cars.  Of course, this was 20 years or so after you were there, or 15.  To walk was very difficult anywhere.</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>BLASER:  Oh, it was all spread out.  One thing they did have up there was lots of room.  And there were buses, of course.  The Brazilians were poor.  Many had cars but the whole working population did not, so there were the buses.  But they had this rather strange system of traffic.  They had all these circles.  And when we were there there were only one or two traffic lights in town.  But I understand that in subsequent years the traffic had gotten a lot heavier and they had to install traffic lights, and the circles aren't too well adapted to that.  So I think maybe the planners missed a beat.  I'm not sure, but I think so.</p>
-<p>
-<hi rend="italics">Q:  As Financial Attach� did you have an assistant?</hi>
-</p>
-<p>BLASER:  Yes, I did.</p>
-<p>
-<hi rend="italics">Q:  ...also in Brasilia.  Again you were associated with the economic section?</hi>
-</p>
-<p>BLASER:  Yes.  We worked together closely.  I worked with the economic counselor there.</p>
-<p>
-<hi rend="italics">Q:  Was there an AID mission, or office?</hi>
-</p>
-<p>BLASER:  Yes indeed there was.  It was more important there than in Germany.</p>
-<p>
-<hi rend="italics">Q:  Were you called on for advice occasionally by them on financial matters?</hi>
-</p>
-<p>BLASER:  Yes, that's right.  They were still making loans to Brazilian entities, and from time to time when these loan matters would come up, the ambassador would convene a conference and ask us about it.  In general we'd go along.  Brazil began to develop some momentum of its own so that the loans that were being offered, or considered, were less important.  It sort of got to the point where it didn't make too much difference one way or the other.  They could make the loan and it would be somewhat helpful, but not necessary.  Brazil's resources were sufficient so the matter of repayment was not too important.  As you know, the Brazilian's economic or financial history has been to go along for a few years inflating steadily, and then revalue the currency.  The effect was to throw out the old currency, since exchange at a thousand to one didn't leave much value.  So savings were a very dangerous thing, at least saving accounts in the conventional sense.  Business investments, or real property were the only practical means of preserving wealth.</p>
-<p>
-<hi rend="italics">Q:  Which didn't lose its value with the next revaluation.</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>BLASER:  Would not, that's right.  So it was hard to see how many people got along over those years, but this was sort of old hat, and they had learned to live with this kind of a system.  During my years there, particularly the two years in Brasilia, they had a very excellent Finance Minister who by one measure or another managed to hold the lid on.  He reduced the rate of inflation down to maybe at the best 15 or 20% a year which seems incredulous, but for Brazil that was pretty good.  But then I tell my friends, after I left, the lid blew off again.  The conservative and skillful Finance Minister for one reason or another was gone, or lost his influence.  So things deteriorated more rapidly after that.</p>
-<p>
-<hi rend="italics">Q:  Did you have direct access to the Finance Minister during the time you were there, or did the ambassador feel that was his responsibility?</hi>
-</p>
-<p>BLASER:  I saw him once or twice, but no, it wouldn't be fair to say I had regular access to him.  He knew me, and I knew him, but the contact was minimal I must say.</p>
-<p>
-<hi rend="italics">Q:  So you would primarily see the senior officials who advised him.</hi>
-</p>
-<p>BLASER:  That's right, in the Central Bank.  The head of the Central Bank I saw fairly frequently.</p>
-<p>
-<hi rend="italics">Q:  The International Monetary Fund and the World Bank were active in Brazil at that time?</hi>
-</p>
-<p>BLASER:  Oh, yes, very much so.  They sent missions down, and I would always meet with them.  I knew some of the Americans on those staffs so they would usually talk to me privately about my feel for the situation and how it was going, what the outlook was.</p>
-<p>
-<hi rend="italics">Q:  And you would try to supplement the contacts you had in Brasilia with regular visits to Sao Paulo, to Rio, to meet with the private banking and financial communities.</hi>
-</p>
-<p>BLASER:  Exactly, the American and the Brazilian banks.  We had a very good man on the embassy staff, the local staff in Sao Paulo who was especially good.  I'd call him and we'd set up a day or two day's appointments and make the rounds.</p>
-<p>
-<hi rend="italics">Q:  He would go around with you.</hi>
-</p>
-<p>BLASER:  Yes, because he knew the people.</p>
-<p>
-<pb facs="0022" n="Page0022"/>
-<hi rend="italics">Q:  Did the Financial Attach�'s office in Brasilia and Rio have Foreign Service national staff members?</hi>
-</p>
-<p>BLASER:  We had access to the local staff.  There was nobody directly assigned to our office, but we could call on them as needed.</p>
-<p>
-<hi rend="italics">Q:  For translations, or...</hi>
-</p>
-<p>BLASER:  Well, we didn't need the translations so much in Brazil, but just for research work.</p>
-<p>
-<hi rend="italics">Q:  How about in Bonn and Tokyo?</hi>
-</p>
-<p>BLASER:  There was a German staff in Bonn that was very good, and I used them a lot.</p>
-<p>
-<hi rend="italics">Q:  And they were part of the Treasury office with the economic section.</hi>
-</p>
-<p>BLASER:  That's right.  There were two or three of those people that were my support, and they were very good.</p>
-<p>
-<hi rend="italics">Q:  Is there anything else that we should specifically talk about in terms of Brazil?  And then I'd like to ask you a few questions generally about your career.</hi>
-</p>
-<p>BLASER:  I think that pretty well covers it.  In Brazil the outstanding financial feature was as we've already mentioned, the constant deterioration of the currency, and the periodic revaluations and starting over which has continued to this day as far as I can see.</p>
-<p>
-<hi rend="italics">Q:  And all of that trend, that cyclical process, has great political consequences.</hi>
-</p>
-<p>BLASER:  That's true too, and as everywhere political leaders come in, and those who try to hold the lid on usually get blown off and the lid explodes, and expenditures continue.  It's a little bit like the United States, I would say.</p>
-<p>
-<pb facs="0023" n="Page0023"/>
-<hi rend="italics">Q:  Art, I see that you returned from Brasilia in mid-1973, and at the age of about 65 you retired from government service after 28 years with the Treasury, and your note here says you've not done a day's work for pay since.  I know you've done a lot of volunteer activity in your retirement period.  Let me ask you a few questions just generally about your Treasury experience.  In 28 years I haven't tried to add it up, but you must have spent about 20 years...</hi>
-</p>
-<p>BLASER:  Seventeen.</p>
-<p>
-<hi rend="italics">Q:  Seventeen out of 28 years were overseas, at four different posts.  A State Department Foreign Service person who served 28 years would probably have served about 17 years, 18 years maybe on average, but probably would have served in about six or seven posts, instead of four.</hi>
-</p>
-<p>BLASER:  I really think that in the work I was doing, and perhaps the Foreign Service as well (I really don't have any basis for judging in the Foreign Service), for the first six months at least, and perhaps the first year, and in fact throughout the whole period you're adding contacts, you're becoming more knowledgeable.  I think a two year assignment would be almost a waste.  However in London I was a junior person and it was just as much training for me as it was otherwise.</p>
-<p>
-<hi rend="italics">Q:  You gained experience.</hi>
-</p>
-<p>BLASER:  Yes, that's right, but the contribution that I could make was not as great as it was later when I had more experience and knowledge.</p>
-<p>
-<hi rend="italics">Q:  So you were seven years in Tokyo, four years or so in Germany, and about four years in Brazil.  I'm going to make some comments as an economic officer which I was for much of my career, but also somebody who worked in a Treasury office in Rome for about a year and a half...</hi>
-</p>
-<p>BLASER:  Oh yes, I'd forgotten.  With whom?</p>
-<p>
-<hi rend="italics">Q:  Ralph Korp was the financial attach�, and Ciro deFalco was the assistant attach�.  Later he went back to Rome, and he was in Brazil also.  I know there's always a little bit of tension, if you will, in terms of economic reporting, macro economic reporting between the Foreign Service State Department economic officer or economic counselor, and the Treasury attach� office.  Did you sense that.  Or did it work pretty collaboratively?</hi>
-</p>
-<pb facs="0024" n="Page0024"/>
-<p>BLASER:  I never had any problem that I was aware of, and I trust that my opposite number, the economic counselor, didn't either.  We usually worked together very closely, often in adjoining offices, and would just say, you take this one, and we'll take this one.  I had the feeling that in the early times, I mean my very first experiences in Treasury, that some of our overseas representatives, many of whom were aggressive, go-go guys, felt they should have more influence.  They were sometimes contending for influence, not for reporting responsibilities, but for access to the ambassador, etc., and there was a certain amount of competition there.  I recall reading one letter from one of our people who said that he had been layered in the embassy structure, and access to the ambassador was more difficult.</p>
-<p>
-<hi rend="italics">Q:  There were several layers above him that he had to get through.</hi>
-</p>
-<p>BLASER:  He had been diminished and he was unhappy and protesting.  But I think, if I may say so, that a lot depends on the personality of the individuals involved, and how assertive they were.  My approach was always cooperative.  I played a lot of sports, and I feel a member of the team rather than an individual trying to make a splash.  That approach seemed to work very well.</p>
-<p>
-<hi rend="italics">Q:  So you felt you had access that you needed to the ambassador, and that they valued the kind of information and input that you could give.</hi>
-</p>
-<p>BLASER:  Yes.  You have to earn the respect, but when you get it you get there.</p>
-<p>
-<hi rend="italics">Q:  Your mentioning sports suddenly reminded me of an experience we had together in Japan where Ambassador MacArthur, who also was very keen on sports...I think it was the year when the Eisenhower visit was canceled where there were student demonstrations, where the security treaty was concluded, a very tumultuous year, that Ambassador MacArthur felt that it would really be good if the embassy could engage the Foreign Minister, the Foreign Ministry...I think it was particularly the Foreign Ministry, a very informal, casual basis, and that we should have a softball game.</hi>
-</p>
-<p>BLASER:  Yes, I remember.  I played.</p>
-<p>
-<hi rend="italics">Q:  You played, and I didn't play I don't think, but I helped organize it.</hi>
-</p>
-<p>BLASER:  Yes, the ambassador played shortstop, and I played second base.  I recall one play in particular.  A ground ball went to the ambassador, and we had a force play on second base—a man coming over from first—and he had a little trouble handling the ball.  I said to him, “Take your time, we've got lots of time.” He got the ball in there in time, and we got the force out.</p>
-<pb facs="0025" n="Page0025"/>
-<p>
-<hi rend="italics">Q:  He took it very seriously.  I think partly because of his enthusiasm and interest the Foreign Minister of Japan felt that he needed to play and participate in the game.  I seem to remember that he was there.</hi>
-</p>
-<p>BLASER:  That was fun.</p>
-<p>
-<hi rend="italics">Q:  At that post, and then in Bonn, and in Brasilia it was a question of working not just with the ambassador, but with others on a total country team.  You certainly felt that you had the backing of your agency, as well as others at the post.</hi>
-</p>
-<p>BLASER:  I never had the experience really that Treasury interests, if you can put it that way, diverged from what the mission was trying to do.  So I never was placed in a position where I had to try to oppose an embassy position on something.  In fact I was told when I was first sent out, “don't you in the field try to steer the ship.  You just tell us what's happening, and we'll handle it in Washington.” As I said, in the early years interdepartmental tensions were a little more severe than I feel they were later.  The question of communications between the financial attach�, the Treasury man, and the Treasury back home, had been a problem.  I think in view of some of the early tensions, embassies were a little nervous about that kind of communication.  It quieted down I'm glad to say when I went.  We talked on the phone sometimes, and I didn't feel any hesitancy in sending a letter about news of particular interest to the people back in the Treasury.  I didn't do that very often and there was never any problem.</p>
-<p>
-<hi rend="italics">Q:  The question of back channel messages...not just Treasury, other agencies do it.</hi>
-</p>
-<p>BLASER:  It's a continuing problem, I think, when objectives don't quite coincide.</p>
-<p>
-<hi rend="italics">Q:  One of the big events that of course occurs at an overseas post is when you have visits, and you had several visits, I assume by the Secretary of the Treasury, probably in all of your posts.</hi>
-</p>
-<pb facs="0026" n="Page0026"/>
-<p>BLASER:  Yes, I think they came each time.  I'm not sure about London but they certainly did in the others.  And there were all kinds of missions coming.  I remember one notable occasion.  Bobby Kennedy came to Japan, and of course he was a real go-go guy.  He was up at 5 o'clock in the morning and going out and meeting with youth groups, and Ethel was terrific too.  So I recall on the day of their departure, we were all over at the embassy residence where they had been house guests of the ambassador.  Ethel came charging down the stairs, and a group of us were standing there.  She was very effusive and said, “I bring you love from Jackie.” Right from Mount Olympus, itself.  But they were very enthusiastic people, and it was kind of fun to watch them work.</p>
-<p>
-<hi rend="italics">Q:  He was the Attorney General, I suppose at the time?</hi>
-</p>
-<p>BLASER:  Yes.</p>
-<p>
-<hi rend="italics">Q:  You were not directly involved in supporting his visit, but just as a member of the country team.</hi>
-</p>
-<p>BLASER:  And sort of in a sense co-host.  Another visitor in Japan was Franklin Roosevelt Jr.  He was interested in seeing his son who was out at one of the military camps.  Senator Javits came to Germany.</p>
-<p>
-<hi rend="italics">Q:  One of the things I recall about Japan, in fact it was the first assignment I had after I arrived was the 1959 conference of the directing parties of General Agreement on Tariffs and Trade, GATT, which I think was a meeting outside of Europe for the first time.  It was probably one of the earliest major international meetings in Tokyo after the end of the war.  Were you involved with that?</hi>
-</p>
-<p>BLASER:  Not directly although I participated in the closing dinner.  There was some rich real estate man who was our representative.  Do you remember his name?</p>
-<p>
-<hi rend="italics">Q:  No, I don't.  Douglas Dillon, I think, came for part of it.</hi>
-</p>
-<p>BLASER:  Anyhow, we had a very elaborate dinner set up and for some reason the Japanese guests were few and far between.  So we Americans sought out other guests, and recruited whomever we could to fill the empty places.  “Would you like to come and have a $50 dinner?” It was wild.  For some reason some arrangements had gone astray.</p>
-<p>
-<pb facs="0027" n="Page0027"/>
-<hi rend="italics">Q:  And you didn't want the food to go to waste, it also didn't look right.</hi>
-</p>
-<p>BLASER:  That's right, and you had to pay for it anyhow, so you might as well...</p>
-<p>
-<hi rend="italics">Q:  ...let somebody take advantage of it.  I guess a general kind of question, you were representing the United States government, representing the Department of the Treasury.  What kind of responsibility did you feel to the Federal Reserve system in Washington, to our Central Bank.  They of course read your reporting but they didn't have their own people.  When the Chairman of the Federal Reserve, or governor of the Federal Reserve came to your country you would probably be the control officer?</hi>
-</p>
-<p>BLASER:  Yes, often so, not always.  Arthur Burns, the chairman, came to Brazil.  That was quite a thing because...we were in Brasilia at the time and most of the things were taking place down in Rio.  So for about a week I was commuting between Brasilia and Rio.  Also various individual governors came from time to time.  I had quite a bit to do with them when they came.</p>
-<p>
-<hi rend="italics">Q:  As a government representative of course your main point of contact with the other government, the other treasury Finance Ministry, Central Bank.  But the real economy, as well as the monetary system, the banking system, in all of these countries, largely the private sector.  You mentioned that in each place you had a lot of contact with private bankers.</hi>
-</p>
-<p>BLASER:  Both American and local.</p>
-<p>
-<hi rend="italics">Q:  And those were very important in terms of getting your fingers on what was really happening, and what was likely to happen the best you could.</hi>
-</p>
-<p>BLASER:  Trying to, yes, that's right.</p>
-<p>
-<hi rend="italics">Q:  Because the government people were, although they obviously influence fiscal policy and monetary policy, they didn't always know exactly what was happening in terms of investment decisions.</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>BLASER:  I think in general balance of payments was clearly my responsibility, how the international financial picture was coming out, and the economy in general.  I think in my reporting I often tried to do as much as I could on the general state of the economy too, in conjunction with the economic counselor.  In my reports I contributed as much as I could to a broad picture of where the country was going in its economy.  Of course, finance, trade and exchange rates in a lot of those countries where foreign trade was so important, were fairly influential in the overall picture.  But I never felt I had any real conflict with the economic officers.  We divided up the pie.</p>
-<p>
-<hi rend="italics">Q:  They would presumably get involved in trade negotiations.</hi>
-</p>
-<p>BLASER:  Oh, yes.  I was never in the trade side.  That was strictly on the other side.</p>
-<p>
-<hi rend="italics">Q:  And that was also true of commercial promotion, export promotion.</hi>
-</p>
-<p>BLASER:  Yes, I didn't have anything to do with that.</p>
-<p>
-<hi rend="italics">Q:  Except you would occasionally meet, if there was a trade mission, a delegation, you would probably give a briefing.</hi>
-</p>
-<p>BLASER:  Participate, that's right.  The reporting and the actual work, the promotions, etc., I didn't do anything with that.</p>
-<p>
-<hi rend="italics">Q:  You mentioned that your wife really enjoyed Japan.  She enjoyed all of your posts?</hi>
-</p>
-<p>BLASER:  Oh, yes.  In Brasilia she enrolled in the University of Brasilia for a couple of courses, in particular, one on the origin of comics...</p>
-<p>
-<hi rend="italics">Q:  Comics?</hi>
-</p>
-<p>BLASER:  Comics, Katzenjammer Kids and others.  They had a course on that which she found very interesting.</p>
-<p>
-<hi rend="italics">Q:  And that was presumably taught in Portuguese?</hi>
-</p>
-<p>BLASER:  Oh, yes, sure.  But she could handle that.</p>
-<pb facs="0029" n="Page0029"/>
-<p>
-<hi rend="italics">Q:  Well, looking back are you glad you didn't go back to teaching?</hi>
-</p>
-<p>BLASER:  Oh, yes.  Or the Civil Service Commission.  Those were all interesting experiences, and I'm glad I did it but I'm very, very happy indeed with the basic way my career turned out.  We had a ball, a lot of fun and a lot of experiences.  We traveled widely, been all the way from Ushuaia at the tip of South America, to the North Pole—flying over the Pole, of course.  We flew from Lulea in Sweden to Anchorage, Alaska, over the Pole.</p>
-<p>
-<hi rend="italics">Q:  You were doing a lot of flying, beginning in 1946 when it wasn't very easy.</hi>
-</p>
-<p>BLASER:  Oh, yes, we rode a lot of airplanes, that's true.  On the first trip to England our first leg was Gander, Newfoundland where we landed in a snow storm and the plane was deadlined for 24 hours or more.  So I got transportation and went around to see one of the banks there to learn a little more about how Canada was running its currency at that time.  So I went to work 12 hours after leaving the United States.</p>
-<p>
-<hi rend="italics">Q:  Before you even left North America.  When you traveled to Japan in 1956, how did you do that.  Did you go by ship?</hi>
-</p>
-<p>BLASER:  No, we went around the world.  We went via the Atlantic...I can't remember precisely, but I think we touched most of the bases.  We went to London and to Rome, Cairo, Beirut and Karachi.  We stopped off in India where I knew some people in the American embassy in Delhi and saw them.  Then on to Saigon, Vietnam, Hong Kong, and then Japan.  So we touched a few bases.  In Hong Kong in particular there was some financial interest.</p>
-<p>
-<hi rend="italics">Q:  Did you ever get to Russia, the Soviet Union?</hi>
-</p>
-<p>BLASER:  I had gone individually in 1931 between my years at Harvard Business School, on a special tour, just a small group.  We went to Germany, took the Baltic ship from Lubeck to Helsinki, and then took the train into Leningrad, and from Leningrad to Moscow, and then to Kiev.  I went independently to Kiev where I had a letter to a local man.  I went to his home.  This was a little risky for him, I guess.  I went swimming in the Dnieper River with him and his friends.  I then went out to Poland, Romania, Hungary, (Budapest), Vienna, and then to Geneva where I spent the summer in '31, all before I joined the service.  And I had been to England on a bicycle trip in 1929.  So my taste for travel developed early on and was stimulated through those trips to Europe.</p>
-<p>
-<pb facs="0030" n="Page0030"/>
-<hi rend="italics">Q:  The academic work that you did before, was that on an international topic?</hi>
-</p>
-<p>BLASER:  Well, not really, my Ph.D. thesis was on the Federal Reserve Bank of Cleveland.  I'd been in a banking seminar in Columbia University conducted by Professor H. Parker Willis.  He was one of the early sponsors and creators of the Federal Reserve System.  In the seminar he had the idea that it would be nice if individual monographs were written about the twelve regional Federal Reserve banks.  Since I lived in Cleveland that recommended itself to me very much.  Professor Willis set up some valuable contacts for me since he knew all the people.  And so over a period of several years while I was trying to earn a living, on the side I developed a thesis on the bank.</p>
-<p>
-<hi rend="italics">Q:  The Federal Reserve Bank of Cleveland.</hi>
-</p>
-<p>BLASER:  That's right, yes.</p>
-<p>
-<hi rend="italics">Q:  Well, you certainly knew from that experience, and otherwise, certainly about the working of the United States.</hi>
-</p>
-<p>BLASER:  Yes.  I had also worked in a commercial bank.</p>
-<p>
-<hi rend="italics">Q:  That was useful then later when you visited...</hi>
-</p>
-<p>BLASER:  I had a little feel for what a bank is, and what it does.  It was a sort of introduction.  It's not strange, and you can begin to talk bankers language, and it helps.</p>
-<p>
-<hi rend="italics">Q:  That helps you follow the money, as they say.</hi>
-</p>
-<p>BLASER:  I recall one incident in London.  I can't remember all the circumstances, but the gist of it was that the US was trying to get hold of some gold, gold sovereign coins.  I think it had to do with some arrangements that they were contemplating in Saudi Arabia on the oil.  I was pretty green at the time, and had to interview a fairly senior official in the British treasury.  He said to me, “So, you want some sovereigns so you can break the market in sovereigns.” I didn't have any answer to that.</p>
-<p>
-<hi rend="italics">Q:  He was just trying to get some information.</hi>
-</p>
-<pb facs="0031" n="Page0031"/>
-<p>BLASER:  No, I was trying to get hold of some of those sovereigns, or get somebody to use them in a certain way.  I can't recall precise details except here was this young pipsqueak, fresh officer, dealing with a fairly senior...I mean I was out of my depth.  But for some reason I was asked to do this...</p>
-<p>
-<hi rend="italics">Q:  And he was fairly capable of knowing where your place was and making sure you stayed there.</hi>
-</p>
-<p>BLASER:  He wasn't rude or anything, but what I was trying to sell didn't please him too well.</p>
-<p>
-<hi rend="italics">Q:  During much of your career gold was very important.</hi>
-</p>
-<p>BLASER:  Not so important.  President Roosevelt had taken us off gold in '33, one of the first things he did.</p>
-<p>
-<hi rend="italics">Q:  Certainly most of the rest of world was still trying to...</hi>
-</p>
-<p>BLASER:  Well, yes...</p>
-<p>Biographic Information:  by:  Arthur F. Blaser, Jr.</p>
-<p>Born September 29, 1908 Cleveland, Ohio</p>
-<p>Graduated East High School, February 1925</p>
-<p>In 1920 father bought a 42 acre farm in Gates Mills, Ohio, a suburb about 15 miles east of Cleveland.  The family spent the summers there and father commuted to his job in Cleveland.  It was still pretty rural and I learned quite a bit about farming as it was practiced at that time.  I used to go around to other farms and help with threshing and in return the other farmers would come and help us.  In the first few years my father grew field crops such as corn, wheat and oats.  We had a producing fruit orchard and kept a cow.</p>
-<p>Graduated from Yale University, Ph.B. degree (no Latin) 1929.</p>
-<p>Spent the summer of 1929 on a bicycle trip with two friends.  Visited England, Scotland, Belgium, France, Switzerland, and Netherlands.</p>
-<p>On return went to work for Central National Bank in Cleveland.  After a year, with father's advice, decided an arts degree was not sufficient basis to earn a good living.</p>
-<pb facs="0032" n="Page0032"/>
-<p>Entered Harvard Business School fall of 1930.  Spent summer of 1931 in Europe.  Spent 8 weeks in Geneva, Switzerland at “Geneva School of International Studies”, founded and directed by Dr. Alfred Zimmern of Oxford University with students from all over the world, but mostly from Europe.  Before the school session began visited France, Germany, Soviet Union, Poland, Romania, Hungary, Austria, and after school, Germany again.</p>
-<p>Graduated HBS with an MBA degree, June 1932 in depth of depression.  Could not get a job anywhere, despite efforts.  Finally in spring of 1933, after the banking holiday, I was able to get back with Central National Bank.  Two of the big banks in Cleveland failed and Central, which did not, increased its business and needed more help.  After a few more months I decided I didn't want to be a banker and spend the rest of my life in one place.  The depression made a deep imprint and I decided to go to Columbia University to study economics, and in particular, the business cycle.  At that time Professor Wesley C. Mitchell was the chief guru in that field and I wanted to learn from him.  I learned a lot and a lot more since, but like everybody else, I am still looking for the answers.  We know worlds more about how the economy works than we did then, but no one can really predict where the economy will go.  A former chairman of the President's Council of Economic Advisors, who was a young instructor when I was a student at Columbia, told me later that he thinks Professor Mitchell went to his grave still looking for the answer.  But in any case he gave it a good try and advanced the cause greatly.</p>
-<p>I spent two years in residence at Columbia 1933-35, at the end of which time I passed the oral examination to qualify for my Ph.D. degree.  Between the two years I was able to get a summer job back at Central National to enable me to pay part of my expense for the second year.</p>
-<p>I accepted (was able to get) an instructorship in economics and business administration at Rensselaer Polytechnic Institute in Troy, New York.  I did this for four school years 1935-39.  The idea was that I would also work on my Ph.D. thesis in the summers and as I could during the school year.</p>
-<p>By the spring of 1939 it became evident that the thesis was not getting done.  So I got married and went with my new wife to take up residence again at Columbia to work on my thesis.  During that year, with some help from her and her family, I was able to finish it and successfully “defend” it before the faculty examiners.  Only publication, then required by Columbia, remained between me and my degree.</p>
-<p>We went back to RPI for two more years, 1940-42.  We spent the summer of 1941 at the University of North Carolina at Chapel Hill where I read proof for my book, “The Federal Reserve Bank of Cleveland.” It was published by the Columbia University Press and the degree was granted as of 1941.</p>
-<pb facs="0033" n="Page0033"/>
-<p>By 1942 we were in the war.  After six years of teaching I decided that was not the life for me either.  Many academics were flocking to Washington to “help in the war effort” and to receive the better salaries offered in the Government.  I applied and was offered a job with the US Civil Service Commission recruiting and examining economists and statisticians for the war agencies.  It seemed a good place to start because it would give me some perspective on the kinds of jobs available in the government.  And so it proved to be.  In the fall of 1945 it was evident that the recruiting phase was over, and I would have to move.</p>
-<p>My training and experience seemed to fit best at Treasury and I applied with its then “Office of Monetary Research”.  I took a cut in grade but it was worth it.  My first assignment was on France where I had the experience over the Xmas holidays of working on the French devaluation.  (Devaluations are often carried out during holidays when businesses and banks are closed.) Later I was transferred to the British Empire and Middle East division.  At the end of 1946 I was asked to go to London as an assistant to the Treasury Representative there.  Treasury at that time had an arrangement with the State Department whereby it would send mostly senior people to embassies in countries where the US had a large financial interest, to work on the Ambassador's staff to assist on financial matters on which they had special knowledge or expertise.  While in Washington I had worked on the post-war loan to Britain, ($3.75 billion) and the Lend Lease settlement, and that was part of the work in London.  A big part of the job was to help keep track of the financial situation in Britain and report on that to Washington.  Also I had to become expert on the complicated system of exchange controls and to help American business men and private citizens with the problems they encountered with the controls.</p>
-<p>In the fall of 1948 I was recalled to Washington and rejoined the British Empire and Middle East section.  The work was somewhat similar to that which I had been doing before and in London.  One big event was the devaluation of the British pound.  This involved a lot of analysis, much of it window dressing, until those in authority decided what the deal was going to be.</p>
-<p>In 1951 I was asked to join one other colleague to act as staff support for Treasury's representation on the National Security Council, of which the Secretary of the Treasury was a member.  In this work I often accompanied the Assistant Secretary for Monetary Affairs to meetings of the Council's Planning Board.  I remember one time in particular when the Board had to consider whether Japan was credit-worthy to the tune of $100,000,000.  That would be peanuts in today's world.</p>
-<p>In 1956 I was asked to go to Japan as Financial Attach� on the Ambassador's staff.  Arrangements between State and Treasury had been changed since I was in London.  Treasury people selected for overseas duty were designated as Financial Attach� (or Assistant) and given diplomatic status.  The Washington part of the Treasury involved in this program was renamed “Office of the Assistant Secretary for International Affairs (or OASIA for short).</p>
-<pb facs="0034" n="Page0034"/>
-<p>In Japan one of the main jobs was to collect, after negotiations, the money Japan owed the United States for GARIOA (Government and Relief in Occupied Areas).  In this the staff work was interesting, difficult and significant.  However in the end the decision rested on what the Ministers felt the Japanese public would tolerate and when, as well as what the Government could afford.  Finally after some years the Finance Minister told us they could pay a figure just under $600,000,000, so it was fixed at $595 million.</p>
-<p>Another interesting assignment arose when we and the Japanese wanted to get rid of military payment certificates (MPC's), the scrip, equivalent to dollars, which was used in our extensive military installations in Okinawa.  A special mission was set up composed of officials of the Defense Department, the Bureau of the Budget and myself from Japan.  Our wish was to substitute our regular paper currency and coin but the Japanese were hesitant because of their concern about the impact the change would have on their exchange control.  After the mission had concluded its work in the field, I was asked to come to Washington to report on the work.  I consulted with various officials and the US Executive Director of the International Monetary Fund.  In the end all worked out smoothly, and regular US currency and coin replaced MPC's.  I was asked to return to Okinawa during the actual conversion period to report on progress.</p>
-<p>As Japan grew in strength, the US hoped that Japan would assist more in maintaining our troops stationed on its territory.  Efforts were not as successful as we might have hoped but some progress was made.</p>
-<p>A part of the job, as it was in all my foreign assignments, was to report on financial developments, notably balance of payments and the government budget.  The US Export-Import Bank and the International Bank for Reconstruction and Development were making loans in Japan and I met with their representatives about financial developments.  Similarly American private banks were becoming interested in resuming old connections or establishing new ones and I met with many of those representatives, either as they were visiting Japan or with those stationed in the country.</p>
-<p>After seven wonderful years I told my wife we had better go home before our eyes took on the oriental slant.  We left in 1963 and spent the next two years in Washington.  The Treasury's international office had been reorganized in our absence and I was assigned to a unit called Office of Industrial Nations.  This of course included Japan so that continued as one of my major responsibilities in the Office.</p>
-<pb facs="0035" n="Page0035"/>
-<p>Since we had no children and were free to go, and also liked overseas assignments, we were asked to go to Germany and arrived there in mid-1965.  In Germany one of the principal objectives was to increase German support for our forces there.  In this work we assisted, along with our Embassy colleagues, officials and teams who came from Washington from time to time to discuss these matters.  Another part of the work was to establish contacts with Ministry of Finance officials, the Bundesbank and private banks to keep abreast of financial developments in Germany, and, to the extent that I was able, to share with them similar developments in the United States.</p>
-<p>After nearly four years in Germany, we were next assigned to Brazil, and left Germany in February 1969 to study Portuguese for 16 weeks at the Foreign Service Institute.  This gave us a working basis in the language which was very helpful.  Our competence improved as time went on.</p>
-<p>In Brazil the work was similar in many respects but vastly different in others.  Inflation was endemic and we had to watch the exchange rate very carefully, and the factors impinging on it.  Brazil had adopted a policy of fairly frequent and regular small adjustments in the rate.  It was a different world and took some thought in getting used to it.</p>
-<p>Our experience in Brazil was a little out of the ordinary in that early in our stay our Ambassador, Burke Elbrick was kidnapped by some lawless elements in Brazilian society.  We were not directly involved in the incident other than to volunteer our services in any way that might be helpful.  In due course the Ambassador was returned by means of which we were not informed.  He seemed physically unharmed except for a small patch on his face but he seemed to be really “shook”.  He was soon replaced by William Rountree.  Ambassador Rountree announced that he would establish his embassy in Brasilia, Brazil's new capital in the interior of the country.  This meant that we had to move from Rio de Janeiro, a sophisticated modern city, to the outback which had some of the aspects of our west in the early days.  Nevertheless we greatly enjoyed life there with the “big sky” which reminded us of our travels in Montana.</p>
-<p>In Brazil there was an AID mission and at various times we had conferences with the Ambassador on actions, especially loans, being considered by the AID mission.</p>
-<p>Contacts with the Finance Ministry, the Central Bank and Brazilian and American bankers were important as they had been in the other countries in which we served.  Also in Brazil, as in Germany and Japan there were visits by the Secretary of the Treasury and other cabinet officers.  It was our job to participate in varying degrees in the preparations for those visits and the events which took place during them.</p>
-<pb facs="0036" n="Page0036"/>
-<p>After four happy years in Brazil and 28 years with the Treasury we decided it was time to “turn in our suit” and retire.  We were asked to extend for one more year but decided one more trip on the merry-go-round was not as attractive as returning home to a life of retirement.  And so it was.  We returned in mid-1973, went through the formalities of leaving Government service, and have not done a day's work for pay since.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>ARTHUR F. BLASER, JR.</p>
+                <p>Interviewed by: Raymond Ewing Date: October 16, 1996</p>
+                <p>Copyright 1998 ADST</p>
+                <p>This is a foreign affairs oral history interview with Arthur F. Blaser, Jr., who
+                    started with the Treasury Department in 1945, right after the end of the Second
+                    World War, and had a number of foreign assignments over his career.</p>
+                <p>
+                    <hi rend="italics">Q: Art, it's really good to have a chance to talk with you.
+                        We served together in Japan quite a few years ago and I was delighted to run
+                        into you last year now that you're around and maybe we would have a chance
+                        to do this.</hi>
+                </p>
+                <p>Art, I believe you joined the Treasury Department in 1945. What was it that drew
+                    you to Treasury, and when you joined Treasury were you particularly interested
+                    in the international side?</p>
+                <p>BLASER: I was in the Civil Service Commission and the job there was to recruit
+                    and examine economists and statisticians for the war agencies and, of course, as
+                    the war drew to a close the recruiting phase clearly was drawing to a close as
+                    well. And the writing was on the wall that that job was finishing up. I was
+                    teaching at Rensselaer Polytechnic in Troy, New York, in 1942, and I had decided
+                    that I wasn't going to be a teacher all my life. As you know many academics were
+                    flocking to Washington. So in thinking about a possible job in the government, I
+                    made an application to the Civil Service Commission. This was just a general
+                    idea of throwing my name into the pot of the Commission which would be
+                    recruiting for jobs Government-wide. But strangely enough the Commission offered
+                    me a job in its own organization, and in reflecting I thought, well, this is a
+                    pretty good idea because if you take this job you'll get a bird's eye view of
+                    what's going on in Washington in the economic and statistical work in many
+                    agencies. And actually that's the way it worked out. I had some contacts with
+                    the Treasury people, in particular the then Office of Monetary Research which
+                    was the precursor of the later organizations in the Treasury that I was a part
+                    of. So when it became obvious that it was time to make a change, I went to the
+                    administrative people in that Treasury unit and there was a position. That's the
+                    background of how it was Treasury rather than something else.</p>
+                <p>
+                    <hi rend="italics">Q: Certainly at the Civil Service Commission recruiting and
+                        dealing with the various agencies involved with economics and statistics,
+                        you certainly had an excellent opportunity to see what everybody was doing
+                        and what possibilities there might be.</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>BLASER: Yes, and of course Treasury being an old-line agency, from a selfish
+                    point of view I reflected that they'd probably be there when the War Production
+                    Board and the Office of Price Administration had long disappeared. So there was
+                    that factor also.</p>
+                <p>
+                    <hi rend="italics">Q: And then, of course, in the immediate post-war period
+                        there were enormous international considerations in the economic areas.
+                        Europe had been devastated by the war.</hi>
+                </p>
+                <p>BLASER: Lots of money had been transferred and was sloshing around, and a lot of
+                    things to tidy up after the war.</p>
+                <p>
+                    <hi rend="italics">Q: In the pre-war period, before you were involved, was
+                        Treasury involved in these international issues, or not?</hi>
+                </p>
+                <p>BLASER: I don't have too much focus on that. Just from an outside point of view,
+                    I think the Treasury was probably more interested in selling war bonds, and
+                    managing government finance, and financing the war. I imagine most of their
+                    energies were absorbed in that rather than other factors.</p>
+                <p>
+                    <hi rend="italics">Q: So you joined, as we said, in 1945 right after the end of
+                        the war. The Secretary of Treasury then was Morgenthau?</hi>
+                </p>
+                <p>BLASER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: What kind of work did you do initially at Treasury?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>BLASER: It was more of a research job. I first joined a section that had to do
+                    with France. It was a question of studying the French economy. The French, like
+                    others, had many problems and my first sort of baptism of fire came during the
+                    Christmas holidays in 1945 when the French government undertook a devaluation.
+                    Of course, those things are always handled very quietly, but we in the Treasury
+                    knew this was going to happen. My job, as a fairly junior member, was to do the
+                    watching. I was sent over to the Pentagon. Military communications were the ones
+                    that were being used, to get the word and keep my superiors involved. As it
+                    happened no word came through. Apparently the communication lines got diverted,
+                    and the boss was called out of bed or something with a sick baby, and Monday
+                    morning after the weekend when the devaluation was carried out, he called me on
+                    the carpet and said, “Hey, where were you?” And I said I was over there. I
+                    checked with the people that I was directed to stay in touch with, and my phone
+                    was covered 24 hours a day, and I heard nothing from anybody. He sort of
+                    grumbled, but there was nothing further that he could say. Later the French had
+                    negotiated a number of bilateral trade agreements and we went over those. There
+                    was no real big problem there. I was just helping with the analysis of those
+                    agreements.</p>
+                <p>Then the British loan came up, the American post-war loan to Britain to stabilize
+                    the pound, and to clear off World War II debts.</p>
+                <p>
+                    <hi rend="italics">Q: And by then you had moved from working on France to
+                        working to working on UK matters.</hi>
+                </p>
+                <p>BLASER: Yes. I was transferred to that section as its work increased in preparing
+                    for this important financing.</p>
+                <p>
+                    <hi rend="italics">Q: And that in effect prepared you for your first overseas
+                        assignment which was...when did you go to London?</hi>
+                </p>
+                <p>BLASER: We flew to London on the last day of 1946 and landed there New Year's
+                    Eve. We went to our hotel and looked down the corridor, and there the fog was
+                    coming into the corridor from outside. That was my introduction to London.</p>
+                <p>
+                    <hi rend="italics">Q: It's hard to think of a more difficult day to arrive at a
+                        Foreign Service post than New Year's eve. I guess only exceeded maybe by
+                        Christmas Eve would perhaps be even worse. You were in London, you were part
+                        of the embassy, part of the economic section.</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>BLASER: Yes, I guess you'd say that. I don't remember exactly the organizational
+                    details. I had a more senior Treasury representative under whose direct
+                    supervision I worked, but we were in close touch with the Ambassador. I'm a
+                    little unclear. I believe when I first arrived in London there was a sort of an
+                    interregnum, there was no ambassador and the minister was in charge. It's been
+                    so long I can't recall the actual details.</p>
+                <p>
+                    <hi rend="italics">Q: In that period, in the 1946-47 immediate post-war period,
+                        do you recall where else the Treasury Department had representatives? There
+                        weren't very many, or were there?</hi>
+                </p>
+                <p>BLASER: No, not a great many. We had a man in Paris, one in Rome, one in the
+                    Middle East who was based in Cairo but traveled around, and one in Brazil. We
+                    also had somebody in Japan. Just a handful, there was no widespread thing. Their
+                    link to Treasury was to the Office of Monetary Research which later became the
+                    Office of the Assistant Secretary for International Affairs. That title was a
+                    little more apt in later years. With State Department concurrence they sent
+                    people where there were heavy United States financial interests and
+                    commitments.</p>
+                <p>
+                    <hi rend="italics">Q: We certainly had interests and commitments in Britain at
+                        that time, and I guess you were reporting, analyzing the British economy as
+                        well as the operation of exchange controls because that was very
+                        regulated.</hi>
+                </p>
+                <p>BLASER: Yes, it was indeed. And then we had to watch the progress of the loan
+                    too. But in general, of course, that simply related to Britain's success in
+                    international trade, and international finance which would enable the UK to
+                    generate the money to service the loan.</p>
+                <p>I would like to take one minute to go back to the scene in the US, when the
+                    congress was debating whether or not it would approve the British loan which was
+                    $3 billion, seven hundred and fifty million dollars, plus a lend lease
+                    settlement. I was in the gallery in the House of Representatives and it was
+                    quite dramatic. The speaker of the House, Sam Rayburn, abandoned the chair, and
+                    came down on the floor and made a stirring speech. He said the loan would help
+                    to buttress our system against the advance of communism, “something which I
+                    abhor.” It was dramatic really. You could just feel it in the hall that that
+                    speech had put the loan across. I went back and telephoned my office on this
+                    development.</p>
+                <p>
+                    <hi rend="italics">Q: That was a very important step. The British government at
+                        the time that you were there, and when the loan was approved, was under
+                        Labor wasn't it?</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>BLASER: Yes. Well, that was the interesting thing. As you know, the British
+                    kicked Winston Churchill out shortly after the close of the war and Labor was
+                    in, and Clement Attlee was prime minister. Lewis Douglas, the former director of
+                    the Bureau of the Budget had come to London as the Ambassador. And Sam Berger,
+                    who later became Ambassador in Korea and elsewhere, was the labor attach�. He
+                    was top dog in the embassy staff from the time Labor took over because he knew
+                    all the Labor people. He became the Ambassador's right arm. This was a little
+                    amusing in that the old embassy stalwarts who had ruled the roost before Labor
+                    came in were not quite as influential in the embassy as they had been. Sam knew
+                    the whole UK Government power structure, so he was in.</p>
+                <p>
+                    <hi rend="italics">Q: You and your colleague from Treasury had a lot of contacts
+                        with the Bank of England and Treasury.</hi>
+                </p>
+                <p>BLASER: Yes, Treasury mostly. The Bank of England was sort of the handmaiden and
+                    the Treasury was where the power was. We kept in touch with them.</p>
+                <p>
+                    <hi rend="italics">Q: Well, anyone who has had an assignment in London always,
+                        of course, looks back on it as a great experience, and I think for your
+                        first Foreign Service assignment that must have been very special. How long
+                        were you in London? A couple of years?</hi>
+                </p>
+                <p>BLASER: Yes, just a couple of months short of two years.</p>
+                <p>
+                    <hi rend="italics">Q: And then you came back to Washington?</hi>
+                </p>
+                <p>BLASER: Yes, that's right. We came back in '48 and didn't go out again until
+                    '56.</p>
+                <p>
+                    <hi rend="italics">Q: And part of that time you continued to be involved with
+                        British financial monetary affairs.</hi>
+                </p>
+                <p>BLASER: Yes, I did. One thing that happened while I was back in Washington was
+                    the devaluation of the pound. We had a lot of sort of hurry-up economic studies.
+                    Some colleagues and I went to New York and went into the stores, and checked
+                    with clerks about British merchandise. We found in general it was pretty
+                    expensive. The whole idea, of course, was to buttress the need for a reduction
+                    in value of the pound. So there was a lot of pulling and hauling, and staff
+                    work. But as it developed, as you might expect, this was a matter so important
+                    that the staff work was just sort of trimming, and the people who had to make
+                    the decision finally made it. That was that.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: I notice in this memorandum that you have given me, that
+                        after about three years, in 1951, you and another colleague became the staff
+                        support for Treasury's representation on the National Security Council.</hi>
+                </p>
+                <p>BLASER: That's right. I was transferred out of the British section and took over
+                    that staff job.</p>
+                <p>
+                    <hi rend="italics">Q: The Secretary of Treasury was a member of the National
+                        Security Council.</hi>
+                </p>
+                <p>BLASER: Yes, indeed he was.</p>
+                <p>
+                    <hi rend="italics">Q: Were you actually a NSC staff member?</hi>
+                </p>
+                <p>BLASER: No, I was Treasury. I was never on the NSC staff as such. We worked with
+                    those people. James Lay was the executive secretary, or whatever the title of
+                    his job was.</p>
+                <p>
+                    <hi rend="italics">Q: But at that time the NSC staff was probably pretty
+                        small.</hi>
+                </p>
+                <p>BLASER: It probably was, yes. I don't think they were as big as they grew to be
+                    later.</p>
+                <p>
+                    <hi rend="italics">Q: But your job was to prepare the Secretary of the Treasury
+                        for meetings for issues that were going to come up at the NSC.</hi>
+                </p>
+                <p>BLASER: Yes, exactly. The Assistant Secretary of the Treasury for International
+                    Affairs was on the NSC Planning Board which was the second layer under the
+                    Council. So our briefing was more for him, but occasionally we went to the
+                    Secretary's office and discussed the issues that were coming up with the
+                    Secretary.</p>
+                <p>
+                    <hi rend="italics">Q: So you were involved with other agencies to a considerable
+                        extent?</hi>
+                </p>
+                <p>BLASER: Oh, yes. And as usual in Washington, if there were prospective divisions
+                    among departments, you would go and look for recruits or allies for various
+                    issues. But that's the old bureaucratic game.</p>
+                <p>
+                    <hi rend="italics">Q: Of course 1951 was the time of the Korean War, it was a
+                        time when Europe was beginning to revive a little bit.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>BLASER: Yes, that's right. I recall that one of the issues in the National
+                    Security Council in which we were more or less directly involved was a decision
+                    as to whether the International Bank could go forward with loans to Japan. The
+                    issue was whether Japan was good for a hundred million dollar loan or not. Of
+                    course, in the light of later economic changes that is laughable, but at the
+                    time we approached it very seriously. Japan was rising from the ashes and this
+                    was a process that took place over a number of years. So, at that particular
+                    stage, it wasn't evident that it was an open and shut case. Of course, we did
+                    approve the loan but it's symptomatic of how things were as we came out of the
+                    war.</p>
+                <p>
+                    <hi rend="italics">Q: Which also brings us to your next assignment. Where did
+                        you go next after your time in Washington?</hi>
+                </p>
+                <p>BLASER: The next assignment was Japan. In 1956 we were asked to go and replace a
+                    man who had been there seven years.</p>
+                <p>
+                    <hi rend="italics">Q: This time you went as the Financial Attach�.</hi>
+                </p>
+                <p>BLASER: Yes. The nomenclature had been changed between 1948 and 1956. In London
+                    we were Treasury representative, and I was assistant Treasury representative.
+                    And we had special passports. Treasury and State had agreed on changes. (I don't
+                    know anything about the negotiations.) The State Department designated me as
+                    financial attach� on the Ambassador's staff and I was issued a diplomatic
+                    passport. I went on the diplomatic list and all the rest of it.</p>
+                <p>
+                    <hi rend="italics">Q: So that was in 1956. Japan had begun to respond to, among
+                        other things, the Korean War activity.</hi>
+                </p>
+                <p>BLASER: Yes, that's right. We didn't see too much of that. It was handled by the
+                    military, and we didn't do a whole lot there.</p>
+                <p>
+                    <hi rend="italics">Q: When you went in 1956, did you still see destruction from
+                        the war, evidence of war damage? Or had that pretty well been cleaned
+                        up?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>BLASER: That was pretty well cleaned up. It was a great contrast to the way it
+                    was in London when we arrived there in 1947. Grosvenor Square where the embassy
+                    is, was full of devastated apartment houses. The bombing had been close,
+                    although the embassy itself, the building that was used for the embassy, wasn't
+                    damaged. But walking from the bus to the embassy office, we'd see a pussy willow
+                    tree growing in the basement of a bombed out apartment. But in Japan there was
+                    nothing like that.</p>
+                <p>
+                    <hi rend="italics">Q: What were some of the main tasks, jobs, that you had as
+                        the financial attach� in Tokyo in this period?</hi>
+                </p>
+                <p>BLASER: One of the main assignments was to participate in the efforts to settle
+                    the bill for “GARIOA” (Government and Relief in Occupied Areas). After the war
+                    the United States had poured resources into Japan and other countries in an
+                    effort to resuscitate their economies.</p>
+                <p>
+                    <hi rend="italics">Q: This had not been so much a loan, but just...</hi>
+                </p>
+                <p>BLASER: It wasn't too clear what the terms were, nor the amount of assistance
+                    given. There were all kinds of records and things we looked at. We talked and
+                    negotiated. And again, as in the British pound, the settlement didn't come until
+                    the political climate was right. The Finance Minister finally informed us that
+                    they were ready to settle, but the figure would have to be under six hundred
+                    million dollars. So it was agreed it would be $595 million. That's how it was
+                    settled.</p>
+                <p>
+                    <hi rend="italics">Q: The occupation, the immediate post-war period, I guess
+                        ended in 1952 with the...</hi>
+                </p>
+                <p>BLASER: At the time we arrived in 1956 General MacArthur was gone, although
+                    echoes of his tenure were still reverberating in the embassy and elsewhere. The
+                    embassy was normal, and diplomatic relations were restored.</p>
+                <p>
+                    <hi rend="italics">Q: When you got there in 1956 the ambassador was...was
+                        Douglas MacArthur the second...</hi>
+                </p>
+                <p>BLASER: No, John Allison, who was a Far East expert. He had been or became
+                    Assistant Secretary for the Far East. His wife was a very nice woman who had a
+                    collection of wonderful Chinese blue and white.</p>
+                <p>
+                    <hi rend="italics">Q: And he was replaced then by MacArthur?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>BLASER: Yes, by Douglas MacArthur II. We were there in Japan for seven years, of
+                    course, and I told my wife we'd have to leave after that time or our eyes would
+                    become slanted.</p>
+                <p>
+                    <hi rend="italics">Q: You wouldn't be able to use a fork and spoon. So you were
+                        there really under three different ambassadors, Edwin Reischauer being the
+                        last.</hi>
+                </p>
+                <p>BLASER: ...at the end of our tour, yes.</p>
+                <p>
+                    <hi rend="italics">Q: As the senior Treasury person in the embassy staff, the
+                        financial attach�, did you find they were interested in what you could tell
+                        them about the financial situation and the economy?</hi>
+                </p>
+                <p>BLASER: Yes. Ambassador Allison left fairly soon, so that I never really had too
+                    much contact with him. Since I was the new boy on the block, I had a lot to
+                    learn. So I wasn't able to counsel him very much. Ambassador MacArthur would
+                    have various visiting business men in, and when the subject was mostly business
+                    or financial, he'd often invite me to participate. In general, Ambassador
+                    MacArthur was very interested and listened to what we had to say, and briefed
+                    himself. I was very interested in his way of conducting interviews. He would
+                    determine in advance how much time he had, or the visitor had, which ever one
+                    controlled, and then after polite exchanges with the visitor, the ambassador
+                    would in effect launch into a lecture mostly tailored to the time available. His
+                    comments were very good and covered the topic. I did have some feedback that
+                    sometimes the ambassador talked a little more than the visitor would have liked.
+                    Some told me that they would have liked the chance to ask more questions, and
+                    talk a little more.</p>
+                <p>
+                    <hi rend="italics">Q: Or to get their ideas on the table as well.</hi>
+                </p>
+                <p>BLASER: Yes, that's right. I don't want to over-stress that, but Ambassador
+                    MacArthur was a very aggressive, hard driving individual, who knew what he
+                    wanted to do, and it often worked out that way. And I think he was maybe a
+                    little bit insensitive to the point you just suggested.</p>
+                <p>
+                    <hi rend="italics">Q: Edwin Reischauer was quite different. A tremendous
+                        background and experience with Japan, but perhaps not so much on the
+                        diplomatic or...</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>BLASER: That's true. His minister, John Emerson, who also came along, was fairly
+                    new, and both of them felt that they had little contact with the businessmen and
+                    bankers. So they asked me on several occasions to convene groups of bankers and
+                    businessmen, people that I knew, to talk to them about American interests,
+                    business and financial interests as they saw it. And this was very nice because
+                    it helped me a lot with the business community having the ambassador having that
+                    interest. And I had one representative of the Bank of America, who thanked me
+                    for the arrangements that had been instigated at the ambassador's suggestion,
+                    and the minister's suggestion. He said that he hadn't been near the embassy for
+                    several years and was glad of the opportunity to do it. Ambassador MacArthur,
+                    although he was well briefed, hadn't taken too much initiative in that area.</p>
+                <p>
+                    <hi rend="italics">Q: There were a couple of things happening during this
+                        period. One was that the US military in Japan came into a new situation—the
+                        security treaty was negotiated, and I think entered into effect in about
+                        1960. Were you involved with the negotiation of that?</hi>
+                </p>
+                <p>BLASER: No, not really. No I wasn't. But as in Germany there was the question of
+                    how much the Japanese would contribute to support of our forces. There was some
+                    work along that line that we tried to follow.</p>
+                <p>
+                    <hi rend="italics">Q: Which later, or maybe even at the time was called
+                        off-set—or to off-set our costs.</hi>
+                </p>
+                <p>BLASER: Well, that's what it amounted to, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Japan at the time wasn't seen as the great economic power
+                        that it is today.</hi>
+                </p>
+                <p>BLASER: No, that's right. It was sort of a creeping thing. Japan was getting
+                    stronger, and thus the United States would be looking for more and more
+                    assistance on this, and those two forces moved along somewhat in parallel. It
+                    was a question how much we could hope to benefit from the growing Japanese
+                    economic strength.</p>
+                <p>
+                    <hi rend="italics">Q: I remember when I was there in Japan with you, and I was
+                        briefly in the commercial section, and I think we probably spent as much
+                        effort to try to help Japan with its exports to stand on its own feet, to be
+                        able to support itself. And, of course, today we're much more interested in
+                        how much we can export to Japan.</hi>
+                </p>
+                <p>Let me ask you just a little bit about the economic section of the embassy. It
+                    was quite large, it had a commercial attach�, economic minister, you were part
+                    of that team. There were some good people there, I think, at least in the time
+                    that I was there, Phil Trezise.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>BLASER: He was outstanding. Arthur Gardiner was in the AID mission.</p>
+                <p>
+                    <hi rend="italics">Q: There was still an AID mission in the time you were
+                        there?</hi>
+                </p>
+                <p>BLASER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Which was getting itself out of the business.</hi>
+                </p>
+                <p>BLASER: Yes, there wasn't too much point after a while.</p>
+                <p>
+                    <hi rend="italics">Q: You say you were there for seven years, which meant you
+                        left in about 1963, which was just before the Olympic games. That was
+                        obviously a big stimulus for economic growth and activity and
+                        construction.</hi>
+                </p>
+                <p>BLASER: I recall one incident that's sort of revealing in a way. There was a
+                    question whether President Eisenhower would visit Japan. You recall there was a
+                    certain amount of leftist unrest and riots. So the Department, I think, felt it
+                    would be unwise for President Eisenhower to visit. This sort of hurt the
+                    ambassador because having the big boss come would be a real feather. I recall
+                    seeing a cable the ambassador sent to Washington to the effect that, well,
+                    they'd have two divisions of troops, and they would line this avenue, and so on,
+                    that security would be absolutely foolproof and airtight. But I think the
+                    Department decided very wisely that these were not the circumstances on which a
+                    presidential visit should be mounted. But Ambassador MacArthur was reluctant to
+                    give up the idea. He was no shrinking violet, let's say.</p>
+                <p>
+                    <hi rend="italics">Q: Of course, the other thing that really hurt his case for
+                        the visit by President Eisenhower, was what happened when the advance party
+                        came and the press secretary, Jim Hagerty, and Stevens, they were covered
+                        with rocks at the airport. It was a scary situation for them, but I think
+                        for the United States.</hi>
+                </p>
+                <p>BLASER: Poor Hagerty was really shook.</p>
+                <p>
+                    <hi rend="italics">Q: Besides what they would have done for MacArthur
+                        personally, and for the United States, I think he was anxious to show that
+                        Japan had come back, had a new security treaty.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>BLASER: It wouldn't be fair to attribute that cable wholly to his own personal
+                    ambitions. No way. I didn't intend to imply that, but it was interesting. Just
+                    one other note which you can expunge if you want. I understand that Ambassador
+                    MacArthur was a graduate of Yale, and he went out for football, and he was quite
+                    a small man. But apparently he earned a place on the team as a running guard,
+                    and they used to call him Legdrive MacArthur.</p>
+                <p>
+                    <hi rend="italics">Q: You went to Yale too. You weren't there at the same time
+                        he was.</hi>
+                </p>
+                <p>BLASER: Oh, no.</p>
+                <p>
+                    <hi rend="italics">Q: You were in the embassy in Tokyo longer than most people,
+                        seven years. Did you feel at times that was too long? You were able to build
+                        on your contacts, and got to know people really well.</hi>
+                </p>
+                <p>BLASER: Oh, yes. That's right. My predecessor had been there a long time, and he
+                    was deeply dug in. I was able to profit to a considerable extent from his work
+                    preceding me. He, of course, introduced me to all his people. No, I didn't think
+                    so, and I don't think my effectiveness deteriorated over the time. In fact, I
+                    think it probably improved. But as you said somewhat earlier in this talk, I
+                    came to feel that it was time to make a change. My wife loved it. She entered
+                    into Japanese painting, flower arranging, paper folding (origami), and had
+                    considerable association with Japanese ladies. We both studied the language and
+                    she got good enough so that when Ambassador Reischauer invited Japanese cabinet
+                    ministers it was customary to invite their wives as well. And, of course, the
+                    ambassador wanted to devote his time to the men, and Mrs. Reischauer being of
+                    Japanese origin could do it very well, but with six or seven cabinet ladies
+                    there, it was kind of a handful. So on a couple of occasions she invited my wife
+                    to participate because she could talk well enough. I never got that good, but
+                    she did.</p>
+                <p>
+                    <hi rend="italics">Q: One hears that the civil servants, the senior officials
+                        below the ministerial level in Japan, are very important, and tend to stay
+                        in place for long periods of time.</hi>
+                </p>
+                <p>BLASER: Yes. The Japanese Finance Ministry bureaucracy was a very powerful
+                    organization. The leaders, the various bureau chiefs were extremely
+                    powerful—Budget Director, and the several bureau chiefs. They in effect called
+                    the shots. The Bank of Japan was a sort of handmaiden of the Finance Ministry.
+                    The Bank governors that I knew were very nice men and capable people, but they
+                    were not strong individuals and appeared to take orders from the Finance
+                    Ministry people.</p>
+                <p>
+                    <hi rend="italics">Q: And not just the Finance Minister but the senior
+                        officials.</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>BLASER: Of course the Finance Minister was a political appointee and might or
+                    might not know much about the business. So he was sort of in the hands of his
+                    bureaucracy. They were very powerful, indeed.</p>
+                <p>
+                    <hi rend="italics">Q: So after seven years you came back to Washington...</hi>
+                </p>
+                <p>BLASER: ...and rejoined the Treasury group again.</p>
+                <p>
+                    <hi rend="italics">Q: They had been reorganized, it was now called the Office of
+                        Industrial Nations.</hi>
+                </p>
+                <p>BLASER: At least the section that I was assigned to. The overall organization was
+                    the Office of the Assistant Secretary for International Affairs, but within that
+                    group I was in the Office of Industrial Nations.</p>
+                <p>
+                    <hi rend="italics">Q: And you continued to do some work related to Japan?</hi>
+                </p>
+                <p>BLASER: Yes, that was the nice thing. One of my main jobs was to continue to
+                    follow Japan from Washington, to keep in touch with the people there. Bob
+                    Pelican, the name your colleague here mentioned, was my successor in Tokyo.</p>
+                <p>
+                    <hi rend="italics">Q: In 1969 you went to another major trading partner and ally
+                        of the United States, Germany.</hi>
+                </p>
+                <p>BLASER: That's right. And as I have explained too, we had no children and we were
+                    free to go. We liked to think we'd been successful in our other posts, and the
+                    Treasury liked what we were doing, or had done. So when a change loomed in
+                    Germany I was asked to take that over.</p>
+                <p>
+                    <hi rend="italics">Q: And you again went as the Financial Attach�. You had one
+                        or two assistants also from Treasury?</hi>
+                </p>
+                <p>BLASER: One, who was later eliminated for budget reasons. I had an assistant in
+                    Japan as well.</p>
+                <p>
+                    <hi rend="italics">Q: In Germany, and I guess in Japan, you were responsible
+                        only for Germany and Japan. You did not have regional responsibilities.</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>BLASER: No, although in Japan...it was the same thing, I did some work in
+                    Okinawa.</p>
+                <p>
+                    <hi rend="italics">Q: That was before Okinawa reverted back to Japan.</hi>
+                </p>
+                <p>BLASER: Yes. It was still under US military administration.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have German language training before you went to
+                        Bonn?</hi>
+                </p>
+                <p>BLASER: No, not before. I had taken a little German. I wasn't completely
+                    unknowing about German and had a little bit of family background in the German
+                    language but only scattered. Both my wife and I took daily lessons in German as
+                    soon as we arrived. We got fair but I never became proficient enough to do
+                    business in German. You don't master German very quickly.</p>
+                <p>
+                    <hi rend="italics">Q: You had traveled in Germany when you were a student some
+                        before the war. And, of course, you had served almost two years in London.
+                        But at that time you probably didn't travel on the continent very much, did
+                        you?</hi>
+                </p>
+                <p>BLASER: No. I went to Paris a few times on business, particularly when the
+                    Marshall Plan was being instituted. The Marshall Plan in Europe was being sort
+                    of hatched in Paris, at least the European side of it. I knew the Treasury man
+                    there, and he was pretty much in the middle of the planning. So the London
+                    Embassy people asked me to go over and find out what was going on, and come back
+                    and tell them. I also went to Paris from Germany on business.</p>
+                <p>
+                    <hi rend="italics">Q: But in Germany in the mid-60s things were going along
+                        pretty well. This was 20 years after the end of the war.</hi>
+                </p>
+                <p>BLASER: Yes, Germany had come back. They rebuilt much more quickly than the
+                    British did.</p>
+                <p>
+                    <hi rend="italics">Q: Or the Japanese?</hi>
+                </p>
+                <p>BLASER: I don't think there was that much difference between Japan and Germany.
+                    The British were the laggards in pulling up their socks. I don't say that
+                    critically, maybe they had more to do. At least it seemed to be the fact.</p>
+                <p>
+                    <hi rend="italics">Q: Well, being defeated in the war, you almost have to start
+                        from scratch. Whereas the British won.</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>BLASER: They seemed to suffer more post-war than the others.</p>
+                <p>
+                    <hi rend="italics">Q: The US military was still very much a part of the scene in
+                        Germany. You had mentioned that we were trying to get some support from
+                        Japan to help finance our...</hi>
+                </p>
+                <p>BLASER: Even bigger in Germany. We exerted a lot more pressure and there were
+                    constant missions from the Department of Defense. I often went to meetings with
+                    them in pursuance of their efforts to get more support for various things that
+                    the military was doing in Germany.</p>
+                <p>
+                    <hi rend="italics">Q: The European Common Market of course had begun, and there
+                        wasn't probably much being done on the financial monetary side at that
+                        stage.</hi>
+                </p>
+                <p>BLASER: No, and even to this day they're still fussing about a common currency.
+                    It probably won't come very soon.</p>
+                <p>
+                    <hi rend="italics">Q: The Bundesbank, the Central Bank at the time was in
+                        Frankfurt, right?</hi>
+                </p>
+                <p>BLASER: Yes, that's right. I used to go every month or so and talk to the
+                    directors of the Bundesbank, and American bankers, and German private bankers in
+                    Frankfurt which was the financial center, to...</p>
+                <p>
+                    <hi rend="italics">Q: Okay, Art, we've just gotten you to Germany, to Bonn, and
+                        we were talking a little bit about your monthly visits to Frankfurt to visit
+                        with the Bundesbank and the private bankers. I think you were starting to
+                        say what was the role of the Central Bank, the Bundesbank in Germany, as
+                        compared with some of the other countries where you served.</hi>
+                </p>
+                <p>BLASER: I think they were a bit more influential, and the leader, Karl Blessing,
+                    was a strong individual. I think his voice carried considerable weight. There
+                    were things about the exchange rate that were involved although the German mark
+                    was pretty solid.</p>
+                <p>
+                    <hi rend="italics">Q: There were still exchange controls?</hi>
+                </p>
+                <p>BLASER: I don't recall exactly, but I have the impression they were pretty well
+                    dismantled by that time. The Germans were going along very well.</p>
+                <p>
+                    <pb facs="0016" n="Page0016"/>
+                    <hi rend="italics">Q: The economy was really developing.</hi>
+                </p>
+                <p>BLASER: Yes, I think so.</p>
+                <p>
+                    <hi rend="italics">Q: Besides Frankfurt, of course Bonn itself is a pretty small
+                        capital, and you got with the Finance Ministry, and the other key economic
+                        ministry. How about Berlin? Did you have occasion to go there very often? Or
+                        pay much attention to Berlin?</hi>
+                </p>
+                <p>BLASER: No, it was fairly separate. I went once as a tourist with the man whom I
+                    succeeded at the post. We went by car to Berlin and it was quite an experience
+                    going through the Soviet zone into Berlin. We were instructed to observe
+                    anything we saw of interest, particularly any troop movements. But as far as my
+                    professional work was concerned, we didn't really become involved with Berlin at
+                    all.</p>
+                <p>
+                    <hi rend="italics">Q: I think you were in Germany about four years?</hi>
+                </p>
+                <p>BLASER: Yes, a little short of four years.</p>
+                <p>
+                    <hi rend="italics">Q: Again you were associated with the economic section which
+                        was as large as in Tokyo probably.</hi>
+                </p>
+                <p>BLASER: Yes, they had a large group.</p>
+                <p>
+                    <hi rend="italics">Q: But in the case of Germany, we also had a large consulate
+                        in Frankfurt, Munich and some other places. Did you interact much with those
+                        posts.</hi>
+                </p>
+                <p>BLASER: To some extent. I went to Frankfurt mostly, but we did go to Hamburg and
+                    Dusseldorf also.</p>
+                <p>
+                    <hi rend="italics">Q: I believe your next assignment was to Brazil. You had some
+                        German before, you learned German there, you had learned some Japanese in
+                        Tokyo. Before you went to Brazil did you have a chance to study
+                        Portuguese?</hi>
+                </p>
+                <pb facs="0017" n="Page0017"/>
+                <p>BLASER: Oh, yes. There we had the best chance of all because we left Germany in
+                    February, and went directly to the Foreign Service Institute for 16 weeks of
+                    intensive work in Portuguese, and didn't go to Brazil until mid-year. So we went
+                    fairly well equipped, and we continued to study daily in Brazil at the Foreign
+                    Service Language Program there. We finally became able to do business in
+                    Portuguese. This was very helpful.</p>
+                <p>
+                    <hi rend="italics">Q: You went to Brazil in 1969. Had there been a financial
+                        attach� there for some time before?</hi>
+                </p>
+                <p>BLASER: Yes. I replaced the man there.</p>
+                <p>
+                    <hi rend="italics">Q: In contrast to London and Tokyo and Bonn, Brazil was a
+                        developing country, a vast economy. Was your work pretty much the same, or
+                        was it quite different?</hi>
+                </p>
+                <p>BLASER: A little of both I guess. The physical contrast in the country was
+                    remarkable because of course Rio was an old established city, but out in the
+                    country it was very undeveloped. Brasilia had just been hacked out of the semi
+                    arid scrub. Brasilia is a curious place. It's semi-desert. It rains not at all
+                    for about six months, and then rains fairly much. So the growth is mostly scrub
+                    trees, and more desert type plants. So that, plus the streets, the workmen,
+                    everything, was more of a rural mud on your boots sort of thing...excepting, of
+                    course, Rio which was an old established city with a very Spanish type aspect in
+                    its architecture.</p>
+                <p>
+                    <hi rend="italics">Q: The initial period of your assignment in Brazil was in
+                        Rio.</hi>
+                </p>
+                <p>BLASER: Yes, two years in Rio, then two years in Brasilia.</p>
+                <p>
+                    <hi rend="italics">Q: And the ambassador when you first arrived there was in
+                        Rio?</hi>
+                </p>
+                <p>BLASER: Yes. That was Ambassador Burke Elbrick. As you may remember he was
+                    kidnapped, which was a strange and somewhat frightening experience for all of
+                    us. I wasn't directly involved in his recovery, of course. All I could do was
+                    volunteer to do whatever any staff person was needed to do. But I wasn't called
+                    on for anything. Some negotiations took place of which I'm not apprized, and he
+                    was later returned.</p>
+                <p>
+                    <hi rend="italics">Q: Was it a matter of weeks, or days?</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>BLASER: Well, certainly days. Perhaps a few weeks. I don't recall exactly, but he
+                    didn't come back the next day that's for sure. As I believe, he wasn't harmed
+                    physically as such, but I felt that he was pretty badly shaken up
+                    psychologically. And, of course, he went back to the United States and didn't
+                    return.</p>
+                <p>
+                    <hi rend="italics">Q: Soon after he was released?</hi>
+                </p>
+                <p>BLASER: Yes, that's right.</p>
+                <p>
+                    <hi rend="italics">Q: Did that make quite a difference to you and others in the
+                        embassy in terms of security, precautions that you took?</hi>
+                </p>
+                <p>BLASER: I guess a little. It was more severe later. In Brasilia they tried to
+                    have the ambassador come to his office by different routes daily, and not have
+                    any established pattern that could be marked. When we were in Brasilia, of
+                    course the government offices were there, but the financial community was in Rio
+                    and in Sao Paulo, both cities which I visited fairly regularly. I recall one
+                    time being in the Minister's car—the Minister, as Steve Low just mentioned,
+                    stayed in Rio and was in charge there—riding in his car and he said, “Watch out
+                    for that thing.” I looked on the floor and it was a submachine gun.</p>
+                <p>
+                    <hi rend="italics">Q: In the back seat of the car. I wonder if he knew how to
+                        use it.</hi>
+                </p>
+                <p>BLASER: It wasn't clear, it was just lying there and I wasn't sure who was
+                    supposed to operate it should the need arise.</p>
+                <p>
+                    <hi rend="italics">Q: It wasn't going to be you though.</hi>
+                </p>
+                <p>BLASER: No. I couldn't. But it was a little shocking to see this Tommy gun
+                    there.</p>
+                <p>
+                    <hi rend="italics">Q: After Ambassador Elbrick left, he was replaced by
+                        Ambassador William Rountree, who had been an ambassador in several other
+                        countries, and Assistant Secretary.</hi>
+                </p>
+                <p>BLASER: A Middle East expert really. It seemed Brazil was a somewhat strange
+                    assignment, but Ambassador Rountree was a veteran who knew his way around, and
+                    didn't have any trouble adjusting.</p>
+                <p>
+                    <pb facs="0019" n="Page0019"/>
+                    <hi rend="italics">Q: When he arrived he located himself in Brasilia.</hi>
+                </p>
+                <p>BLASER: He never did go to Rio, that's right. We were still in Rio but it was
+                    evident that the whole weight of the embassy was shifting then to Brasilia, and
+                    that's where we wanted to be. The Finance Ministry was there and all their
+                    people.</p>
+                <p>
+                    <hi rend="italics">Q: The Bank of Brazil and the Central Bank, the banking
+                        community was still in Rio.</hi>
+                </p>
+                <p>BLASER: No, the Central Bank, the Bank of Brazil is another bank.</p>
+                <p>
+                    <hi rend="italics">Q: Okay, the Central Bank.</hi>
+                </p>
+                <p>BLASER: I was in contact with them in both places. I think they moved, but I'm
+                    not sure. But the whole weight of the financial establishment was still in Rio
+                    and in Sao Paulo. Sao Paulo was very important too.</p>
+                <p>
+                    <hi rend="italics">Q: So after you moved to Brasilia you still regularly visited
+                        both other cities. I had an occasion to visit both Rio and Brasilia in 1987,
+                        I think, and I had kind of a strange feeling about Brasilia. It didn't seem
+                        quite real.</hi>
+                </p>
+                <p>BLASER: It's artificial, that's right.</p>
+                <p>
+                    <hi rend="italics">Q: And I realized that one of the things was, there are a lot
+                        of hotels, and a lot of Brazilians were spending four or five days during
+                        the week in hotels and then going home somewhere else.</hi>
+                </p>
+                <p>BLASER: The bureaucrats, I'm sure, were dragged kicking and screaming from the
+                    nice beaches in Rio up to Brasilia. And as you say, I'm sure many of them
+                    maintained their former residences and just had a place to sleep in Brasilia.
+                    Gradually, I suppose, that changed but those Rio people didn't care much to go
+                    out there. And that's understandable. Here you have a sophisticated, vibrant
+                    city, and to go out to the back woods so to speak, it's quite a difference in
+                    lifestyle which they didn't care for.</p>
+                <p>
+                    <hi rend="italics">Q: Another thing that struck me on the basis of a two day
+                        visit was, it seemed to be a city built for cars. Of course, this was 20
+                        years or so after you were there, or 15. To walk was very difficult
+                        anywhere.</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>BLASER: Oh, it was all spread out. One thing they did have up there was lots of
+                    room. And there were buses, of course. The Brazilians were poor. Many had cars
+                    but the whole working population did not, so there were the buses. But they had
+                    this rather strange system of traffic. They had all these circles. And when we
+                    were there there were only one or two traffic lights in town. But I understand
+                    that in subsequent years the traffic had gotten a lot heavier and they had to
+                    install traffic lights, and the circles aren't too well adapted to that. So I
+                    think maybe the planners missed a beat. I'm not sure, but I think so.</p>
+                <p>
+                    <hi rend="italics">Q: As Financial Attach� did you have an assistant?</hi>
+                </p>
+                <p>BLASER: Yes, I did.</p>
+                <p>
+                    <hi rend="italics">Q: ...also in Brasilia. Again you were associated with the
+                        economic section?</hi>
+                </p>
+                <p>BLASER: Yes. We worked together closely. I worked with the economic counselor
+                    there.</p>
+                <p>
+                    <hi rend="italics">Q: Was there an AID mission, or office?</hi>
+                </p>
+                <p>BLASER: Yes indeed there was. It was more important there than in Germany.</p>
+                <p>
+                    <hi rend="italics">Q: Were you called on for advice occasionally by them on
+                        financial matters?</hi>
+                </p>
+                <p>BLASER: Yes, that's right. They were still making loans to Brazilian entities,
+                    and from time to time when these loan matters would come up, the ambassador
+                    would convene a conference and ask us about it. In general we'd go along. Brazil
+                    began to develop some momentum of its own so that the loans that were being
+                    offered, or considered, were less important. It sort of got to the point where
+                    it didn't make too much difference one way or the other. They could make the
+                    loan and it would be somewhat helpful, but not necessary. Brazil's resources
+                    were sufficient so the matter of repayment was not too important. As you know,
+                    the Brazilian's economic or financial history has been to go along for a few
+                    years inflating steadily, and then revalue the currency. The effect was to throw
+                    out the old currency, since exchange at a thousand to one didn't leave much
+                    value. So savings were a very dangerous thing, at least saving accounts in the
+                    conventional sense. Business investments, or real property were the only
+                    practical means of preserving wealth.</p>
+                <p>
+                    <hi rend="italics">Q: Which didn't lose its value with the next
+                        revaluation.</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>BLASER: Would not, that's right. So it was hard to see how many people got along
+                    over those years, but this was sort of old hat, and they had learned to live
+                    with this kind of a system. During my years there, particularly the two years in
+                    Brasilia, they had a very excellent Finance Minister who by one measure or
+                    another managed to hold the lid on. He reduced the rate of inflation down to
+                    maybe at the best 15 or 20% a year which seems incredulous, but for Brazil that
+                    was pretty good. But then I tell my friends, after I left, the lid blew off
+                    again. The conservative and skillful Finance Minister for one reason or another
+                    was gone, or lost his influence. So things deteriorated more rapidly after
+                    that.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have direct access to the Finance Minister during
+                        the time you were there, or did the ambassador feel that was his
+                        responsibility?</hi>
+                </p>
+                <p>BLASER: I saw him once or twice, but no, it wouldn't be fair to say I had regular
+                    access to him. He knew me, and I knew him, but the contact was minimal I must
+                    say.</p>
+                <p>
+                    <hi rend="italics">Q: So you would primarily see the senior officials who
+                        advised him.</hi>
+                </p>
+                <p>BLASER: That's right, in the Central Bank. The head of the Central Bank I saw
+                    fairly frequently.</p>
+                <p>
+                    <hi rend="italics">Q: The International Monetary Fund and the World Bank were
+                        active in Brazil at that time?</hi>
+                </p>
+                <p>BLASER: Oh, yes, very much so. They sent missions down, and I would always meet
+                    with them. I knew some of the Americans on those staffs so they would usually
+                    talk to me privately about my feel for the situation and how it was going, what
+                    the outlook was.</p>
+                <p>
+                    <hi rend="italics">Q: And you would try to supplement the contacts you had in
+                        Brasilia with regular visits to Sao Paulo, to Rio, to meet with the private
+                        banking and financial communities.</hi>
+                </p>
+                <p>BLASER: Exactly, the American and the Brazilian banks. We had a very good man on
+                    the embassy staff, the local staff in Sao Paulo who was especially good. I'd
+                    call him and we'd set up a day or two day's appointments and make the
+                    rounds.</p>
+                <p>
+                    <hi rend="italics">Q: He would go around with you.</hi>
+                </p>
+                <p>BLASER: Yes, because he knew the people.</p>
+                <p>
+                    <pb facs="0022" n="Page0022"/>
+                    <hi rend="italics">Q: Did the Financial Attach�'s office in Brasilia and Rio
+                        have Foreign Service national staff members?</hi>
+                </p>
+                <p>BLASER: We had access to the local staff. There was nobody directly assigned to
+                    our office, but we could call on them as needed.</p>
+                <p>
+                    <hi rend="italics">Q: For translations, or...</hi>
+                </p>
+                <p>BLASER: Well, we didn't need the translations so much in Brazil, but just for
+                    research work.</p>
+                <p>
+                    <hi rend="italics">Q: How about in Bonn and Tokyo?</hi>
+                </p>
+                <p>BLASER: There was a German staff in Bonn that was very good, and I used them a
+                    lot.</p>
+                <p>
+                    <hi rend="italics">Q: And they were part of the Treasury office with the
+                        economic section.</hi>
+                </p>
+                <p>BLASER: That's right. There were two or three of those people that were my
+                    support, and they were very good.</p>
+                <p>
+                    <hi rend="italics">Q: Is there anything else that we should specifically talk
+                        about in terms of Brazil? And then I'd like to ask you a few questions
+                        generally about your career.</hi>
+                </p>
+                <p>BLASER: I think that pretty well covers it. In Brazil the outstanding financial
+                    feature was as we've already mentioned, the constant deterioration of the
+                    currency, and the periodic revaluations and starting over which has continued to
+                    this day as far as I can see.</p>
+                <p>
+                    <hi rend="italics">Q: And all of that trend, that cyclical process, has great
+                        political consequences.</hi>
+                </p>
+                <p>BLASER: That's true too, and as everywhere political leaders come in, and those
+                    who try to hold the lid on usually get blown off and the lid explodes, and
+                    expenditures continue. It's a little bit like the United States, I would
+                    say.</p>
+                <p>
+                    <pb facs="0023" n="Page0023"/>
+                    <hi rend="italics">Q: Art, I see that you returned from Brasilia in mid-1973,
+                        and at the age of about 65 you retired from government service after 28
+                        years with the Treasury, and your note here says you've not done a day's
+                        work for pay since. I know you've done a lot of volunteer activity in your
+                        retirement period. Let me ask you a few questions just generally about your
+                        Treasury experience. In 28 years I haven't tried to add it up, but you must
+                        have spent about 20 years...</hi>
+                </p>
+                <p>BLASER: Seventeen.</p>
+                <p>
+                    <hi rend="italics">Q: Seventeen out of 28 years were overseas, at four different
+                        posts. A State Department Foreign Service person who served 28 years would
+                        probably have served about 17 years, 18 years maybe on average, but probably
+                        would have served in about six or seven posts, instead of four.</hi>
+                </p>
+                <p>BLASER: I really think that in the work I was doing, and perhaps the Foreign
+                    Service as well (I really don't have any basis for judging in the Foreign
+                    Service), for the first six months at least, and perhaps the first year, and in
+                    fact throughout the whole period you're adding contacts, you're becoming more
+                    knowledgeable. I think a two year assignment would be almost a waste. However in
+                    London I was a junior person and it was just as much training for me as it was
+                    otherwise.</p>
+                <p>
+                    <hi rend="italics">Q: You gained experience.</hi>
+                </p>
+                <p>BLASER: Yes, that's right, but the contribution that I could make was not as
+                    great as it was later when I had more experience and knowledge.</p>
+                <p>
+                    <hi rend="italics">Q: So you were seven years in Tokyo, four years or so in
+                        Germany, and about four years in Brazil. I'm going to make some comments as
+                        an economic officer which I was for much of my career, but also somebody who
+                        worked in a Treasury office in Rome for about a year and a half...</hi>
+                </p>
+                <p>BLASER: Oh yes, I'd forgotten. With whom?</p>
+                <p>
+                    <hi rend="italics">Q: Ralph Korp was the financial attach�, and Ciro deFalco was
+                        the assistant attach�. Later he went back to Rome, and he was in Brazil
+                        also. I know there's always a little bit of tension, if you will, in terms
+                        of economic reporting, macro economic reporting between the Foreign Service
+                        State Department economic officer or economic counselor, and the Treasury
+                        attach� office. Did you sense that. Or did it work pretty
+                        collaboratively?</hi>
+                </p>
+                <pb facs="0024" n="Page0024"/>
+                <p>BLASER: I never had any problem that I was aware of, and I trust that my opposite
+                    number, the economic counselor, didn't either. We usually worked together very
+                    closely, often in adjoining offices, and would just say, you take this one, and
+                    we'll take this one. I had the feeling that in the early times, I mean my very
+                    first experiences in Treasury, that some of our overseas representatives, many
+                    of whom were aggressive, go-go guys, felt they should have more influence. They
+                    were sometimes contending for influence, not for reporting responsibilities, but
+                    for access to the ambassador, etc., and there was a certain amount of
+                    competition there. I recall reading one letter from one of our people who said
+                    that he had been layered in the embassy structure, and access to the ambassador
+                    was more difficult.</p>
+                <p>
+                    <hi rend="italics">Q: There were several layers above him that he had to get
+                        through.</hi>
+                </p>
+                <p>BLASER: He had been diminished and he was unhappy and protesting. But I think, if
+                    I may say so, that a lot depends on the personality of the individuals involved,
+                    and how assertive they were. My approach was always cooperative. I played a lot
+                    of sports, and I feel a member of the team rather than an individual trying to
+                    make a splash. That approach seemed to work very well.</p>
+                <p>
+                    <hi rend="italics">Q: So you felt you had access that you needed to the
+                        ambassador, and that they valued the kind of information and input that you
+                        could give.</hi>
+                </p>
+                <p>BLASER: Yes. You have to earn the respect, but when you get it you get there.</p>
+                <p>
+                    <hi rend="italics">Q: Your mentioning sports suddenly reminded me of an
+                        experience we had together in Japan where Ambassador MacArthur, who also was
+                        very keen on sports...I think it was the year when the Eisenhower visit was
+                        canceled where there were student demonstrations, where the security treaty
+                        was concluded, a very tumultuous year, that Ambassador MacArthur felt that
+                        it would really be good if the embassy could engage the Foreign Minister,
+                        the Foreign Ministry...I think it was particularly the Foreign Ministry, a
+                        very informal, casual basis, and that we should have a softball game.</hi>
+                </p>
+                <p>BLASER: Yes, I remember. I played.</p>
+                <p>
+                    <hi rend="italics">Q: You played, and I didn't play I don't think, but I helped
+                        organize it.</hi>
+                </p>
+                <p>BLASER: Yes, the ambassador played shortstop, and I played second base. I recall
+                    one play in particular. A ground ball went to the ambassador, and we had a force
+                    play on second base—a man coming over from first—and he had a little trouble
+                    handling the ball. I said to him, “Take your time, we've got lots of time.” He
+                    got the ball in there in time, and we got the force out.</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>
+                    <hi rend="italics">Q: He took it very seriously. I think partly because of his
+                        enthusiasm and interest the Foreign Minister of Japan felt that he needed to
+                        play and participate in the game. I seem to remember that he was there.</hi>
+                </p>
+                <p>BLASER: That was fun.</p>
+                <p>
+                    <hi rend="italics">Q: At that post, and then in Bonn, and in Brasilia it was a
+                        question of working not just with the ambassador, but with others on a total
+                        country team. You certainly felt that you had the backing of your agency, as
+                        well as others at the post.</hi>
+                </p>
+                <p>BLASER: I never had the experience really that Treasury interests, if you can put
+                    it that way, diverged from what the mission was trying to do. So I never was
+                    placed in a position where I had to try to oppose an embassy position on
+                    something. In fact I was told when I was first sent out, “don't you in the field
+                    try to steer the ship. You just tell us what's happening, and we'll handle it in
+                    Washington.” As I said, in the early years interdepartmental tensions were a
+                    little more severe than I feel they were later. The question of communications
+                    between the financial attach�, the Treasury man, and the Treasury back home, had
+                    been a problem. I think in view of some of the early tensions, embassies were a
+                    little nervous about that kind of communication. It quieted down I'm glad to say
+                    when I went. We talked on the phone sometimes, and I didn't feel any hesitancy
+                    in sending a letter about news of particular interest to the people back in the
+                    Treasury. I didn't do that very often and there was never any problem.</p>
+                <p>
+                    <hi rend="italics">Q: The question of back channel messages...not just Treasury,
+                        other agencies do it.</hi>
+                </p>
+                <p>BLASER: It's a continuing problem, I think, when objectives don't quite
+                    coincide.</p>
+                <p>
+                    <hi rend="italics">Q: One of the big events that of course occurs at an overseas
+                        post is when you have visits, and you had several visits, I assume by the
+                        Secretary of the Treasury, probably in all of your posts.</hi>
+                </p>
+                <pb facs="0026" n="Page0026"/>
+                <p>BLASER: Yes, I think they came each time. I'm not sure about London but they
+                    certainly did in the others. And there were all kinds of missions coming. I
+                    remember one notable occasion. Bobby Kennedy came to Japan, and of course he was
+                    a real go-go guy. He was up at 5 o'clock in the morning and going out and
+                    meeting with youth groups, and Ethel was terrific too. So I recall on the day of
+                    their departure, we were all over at the embassy residence where they had been
+                    house guests of the ambassador. Ethel came charging down the stairs, and a group
+                    of us were standing there. She was very effusive and said, “I bring you love
+                    from Jackie.” Right from Mount Olympus, itself. But they were very enthusiastic
+                    people, and it was kind of fun to watch them work.</p>
+                <p>
+                    <hi rend="italics">Q: He was the Attorney General, I suppose at the time?</hi>
+                </p>
+                <p>BLASER: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: You were not directly involved in supporting his visit,
+                        but just as a member of the country team.</hi>
+                </p>
+                <p>BLASER: And sort of in a sense co-host. Another visitor in Japan was Franklin
+                    Roosevelt Jr. He was interested in seeing his son who was out at one of the
+                    military camps. Senator Javits came to Germany.</p>
+                <p>
+                    <hi rend="italics">Q: One of the things I recall about Japan, in fact it was the
+                        first assignment I had after I arrived was the 1959 conference of the
+                        directing parties of General Agreement on Tariffs and Trade, GATT, which I
+                        think was a meeting outside of Europe for the first time. It was probably
+                        one of the earliest major international meetings in Tokyo after the end of
+                        the war. Were you involved with that?</hi>
+                </p>
+                <p>BLASER: Not directly although I participated in the closing dinner. There was
+                    some rich real estate man who was our representative. Do you remember his
+                    name?</p>
+                <p>
+                    <hi rend="italics">Q: No, I don't. Douglas Dillon, I think, came for part of
+                        it.</hi>
+                </p>
+                <p>BLASER: Anyhow, we had a very elaborate dinner set up and for some reason the
+                    Japanese guests were few and far between. So we Americans sought out other
+                    guests, and recruited whomever we could to fill the empty places. “Would you
+                    like to come and have a $50 dinner?” It was wild. For some reason some
+                    arrangements had gone astray.</p>
+                <p>
+                    <pb facs="0027" n="Page0027"/>
+                    <hi rend="italics">Q: And you didn't want the food to go to waste, it also
+                        didn't look right.</hi>
+                </p>
+                <p>BLASER: That's right, and you had to pay for it anyhow, so you might as
+                    well...</p>
+                <p>
+                    <hi rend="italics">Q: ...let somebody take advantage of it. I guess a general
+                        kind of question, you were representing the United States government,
+                        representing the Department of the Treasury. What kind of responsibility did
+                        you feel to the Federal Reserve system in Washington, to our Central Bank.
+                        They of course read your reporting but they didn't have their own people.
+                        When the Chairman of the Federal Reserve, or governor of the Federal Reserve
+                        came to your country you would probably be the control officer?</hi>
+                </p>
+                <p>BLASER: Yes, often so, not always. Arthur Burns, the chairman, came to Brazil.
+                    That was quite a thing because...we were in Brasilia at the time and most of the
+                    things were taking place down in Rio. So for about a week I was commuting
+                    between Brasilia and Rio. Also various individual governors came from time to
+                    time. I had quite a bit to do with them when they came.</p>
+                <p>
+                    <hi rend="italics">Q: As a government representative of course your main point
+                        of contact with the other government, the other treasury Finance Ministry,
+                        Central Bank. But the real economy, as well as the monetary system, the
+                        banking system, in all of these countries, largely the private sector. You
+                        mentioned that in each place you had a lot of contact with private
+                        bankers.</hi>
+                </p>
+                <p>BLASER: Both American and local.</p>
+                <p>
+                    <hi rend="italics">Q: And those were very important in terms of getting your
+                        fingers on what was really happening, and what was likely to happen the best
+                        you could.</hi>
+                </p>
+                <p>BLASER: Trying to, yes, that's right.</p>
+                <p>
+                    <hi rend="italics">Q: Because the government people were, although they
+                        obviously influence fiscal policy and monetary policy, they didn't always
+                        know exactly what was happening in terms of investment decisions.</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>BLASER: I think in general balance of payments was clearly my responsibility, how
+                    the international financial picture was coming out, and the economy in general.
+                    I think in my reporting I often tried to do as much as I could on the general
+                    state of the economy too, in conjunction with the economic counselor. In my
+                    reports I contributed as much as I could to a broad picture of where the country
+                    was going in its economy. Of course, finance, trade and exchange rates in a lot
+                    of those countries where foreign trade was so important, were fairly influential
+                    in the overall picture. But I never felt I had any real conflict with the
+                    economic officers. We divided up the pie.</p>
+                <p>
+                    <hi rend="italics">Q: They would presumably get involved in trade
+                        negotiations.</hi>
+                </p>
+                <p>BLASER: Oh, yes. I was never in the trade side. That was strictly on the other
+                    side.</p>
+                <p>
+                    <hi rend="italics">Q: And that was also true of commercial promotion, export
+                        promotion.</hi>
+                </p>
+                <p>BLASER: Yes, I didn't have anything to do with that.</p>
+                <p>
+                    <hi rend="italics">Q: Except you would occasionally meet, if there was a trade
+                        mission, a delegation, you would probably give a briefing.</hi>
+                </p>
+                <p>BLASER: Participate, that's right. The reporting and the actual work, the
+                    promotions, etc., I didn't do anything with that.</p>
+                <p>
+                    <hi rend="italics">Q: You mentioned that your wife really enjoyed Japan. She
+                        enjoyed all of your posts?</hi>
+                </p>
+                <p>BLASER: Oh, yes. In Brasilia she enrolled in the University of Brasilia for a
+                    couple of courses, in particular, one on the origin of comics...</p>
+                <p>
+                    <hi rend="italics">Q: Comics?</hi>
+                </p>
+                <p>BLASER: Comics, Katzenjammer Kids and others. They had a course on that which she
+                    found very interesting.</p>
+                <p>
+                    <hi rend="italics">Q: And that was presumably taught in Portuguese?</hi>
+                </p>
+                <p>BLASER: Oh, yes, sure. But she could handle that.</p>
+                <pb facs="0029" n="Page0029"/>
+                <p>
+                    <hi rend="italics">Q: Well, looking back are you glad you didn't go back to
+                        teaching?</hi>
+                </p>
+                <p>BLASER: Oh, yes. Or the Civil Service Commission. Those were all interesting
+                    experiences, and I'm glad I did it but I'm very, very happy indeed with the
+                    basic way my career turned out. We had a ball, a lot of fun and a lot of
+                    experiences. We traveled widely, been all the way from Ushuaia at the tip of
+                    South America, to the North Pole—flying over the Pole, of course. We flew from
+                    Lulea in Sweden to Anchorage, Alaska, over the Pole.</p>
+                <p>
+                    <hi rend="italics">Q: You were doing a lot of flying, beginning in 1946 when it
+                        wasn't very easy.</hi>
+                </p>
+                <p>BLASER: Oh, yes, we rode a lot of airplanes, that's true. On the first trip to
+                    England our first leg was Gander, Newfoundland where we landed in a snow storm
+                    and the plane was deadlined for 24 hours or more. So I got transportation and
+                    went around to see one of the banks there to learn a little more about how
+                    Canada was running its currency at that time. So I went to work 12 hours after
+                    leaving the United States.</p>
+                <p>
+                    <hi rend="italics">Q: Before you even left North America. When you traveled to
+                        Japan in 1956, how did you do that. Did you go by ship?</hi>
+                </p>
+                <p>BLASER: No, we went around the world. We went via the Atlantic...I can't remember
+                    precisely, but I think we touched most of the bases. We went to London and to
+                    Rome, Cairo, Beirut and Karachi. We stopped off in India where I knew some
+                    people in the American embassy in Delhi and saw them. Then on to Saigon,
+                    Vietnam, Hong Kong, and then Japan. So we touched a few bases. In Hong Kong in
+                    particular there was some financial interest.</p>
+                <p>
+                    <hi rend="italics">Q: Did you ever get to Russia, the Soviet Union?</hi>
+                </p>
+                <p>BLASER: I had gone individually in 1931 between my years at Harvard Business
+                    School, on a special tour, just a small group. We went to Germany, took the
+                    Baltic ship from Lubeck to Helsinki, and then took the train into Leningrad, and
+                    from Leningrad to Moscow, and then to Kiev. I went independently to Kiev where I
+                    had a letter to a local man. I went to his home. This was a little risky for
+                    him, I guess. I went swimming in the Dnieper River with him and his friends. I
+                    then went out to Poland, Romania, Hungary, (Budapest), Vienna, and then to
+                    Geneva where I spent the summer in '31, all before I joined the service. And I
+                    had been to England on a bicycle trip in 1929. So my taste for travel developed
+                    early on and was stimulated through those trips to Europe.</p>
+                <p>
+                    <pb facs="0030" n="Page0030"/>
+                    <hi rend="italics">Q: The academic work that you did before, was that on an
+                        international topic?</hi>
+                </p>
+                <p>BLASER: Well, not really, my Ph.D. thesis was on the Federal Reserve Bank of
+                    Cleveland. I'd been in a banking seminar in Columbia University conducted by
+                    Professor H. Parker Willis. He was one of the early sponsors and creators of the
+                    Federal Reserve System. In the seminar he had the idea that it would be nice if
+                    individual monographs were written about the twelve regional Federal Reserve
+                    banks. Since I lived in Cleveland that recommended itself to me very much.
+                    Professor Willis set up some valuable contacts for me since he knew all the
+                    people. And so over a period of several years while I was trying to earn a
+                    living, on the side I developed a thesis on the bank.</p>
+                <p>
+                    <hi rend="italics">Q: The Federal Reserve Bank of Cleveland.</hi>
+                </p>
+                <p>BLASER: That's right, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Well, you certainly knew from that experience, and
+                        otherwise, certainly about the working of the United States.</hi>
+                </p>
+                <p>BLASER: Yes. I had also worked in a commercial bank.</p>
+                <p>
+                    <hi rend="italics">Q: That was useful then later when you visited...</hi>
+                </p>
+                <p>BLASER: I had a little feel for what a bank is, and what it does. It was a sort
+                    of introduction. It's not strange, and you can begin to talk bankers language,
+                    and it helps.</p>
+                <p>
+                    <hi rend="italics">Q: That helps you follow the money, as they say.</hi>
+                </p>
+                <p>BLASER: I recall one incident in London. I can't remember all the circumstances,
+                    but the gist of it was that the US was trying to get hold of some gold, gold
+                    sovereign coins. I think it had to do with some arrangements that they were
+                    contemplating in Saudi Arabia on the oil. I was pretty green at the time, and
+                    had to interview a fairly senior official in the British treasury. He said to
+                    me, “So, you want some sovereigns so you can break the market in sovereigns.” I
+                    didn't have any answer to that.</p>
+                <p>
+                    <hi rend="italics">Q: He was just trying to get some information.</hi>
+                </p>
+                <pb facs="0031" n="Page0031"/>
+                <p>BLASER: No, I was trying to get hold of some of those sovereigns, or get somebody
+                    to use them in a certain way. I can't recall precise details except here was
+                    this young pipsqueak, fresh officer, dealing with a fairly senior...I mean I was
+                    out of my depth. But for some reason I was asked to do this...</p>
+                <p>
+                    <hi rend="italics">Q: And he was fairly capable of knowing where your place was
+                        and making sure you stayed there.</hi>
+                </p>
+                <p>BLASER: He wasn't rude or anything, but what I was trying to sell didn't please
+                    him too well.</p>
+                <p>
+                    <hi rend="italics">Q: During much of your career gold was very important.</hi>
+                </p>
+                <p>BLASER: Not so important. President Roosevelt had taken us off gold in '33, one
+                    of the first things he did.</p>
+                <p>
+                    <hi rend="italics">Q: Certainly most of the rest of world was still trying
+                        to...</hi>
+                </p>
+                <p>BLASER: Well, yes...</p>
+                <p>Biographic Information: by: Arthur F. Blaser, Jr.</p>
+                <p>Born September 29, 1908 Cleveland, Ohio</p>
+                <p>Graduated East High School, February 1925</p>
+                <p>In 1920 father bought a 42 acre farm in Gates Mills, Ohio, a suburb about 15
+                    miles east of Cleveland. The family spent the summers there and father commuted
+                    to his job in Cleveland. It was still pretty rural and I learned quite a bit
+                    about farming as it was practiced at that time. I used to go around to other
+                    farms and help with threshing and in return the other farmers would come and
+                    help us. In the first few years my father grew field crops such as corn, wheat
+                    and oats. We had a producing fruit orchard and kept a cow.</p>
+                <p>Graduated from Yale University, Ph.B. degree (no Latin) 1929.</p>
+                <p>Spent the summer of 1929 on a bicycle trip with two friends. Visited England,
+                    Scotland, Belgium, France, Switzerland, and Netherlands.</p>
+                <p>On return went to work for Central National Bank in Cleveland. After a year, with
+                    father's advice, decided an arts degree was not sufficient basis to earn a good
+                    living.</p>
+                <pb facs="0032" n="Page0032"/>
+                <p>Entered Harvard Business School fall of 1930. Spent summer of 1931 in Europe.
+                    Spent 8 weeks in Geneva, Switzerland at “Geneva School of International
+                    Studies”, founded and directed by Dr. Alfred Zimmern of Oxford University with
+                    students from all over the world, but mostly from Europe. Before the school
+                    session began visited France, Germany, Soviet Union, Poland, Romania, Hungary,
+                    Austria, and after school, Germany again.</p>
+                <p>Graduated HBS with an MBA degree, June 1932 in depth of depression. Could not get
+                    a job anywhere, despite efforts. Finally in spring of 1933, after the banking
+                    holiday, I was able to get back with Central National Bank. Two of the big banks
+                    in Cleveland failed and Central, which did not, increased its business and
+                    needed more help. After a few more months I decided I didn't want to be a banker
+                    and spend the rest of my life in one place. The depression made a deep imprint
+                    and I decided to go to Columbia University to study economics, and in
+                    particular, the business cycle. At that time Professor Wesley C. Mitchell was
+                    the chief guru in that field and I wanted to learn from him. I learned a lot and
+                    a lot more since, but like everybody else, I am still looking for the answers.
+                    We know worlds more about how the economy works than we did then, but no one can
+                    really predict where the economy will go. A former chairman of the President's
+                    Council of Economic Advisors, who was a young instructor when I was a student at
+                    Columbia, told me later that he thinks Professor Mitchell went to his grave
+                    still looking for the answer. But in any case he gave it a good try and advanced
+                    the cause greatly.</p>
+                <p>I spent two years in residence at Columbia 1933-35, at the end of which time I
+                    passed the oral examination to qualify for my Ph.D. degree. Between the two
+                    years I was able to get a summer job back at Central National to enable me to
+                    pay part of my expense for the second year.</p>
+                <p>I accepted (was able to get) an instructorship in economics and business
+                    administration at Rensselaer Polytechnic Institute in Troy, New York. I did this
+                    for four school years 1935-39. The idea was that I would also work on my Ph.D.
+                    thesis in the summers and as I could during the school year.</p>
+                <p>By the spring of 1939 it became evident that the thesis was not getting done. So
+                    I got married and went with my new wife to take up residence again at Columbia
+                    to work on my thesis. During that year, with some help from her and her family,
+                    I was able to finish it and successfully “defend” it before the faculty
+                    examiners. Only publication, then required by Columbia, remained between me and
+                    my degree.</p>
+                <p>We went back to RPI for two more years, 1940-42. We spent the summer of 1941 at
+                    the University of North Carolina at Chapel Hill where I read proof for my book,
+                    “The Federal Reserve Bank of Cleveland.” It was published by the Columbia
+                    University Press and the degree was granted as of 1941.</p>
+                <pb facs="0033" n="Page0033"/>
+                <p>By 1942 we were in the war. After six years of teaching I decided that was not
+                    the life for me either. Many academics were flocking to Washington to “help in
+                    the war effort” and to receive the better salaries offered in the Government. I
+                    applied and was offered a job with the US Civil Service Commission recruiting
+                    and examining economists and statisticians for the war agencies. It seemed a
+                    good place to start because it would give me some perspective on the kinds of
+                    jobs available in the government. And so it proved to be. In the fall of 1945 it
+                    was evident that the recruiting phase was over, and I would have to move.</p>
+                <p>My training and experience seemed to fit best at Treasury and I applied with its
+                    then “Office of Monetary Research”. I took a cut in grade but it was worth it.
+                    My first assignment was on France where I had the experience over the Xmas
+                    holidays of working on the French devaluation. (Devaluations are often carried
+                    out during holidays when businesses and banks are closed.) Later I was
+                    transferred to the British Empire and Middle East division. At the end of 1946 I
+                    was asked to go to London as an assistant to the Treasury Representative there.
+                    Treasury at that time had an arrangement with the State Department whereby it
+                    would send mostly senior people to embassies in countries where the US had a
+                    large financial interest, to work on the Ambassador's staff to assist on
+                    financial matters on which they had special knowledge or expertise. While in
+                    Washington I had worked on the post-war loan to Britain, ($3.75 billion) and the
+                    Lend Lease settlement, and that was part of the work in London. A big part of
+                    the job was to help keep track of the financial situation in Britain and report
+                    on that to Washington. Also I had to become expert on the complicated system of
+                    exchange controls and to help American business men and private citizens with
+                    the problems they encountered with the controls.</p>
+                <p>In the fall of 1948 I was recalled to Washington and rejoined the British Empire
+                    and Middle East section. The work was somewhat similar to that which I had been
+                    doing before and in London. One big event was the devaluation of the British
+                    pound. This involved a lot of analysis, much of it window dressing, until those
+                    in authority decided what the deal was going to be.</p>
+                <p>In 1951 I was asked to join one other colleague to act as staff support for
+                    Treasury's representation on the National Security Council, of which the
+                    Secretary of the Treasury was a member. In this work I often accompanied the
+                    Assistant Secretary for Monetary Affairs to meetings of the Council's Planning
+                    Board. I remember one time in particular when the Board had to consider whether
+                    Japan was credit-worthy to the tune of $100,000,000. That would be peanuts in
+                    today's world.</p>
+                <p>In 1956 I was asked to go to Japan as Financial Attach� on the Ambassador's
+                    staff. Arrangements between State and Treasury had been changed since I was in
+                    London. Treasury people selected for overseas duty were designated as Financial
+                    Attach� (or Assistant) and given diplomatic status. The Washington part of the
+                    Treasury involved in this program was renamed “Office of the Assistant Secretary
+                    for International Affairs (or OASIA for short).</p>
+                <pb facs="0034" n="Page0034"/>
+                <p>In Japan one of the main jobs was to collect, after negotiations, the money Japan
+                    owed the United States for GARIOA (Government and Relief in Occupied Areas). In
+                    this the staff work was interesting, difficult and significant. However in the
+                    end the decision rested on what the Ministers felt the Japanese public would
+                    tolerate and when, as well as what the Government could afford. Finally after
+                    some years the Finance Minister told us they could pay a figure just under
+                    $600,000,000, so it was fixed at $595 million.</p>
+                <p>Another interesting assignment arose when we and the Japanese wanted to get rid
+                    of military payment certificates (MPC's), the scrip, equivalent to dollars,
+                    which was used in our extensive military installations in Okinawa. A special
+                    mission was set up composed of officials of the Defense Department, the Bureau
+                    of the Budget and myself from Japan. Our wish was to substitute our regular
+                    paper currency and coin but the Japanese were hesitant because of their concern
+                    about the impact the change would have on their exchange control. After the
+                    mission had concluded its work in the field, I was asked to come to Washington
+                    to report on the work. I consulted with various officials and the US Executive
+                    Director of the International Monetary Fund. In the end all worked out smoothly,
+                    and regular US currency and coin replaced MPC's. I was asked to return to
+                    Okinawa during the actual conversion period to report on progress.</p>
+                <p>As Japan grew in strength, the US hoped that Japan would assist more in
+                    maintaining our troops stationed on its territory. Efforts were not as
+                    successful as we might have hoped but some progress was made.</p>
+                <p>A part of the job, as it was in all my foreign assignments, was to report on
+                    financial developments, notably balance of payments and the government budget.
+                    The US Export-Import Bank and the International Bank for Reconstruction and
+                    Development were making loans in Japan and I met with their representatives
+                    about financial developments. Similarly American private banks were becoming
+                    interested in resuming old connections or establishing new ones and I met with
+                    many of those representatives, either as they were visiting Japan or with those
+                    stationed in the country.</p>
+                <p>After seven wonderful years I told my wife we had better go home before our eyes
+                    took on the oriental slant. We left in 1963 and spent the next two years in
+                    Washington. The Treasury's international office had been reorganized in our
+                    absence and I was assigned to a unit called Office of Industrial Nations. This
+                    of course included Japan so that continued as one of my major responsibilities
+                    in the Office.</p>
+                <pb facs="0035" n="Page0035"/>
+                <p>Since we had no children and were free to go, and also liked overseas
+                    assignments, we were asked to go to Germany and arrived there in mid-1965. In
+                    Germany one of the principal objectives was to increase German support for our
+                    forces there. In this work we assisted, along with our Embassy colleagues,
+                    officials and teams who came from Washington from time to time to discuss these
+                    matters. Another part of the work was to establish contacts with Ministry of
+                    Finance officials, the Bundesbank and private banks to keep abreast of financial
+                    developments in Germany, and, to the extent that I was able, to share with them
+                    similar developments in the United States.</p>
+                <p>After nearly four years in Germany, we were next assigned to Brazil, and left
+                    Germany in February 1969 to study Portuguese for 16 weeks at the Foreign Service
+                    Institute. This gave us a working basis in the language which was very helpful.
+                    Our competence improved as time went on.</p>
+                <p>In Brazil the work was similar in many respects but vastly different in others.
+                    Inflation was endemic and we had to watch the exchange rate very carefully, and
+                    the factors impinging on it. Brazil had adopted a policy of fairly frequent and
+                    regular small adjustments in the rate. It was a different world and took some
+                    thought in getting used to it.</p>
+                <p>Our experience in Brazil was a little out of the ordinary in that early in our
+                    stay our Ambassador, Burke Elbrick was kidnapped by some lawless elements in
+                    Brazilian society. We were not directly involved in the incident other than to
+                    volunteer our services in any way that might be helpful. In due course the
+                    Ambassador was returned by means of which we were not informed. He seemed
+                    physically unharmed except for a small patch on his face but he seemed to be
+                    really “shook”. He was soon replaced by William Rountree. Ambassador Rountree
+                    announced that he would establish his embassy in Brasilia, Brazil's new capital
+                    in the interior of the country. This meant that we had to move from Rio de
+                    Janeiro, a sophisticated modern city, to the outback which had some of the
+                    aspects of our west in the early days. Nevertheless we greatly enjoyed life
+                    there with the “big sky” which reminded us of our travels in Montana.</p>
+                <p>In Brazil there was an AID mission and at various times we had conferences with
+                    the Ambassador on actions, especially loans, being considered by the AID
+                    mission.</p>
+                <p>Contacts with the Finance Ministry, the Central Bank and Brazilian and American
+                    bankers were important as they had been in the other countries in which we
+                    served. Also in Brazil, as in Germany and Japan there were visits by the
+                    Secretary of the Treasury and other cabinet officers. It was our job to
+                    participate in varying degrees in the preparations for those visits and the
+                    events which took place during them.</p>
+                <pb facs="0036" n="Page0036"/>
+                <p>After four happy years in Brazil and 28 years with the Treasury we decided it was
+                    time to “turn in our suit” and retire. We were asked to extend for one more year
+                    but decided one more trip on the merry-go-round was not as attractive as
+                    returning home to a life of retirement. And so it was. We returned in mid-1973,
+                    went through the formalities of leaving Government service, and have not done a
+                    day's work for pay since.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

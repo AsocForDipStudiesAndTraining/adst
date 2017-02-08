@@ -1,343 +1,917 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000377">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with William H.G. FitzGerald </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with William H.G. FitzGerald </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR WILLIAM H. G. FITZGERALD</p>
-<p>Interviewed by:  Charles Stuart Kennedy </p>
-<p>Initial interview date:  December 14, 1994</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Mr. Ambassador, I'd like to start at the beginning.  When and where were you born, and could you tell me a little about your family.</hi>
-</p>
-<p>FITZGERALD:  Yes.  I was born in the old Lying in Hospital in Boston, now the Brigham and Women's Hospital, December 23, 1909.  However, we lived in Wakefield, Massachusetts for the early part of my life.  My father was a naval officer.  My mother and he decided that, rather than try to follow him around to various positions around the world, they would establish a base where the children, including my sister and myself, would be brought up and educated.  We lived there for a number of years, during which time I attended a religious school, operated by the Jesuits.  My father wanted me to go to the Naval Academy and follow him into the Navy, so I went to preparatory school in Maryland, the Severn School.</p>
-<p>
-<hi rend="italics">Q:  We're fellow alumni.  I went there for one year, anyway, 1940-41.</hi>
-</p>
-<p>FITZGERALD:  I was there when Roland Teal was founder.</p>
-<p>
-<hi rend="italics">Q:  He was still the principal when I was there.</hi>
-</p>
-<p>FITZGERALD:  Was he?  I went there and then entered the Naval Academy in 1927.</p>
-<p>
-<hi rend="italics">Q:  So you were in the Class of '31.</hi>
-</p>
-<p>FITZGERALD:  Class of '31 at the Naval Academy, yes.</p>
-<p>
-<hi rend="italics">Q:  Looking at the education at the Naval Academy in those days, did you get any inkling of what the big world was like outside?  I'm particularly thinking of international affairs, because this is the focus of our interview.</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>FITZGERALD:  When I entered the Academy, I must say, my vision was quite parochial.  I studied with the purpose of being a naval officer and pursuing that career.  I wished to achieve command as quickly as possible, so the way to proceed along that course was to be assigned to small ships.  However, when you graduate, you are generally assigned to large ships, battleships in particular, to begin your training in the various departments of a ship.  As quickly as possible, I requested submarine service but the earliest possible time was 1932, when I was assigned to submarine school at New London.  I graduated in 1933 and was assigned duty in Pearl Harbor, in Hawaii.</p>
-<p>At that time, the Navy was contracting.  When I entered the service, we had an incredibly small inventory of ships.  If I recall (don't hold me to this number), I don't think we had more than 100 ships actually in commission.  One hundred ships.  There was no more than 500,000 total complement in the Navy, officers and enlisted personnel.</p>
-<p>
-<hi rend="italics">Q:  We're talking, of course, of the depths of the Depression, too.</hi>
-</p>
-<p>FITZGERALD:  Quite.  I saw little prospect of advancing quickly, but I became qualified in submarine command.  Following this experience, I had different ideas for my future and left the service in the summer of 1934 to attend the Harvard Law School.</p>
-<p>I had become very much interested in the stock market, which interest was stimulated when I was aboard my first ship, based in San Pedro, the battleship USS Nevada.  This ship was later sunk in Pearl Harbor, but in four years was again operative and was the lead ship in the invasion of Normandy.  But during that time on the Nevada, among several assignments, I was the assistant navigator.  There were many yachtsmen around California at that time who knew nothing about coastal navigation, and so were interested to have a naval officer who had navigational experience to cruise with them.  I was invited on several occasions to join some of these people.</p>
-<p>One particular time was the weekend of July 4, 1932, when I was sailing with a group comprising one of the leading Hollywood producers, an experienced broker in Los Angeles, and others.  While we were cruising down the coast towards San Diego, this broker, was almost in tears as he told the people on board the incredible situation in the stock market.  “I can point out companies which are selling on the Stock Exchange for less than the cash they have in their treasuries, not counting any fixed assets or inventory.” I listened and decided to do something about it.  This was an extraordinary opportunity for investing.</p>
-<pb facs="0003" n="Page0003"/>
-<p>I had accumulated the total capital of $900 and so invested it in the stock market, beginning July 7, 1932 on a 10% margin basis.  At that time, all one needed to invest was ten percent of the capital cost of the security.  I invested from 1932 to 1935 in a strong bull market.  When I was at Harvard Law School in 1934, I was trading in the market almost on a daily basis and was earning more money per week than some of my law review friends on Wall Street at Sullivan and Cromwell or White and Case, etc., were making in a month, possibly in several months.  As a result, I became disenchanted with following the law and decided to go into finance.</p>
-<p>Friends of mine arranged for me to be employed by the Borden Company, which was originally the Borden Milk Company to learn corporate finance.</p>
-<p>I remained there until I received a letter from the Department of the Navy in April, 1941, alerting me prior to being called back into the service.  Most people thought that World War II began at Pearl Harbor, in December 1941, but as you know from your experience, our Navy was escorting Allied convoys supplying South Africa and parts of Asia beginning in February and March of that year.</p>
-<p>
-<hi rend="italics">Q:  The Reuben James and all that.</hi>
-</p>
-<p>FITZGERALD:  I was called up in June of '41, and having been involved in submarines, naturally was assigned to that service.  I never had the opportunity of going into operational duty, as I was ordered to the Bureau of Ships to assist in submarine research.</p>
-<p>We found at an early period in 1942 that there was something wrong with our depth charges and something wrong with our intelligence concerning German submarines.  It was not until late '42, when a German submarine was captured, on the surface, in the English Channel, which revealed that German submarines no longer had riveted hulls, as we had, but high-strength, welded hulls, a completely different submarine design from which we were operating.  Our depth charges were set at the maximum of 250 feet, as our own submarines were not able to submerge deeper, but the German submarines could descend to about 400 feet.  As a result, we never reached them.  Our destroyers and anti-submarine warfare forces would sight a submarine, pursue it with the usual anti-submarine warfare doctrine—depth charges, etc., but never damage it.</p>
-<p>The Navy Department decided that the Bureau of Ships had to redesign submarines literally from square one, basic hull materials, test of materials, etc.  We found that passive tests just did not give us the facts.  Dynamic and explosive tests had to be developed to measure the strengths of much stronger materials.  As a result, a mini-Manhattan Project was conducted by the Navy Department to make our own submarines competitive with the Germans.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  I never heard of this.  So that was what you did during most of the war.</hi>
-</p>
-<p>FITZGERALD:  After this experience, I wished to get out of Washington to an area where the action was with my friends with whom I went through submarine school.  They were at that time either commanders of submarines or executive officers of submarine divisions.  Here I was, sitting in the Bureau of Ships, trying to figure out how to improve the design of submarines which kept me from seeing action on the war front.</p>
-<p>Finally, I was posted in the chief of naval operations office as a liaison officer with the Latin American navies.  Later, I was appointed submarine officer on our naval mission to Brazil.</p>
-<p>The end of the war came, and I returned to Washington, and left the service in 1946.</p>
-<p>
-<hi rend="italics">Q:  I see.</hi>
-</p>
-<p>FITZGERALD:  Upon leaving the service, I still was very much interested in investment.  I decided that there were many opportunities in the field of research, through my experience in the Bureau of Ships, which exposed me to the materials and design problems which needed to be resolved.  As a result, I organized the Metallurgical Research and Development Company which became active in the field of powder metallurgy.  This field of research had a high priority with the Army, Navy, and Air Force.  The military was very concerned about manufacturing turbine blading for aircraft and ships, which required high-strength, high-temperature heat resistant materials and enormous costs to machine these engine parts.  I thought that, with powder metallurgy, we could make compounds sufficiently strong to withstand high pressure and high temperature and meet the physical requirements in a rather simple manufacturing process.  The Army, Navy, and Air Force were intrigued with the idea, so I established the Metallurgical Research and Development Inc. with a laboratory in Paterson, New Jersey, where we did the research on turbine blading.  We worked on this project for three years, combining many kinds of materials, compounds, into powder by varying pressures and temperatures.  With all of our efforts we could not achieve the complex form of the blades and obtain the high strength needed for those bladings.  As a result, the military services and industry redirected the application of powder metallurgy into less sophisticated forms, such as transmission casings for the automotive industry which now has a wide use in that field.</p>
-<p>However, I was interested to learn just recently that some of the scientists and engineers are coming back to powder metallurgy with the idea which I had originally for turbine blading and turbine forms, because, now, they have developed new techniques forming alloyed material under high temperature and pressure — technology which did not exist 40 years ago.</p>
-<p>This was an interesting period in my life, where I became involved in that field of research.  Later, I sold the company, as I knew at that time that our objectives could not be reached.</p>
-<pb facs="0005" n="Page0005"/>
-<p>As a spinoff from that technology, I moved into the vacuum metalizing field where we coated various plastic materials with microthicknesses of aluminum metal.  These were made into thread for decorating curtains in gold or silver.  Many other uses evolved from this technique.  Some friends and I formed a company called National Metalizing Corporation which had great success in this field.  Several years later, I left Natural Metalizing when we merged with another corporation in an allied field.</p>
-<p>All during that time from my war years in the Bureau of Ships I had in the back of my mind the problem of slow speed landing craft which were a great failure in World War II.  In 1961 I made contact with a German group headed by Baron von Schertel who built 60-mile-per-hour hydrofoils to supply ammunition to General Rommel in Africa.  This group interested the Bureau of Ships which supported some research on hydrofoils.  The hydrofoil concept received support for several years but the Navy decided that the Hovercraft concept developed by the British Navy was more interesting.</p>
-<p>I had already had contacts in Europe due to the fact that in 1949 my company received the first technical-assistance contract under the Marshall Plan.  My corporation was appointed with the American Society of Metals co-manager to organize the first World Metallurgical Congress, in October of 1950 in Detroit, Michigan.  While Metallurgical Research organized the major European corporations in the metals and metal equipment industries to participate; the American Society of Metals assembled the American corporations working in similar industries for the meeting.  This Congress was a tremendous success as it initiated cross-licensing agreements, acquisitions, financial participation, joint ventures, that impacted heavily on the development of the metals industry in Europe in the post-war period.</p>
-<p>
-<hi rend="italics">Q:  It really, for the first time since the war, brought companies, on an international scale, together.</hi>
-</p>
-<p>FITZGERALD:  Precisely.  Companies in Germany, as Metallgesellschaft, Luergi, Mannesmann, Krupp and Siemens with leading British, French and Italian companies joined.  We put them together with US Steel, Bethlehem, and International Steel together with the nonferrous companies and fabricators.  It was quite an operation.</p>
-<p>
-<hi rend="italics">Q:  This gave you your real touch of the international.  Obviously, German business was just moving out; it was only five years after the war, and the Cold War was just beginning to crank up.  What was your impression of the German metal industry, and the managers particularly?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>FITZGERALD:  As you know, the German metals industries were important targets for allied aircraft bombing.  The cities in western Germany — Dusseldorf, Frankfurt, Munich and Stuttgart, cities which were centers of heavy industry, particularly, were badly hit.  The impressive fact was the ability of German industries to recover quickly and to bring into production peacetime product lines.  Their recovery period was a fraction of the time required by the British and French corporations.  In the early 1950's, as the Marshall Plan developed, these companies were again back in worldwide trade competition, utilizing the best designs of manufacturing processing and production, mostly developed in the U.S.A.</p>
-<p>We enjoyed a model and unusual relationship with the European Cooperation Administration which administered the Marshall Plan.  My company received an open-end technical-assistance contract to which ECA, the Mutual Security Agency and later the FOA assigned task orders to work in various countries.  In MSA, we were involved in Greece.  When the Foreign Operations Administration (FOA) replaced MSA, we were assigned task orders for work in Indonesia and Pakistan.  Our company advised on the maintenance and operation of the railroads in Pakistan with headquarters in Rawalpindi.  At about the same time we received an economic development contract in Nepal.  Over a period of seven years we were assigned development contracts in various countries in Asia.</p>
-<p>In 1957 Christian Herter, who at that time was deputy secretary of state, knew me and my work in various aid projects with the ECA, MSA, and FOA.</p>
-<p>
-<hi rend="italics">Q:  He was at one time governor of Massachusetts.</hi>
-</p>
-<p>FITZGERALD:  Yes, he had been governor of Massachusetts, but later he came to Washington and Foster Dulles appointed him as his deputy secretary of state.</p>
-<p>Chris Herter called me one day, and he said, “You know, you've been on the other side of the table negotiating with ECA, MSA, FOA, etc., and now we have ICA.  Would you like to come into the government and help us in some of these projects, because you've seen the other side?  Will you join us on our side of the fence?”</p>
-<p>I replied, “I'd be honored to come in and try to help.” And President Eisenhower appointed me as deputy director for management of the International Cooperation Administration (ICA).</p>
-<p>
-<hi rend="italics">Q:  This was, for the record, from 1958 to 1960.</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>FITZGERALD:  I came in first in 1957.  Governor Herter asked me to look over the operation so I came in as assistant to the director.  They gave me an opportunity to range all over the ICA.  In 1958 President Eisenhower appointed me deputy director for management.  I remained in the job until 1960 when I resigned to work for Richard Nixon who was running for president.</p>
-<p>
-<hi rend="italics">Q:  Well, let's talk about this time.  What was your impression of ICA?  You were basically in a management position; this is what they were using you for.  What were the strengths and the weaknesses, as you saw it at that time during this '58 to '60 period?</hi>
-</p>
-<p>FITZGERALD:  After I had that experience from 1957 to 1960, I wrote a critique indicating that we are approaching aid in the wrong way, throwing millions and millions of dollars at the heads of governments — military dictatorships, Marxist/Leninist leaders, government planners and socialist-leaning governments.  Our aid was not reaching the people.  We could not account for much of the aid money as it had disappeared mostly to Switzerland, France and Monaco.  I stated further that our aid program was not aid on a loan basis as represented but we were selling millions of tons of grain to various countries — India, Pakistan and others — at a fixed price with a fixed currency value.  As a result, we were giving away the grain and commodities to these countries as they were suffering under an inflation rate of ten, 20, 30 percent a year.  These long-term payouts in local currencies became gifts.  I wrote that it was a great mistake for us to lose millions of dollars in these grain deals with no hope of utilizing the depreciated local currencies paid in by these countries.</p>
-<p>The State Department insisted that we had to maintain these agreements as we were competing with the Soviets for influence in many of these countries.  If the United States believed that a particular project did not make sense unless carried out our way, the prospective client beneficiary would say, “Well, we'll go to the Russians and they will give us the funds.”</p>
-<p>This was a problem which the State Department was facing at the time and there was strong feelings that the US had to give aid to these African and Asian countries in an attempt to maintain influence.</p>
-<p>I was very unhappy with this policy, so resigned and went to work in the campaign for Nixon.  When Nixon was defeated and Kennedy became president, I went back to business.</p>
-<pb facs="0008" n="Page0008"/>
-<p>At that time, I became involved with hydrofoils and became chairman of Supramar Ltd. of Luzern, Switzerland.  As I related earlier, the Navy was very interested in high speed landing craft but our landing craft designs had improved very little since 1945.  I negotiated a license with General Dynamics Corporation to build Supramar hydrofoils for a period of five years.  GD paid the license fee each year but did not build Supramar hydrofoils.  It happened that the Bureau of Ships was attempting to build their own hydrofoil and did not want competition from foreign sources.  General Dynamics being part of the Navy “shipbuilding club” acceded to the Bureau of Ships' wishes.  As I indicated above, the Navy decided to later support the Hovercraft principle developed by the British Navy for future landing craft.</p>
-<p>
-<hi rend="italics">Q:  You were saying that the Bureau of Ships, with a combination of unions and shipping companies, just didn't want to have something new like a German hydrofoil come in to the United States as it could have not only military but many commercial domestic transport uses.</hi>
-</p>
-<p>FITZGERALD:  Yes, that's exactly it.  I remember Admiral James, who was chief of the Bureau of Ships at that time, a friend of mine from war days in the Bureau of Ships, say to me, “We're going to build the best goddamned hydrofoil in the world.  We don't need these Krauts to build hydrofoils.”</p>
-<p>
-<hi rend="italics">Q:  The result was that we built very expensive models which have never really been used.</hi>
-</p>
-<p>FITZGERALD:  Correct.  They priced themselves out of the marketplace with high-tech craft built by General Dynamics and Lockheed Aircraft trying to transport people on a commercial basis.  They just didn't realize that these were simple boats, with a foil system which is not complex in producing.  They designed aircraft control systems — far beyond the cost of European hydrofoil systems.</p>
-<p>
-<hi rend="italics">Q:  So you're out of the hydrofoil business now.  Walk through what you did, and then we'll get to where you were involved with foreign affairs.</hi>
-</p>
-<p>FITZGERALD:  Of course, being in ECA, MSA, FOA, then ICA.</p>
-<p>
-<hi rend="italics">Q:  Which now is AID; it keeps changing its name.</hi>
-</p>
-<p>FITZGERALD:  ICA was the forerunner of AID and active in over 70 countries at that time.  I had the opportunity of traveling all over the world...where programs were operating and trying to make political and economic sense in these countries up to 1960.</p>
-<pb facs="0009" n="Page0009"/>
-<p>During these years, on my off hours, as an individual, I was investing in various companies in the stock market.  Then I became involved in money management of the Chase funds in Boston for a period of years.</p>
-<p>It was not until quite a bit later, when Ford succeeded Nixon, that I was appointed as US Conciliator, International Center of Investment Disputes 1975-1982 and President's Advisory Board on International Investments 1976-1978.</p>
-<p>
-<hi rend="italics">Q:  Nixon came in, in 1969.</hi>
-</p>
-<p>FITZGERALD:  I had no appointment during the Nixon Administration.</p>
-<p>
-<hi rend="italics">Q:  We can always fill this in.  The major thing is, we want to talk about the foreign-affairs side of this.  I note that you went as a delegate to the Atlantic Treaty Assembly at various times, in Iceland and Washington, Rome, Istanbul.  This Atlantic Treaty Assembly, what was it?</hi>
-</p>
-<p>FITZGERALD:  I've been identified with the Atlantic Council of the United States for many years beginning in 1976.  I was treasurer from 1979 to 1992 and am presently vice chairman of the Council.</p>
-<p>
-<hi rend="italics">Q:  Again, for the historian, what is your impression of the role of the Atlantic Council during this period, from the 1970s to the 1990s?</hi>
-</p>
-<p>FITZGERALD:  The Atlantic Council is a nonprofit public policy center addressing the advancement of US global interests within the Atlantic and Pacific communities.  A national, nonpartisan organization, the Council actively engages in its activities the US executive and legislative branches, the national and international business community, media and academia; and diplomats and foreign leaders.  In the beginning, the Council was very much concerned with East-West security and how to control the Soviet Union's expansion.  The Atlantic Council was essentially a think tank for these problems, providing the State Department and the different administrations, and departments of government with proposals or approaches to various security problems.</p>
-<pb facs="0010" n="Page0010"/>
-<p>The Council's mission was more or less constant and continuous until the ''80s, when the whole problem of eastern Europe, and the Berlin Wall, was completely shifted in focus.  The Atlantic Council started broadening its approach, looking at the Pacific area.  Now the Atlantic Council has expanded its base of objective analysis to cover not only European security problems, but those of the Far East as well.  It is very actively involved with negotiations with China, Japan, and Korea on security and energy problems.  The possible extension of NATO to the east has initiated a number of studies involving security.  These Atlantic Treaty Association meetings were concerned with the Soviet Union and east-west security until the last one which I attended in Athens.  Our meeting in Athens included the Bulgarians, the Romanians, and the Hungarians, all present pleading their case for admission into NATO.  The function of the Atlantic Council, being participants in the Atlantic Treaty Association meetings, was to develop position papers, which were put together after each meeting and sent to NATO, our Congress, Departments of Government and our Administration.</p>
-<p>
-<hi rend="italics">Q:  And many of the members on the Atlantic Council have also been in government, so it's not an academic, artsy-fartsy type of organization.</hi>
-</p>
-<p>FITZGERALD:  Oh, no, not at all.  As a matter of fact, members have held very important jobs in government:  secretaries of state, deputy secretaries, etc.  Why don't I give you a list of people, to give you a feel for the board of directors, that would be helpful.</p>
-<p>Enclosed is a letterhead of the Atlantic Council.</p>
-<p>
-<hi rend="italics">Q:  I'll have that, yes.Well, now, we're coming to the time when you were appointed ambassador to Ireland.  How did that come about?</hi>
-</p>
-<p>FITZGERALD:  In 1989, when President Bush was elected, he asked me whether I'd be interested in some diplomatic assignment.  As I was very much involved in business and banking, I just couldn't get away.  So he appointed me vice chairman of the African Development Fund, which was an independent government agency having to do with grassroots aid in sub-Sahara Africa, a subject on which I had written a critique in 1960.  I accepted with alacrity as it was a part-time assignment and did not interfere with my banking business.</p>
-<p>This fund's mission was to assist in the economic development of the sub-Sahara countries, 42 countries in total, and I was very interested in this grass roots approach to foreign aid.  When foreign-aid budgets were being clipped, the African Development Fund was given more money as Congress believed that this was the way to help the people of Africa, beginning at the bottom of the economic ladder and not at the top.</p>
-<pb facs="0011" n="Page0011"/>
-<p>I was very much involved in that work, when the president called me one day and said, “I'd like you to go to Ireland,” without any kind of solicitation, any kind of effort on my part.  A complete surprise.</p>
-<p>This off-hand nomination by the president concerned the Senate Foreign Relations Committee when I came up for approval.  As you know, you have to submit your background experience, your financials, how much money you have contributed to political parties during the past five years.  Over these years, I had never contributed any substantial amounts, perhaps $1,000 for a dinner or similar functions.  In view of having substantial assets and minuscule contributions, the Democratic staff of the committee combed my records for the last five years.  They apparently could not believe that I had given so little money to the Republican Party, so demanded that I sign an affidavit stating that my financial contributions to the political system were as I previously stated.</p>
-<p>
-<hi rend="italics">Q:  Oh, my God.</hi>
-</p>
-<p>FITZGERALD:  Think of that.  So I signed it.</p>
-<p>When I came up for confirmation, Senator Sarbanes...</p>
-<p>
-<hi rend="italics">Q:  Of Maryland.</hi>
-</p>
-<p>FITZGERALD:  said, “Mr. FitzGerald, how did you get this nomination?” I replied, “Senator, I do not know as it was a complete surprise to have been asked to go to Ireland.”</p>
-<p>There were three other candidates up at the time, all had their senators, several congressmen also with them, telling the Senate Foreign Relations Committee what wonderful candidates they were and what a wonderful job they were going to do wherever they were to be posted.  There I was alone.</p>
-<p>I said, “Gentlemen, I'm sorry I don't have any senators and I don't have any congressmen to recommend me, because I come from the District of Columbia.”</p>
-<p>They laughed.  And Sarbanes said, “Well, I am against these political appointees buying embassies.”</p>
-<p>Sarbanes asked me if I had anyone write letters or intercede on my behalf and I replied, “No, no one.”</p>
-<pb facs="0012" n="Page0012"/>
-<p>They just couldn't find any evidence of other contributions.  Finally, I said, “Well, gentlemen, as you see, I have no political recommendations at all.  However, when President Eisenhower appointed me in 1957 to the State Department my legal residence was Connecticut, and my sponsor at that time was Senator Prescott Bush.”</p>
-<p>Senator Sarbanes said, “Senator Prescott Bush?” And he looked over at Biden and a couple of others, and he said, “Thank you very much, Mr. FitzGerald.  No more questions.”</p>
-<p>No more questions.  Isn't that amusing?</p>
-<p>
-<hi rend="italics">Q:  You went out to Ireland from '92 to '93.  As you got ready to go out, obviously you read up on it and went to the State Department and all that.  Could you talk a little about the preparation for going out to be an ambassador?</hi>
-</p>
-<p>FITZGERALD:  That is a subject in which I am most interested.  I've told Steve Low how much I appreciated, enjoyed and valued the indoctrination training at the FSI.</p>
-<p>
-<hi rend="italics">Q:  He was head of the FSI at the time.</hi>
-</p>
-<p>FITZGERALD:  Yes.  Also I told a friend of mine, who was in charge of the indoctrination, Ambassador Brandon Grove, that the staff did a splendid job.  I said I would recommend a perhaps more intensive effort on the part of non-career people.  There are a number of people (I know them, and you do, too), political appointees, who thought that whatever job they were appointed to they could do and were not particularly interested in the training or preparation.  I recommended to Brandon and also to Steve Low, “to set up a training program recognizing that over a period of time, there'll be at least 25, maybe up to 50, percent of the ambassadorial appointments that are political.  This training must prepare these people properly as it may not be easy for non-career people to become diplomats.  The Department cannot devote enough time in preparing these people.  If this program required financial support, I'd be willing to help.”</p>
-<p>
-<hi rend="italics">Q:  For the record, it's interesting to note that the real impetus behind developing this course, in the beginning, was Shirley Temple Black, who started this.  Could you describe a little about some of the areas covered in this course?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>FITZGERALD:  The program emphasized the need to know the key people in the government to which they are to be accredited, particularly the people with whom they had to do business, to know them thoroughly as the ambassador has a message to bring to that country from the United States.  I felt that I should develop this rapport immediately as soon as I arrived in Ireland.  My first objectives were the minister of foreign affairs and the ministers of industry and finance.  Hopefully, in the embassies you have good staff who have experience and knowledge of the important members of the host government.  The ambassador is the leader of the team and representative of our president and must develop a personal relationship, if possible, with the heads of the government, and through that personal relationship, transmit his interpretation of United States policy so that it is well understood by the leaders of that host government.</p>
-<p>
-<hi rend="italics">Q:  When you went out to Ireland, were there any particular issues on your plate?  What were the main concerns the State Department had with our relations with Ireland when you went there?</hi>
-</p>
-<p>FITZGERALD:  Well, number one, we looked on the problem of unemployment.  Basically, my mission was to develop a US industry investment interest in Ireland.  I organized a program (through our Department of Commerce, which has about 67 offices across the United States whose sole purpose is to develop domestic and international business).  I attempted to energize those offices, helping them to recognize that there is a universe of corporations in the United States, whose sales range from 50 million dollars to perhaps 100 million dollars a year, which have never exported.  Good product, well managed, well financed, never exported.  My argument was, “Here is an opportunity in Ireland.” With the fall of the Berlin Wall, hordes of businessmen, lawyers, US Government officials charging into Eastern Europe and Russia where there are no laws yet and it's going to take years before the laws are established and are tested in the courts for repatriation of capital, protection of investment, private property, unfair labor laws, and many other unforeseen problems.  Language barriers exist in all of the Eastern European and Slavic nations.  I said, “Here we have Ireland, where the people speak the same language and operate under the same English common laws tested over the generations in the courts.  We have about 45 millions of Irish-Americans in our country, a strong bridge.  Don't look at Ireland from the standpoint of three and a half million population.  That's not your market.  Ireland is a member of the European Community, and you can use Ireland as a conduit into the largest consumers' market in the world:  370-plus million people.” That was the message.</p>
-<pb facs="0014" n="Page0014"/>
-<p>And I pushed it.  As a matter of fact, we now have over 350 US corporations now operating in Ireland, selling to all markets outside of the United States.  Being a banker by trade, I went to the banks and related some personal experiences.  “I've talked to a number of young people graduating from the universities, and I asked them what they plan to do after graduation.” One said, 'Well, I think I'm going to get a job in government.' Another one would say, 'Well, I think I'm going to pursue the law.' A third would say, 'Well, I think I'm going into accounting.'” None of those jobs would create employment.  I would reply, “Well, why aren't you going out and starting a business?”</p>
-<p>“Well, I can't get any money.  Nobody'll give us the money to start a new business.”</p>
-<p>I then went to the banks, to the Allied Irish Banks, the Ulster Bank, the Bank of Ireland, even the Chase Bank representative in Dublin and repeated the story — “Young college graduates tell me they can't get any money.”</p>
-<p>The frequent banker's response was, “Well, nobody comes in with a good idea for us to finance.”</p>
-<p>My reply was, “I'm a banker.  Now what do you mean by a good idea?  You'll loan somebody $100,000 providing he will secure it with some property of equal value, or compensatory deposits of up to 20 or 25 percent?  That isn't loaning money.  That's not helping business.  What you should be doing is setting up a small department in your bank for venture capital.  Look what we do in America.  I've been in a venture capital business in Silicon Valley — the center of venture capitalists where seed money goes to somebody who has an idea.  You help them organize the business.  And then, when you see the idea is successful, you help the person or persons with public financing.”</p>
-<p>Unfortunately, in Ireland, they have a phobia of being a failure for if you go bankrupt in Ireland, historically, you'd never be able to borrow more money.</p>
-<p>You know what I did?</p>
-<p>
-<hi rend="italics">Q:  What?</hi>
-</p>
-<p>FITZGERALD:  I saw an article in Forbes magazine about people who had gone bankrupt in the United States and who had become millionaires.  I made copies of the article and gave it to the Irish government officials in the Ministries of Commerce, Industry, and Finance.</p>
-<pb facs="0015" n="Page0015"/>
-<p>I impressed on the Irish government as to what happened in the ''80s in the United States.  We provided more new jobs than all of Europe put together, about 15 million jobs.  Where did they come from?  Eighty to 85 percent came from small business.  Small business.  That should be your thrust here in Ireland.  With US capital coming in, working with the Irish experts developing the niches in the European market, and American business know-how you've got to be successful.” As a result, I've learned from Dermot Gallagher, the Irish Ambassador to the US, that Prime Minister Reynolds announced that the government was setting up an entrepreneurial fund in Ireland to help people start small businesses.  Amen.</p>
-<p>
-<hi rend="italics">Q:  How did you find Irish trade with the United States?  This was a period when we were making, as we have at other times, complaints that there were unfair trading practices.  How did you find it?</hi>
-</p>
-<p>FITZGERALD:  The problem with Ireland was mostly with agricultural products, which they export to the United States.  They're operating, of course, as you know, in the European Community, where they receive very heavy subsidies.  They're part of the fusion group, which is Greece, Portugal, Spain, and Ireland.  Those four nations are considered developing countries under the European Community mantra, which provides them with heavy subsidies.  Presently, Ireland receives more subsidy than all of the others.</p>
-<p>
-<hi rend="italics">Q:  Was this something that we could deal with, while you were there?  These subsidies, did this make a difference in trade?</hi>
-</p>
-<p>FITZGERALD:  We couldn't touch any of the subsidies going to the Irish government.  Those were coming from the European Community.  And so that was helpful, very helpful, to the Irish.  But, the Irish were very afraid that we were going to penalize them when we had this European Community brouhaha with the GATT.  We threatened to cut off the agricultural products, casein which they produced from milk among other dairy products, which were important to them, but certainly not important to the United States.</p>
-<p>I think that the thrust is through US investments in Ireland and through developing small business which is going to impact on the unemployment situation.</p>
-<pb facs="0016" n="Page0016"/>
-<p>I never was involved in the North-South Ireland situation, excepting as an amicus curiae (friend in court).  I visited Northern Ireland and had the good opportunity of convening the four leaders of the four political parties in one room.  Of course, I did this all with the knowledge of London, because relations with Northern Ireland is the US Embassy in London's responsibility.  I visited Belfast because I wanted to at least know the feelings of these Northern Ireland leaders.  They all wanted peace but the question was how to get to that point.  I suggested that perhaps a little give on either side might help.  I knew very well the people who were negotiating, for the Republic of Ireland, and how anxious they are to settle this controversy which has bedeviled both nations for over 50 years.</p>
-<p>I hope, now, that they will have some kind of a rapprochement, a working agreement, over a period of time.  Remember, since 1922, the Ulster government has been repressing the Catholics.  Now that they see the shoe can be on the other foot, they're scared to death that the Irish Catholics will just give the same to them.  The most important fact is that the issue is no longer religious, but economic.  The United Kingdom has been pouring billions of dollars into Ulster for years.  How long this government can continue, I cannot forecast but the issue is more critical as time passes.</p>
-<p>After I met with the heads of these four parties, in one room in Belfast, I went over and had luncheon the next day with Sir Patrick Mayhew, the Secretary of State for Northern Ireland who has total responsibility for the negotiations.  I advised him of my meeting and the different opinions received.  My question to Sir Patrick was, “How long can Westminster continue to support these one and a half million people at such extraordinary levels?” Of course, I was briefed on all U.K.-Ulster relations before my trip to Belfast.  Great Britain is pouring in about six billion dollars a year into Ulster containing one and a half million people.  Out of that six billion, they estimate about two billion is for military occupation.  One of the strong points in any negotiation is that the U.K. holds the purse strings and could force a settlement if necessary.</p>
-<p>My hope is that ultimately it will be one island.  This geographic fiction which was created in that northeast corner of Ireland, Ulster, was mostly for wartime security to begin with and also to appease the Protestant population.  Great Britain gave Dominion status to Ireland, and this was the quid pro quo.  At the time Great Britain's policy was, “We'll keep our boys up there in Ulster.  We'll pour the money in and build up industry there, and we will have a Protestant stronghold.  Of course, they were always remembering, as you recall, World War I, the neutrality of Ireland, the opposition against England.  Ulster was a foothold in Ireland, where the U.K. could have ports, including Londonderry, for shipping and commerce, and maybe for security.</p>
-<p>
-<hi rend="italics">Q:  Basically, it was denying.  Because, during World War I, the Germans made pretty good inroads into the Irish.</hi>
-</p>
-<p>FITZGERALD:  Yes, they did.</p>
-<pb facs="0017" n="Page0017"/>
-<p>
-<hi rend="italics">Q:  You talked about the 45 million Irish-Americans.  How did you find the Irish politics played, as far as your job was concerned?</hi>
-</p>
-<p>FITZGERALD:  That is amusing.  All my forbears are Irish, and I'm from a part of the Desmond Clan.  Desmond, in Gaelic, means South Munster, and South Munster is Limerick area Kerry and Cork.  When I first arrived, I was not an unknown quantity, and I became identified pretty quickly, so I was able to talk with Irish government officials not as a stranger.</p>
-<p>Over the years, there's been a strong anti-American bias in the press.  The press has been controlled completely by the English up until recently, when Tony O'Reilly is attempting to break in and control some of the Irish press.  However, the British control the Irish Times, the Irish Independent with British money.  As a matter of fact, the first Irish managing editor ever to be appointed was on the Irish Times when I was on post.</p>
-<p>
-<hi rend="italics">Q:  Good God.</hi>
-</p>
-<p>FITZGERALD:  Think of that.  The first Irish managing editor ever to be appointed to a newspaper in Ireland.</p>
-<p>The Irish, at times, are petulant, they're emotional.  They feel that the United States owes them something for sending over from Ireland about 45 million people.  It's an interesting love-hate relationship and we're constantly trying to combat this feeling.</p>
-<p>For instance, when Mrs. Robinson, the Irish president, made a great to-do about her concern about Somalia, the government arranged for her to go over to Somalia, with all kinds of photo opportunities such as reaching over and speaking to a starving Somali child, and how wonderful it was that she recognized the importance of Somalia and so on.  Well, the United States had been pouring millions of tons of food into Somalia for two years before Mrs. Robinson went to Somalia.  I reminded the Irish government of all the aid we were giving, and providing Marines as well to protect the shipments of food to the country.  Ireland did not send any food and little else and scarcely mentioned the US aid.</p>
-<p>There came the time when the United States said, we can't do it all and the European Community support is needed.</p>
-<p>
-<hi rend="italics">Q:  This was the Somali operation.</hi>
-</p>
-<pb facs="0018" n="Page0018"/>
-<p>FITZGERALD:  I went to the Irish minister of foreign affairs, spoke to him about aid to Somalia, pointing out that we had given hundreds of millions, and wanted to know what the Irish were going to do about it.  His reply was, “Well, I will have to refer this to the treasury.” Bertie O'Hearn was Irish finance minister at that time.  When the word came back, the minister of foreign affairs didn't call me, but his deputy did, and said, “Mr. FitzGerald, as you know, we've done a lot for Somalia.  We've allowed transport of American food going through Shannon Airport without charging any commercial airport fees.”</p>
-<p>To this statement I said, “Yes, of course, and you do realize that when all these Americans are pouring through there, they're spending thousands and thousands of dollars shopping in Limerick and in Shannon.”</p>
-<p>There was silence.  And then he said, “Well, we've finally decided.  As you know, we're very tight in money now.  We'll contribute $250,000.</p>
-<p>I didn't say a word and waited a bit, then I said, “$250,000?”</p>
-<p>He said, “Yes.”</p>
-<p>And I said, “Thank you very much.  I'll notify President Bush immediately as to your generosity.”</p>
-<p>The Irish see us over here, rich, and they consider us also arrogant.  As I said, it's this love-hate relationship, where they feel that they want to be part of our prosperity, and yet they want to be independent.</p>
-<p>
-<hi rend="italics">Q:  It reminds me a little of the peasants dealing with their rich landlord, always trying to put something over, get something.  It's that mentality, in some ways.  How did you find dealing with the government?  Albert Reynolds was the prime minister at that time?</hi>
-</p>
-<p>FITZGERALD:  Oh, yes, I got along very well with him.  He's, I thought, a very adept politician.  He was a successful businessman, to begin with, before he came into government.  He managed to rise in the Fianna Fail Party, over a period of time, and then became prime minister and was elected and reelected.</p>
-<p>In the last election, two years ago, the Labor Party made unusually strong inroads in the Dail parliament.  In past years, they generally controlled ten to 12 seats, and now they're up to 32 seats.  As a result, of the opposing parties, Fianna Fail had 66 seats, Fine Gael had 43, and the Labor Party obtaining 32 seats.  Reynolds needed the Labor Party as the swing vote.</p>
-<pb facs="0019" n="Page0019"/>
-<p>Dick Spring, who is a very ambitious young man and who is the leader of the Labor Party, went to Albert Reynolds to discuss control of the government.  In my opinion, I think Albert Reynolds gave away the store in order to make this coalition with the Labor Party.  He allowed Dick Spring to do something which never had happened before, to become deputy prime minister, and minister of foreign affairs!</p>
-<p>He forced out David Andrews, who was a first-class minister of foreign affairs with whom I became very friendly, into another cabinet job, which was fisheries and defense.  Reynolds asked Andrews to take that job over.  Andrews told me, “Well, this is a job where I'm going to become minister of fish and chips.” Fish and chips.  A wonderful man.  You've not heard the last of him in Ireland.</p>
-<p>But Reynolds gave away too much authority, in my opinion, and Dick Spring is very ambitious and wants to become Prime Minister.  He has now uprooted the government.  He has caused Reynolds to resign — and Bertie O'Hearn has come in as head of the Fianna Fail Party.  I'm sure that O'Hearn is going to have to work out another coalition arrangement with Dick Spring.  Dick Spring is the dog in the manger, and he's not good for that government.</p>
-<p>
-<hi rend="italics">Q:  The Irish are going through a big hoorah about the problem of abortion.  That is, of course, a major issue in the United States.  Did one keep as low a profile as one could on this controversy?</hi>
-</p>
-<p>FITZGERALD:  The Catholic Church is very strong in Ireland, but losing strength because of this abortion issue, and the divorce situation as well.  It's a difficult problem but Reynolds, of course, is anti-abortion and anti-divorce.  Dick Spring is not and wants to have open abortion, to have divorce allowed.  I don't know what's going to happen but I think there's going to have to be some kind of an accommodation between the two men.</p>
-<p>
-<hi rend="italics">Q:  I'm talking about the time you were there.  Was this the sort of thing where you, as the ambassador, would just keep out of the line of fire?</hi>
-</p>
-<p>FITZGERALD:  We couldn't get involved in the issues of abortion or divorce.  That is a no-no.</p>
-<p>
-<hi rend="italics">Q:  Did you have to sit on your staff to keep them from getting involved?</hi>
-</p>
-<p>FITZGERALD:  That was the word I passed down, and I, being Roman Catholic and a Knight of Malta, was most careful to avoid such discussions.</p>
-<p>
-<hi rend="italics">Q:  How did you find the staff of the embassy?</hi>
-</p>
-<pb facs="0020" n="Page0020"/>
-<p>FITZGERALD:  First class.  I was very pleased.  However, when I arrived in Dublin, all I had was a deputy chief of mission.  The political affairs officer had been relieved, and had departed.  The administrative officer, the consular officer, and the economics officer all had departed from Dublin.  I was shorthanded for about one month but as the relieving officers arrived, one by one, I was able to fill in the holes in the operation.</p>
-<p>
-<hi rend="italics">Q:  Good God.</hi>
-</p>
-<p>FITZGERALD:  I also had a USIA man on the staff.  As I understood it, there's always a turnover, about one-third every year, but this time the turnover was about three-quarters of the key officers.  It was one of those administrative shortfalls which occur.</p>
-<p>
-<hi rend="italics">Q:  Aberrations that happen.</hi>
-</p>
-<p>How about emigration?</p>
-<p>FITZGERALD:  Oh, God, that was a sore spot.  My predecessors, several before me, had allowed the emigration eligibility law to be interpreted very liberally.  There were people traveling to the United States — students and Irish citizens going over on tourist visas — who never came back.  We got to the point where people, knowing damn well they weren't coming back, were getting members of the Parliament, of the Dail, to guarantee their return to Ireland.  When I arrived in Dublin, there was heavy pressure on our consular people who knew that these Irish citizens were not going to come back to Ireland and were very reluctant to issue visas.</p>
-<p>There was a great brouhaha, with the newspapers and Dail members stating that the minister of foreign affairs is going to straighten this thing out with the ambassador and so on and so forth.</p>
-<p>I promptly arranged to meet with David Andrews, the minister of foreign affairs, and looking over the record, I said, “Do you realize that about 20% of the people who are going to the US on tourist visas or student visas do not return?  We are operating under an illegal situation, where your members of the Dail are guaranteeing the return of some of these students and tourists.  Where in the world, on emigration, can a third party guarantee a second party, both of them non-American nationals?  It doesn't work, and I'm going to stop it right now.  There are no longer going to be any guarantees as they are not necessary.  Your members of the Dail are jeopardizing their careers, their reputations, by guaranteeing questionable people going to the United States.  All we're doing is creating a problem with all kinds of difficulties.  No more guarantees.  We don't accept a guarantee from anybody.  Period.”</p>
-<pb facs="0021" n="Page0021"/>
-<p>Inside of about two weeks, after the usual rumblings and grumblings of “My Uncle Pat has to get to America,” and that sort of thing, it stopped.</p>
-<p>
-<hi rend="italics">Q:  Good for you.  I speak as an old consular officer, knowing the problems.  Did Senator Edward Kennedy loom rather large in whatever you were doing, because of his Irish connection and all that?</hi>
-</p>
-<p>FITZGERALD:  I've known Teddy Kennedy since he was literally in diapers, and I've known the whole family for 55 years and, as a matter of fact, I was one of Kathleen's many admirers when she was in Washington during the war.  She was a wonderful girl.  And, of course, I've known Joe, Jr., Jack and Bobby and all the girls, but Jean I didn't know at all well.</p>
-<p>
-<hi rend="italics">Q:  She's the present ambassador to Ireland.</hi>
-</p>
-<p>FITZGERALD:  She's there now.  I knew her husband, Steve Smith, who was in the brokerage business in New York for some years.</p>
-<p>But Teddy has had quite an interest in the IRA and what they were doing, and he's been trying to help.</p>
-<p>I think the classic example just happened last year, with Ethel Kennedy's daughter, Courtney, who married this terrorist, Hill, who was convicted of killing a British policeman.  Teddy Kennedy went over to Belfast as senator of the United States; Jean Kennedy went up to Belfast as US ambassador to Ireland; Joe Kennedy went over as congressman from Cambridge, Massachusetts; and I don't know how many other members of the Kennedy family appeared in Belfast as character witnesses for this man Hill.  The British government went ballistic on this event, and our embassy in London as well.  That, to me, was one of the most outrageous violations of protocol and diplomacy that you could think of.  Yet they did it, and they got this man out.  He's on probation now, but I am not certain of his status.</p>
-<p>
-<hi rend="italics">Q:  Is there anything else that we should cover on this time in Ireland?  Any other issue?  We've covered quite a bit.</hi>
-</p>
-<p>FITZGERALD:  Well, I can say that I worked that country from north to south, east to west.  Everywhere, I was there, like Kilroy.  I enjoyed it tremendously.</p>
-<p>One of the parting shots, I guess for me amusing.  I was having luncheon with Dick Spring, who had become the new minister of foreign affairs.  And I said, “Dick, you know, I'm one of your constituents.  I am a Kerry Man.”</p>
-<pb facs="0022" n="Page0022"/>
-<p>He said, “You are?”</p>
-<p>I said, “Yes.”</p>
-<p>He represented North Kerry.</p>
-<p>And I said, “Good, God, yes.  All you have to do is look in the books, Dick.  Our family properties covered from Listowel up to the Shannon.” His district.  Let's say he had part of that area.  Listowel to the Shannon.</p>
-<p>And he said, “Oh, yes, yes, oh, I know...”</p>
-<p>And I said, “However, you know, quite a number of us, quite a number of the FitzGeralds emigrated.”</p>
-<p>And he said, “Where did they emigrate to, America?”</p>
-<p>And I said, “No, County Cork.”</p>
-<p>We were friends from there on.</p>
-<p>
-<hi rend="italics">Q:  Well, Mr. Ambassador, I want to thank you very much.  This has been both very useful and enjoyable.  Thank you.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR WILLIAM H. G. FITZGERALD</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: December 14, 1994</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Mr. Ambassador, I'd like to start at the beginning. When
+                        and where were you born, and could you tell me a little about your
+                        family.</hi>
+                </p>
+                <p>FITZGERALD: Yes. I was born in the old Lying in Hospital in Boston, now the
+                    Brigham and Women's Hospital, December 23, 1909. However, we lived in Wakefield,
+                    Massachusetts for the early part of my life. My father was a naval officer. My
+                    mother and he decided that, rather than try to follow him around to various
+                    positions around the world, they would establish a base where the children,
+                    including my sister and myself, would be brought up and educated. We lived there
+                    for a number of years, during which time I attended a religious school, operated
+                    by the Jesuits. My father wanted me to go to the Naval Academy and follow him
+                    into the Navy, so I went to preparatory school in Maryland, the Severn
+                    School.</p>
+                <p>
+                    <hi rend="italics">Q: We're fellow alumni. I went there for one year, anyway,
+                        1940-41.</hi>
+                </p>
+                <p>FITZGERALD: I was there when Roland Teal was founder.</p>
+                <p>
+                    <hi rend="italics">Q: He was still the principal when I was there.</hi>
+                </p>
+                <p>FITZGERALD: Was he? I went there and then entered the Naval Academy in 1927.</p>
+                <p>
+                    <hi rend="italics">Q: So you were in the Class of '31.</hi>
+                </p>
+                <p>FITZGERALD: Class of '31 at the Naval Academy, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Looking at the education at the Naval Academy in those
+                        days, did you get any inkling of what the big world was like outside? I'm
+                        particularly thinking of international affairs, because this is the focus of
+                        our interview.</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>FITZGERALD: When I entered the Academy, I must say, my vision was quite
+                    parochial. I studied with the purpose of being a naval officer and pursuing that
+                    career. I wished to achieve command as quickly as possible, so the way to
+                    proceed along that course was to be assigned to small ships. However, when you
+                    graduate, you are generally assigned to large ships, battleships in particular,
+                    to begin your training in the various departments of a ship. As quickly as
+                    possible, I requested submarine service but the earliest possible time was 1932,
+                    when I was assigned to submarine school at New London. I graduated in 1933 and
+                    was assigned duty in Pearl Harbor, in Hawaii.</p>
+                <p>At that time, the Navy was contracting. When I entered the service, we had an
+                    incredibly small inventory of ships. If I recall (don't hold me to this number),
+                    I don't think we had more than 100 ships actually in commission. One hundred
+                    ships. There was no more than 500,000 total complement in the Navy, officers and
+                    enlisted personnel.</p>
+                <p>
+                    <hi rend="italics">Q: We're talking, of course, of the depths of the Depression,
+                        too.</hi>
+                </p>
+                <p>FITZGERALD: Quite. I saw little prospect of advancing quickly, but I became
+                    qualified in submarine command. Following this experience, I had different ideas
+                    for my future and left the service in the summer of 1934 to attend the Harvard
+                    Law School.</p>
+                <p>I had become very much interested in the stock market, which interest was
+                    stimulated when I was aboard my first ship, based in San Pedro, the battleship
+                    USS Nevada. This ship was later sunk in Pearl Harbor, but in four years was
+                    again operative and was the lead ship in the invasion of Normandy. But during
+                    that time on the Nevada, among several assignments, I was the assistant
+                    navigator. There were many yachtsmen around California at that time who knew
+                    nothing about coastal navigation, and so were interested to have a naval officer
+                    who had navigational experience to cruise with them. I was invited on several
+                    occasions to join some of these people.</p>
+                <p>One particular time was the weekend of July 4, 1932, when I was sailing with a
+                    group comprising one of the leading Hollywood producers, an experienced broker
+                    in Los Angeles, and others. While we were cruising down the coast towards San
+                    Diego, this broker, was almost in tears as he told the people on board the
+                    incredible situation in the stock market. “I can point out companies which are
+                    selling on the Stock Exchange for less than the cash they have in their
+                    treasuries, not counting any fixed assets or inventory.” I listened and decided
+                    to do something about it. This was an extraordinary opportunity for
+                    investing.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>I had accumulated the total capital of $900 and so invested it in the stock
+                    market, beginning July 7, 1932 on a 10% margin basis. At that time, all one
+                    needed to invest was ten percent of the capital cost of the security. I invested
+                    from 1932 to 1935 in a strong bull market. When I was at Harvard Law School in
+                    1934, I was trading in the market almost on a daily basis and was earning more
+                    money per week than some of my law review friends on Wall Street at Sullivan and
+                    Cromwell or White and Case, etc., were making in a month, possibly in several
+                    months. As a result, I became disenchanted with following the law and decided to
+                    go into finance.</p>
+                <p>Friends of mine arranged for me to be employed by the Borden Company, which was
+                    originally the Borden Milk Company to learn corporate finance.</p>
+                <p>I remained there until I received a letter from the Department of the Navy in
+                    April, 1941, alerting me prior to being called back into the service. Most
+                    people thought that World War II began at Pearl Harbor, in December 1941, but as
+                    you know from your experience, our Navy was escorting Allied convoys supplying
+                    South Africa and parts of Asia beginning in February and March of that year.</p>
+                <p>
+                    <hi rend="italics">Q: The Reuben James and all that.</hi>
+                </p>
+                <p>FITZGERALD: I was called up in June of '41, and having been involved in
+                    submarines, naturally was assigned to that service. I never had the opportunity
+                    of going into operational duty, as I was ordered to the Bureau of Ships to
+                    assist in submarine research.</p>
+                <p>We found at an early period in 1942 that there was something wrong with our depth
+                    charges and something wrong with our intelligence concerning German submarines.
+                    It was not until late '42, when a German submarine was captured, on the surface,
+                    in the English Channel, which revealed that German submarines no longer had
+                    riveted hulls, as we had, but high-strength, welded hulls, a completely
+                    different submarine design from which we were operating. Our depth charges were
+                    set at the maximum of 250 feet, as our own submarines were not able to submerge
+                    deeper, but the German submarines could descend to about 400 feet. As a result,
+                    we never reached them. Our destroyers and anti-submarine warfare forces would
+                    sight a submarine, pursue it with the usual anti-submarine warfare
+                    doctrine—depth charges, etc., but never damage it.</p>
+                <p>The Navy Department decided that the Bureau of Ships had to redesign submarines
+                    literally from square one, basic hull materials, test of materials, etc. We
+                    found that passive tests just did not give us the facts. Dynamic and explosive
+                    tests had to be developed to measure the strengths of much stronger materials.
+                    As a result, a mini-Manhattan Project was conducted by the Navy Department to
+                    make our own submarines competitive with the Germans.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: I never heard of this. So that was what you did during
+                        most of the war.</hi>
+                </p>
+                <p>FITZGERALD: After this experience, I wished to get out of Washington to an area
+                    where the action was with my friends with whom I went through submarine school.
+                    They were at that time either commanders of submarines or executive officers of
+                    submarine divisions. Here I was, sitting in the Bureau of Ships, trying to
+                    figure out how to improve the design of submarines which kept me from seeing
+                    action on the war front.</p>
+                <p>Finally, I was posted in the chief of naval operations office as a liaison
+                    officer with the Latin American navies. Later, I was appointed submarine officer
+                    on our naval mission to Brazil.</p>
+                <p>The end of the war came, and I returned to Washington, and left the service in
+                    1946.</p>
+                <p>
+                    <hi rend="italics">Q: I see.</hi>
+                </p>
+                <p>FITZGERALD: Upon leaving the service, I still was very much interested in
+                    investment. I decided that there were many opportunities in the field of
+                    research, through my experience in the Bureau of Ships, which exposed me to the
+                    materials and design problems which needed to be resolved. As a result, I
+                    organized the Metallurgical Research and Development Company which became active
+                    in the field of powder metallurgy. This field of research had a high priority
+                    with the Army, Navy, and Air Force. The military was very concerned about
+                    manufacturing turbine blading for aircraft and ships, which required
+                    high-strength, high-temperature heat resistant materials and enormous costs to
+                    machine these engine parts. I thought that, with powder metallurgy, we could
+                    make compounds sufficiently strong to withstand high pressure and high
+                    temperature and meet the physical requirements in a rather simple manufacturing
+                    process. The Army, Navy, and Air Force were intrigued with the idea, so I
+                    established the Metallurgical Research and Development Inc. with a laboratory in
+                    Paterson, New Jersey, where we did the research on turbine blading. We worked on
+                    this project for three years, combining many kinds of materials, compounds, into
+                    powder by varying pressures and temperatures. With all of our efforts we could
+                    not achieve the complex form of the blades and obtain the high strength needed
+                    for those bladings. As a result, the military services and industry redirected
+                    the application of powder metallurgy into less sophisticated forms, such as
+                    transmission casings for the automotive industry which now has a wide use in
+                    that field.</p>
+                <p>However, I was interested to learn just recently that some of the scientists and
+                    engineers are coming back to powder metallurgy with the idea which I had
+                    originally for turbine blading and turbine forms, because, now, they have
+                    developed new techniques forming alloyed material under high temperature and
+                    pressure — technology which did not exist 40 years ago.</p>
+                <p>This was an interesting period in my life, where I became involved in that field
+                    of research. Later, I sold the company, as I knew at that time that our
+                    objectives could not be reached.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>As a spinoff from that technology, I moved into the vacuum metalizing field where
+                    we coated various plastic materials with microthicknesses of aluminum metal.
+                    These were made into thread for decorating curtains in gold or silver. Many
+                    other uses evolved from this technique. Some friends and I formed a company
+                    called National Metalizing Corporation which had great success in this field.
+                    Several years later, I left Natural Metalizing when we merged with another
+                    corporation in an allied field.</p>
+                <p>All during that time from my war years in the Bureau of Ships I had in the back
+                    of my mind the problem of slow speed landing craft which were a great failure in
+                    World War II. In 1961 I made contact with a German group headed by Baron von
+                    Schertel who built 60-mile-per-hour hydrofoils to supply ammunition to General
+                    Rommel in Africa. This group interested the Bureau of Ships which supported some
+                    research on hydrofoils. The hydrofoil concept received support for several years
+                    but the Navy decided that the Hovercraft concept developed by the British Navy
+                    was more interesting.</p>
+                <p>I had already had contacts in Europe due to the fact that in 1949 my company
+                    received the first technical-assistance contract under the Marshall Plan. My
+                    corporation was appointed with the American Society of Metals co-manager to
+                    organize the first World Metallurgical Congress, in October of 1950 in Detroit,
+                    Michigan. While Metallurgical Research organized the major European corporations
+                    in the metals and metal equipment industries to participate; the American
+                    Society of Metals assembled the American corporations working in similar
+                    industries for the meeting. This Congress was a tremendous success as it
+                    initiated cross-licensing agreements, acquisitions, financial participation,
+                    joint ventures, that impacted heavily on the development of the metals industry
+                    in Europe in the post-war period.</p>
+                <p>
+                    <hi rend="italics">Q: It really, for the first time since the war, brought
+                        companies, on an international scale, together.</hi>
+                </p>
+                <p>FITZGERALD: Precisely. Companies in Germany, as Metallgesellschaft, Luergi,
+                    Mannesmann, Krupp and Siemens with leading British, French and Italian companies
+                    joined. We put them together with US Steel, Bethlehem, and International Steel
+                    together with the nonferrous companies and fabricators. It was quite an
+                    operation.</p>
+                <p>
+                    <hi rend="italics">Q: This gave you your real touch of the international.
+                        Obviously, German business was just moving out; it was only five years after
+                        the war, and the Cold War was just beginning to crank up. What was your
+                        impression of the German metal industry, and the managers particularly?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>FITZGERALD: As you know, the German metals industries were important targets for
+                    allied aircraft bombing. The cities in western Germany — Dusseldorf, Frankfurt,
+                    Munich and Stuttgart, cities which were centers of heavy industry, particularly,
+                    were badly hit. The impressive fact was the ability of German industries to
+                    recover quickly and to bring into production peacetime product lines. Their
+                    recovery period was a fraction of the time required by the British and French
+                    corporations. In the early 1950's, as the Marshall Plan developed, these
+                    companies were again back in worldwide trade competition, utilizing the best
+                    designs of manufacturing processing and production, mostly developed in the
+                    U.S.A.</p>
+                <p>We enjoyed a model and unusual relationship with the European Cooperation
+                    Administration which administered the Marshall Plan. My company received an
+                    open-end technical-assistance contract to which ECA, the Mutual Security Agency
+                    and later the FOA assigned task orders to work in various countries. In MSA, we
+                    were involved in Greece. When the Foreign Operations Administration (FOA)
+                    replaced MSA, we were assigned task orders for work in Indonesia and Pakistan.
+                    Our company advised on the maintenance and operation of the railroads in
+                    Pakistan with headquarters in Rawalpindi. At about the same time we received an
+                    economic development contract in Nepal. Over a period of seven years we were
+                    assigned development contracts in various countries in Asia.</p>
+                <p>In 1957 Christian Herter, who at that time was deputy secretary of state, knew me
+                    and my work in various aid projects with the ECA, MSA, and FOA.</p>
+                <p>
+                    <hi rend="italics">Q: He was at one time governor of Massachusetts.</hi>
+                </p>
+                <p>FITZGERALD: Yes, he had been governor of Massachusetts, but later he came to
+                    Washington and Foster Dulles appointed him as his deputy secretary of state.</p>
+                <p>Chris Herter called me one day, and he said, “You know, you've been on the other
+                    side of the table negotiating with ECA, MSA, FOA, etc., and now we have ICA.
+                    Would you like to come into the government and help us in some of these
+                    projects, because you've seen the other side? Will you join us on our side of
+                    the fence?”</p>
+                <p>I replied, “I'd be honored to come in and try to help.” And President Eisenhower
+                    appointed me as deputy director for management of the International Cooperation
+                    Administration (ICA).</p>
+                <p>
+                    <hi rend="italics">Q: This was, for the record, from 1958 to 1960.</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>FITZGERALD: I came in first in 1957. Governor Herter asked me to look over the
+                    operation so I came in as assistant to the director. They gave me an opportunity
+                    to range all over the ICA. In 1958 President Eisenhower appointed me deputy
+                    director for management. I remained in the job until 1960 when I resigned to
+                    work for Richard Nixon who was running for president.</p>
+                <p>
+                    <hi rend="italics">Q: Well, let's talk about this time. What was your impression
+                        of ICA? You were basically in a management position; this is what they were
+                        using you for. What were the strengths and the weaknesses, as you saw it at
+                        that time during this '58 to '60 period?</hi>
+                </p>
+                <p>FITZGERALD: After I had that experience from 1957 to 1960, I wrote a critique
+                    indicating that we are approaching aid in the wrong way, throwing millions and
+                    millions of dollars at the heads of governments — military dictatorships,
+                    Marxist/Leninist leaders, government planners and socialist-leaning governments.
+                    Our aid was not reaching the people. We could not account for much of the aid
+                    money as it had disappeared mostly to Switzerland, France and Monaco. I stated
+                    further that our aid program was not aid on a loan basis as represented but we
+                    were selling millions of tons of grain to various countries — India, Pakistan
+                    and others — at a fixed price with a fixed currency value. As a result, we were
+                    giving away the grain and commodities to these countries as they were suffering
+                    under an inflation rate of ten, 20, 30 percent a year. These long-term payouts
+                    in local currencies became gifts. I wrote that it was a great mistake for us to
+                    lose millions of dollars in these grain deals with no hope of utilizing the
+                    depreciated local currencies paid in by these countries.</p>
+                <p>The State Department insisted that we had to maintain these agreements as we were
+                    competing with the Soviets for influence in many of these countries. If the
+                    United States believed that a particular project did not make sense unless
+                    carried out our way, the prospective client beneficiary would say, “Well, we'll
+                    go to the Russians and they will give us the funds.”</p>
+                <p>This was a problem which the State Department was facing at the time and there
+                    was strong feelings that the US had to give aid to these African and Asian
+                    countries in an attempt to maintain influence.</p>
+                <p>I was very unhappy with this policy, so resigned and went to work in the campaign
+                    for Nixon. When Nixon was defeated and Kennedy became president, I went back to
+                    business.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>At that time, I became involved with hydrofoils and became chairman of Supramar
+                    Ltd. of Luzern, Switzerland. As I related earlier, the Navy was very interested
+                    in high speed landing craft but our landing craft designs had improved very
+                    little since 1945. I negotiated a license with General Dynamics Corporation to
+                    build Supramar hydrofoils for a period of five years. GD paid the license fee
+                    each year but did not build Supramar hydrofoils. It happened that the Bureau of
+                    Ships was attempting to build their own hydrofoil and did not want competition
+                    from foreign sources. General Dynamics being part of the Navy “shipbuilding
+                    club” acceded to the Bureau of Ships' wishes. As I indicated above, the Navy
+                    decided to later support the Hovercraft principle developed by the British Navy
+                    for future landing craft.</p>
+                <p>
+                    <hi rend="italics">Q: You were saying that the Bureau of Ships, with a
+                        combination of unions and shipping companies, just didn't want to have
+                        something new like a German hydrofoil come in to the United States as it
+                        could have not only military but many commercial domestic transport
+                        uses.</hi>
+                </p>
+                <p>FITZGERALD: Yes, that's exactly it. I remember Admiral James, who was chief of
+                    the Bureau of Ships at that time, a friend of mine from war days in the Bureau
+                    of Ships, say to me, “We're going to build the best goddamned hydrofoil in the
+                    world. We don't need these Krauts to build hydrofoils.”</p>
+                <p>
+                    <hi rend="italics">Q: The result was that we built very expensive models which
+                        have never really been used.</hi>
+                </p>
+                <p>FITZGERALD: Correct. They priced themselves out of the marketplace with high-tech
+                    craft built by General Dynamics and Lockheed Aircraft trying to transport people
+                    on a commercial basis. They just didn't realize that these were simple boats,
+                    with a foil system which is not complex in producing. They designed aircraft
+                    control systems — far beyond the cost of European hydrofoil systems.</p>
+                <p>
+                    <hi rend="italics">Q: So you're out of the hydrofoil business now. Walk through
+                        what you did, and then we'll get to where you were involved with foreign
+                        affairs.</hi>
+                </p>
+                <p>FITZGERALD: Of course, being in ECA, MSA, FOA, then ICA.</p>
+                <p>
+                    <hi rend="italics">Q: Which now is AID; it keeps changing its name.</hi>
+                </p>
+                <p>FITZGERALD: ICA was the forerunner of AID and active in over 70 countries at that
+                    time. I had the opportunity of traveling all over the world...where programs
+                    were operating and trying to make political and economic sense in these
+                    countries up to 1960.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>During these years, on my off hours, as an individual, I was investing in various
+                    companies in the stock market. Then I became involved in money management of the
+                    Chase funds in Boston for a period of years.</p>
+                <p>It was not until quite a bit later, when Ford succeeded Nixon, that I was
+                    appointed as US Conciliator, International Center of Investment Disputes
+                    1975-1982 and President's Advisory Board on International Investments
+                    1976-1978.</p>
+                <p>
+                    <hi rend="italics">Q: Nixon came in, in 1969.</hi>
+                </p>
+                <p>FITZGERALD: I had no appointment during the Nixon Administration.</p>
+                <p>
+                    <hi rend="italics">Q: We can always fill this in. The major thing is, we want to
+                        talk about the foreign-affairs side of this. I note that you went as a
+                        delegate to the Atlantic Treaty Assembly at various times, in Iceland and
+                        Washington, Rome, Istanbul. This Atlantic Treaty Assembly, what was it?</hi>
+                </p>
+                <p>FITZGERALD: I've been identified with the Atlantic Council of the United States
+                    for many years beginning in 1976. I was treasurer from 1979 to 1992 and am
+                    presently vice chairman of the Council.</p>
+                <p>
+                    <hi rend="italics">Q: Again, for the historian, what is your impression of the
+                        role of the Atlantic Council during this period, from the 1970s to the
+                        1990s?</hi>
+                </p>
+                <p>FITZGERALD: The Atlantic Council is a nonprofit public policy center addressing
+                    the advancement of US global interests within the Atlantic and Pacific
+                    communities. A national, nonpartisan organization, the Council actively engages
+                    in its activities the US executive and legislative branches, the national and
+                    international business community, media and academia; and diplomats and foreign
+                    leaders. In the beginning, the Council was very much concerned with East-West
+                    security and how to control the Soviet Union's expansion. The Atlantic Council
+                    was essentially a think tank for these problems, providing the State Department
+                    and the different administrations, and departments of government with proposals
+                    or approaches to various security problems.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>The Council's mission was more or less constant and continuous until the ''80s,
+                    when the whole problem of eastern Europe, and the Berlin Wall, was completely
+                    shifted in focus. The Atlantic Council started broadening its approach, looking
+                    at the Pacific area. Now the Atlantic Council has expanded its base of objective
+                    analysis to cover not only European security problems, but those of the Far East
+                    as well. It is very actively involved with negotiations with China, Japan, and
+                    Korea on security and energy problems. The possible extension of NATO to the
+                    east has initiated a number of studies involving security. These Atlantic Treaty
+                    Association meetings were concerned with the Soviet Union and east-west security
+                    until the last one which I attended in Athens. Our meeting in Athens included
+                    the Bulgarians, the Romanians, and the Hungarians, all present pleading their
+                    case for admission into NATO. The function of the Atlantic Council, being
+                    participants in the Atlantic Treaty Association meetings, was to develop
+                    position papers, which were put together after each meeting and sent to NATO,
+                    our Congress, Departments of Government and our Administration.</p>
+                <p>
+                    <hi rend="italics">Q: And many of the members on the Atlantic Council have also
+                        been in government, so it's not an academic, artsy-fartsy type of
+                        organization.</hi>
+                </p>
+                <p>FITZGERALD: Oh, no, not at all. As a matter of fact, members have held very
+                    important jobs in government: secretaries of state, deputy secretaries, etc. Why
+                    don't I give you a list of people, to give you a feel for the board of
+                    directors, that would be helpful.</p>
+                <p>Enclosed is a letterhead of the Atlantic Council.</p>
+                <p>
+                    <hi rend="italics">Q: I'll have that, yes.Well, now, we're coming to the time
+                        when you were appointed ambassador to Ireland. How did that come about?</hi>
+                </p>
+                <p>FITZGERALD: In 1989, when President Bush was elected, he asked me whether I'd be
+                    interested in some diplomatic assignment. As I was very much involved in
+                    business and banking, I just couldn't get away. So he appointed me vice chairman
+                    of the African Development Fund, which was an independent government agency
+                    having to do with grassroots aid in sub-Sahara Africa, a subject on which I had
+                    written a critique in 1960. I accepted with alacrity as it was a part-time
+                    assignment and did not interfere with my banking business.</p>
+                <p>This fund's mission was to assist in the economic development of the sub-Sahara
+                    countries, 42 countries in total, and I was very interested in this grass roots
+                    approach to foreign aid. When foreign-aid budgets were being clipped, the
+                    African Development Fund was given more money as Congress believed that this was
+                    the way to help the people of Africa, beginning at the bottom of the economic
+                    ladder and not at the top.</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>I was very much involved in that work, when the president called me one day and
+                    said, “I'd like you to go to Ireland,” without any kind of solicitation, any
+                    kind of effort on my part. A complete surprise.</p>
+                <p>This off-hand nomination by the president concerned the Senate Foreign Relations
+                    Committee when I came up for approval. As you know, you have to submit your
+                    background experience, your financials, how much money you have contributed to
+                    political parties during the past five years. Over these years, I had never
+                    contributed any substantial amounts, perhaps $1,000 for a dinner or similar
+                    functions. In view of having substantial assets and minuscule contributions, the
+                    Democratic staff of the committee combed my records for the last five years.
+                    They apparently could not believe that I had given so little money to the
+                    Republican Party, so demanded that I sign an affidavit stating that my financial
+                    contributions to the political system were as I previously stated.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, my God.</hi>
+                </p>
+                <p>FITZGERALD: Think of that. So I signed it.</p>
+                <p>When I came up for confirmation, Senator Sarbanes...</p>
+                <p>
+                    <hi rend="italics">Q: Of Maryland.</hi>
+                </p>
+                <p>FITZGERALD: said, “Mr. FitzGerald, how did you get this nomination?” I replied,
+                    “Senator, I do not know as it was a complete surprise to have been asked to go
+                    to Ireland.”</p>
+                <p>There were three other candidates up at the time, all had their senators, several
+                    congressmen also with them, telling the Senate Foreign Relations Committee what
+                    wonderful candidates they were and what a wonderful job they were going to do
+                    wherever they were to be posted. There I was alone.</p>
+                <p>I said, “Gentlemen, I'm sorry I don't have any senators and I don't have any
+                    congressmen to recommend me, because I come from the District of Columbia.”</p>
+                <p>They laughed. And Sarbanes said, “Well, I am against these political appointees
+                    buying embassies.”</p>
+                <p>Sarbanes asked me if I had anyone write letters or intercede on my behalf and I
+                    replied, “No, no one.”</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>They just couldn't find any evidence of other contributions. Finally, I said,
+                    “Well, gentlemen, as you see, I have no political recommendations at all.
+                    However, when President Eisenhower appointed me in 1957 to the State Department
+                    my legal residence was Connecticut, and my sponsor at that time was Senator
+                    Prescott Bush.”</p>
+                <p>Senator Sarbanes said, “Senator Prescott Bush?” And he looked over at Biden and a
+                    couple of others, and he said, “Thank you very much, Mr. FitzGerald. No more
+                    questions.”</p>
+                <p>No more questions. Isn't that amusing?</p>
+                <p>
+                    <hi rend="italics">Q: You went out to Ireland from '92 to '93. As you got ready
+                        to go out, obviously you read up on it and went to the State Department and
+                        all that. Could you talk a little about the preparation for going out to be
+                        an ambassador?</hi>
+                </p>
+                <p>FITZGERALD: That is a subject in which I am most interested. I've told Steve Low
+                    how much I appreciated, enjoyed and valued the indoctrination training at the
+                    FSI.</p>
+                <p>
+                    <hi rend="italics">Q: He was head of the FSI at the time.</hi>
+                </p>
+                <p>FITZGERALD: Yes. Also I told a friend of mine, who was in charge of the
+                    indoctrination, Ambassador Brandon Grove, that the staff did a splendid job. I
+                    said I would recommend a perhaps more intensive effort on the part of non-career
+                    people. There are a number of people (I know them, and you do, too), political
+                    appointees, who thought that whatever job they were appointed to they could do
+                    and were not particularly interested in the training or preparation. I
+                    recommended to Brandon and also to Steve Low, “to set up a training program
+                    recognizing that over a period of time, there'll be at least 25, maybe up to 50,
+                    percent of the ambassadorial appointments that are political. This training must
+                    prepare these people properly as it may not be easy for non-career people to
+                    become diplomats. The Department cannot devote enough time in preparing these
+                    people. If this program required financial support, I'd be willing to help.”</p>
+                <p>
+                    <hi rend="italics">Q: For the record, it's interesting to note that the real
+                        impetus behind developing this course, in the beginning, was Shirley Temple
+                        Black, who started this. Could you describe a little about some of the areas
+                        covered in this course?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>FITZGERALD: The program emphasized the need to know the key people in the
+                    government to which they are to be accredited, particularly the people with whom
+                    they had to do business, to know them thoroughly as the ambassador has a message
+                    to bring to that country from the United States. I felt that I should develop
+                    this rapport immediately as soon as I arrived in Ireland. My first objectives
+                    were the minister of foreign affairs and the ministers of industry and finance.
+                    Hopefully, in the embassies you have good staff who have experience and
+                    knowledge of the important members of the host government. The ambassador is the
+                    leader of the team and representative of our president and must develop a
+                    personal relationship, if possible, with the heads of the government, and
+                    through that personal relationship, transmit his interpretation of United States
+                    policy so that it is well understood by the leaders of that host government.</p>
+                <p>
+                    <hi rend="italics">Q: When you went out to Ireland, were there any particular
+                        issues on your plate? What were the main concerns the State Department had
+                        with our relations with Ireland when you went there?</hi>
+                </p>
+                <p>FITZGERALD: Well, number one, we looked on the problem of unemployment.
+                    Basically, my mission was to develop a US industry investment interest in
+                    Ireland. I organized a program (through our Department of Commerce, which has
+                    about 67 offices across the United States whose sole purpose is to develop
+                    domestic and international business). I attempted to energize those offices,
+                    helping them to recognize that there is a universe of corporations in the United
+                    States, whose sales range from 50 million dollars to perhaps 100 million dollars
+                    a year, which have never exported. Good product, well managed, well financed,
+                    never exported. My argument was, “Here is an opportunity in Ireland.” With the
+                    fall of the Berlin Wall, hordes of businessmen, lawyers, US Government officials
+                    charging into Eastern Europe and Russia where there are no laws yet and it's
+                    going to take years before the laws are established and are tested in the courts
+                    for repatriation of capital, protection of investment, private property, unfair
+                    labor laws, and many other unforeseen problems. Language barriers exist in all
+                    of the Eastern European and Slavic nations. I said, “Here we have Ireland, where
+                    the people speak the same language and operate under the same English common
+                    laws tested over the generations in the courts. We have about 45 millions of
+                    Irish-Americans in our country, a strong bridge. Don't look at Ireland from the
+                    standpoint of three and a half million population. That's not your market.
+                    Ireland is a member of the European Community, and you can use Ireland as a
+                    conduit into the largest consumers' market in the world: 370-plus million
+                    people.” That was the message.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>And I pushed it. As a matter of fact, we now have over 350 US corporations now
+                    operating in Ireland, selling to all markets outside of the United States. Being
+                    a banker by trade, I went to the banks and related some personal experiences.
+                    “I've talked to a number of young people graduating from the universities, and I
+                    asked them what they plan to do after graduation.” One said, 'Well, I think I'm
+                    going to get a job in government.' Another one would say, 'Well, I think I'm
+                    going to pursue the law.' A third would say, 'Well, I think I'm going into
+                    accounting.'” None of those jobs would create employment. I would reply, “Well,
+                    why aren't you going out and starting a business?”</p>
+                <p>“Well, I can't get any money. Nobody'll give us the money to start a new
+                    business.”</p>
+                <p>I then went to the banks, to the Allied Irish Banks, the Ulster Bank, the Bank of
+                    Ireland, even the Chase Bank representative in Dublin and repeated the story —
+                    “Young college graduates tell me they can't get any money.”</p>
+                <p>The frequent banker's response was, “Well, nobody comes in with a good idea for
+                    us to finance.”</p>
+                <p>My reply was, “I'm a banker. Now what do you mean by a good idea? You'll loan
+                    somebody $100,000 providing he will secure it with some property of equal value,
+                    or compensatory deposits of up to 20 or 25 percent? That isn't loaning money.
+                    That's not helping business. What you should be doing is setting up a small
+                    department in your bank for venture capital. Look what we do in America. I've
+                    been in a venture capital business in Silicon Valley — the center of venture
+                    capitalists where seed money goes to somebody who has an idea. You help them
+                    organize the business. And then, when you see the idea is successful, you help
+                    the person or persons with public financing.”</p>
+                <p>Unfortunately, in Ireland, they have a phobia of being a failure for if you go
+                    bankrupt in Ireland, historically, you'd never be able to borrow more money.</p>
+                <p>You know what I did?</p>
+                <p>
+                    <hi rend="italics">Q: What?</hi>
+                </p>
+                <p>FITZGERALD: I saw an article in Forbes magazine about people who had gone
+                    bankrupt in the United States and who had become millionaires. I made copies of
+                    the article and gave it to the Irish government officials in the Ministries of
+                    Commerce, Industry, and Finance.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>I impressed on the Irish government as to what happened in the ''80s in the
+                    United States. We provided more new jobs than all of Europe put together, about
+                    15 million jobs. Where did they come from? Eighty to 85 percent came from small
+                    business. Small business. That should be your thrust here in Ireland. With US
+                    capital coming in, working with the Irish experts developing the niches in the
+                    European market, and American business know-how you've got to be successful.” As
+                    a result, I've learned from Dermot Gallagher, the Irish Ambassador to the US,
+                    that Prime Minister Reynolds announced that the government was setting up an
+                    entrepreneurial fund in Ireland to help people start small businesses. Amen.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find Irish trade with the United States? This
+                        was a period when we were making, as we have at other times, complaints that
+                        there were unfair trading practices. How did you find it?</hi>
+                </p>
+                <p>FITZGERALD: The problem with Ireland was mostly with agricultural products, which
+                    they export to the United States. They're operating, of course, as you know, in
+                    the European Community, where they receive very heavy subsidies. They're part of
+                    the fusion group, which is Greece, Portugal, Spain, and Ireland. Those four
+                    nations are considered developing countries under the European Community mantra,
+                    which provides them with heavy subsidies. Presently, Ireland receives more
+                    subsidy than all of the others.</p>
+                <p>
+                    <hi rend="italics">Q: Was this something that we could deal with, while you were
+                        there? These subsidies, did this make a difference in trade?</hi>
+                </p>
+                <p>FITZGERALD: We couldn't touch any of the subsidies going to the Irish government.
+                    Those were coming from the European Community. And so that was helpful, very
+                    helpful, to the Irish. But, the Irish were very afraid that we were going to
+                    penalize them when we had this European Community brouhaha with the GATT. We
+                    threatened to cut off the agricultural products, casein which they produced from
+                    milk among other dairy products, which were important to them, but certainly not
+                    important to the United States.</p>
+                <p>I think that the thrust is through US investments in Ireland and through
+                    developing small business which is going to impact on the unemployment
+                    situation.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>I never was involved in the North-South Ireland situation, excepting as an amicus
+                    curiae (friend in court). I visited Northern Ireland and had the good
+                    opportunity of convening the four leaders of the four political parties in one
+                    room. Of course, I did this all with the knowledge of London, because relations
+                    with Northern Ireland is the US Embassy in London's responsibility. I visited
+                    Belfast because I wanted to at least know the feelings of these Northern Ireland
+                    leaders. They all wanted peace but the question was how to get to that point. I
+                    suggested that perhaps a little give on either side might help. I knew very well
+                    the people who were negotiating, for the Republic of Ireland, and how anxious
+                    they are to settle this controversy which has bedeviled both nations for over 50
+                    years.</p>
+                <p>I hope, now, that they will have some kind of a rapprochement, a working
+                    agreement, over a period of time. Remember, since 1922, the Ulster government
+                    has been repressing the Catholics. Now that they see the shoe can be on the
+                    other foot, they're scared to death that the Irish Catholics will just give the
+                    same to them. The most important fact is that the issue is no longer religious,
+                    but economic. The United Kingdom has been pouring billions of dollars into
+                    Ulster for years. How long this government can continue, I cannot forecast but
+                    the issue is more critical as time passes.</p>
+                <p>After I met with the heads of these four parties, in one room in Belfast, I went
+                    over and had luncheon the next day with Sir Patrick Mayhew, the Secretary of
+                    State for Northern Ireland who has total responsibility for the negotiations. I
+                    advised him of my meeting and the different opinions received. My question to
+                    Sir Patrick was, “How long can Westminster continue to support these one and a
+                    half million people at such extraordinary levels?” Of course, I was briefed on
+                    all U.K.-Ulster relations before my trip to Belfast. Great Britain is pouring in
+                    about six billion dollars a year into Ulster containing one and a half million
+                    people. Out of that six billion, they estimate about two billion is for military
+                    occupation. One of the strong points in any negotiation is that the U.K. holds
+                    the purse strings and could force a settlement if necessary.</p>
+                <p>My hope is that ultimately it will be one island. This geographic fiction which
+                    was created in that northeast corner of Ireland, Ulster, was mostly for wartime
+                    security to begin with and also to appease the Protestant population. Great
+                    Britain gave Dominion status to Ireland, and this was the quid pro quo. At the
+                    time Great Britain's policy was, “We'll keep our boys up there in Ulster. We'll
+                    pour the money in and build up industry there, and we will have a Protestant
+                    stronghold. Of course, they were always remembering, as you recall, World War I,
+                    the neutrality of Ireland, the opposition against England. Ulster was a foothold
+                    in Ireland, where the U.K. could have ports, including Londonderry, for shipping
+                    and commerce, and maybe for security.</p>
+                <p>
+                    <hi rend="italics">Q: Basically, it was denying. Because, during World War I,
+                        the Germans made pretty good inroads into the Irish.</hi>
+                </p>
+                <p>FITZGERALD: Yes, they did.</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>
+                    <hi rend="italics">Q: You talked about the 45 million Irish-Americans. How did
+                        you find the Irish politics played, as far as your job was concerned?</hi>
+                </p>
+                <p>FITZGERALD: That is amusing. All my forbears are Irish, and I'm from a part of
+                    the Desmond Clan. Desmond, in Gaelic, means South Munster, and South Munster is
+                    Limerick area Kerry and Cork. When I first arrived, I was not an unknown
+                    quantity, and I became identified pretty quickly, so I was able to talk with
+                    Irish government officials not as a stranger.</p>
+                <p>Over the years, there's been a strong anti-American bias in the press. The press
+                    has been controlled completely by the English up until recently, when Tony
+                    O'Reilly is attempting to break in and control some of the Irish press. However,
+                    the British control the Irish Times, the Irish Independent with British money.
+                    As a matter of fact, the first Irish managing editor ever to be appointed was on
+                    the Irish Times when I was on post.</p>
+                <p>
+                    <hi rend="italics">Q: Good God.</hi>
+                </p>
+                <p>FITZGERALD: Think of that. The first Irish managing editor ever to be appointed
+                    to a newspaper in Ireland.</p>
+                <p>The Irish, at times, are petulant, they're emotional. They feel that the United
+                    States owes them something for sending over from Ireland about 45 million
+                    people. It's an interesting love-hate relationship and we're constantly trying
+                    to combat this feeling.</p>
+                <p>For instance, when Mrs. Robinson, the Irish president, made a great to-do about
+                    her concern about Somalia, the government arranged for her to go over to
+                    Somalia, with all kinds of photo opportunities such as reaching over and
+                    speaking to a starving Somali child, and how wonderful it was that she
+                    recognized the importance of Somalia and so on. Well, the United States had been
+                    pouring millions of tons of food into Somalia for two years before Mrs. Robinson
+                    went to Somalia. I reminded the Irish government of all the aid we were giving,
+                    and providing Marines as well to protect the shipments of food to the country.
+                    Ireland did not send any food and little else and scarcely mentioned the US
+                    aid.</p>
+                <p>There came the time when the United States said, we can't do it all and the
+                    European Community support is needed.</p>
+                <p>
+                    <hi rend="italics">Q: This was the Somali operation.</hi>
+                </p>
+                <pb facs="0018" n="Page0018"/>
+                <p>FITZGERALD: I went to the Irish minister of foreign affairs, spoke to him about
+                    aid to Somalia, pointing out that we had given hundreds of millions, and wanted
+                    to know what the Irish were going to do about it. His reply was, “Well, I will
+                    have to refer this to the treasury.” Bertie O'Hearn was Irish finance minister
+                    at that time. When the word came back, the minister of foreign affairs didn't
+                    call me, but his deputy did, and said, “Mr. FitzGerald, as you know, we've done
+                    a lot for Somalia. We've allowed transport of American food going through
+                    Shannon Airport without charging any commercial airport fees.”</p>
+                <p>To this statement I said, “Yes, of course, and you do realize that when all these
+                    Americans are pouring through there, they're spending thousands and thousands of
+                    dollars shopping in Limerick and in Shannon.”</p>
+                <p>There was silence. And then he said, “Well, we've finally decided. As you know,
+                    we're very tight in money now. We'll contribute $250,000.</p>
+                <p>I didn't say a word and waited a bit, then I said, “$250,000?”</p>
+                <p>He said, “Yes.”</p>
+                <p>And I said, “Thank you very much. I'll notify President Bush immediately as to
+                    your generosity.”</p>
+                <p>The Irish see us over here, rich, and they consider us also arrogant. As I said,
+                    it's this love-hate relationship, where they feel that they want to be part of
+                    our prosperity, and yet they want to be independent.</p>
+                <p>
+                    <hi rend="italics">Q: It reminds me a little of the peasants dealing with their
+                        rich landlord, always trying to put something over, get something. It's that
+                        mentality, in some ways. How did you find dealing with the government?
+                        Albert Reynolds was the prime minister at that time?</hi>
+                </p>
+                <p>FITZGERALD: Oh, yes, I got along very well with him. He's, I thought, a very
+                    adept politician. He was a successful businessman, to begin with, before he came
+                    into government. He managed to rise in the Fianna Fail Party, over a period of
+                    time, and then became prime minister and was elected and reelected.</p>
+                <p>In the last election, two years ago, the Labor Party made unusually strong
+                    inroads in the Dail parliament. In past years, they generally controlled ten to
+                    12 seats, and now they're up to 32 seats. As a result, of the opposing parties,
+                    Fianna Fail had 66 seats, Fine Gael had 43, and the Labor Party obtaining 32
+                    seats. Reynolds needed the Labor Party as the swing vote.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>Dick Spring, who is a very ambitious young man and who is the leader of the Labor
+                    Party, went to Albert Reynolds to discuss control of the government. In my
+                    opinion, I think Albert Reynolds gave away the store in order to make this
+                    coalition with the Labor Party. He allowed Dick Spring to do something which
+                    never had happened before, to become deputy prime minister, and minister of
+                    foreign affairs!</p>
+                <p>He forced out David Andrews, who was a first-class minister of foreign affairs
+                    with whom I became very friendly, into another cabinet job, which was fisheries
+                    and defense. Reynolds asked Andrews to take that job over. Andrews told me,
+                    “Well, this is a job where I'm going to become minister of fish and chips.” Fish
+                    and chips. A wonderful man. You've not heard the last of him in Ireland.</p>
+                <p>But Reynolds gave away too much authority, in my opinion, and Dick Spring is very
+                    ambitious and wants to become Prime Minister. He has now uprooted the
+                    government. He has caused Reynolds to resign — and Bertie O'Hearn has come in as
+                    head of the Fianna Fail Party. I'm sure that O'Hearn is going to have to work
+                    out another coalition arrangement with Dick Spring. Dick Spring is the dog in
+                    the manger, and he's not good for that government.</p>
+                <p>
+                    <hi rend="italics">Q: The Irish are going through a big hoorah about the problem
+                        of abortion. That is, of course, a major issue in the United States. Did one
+                        keep as low a profile as one could on this controversy?</hi>
+                </p>
+                <p>FITZGERALD: The Catholic Church is very strong in Ireland, but losing strength
+                    because of this abortion issue, and the divorce situation as well. It's a
+                    difficult problem but Reynolds, of course, is anti-abortion and anti-divorce.
+                    Dick Spring is not and wants to have open abortion, to have divorce allowed. I
+                    don't know what's going to happen but I think there's going to have to be some
+                    kind of an accommodation between the two men.</p>
+                <p>
+                    <hi rend="italics">Q: I'm talking about the time you were there. Was this the
+                        sort of thing where you, as the ambassador, would just keep out of the line
+                        of fire?</hi>
+                </p>
+                <p>FITZGERALD: We couldn't get involved in the issues of abortion or divorce. That
+                    is a no-no.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have to sit on your staff to keep them from
+                        getting involved?</hi>
+                </p>
+                <p>FITZGERALD: That was the word I passed down, and I, being Roman Catholic and a
+                    Knight of Malta, was most careful to avoid such discussions.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find the staff of the embassy?</hi>
+                </p>
+                <pb facs="0020" n="Page0020"/>
+                <p>FITZGERALD: First class. I was very pleased. However, when I arrived in Dublin,
+                    all I had was a deputy chief of mission. The political affairs officer had been
+                    relieved, and had departed. The administrative officer, the consular officer,
+                    and the economics officer all had departed from Dublin. I was shorthanded for
+                    about one month but as the relieving officers arrived, one by one, I was able to
+                    fill in the holes in the operation.</p>
+                <p>
+                    <hi rend="italics">Q: Good God.</hi>
+                </p>
+                <p>FITZGERALD: I also had a USIA man on the staff. As I understood it, there's
+                    always a turnover, about one-third every year, but this time the turnover was
+                    about three-quarters of the key officers. It was one of those administrative
+                    shortfalls which occur.</p>
+                <p>
+                    <hi rend="italics">Q: Aberrations that happen.</hi>
+                </p>
+                <p>How about emigration?</p>
+                <p>FITZGERALD: Oh, God, that was a sore spot. My predecessors, several before me,
+                    had allowed the emigration eligibility law to be interpreted very liberally.
+                    There were people traveling to the United States — students and Irish citizens
+                    going over on tourist visas — who never came back. We got to the point where
+                    people, knowing damn well they weren't coming back, were getting members of the
+                    Parliament, of the Dail, to guarantee their return to Ireland. When I arrived in
+                    Dublin, there was heavy pressure on our consular people who knew that these
+                    Irish citizens were not going to come back to Ireland and were very reluctant to
+                    issue visas.</p>
+                <p>There was a great brouhaha, with the newspapers and Dail members stating that the
+                    minister of foreign affairs is going to straighten this thing out with the
+                    ambassador and so on and so forth.</p>
+                <p>I promptly arranged to meet with David Andrews, the minister of foreign affairs,
+                    and looking over the record, I said, “Do you realize that about 20% of the
+                    people who are going to the US on tourist visas or student visas do not return?
+                    We are operating under an illegal situation, where your members of the Dail are
+                    guaranteeing the return of some of these students and tourists. Where in the
+                    world, on emigration, can a third party guarantee a second party, both of them
+                    non-American nationals? It doesn't work, and I'm going to stop it right now.
+                    There are no longer going to be any guarantees as they are not necessary. Your
+                    members of the Dail are jeopardizing their careers, their reputations, by
+                    guaranteeing questionable people going to the United States. All we're doing is
+                    creating a problem with all kinds of difficulties. No more guarantees. We don't
+                    accept a guarantee from anybody. Period.”</p>
+                <pb facs="0021" n="Page0021"/>
+                <p>Inside of about two weeks, after the usual rumblings and grumblings of “My Uncle
+                    Pat has to get to America,” and that sort of thing, it stopped.</p>
+                <p>
+                    <hi rend="italics">Q: Good for you. I speak as an old consular officer, knowing
+                        the problems. Did Senator Edward Kennedy loom rather large in whatever you
+                        were doing, because of his Irish connection and all that?</hi>
+                </p>
+                <p>FITZGERALD: I've known Teddy Kennedy since he was literally in diapers, and I've
+                    known the whole family for 55 years and, as a matter of fact, I was one of
+                    Kathleen's many admirers when she was in Washington during the war. She was a
+                    wonderful girl. And, of course, I've known Joe, Jr., Jack and Bobby and all the
+                    girls, but Jean I didn't know at all well.</p>
+                <p>
+                    <hi rend="italics">Q: She's the present ambassador to Ireland.</hi>
+                </p>
+                <p>FITZGERALD: She's there now. I knew her husband, Steve Smith, who was in the
+                    brokerage business in New York for some years.</p>
+                <p>But Teddy has had quite an interest in the IRA and what they were doing, and he's
+                    been trying to help.</p>
+                <p>I think the classic example just happened last year, with Ethel Kennedy's
+                    daughter, Courtney, who married this terrorist, Hill, who was convicted of
+                    killing a British policeman. Teddy Kennedy went over to Belfast as senator of
+                    the United States; Jean Kennedy went up to Belfast as US ambassador to Ireland;
+                    Joe Kennedy went over as congressman from Cambridge, Massachusetts; and I don't
+                    know how many other members of the Kennedy family appeared in Belfast as
+                    character witnesses for this man Hill. The British government went ballistic on
+                    this event, and our embassy in London as well. That, to me, was one of the most
+                    outrageous violations of protocol and diplomacy that you could think of. Yet
+                    they did it, and they got this man out. He's on probation now, but I am not
+                    certain of his status.</p>
+                <p>
+                    <hi rend="italics">Q: Is there anything else that we should cover on this time
+                        in Ireland? Any other issue? We've covered quite a bit.</hi>
+                </p>
+                <p>FITZGERALD: Well, I can say that I worked that country from north to south, east
+                    to west. Everywhere, I was there, like Kilroy. I enjoyed it tremendously.</p>
+                <p>One of the parting shots, I guess for me amusing. I was having luncheon with Dick
+                    Spring, who had become the new minister of foreign affairs. And I said, “Dick,
+                    you know, I'm one of your constituents. I am a Kerry Man.”</p>
+                <pb facs="0022" n="Page0022"/>
+                <p>He said, “You are?”</p>
+                <p>I said, “Yes.”</p>
+                <p>He represented North Kerry.</p>
+                <p>And I said, “Good, God, yes. All you have to do is look in the books, Dick. Our
+                    family properties covered from Listowel up to the Shannon.” His district. Let's
+                    say he had part of that area. Listowel to the Shannon.</p>
+                <p>And he said, “Oh, yes, yes, oh, I know...”</p>
+                <p>And I said, “However, you know, quite a number of us, quite a number of the
+                    FitzGeralds emigrated.”</p>
+                <p>And he said, “Where did they emigrate to, America?”</p>
+                <p>And I said, “No, County Cork.”</p>
+                <p>We were friends from there on.</p>
+                <p>
+                    <hi rend="italics">Q: Well, Mr. Ambassador, I want to thank you very much. This
+                        has been both very useful and enjoyable. Thank you.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

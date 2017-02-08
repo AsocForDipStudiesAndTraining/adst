@@ -1,273 +1,745 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001159">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with William Howard Taft III</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with William Howard Taft III</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR WILLIAM HOWARD TAFT, III</p>
-<p>Interviewed by:  Charles Stuart Kennedy </p>
-<p>Initial interview date:  April 30, 1987</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Today is April 30th, 1987 I am interviewing Ambassador William H. Taft, III regarding his period as Ambassador to Ireland from 1953 to 1957.  This interview is on behalf of the Association for Diplomatic Studies.  I am Charles Stuart Kennedy.</hi>
-</p>
-<p>Mr.  Ambassador, considering your family background and its focus on domestic politics, what led you down a different path with an interest in diplomacy?</p>
-<p>TAFT:  It was perhaps somewhat accidental as many of these things are.  I not only had a Yale degree but a Ph.D. from Princeton in English Literature, and I was all set to be an English teacher.  Indeed, I did teach before the Second World War: a year at Maryland University out here beyond Washington D.C., and a year at Haverford College, and then after the War three years at Yale. I enjoyed it very much but decided that I wasn't really cut out to be a serious researcher.  That deficiency would be a handicap in a University career.  So, I joined the Marshall Plan which was just starting at the time in 1948, and I found myself as a young man assigned as Special Assistant to the small Marshall Plan office in Ireland.  I can talk a little about that, but it led eventually, not so long after I came back here in 1951 to a larger assignment; in 1953 I was appointed Ambassador to Ireland.  I ran, perhaps, on the experience platform.</p>
-<p>
-<hi rend="italics">Q:  What type of work were you doing in the Marshall Plan in Ireland?</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>TAFT:  It was a grab bag of activities.  We only had a Chief of Mission and two, three, then later, four officers. I was the general assistant to Joseph Carrigan, an agricultural expert, who had been Dean of Agriculture at the University of Vermont, a very appropriate assignment in Ireland.  I was among other things the Information Officer and generally explained our program. The people in Ireland, I think, ought to have known about the Marshall Plan further. I went around the country and told them what the activities and interests were and also the problems. I did go to Paris a lot, Mr. Harriman was in charge there. But the Irish program was a small one, and in fact, I have always wondered, except for the political process, why the Irish deserved even a small program?  After all, they had been neutral during the War.  The ultimate argument was that they were an agricultural country which could assist starving Europe. But during the War, they lacked fertilizers, they simply could not get enough to retain their past abilities to grow food; they needed money to buy lots of fertilizers after the War. Also, the Marshall Plan in Ireland was political; there is no harm in saying that the Irish seemed to have conceived over all the years that they have a closer connection with the United States than almost any other country., Like the Israelis and unlike other countries, up till lately anyway, they have spent their time as a diplomatic unit, I think, more on Capitol Hill than they have in an orthodox way in their connections with the State Department, which is supposed to be the avenue of diplomacy.</p>
-<p>
-<hi rend="italics">Q:  But not the real avenue in practical terms.</hi>
-</p>
-<p>TAFT:  Yes, the Irish have certainly been active even in Marshall Plan days early on to generate American sympathy and assistance as they are still doing.  I don't hold this against them, but maybe further remarks explain more of this point of view.</p>
-<p>
-<hi rend="italics">Q:  Did you find when you were working with the Marshall Plan in Ireland that you got a good taste of the American-Irish politicians pressure on the government. Did you feel that Congressmen from Boston, for example, were playing a bigger role than probably was necessary?</hi>
-</p>
-<p>TAFT:  To some extent the shoe was on the other foot.  The Irish moved through Capitol Hill and made friends as indeed now they have done in recent years where you have a scheme to pay money to the Northern Irish to generate better approaches to Irish people living together, the Catholics and Protestants, and by making any new U.S. loans to industry up in the North contingent on fair employment for all people. So it's not the White House really which generated this activity except that they think- and I think- it's a good thing.  It really comes from the Congress, and, of course, their large Irish constituency here among the Congressional districts. Anything favorable like that to improve the political climate in the North and feelings between the North and the South is a good thing. But I'm not sure that if these matters were put to the American people generally, they would subscribe to lavish assistance.</p>
-<p>
-<pb facs="0003" n="Page0003"/>
-<hi rend="italics">Q:  You mentioned that when you came back to the United States in the early 1950s you decided to wait for the position of Ambassador to Ireland, but how does one run for an ambassadorial position?</hi>
-</p>
-<p>TAFT:  Again, it's a very political thing and I discovered it early on. I knew a lot of Irish-connected politicians here, especially in my own state, which was then Connecticut, where I knew the senators.</p>
-<p>
-<hi rend="italics">Q:  Who were the senators?</hi>
-</p>
-<p>TAFT: One was Prescott Bush.  He was my friend and I'm sorry to say I have to check who was the other one.  I keep forgetting names, but Prescott Bush was a good friend of mine and of my father's [Senator Robert A. Taft] too.  I went to him early, and I always thought it rather amusing because I asked him whether he would support me for ambassador - you had to get your senator's interest and support. He said:  “Well Bill, I'll think that over, but I believe that I will be in favor of your interest if you get the support of three judges who are based here in New Haven, in the general area, and they will have to send me letters of recommendation.” I said that was fine.  Well, I didn't tell Mr. Bush that I belonged to the Graduate's Club rather than the Faculty Club, a normal place for an English instructor, because I preferred to lunch with lawyers, other people than academic people, at least some of the time. I was at the lawyers' table and these three judges -important to me- usually had lunch there. They had become good friends of mine.  So, it was very easy to get very nice letters from them.  I think that's how my campaign began.</p>
-<p>
-<hi rend="italics">Q:  Were these judges of Irish extraction?</hi>
-</p>
-<p>TAFT:  No, not necessarily.  They were all eminent judges.  One was a Judge Clark who happened to be at the time the head of the Yale Law School.  Then there was Judge Hinks, and another very fine judge, Judge Swawn.</p>
-<p>
-<hi rend="italics">Q:  What role did the lawyers play in the political process in Connecticut?</hi>
-</p>
-<p>TAFT:  Well they didn't.  But I think that Prescott Bush just wanted their assessment.  He probably thought it might be difficult for me to meet them and get to know them and explain my interest.  They were eminent people and their recommendations meant a lot to him.  My acquaintance was largely luck.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  So we are not talking about getting the stamp of approval of a political machine?</hi>
-</p>
-<p>TAFT:  No, a character approval, and then, of course, one had to know something of the Irish organization in this country, which I did, simply because I lived in Ireland for three years. I had a publicity activity and naturally got to know them. The Irish people in New York at the time were very important and they were important in giving advice to the President in the White House and so forth.  You really needed their recommendation.</p>
-<p>
-<hi rend="italics">Q:  What Irish organizations were particularly significant?</hi>
-</p>
-<p>TAFT:  Well there was one called The Irish Historical Society in New York, which isn't well known by the world at large, but seemed to have the ear of the White House. It's an intellectual group, and I went up and talked to them and got their recommendation. A friend of the family, Roger Faherty, a Chicago lawyer, seemed to have lots of influence and he pushed my candidacy. Then, I had to write a lot of letters, it was almost like running for a more conventional political post and this, I'm sure, although I don't know the details, is usually true even today.  Whether it goes on for many other ambassadorships, I'm not sure.  But where you have a particular country with large numbers of people in the United States and their descendants here, it's important to get them in your camp.  One of my advantages was not only having been in Ireland but getting a head start. As I told you I had my two Senators behind me.  There was another man in Connecticut who was an agricultural man—so he said—who came out for the job; he lined up in his behalf, to my surprise, the head of the House Foreign Relations Committee. Luckily the House didn't have the clout in this matter, so I got the assignment.  There was a number of other much more important people in the sense of their political connections with the Republican party who wanted the honor of the position. My father obviously played a role, although I think he tried to stand aside in large degree. But I always felt that I won the job for two reasons.  One, I could claim experience which meant something.  I also had studied the Old Irish language and literature, and secondly, there were so many inexperienced would-be candidates for the post that they canceled one another out.</p>
-<p>
-<hi rend="italics">Q:  When you were writing these letters did you just write to Irish Americans saying I'm a candidate to be your ambassador and I would appreciate your support?</hi>
-</p>
-<p>TAFT:  Yes, I said in fact that I was hoping to become Ambassador and doing my best to become such.</p>
-<p>
-<hi rend="italics">Q:  Did you get many people who said: “What's your Irish background” ,and things of that nature?  That usually seems to be one of the major criteria.</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>TAFT:  Yes, of course; I could cite my grandmother's family name, Herron.  The Herrons came from the County Tyrone in the North, but other Irish ancestors there were none.  However, it seemed to me, and it still seems to me, that the Irish might prefer a non-Roman Catholic person, who hasn't been steeped in the conventional Irish background, on the assumption that he is more objective and represents a voice unprejudiced to the White House.</p>
-<p>
-<hi rend="italics">Q:  You were mentioning how the Irish didn't particularly care for people who came full of Irish lore and were of Irish extraction?</hi>
-</p>
-<p>TAFT:  I don't want to seem to contradict myself, but I think there is an appreciation by the Irish of somebody who has of course a great interest in Ireland, and I did, but also they have interest in knowing someone is very close to the President and not merely an Irishman. He can speak up in an objective way in their behalf and may be more influential sometimes.</p>
-<p>
-<hi rend="italics">Q:  Did you know the principal actors on the Foreign Affairs situation in the United States, mainly President Eisenhower and John Foster Dulles?</hi>
-</p>
-<p>TAFT:  I knew them.  I was introduced to President Eisenhower when he won the nomination from my father and we had a considerable talk.  I had seen him since and after I became Ambassador several times.  It was a little more informal then, and you could as the President's appointee call on him and talk with the President.  It might be harder to do some people to do that nowadays.</p>
-<p>
-<hi rend="italics">Q:  You didn't have the feeling there was a gatekeeper who was keeping you away from the President?</hi>
-</p>
-<p>TAFT:  No, and I knew John Foster Dulles fairly well.  I just happened to know him even before he was Secretary of State.</p>
-<p>
-<hi rend="italics">Q:  When you went out to Ireland did you go out with any instructions or was it “Here it is”?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>TAFT:  There were no very important instructions about my being ambassador there, partly because in those days, 1953 through much of 1957, life was somewhat calmer and more informal than, unfortunately, with the IRA troubles today.  It was a place where Barbara, my wife, and I could live in a very nice Embassy with the children and have no problems.  We didn't have, as I believe they now have to have, policemen at the gate; also, they are wired for possible break-in difficulties.  I think I have heard that the Ambassador has to go a different route by chauffeured car to the Embassy office downtown each day. There must be certain care taken, where as we had a lovely, casual time and indeed we could go out and see our friends in my wife's Morris Minor in the evening if we went out to dinner - just by ourselves.  We did have a chauffeur and a car, and we used it occasionally, but it was not obligatory. So, we had a very happy time in Ireland with our four children there.  They grew up incidentally without television, a very good thing for four formative years. They had good schools; at least the boys did.</p>
-<p>
-<hi rend="italics">Q:  What was the principal focus of American policy towards Ireland during that period?</hi>
-</p>
-<p>TAFT:  I think it was simply to be friendly. We had a little reporting about the incipient IRA business which was going on and the local politics, but it was generally peaceful; we did have negotiating matters concerning, for example, whether or not Pan American or TWA would have the right to come to Dublin Airport rather than Shannon.  That was certainly a lower scale of difficulties.  Then, one always active interest that the United States has in Ireland as elsewhere is to get its Government to vote and support United States positions, not only in the Marshall Plan of the day but in the United Nations agencies.  This took some doing and explaining.  I had the pleasure also of being there during the Marshall Plan, knowing most of the people in the two Governments that alternated, Fianna Faile and Fine Gael.  Marshall Plan activity included a small sum nowadays, about three million dollars which was to go to programs, to start an agricultural institute there, to assist dairy agencies, and to assist Trinity College in certain ways.  There were other projects, but when I left the Marshall Plan office these things were still being worked out.  Mr. DeValera, who was Prime Minister when I arrived the first time in 1948, didn't want to do a number of things that we thought were necessary in using this money.  And then I came back only a little less than 2 years after departing in 1951 as ambassador with these matters still not resolved.  I must confess we found Mr. DeValera's Government a little more difficult to parlay with than John Costello's, who was Prime Minister in Fine Gael days.  DeValera was still there when I arrived the second time, still the head of government; unfortunately, these matters had not moved.  There were counterpart moneys still to be allocated.</p>
-<p>
-<hi rend="italics">Q:  These were counterparts funds?</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>TAFT:  Yes, and all these things had to be moved and I didn't approve much of DeValera's wishes how to utilize them.  So, I just held out for a year and then DeValera's government fell and John Costello came back and we were able to advance these programs previously recommended very easily.</p>
-<p>
-<hi rend="italics">Q:  During the election of 1954 when John Costello came back in, because of the large number of the Irish-Americans and the fact that many Americans feel that Ireland is their second home, did you find there was any political interference or was it difficult to stay out of the election fire at the time?</hi>
-</p>
-<p>TAFT:  No, I don't think our Irish-Americans go that far.  They don't influence elections over there.</p>
-<p>
-<hi rend="italics">Q:  One of the factors that often enters into Irish-American politics is the Catholic church.  Did you find Archbishop Spellman as a leader of the Catholic Church of the United States, or other Catholic leaders play much of a role in Irish-American relations?</hi>
-</p>
-<p>TAFT:  I don't think so.  The hierarchy of the Irish Catholic Church in those days and perhaps even today is a force unto themselves. One of the interesting things is that for much of the history of the Roman Catholic Church in the U.S.A., at least, after they achieved importance, most of the hierarchy here have been of Irish descent and orientation.  They were Irish-Americans but I don't think they had any influence in Ireland because their American Catholicism is far more liberal, less rigid in operation than what goes on in the Puritanical hierarchy of the Catholic Church in Ireland.  In fact, the head of the Irish Church in those days when I was there was Archbishop McQuaid.  He was ever so much more puritanical than the Papacy and they were rigid in talking about the politics in Ireland.  They had both their noses and feet in Ireland's politics. They still do to a certain extent, but they have gradually liberalized themselves but haven't caught up with the American hierarchy, whether it is of Irish descent or otherwise.</p>
-<p>
-<hi rend="italics">Q:  As Ambassador did you find you had to touch base with the Irish Catholic church from time to time to make sure that you were going to gain support or to explain why we had such and such a position?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>TAFT:  No, we didn't do that.  Occasionally, I went to a diplomatic religious service. I knew Archbishop McQuaid but I had no dealings with him and I don't thing he would have expected me to have had.  In the Phoenix Park, where the American Embassy is located, there are three houses only: the American Embassy, the President's House, or Palace, and the Papal Nunciature.  Much of the time I was there, there was an Archbishop from Philadelphia, O'Hara, a very nice man indeed, who was our neighbor.  He was the Nuncio and we enjoyed him very much.  I certainly knew him much more intimately than I knew McQuaid, but we used to go to occasional so called diplomatic services at the pro-Cathedral downtown at the invitation of Archbishop McQuaid.  I remember once—we always brought in some of the officers from the Embassy—the wife of the air attach� happened to be there, and there was a lot of incense and movement around the church. She had never been to a Catholic Church before, I suppose, and she said: “My goodness.  I have never until now understood where the term Holy Smoke came from.”</p>
-<p>
-<hi rend="italics">Q:  Going back to some of the American interests with Ireland, I noted that sometimes the issue of Ireland not being a member of NATO would come up.  Did this play any particular role, did we want Ireland in NATO while you were there or did we care?</hi>
-</p>
-<p>TAFT:  I think we would have always wanted them to be in NATO, but there wasn't any chance.  The history of modern Ireland includes the fact that during the Second World War the British were not allowed to use naval bases in the South. DeValera kept out of war.  He had German and Japanese Embassies, which at the least were valuable listening posts, generally speaking, DeValera, compared to people like Costello and the Fine Gael Party, was so anti-English that he never cooperated with England nor would he enter NATO as long as England was an influence.</p>
-<p>
-<hi rend="italics">Q:  Even with the change of government between DeValera and Costello, there really wasn't an opportunity for us to persuade Ireland to join NATO?</hi>
-</p>
-<p>TAFT:  No, I think anyone who wanted us to persuade Ireland it would have been my duty and probably was, as I recall, from time to time to explain how difficult this was and not a productive move. It wouldn't have moved the Irish significantly in that direction.</p>
-<p>
-<hi rend="italics">Q:  I know that in March of 1956 you went with the Prime Minister, then John Costello, on a visit to the United States.  Did you find this kind of trip very productive or was it just for show?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>TAFT:  Well, I think the Irish appreciated it, and they have come from time to time to the United States.  The President came while I was here, Sean T. Kelly, and Costello at a later time when I was ambassador.  So I came twice and we had White House functions and so forth.  Mr Costello, when he came— at the appropriate time—Saint Patrick's day, March 17, I was assigned a political role: to keep Mr.Costello next to me the whole time, because in his going up to New York to the parade and so forth, the Republican Party seemed to feel that there was a danger he might be kidnaped by the Democrats.  What would have happened I have no idea, but that was a concern and I did my best to stay with him. When there was a motorcade, I leaped into his car rather than being shunted behind anywhere.  I remember we went to Mr. Harriman's house for some kind of function...</p>
-<p>
-<hi rend="italics">Q:  This is Averell Harriman.  Was he Governor at the time?</hi>
-</p>
-<p>TAFT:  No he was not.  But he had been head of the Marshall Plan and so forth and he had elevators in his house down below and there was a vast crowd getting into his party and before I knew it, Mr. Costello was pushed into the elevator in a crush and the doors shut.  I thought “Heavens I'm not going to see him again for several hours”, but luckily I was able to get into the next elevator and I found him without difficulty.  I was young enough to feel this was a very important political assignment and I didn't want to botch the job.</p>
-<p>
-<hi rend="italics">Q:  I can't figure anything more daunting than trying to keep an Irish Prime Minister away from the Tammany Democrats in New York.</hi>
-</p>
-<p>TAFT: That was the point, I think I did fairly well.  They didn't like it.</p>
-<p>
-<hi rend="italics">Q:  I'm now speaking as an old consular officer.  Were visas an important part of the embassy's work?</hi>
-</p>
-<p>TAFT:  They were very much so in the American Embassy.  We had at the time two consulates, one in Cork and one in Limerick, both important as visa arranging offices. Even at that time the State Department was pinched for money and trying to save it by closing consulates; indeed, while I was there the Limerick consulate was closed.  There was much hoopla about it and all the people in the west of Ireland didn't like it all; we did manage to keep the Cork consulate.  I remember that it was between consulates in Bergen , Norway or Cork, Ireland and Ireland won out.</p>
-<p>
-<hi rend="italics">Q:  This I take it was because there were more Irish in New York that there were Norwegians in Minnesota.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>TAFT:  I believe that has something to do with it.</p>
-<p>
-<hi rend="italics">Q:  These decisions are usually made on such a basis.  Did you ever use the visa function as a support for your work by saying if you want something from someone I'll put in a good word for your cousin?</hi>
-</p>
-<p>TAFT:  I was rather stern about that and I tried to see to it that I was not influenced by politics.  There were at times, I don't think it's true nowadays, situations where Irish husbands and their American wives had to decide if the American wife would became Irish, especially if she voted in Irish elections. Going around the country, there were a number of these poor ladies who used to come and beg me to do something about it and retain or recapture their American citizenship. They didn't have very good cases in line with the rules.  I don't think I was ever able to change that.</p>
-<p>
-<hi rend="italics">Q: The citizenship laws were much more rigidly enforced in those days before a series of Supreme Court decisions pretty well nullified the loss of citizenship provisions. It is very difficult to lose one's citizenship now.</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>TAFT:  I might say that these matters in the Embassy required considerable work, but life was not all that active, and that was one reason I came home after four years, in 1957.  Even though Mr .Eisenhower kindly asked me if I wanted to stay on, and indeed I wanted to, I felt being still a young man—I was in fact the youngest Ambassador, I think, that they had had anywhere for a long time—when I went there I was thirty-seven although there must be a lot of younger people nowadays. There was not all that much to do, and I thought it would be a bad thing for my continuing moral fiber; I enjoyed my golfing afternoons too much.Well as I was saying, one had a lot of pleasant, leisure time. There was one example, I had two military attach�s.  One Army, and one Air.  They didn't have much to do and I remember one of them in particular, the nice military attach�.  His name was Buck Spinks; he came to me one day and said:  “Mr.Ambassador, I admit I don't have very much to do.  Can you give something special.  It needn't be military but if I can help out in the Embassy, I would like to do so.” I didn't know what to say but -I said:  “Buck, I'm falling down on the job in one respect at least, and that is, I don't like to go to the races and almost every Irishman seems to go to the races and my wife likes it. She usually goes on Wednesdays. If you would care to do so, would you be her escort?” And he was delighted by this.  Life looked much better to him and this was an assignment that both Barbara, my wife, and Buck Spinks could appreciate, whereas when I did go to the races, it was usually in protesting mood.  The track was a nice place to go, where you met the Chief Justice and other important people, but I was not a success because I didn't know or care much about horses, and standing around between races seemed very dull to me.  I didn't do well at it at all; my wife noticed it, so she gave me a hollow cane for Christmas.  Into the cane one poured brandy.  There was a little cup on top and I took it to the races and immediately became popular.  But these were little details about the fact that you had to be genial.  I played golf, which was important to Irish people, and also I was perhaps more intellectual than many of our ambassadors to Ireland.  All nice people, I would say, but not concerned with the Irish language, or things of that sort which I just happen to be.  So, I had my own particular constituencies. I think every ambassador has a different crowd.</p>
-<p>
-<hi rend="italics">Q:  Were you involved with Trinity University?</hi>
-</p>
-<p>TAFT:  Trinity College.  Yes.  I knew many of the professors and I used to go there and make talks. Perhaps, some of our ambassadors do that now, but I think I was closer perhaps to the intellectual community and the other Universities, such as University College Dublin than our other ambassadors.  I think I can comment on most of them going back to the War.  There was a Minister—we didn't have an Ambassador at the time—named Grey, who during the War was an important figure.  He was, I believe, an in-law of President Roosevelt during the War.  And he became rather unpopular, naturally, because he was trying actually to push the Irish to make concessions, but he got nowhere.  He was perhaps the most compelling figure among our representatives along the way, because he had something very important to do. Since then that has hardly been the case. It has remained more a post in which one is a friendly representative and doing one's best to improve relations when minor difficulties come up.</p>
-<pb facs="0012" n="Page0012"/>
-<p>
-<hi rend="italics">Q:  Did the Irish government, or Ireland as such, when you were there, have a particular agenda they were pushing with the United States other than good relations?</hi>
-</p>
-<p>TAFT:  Usually not.  They had the sometimes terrible problem of a divided Ireland, I think lately President Reagan and Capitol Hill in instituting their plan to improve industry in the North and in doing so to improve understanding and relations among the people, whether they be Catholic or Protestants, is a very good thing. It's a matter of human rights, where, as I understand the matter, loans are made to industries needing them, but only on a basis that they will be fair, Roman Catholics will be in fair measure hired, whereas this is not usually the case; industries are owned largely by the Protestants.  Not only will Catholics in the new order be hired, but they will be fairly promoted just as in this country.  We will have examples in Northern Ireland of a fair approach to fair employment.</p>
-<p>
-<hi rend="italics">Q:  You were in Ireland during the time of McCarthyism.  Did this have any effect on your work there?</hi>
-</p>
-<p>TAFT:  It did in a way.  I didn't mention that we were concerned always with the press and often its anti-American approach. The rise of McCarthy and the bad publicity that he got did not assist us, so that we had to be doing as much as we could to deny too emphatic or unfair interpretations of the United States which often occurred in the press.  Sometimes, one couldn't do anything, in fact, if you protested to the press you tended to aggravate their approach in the wrong direction. I think that some of our Ambassadors, as I have heard, have been too much concerned about press coverage and up to a point it's best to say nothing.</p>
-<p>
-<hi rend="italics">Q:  Was the press anti-American mainly because Ireland is a relatively poor country and it made good publicity to talk about our follies or was there more of a political reason?</hi>
-</p>
-<p>TAFT:  I don't think it was political.  There were just a lot of very liberal and rather attention-seeking editors, columnists and others. It's very easy even for the Irish to bash the United States through their newspapers.  But, in a way if one makes speeches as an Ambassador one is able to do and treat these problems in an intelligent way, you make a little headway in the publicity game.  That, I think, is an important part of the Ambassador's role over there.</p>
-<p>
-<hi rend="italics">Q:  What did you feel were your principal accomplishments when you were in Ireland?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>TAFT:  Simply generating good will on all sides.  I think I did a good job there.  I seemed to have gained a reputation, if I do say so myself, for being a friend of Ireland despite not being an Irish-American.  It's a little difficult to say what more one does in that post.</p>
-<p>
-<hi rend="italics">Q:  As you have described it, it may be it's to keep relations on an even keel.</hi>
-</p>
-<p>TAFT:  I told John Foster Dulles more than once that I conceived my role to be one of keeping Irish matters off his schedule. Why be bothered by something that was less important than so many problems around the world.</p>
-<p>
-<hi rend="italics">Q:  Did you have any sort of frustrations while you were there.  Things that you would like to tend to that you couldn't do?</hi>
-</p>
-<p>TAFT:  No, I don't think so.  When we went there to the Embassy we had, Barbara and I, a great advantage because we had already lived there three years.  I, a relatively minor officer, we had made a great many friends so that we had many friends before we came back and in fact, although I was rather brash, perhaps, being young, when I got to the Embassy I knew a good deal more about Ireland than many of my State Department officers and in those informal days we could go out to dinner ourselves.  We were relatively poor at the time.  We got some entertainment funds but such were rather few, specially considering our magnificent residence where one wants to give parties; there had been a tradition of the Fourth of July party, which is right in the middle of the summer and all the American tourists came, even in tourist buses.  I observed the first Fourth of July, we had a big party and when we got through, on July the 5th—the fiscal year then began on July the 1st—all our money was gone. It made a few Irish people a little annoyed when I changed all this by having our big party for what it should be, to entertain the Government and other important people in Ireland.  I switched it to January the 1st, when there was hardly an American in Ireland from this country and I think the tourists in July became a little annoyed with this practice, but it meant that we were spending our money not on Americans - we didn't have very much - but on Irish people, as we should have been.</p>
-<p>
-<hi rend="italics">Q:  How did you find the staff of the Embassy?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>TAFT:  Some of them are among our dearest friends still.  They've all retired now but we see some especially who come down from Massachusetts.  Two will be here on Monday.  That is a couple who were in Ireland when we were there the first time, when I was in the Marshall Plan.  He was a young officer in the Embassy and I got to know him very well then. One problem with embassies is that sometimes the Ambassador doesn't quite know what is going on when he comes into a group of officers never seen before. They may be very helpful and friendly, but I had a feeling that I didn't know enough what was going on in our various offices; little problems which I might have solved were under the rug, but there was no way for me to learn much about them.  So, this good friend of mine who had been there previously I got the State Department to send him back. He was by no means a snooper, but I felt that I did know more about the inner workings of the Embassy once he was there.  That's a problem, maybe, of the higher officer in any embassy.  There are a lot of people around that are very deferential and very polite and most of are wonderfully helpful but at the same time you're not quite sure what they're thinking about.  We had to get rid of one or two people.  I did.</p>
-<p>
-<hi rend="italics">Q:  These were Foreign Service Officers?</hi>
-</p>
-<p>TAFT:  One, for example, was an Information Officer having to do with USIA/USIS. He, poor fellow, said he had to go out to the west of Ireland for two weeks to make a lot of speeches and just generally shake hands with people and it seemed his business; so off he went, we thought.  He was unfortunate in that we discovered he had not gone to the west of Ireland.  Instead friends of mine spied him in London at the theater and so forth.  Even his poor wife didn't know that he had gone to the U.K. for a spree.  So, I immediately got rid of him.  We had a few other domestic problems.  There are always those.  The Marines were fine, speaking of Marines these days [reference to a sex/spy episode in Moscow involving Marines made public at time of interview] The only difficulty with Marines was that they kept getting married to Irish girls. In those days it wasn't a matter of concern with the enemy and that was perfectly all right except that often the Irish girl turned out to be much better educated than her Marine and at the end of his term he would come back to the United States with her and she would discover that he was a cook rather than a lawyer, something of that sort.  A little hard on the Irish!</p>
-<p>
-<hi rend="italics">Q:  Regarding your transfer back to the United States you had asked for that in 1957?  It was enough time at that point?</hi>
-</p>
-<p>TAFT:  That's right.  I felt that I would go to seed for four more years and after all I was only in my early forties by that time.</p>
-<p>
-<hi rend="italics">Q:  How did you feel about being replaced by Scott McLeod?</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>TAFT: We forgot about that, of course he was a—is it too strong a word—a hatchet man of McCarthy's.</p>
-<p>
-<hi rend="italics">Q:  He was so regarded and detested by the line Foreign Service because of this.</hi>
-</p>
-<p>TAFT:  I was disturbed that he was coming and it made a hoopla in the press which I mentioned, and it was very hard to defend him, but that was my job.</p>
-<p>
-<hi rend="italics">Q:  There must have been a considerable disappointment among your friends too in the Irish society, Government and all?</hi>
-</p>
-<p>TAFT:  Maybe so, I don't know.  It created an embarrassing two months in some ways before I left but I had to spend my time saying he wasn't as bad as the press reported and so forth, and perhaps he wasn't.  I think when he got there, he was a relatively reasonable person, but he wasn't faced with many problems.</p>
-<p>
-<hi rend="italics">Q:  This interview is focused on your role as Ambassador.  I would like to ask you some questions about your subsequent career, because it is so atypical of what happens to somebody who has receives a political appointment as ambassador.</hi>
-</p>
-<p>TAFT:  I can say so briefly.  I did come back in mid 1957 and I joined the Policy Planning Staff, which you may know at the time had about ten or eight, nine people on it.  I was much the least experienced.  The Head of the Policy Planning Staff, still a good friend of mine, was Gerry Smith, who was more concerned even in those days with nuclear matters than other foreign affairs problems.  I was on the Staff about three and half, four years or so.  Incidentally, in 1957 I was offered the post of Ambassador to what was then still Ceylon ...</p>
-<p>
-<hi rend="italics">Q:  That's Sri Lanka</hi>
-</p>
-<p>TAFT:  ...and I didn't take it.  They said that there was a difficult communist problem at the moment, the State Department did, and that I would have to go very soon.  I was naive enough to feel that I didn't know anything about the Far East and if indeed it was an important problem, I said, why don't they assign an expert out there?  And so they agreed and now I remained on the Policy Planning Staff and instead of needing somebody there immediately as they told me, the post was left open for about 6 months.  Then of all things—I had turned it down partly because I didn't know enough about Asia—they nominated a man from Northern New York who owned some kind of textile factory.  I forget his name now.</p>
-<p>
-<pb facs="0016" n="Page0016"/>
-<hi rend="italics">Q:  Was it Cluck or Gluck.  I think he had an underwear factory.</hi>
-</p>
-<p>TAFT:  He was made famous in the newspapers, because when he went before the Senate he forgot the name of the Prime Minister of Ceylon, if he ever knew it.</p>
-<p>
-<hi rend="italics">Q:  Bandaranaike, I believe.  It's a Senate Hearing that rings down through the decades.</hi>
-</p>
-<p>TAFT:  Right, here I was, the one who had avoided all this because I was really genuinely concerned that they ought to have somebody who was knowledgeable.  Ridiculous.  Then I thought I'd join the Foreign Service. Loy Henderson, I got to know very well and he was very friendly to me.  I joined the Service by taking the exams.</p>
-<p>
-<hi rend="italics">Q:  You took ...in those days it was a three day ...or one day?</hi>
-</p>
-<p>TAFT:  Well, it was in my case a special exam.  I didn't sit down with a lot of other people but I was interviewed, I wrote long papers and so forth as required and luckily passed.  Before I had taken these exams, on the Policy Planning Staff my interests had turned chiefly to Africa; I went with about twenty-odd other young Foreign Service people, even younger than I—I was then in my forties—to spend three months in Africa.  I think it was one of the best State Department activities that they have conceived because that was 1958, and it was just the period when most of the new African countries were emerging and becoming independent, and we knew very little about Africa, especially Foreign Service Officers.  We flew to Ghana, where we had a plane and then spent three months going around West and East Africa, down through the Congo, and down to Mozambique, to South Africa and the Rhodesias.  The procedure was generally to be lectured to for two or three days by outgoing colonial leaders and some of the new people - when we were in Ghana for three weeks Nkrumah was not there, but we met many other Ghanaians.  We did the same thing in Kenya and Uganda, in the Congo and elsewhere.</p>
-<p>It was really a very important experience for these young people including myself, and what's more—it isn't always true I believe, in the State Department—most of these young people became later, important officers in Africa, some of them ambassadors.  I, for example, once I'd gone into the Foreign Service became the Consul General in Mozambique, Lourenco Marques.  I was there for three years.  Of course, in Africa more than in other countries one's communications with other areas are few and it's difficult to know what is going on even next door.  But, to have this early view was very helpful, and we got to know some of the leaders.  I remember quite well the now resigned man in Tanzania, Nyerere.  We knew other leaders also.</p>
-<pb facs="0017" n="Page0017"/>
-<p>When we got to Mozambique during our expedition for about two or three days in Lourenco Marques, we were so weary that I hardly looked around, although it was a beautiful city. I had no idea that within a year I would be living down there.</p>
-<p>
-<hi rend="italics">Q:  Was this idea to create a group of Africanists... Did it stem from Loy Henderson?</hi>
-</p>
-<p>TAFT:  Yes, I thing it was Loy Henderson's idea and he was able to get a grant from the Ford Motor Company, which paid, I believe, for the plane which took us around for three months. I don't think there has been such a project or anything like before or since.  It paid off.</p>
-<p>Then I came back and had to do with African matters.  Eventually, the Department started the Bureau of Oceans and Scientific Affairs.  I was involved pretty much from its beginning, trying to assist it and for one reason or another I stayed here.  My career is further odd because I resigned from the Foreign Service. One reason I did so was that I thought there was a chance of becoming an Ambassador again, but I knew that I wouldn't get that far probably [within the Foreign Service].  I tried the political route again.  Well, the fact was, success didn't strike again, but I enjoyed my further career in the State Department just as a bureaucrat in the Bureau of Scientific Affairs.</p>
-<p>
-<hi rend="italics">Q:  It was remarkable.  Well, I want to thank you very much for this.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR WILLIAM HOWARD TAFT, III</p>
+                <p>Interviewed by: Charles Stuart Kennedy </p>
+                <p>Initial interview date: April 30, 1987</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Today is April 30th, 1987 I am interviewing Ambassador
+                        William H. Taft, III regarding his period as Ambassador to Ireland from 1953
+                        to 1957. This interview is on behalf of the Association for Diplomatic
+                        Studies. I am Charles Stuart Kennedy.</hi>
+                </p>
+                <p>Mr. Ambassador, considering your family background and its focus on domestic
+                    politics, what led you down a different path with an interest in diplomacy?</p>
+                <p>TAFT: It was perhaps somewhat accidental as many of these things are. I not only
+                    had a Yale degree but a Ph.D. from Princeton in English Literature, and I was
+                    all set to be an English teacher. Indeed, I did teach before the Second World
+                    War: a year at Maryland University out here beyond Washington D.C., and a year
+                    at Haverford College, and then after the War three years at Yale. I enjoyed it
+                    very much but decided that I wasn't really cut out to be a serious researcher.
+                    That deficiency would be a handicap in a University career. So, I joined the
+                    Marshall Plan which was just starting at the time in 1948, and I found myself as
+                    a young man assigned as Special Assistant to the small Marshall Plan office in
+                    Ireland. I can talk a little about that, but it led eventually, not so long
+                    after I came back here in 1951 to a larger assignment; in 1953 I was appointed
+                    Ambassador to Ireland. I ran, perhaps, on the experience platform.</p>
+                <p>
+                    <hi rend="italics">Q: What type of work were you doing in the Marshall Plan in
+                        Ireland?</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>TAFT: It was a grab bag of activities. We only had a Chief of Mission and two,
+                    three, then later, four officers. I was the general assistant to Joseph
+                    Carrigan, an agricultural expert, who had been Dean of Agriculture at the
+                    University of Vermont, a very appropriate assignment in Ireland. I was among
+                    other things the Information Officer and generally explained our program. The
+                    people in Ireland, I think, ought to have known about the Marshall Plan further.
+                    I went around the country and told them what the activities and interests were
+                    and also the problems. I did go to Paris a lot, Mr. Harriman was in charge
+                    there. But the Irish program was a small one, and in fact, I have always
+                    wondered, except for the political process, why the Irish deserved even a small
+                    program? After all, they had been neutral during the War. The ultimate argument
+                    was that they were an agricultural country which could assist starving Europe.
+                    But during the War, they lacked fertilizers, they simply could not get enough to
+                    retain their past abilities to grow food; they needed money to buy lots of
+                    fertilizers after the War. Also, the Marshall Plan in Ireland was political;
+                    there is no harm in saying that the Irish seemed to have conceived over all the
+                    years that they have a closer connection with the United States than almost any
+                    other country., Like the Israelis and unlike other countries, up till lately
+                    anyway, they have spent their time as a diplomatic unit, I think, more on
+                    Capitol Hill than they have in an orthodox way in their connections with the
+                    State Department, which is supposed to be the avenue of diplomacy.</p>
+                <p>
+                    <hi rend="italics">Q: But not the real avenue in practical terms.</hi>
+                </p>
+                <p>TAFT: Yes, the Irish have certainly been active even in Marshall Plan days early
+                    on to generate American sympathy and assistance as they are still doing. I don't
+                    hold this against them, but maybe further remarks explain more of this point of
+                    view.</p>
+                <p>
+                    <hi rend="italics">Q: Did you find when you were working with the Marshall Plan
+                        in Ireland that you got a good taste of the American-Irish politicians
+                        pressure on the government. Did you feel that Congressmen from Boston, for
+                        example, were playing a bigger role than probably was necessary?</hi>
+                </p>
+                <p>TAFT: To some extent the shoe was on the other foot. The Irish moved through
+                    Capitol Hill and made friends as indeed now they have done in recent years where
+                    you have a scheme to pay money to the Northern Irish to generate better
+                    approaches to Irish people living together, the Catholics and Protestants, and
+                    by making any new U.S. loans to industry up in the North contingent on fair
+                    employment for all people. So it's not the White House really which generated
+                    this activity except that they think- and I think- it's a good thing. It really
+                    comes from the Congress, and, of course, their large Irish constituency here
+                    among the Congressional districts. Anything favorable like that to improve the
+                    political climate in the North and feelings between the North and the South is a
+                    good thing. But I'm not sure that if these matters were put to the American
+                    people generally, they would subscribe to lavish assistance.</p>
+                <p>
+                    <pb facs="0003" n="Page0003"/>
+                    <hi rend="italics">Q: You mentioned that when you came back to the United States
+                        in the early 1950s you decided to wait for the position of Ambassador to
+                        Ireland, but how does one run for an ambassadorial position?</hi>
+                </p>
+                <p>TAFT: Again, it's a very political thing and I discovered it early on. I knew a
+                    lot of Irish-connected politicians here, especially in my own state, which was
+                    then Connecticut, where I knew the senators.</p>
+                <p>
+                    <hi rend="italics">Q: Who were the senators?</hi>
+                </p>
+                <p>TAFT: One was Prescott Bush. He was my friend and I'm sorry to say I have to
+                    check who was the other one. I keep forgetting names, but Prescott Bush was a
+                    good friend of mine and of my father's [Senator Robert A. Taft] too. I went to
+                    him early, and I always thought it rather amusing because I asked him whether he
+                    would support me for ambassador - you had to get your senator's interest and
+                    support. He said: “Well Bill, I'll think that over, but I believe that I will be
+                    in favor of your interest if you get the support of three judges who are based
+                    here in New Haven, in the general area, and they will have to send me letters of
+                    recommendation.” I said that was fine. Well, I didn't tell Mr. Bush that I
+                    belonged to the Graduate's Club rather than the Faculty Club, a normal place for
+                    an English instructor, because I preferred to lunch with lawyers, other people
+                    than academic people, at least some of the time. I was at the lawyers' table and
+                    these three judges -important to me- usually had lunch there. They had become
+                    good friends of mine. So, it was very easy to get very nice letters from them. I
+                    think that's how my campaign began.</p>
+                <p>
+                    <hi rend="italics">Q: Were these judges of Irish extraction?</hi>
+                </p>
+                <p>TAFT: No, not necessarily. They were all eminent judges. One was a Judge Clark
+                    who happened to be at the time the head of the Yale Law School. Then there was
+                    Judge Hinks, and another very fine judge, Judge Swawn.</p>
+                <p>
+                    <hi rend="italics">Q: What role did the lawyers play in the political process in
+                        Connecticut?</hi>
+                </p>
+                <p>TAFT: Well they didn't. But I think that Prescott Bush just wanted their
+                    assessment. He probably thought it might be difficult for me to meet them and
+                    get to know them and explain my interest. They were eminent people and their
+                    recommendations meant a lot to him. My acquaintance was largely luck.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: So we are not talking about getting the stamp of approval
+                        of a political machine?</hi>
+                </p>
+                <p>TAFT: No, a character approval, and then, of course, one had to know something of
+                    the Irish organization in this country, which I did, simply because I lived in
+                    Ireland for three years. I had a publicity activity and naturally got to know
+                    them. The Irish people in New York at the time were very important and they were
+                    important in giving advice to the President in the White House and so forth. You
+                    really needed their recommendation.</p>
+                <p>
+                    <hi rend="italics">Q: What Irish organizations were particularly
+                        significant?</hi>
+                </p>
+                <p>TAFT: Well there was one called The Irish Historical Society in New York, which
+                    isn't well known by the world at large, but seemed to have the ear of the White
+                    House. It's an intellectual group, and I went up and talked to them and got
+                    their recommendation. A friend of the family, Roger Faherty, a Chicago lawyer,
+                    seemed to have lots of influence and he pushed my candidacy. Then, I had to
+                    write a lot of letters, it was almost like running for a more conventional
+                    political post and this, I'm sure, although I don't know the details, is usually
+                    true even today. Whether it goes on for many other ambassadorships, I'm not
+                    sure. But where you have a particular country with large numbers of people in
+                    the United States and their descendants here, it's important to get them in your
+                    camp. One of my advantages was not only having been in Ireland but getting a
+                    head start. As I told you I had my two Senators behind me. There was another man
+                    in Connecticut who was an agricultural man—so he said—who came out for the job;
+                    he lined up in his behalf, to my surprise, the head of the House Foreign
+                    Relations Committee. Luckily the House didn't have the clout in this matter, so
+                    I got the assignment. There was a number of other much more important people in
+                    the sense of their political connections with the Republican party who wanted
+                    the honor of the position. My father obviously played a role, although I think
+                    he tried to stand aside in large degree. But I always felt that I won the job
+                    for two reasons. One, I could claim experience which meant something. I also had
+                    studied the Old Irish language and literature, and secondly, there were so many
+                    inexperienced would-be candidates for the post that they canceled one another
+                    out.</p>
+                <p>
+                    <hi rend="italics">Q: When you were writing these letters did you just write to
+                        Irish Americans saying I'm a candidate to be your ambassador and I would
+                        appreciate your support?</hi>
+                </p>
+                <p>TAFT: Yes, I said in fact that I was hoping to become Ambassador and doing my
+                    best to become such.</p>
+                <p>
+                    <hi rend="italics">Q: Did you get many people who said: “What's your Irish
+                        background” ,and things of that nature? That usually seems to be one of the
+                        major criteria.</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>TAFT: Yes, of course; I could cite my grandmother's family name, Herron. The
+                    Herrons came from the County Tyrone in the North, but other Irish ancestors
+                    there were none. However, it seemed to me, and it still seems to me, that the
+                    Irish might prefer a non-Roman Catholic person, who hasn't been steeped in the
+                    conventional Irish background, on the assumption that he is more objective and
+                    represents a voice unprejudiced to the White House.</p>
+                <p>
+                    <hi rend="italics">Q: You were mentioning how the Irish didn't particularly care
+                        for people who came full of Irish lore and were of Irish extraction?</hi>
+                </p>
+                <p>TAFT: I don't want to seem to contradict myself, but I think there is an
+                    appreciation by the Irish of somebody who has of course a great interest in
+                    Ireland, and I did, but also they have interest in knowing someone is very close
+                    to the President and not merely an Irishman. He can speak up in an objective way
+                    in their behalf and may be more influential sometimes.</p>
+                <p>
+                    <hi rend="italics">Q: Did you know the principal actors on the Foreign Affairs
+                        situation in the United States, mainly President Eisenhower and John Foster
+                        Dulles?</hi>
+                </p>
+                <p>TAFT: I knew them. I was introduced to President Eisenhower when he won the
+                    nomination from my father and we had a considerable talk. I had seen him since
+                    and after I became Ambassador several times. It was a little more informal then,
+                    and you could as the President's appointee call on him and talk with the
+                    President. It might be harder to do some people to do that nowadays.</p>
+                <p>
+                    <hi rend="italics">Q: You didn't have the feeling there was a gatekeeper who was
+                        keeping you away from the President?</hi>
+                </p>
+                <p>TAFT: No, and I knew John Foster Dulles fairly well. I just happened to know him
+                    even before he was Secretary of State.</p>
+                <p>
+                    <hi rend="italics">Q: When you went out to Ireland did you go out with any
+                        instructions or was it “Here it is”?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>TAFT: There were no very important instructions about my being ambassador there,
+                    partly because in those days, 1953 through much of 1957, life was somewhat
+                    calmer and more informal than, unfortunately, with the IRA troubles today. It
+                    was a place where Barbara, my wife, and I could live in a very nice Embassy with
+                    the children and have no problems. We didn't have, as I believe they now have to
+                    have, policemen at the gate; also, they are wired for possible break-in
+                    difficulties. I think I have heard that the Ambassador has to go a different
+                    route by chauffeured car to the Embassy office downtown each day. There must be
+                    certain care taken, where as we had a lovely, casual time and indeed we could go
+                    out and see our friends in my wife's Morris Minor in the evening if we went out
+                    to dinner - just by ourselves. We did have a chauffeur and a car, and we used it
+                    occasionally, but it was not obligatory. So, we had a very happy time in Ireland
+                    with our four children there. They grew up incidentally without television, a
+                    very good thing for four formative years. They had good schools; at least the
+                    boys did.</p>
+                <p>
+                    <hi rend="italics">Q: What was the principal focus of American policy towards
+                        Ireland during that period?</hi>
+                </p>
+                <p>TAFT: I think it was simply to be friendly. We had a little reporting about the
+                    incipient IRA business which was going on and the local politics, but it was
+                    generally peaceful; we did have negotiating matters concerning, for example,
+                    whether or not Pan American or TWA would have the right to come to Dublin
+                    Airport rather than Shannon. That was certainly a lower scale of difficulties.
+                    Then, one always active interest that the United States has in Ireland as
+                    elsewhere is to get its Government to vote and support United States positions,
+                    not only in the Marshall Plan of the day but in the United Nations agencies.
+                    This took some doing and explaining. I had the pleasure also of being there
+                    during the Marshall Plan, knowing most of the people in the two Governments that
+                    alternated, Fianna Faile and Fine Gael. Marshall Plan activity included a small
+                    sum nowadays, about three million dollars which was to go to programs, to start
+                    an agricultural institute there, to assist dairy agencies, and to assist Trinity
+                    College in certain ways. There were other projects, but when I left the Marshall
+                    Plan office these things were still being worked out. Mr. DeValera, who was
+                    Prime Minister when I arrived the first time in 1948, didn't want to do a number
+                    of things that we thought were necessary in using this money. And then I came
+                    back only a little less than 2 years after departing in 1951 as ambassador with
+                    these matters still not resolved. I must confess we found Mr. DeValera's
+                    Government a little more difficult to parlay with than John Costello's, who was
+                    Prime Minister in Fine Gael days. DeValera was still there when I arrived the
+                    second time, still the head of government; unfortunately, these matters had not
+                    moved. There were counterpart moneys still to be allocated.</p>
+                <p>
+                    <hi rend="italics">Q: These were counterparts funds?</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>TAFT: Yes, and all these things had to be moved and I didn't approve much of
+                    DeValera's wishes how to utilize them. So, I just held out for a year and then
+                    DeValera's government fell and John Costello came back and we were able to
+                    advance these programs previously recommended very easily.</p>
+                <p>
+                    <hi rend="italics">Q: During the election of 1954 when John Costello came back
+                        in, because of the large number of the Irish-Americans and the fact that
+                        many Americans feel that Ireland is their second home, did you find there
+                        was any political interference or was it difficult to stay out of the
+                        election fire at the time?</hi>
+                </p>
+                <p>TAFT: No, I don't think our Irish-Americans go that far. They don't influence
+                    elections over there.</p>
+                <p>
+                    <hi rend="italics">Q: One of the factors that often enters into Irish-American
+                        politics is the Catholic church. Did you find Archbishop Spellman as a
+                        leader of the Catholic Church of the United States, or other Catholic
+                        leaders play much of a role in Irish-American relations?</hi>
+                </p>
+                <p>TAFT: I don't think so. The hierarchy of the Irish Catholic Church in those days
+                    and perhaps even today is a force unto themselves. One of the interesting things
+                    is that for much of the history of the Roman Catholic Church in the U.S.A., at
+                    least, after they achieved importance, most of the hierarchy here have been of
+                    Irish descent and orientation. They were Irish-Americans but I don't think they
+                    had any influence in Ireland because their American Catholicism is far more
+                    liberal, less rigid in operation than what goes on in the Puritanical hierarchy
+                    of the Catholic Church in Ireland. In fact, the head of the Irish Church in
+                    those days when I was there was Archbishop McQuaid. He was ever so much more
+                    puritanical than the Papacy and they were rigid in talking about the politics in
+                    Ireland. They had both their noses and feet in Ireland's politics. They still do
+                    to a certain extent, but they have gradually liberalized themselves but haven't
+                    caught up with the American hierarchy, whether it is of Irish descent or
+                    otherwise.</p>
+                <p>
+                    <hi rend="italics">Q: As Ambassador did you find you had to touch base with the
+                        Irish Catholic church from time to time to make sure that you were going to
+                        gain support or to explain why we had such and such a position?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>TAFT: No, we didn't do that. Occasionally, I went to a diplomatic religious
+                    service. I knew Archbishop McQuaid but I had no dealings with him and I don't
+                    thing he would have expected me to have had. In the Phoenix Park, where the
+                    American Embassy is located, there are three houses only: the American Embassy,
+                    the President's House, or Palace, and the Papal Nunciature. Much of the time I
+                    was there, there was an Archbishop from Philadelphia, O'Hara, a very nice man
+                    indeed, who was our neighbor. He was the Nuncio and we enjoyed him very much. I
+                    certainly knew him much more intimately than I knew McQuaid, but we used to go
+                    to occasional so called diplomatic services at the pro-Cathedral downtown at the
+                    invitation of Archbishop McQuaid. I remember once—we always brought in some of
+                    the officers from the Embassy—the wife of the air attach� happened to be there,
+                    and there was a lot of incense and movement around the church. She had never
+                    been to a Catholic Church before, I suppose, and she said: “My goodness. I have
+                    never until now understood where the term Holy Smoke came from.”</p>
+                <p>
+                    <hi rend="italics">Q: Going back to some of the American interests with Ireland,
+                        I noted that sometimes the issue of Ireland not being a member of NATO would
+                        come up. Did this play any particular role, did we want Ireland in NATO
+                        while you were there or did we care?</hi>
+                </p>
+                <p>TAFT: I think we would have always wanted them to be in NATO, but there wasn't
+                    any chance. The history of modern Ireland includes the fact that during the
+                    Second World War the British were not allowed to use naval bases in the South.
+                    DeValera kept out of war. He had German and Japanese Embassies, which at the
+                    least were valuable listening posts, generally speaking, DeValera, compared to
+                    people like Costello and the Fine Gael Party, was so anti-English that he never
+                    cooperated with England nor would he enter NATO as long as England was an
+                    influence.</p>
+                <p>
+                    <hi rend="italics">Q: Even with the change of government between DeValera and
+                        Costello, there really wasn't an opportunity for us to persuade Ireland to
+                        join NATO?</hi>
+                </p>
+                <p>TAFT: No, I think anyone who wanted us to persuade Ireland it would have been my
+                    duty and probably was, as I recall, from time to time to explain how difficult
+                    this was and not a productive move. It wouldn't have moved the Irish
+                    significantly in that direction.</p>
+                <p>
+                    <hi rend="italics">Q: I know that in March of 1956 you went with the Prime
+                        Minister, then John Costello, on a visit to the United States. Did you find
+                        this kind of trip very productive or was it just for show?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>TAFT: Well, I think the Irish appreciated it, and they have come from time to
+                    time to the United States. The President came while I was here, Sean T. Kelly,
+                    and Costello at a later time when I was ambassador. So I came twice and we had
+                    White House functions and so forth. Mr Costello, when he came— at the
+                    appropriate time—Saint Patrick's day, March 17, I was assigned a political role:
+                    to keep Mr.Costello next to me the whole time, because in his going up to New
+                    York to the parade and so forth, the Republican Party seemed to feel that there
+                    was a danger he might be kidnaped by the Democrats. What would have happened I
+                    have no idea, but that was a concern and I did my best to stay with him. When
+                    there was a motorcade, I leaped into his car rather than being shunted behind
+                    anywhere. I remember we went to Mr. Harriman's house for some kind of
+                    function...</p>
+                <p>
+                    <hi rend="italics">Q: This is Averell Harriman. Was he Governor at the
+                        time?</hi>
+                </p>
+                <p>TAFT: No he was not. But he had been head of the Marshall Plan and so forth and
+                    he had elevators in his house down below and there was a vast crowd getting into
+                    his party and before I knew it, Mr. Costello was pushed into the elevator in a
+                    crush and the doors shut. I thought “Heavens I'm not going to see him again for
+                    several hours”, but luckily I was able to get into the next elevator and I found
+                    him without difficulty. I was young enough to feel this was a very important
+                    political assignment and I didn't want to botch the job.</p>
+                <p>
+                    <hi rend="italics">Q: I can't figure anything more daunting than trying to keep
+                        an Irish Prime Minister away from the Tammany Democrats in New York.</hi>
+                </p>
+                <p>TAFT: That was the point, I think I did fairly well. They didn't like it.</p>
+                <p>
+                    <hi rend="italics">Q: I'm now speaking as an old consular officer. Were visas an
+                        important part of the embassy's work?</hi>
+                </p>
+                <p>TAFT: They were very much so in the American Embassy. We had at the time two
+                    consulates, one in Cork and one in Limerick, both important as visa arranging
+                    offices. Even at that time the State Department was pinched for money and trying
+                    to save it by closing consulates; indeed, while I was there the Limerick
+                    consulate was closed. There was much hoopla about it and all the people in the
+                    west of Ireland didn't like it all; we did manage to keep the Cork consulate. I
+                    remember that it was between consulates in Bergen , Norway or Cork, Ireland and
+                    Ireland won out.</p>
+                <p>
+                    <hi rend="italics">Q: This I take it was because there were more Irish in New
+                        York that there were Norwegians in Minnesota.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>TAFT: I believe that has something to do with it.</p>
+                <p>
+                    <hi rend="italics">Q: These decisions are usually made on such a basis. Did you
+                        ever use the visa function as a support for your work by saying if you want
+                        something from someone I'll put in a good word for your cousin?</hi>
+                </p>
+                <p>TAFT: I was rather stern about that and I tried to see to it that I was not
+                    influenced by politics. There were at times, I don't think it's true nowadays,
+                    situations where Irish husbands and their American wives had to decide if the
+                    American wife would became Irish, especially if she voted in Irish elections.
+                    Going around the country, there were a number of these poor ladies who used to
+                    come and beg me to do something about it and retain or recapture their American
+                    citizenship. They didn't have very good cases in line with the rules. I don't
+                    think I was ever able to change that.</p>
+                <p>
+                    <hi rend="italics">Q: The citizenship laws were much more rigidly enforced in
+                        those days before a series of Supreme Court decisions pretty well nullified
+                        the loss of citizenship provisions. It is very difficult to lose one's
+                        citizenship now.</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>TAFT: I might say that these matters in the Embassy required considerable work,
+                    but life was not all that active, and that was one reason I came home after four
+                    years, in 1957. Even though Mr .Eisenhower kindly asked me if I wanted to stay
+                    on, and indeed I wanted to, I felt being still a young man—I was in fact the
+                    youngest Ambassador, I think, that they had had anywhere for a long time—when I
+                    went there I was thirty-seven although there must be a lot of younger people
+                    nowadays. There was not all that much to do, and I thought it would be a bad
+                    thing for my continuing moral fiber; I enjoyed my golfing afternoons too
+                    much.Well as I was saying, one had a lot of pleasant, leisure time. There was
+                    one example, I had two military attach�s. One Army, and one Air. They didn't
+                    have much to do and I remember one of them in particular, the nice military
+                    attach�. His name was Buck Spinks; he came to me one day and said:
+                    “Mr.Ambassador, I admit I don't have very much to do. Can you give something
+                    special. It needn't be military but if I can help out in the Embassy, I would
+                    like to do so.” I didn't know what to say but -I said: “Buck, I'm falling down
+                    on the job in one respect at least, and that is, I don't like to go to the races
+                    and almost every Irishman seems to go to the races and my wife likes it. She
+                    usually goes on Wednesdays. If you would care to do so, would you be her
+                    escort?” And he was delighted by this. Life looked much better to him and this
+                    was an assignment that both Barbara, my wife, and Buck Spinks could appreciate,
+                    whereas when I did go to the races, it was usually in protesting mood. The track
+                    was a nice place to go, where you met the Chief Justice and other important
+                    people, but I was not a success because I didn't know or care much about horses,
+                    and standing around between races seemed very dull to me. I didn't do well at it
+                    at all; my wife noticed it, so she gave me a hollow cane for Christmas. Into the
+                    cane one poured brandy. There was a little cup on top and I took it to the races
+                    and immediately became popular. But these were little details about the fact
+                    that you had to be genial. I played golf, which was important to Irish people,
+                    and also I was perhaps more intellectual than many of our ambassadors to
+                    Ireland. All nice people, I would say, but not concerned with the Irish
+                    language, or things of that sort which I just happen to be. So, I had my own
+                    particular constituencies. I think every ambassador has a different crowd.</p>
+                <p>
+                    <hi rend="italics">Q: Were you involved with Trinity University?</hi>
+                </p>
+                <p>TAFT: Trinity College. Yes. I knew many of the professors and I used to go there
+                    and make talks. Perhaps, some of our ambassadors do that now, but I think I was
+                    closer perhaps to the intellectual community and the other Universities, such as
+                    University College Dublin than our other ambassadors. I think I can comment on
+                    most of them going back to the War. There was a Minister—we didn't have an
+                    Ambassador at the time—named Grey, who during the War was an important figure.
+                    He was, I believe, an in-law of President Roosevelt during the War. And he
+                    became rather unpopular, naturally, because he was trying actually to push the
+                    Irish to make concessions, but he got nowhere. He was perhaps the most
+                    compelling figure among our representatives along the way, because he had
+                    something very important to do. Since then that has hardly been the case. It has
+                    remained more a post in which one is a friendly representative and doing one's
+                    best to improve relations when minor difficulties come up.</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>
+                    <hi rend="italics">Q: Did the Irish government, or Ireland as such, when you
+                        were there, have a particular agenda they were pushing with the United
+                        States other than good relations?</hi>
+                </p>
+                <p>TAFT: Usually not. They had the sometimes terrible problem of a divided Ireland,
+                    I think lately President Reagan and Capitol Hill in instituting their plan to
+                    improve industry in the North and in doing so to improve understanding and
+                    relations among the people, whether they be Catholic or Protestants, is a very
+                    good thing. It's a matter of human rights, where, as I understand the matter,
+                    loans are made to industries needing them, but only on a basis that they will be
+                    fair, Roman Catholics will be in fair measure hired, whereas this is not usually
+                    the case; industries are owned largely by the Protestants. Not only will
+                    Catholics in the new order be hired, but they will be fairly promoted just as in
+                    this country. We will have examples in Northern Ireland of a fair approach to
+                    fair employment.</p>
+                <p>
+                    <hi rend="italics">Q: You were in Ireland during the time of McCarthyism. Did
+                        this have any effect on your work there?</hi>
+                </p>
+                <p>TAFT: It did in a way. I didn't mention that we were concerned always with the
+                    press and often its anti-American approach. The rise of McCarthy and the bad
+                    publicity that he got did not assist us, so that we had to be doing as much as
+                    we could to deny too emphatic or unfair interpretations of the United States
+                    which often occurred in the press. Sometimes, one couldn't do anything, in fact,
+                    if you protested to the press you tended to aggravate their approach in the
+                    wrong direction. I think that some of our Ambassadors, as I have heard, have
+                    been too much concerned about press coverage and up to a point it's best to say
+                    nothing.</p>
+                <p>
+                    <hi rend="italics">Q: Was the press anti-American mainly because Ireland is a
+                        relatively poor country and it made good publicity to talk about our follies
+                        or was there more of a political reason?</hi>
+                </p>
+                <p>TAFT: I don't think it was political. There were just a lot of very liberal and
+                    rather attention-seeking editors, columnists and others. It's very easy even for
+                    the Irish to bash the United States through their newspapers. But, in a way if
+                    one makes speeches as an Ambassador one is able to do and treat these problems
+                    in an intelligent way, you make a little headway in the publicity game. That, I
+                    think, is an important part of the Ambassador's role over there.</p>
+                <p>
+                    <hi rend="italics">Q: What did you feel were your principal accomplishments when
+                        you were in Ireland?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>TAFT: Simply generating good will on all sides. I think I did a good job there. I
+                    seemed to have gained a reputation, if I do say so myself, for being a friend of
+                    Ireland despite not being an Irish-American. It's a little difficult to say what
+                    more one does in that post.</p>
+                <p>
+                    <hi rend="italics">Q: As you have described it, it may be it's to keep relations
+                        on an even keel.</hi>
+                </p>
+                <p>TAFT: I told John Foster Dulles more than once that I conceived my role to be one
+                    of keeping Irish matters off his schedule. Why be bothered by something that was
+                    less important than so many problems around the world.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have any sort of frustrations while you were
+                        there. Things that you would like to tend to that you couldn't do?</hi>
+                </p>
+                <p>TAFT: No, I don't think so. When we went there to the Embassy we had, Barbara and
+                    I, a great advantage because we had already lived there three years. I, a
+                    relatively minor officer, we had made a great many friends so that we had many
+                    friends before we came back and in fact, although I was rather brash, perhaps,
+                    being young, when I got to the Embassy I knew a good deal more about Ireland
+                    than many of my State Department officers and in those informal days we could go
+                    out to dinner ourselves. We were relatively poor at the time. We got some
+                    entertainment funds but such were rather few, specially considering our
+                    magnificent residence where one wants to give parties; there had been a
+                    tradition of the Fourth of July party, which is right in the middle of the
+                    summer and all the American tourists came, even in tourist buses. I observed the
+                    first Fourth of July, we had a big party and when we got through, on July the
+                    5th—the fiscal year then began on July the 1st—all our money was gone. It made a
+                    few Irish people a little annoyed when I changed all this by having our big
+                    party for what it should be, to entertain the Government and other important
+                    people in Ireland. I switched it to January the 1st, when there was hardly an
+                    American in Ireland from this country and I think the tourists in July became a
+                    little annoyed with this practice, but it meant that we were spending our money
+                    not on Americans - we didn't have very much - but on Irish people, as we should
+                    have been.</p>
+                <p>
+                    <hi rend="italics">Q: How did you find the staff of the Embassy?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>TAFT: Some of them are among our dearest friends still. They've all retired now
+                    but we see some especially who come down from Massachusetts. Two will be here on
+                    Monday. That is a couple who were in Ireland when we were there the first time,
+                    when I was in the Marshall Plan. He was a young officer in the Embassy and I got
+                    to know him very well then. One problem with embassies is that sometimes the
+                    Ambassador doesn't quite know what is going on when he comes into a group of
+                    officers never seen before. They may be very helpful and friendly, but I had a
+                    feeling that I didn't know enough what was going on in our various offices;
+                    little problems which I might have solved were under the rug, but there was no
+                    way for me to learn much about them. So, this good friend of mine who had been
+                    there previously I got the State Department to send him back. He was by no means
+                    a snooper, but I felt that I did know more about the inner workings of the
+                    Embassy once he was there. That's a problem, maybe, of the higher officer in any
+                    embassy. There are a lot of people around that are very deferential and very
+                    polite and most of are wonderfully helpful but at the same time you're not quite
+                    sure what they're thinking about. We had to get rid of one or two people. I
+                    did.</p>
+                <p>
+                    <hi rend="italics">Q: These were Foreign Service Officers?</hi>
+                </p>
+                <p>TAFT: One, for example, was an Information Officer having to do with USIA/USIS.
+                    He, poor fellow, said he had to go out to the west of Ireland for two weeks to
+                    make a lot of speeches and just generally shake hands with people and it seemed
+                    his business; so off he went, we thought. He was unfortunate in that we
+                    discovered he had not gone to the west of Ireland. Instead friends of mine spied
+                    him in London at the theater and so forth. Even his poor wife didn't know that
+                    he had gone to the U.K. for a spree. So, I immediately got rid of him. We had a
+                    few other domestic problems. There are always those. The Marines were fine,
+                    speaking of Marines these days [reference to a sex/spy episode in Moscow
+                    involving Marines made public at time of interview] The only difficulty with
+                    Marines was that they kept getting married to Irish girls. In those days it
+                    wasn't a matter of concern with the enemy and that was perfectly all right
+                    except that often the Irish girl turned out to be much better educated than her
+                    Marine and at the end of his term he would come back to the United States with
+                    her and she would discover that he was a cook rather than a lawyer, something of
+                    that sort. A little hard on the Irish!</p>
+                <p>
+                    <hi rend="italics">Q: Regarding your transfer back to the United States you had
+                        asked for that in 1957? It was enough time at that point?</hi>
+                </p>
+                <p>TAFT: That's right. I felt that I would go to seed for four more years and after
+                    all I was only in my early forties by that time.</p>
+                <p>
+                    <hi rend="italics">Q: How did you feel about being replaced by Scott
+                        McLeod?</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>TAFT: We forgot about that, of course he was a—is it too strong a word—a hatchet
+                    man of McCarthy's.</p>
+                <p>
+                    <hi rend="italics">Q: He was so regarded and detested by the line Foreign
+                        Service because of this.</hi>
+                </p>
+                <p>TAFT: I was disturbed that he was coming and it made a hoopla in the press which
+                    I mentioned, and it was very hard to defend him, but that was my job.</p>
+                <p>
+                    <hi rend="italics">Q: There must have been a considerable disappointment among
+                        your friends too in the Irish society, Government and all?</hi>
+                </p>
+                <p>TAFT: Maybe so, I don't know. It created an embarrassing two months in some ways
+                    before I left but I had to spend my time saying he wasn't as bad as the press
+                    reported and so forth, and perhaps he wasn't. I think when he got there, he was
+                    a relatively reasonable person, but he wasn't faced with many problems.</p>
+                <p>
+                    <hi rend="italics">Q: This interview is focused on your role as Ambassador. I
+                        would like to ask you some questions about your subsequent career, because
+                        it is so atypical of what happens to somebody who has receives a political
+                        appointment as ambassador.</hi>
+                </p>
+                <p>TAFT: I can say so briefly. I did come back in mid 1957 and I joined the Policy
+                    Planning Staff, which you may know at the time had about ten or eight, nine
+                    people on it. I was much the least experienced. The Head of the Policy Planning
+                    Staff, still a good friend of mine, was Gerry Smith, who was more concerned even
+                    in those days with nuclear matters than other foreign affairs problems. I was on
+                    the Staff about three and half, four years or so. Incidentally, in 1957 I was
+                    offered the post of Ambassador to what was then still Ceylon ...</p>
+                <p>
+                    <hi rend="italics">Q: That's Sri Lanka</hi>
+                </p>
+                <p>TAFT: ...and I didn't take it. They said that there was a difficult communist
+                    problem at the moment, the State Department did, and that I would have to go
+                    very soon. I was naive enough to feel that I didn't know anything about the Far
+                    East and if indeed it was an important problem, I said, why don't they assign an
+                    expert out there? And so they agreed and now I remained on the Policy Planning
+                    Staff and instead of needing somebody there immediately as they told me, the
+                    post was left open for about 6 months. Then of all things—I had turned it down
+                    partly because I didn't know enough about Asia—they nominated a man from
+                    Northern New York who owned some kind of textile factory. I forget his name
+                    now.</p>
+                <p>
+                    <pb facs="0016" n="Page0016"/>
+                    <hi rend="italics">Q: Was it Cluck or Gluck. I think he had an underwear
+                        factory.</hi>
+                </p>
+                <p>TAFT: He was made famous in the newspapers, because when he went before the
+                    Senate he forgot the name of the Prime Minister of Ceylon, if he ever knew
+                    it.</p>
+                <p>
+                    <hi rend="italics">Q: Bandaranaike, I believe. It's a Senate Hearing that rings
+                        down through the decades.</hi>
+                </p>
+                <p>TAFT: Right, here I was, the one who had avoided all this because I was really
+                    genuinely concerned that they ought to have somebody who was knowledgeable.
+                    Ridiculous. Then I thought I'd join the Foreign Service. Loy Henderson, I got to
+                    know very well and he was very friendly to me. I joined the Service by taking
+                    the exams.</p>
+                <p>
+                    <hi rend="italics">Q: You took ...in those days it was a three day ...or one
+                        day?</hi>
+                </p>
+                <p>TAFT: Well, it was in my case a special exam. I didn't sit down with a lot of
+                    other people but I was interviewed, I wrote long papers and so forth as required
+                    and luckily passed. Before I had taken these exams, on the Policy Planning Staff
+                    my interests had turned chiefly to Africa; I went with about twenty-odd other
+                    young Foreign Service people, even younger than I—I was then in my forties—to
+                    spend three months in Africa. I think it was one of the best State Department
+                    activities that they have conceived because that was 1958, and it was just the
+                    period when most of the new African countries were emerging and becoming
+                    independent, and we knew very little about Africa, especially Foreign Service
+                    Officers. We flew to Ghana, where we had a plane and then spent three months
+                    going around West and East Africa, down through the Congo, and down to
+                    Mozambique, to South Africa and the Rhodesias. The procedure was generally to be
+                    lectured to for two or three days by outgoing colonial leaders and some of the
+                    new people - when we were in Ghana for three weeks Nkrumah was not there, but we
+                    met many other Ghanaians. We did the same thing in Kenya and Uganda, in the
+                    Congo and elsewhere.</p>
+                <p>It was really a very important experience for these young people including
+                    myself, and what's more—it isn't always true I believe, in the State
+                    Department—most of these young people became later, important officers in
+                    Africa, some of them ambassadors. I, for example, once I'd gone into the Foreign
+                    Service became the Consul General in Mozambique, Lourenco Marques. I was there
+                    for three years. Of course, in Africa more than in other countries one's
+                    communications with other areas are few and it's difficult to know what is going
+                    on even next door. But, to have this early view was very helpful, and we got to
+                    know some of the leaders. I remember quite well the now resigned man in
+                    Tanzania, Nyerere. We knew other leaders also.</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>When we got to Mozambique during our expedition for about two or three days in
+                    Lourenco Marques, we were so weary that I hardly looked around, although it was
+                    a beautiful city. I had no idea that within a year I would be living down
+                    there.</p>
+                <p>
+                    <hi rend="italics">Q: Was this idea to create a group of Africanists... Did it
+                        stem from Loy Henderson?</hi>
+                </p>
+                <p>TAFT: Yes, I thing it was Loy Henderson's idea and he was able to get a grant
+                    from the Ford Motor Company, which paid, I believe, for the plane which took us
+                    around for three months. I don't think there has been such a project or anything
+                    like before or since. It paid off.</p>
+                <p>Then I came back and had to do with African matters. Eventually, the Department
+                    started the Bureau of Oceans and Scientific Affairs. I was involved pretty much
+                    from its beginning, trying to assist it and for one reason or another I stayed
+                    here. My career is further odd because I resigned from the Foreign Service. One
+                    reason I did so was that I thought there was a chance of becoming an Ambassador
+                    again, but I knew that I wouldn't get that far probably [within the Foreign
+                    Service]. I tried the political route again. Well, the fact was, success didn't
+                    strike again, but I enjoyed my further career in the State Department just as a
+                    bureaucrat in the Bureau of Scientific Affairs.</p>
+                <p>
+                    <hi rend="italics">Q: It was remarkable. Well, I want to thank you very much for
+                        this.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

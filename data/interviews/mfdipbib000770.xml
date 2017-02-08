@@ -1,226 +1,666 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000770">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Henry E. Mattox </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Henry E. Mattox </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>HENRY E. MATTOX</p>
-<p>Interviewed by:  William N. Dale </p>
-<p>Initial interview date:  April 22, 1993</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  This is an interview between Henry E. Mattox and William N. Dale, with the latter being the interviewer.  Dr. Mattox is being interviewed at Chapel Hill, North Carolina on April 22, 1993 with respect to his Foreign Service career.</hi>
-</p>
-<p>I am William N. Dale, a retired Foreign Service officer living in Chapel Hill and I have the pleasure and honor of interviewing Henry Mattox about his career.</p>
-<p>Henry I know that you're teaching now.  I don't know how you looked at your teaching in comparison to your former Foreign Service career.  You must have some thoughts about how the two work together giving you a broader intellectual outlook, or something of that nature.  I wonder if you could tell us how you look at the two together?</p>
-<p>MATTOX:  That's an interesting question in that, yes, the experience is important.  It gives you a leg up in teaching if you've been around for quite a long time.  And as you know, any Foreign Service officer has a certain amount of involvement with teaching in the Foreign Service; teaching people under him, teaching local employees, teaching and trying to educate one's bosses, and that sort of thing.  So you have a little bit of experience of that sort, but you have further, after 25 years or whatever in the Foreign Service, you have lived long enough to be able to impart to the students not just the textbook knowledge, but you can throw in little stories, and you can throw in experiences of your own, especially if you're teaching American history as I am at North Carolina State this semester.  Especially if you're teaching American history of a fairly recent date.  I'm teaching at present a course called “Modern American History” which starts with the end of the Civil War.  None of us go back that far, but we do go back much farther than any of these 20-year old kids.  And it's helpful to be able to say, “Oh, yes, I was in Vietnam at one time.” Or, “Oh, yes, I even remember Watergate, for goodness sake.”</p>
-<p>Teaching is different from a Foreign Service career, but they do have complementary aspects, I think.  I certainly think I'm able to teach with some greater breadth of vision for having served in the Foreign Service.  Greater than if I had never gone anywhere except into the classrooms for all these years since I got out of school.</p>
-<p>
-<pb facs="0002" n="Page0002"/>
-<hi rend="italics">Q:  Did you have the idea before you went in the Foreign Service that you might teach afterwards?  Was the Foreign Service in some sense a preparation?</hi>
-</p>
-<p>MATTOX:  No, not at all.  It was not preparation at all, but I did have the idea that once that phase of my professional life was over I would go to teaching at the university level.  In my case it would be a return to teaching because I taught briefly at Ole Miss before starting out professionally.  I taught, it so happens, economics in those days.  And I enjoyed it very much.  But I realized then that it would involve a great deal more life preparation, and a great deal more academic preparation for me to be successful at that level.  So I was fortunate enough to go off and move from that phase into a Foreign Service career, very fortunate to get into the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  Henry, I notice that you did go to Harvard for advanced training when you had already been in the Foreign Service some time.  I am curious to know, in retrospect, how useful you found that in your subsequent Foreign Service work, and how important it was in your assignments after you had it?</hi>
-</p>
-<p>MATTOX:  The training at Harvard exposed me to an area of learning that I had no knowledge of whatever, that is to say, development economics.  So it laid the groundwork for a theoretical concepts and views, and approaches, that perhaps were somewhat useful in my next post.  I was chosen to go to this one year of training at about the same time I was chosen to go off to Kathmandu.  So the assignment to Kathmandu was delayed some 12 months or more while this was being carried out.  The Foreign Service in its infinite wisdom had decided that a trained economist was needed there.  I had an MA in economics already but I didn't have any exposure to development questions.  Development questions clearly would have been the focus of attention at a place like Nepal.  So it helped in that sense.</p>
-<p>In detail the training at Harvard did no good whatever because once you get to the post, it's a question of reporting, it's a question of negotiating, it's a question of common sense in dealing with your own AID people, in dealing with the local government officials, and that sort of thing.  You don't drag out these high-blown theories of John Mason and such people when you're sitting down to talk about things with your AID colleagues, or to talk about things with development officials in the Third World country involved.  It was useful as a conceptual background.</p>
-<p>
-<hi rend="italics">Q:  When you were in Kathmandu, I gather from what you've said, we had an AID program of a kind.</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>MATTOX:  A very large AID program.  The AID program had been there longer than the embassy.  It was the senior service in other words.  It had the largest compound, the largest building, by far the largest budget, the largest staff, and so on.</p>
-<p>
-<hi rend="italics">Q:  Was it entirely of a developmental nature?</hi>
-</p>
-<p>MATTOX:  Yes.  We had nothing like the case in Latin American countries.  The Servicio approach in Latin America was funding for certain bureaus within the local government—funding from American aid to directly support the activities of a given governmental organization.  We didn't do that in Nepal.  We used Indian rupees converted into Nepalese rupees from the surplus holdings in Delhi essentially to buy import materials for development purposes for the Nepalese government.  The only dollar expenditures were those of the American technicians who were assigned there.  Yes, it was almost 100% development.</p>
-<p>
-<hi rend="italics">Q:  Do you feel that it was successful?  That it made a lasting difference?</hi>
-</p>
-<p>MATTOX:  Despite the fact that I was there for four years, I can't really answer that because it takes a much longer time.  I know one program was very unsuccessful.  No, I won't say a disaster.  The family planning was unsuccessful, but it was unsuccessful in connection with the unsuccessful nature of the family planning program in India, a much larger program.</p>
-<p>One program was successful, as far as I could tell, the Peace Corps.  Not strictly AID, of course.  There were some AID educational programs indirectly related to development that were, I think, fairly successful.</p>
-<p>Turning Nepal into a garden spot, and the industrial center of the Himalayas, no.  None of that happened.  I have not been in touch in more recent years so I don't know what's going on there.  I suspect not a great deal.  I suspect there's nothing a great deal different from what it was when I was there 20 years ago.</p>
-<p>
-<hi rend="italics">Q:  I believe you were there when Carol Laise was the ambassadress.  Did she take a great interest in the developmental work of the AID program?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>MATTOX:  Yes, she did.  Incidentally, she went by the title Madam Ambassador.  She did not like ambassadress, and as you know, she was married to Ambassador Bunker over in Vietnam.  She took an interest in AID matters, but she did not involve herself directly in those things because she was a former political officer.  And political officers almost by definition are not all that interested in economic questions.  She had me appointed....I was Second Secretary of Embassy and Economic/Commercial officer.  But she had me appointed as special assistant to the AID director also, with an office over in the AID compound.  So I had two offices.  I could hide in either one, it didn't matter.</p>
-<p>I was supposed to keep tabs on what the AID program was doing and keep her informed, which I tried to do.  It was relatively easy for me to do that because I had very good working relations with the two AID directors who were there during my long tenure.  One was Jack Benz, and the other...unfortunately I hadn't thought that I'd have to know his name, so therefore I can't think of it...oh, Carter Ide.  They were both very good officers.  I lived next door to them, and I had offices near theirs at the AID compound, so we got along famously.</p>
-<p>She was interested in such questions, but only in some broad sense.</p>
-<p>
-<hi rend="italics">Q:  I suppose she spent a good deal of time traveling back and forth to Vietnam at that period.</hi>
-</p>
-<p>MATTOX:  Well, not nearly as much as I'm sure she would have liked to have done because Ambassador Bunker...a remarkable man, incidentally, really a remarkable man...Ambassador Bunker would get over to visit in Kathmandu about once a month, or once in six weeks.  And then they would reverse the procedure the following month, or the following six week period.  The visiting back and forth was justified as R&amp;R, which he needed of course, and the use of a military flight was justified, I guess, on the basis that when the flight came over from Vietnam, it would bring American Foreign Service people to spend a little decompression time in Kathmandu.  I went once with her and it was justified on the basis that I was going on a study mission, which I did.  Studying some of the economic development programs that we were conducting in South Vietnam, especially in the Delta region.</p>
-<p>She was fairly busy even though it was a quiet post.  And God knows, he was busy.</p>
-<p>
-<hi rend="italics">Q:  Oh, he must have been, yes.  You mentioned briefly in passing your service in Latin America.  I know that you have been in the Azores.  I wonder if you could tell me a little bit about what that post was like, and what the United States' presence meant there?</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>MATTOX:  The Azores, out in the middle of the North Atlantic, was a small consular post, overstaffed with three officers.  At most there should have been two, probably one.  But it was a post that we had had open for a very long time, initially because of the whaling industry.  Whalers would go from the Azores to New England and get themselves naturalized one way or another, and return to the Azores and then their offspring would have sometimes rather obscure claims to American citizenship—legitimate, but obscure.  So we had these people going back and forth, and then since World War II....In World War I we had a naval base.  We had destroyers and such based in the Azores.  World War II the same thing plus the RAF and the United States took over a Portuguese air base at some stage.  I don't remember the timing exactly.  So we had servicemen in the Azores from World War II, or shortly thereafter, right up until the time that I was there, and even today in 1993, I guess, at Lajes.  So we had a consulate, at least an honorary consul, there for decades and decades, since 1795, I think.</p>
-<p>When I was there we had a very able consul, named Roger Heacock, and two vice consuls, one of whom I was.  Very quiet, not terribly demanding usually.  We used a one-time pad, if you remember them, for sending and receiving coded stuff.  It was so complicated, and so difficult, we never sent anything coded during the two years that I was there.</p>
-<p>We issued visas to Azoreans going to the U.S.  We turned down far more visas than we issued.  We registered the births, and issued passports to American citizens 90 miles away at the Lajes Air Force Base.  It was very quiet.</p>
-<p>
-<hi rend="italics">Q:  I'm interested that you turned down a lot of visas from there.  What kind of reasons were there for turning them down?</hi>
-</p>
-<p>MATTOX:  Well, one, basically they had no intention of really ever returning.  They were unable to overcome the presumption that they were going to the United States to work, and to stay some indefinite period of time.  To a large extent they were unable to overcome the assumption that they were not tourists.  So we were obliged under law, the McCarran Act of 1952, to turn such people down.  And if you chickened out, and didn't turn them down, sooner or later the Department was going to get you and slap you on the wrist.</p>
-<p>
-<hi rend="italics">Q:  I suppose that would have been good training for your next post at Sao Paulo.  And when you were in Sao Paulo, I'm interested in knowing how much support we gave to the democratic regime.  I think it was a democracy during the time you were there, and it was before, I think, a number of military regimes.  I wonder if you could comment a little bit on how, if at all, we supported that, or played a role there?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>MATTOX:  I'm afraid I can't comment on that because I was the visa officer, the only visa officer, at a consulate general, Sao Paulo, and I was fairly far removed from the embassy.  And we had such a visa workload—I was both NIV, and IV officer.  I had a fairly large staff but nobody else who could sign.  So I was just swamped every day.  When I first went there, Juscelino Kubitschek was president.  He soon left office peacefully, and the newly elected president, Janio Quadros came to office.  That was a fascinating episode because Quadros was quite weirdly honest, a rather strange man.  He kept threatening to resign—threatening to the military who were not technically in control.  He was going to resign if such and such wasn't done.  After about nine months, I can't remember whether he was in Brasilia or Rio, he threatened to resign, and the military said, OK, and bundled him up, put him in a plane, flew him down to Santos, installed him in his summer cottage, or something of that sort, and guarded him.  So the vice president, with a great deal of controversy, took office.  This was the next to last gasp before the military eventually did take over.  The military, I don't think, took over until I was back in INR in the Department. I had left Brazil.</p>
-<p>Later on I had a couple of friends who were junior officers in the political section in Rio, but I had no direct experience.  What kind of support, what kind of contacts we had, I don't even know whether the people in Rio were in frequent contact with Quadros, or what.  I do know that he was viewed as really a rather odd person because of his unaccountable honesty.</p>
-<p>
-<hi rend="italics">Q:  That's a very interesting point, and very well phrased.  When you got back to the State Department you were in INR, I believe.  Was your field of activities in connection with Latin America at that point?</hi>
-</p>
-<p>MATTOX:  It was all Latin America.  We had a rather large crew on board in INR in those days even though the biographic function had been hived off and sent across the river to the Agency.  We had Civil Service and Foreign Service analysts dealing with functional questions by region, and dealing with country desk officers within the intelligence context.  When I arrived from Brazil, they said, “Hah, you're in from Latin America so therefore you are from now on INR's expert on Latin American communism, Latin American student movements, Bolivia, and Peru,” neither of which country I had ever been to.  So I read into the job, and over close to three years I got to where I was fairly conversant with those subjects.</p>
-<p>INR at that time also, somewhat unusually, sent me to Latin America on two or three study tours—down through the Canal, and then down to Lima, and then up into the mountains, all by myself riding on buses and that sort of thing, into La Paz.  That was a lot of fun and I learned a good bit about the countries involved.  I was just about earning my pay when it came about time to be transferred, of course.</p>
-<p>
-<pb facs="0007" n="Page0007"/>
-<hi rend="italics">Q:  I guess that's all too often the case.  You spoke about both Foreign Service and Civil Service people operating in INR at that time.  How did they work together?  I should imagine the Civil Service might have had a longer period of time in one field, and I'm not quite sure how that would work out.</hi>
-</p>
-<p>MATTOX:  On the analyst level, the Civil Service people usually were young Ph.D.s who were getting a start, and who were aiming for academic careers.  This was a good stopping off place.  They would have research and writing responsibilities that would be interesting and that would look good on the CVs later on.  And then they would go off to some teaching post in academia.  At the upper, shall we say mid-management level, we had people who had been around donkey's years, who were deputy office directors.  Some of them had been with the Department for a very long time.  Some had transferred over from the Agency when there was a splitting up of certain functions.  All of them that I can think of, were very able.  They simply did not have the perspective that even a young FSO would have.  I'm not saying that's necessarily bad, but they looked at things a little bit differently than the young FSO.  And they were much more knowledgeable about in-fighting, the bureaucratic game in Washington, than any FSOs who came in from the field.</p>
-<p>
-<hi rend="italics">Q:  That's how they were different.  That's one of the ways they were different.  Were there other ways that they had a different outlook?</hi>
-</p>
-<p>MATTOX:  They tended to be more theoretical or academic in their approach, I think, than even the young FSO who had been out in the field and had seen that things are not quite as neat and orderly as you might analyze them to be if you had been sitting in Washington all those years.  That's a convoluted way of saying, I think it would have been helpful if we'd had Civil Servants who had more experience abroad, and FSOs who had more experience back in Washington.  Now this latter point may have been resolved in more recent years because, as I understand it, FSOs spend a great deal of time back in Washington nowadays, the last 20 years or so.  I never did.  I spent almost all of my time abroad.</p>
-<p>
-<hi rend="italics">Q:  Well, that's very interesting.  After being in Kathmandu, you went on to Port-au-Prince, I believe.  I was wondering when you were there, Jean-Claude Duvalier was the ruler, president at that time I gather.  How did the United States government react to the way that his succession was handled?  Or what did you hear about that?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>MATTOX:  I was there when the old man died, and Jean-Claude, Baby Doc, as he was called abroad but not in that country, of course, took over with the backing of his mother and of the military at the time.  Otherwise he would not have been able to do anything.  Papa Doc Duvalier, while I was there from '70 to '73, I guess it was—Papa Doc ruled in a benign fashion because all of his opposition had been killed off.  So life was rather pleasant, and rather unruffled.  There were no roundups, there were no public executions as had been the practice for quite some time.  People would disappear but no American citizens were involved so we were not directly involved.  When he died, rather unexpectedly—well, he was sick for a day or two, or a week or something like that, and he designated Jean-Claude as his successor.  We all thought this could not actually be happening:  The boy is 19 years old.  The old man is out of his mind, or either this has been faked, or something or other.  So Jean-Claude came to power.  The old man died.  I went through the enormous crowds there at the palace to view the remains lying in state.  I wanted to do this, facetiously I should say, I wanted to do this to make sure he was dead.  And he was, Jean-Claude took over with the embassy predicting seriously that he would not last more than six months.  He turned out to be a lot more astute than we thought, even so young.  And he was utterly ruthless too; well, at least he gave that appearance because at public events often he carried a great big automatic pistol in his hand, hanging down by the side of his trousers.  He turned out to have a lot of his father's genes.  He isolated his mother.  He didn't ever exile her or anything, but he isolated her completely.  He had some of the military people who might have been rivals exiled, sent off to Miami which was sort of the Devil's Island for Haitians in those days, unless they were exiles with a lot of money.  And he lasted, as we all know, for a very long time.</p>
-<p>Nothing changed for the majority of Haitians, and nothing could really be expected to change.  Jean-Claude turned out to be just as astute as his father, and maybe even more so, in stripping the treasury, and building up his Swiss bank accounts.</p>
-<p>I met him several times, but he never said a word.  He appeared to be really quite dumb, but he wasn't.</p>
-<p>
-<hi rend="italics">Q:  Perhaps his sign of intelligence was to keep still sometimes.  Was it apparent then that Haiti would become the economic basket case it is now?  Or were things rather better managed?</hi>
-</p>
-<p>MATTOX:  No, things were very bad then, though they may perhaps have gotten marginally worse since then.  We had a very small aid program at that time because Papa Doc Duvalier was in disfavor.  It was administered by me and the economic section until about—I'd been there about a year and a half—until AID sent out an AID officer, and we worked jointly.  He became a very close friend with whom I still correspond.  But it was only about total $3 million a year, something like that, or less, I can't remember.</p>
-<pb facs="0009" n="Page0009"/>
-<p>The place was a basket case then.  One of the best programs designed to alleviate problems and suffering were those administered by the relief agencies, the voluntary relief agencies like Catholic Relief.  These were funded directly by the AID program which thereby indirectly funded certain activities.</p>
-<p>
-<hi rend="italics">Q:  This is beyond the $3 million?</hi>
-</p>
-<p>MATTOX:  No, included.  It permitted the U.S. government on a very limited scale to fund certain things such as rural health, not developmental projects.  There were no road improvements going on at that time.  The IBRD would not touch the place.  We marveled, as I started to say earlier, at the way that 150 years previously Haiti had been one of the wealthiest countries in the world with its sugar production and its shipping.  In fact it was a shipping stop off point.  One of the busiest ports in the world around 1800, other than I guess London, was a place called M�le St. Nicolas up in the northwest corner of the country.  By the time I was there, the country was importing sugar.  It was on our sugar quota and we were pushing sugar on them, selling sugar.  The country produced some of the finest coffee in the world, but not enough really for any significant export earning.  It was a basket case.  It's a worse basket case now perhaps.</p>
-<p>
-<hi rend="italics">Q:  I believe you went on to London from there.</hi>
-</p>
-<p>MATTOX:  London was very enjoyable.  I went there as one of the commercial officers.  We had an office setup in London, a rather large commercial section, with FSOs named to handle certain industrial areas.  I happened to have high-tech, I don't know why exactly, all of the computer industries, and the computer products, and the nuclear energy, and aviation, and things like that.  That was fun.  It was not terribly significant.  The ambassador during part of the time I was there was Walter Annenberg.  And toward the end of my tour of two years, Elliot Richardson came in as ambassador.</p>
-<p>Therein lay a tale.  Apparently at that time I looked like the long-lost twin brother of Elliot Richardson.  I'm not sure that we even look anything alike now at all, but at that time apparently so.  I had Marines constantly saluting me.  It took me quite a while to figure out what it was all about.  Out there in Grosvenor Square when I would come back from lunch, I had herds of tourists pointing at me and whispering.  It took me a while to figure out what that was.  Eventually the Marines got used to the fact that I was not Richardson.</p>
-<p>All I did—we pushed exports.  We didn't push investment, of course, but exports.  The last year that I was there—and this may be coincidental, I don't know—in 1975 was the last year that the United States had an export surplus on merchandise account.</p>
-<p>
-<pb facs="0010" n="Page0010"/>
-<hi rend="italics">Q:  I'm sure its a tribute to you.</hi>
-</p>
-<p>MATTOX:  I'd say it might be coincidental.</p>
-<p>
-<hi rend="italics">Q:  Did you have the impression at that time that England was making real progress in its technological industries?</hi>
-</p>
-<p>MATTOX:  I had the impression then that the English were very good, as we've known for a long time, at innovation but rather poor at implementation of their technology.  We had a long controversy, an almost polite kind of battle over the technology that would be used in England's future nuclear energy program.  It was a U.S. versus a British technology.  A U.S. development versus a British development.  One was called something or other...I shouldn't have said that because I can't remember the names of the technology now.  But we did our best in the embassy to get the British to adopt, at a lesser cost, the American technology through Westinghouse and GE, and people of that sort.  We were really pushing, and the Senate would have been proud...Senator what's his name, from Delaware would have been pleased if he had known how hard we were pushing.</p>
-<p>But at the last moment it was, of course, as you might have predicted, a political decision, and the British adopted the British technology.  Eventually it cost them a great deal more money and I'm not sure how successful it was.  But there you are.  It just reminded me of the British development of the jet aviation, the plane, the DeHavilland, that flew first across the Atlantic and then disappeared from sight, and never was developed.  The U.S. developed the technology for jet airliners.</p>
-<p>
-<hi rend="italics">Q:  Henry, when you were there, and you had Ambassador Annenberg, did he know the names of officers in the embassy, say at your level?</hi>
-</p>
-<p>MATTOX:  Oh, no, no.</p>
-<p>
-<hi rend="italics">Q:  How did he operate in that sense?  With a few top officers?  Or by himself?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>MATTOX:  Well, he ran through four DCMs, I understand.  I should have looked up some of these names because I'm very bad at remembering names.  To the extent that he dealt with anybody, at any level, it was through his DCM.  He had staff meetings about once every two months at which he presided, with the DCM there, and a fairly large group of officers.  Everyone looked forward to it because people wondered exactly what he was going to say, what kind of verbal gaffs he might make.  Now I know it is not very nice to say these things.  But it was just an embarrassment sometimes to listen to him.</p>
-<p>One of the strange things was that movie that he had made of his presentation to Queen Elizabeth at which he made all kinds of strange remarks, and became so tongue-tied, and so embarrassed, that he talked like a jabbering idiot almost.  The strange thing was he was very proud of that film, and he showed it to audiences of embassy people every once in a while.</p>
-<p>
-<hi rend="italics">Q:  Obviously he had different standards from you.  Do you consider him to have been what you might call a working ambassador, who took an interest in the work of the embassy.  Or was he there chiefly for the social prestige, and the social events.</hi>
-</p>
-<p>MATTOX:  He was there chiefly for the prestige.  He did accomplish a couple of good things.  He made a lot of friends eventually for the embassy, and for the United States, by contributing rather heavily, I think, to certain British charities.  And he did contribute a great deal to the upkeep of Winfield House and renovations of certain aspects of Winfield House.  It had gotten rather run down sitting there in Regents Park.  But when he left and Richardson came, unfortunately he took his art collection with him.  So when Richardson, before I left, would give some big reception, it was painfully obvious that there had been paintings hanging on the walls here and there and everywhere, but there were just sort of blank, slightly faded spots around and about.</p>
-<p>He did help, though, in the sense of, if you consider this really important, he did help in the sense of putting a lot of money into Winfield House in renovations.</p>
-<p>
-<hi rend="italics">Q:  Well, thank you.  Your next assignment of course was Cairo where you were there for four very important years, from '75 through '79 when Sadat was the Egyptian leader.  I wonder if you could tell us a little bit about how you found Sadat from the point of view of his working techniques.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>MATTOX:  The working techniques that I witnessed were how he played on CODELs.  He could play them like a banjo.  He had a set piece...let me back up a little bit.  We had a great deal of Congressional interest in what was going on in Egypt, unsurprisingly.  So we had, therefore, CODELs coming in and out all the time.  Fortunately by the time they started coming in in such numbers the staff of the embassy had been expanded a good bit.  When I first went there in '75 there were only about seven people, and I was sort of the first of the added bodies that were being thrown into the place.  The AID mission built up as well shortly thereafter, too.</p>
-<p>But we had by the time I left, the last couple of years that I was there, we had an average of a Congressional visitor per day throughout the year.  We had about 360 or 370 CODELs per year.  So he would see every one of them.  He was no dummy by far.  He wouldn't say, “Oh, that's some obscure Congressman.  I don't care to see him.” He would see every one of them.  Either I would take them, or the ambassador would take them, or the political counselor would take them, or somebody.  Usually the political counselor or I, maybe one or two other officers, would do most of the trotting around with the Congressional delegations because Ambassador Eilts didn't want just anybody and everybody taking these people around.  There was too much at stake.</p>
-<p>We would go to call on Sadat, and he would be utterly affable, utterly forthcoming, utterly outgoing, and informative, sincere, articulate, and charming.  Even the most initially unbelieving Congressman would come out convinced that Sadat was a great man, and the affairs of the country were in good hands.  He was utterly convincing.  He almost always said the same thing, but it sounded fresh and new and nobody would know that unless he'd sat in on these things before.</p>
-<p>Occasionally he would change some nuance, or change some direction, or change some emphasis, at which time I would find it interesting enough to go back and dictate a telegram to the Department.</p>
-<p>
-<hi rend="italics">Q:  Give us an example.</hi>
-</p>
-<p>MATTOX:  No, I can't think of anything off hand.  It would have something to do with let's say his intentions with regard to his next contacts with Israel, or something of that sort.  Or it might have been something like a seeming change in emphasis in developmental questions.  Nothing really terribly consequential, but enough different from the last time to catch my attention.  He never looked at his watch or anything, but these briefings of the Congressmen, and the members of the U.S. Cabinet who came out, such as Secretary Blumenthal.  He would run these briefings exactly one hour, and that was that.  He would invest an hour in the Congressman, or the group of Congressmen, or the Secretary of the Treasury, whatever, and he would give them precisely an hour and no more.  With great affability he would then usher them out.</p>
-<p>
-<pb facs="0013" n="Page0013"/>
-<hi rend="italics">Q:  It might be that he earned several million dollars an hour at that rate.  I notice you were there when Secretary of State Vance visited, of course, Cairo.  Do you have any reflections on Secretary Vance and his operating methods?</hi>
-</p>
-<p>MATTOX:  I didn't have any great exposure to him in any detail but I did sit in on some meetings with him, and I did go to a formal dinner where there were about 15 or 20 people invited.  He made the kind of impression that was strong enough for me to remember it still.  I guess I always will remember it.  He didn't actually say anything, or do anything, but he emanated a sense of authority and integrity that just stayed with you.  He was a man like Bunker, I think.  Almost didn't have to say anything, almost didn't have to do anything.  But he carried with him a mantle of authority.  He carried with him a mantle of impeccable integrity.  Richardson would be another person of that sort.  And there's no way to imitate it.  There's no way to borrow from it.  There's no way to fake it.  I think it was a loss to the administration when he did resign.</p>
-<p>That brings us to Jimmy Carter who did not have that same mantle.</p>
-<p>
-<hi rend="italics">Q:  He did not?</hi>
-</p>
-<p>MATTOX:  He did not as far as I can see.  We have to say one thing though, regardless of whatever failures Jimmy Carter had in his projects, and his proposals, and his programs, etc., as long as there's a history of U.S. involvement in the Middle East it will have to show that he was eminently successful in that particular initiative, Camp David.  Camp David was his baby, he worked very hard for it.  He worked appropriately too.  He knew what he was doing, he was a quick study.  This is one instance when getting down to the level of detail that he was prone to do, worked.  Everybody knows that he tended to deal too much in detail, but it was necessary in this case.  I would see him shuttling back and forth between Tel Aviv and Cairo at the airport, and then back to Tel Aviv, back to Cairo and something would come up and he'd get on the phone and he'd talk to Menachem [Begin], and he'd straighten it out.  It might take him 30 minutes on the phone, but he'd get it straightened out.  All these people sitting around in the conference room waiting until he got that straightened out, and then he would straighten it out with Menachem, and then he would straighten it out with Anwar, and Anwar would go back to Menachem.  There wouldn't have been a Camp David if it hadn't been for him.  And the results of Camp David are still with us.</p>
-<p>
-<hi rend="italics">Q:  That's true.  Henry, the embassy must have been a pretty exciting place during the time you were there.  Can you say a little about what the general atmosphere was in the embassy, and about Ambassador Eilts?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>MATTOX:  It was an interesting time, it was a very active time, and everyone worked their tails off partly because of the nature of the issues that the embassy was facing.  But largely because of the example set by Hermann Eilts.  Eilts is clearly an example of a workaholic in the Foreign Service.  He spoke Arabic.  He had been 30 years in the Middle East at that time.  He knew Sadat well.  He had a direct line between his office and Sadat's office.  He didn't use it, but Sadat did to call him.  He worked day and night, twelve hours a day, seven days a week.  So there was sort of a sense of great urgency all the time.  There was a sense of great accomplishment as well all the time, especially after the Sadat initiative to Jerusalem.  And there was a sense as well that we had, not we necessarily, but we had presided over the defeat of the Soviets in the Middle East.  They were still there in large numbers but they had no influence.  They didn't do anything except whatever dam projects they were involved in, that sort of thing.  It was good to be on the winning side like UNC in the NCAA tournament this year.</p>
-<p>
-<hi rend="italics">Q:  Well, Henry, I think except for one question I have.  Way back in your career when you were in Paris.  I think that concludes the questions which I was thinking about.  Back when you were in Paris, which I guess was your first post really.</hi>
-</p>
-<p>MATTOX:  Yes.</p>
-<p>
-<hi rend="italics">Q:  You were there at a time which was a forced retrenchment really in France's imperial holdings.  Did the French that you came in contact with, and I realize that at that time you were a Third Secretary, seem to blame the United States appreciably for their forced withdrawals, Vietnam, Morocco, Tunisia, and so on?</hi>
-</p>
-<p>MATTOX:  When I was there they really hadn't withdrawn from Algeria yet.</p>
-<p>
-<hi rend="italics">Q:  No, I didn't mention Algeria.</hi>
-</p>
-<p>MATTOX:  No, I know, so they still had an empire.  They still had one little remnant anyway.  I don't remember any agitation against the United States.  There used to be a riot a week.  It would come right down the Champs-Elys�es, and go right by the embassy but nobody ever did anything to the American embassy.  They would go riot over against the Chamber of Deputies.  French society was split right down the middle over the question of Algeria, in the general sense that you posed, of empire.</p>
-<pb facs="0015" n="Page0015"/>
-<p>As we know, eventually the man who came to power, De Gaulle, on a promise of retaining the empire actually turned right around and shed the nation, to its vast relief, of the empire.  I guess I would have to say the number of riots that I saw there, none of which were directed against America, or the American embassy, all of that would indicate that there was no perceptible resentment of the United States in response to the question you have just raised.</p>
-<p>
-<hi rend="italics">Q:  Yes, this is very interesting.  Sometimes, I think, we presume there's a resentment against the United States when it really doesn't exist as much as you think it does.  You ended as a Foreign Service examiner.  I don't have any particular questions on that.  Do you have any comments on that final phase of your career.</hi>
-</p>
-<p>MATTOX:  In personal terms it marked the completion of a cycle because one takes the exam and goes before these people and then I had the unusual opportunity 24 years later of being on the other side of the counter.  It was fascinating, and a very difficult job to try to screen out who would make the best Foreign Service officer.  Difficult, but really very interesting.  It made me wonder how on earth I ever got in in the first place.</p>
-<p>
-<hi rend="italics">Q:  Thank you very much.  I think that concludes the interview.</hi>
-</p>
-<p>MATTOX:  Thank you, Bill.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>HENRY E. MATTOX</p>
+                <p>Interviewed by: William N. Dale </p>
+                <p>Initial interview date: April 22, 1993</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is an interview between Henry E. Mattox and William
+                        N. Dale, with the latter being the interviewer. Dr. Mattox is being
+                        interviewed at Chapel Hill, North Carolina on April 22, 1993 with respect to
+                        his Foreign Service career.</hi>
+                </p>
+                <p>I am William N. Dale, a retired Foreign Service officer living in Chapel Hill and
+                    I have the pleasure and honor of interviewing Henry Mattox about his career.</p>
+                <p>Henry I know that you're teaching now. I don't know how you looked at your
+                    teaching in comparison to your former Foreign Service career. You must have some
+                    thoughts about how the two work together giving you a broader intellectual
+                    outlook, or something of that nature. I wonder if you could tell us how you look
+                    at the two together?</p>
+                <p>MATTOX: That's an interesting question in that, yes, the experience is important.
+                    It gives you a leg up in teaching if you've been around for quite a long time.
+                    And as you know, any Foreign Service officer has a certain amount of involvement
+                    with teaching in the Foreign Service; teaching people under him, teaching local
+                    employees, teaching and trying to educate one's bosses, and that sort of thing.
+                    So you have a little bit of experience of that sort, but you have further, after
+                    25 years or whatever in the Foreign Service, you have lived long enough to be
+                    able to impart to the students not just the textbook knowledge, but you can
+                    throw in little stories, and you can throw in experiences of your own,
+                    especially if you're teaching American history as I am at North Carolina State
+                    this semester. Especially if you're teaching American history of a fairly recent
+                    date. I'm teaching at present a course called “Modern American History” which
+                    starts with the end of the Civil War. None of us go back that far, but we do go
+                    back much farther than any of these 20-year old kids. And it's helpful to be
+                    able to say, “Oh, yes, I was in Vietnam at one time.” Or, “Oh, yes, I even
+                    remember Watergate, for goodness sake.”</p>
+                <p>Teaching is different from a Foreign Service career, but they do have
+                    complementary aspects, I think. I certainly think I'm able to teach with some
+                    greater breadth of vision for having served in the Foreign Service. Greater than
+                    if I had never gone anywhere except into the classrooms for all these years
+                    since I got out of school.</p>
+                <p>
+                    <pb facs="0002" n="Page0002"/>
+                    <hi rend="italics">Q: Did you have the idea before you went in the Foreign
+                        Service that you might teach afterwards? Was the Foreign Service in some
+                        sense a preparation?</hi>
+                </p>
+                <p>MATTOX: No, not at all. It was not preparation at all, but I did have the idea
+                    that once that phase of my professional life was over I would go to teaching at
+                    the university level. In my case it would be a return to teaching because I
+                    taught briefly at Ole Miss before starting out professionally. I taught, it so
+                    happens, economics in those days. And I enjoyed it very much. But I realized
+                    then that it would involve a great deal more life preparation, and a great deal
+                    more academic preparation for me to be successful at that level. So I was
+                    fortunate enough to go off and move from that phase into a Foreign Service
+                    career, very fortunate to get into the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: Henry, I notice that you did go to Harvard for advanced
+                        training when you had already been in the Foreign Service some time. I am
+                        curious to know, in retrospect, how useful you found that in your subsequent
+                        Foreign Service work, and how important it was in your assignments after you
+                        had it?</hi>
+                </p>
+                <p>MATTOX: The training at Harvard exposed me to an area of learning that I had no
+                    knowledge of whatever, that is to say, development economics. So it laid the
+                    groundwork for a theoretical concepts and views, and approaches, that perhaps
+                    were somewhat useful in my next post. I was chosen to go to this one year of
+                    training at about the same time I was chosen to go off to Kathmandu. So the
+                    assignment to Kathmandu was delayed some 12 months or more while this was being
+                    carried out. The Foreign Service in its infinite wisdom had decided that a
+                    trained economist was needed there. I had an MA in economics already but I
+                    didn't have any exposure to development questions. Development questions clearly
+                    would have been the focus of attention at a place like Nepal. So it helped in
+                    that sense.</p>
+                <p>In detail the training at Harvard did no good whatever because once you get to
+                    the post, it's a question of reporting, it's a question of negotiating, it's a
+                    question of common sense in dealing with your own AID people, in dealing with
+                    the local government officials, and that sort of thing. You don't drag out these
+                    high-blown theories of John Mason and such people when you're sitting down to
+                    talk about things with your AID colleagues, or to talk about things with
+                    development officials in the Third World country involved. It was useful as a
+                    conceptual background.</p>
+                <p>
+                    <hi rend="italics">Q: When you were in Kathmandu, I gather from what you've
+                        said, we had an AID program of a kind.</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>MATTOX: A very large AID program. The AID program had been there longer than the
+                    embassy. It was the senior service in other words. It had the largest compound,
+                    the largest building, by far the largest budget, the largest staff, and so
+                    on.</p>
+                <p>
+                    <hi rend="italics">Q: Was it entirely of a developmental nature?</hi>
+                </p>
+                <p>MATTOX: Yes. We had nothing like the case in Latin American countries. The
+                    Servicio approach in Latin America was funding for certain bureaus within the
+                    local government—funding from American aid to directly support the activities of
+                    a given governmental organization. We didn't do that in Nepal. We used Indian
+                    rupees converted into Nepalese rupees from the surplus holdings in Delhi
+                    essentially to buy import materials for development purposes for the Nepalese
+                    government. The only dollar expenditures were those of the American technicians
+                    who were assigned there. Yes, it was almost 100% development.</p>
+                <p>
+                    <hi rend="italics">Q: Do you feel that it was successful? That it made a lasting
+                        difference?</hi>
+                </p>
+                <p>MATTOX: Despite the fact that I was there for four years, I can't really answer
+                    that because it takes a much longer time. I know one program was very
+                    unsuccessful. No, I won't say a disaster. The family planning was unsuccessful,
+                    but it was unsuccessful in connection with the unsuccessful nature of the family
+                    planning program in India, a much larger program.</p>
+                <p>One program was successful, as far as I could tell, the Peace Corps. Not strictly
+                    AID, of course. There were some AID educational programs indirectly related to
+                    development that were, I think, fairly successful.</p>
+                <p>Turning Nepal into a garden spot, and the industrial center of the Himalayas, no.
+                    None of that happened. I have not been in touch in more recent years so I don't
+                    know what's going on there. I suspect not a great deal. I suspect there's
+                    nothing a great deal different from what it was when I was there 20 years
+                    ago.</p>
+                <p>
+                    <hi rend="italics">Q: I believe you were there when Carol Laise was the
+                        ambassadress. Did she take a great interest in the developmental work of the
+                        AID program?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>MATTOX: Yes, she did. Incidentally, she went by the title Madam Ambassador. She
+                    did not like ambassadress, and as you know, she was married to Ambassador Bunker
+                    over in Vietnam. She took an interest in AID matters, but she did not involve
+                    herself directly in those things because she was a former political officer. And
+                    political officers almost by definition are not all that interested in economic
+                    questions. She had me appointed....I was Second Secretary of Embassy and
+                    Economic/Commercial officer. But she had me appointed as special assistant to
+                    the AID director also, with an office over in the AID compound. So I had two
+                    offices. I could hide in either one, it didn't matter.</p>
+                <p>I was supposed to keep tabs on what the AID program was doing and keep her
+                    informed, which I tried to do. It was relatively easy for me to do that because
+                    I had very good working relations with the two AID directors who were there
+                    during my long tenure. One was Jack Benz, and the other...unfortunately I hadn't
+                    thought that I'd have to know his name, so therefore I can't think of it...oh,
+                    Carter Ide. They were both very good officers. I lived next door to them, and I
+                    had offices near theirs at the AID compound, so we got along famously.</p>
+                <p>She was interested in such questions, but only in some broad sense.</p>
+                <p>
+                    <hi rend="italics">Q: I suppose she spent a good deal of time traveling back and
+                        forth to Vietnam at that period.</hi>
+                </p>
+                <p>MATTOX: Well, not nearly as much as I'm sure she would have liked to have done
+                    because Ambassador Bunker...a remarkable man, incidentally, really a remarkable
+                    man...Ambassador Bunker would get over to visit in Kathmandu about once a month,
+                    or once in six weeks. And then they would reverse the procedure the following
+                    month, or the following six week period. The visiting back and forth was
+                    justified as R&amp;R, which he needed of course, and the use of a military
+                    flight was justified, I guess, on the basis that when the flight came over from
+                    Vietnam, it would bring American Foreign Service people to spend a little
+                    decompression time in Kathmandu. I went once with her and it was justified on
+                    the basis that I was going on a study mission, which I did. Studying some of the
+                    economic development programs that we were conducting in South Vietnam,
+                    especially in the Delta region.</p>
+                <p>She was fairly busy even though it was a quiet post. And God knows, he was
+                    busy.</p>
+                <p>
+                    <hi rend="italics">Q: Oh, he must have been, yes. You mentioned briefly in
+                        passing your service in Latin America. I know that you have been in the
+                        Azores. I wonder if you could tell me a little bit about what that post was
+                        like, and what the United States' presence meant there?</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>MATTOX: The Azores, out in the middle of the North Atlantic, was a small consular
+                    post, overstaffed with three officers. At most there should have been two,
+                    probably one. But it was a post that we had had open for a very long time,
+                    initially because of the whaling industry. Whalers would go from the Azores to
+                    New England and get themselves naturalized one way or another, and return to the
+                    Azores and then their offspring would have sometimes rather obscure claims to
+                    American citizenship—legitimate, but obscure. So we had these people going back
+                    and forth, and then since World War II....In World War I we had a naval base. We
+                    had destroyers and such based in the Azores. World War II the same thing plus
+                    the RAF and the United States took over a Portuguese air base at some stage. I
+                    don't remember the timing exactly. So we had servicemen in the Azores from World
+                    War II, or shortly thereafter, right up until the time that I was there, and
+                    even today in 1993, I guess, at Lajes. So we had a consulate, at least an
+                    honorary consul, there for decades and decades, since 1795, I think.</p>
+                <p>When I was there we had a very able consul, named Roger Heacock, and two vice
+                    consuls, one of whom I was. Very quiet, not terribly demanding usually. We used
+                    a one-time pad, if you remember them, for sending and receiving coded stuff. It
+                    was so complicated, and so difficult, we never sent anything coded during the
+                    two years that I was there.</p>
+                <p>We issued visas to Azoreans going to the U.S. We turned down far more visas than
+                    we issued. We registered the births, and issued passports to American citizens
+                    90 miles away at the Lajes Air Force Base. It was very quiet.</p>
+                <p>
+                    <hi rend="italics">Q: I'm interested that you turned down a lot of visas from
+                        there. What kind of reasons were there for turning them down?</hi>
+                </p>
+                <p>MATTOX: Well, one, basically they had no intention of really ever returning. They
+                    were unable to overcome the presumption that they were going to the United
+                    States to work, and to stay some indefinite period of time. To a large extent
+                    they were unable to overcome the assumption that they were not tourists. So we
+                    were obliged under law, the McCarran Act of 1952, to turn such people down. And
+                    if you chickened out, and didn't turn them down, sooner or later the Department
+                    was going to get you and slap you on the wrist.</p>
+                <p>
+                    <hi rend="italics">Q: I suppose that would have been good training for your next
+                        post at Sao Paulo. And when you were in Sao Paulo, I'm interested in knowing
+                        how much support we gave to the democratic regime. I think it was a
+                        democracy during the time you were there, and it was before, I think, a
+                        number of military regimes. I wonder if you could comment a little bit on
+                        how, if at all, we supported that, or played a role there?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>MATTOX: I'm afraid I can't comment on that because I was the visa officer, the
+                    only visa officer, at a consulate general, Sao Paulo, and I was fairly far
+                    removed from the embassy. And we had such a visa workload—I was both NIV, and IV
+                    officer. I had a fairly large staff but nobody else who could sign. So I was
+                    just swamped every day. When I first went there, Juscelino Kubitschek was
+                    president. He soon left office peacefully, and the newly elected president,
+                    Janio Quadros came to office. That was a fascinating episode because Quadros was
+                    quite weirdly honest, a rather strange man. He kept threatening to
+                    resign—threatening to the military who were not technically in control. He was
+                    going to resign if such and such wasn't done. After about nine months, I can't
+                    remember whether he was in Brasilia or Rio, he threatened to resign, and the
+                    military said, OK, and bundled him up, put him in a plane, flew him down to
+                    Santos, installed him in his summer cottage, or something of that sort, and
+                    guarded him. So the vice president, with a great deal of controversy, took
+                    office. This was the next to last gasp before the military eventually did take
+                    over. The military, I don't think, took over until I was back in INR in the
+                    Department. I had left Brazil.</p>
+                <p>Later on I had a couple of friends who were junior officers in the political
+                    section in Rio, but I had no direct experience. What kind of support, what kind
+                    of contacts we had, I don't even know whether the people in Rio were in frequent
+                    contact with Quadros, or what. I do know that he was viewed as really a rather
+                    odd person because of his unaccountable honesty.</p>
+                <p>
+                    <hi rend="italics">Q: That's a very interesting point, and very well phrased.
+                        When you got back to the State Department you were in INR, I believe. Was
+                        your field of activities in connection with Latin America at that
+                        point?</hi>
+                </p>
+                <p>MATTOX: It was all Latin America. We had a rather large crew on board in INR in
+                    those days even though the biographic function had been hived off and sent
+                    across the river to the Agency. We had Civil Service and Foreign Service
+                    analysts dealing with functional questions by region, and dealing with country
+                    desk officers within the intelligence context. When I arrived from Brazil, they
+                    said, “Hah, you're in from Latin America so therefore you are from now on INR's
+                    expert on Latin American communism, Latin American student movements, Bolivia,
+                    and Peru,” neither of which country I had ever been to. So I read into the job,
+                    and over close to three years I got to where I was fairly conversant with those
+                    subjects.</p>
+                <p>INR at that time also, somewhat unusually, sent me to Latin America on two or
+                    three study tours—down through the Canal, and then down to Lima, and then up
+                    into the mountains, all by myself riding on buses and that sort of thing, into
+                    La Paz. That was a lot of fun and I learned a good bit about the countries
+                    involved. I was just about earning my pay when it came about time to be
+                    transferred, of course.</p>
+                <p>
+                    <pb facs="0007" n="Page0007"/>
+                    <hi rend="italics">Q: I guess that's all too often the case. You spoke about
+                        both Foreign Service and Civil Service people operating in INR at that time.
+                        How did they work together? I should imagine the Civil Service might have
+                        had a longer period of time in one field, and I'm not quite sure how that
+                        would work out.</hi>
+                </p>
+                <p>MATTOX: On the analyst level, the Civil Service people usually were young Ph.D.s
+                    who were getting a start, and who were aiming for academic careers. This was a
+                    good stopping off place. They would have research and writing responsibilities
+                    that would be interesting and that would look good on the CVs later on. And then
+                    they would go off to some teaching post in academia. At the upper, shall we say
+                    mid-management level, we had people who had been around donkey's years, who were
+                    deputy office directors. Some of them had been with the Department for a very
+                    long time. Some had transferred over from the Agency when there was a splitting
+                    up of certain functions. All of them that I can think of, were very able. They
+                    simply did not have the perspective that even a young FSO would have. I'm not
+                    saying that's necessarily bad, but they looked at things a little bit
+                    differently than the young FSO. And they were much more knowledgeable about
+                    in-fighting, the bureaucratic game in Washington, than any FSOs who came in from
+                    the field.</p>
+                <p>
+                    <hi rend="italics">Q: That's how they were different. That's one of the ways
+                        they were different. Were there other ways that they had a different
+                        outlook?</hi>
+                </p>
+                <p>MATTOX: They tended to be more theoretical or academic in their approach, I
+                    think, than even the young FSO who had been out in the field and had seen that
+                    things are not quite as neat and orderly as you might analyze them to be if you
+                    had been sitting in Washington all those years. That's a convoluted way of
+                    saying, I think it would have been helpful if we'd had Civil Servants who had
+                    more experience abroad, and FSOs who had more experience back in Washington. Now
+                    this latter point may have been resolved in more recent years because, as I
+                    understand it, FSOs spend a great deal of time back in Washington nowadays, the
+                    last 20 years or so. I never did. I spent almost all of my time abroad.</p>
+                <p>
+                    <hi rend="italics">Q: Well, that's very interesting. After being in Kathmandu,
+                        you went on to Port-au-Prince, I believe. I was wondering when you were
+                        there, Jean-Claude Duvalier was the ruler, president at that time I gather.
+                        How did the United States government react to the way that his succession
+                        was handled? Or what did you hear about that?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>MATTOX: I was there when the old man died, and Jean-Claude, Baby Doc, as he was
+                    called abroad but not in that country, of course, took over with the backing of
+                    his mother and of the military at the time. Otherwise he would not have been
+                    able to do anything. Papa Doc Duvalier, while I was there from '70 to '73, I
+                    guess it was—Papa Doc ruled in a benign fashion because all of his opposition
+                    had been killed off. So life was rather pleasant, and rather unruffled. There
+                    were no roundups, there were no public executions as had been the practice for
+                    quite some time. People would disappear but no American citizens were involved
+                    so we were not directly involved. When he died, rather unexpectedly—well, he was
+                    sick for a day or two, or a week or something like that, and he designated
+                    Jean-Claude as his successor. We all thought this could not actually be
+                    happening: The boy is 19 years old. The old man is out of his mind, or either
+                    this has been faked, or something or other. So Jean-Claude came to power. The
+                    old man died. I went through the enormous crowds there at the palace to view the
+                    remains lying in state. I wanted to do this, facetiously I should say, I wanted
+                    to do this to make sure he was dead. And he was, Jean-Claude took over with the
+                    embassy predicting seriously that he would not last more than six months. He
+                    turned out to be a lot more astute than we thought, even so young. And he was
+                    utterly ruthless too; well, at least he gave that appearance because at public
+                    events often he carried a great big automatic pistol in his hand, hanging down
+                    by the side of his trousers. He turned out to have a lot of his father's genes.
+                    He isolated his mother. He didn't ever exile her or anything, but he isolated
+                    her completely. He had some of the military people who might have been rivals
+                    exiled, sent off to Miami which was sort of the Devil's Island for Haitians in
+                    those days, unless they were exiles with a lot of money. And he lasted, as we
+                    all know, for a very long time.</p>
+                <p>Nothing changed for the majority of Haitians, and nothing could really be
+                    expected to change. Jean-Claude turned out to be just as astute as his father,
+                    and maybe even more so, in stripping the treasury, and building up his Swiss
+                    bank accounts.</p>
+                <p>I met him several times, but he never said a word. He appeared to be really quite
+                    dumb, but he wasn't.</p>
+                <p>
+                    <hi rend="italics">Q: Perhaps his sign of intelligence was to keep still
+                        sometimes. Was it apparent then that Haiti would become the economic basket
+                        case it is now? Or were things rather better managed?</hi>
+                </p>
+                <p>MATTOX: No, things were very bad then, though they may perhaps have gotten
+                    marginally worse since then. We had a very small aid program at that time
+                    because Papa Doc Duvalier was in disfavor. It was administered by me and the
+                    economic section until about—I'd been there about a year and a half—until AID
+                    sent out an AID officer, and we worked jointly. He became a very close friend
+                    with whom I still correspond. But it was only about total $3 million a year,
+                    something like that, or less, I can't remember.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>The place was a basket case then. One of the best programs designed to alleviate
+                    problems and suffering were those administered by the relief agencies, the
+                    voluntary relief agencies like Catholic Relief. These were funded directly by
+                    the AID program which thereby indirectly funded certain activities.</p>
+                <p>
+                    <hi rend="italics">Q: This is beyond the $3 million?</hi>
+                </p>
+                <p>MATTOX: No, included. It permitted the U.S. government on a very limited scale to
+                    fund certain things such as rural health, not developmental projects. There were
+                    no road improvements going on at that time. The IBRD would not touch the place.
+                    We marveled, as I started to say earlier, at the way that 150 years previously
+                    Haiti had been one of the wealthiest countries in the world with its sugar
+                    production and its shipping. In fact it was a shipping stop off point. One of
+                    the busiest ports in the world around 1800, other than I guess London, was a
+                    place called M�le St. Nicolas up in the northwest corner of the country. By the
+                    time I was there, the country was importing sugar. It was on our sugar quota and
+                    we were pushing sugar on them, selling sugar. The country produced some of the
+                    finest coffee in the world, but not enough really for any significant export
+                    earning. It was a basket case. It's a worse basket case now perhaps.</p>
+                <p>
+                    <hi rend="italics">Q: I believe you went on to London from there.</hi>
+                </p>
+                <p>MATTOX: London was very enjoyable. I went there as one of the commercial
+                    officers. We had an office setup in London, a rather large commercial section,
+                    with FSOs named to handle certain industrial areas. I happened to have
+                    high-tech, I don't know why exactly, all of the computer industries, and the
+                    computer products, and the nuclear energy, and aviation, and things like that.
+                    That was fun. It was not terribly significant. The ambassador during part of the
+                    time I was there was Walter Annenberg. And toward the end of my tour of two
+                    years, Elliot Richardson came in as ambassador.</p>
+                <p>Therein lay a tale. Apparently at that time I looked like the long-lost twin
+                    brother of Elliot Richardson. I'm not sure that we even look anything alike now
+                    at all, but at that time apparently so. I had Marines constantly saluting me. It
+                    took me quite a while to figure out what it was all about. Out there in
+                    Grosvenor Square when I would come back from lunch, I had herds of tourists
+                    pointing at me and whispering. It took me a while to figure out what that was.
+                    Eventually the Marines got used to the fact that I was not Richardson.</p>
+                <p>All I did—we pushed exports. We didn't push investment, of course, but exports.
+                    The last year that I was there—and this may be coincidental, I don't know—in
+                    1975 was the last year that the United States had an export surplus on
+                    merchandise account.</p>
+                <p>
+                    <pb facs="0010" n="Page0010"/>
+                    <hi rend="italics">Q: I'm sure its a tribute to you.</hi>
+                </p>
+                <p>MATTOX: I'd say it might be coincidental.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have the impression at that time that England was
+                        making real progress in its technological industries?</hi>
+                </p>
+                <p>MATTOX: I had the impression then that the English were very good, as we've known
+                    for a long time, at innovation but rather poor at implementation of their
+                    technology. We had a long controversy, an almost polite kind of battle over the
+                    technology that would be used in England's future nuclear energy program. It was
+                    a U.S. versus a British technology. A U.S. development versus a British
+                    development. One was called something or other...I shouldn't have said that
+                    because I can't remember the names of the technology now. But we did our best in
+                    the embassy to get the British to adopt, at a lesser cost, the American
+                    technology through Westinghouse and GE, and people of that sort. We were really
+                    pushing, and the Senate would have been proud...Senator what's his name, from
+                    Delaware would have been pleased if he had known how hard we were pushing.</p>
+                <p>But at the last moment it was, of course, as you might have predicted, a
+                    political decision, and the British adopted the British technology. Eventually
+                    it cost them a great deal more money and I'm not sure how successful it was. But
+                    there you are. It just reminded me of the British development of the jet
+                    aviation, the plane, the DeHavilland, that flew first across the Atlantic and
+                    then disappeared from sight, and never was developed. The U.S. developed the
+                    technology for jet airliners.</p>
+                <p>
+                    <hi rend="italics">Q: Henry, when you were there, and you had Ambassador
+                        Annenberg, did he know the names of officers in the embassy, say at your
+                        level?</hi>
+                </p>
+                <p>MATTOX: Oh, no, no.</p>
+                <p>
+                    <hi rend="italics">Q: How did he operate in that sense? With a few top officers?
+                        Or by himself?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>MATTOX: Well, he ran through four DCMs, I understand. I should have looked up
+                    some of these names because I'm very bad at remembering names. To the extent
+                    that he dealt with anybody, at any level, it was through his DCM. He had staff
+                    meetings about once every two months at which he presided, with the DCM there,
+                    and a fairly large group of officers. Everyone looked forward to it because
+                    people wondered exactly what he was going to say, what kind of verbal gaffs he
+                    might make. Now I know it is not very nice to say these things. But it was just
+                    an embarrassment sometimes to listen to him.</p>
+                <p>One of the strange things was that movie that he had made of his presentation to
+                    Queen Elizabeth at which he made all kinds of strange remarks, and became so
+                    tongue-tied, and so embarrassed, that he talked like a jabbering idiot almost.
+                    The strange thing was he was very proud of that film, and he showed it to
+                    audiences of embassy people every once in a while.</p>
+                <p>
+                    <hi rend="italics">Q: Obviously he had different standards from you. Do you
+                        consider him to have been what you might call a working ambassador, who took
+                        an interest in the work of the embassy. Or was he there chiefly for the
+                        social prestige, and the social events.</hi>
+                </p>
+                <p>MATTOX: He was there chiefly for the prestige. He did accomplish a couple of good
+                    things. He made a lot of friends eventually for the embassy, and for the United
+                    States, by contributing rather heavily, I think, to certain British charities.
+                    And he did contribute a great deal to the upkeep of Winfield House and
+                    renovations of certain aspects of Winfield House. It had gotten rather run down
+                    sitting there in Regents Park. But when he left and Richardson came,
+                    unfortunately he took his art collection with him. So when Richardson, before I
+                    left, would give some big reception, it was painfully obvious that there had
+                    been paintings hanging on the walls here and there and everywhere, but there
+                    were just sort of blank, slightly faded spots around and about.</p>
+                <p>He did help, though, in the sense of, if you consider this really important, he
+                    did help in the sense of putting a lot of money into Winfield House in
+                    renovations.</p>
+                <p>
+                    <hi rend="italics">Q: Well, thank you. Your next assignment of course was Cairo
+                        where you were there for four very important years, from '75 through '79
+                        when Sadat was the Egyptian leader. I wonder if you could tell us a little
+                        bit about how you found Sadat from the point of view of his working
+                        techniques.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>MATTOX: The working techniques that I witnessed were how he played on CODELs. He
+                    could play them like a banjo. He had a set piece...let me back up a little bit.
+                    We had a great deal of Congressional interest in what was going on in Egypt,
+                    unsurprisingly. So we had, therefore, CODELs coming in and out all the time.
+                    Fortunately by the time they started coming in in such numbers the staff of the
+                    embassy had been expanded a good bit. When I first went there in '75 there were
+                    only about seven people, and I was sort of the first of the added bodies that
+                    were being thrown into the place. The AID mission built up as well shortly
+                    thereafter, too.</p>
+                <p>But we had by the time I left, the last couple of years that I was there, we had
+                    an average of a Congressional visitor per day throughout the year. We had about
+                    360 or 370 CODELs per year. So he would see every one of them. He was no dummy
+                    by far. He wouldn't say, “Oh, that's some obscure Congressman. I don't care to
+                    see him.” He would see every one of them. Either I would take them, or the
+                    ambassador would take them, or the political counselor would take them, or
+                    somebody. Usually the political counselor or I, maybe one or two other officers,
+                    would do most of the trotting around with the Congressional delegations because
+                    Ambassador Eilts didn't want just anybody and everybody taking these people
+                    around. There was too much at stake.</p>
+                <p>We would go to call on Sadat, and he would be utterly affable, utterly
+                    forthcoming, utterly outgoing, and informative, sincere, articulate, and
+                    charming. Even the most initially unbelieving Congressman would come out
+                    convinced that Sadat was a great man, and the affairs of the country were in
+                    good hands. He was utterly convincing. He almost always said the same thing, but
+                    it sounded fresh and new and nobody would know that unless he'd sat in on these
+                    things before.</p>
+                <p>Occasionally he would change some nuance, or change some direction, or change
+                    some emphasis, at which time I would find it interesting enough to go back and
+                    dictate a telegram to the Department.</p>
+                <p>
+                    <hi rend="italics">Q: Give us an example.</hi>
+                </p>
+                <p>MATTOX: No, I can't think of anything off hand. It would have something to do
+                    with let's say his intentions with regard to his next contacts with Israel, or
+                    something of that sort. Or it might have been something like a seeming change in
+                    emphasis in developmental questions. Nothing really terribly consequential, but
+                    enough different from the last time to catch my attention. He never looked at
+                    his watch or anything, but these briefings of the Congressmen, and the members
+                    of the U.S. Cabinet who came out, such as Secretary Blumenthal. He would run
+                    these briefings exactly one hour, and that was that. He would invest an hour in
+                    the Congressman, or the group of Congressmen, or the Secretary of the Treasury,
+                    whatever, and he would give them precisely an hour and no more. With great
+                    affability he would then usher them out.</p>
+                <p>
+                    <pb facs="0013" n="Page0013"/>
+                    <hi rend="italics">Q: It might be that he earned several million dollars an hour
+                        at that rate. I notice you were there when Secretary of State Vance visited,
+                        of course, Cairo. Do you have any reflections on Secretary Vance and his
+                        operating methods?</hi>
+                </p>
+                <p>MATTOX: I didn't have any great exposure to him in any detail but I did sit in on
+                    some meetings with him, and I did go to a formal dinner where there were about
+                    15 or 20 people invited. He made the kind of impression that was strong enough
+                    for me to remember it still. I guess I always will remember it. He didn't
+                    actually say anything, or do anything, but he emanated a sense of authority and
+                    integrity that just stayed with you. He was a man like Bunker, I think. Almost
+                    didn't have to say anything, almost didn't have to do anything. But he carried
+                    with him a mantle of authority. He carried with him a mantle of impeccable
+                    integrity. Richardson would be another person of that sort. And there's no way
+                    to imitate it. There's no way to borrow from it. There's no way to fake it. I
+                    think it was a loss to the administration when he did resign.</p>
+                <p>That brings us to Jimmy Carter who did not have that same mantle.</p>
+                <p>
+                    <hi rend="italics">Q: He did not?</hi>
+                </p>
+                <p>MATTOX: He did not as far as I can see. We have to say one thing though,
+                    regardless of whatever failures Jimmy Carter had in his projects, and his
+                    proposals, and his programs, etc., as long as there's a history of U.S.
+                    involvement in the Middle East it will have to show that he was eminently
+                    successful in that particular initiative, Camp David. Camp David was his baby,
+                    he worked very hard for it. He worked appropriately too. He knew what he was
+                    doing, he was a quick study. This is one instance when getting down to the level
+                    of detail that he was prone to do, worked. Everybody knows that he tended to
+                    deal too much in detail, but it was necessary in this case. I would see him
+                    shuttling back and forth between Tel Aviv and Cairo at the airport, and then
+                    back to Tel Aviv, back to Cairo and something would come up and he'd get on the
+                    phone and he'd talk to Menachem [Begin], and he'd straighten it out. It might
+                    take him 30 minutes on the phone, but he'd get it straightened out. All these
+                    people sitting around in the conference room waiting until he got that
+                    straightened out, and then he would straighten it out with Menachem, and then he
+                    would straighten it out with Anwar, and Anwar would go back to Menachem. There
+                    wouldn't have been a Camp David if it hadn't been for him. And the results of
+                    Camp David are still with us.</p>
+                <p>
+                    <hi rend="italics">Q: That's true. Henry, the embassy must have been a pretty
+                        exciting place during the time you were there. Can you say a little about
+                        what the general atmosphere was in the embassy, and about Ambassador
+                        Eilts?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>MATTOX: It was an interesting time, it was a very active time, and everyone
+                    worked their tails off partly because of the nature of the issues that the
+                    embassy was facing. But largely because of the example set by Hermann Eilts.
+                    Eilts is clearly an example of a workaholic in the Foreign Service. He spoke
+                    Arabic. He had been 30 years in the Middle East at that time. He knew Sadat
+                    well. He had a direct line between his office and Sadat's office. He didn't use
+                    it, but Sadat did to call him. He worked day and night, twelve hours a day,
+                    seven days a week. So there was sort of a sense of great urgency all the time.
+                    There was a sense of great accomplishment as well all the time, especially after
+                    the Sadat initiative to Jerusalem. And there was a sense as well that we had,
+                    not we necessarily, but we had presided over the defeat of the Soviets in the
+                    Middle East. They were still there in large numbers but they had no influence.
+                    They didn't do anything except whatever dam projects they were involved in, that
+                    sort of thing. It was good to be on the winning side like UNC in the NCAA
+                    tournament this year.</p>
+                <p>
+                    <hi rend="italics">Q: Well, Henry, I think except for one question I have. Way
+                        back in your career when you were in Paris. I think that concludes the
+                        questions which I was thinking about. Back when you were in Paris, which I
+                        guess was your first post really.</hi>
+                </p>
+                <p>MATTOX: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: You were there at a time which was a forced retrenchment
+                        really in France's imperial holdings. Did the French that you came in
+                        contact with, and I realize that at that time you were a Third Secretary,
+                        seem to blame the United States appreciably for their forced withdrawals,
+                        Vietnam, Morocco, Tunisia, and so on?</hi>
+                </p>
+                <p>MATTOX: When I was there they really hadn't withdrawn from Algeria yet.</p>
+                <p>
+                    <hi rend="italics">Q: No, I didn't mention Algeria.</hi>
+                </p>
+                <p>MATTOX: No, I know, so they still had an empire. They still had one little
+                    remnant anyway. I don't remember any agitation against the United States. There
+                    used to be a riot a week. It would come right down the Champs-Elys�es, and go
+                    right by the embassy but nobody ever did anything to the American embassy. They
+                    would go riot over against the Chamber of Deputies. French society was split
+                    right down the middle over the question of Algeria, in the general sense that
+                    you posed, of empire.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>As we know, eventually the man who came to power, De Gaulle, on a promise of
+                    retaining the empire actually turned right around and shed the nation, to its
+                    vast relief, of the empire. I guess I would have to say the number of riots that
+                    I saw there, none of which were directed against America, or the American
+                    embassy, all of that would indicate that there was no perceptible resentment of
+                    the United States in response to the question you have just raised.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, this is very interesting. Sometimes, I think, we
+                        presume there's a resentment against the United States when it really
+                        doesn't exist as much as you think it does. You ended as a Foreign Service
+                        examiner. I don't have any particular questions on that. Do you have any
+                        comments on that final phase of your career.</hi>
+                </p>
+                <p>MATTOX: In personal terms it marked the completion of a cycle because one takes
+                    the exam and goes before these people and then I had the unusual opportunity 24
+                    years later of being on the other side of the counter. It was fascinating, and a
+                    very difficult job to try to screen out who would make the best Foreign Service
+                    officer. Difficult, but really very interesting. It made me wonder how on earth
+                    I ever got in in the first place.</p>
+                <p>
+                    <hi rend="italics">Q: Thank you very much. I think that concludes the
+                        interview.</hi>
+                </p>
+                <p>MATTOX: Thank you, Bill.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

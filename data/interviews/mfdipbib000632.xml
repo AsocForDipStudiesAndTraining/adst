@@ -1,267 +1,731 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000632">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Eugene Kopp </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Eugene Kopp </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project Information Series</p>
-<p>EUGENE KOPP</p>
-<p>Interviewed by:  Tom Tuch </p>
-<p>Initial interview date:  March 7, 1988</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  This is Tom Tuch interviewing Eugene Kopp, former Deputy Director of USIA in his office in downtown Washington, today on March 7, 1988.</hi>
-</p>
-<p>KOPP:  Tom.</p>
-<p>
-<hi rend="italics">Q:  Nice to see you.</hi>
-</p>
-<p>KOPP:  Thank you very much.</p>
-<p>Coming to USIA</p>
-<p>
-<hi rend="italics">Q:  Let's start by talking about your coming into a foreign affairs agency, USIA, from life as a lawyer, during the Nixon Administration.  How did you decide that you wanted to work in USIA as a political appointee at that time?</hi>
-</p>
-<p>KOPP:  Well, let me back up Tom:  After I got out of law school in 1961 I served a year as law clerk for a federal judge, I then went to the Department of Justice in 1962 as a trial attorney.  And by 1968 I felt that I probably ought to be thinking about something else to do because I didn't think I wanted to say at Justice for a full career.</p>
-<p>At that time, a very close friend of mine who had been a close friend and colleague since undergraduate days at Notre Dame, Richard Allen was serving as the Director ..of Foreign Policy Research for the Nixon campaign.  Dick contacted me in the summer of '68 and asked what I was thinking about doing.  I told him I was thinking about leaving the Department.  He suggested that if they won the election in November there might be something interesting to do as part of the Administration.</p>
-<pb facs="0002" n="Page0002"/>
-<p>So I decided to wait and see what happened.  you may remember that Dick [Richard Allen] was Henry Kissinger's first deputy at the National Security Council.  And from that position in '69 he was influential in putting me in touch with Frank Shakespeare.  The net of it was that in July of '69 I left the Department of Justice to come into USIA as Deputy General Counsel and Congressional Liaison.  Charley Ablard was then General Counsel.  And that's how I started with USIA.  And I served in that job until July of '72.</p>
-<p>
-<hi rend="italics">Q:  As Deputy?</hi>
-</p>
-<p>Promotion to USIA Assistant Director, Administration</p>
-<p>KOPP:  As Deputy General Counsel.  And then in July of '72 Ben Posner, who had been the Assistant Director for Administration, decided to retire.  So Frank asked me to be Assistant Director for Administration replacing Ben Posner.  Right after I agreed to do that, Charley Ablard left the Agency to go to the Department of Justice.  So for the period of July '72 to December '72, I really covered two jobs.  I was Assistant Director for Administration and Acting General Counsel and Congressional Liaison.</p>
-<p>Then in December of '72 the White House sent us a new General Counsel, a young fellow named Gordon Strachan who had been working at the White House for Bob Haldeman.  I remained as Assistant Director for Administration.  Then Frank left, I think, sometime late in December and Jim Keogh was named Director.</p>
-<p>Problems Created by Shakespeare's Operating Policies</p>
-<p>
-<hi rend="italics">Q:  Before Frank leaves the Agency, tell me about your relationship with Frank.  How did it go?  I mean, Frank was a very active USIA Director.  He was a very opinionated, a very strong personality in running USIA.  Yet, he had his major differences, for instance, with the Secretary of State at the time.  How did this work itself out in your relationship with Frank?</hi>
-</p>
-<p>KOPP:  Well, I was concerned about two aspects of Frank's approach to the Office, which concern I later expressed to Jim Keogh because they represented the two most serious internal problems that Keogh was inheriting.  It is true that Frank was a very active and vocal and high profile Director of USIA.  One of my concerns was that his activity got over into the policymaking area, far beyond the mandate or charter of USIA.  But there was nothing that I could do very much to dissuade Frank from what he intended to do.</p>
-<p>
-<hi rend="italics">Q:  Nobody could.</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>Policy Differences; Strains Between USIA and Department of State</p>
-<p>KOPP:  Yeah, Frank had certain views about administration policy in the East-West relationship.  As a very strong and articulate conservative, he was just bound and determined that he was going to articulate those views.  Now that activity and high profile over a period of time started to create a very serious strain in the relationships between USIA and the Department of State and it affected communications and coordination and cooperation.  But there was nothing that I or anybody else that I knew could do to get Frank off that course.  But I would also say that at all times the relationship was very cordial and friendly even though on occasion we disagreed about what he ought to be doing and how he ought to be doing it.  You may recall in a similar vein but on a lower level, Frank created a great stir about how officers were going to be promoted at USIA.  He thought that the selection panel system and the rank order system were offensive to management.  And he directed that our personnel office prepare an alphabetical listing of officers who had been recommended for promotion so he could pick and choose rather than go in rank order.  And that created a heck of a dispute with the American Foreign Service Association and the Department of State.  In any event, Frank was a unique and intelligent and articulate individual.  But his whole style and approach to the office created a great deal of problems for us.</p>
-<p>Vis a Vis Soviet Union/Detente</p>
-<p>
-<hi rend="italics">Q:  I agree.  This is really a rather interesting phenomenon because you had Frank Shakespeare as the head of USIA.  And, of course, you had Bill Rogers as the Secretary of State.  And the issue was the tone policy of the Nixon Administration vis-a-vis the Soviet Union.</hi>
-</p>
-<p>On the other hand, you also had a terribly strong national security advisor in Henry Kissinger during that time.  And to me it's always been a question why did the White House or the National Security Council let Frank Shakespeare get away with his really completely divergent policy interests vis-a-vis the Soviet Union.  He did not believe in detente.</p>
-<p>KOPP:  No, he didn't.  He didn't trust the Soviets and for very good reasons which I thought were valid then and, not so incidentally, I think are valid now.  I agreed with Frank.  But USIA wasn't making the policy—we either had to support it or resign and then be critical.  I viewed detente as nothing more than a tactical stance the Administration was taking to adjust to short term realities, not a long term policy shift into naivete—about the communists.</p>
-<p>But Frank often said, well, if the President doesn't like what I'm doing, he can call me, and I'll be out.  And, of course, that never happened.  But what did happen was that the NSC and the State Department simply got into a practice of ignoring Frank.  And, unfortunately, in some respects ignoring the Agency.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  Did that work to the detriment?</hi>
-</p>
-<p>Distrust of Foreign Service</p>
-<p>KOPP:  Yes, it did.  When Keogh came in, he naturally started talking to me about budget matters and other things.  And I remember in one of the early conversations, he asked me what do you think are the one or two major problems I'm inheriting?  And I told him part of Frank's approach had been on the predicate that the career foreign service was not reliable.  In the East-West dialogue, Frank felt that career foreign service officers just weren't tough enough about the Soviets.  So, he had another personnel policy that no officer could expect to rise to the senior ranks without having served a tour in the Soviet Union or Eastern Europe.  Frank's approach here was that career officers who tended to be a little bit hopeful and optimistic about the Soviets needed to actually live and breathe and smell and see—those would be Frank's words—that society to understand how dangerous tough they were as adversaries.</p>
-<p>USIA Geographic Offices Subordinated to Media Offices</p>
-<p>In any event, Frank's lack of regard for the career foreign service was reflected in his decision to put the media in the hands of political appointees and shift substantial amounts of resources from the control of the area offices to the media offices to produce the hard kind of media product that Frank thought was necessary to be tough in the East-West situation.  I told Keogh the net result was that we had an agency where the media was operating under one set of principles, the area offices, mainly directed by the career service, were operating under another set of attitudes and that we had the potential for a major problem on our hands, particularly in front of Congress.  I said I'm afraid you're going to find that there are a lot of media products that are being produced that can't be used in the field because they are not consistent with U.S. government policy.</p>
-<p>And so I said the first problem the new Director had to address was getting the entire Agency, both the career officers and the political appointees, working together rather than at sword's point.  And I said as a supplement to this point we needed to work very hard to repair the image of the Agency and its Director as a maverick in the foreign affairs community and to re-establish contacts at all levels at the Department and at the NSC.</p>
-<p>I don't remember where you were, this was in early '73, Tom, after the Director had asked me to be his Deputy.</p>
-<p>
-<hi rend="italics">Q:  I was in Brazil.</hi>
-</p>
-<p>Kopp Becomes USIA Deputy Director</p>
-<pb facs="0005" n="Page0005"/>
-<p>KOPP:  You were in Brazil.  Well, much to my astonishment and my delight, he asked me to be his Deputy.  And the White House approved that and I was confirmed by the Senate.</p>
-<p>Keogh Corrects Policies</p>
-<p>Then the question came up, and this will give you an idea of the fine touch and sensitivity Keogh had, of when should I be sworn in.  Keogh thought that it might be a nice touch, as part of this effort to re-establish that we were going to be working with the Department rather than at odds with the Department, if Secretary Rogers could come over to USIA and preside at my swearing in.</p>
-<p>It just happened to be a happy coincidence that Bill Roger's son and Jim Keogh's son had been classmates at the Harvard Law School.  So the Keoghs knew the Rogers pretty well.  Jim said it might involve a delay in my getting sworn in because we have to accommodate the Secretary's schedule.  But that suited me fine.</p>
-<p>So in due course I recall a very happy occasion when the Secretary came over.  We had all of the senior officers of the Agency there.  We had a very nice swearing in ceremony.  Both the Director and the Secretary made very appropriate remarks about how we were looking to the future and close working relationships.  The Secretary stayed around to meet all the senior officers in the Agency.  And that was just one example of a number of efforts that Keogh made, and I think very successfully, to address what I told him was one of the two biggest problems that he was inheriting.</p>
-<p>
-<hi rend="italics">Q:  And, of course, the other problem really disappeared with Shakespeare because you had a new personnel administration and no interference in the career selection system.</hi>
-</p>
-<p>KOPP:  Right.  That, plus Keogh made some changes in the media.  He brought in Bob Scott as Assistant Director for Motion Pictures and Television.  We had very candid discussions with Bob about what had been the problem before.  And Bob turned out to be just right for that job.  And the other thing that helped address the problem was that Keogh was very much a hands on manager which a lot of people found hard to believe at first.  Jim insisted on seeing media products.</p>
-<p>
-<hi rend="italics">Q:  Being a media man.</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>KOPP:  Right.  While they were being developed.  And the motion picture and television service had never had a Director go to screenings of raw footage before it was put together in final and couldn't be changed.  But Keogh insisted on it.  And we worked nights and we worked weekends.</p>
-<p>
-<hi rend="italics">Q:  Ed Murrow used to do that.</hi>
-</p>
-<p>KOPP:  Well, I didn't know that.  And the other thing Keogh was hands on about personnel.  So he and I would sit down once a week, twice a week, whatever was appropriate with Mose, Lionel Mosley who was then the Assistant Director for Personnel.  And we'd go over proposed assignments for PAOs, even deputy PAOs and CAOs in the field as well as the senior levels and the deputy levels in the agency.  So Jim was very much hands on and the officers understood that and reacted positively to it.  I have often said when I look back on it, one satisfying thing was that the first problem I had identified for Keogh as a major problem, tension within the Agency and between the Agency and the State Department and the NSC, had for all significant respects been alleviated by the time he left.</p>
-<p>New General Counsel Gordon Strachan as a Problem</p>
-<p>The other problem that he was inheriting was the gentleman who had been sent over as our General Counsel and Congressional Liaison, Gordon Strachan.  Even in those early months before we knew how serious Watergate was, Strachan's name had been mentioned in connection with some questionable practices, in connection with the 1972 campaign.  And even if there had been nothing illegal about what he had done, and at that time we didn't know whether there was anything illegal about what he had done, we still had a problem with our General Counsel and our chief Congressional guy being identified with so-called “dirty tricks” in a political campaign that had just been concluded in '72.  As we later learned, however, the problems with Strachan were much more serious.</p>
-<p>But we did have in the period from the time Jim got there until the end of April of '73, when you may recall things were really getting serious with the Watergate matter, we did have a problem of having Gordon Strachan around and being the subject of media and Congressional attention and criticism.  That problem was eliminated as far as the Agency was concerned when Strachan resigned the same day that Haldeman and Ehrlichman resigned from the White House, which I think was April 30, 1973.</p>
-<p>
-<hi rend="italics">Q:  Strachan was succeeded by Ed Hidalgo(?).  Is that correct?</hi>
-</p>
-<p>KOPP:  I think that's right.  There may have been some vacancy.  But I don't think we had anybody else in there.  We brought in Ed.</p>
-<pb facs="0007" n="Page0007"/>
-<p>Problems Confronting Keogh's Explaining Watergate,Vietnam &amp; Congressional Relations</p>
-<p>
-<hi rend="italics">Q:  Tell me about the Keogh Administration, the four years when Jim Keogh between early '73 and the election of Jimmy Carter when he was the Director of USIA.  What do you think were his main accomplishments or his main problems while he was Director of the Agency?  He was there during Watergate.</hi>
-</p>
-<p>KOPP:  Exactly right.  I'll mention three serious outside problems the Agency had during that period.  One related to Congress and the other two related to issues.  One was Watergate.  How do you explain to foreign audiences what was going on with Watergate?  How much coverage did the Agency give to Watergate when, in its early stages, it was a lot of innuendo and unnamed sources and a lot of speculation and very little in the way of facts?  And beyond that, how do you explain to foreign audiences what on earth was going on in this process whereby a chief executive, a President who was viewed as a very strong leader by foreign audiences, was from their point of view being savaged for reasons that they had great difficulty understanding?</p>
-<p>Then the second major outside problem we had, of course, was Vietnam.  The wind down in Vietnam and then the ultimate collapse of the ARVN and how we played that story as we were trying to get Americans who were still on the ground out of there.  So I would say those two matters were the most prominent outside problems we had.</p>
-<p>As far as relations with Congress, we had for the most part during Keogh's tenure very excellent relationships with the appropriating and authorizing committees of the Congress, with the exception of one monumental problem involving the Chairman of the House Foreign Affairs Subcommittee that controlled authorizations for USIA and State.  And, of course, I'm referring to Congressman Wayne Hayes.  Very early in 1973, Congressman Hayes served notice on us.  And since I don't know who's going to be listening to this tape I will not tell you the exact language used since it may be a family audience.  But he had a friend, in this case not a female, who had been a Congressman from New York who had been defeated.  And he called the Agency and demanded that we give this former Congressman a job.</p>
-<p>As we looked into the matter, it became quite clear that, given the positions that this former Congressman had taken on issues when he served in the Congress, that he was exactly the wrong kind of person to be a senior officer in the Nixon Administration.  And we decided we had no choice but to resist the appointment.  And that brought down the full weight of Wayne Hayes' wrath upon Keogh and me and the Agency.</p>
-<pb facs="0008" n="Page0008"/>
-<p>What always frustrated me was that we could never get much protection or support from our friends on the Hill for what was clearly an outrageous case of a Chairman's excessiveness.  But we couldn't.  And that was a major problem for us until Wayne Hayes got into his own problems with Elizabeth Ray.  And that was the end of Wayne Hayes.  Not a tear was shed as he left in disgrace.</p>
-<p>Keogh's Accomplishments</p>
-<p>
-<hi rend="italics">Q:  That was in 1974, '75?</hi>
-</p>
-<p>KOPP:  The Elizabeth Ray thing?  I don't remember.  But it was while I was Deputy Director.  But outside of that, our relationships with the House and Senate appropriating committees and the Senate Foreign Relations Committee were much improved over the relationships of the earlier four years.</p>
-<p>Jim, as you know, came from the print media.  He spent a lot of time on the Agency's magazine, publication programs, and I believe reduced the number but improved the quality very noticeably of Agency publications.  And, as I've mentioned earlier, he moved in very skillful ways to alleviate this problem of communications and coordination, i.e., to make it clear that USIA was not a policymaking agency in the foreign affairs community and that we intended to support the administration's policy and if it ever became a moral or philosophical problem for any officer in the Agency that they couldn't support detente then the remedy was to resign and not to be a second Department of State.</p>
-<p>Agency Difficulties; Watergate</p>
-<p>
-<hi rend="italics">Q:  You mentioned the two major issues that obviously USIA, as the whole nation was involved in, Watergate and Vietnam.  Did you get much flak from either Congress or anyone else certainly from within the Administration on how we were handling this, for instance, on the Voice of America?</hi>
-</p>
-<p>KOPP:  We never got any flak from inside the Administration.  In the early stages of Watergate and let's think back now, Nixon wins the election big in '72 and really through the end of '72, nobody has any idea that this is going to be anything other than—who called it a second or a third rate burglary?  So we start getting into 1973 and here are Woodward and Bernstein publishing practically everyday in the Washington Post.  And they obviously have a source.  The source was identified as Deep Throat.  They obviously have a source, but they don't identify that source.  And they're publishing some facts that can be documented.  But they're publishing an awful lot of stuff that appeared to be speculation and innuendo.</p>
-<pb facs="0009" n="Page0009"/>
-<p>Now, the commercial media at that time, they were running with all this stuff, repeating it and it was on TV and on radio day after day.  And the question came up, how should the Agency handle this?  And particularly, how should the VOA handle it?  Should the VOA simply mimic CBS and NBC and ABC?  And the Director decided that our reporting ought to be limited to the facts that could be established.  And we took some flak about that from people on the Hill and from people in the commercial media.  The allegations were that it was censorship, to protect the Administration.  But Keogh's view was, look, we ought to report the facts of what's going on to overseas audiences, but not engage in speculation.</p>
-<p>Later in 1973 the Watergate hearings started at the Capitol.  Now, the Voice could report:  today you had hearings and this witness was there and this witness said that.  Now, we permitted that kind of thing.  But Keogh's guidance during that difficult period was instead of wallowing around in all of this speculation and innuendo from unidentified sources, I want us to stick to the facts.  We'll report the facts to overseas audiences.</p>
-<p>Again, we never got any pressure at all from inside the Nixon Administration as to how we should play this story.  But it was just Keogh's instinct that the nation's information service ought to stick to the facts about</p>
-<p>
-<hi rend="italics">Q:  Of course, I came to the Voice somewhat later.  But I have the distinct impression that in many respects the Voice re-established its reputation as an objective, comprehensive and reliable news organ during that period.  Because we did report the facts straight forward.  We didn't mince any of the factual information.  And thereby we I think satisfied our overseas audiences and lived up to the Voice's responsibility.</hi>
-</p>
-<p>VOA Director Ken Giddens and Keogh Differences</p>
-<p>
-<hi rend="italics">Q:  Speaking about the Voice, Jim Keogh and the Director of the Voice, Ken Giddens, developed a distant relationship.  Did that start that way immediately?  Or did it come about gradually?</hi>
-</p>
-<p>KOPP:  It didn't start that way.  Of course, Ken had started with Frank Shakespeare.  So he was there when Jim Keogh came aboard.  And I don't think that Keogh and Giddens knew each other before that.  I am absolutely certain that Keogh didn't come in with any particular bias one way or the other about Ken Giddens.  What he expected of the Director of the Voice was what he expected of every other media and area office director, that they would do a hands on job.  And he expected an assistant director to know what was going on in the area under his jurisdiction.</p>
-<pb facs="0010" n="Page0010"/>
-<p>Now, I have to tell you this.  Ken Giddens' heart was always in the right place.  Ken was a real patriot.  I share a lot of his views about East-West relationships and that kind of thing.  But we got the impression that he was not spending a lot of time looking after what was going on at the Voice.  And I'm not saying that the Director of the Voice has to know every detail of what's going on.  But there were certain obvious big stories and big issues that the Director of the Voice should have been on top of almost on a daily basis in connection with his policy officers and his other operating officers as to how the Voice was playing certain stories.  And we found Ken not vigilant in that regard.</p>
-<p>The other thing that happened was that I believe that Ken, more than any other assistant director, got captured by the bureaucracy at the Voice.  So that any suggestions from an ambassador overseas or from the Director or from me that there might be something in the coverage that could have been handled differently was deemed to be an attack upon the Voice and our attack upon First Amendment rights.</p>
-<p>
-<hi rend="italics">Q:  An attack?</hi>
-</p>
-<p>KOPP:  Yes, that's right.  So that our every attempt at management of the Voice was allowed to escalate into some cosmic issue of the independence of the Voice.  And I think that's the result of being captured by the bureaucracy down there.  Management is then done by identifying a common enemy, that is, everyone not part of VOA's world.</p>
-<p>So we were concerned that we weren't getting the kind of supervision that we felt we needed over the key operations of the Voice from Ken Giddens.  And that led to a very serious strain in relationships.  Looking back on it I believe that a change should have been made at the Voice.  But we didn't.  Go off the record for a minute.</p>
-<p>
-<hi rend="italics">Q:  The reason that I mentioned the problems between Jim Keogh and Ken Giddens, the reason I know about them is because if you'll remember in October of '76 Jim called me at the Fletcher School of Law and Diplomacy where I was at that time the Murrow Fellow and asked me to come down and become the new Deputy Director of the Voice.</hi>
-</p>
-<p>KOPP:  Did you succeed Bill Miller?</p>
-<p>
-<hi rend="italics">Q:  No, I succeeded Serban Vallimarescu.</hi>
-</p>
-<p>KOPP:  Oh yeah, Val.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  Val.  And told me about the problem and that was one of the reasons he asked me to take on the job.  And I said, well, I don't see how I can be a loyal deputy director of the Voice and also serve you as the Director of the Agency.  And he at that time said to me don't worry about it because the elections are in two weeks.  I am going to resign no matter who wins the election.  And if the Democrats win the election Ken Giddens will be out also.  So your problem will be solved.</hi>
-</p>
-<p>KOPP:  Right.</p>
-<p>
-<hi rend="italics">Q:  And, of course, the Democrats did win.  Jim left.  But Ken Giddens refused to resign from Director of the Voice of America.  And I remember it was in early April.  I think it was April 9th to be specific.  You remained as the Acting Director of USIA until John Reinhardt was confirmed.  And you called me on a Friday morning and said could I come over?  And I did.  And you said, you know, I have just gotten orders from the White House to call in Ken Giddens to tell him that this, today, was his last day and that he was to be out of the Voice by five o'clock this afternoon.</hi>
-</p>
-<p>KOPP:  Right.</p>
-<p>
-<hi rend="italics">Q:  And, of course, by the time I got back to the Voice you had already told him.  And that must have been the most devastating blow that Ken Giddens ever had in his whole life.</hi>
-</p>
-<p>KOPP:  Yes.</p>
-<p>
-<hi rend="italics">Q:  It shattered him, absolutely shattered him.</hi>
-</p>
-<p>KOPP:  Well, backing up a little bit, when we recognized we had this problem with Ken, we decided that we had to try to run the Voice through the Deputy Director of the Voice.  And what you've expressed as a problem earlier, Val, and I forget who was before Val, expressed the same problem.  But in response we said, look, we've just got to try to get control over the place and we want to do it that way.</p>
-<p>Now, your recollection is exactly right.  I was asked to stay on until they could get Reinhardt confirmed.  And the Carter Administration misplaced the papers that were necessary to go up to the Senate Foreign Relations Committee so that John, who was an absolutely non-controversial appointee for God's sake, didn't get confirmed until the end of March, I think.</p>
-<p>
-<hi rend="italics">Q:  I think you're probably right.</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>KOPP:  The end of April or the end of March.  Anyway, I was there much longer than I intended.  But throughout all of that I fully expected that they would tell me to release all political appointees.  And I was astonished that they never raised any political appointees for me to let go except Ken.  And I remember very clearly when I got the word that he should be told that he was going to leave.  And it did appear to me to be a devastating blow to him.</p>
-<p>
-<hi rend="italics">Q:  Right.  Coming back to Jim Keogh's administration, what we were talking about, his accomplishments, where he really left his mark on the Agency, you had in mind a couple of other things.</hi>
-</p>
-<p>Keogh's Special Concern with Agency's Foreign Correspondent Centers</p>
-<p>KOPP:  Before I forgot it, I wanted to mention also he placed a great deal of emphasis and a lot of resources into the foreign correspondent centers here in the United States.  He took a look at that function and thought it was very important taking care of foreign correspondents who were resident in the United States.  He thought we ought to have some of our very best officers assigned to those foreign correspondent centers.  He put a lot of resources into the upgrading of the facilities as well as the programs of those centers.</p>
-<p>And then when it came convention time in 1976, you can imagine the foreign interest in the presidential conventions, both Democrat and Republican.  We had a major presence at both of those conventions because of Keogh's feeling that somebody be out there to serve the foreign correspondents and thereby attempt to influence in a positive way, in a correct way, getting the facts correct, what it was they were reporting back to their audiences.</p>
-<p>So that I think the addressing of the problem that I've mentioned to you before about getting all of the Agency officers to work together and getting the Agency to work more effectively with State and with the NSC, improving the whole press and publications operations, making a change in the leadership and therefore the usefulness of the products at the motion picture and television service and the foreign correspondent centers, the improvement and the assignment of additional resources there were all very important highlights of Jim Keogh's tenure.  Finally, he directed some absolutely superb programs in connection with the 1976 U.S. Bicentennial.</p>
-<p>
-<hi rend="italics">Q:  Interestingly enough, his relationship with both the White House and the State Department were primarily institutional rather than personal.  I should ask you, did he have any close personal relationships with either the President or other people in the White House?  He had been his Chief Speech Writer.  But I think the relationships were more professional than personal.  Or am I wrong?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>KOPP:  I think that's a fair statement.  You may recall that Jim Keogh was the first biographer of Richard Nixon.  But again, I think even Jim would say his relationship for the most part with Nixon was professional.  It certainly wasn't on the kind of personal level that you have today with the current Director and President Reagan.  And with Secretary Rogers I mentioned the connection because their sons both went to Harvard and they were good enough acquaintances that they could talk very candidly about problems.</p>
-<p>Now, you may recall Keogh left the White House after two years.  He had been the head of the research and writing staff for two years.  And then he left midway through the first term and wrote a book entitled Nixon and the Press and was in retirement when, after the election in November of '72, they approached him about coming into USIA.  And it was very clear that he was going to play more of an insider's role as Director of USIA, vis-a-vis the White House and vis-a-vis the National Security Council than Frank Shakespeare had.</p>
-<p>As a matter of fact, his tenure started out that way.  He was involved.  The President caused him to be involved in a number of things over there that we had previously been cut out of.  And that was a very positive development in my judgment.  But further development of that got caught up in the whole Watergate mess.  And that was the end of it.  But there were very hopeful signs at the beginning of Jim Keogh's tenure that we would have a much more relevant and influential relationship with the White House and the NSC.  And I think we would have except that the President got into trouble and the White House was almost totally preoccupied with the weakening of the presidency.</p>
-<p>
-<hi rend="italics">Q:  And during the Ford Administration it just continued.</hi>
-</p>
-<p>KOPP:  It continued along.  We had very good relationships at all levels with the Ford White House.  But again, it was certainly on the professional level rather than personal.</p>
-<p>
-<hi rend="italics">Q:  Institutional, yes.</hi>
-</p>
-<p>KOPP:  Institutional.  The state of tension and distrust and view of the Agency as a maverick had virtually disappeared by then.  And that's a very important achievement for Keogh's administration.</p>
-<p>Retrospective View of Agency Activities in Recent Years</p>
-<p>
-<hi rend="italics">Q:  Let me ask you in retrospect, it's been now—</hi>
-</p>
-<p>KOPP:  I left in '77.</p>
-<pb facs="0014" n="Page0014"/>
-<p>
-<hi rend="italics">Q:  '77.  And it's been eleven years.  What are your impressions of the work of the Agency and the overall foreign policy process, what you think are the good things and also the bad things that it does or has done or what it might do, etcetera, from your perspective?</hi>
-</p>
-<p>KOPP:  It's an overall plus.  That's my bottom line, a very important plus.  I could not get over, and I wasn't surprised, but I guess I was overwhelmed by the number of instances over and over during our tenure when American ambassadors and people at the Department would talk to us about the array of things that they had to work with.  And consistently it would come back to the variety of USIA programs and services that could be used to help achieve their missions in different parts of the world.  Particularly when we had Agency media products that were responsive to the needs that had been identified from the field and tailor made to a particular field post or to a particular area of the world.  That was very satisfying.  And I've had many, many ambassadors and senior officers at the department tell me that U.S. foreign policy would be significantly damaged if those programs were not in place.</p>
-<p>Disagreement on Policy Between USIA Management and VOA</p>
-<p>Now, having said that the Voice, the element at the Voice of America that felt that it should be nothing other than a mimic of the U.S. commercial broadcasting services, created some problems for us overseas.  And attempts to control and to manage Voice activities were always viewed and criticized as censorship, political, partisan censorship, when they really weren't.  I guess the role of the Voice now has been changed by law.  But back in those days the Voice was the official radio arm of the U.S.  government and, importantly, whether it was or whether it wasn't, foreign audiences viewed it that way.  Therefore, I always felt, and Keogh did too, that the people operating at the Voice had to be sensitive to foreign reaction to what they would hear and also foreign appetites for what they wanted to hear.  It did not necessarily follow that because an American audience would be interested in a particular news item that might have come up, that a foreign audience would find that interesting.  Therefore, in just the editorial process of selecting what it was you were going to cover-</p>
-<p>—</p>
-<p>Yes, I was saying every time we would try to emphasize the need for that kind of sensitivity at the Voice, and this mainly involved the coverage of what was “news,” we would always meet with resistance and sometimes heavy criticism.  A lot of the outside criticism Tom I'm frank to tell you was generated by people at the Voice.  We know that.  A lot of the charges of censorship that we got from the Hill we're pretty sure were generated by people who didn't like the management and the policies that we wanted followed.</p>
-<pb facs="0015" n="Page0015"/>
-<p>If we've got another few seconds, let me just give you some specific examples of what I'm talking about.  We've already talked about the policy of how we were going to cover the news with relationship to Watergate.  Let's forget Watergate and let me give you several examples of what I'm talking about.</p>
-<p>You may remember the My Lai massacre in Vietnam.  The officer who commanded that platoon was Lieutenant Calley.  And, of course, that whole matter was fully reported at the time the awful thing happened in Vietnam.</p>
-<p>But you may also recall that months and years later, Calley had been convicted, but his conviction went up on appeal.  And I remember very clearly this had to be six months to a year after his original conviction.  There was some stage in the appeal when the conviction was either reversed or modified.  What happened is unimportant.  The fact is some appellate court did something in connection with Lieutenant Calley's conviction that became a news item in the United States, absolutely valid news item, the facts to be reported.</p>
-<p>What did the Voice do?  The first question was were any foreign audiences going to recognize what Lieutenant Calley's conviction had been and were they going to be interested in it?  But assuming you got over that hurdle, the Voice instead of simply reporting that Lieutenant Calley who had been convicted X months ago, the court ruled today and simply give the facts, we found the Voice in its reporting going back over almost in shot by shot detail the entire My Lai massacre.  And its reporting was indistinguishable from what you were hearing on CBS and NBC and ABC every night.  And we felt that it was not necessary for the Voice to go as far as the commercial media went with the negatives.  It was a matter of editorial judgment, not censorship.</p>
-<p>Let me give you another example.  At a time when Bill Sullivan, Ambassador Sullivan, who was the United States Ambassador in the Philippines, was in the process of renegotiating the leases for the bases at Subic Bay and Clark Air Base and quite a number of other things over there, not to mention the VOA installations in the Philippines.</p>
-<p>
-<hi rend="italics">Q:  Baguio.</hi>
-</p>
-<pb facs="0016" n="Page0016"/>
-<p>KOPP:  Baguio, Poro Point and Tinang.  Very important VOA transmitters over there.  And at the time, of course, we had Marcos in power.  A leading critic of President Marcos was in this country on some kind of tour and had been interviewed on one of the commercial stations.  It may have been the NBC Today show or something.  Anyway, the VOA got that interview and put it on the air.  And so we get a rocket in here from Ambassador Sullivan saying, here's the Voice of America broadcasting back to the Philippines an interview with the leading critic of President Marcos at a time when we are trying to renegotiate these important base agreements out here including VOA sites.  What in the world is going on?  That was a very valid question.  What in the world is going on?  When we got into the discussions with the Voice about it we immediately ran into First Amendment and this kind of thing.  And we tried to impress upon them that maybe that was an item that need not have been covered in exactly that way.  But, again, if they made the selection for coverage (as the commercials do) it was valid editorial judgment.  If we wanted to suggest another judgment, it became management censorship.</p>
-<p>And a final one.  When the ARVN was in absolute rout—they started off in retreat and it turned into a rout in Vietnam.  And everyday you had prominent Americans, particularly members of Congress, of the House and Senate, making public statements.  Well, it's all over in Vietnam.  What we ought to do is get our people out.  What we ought to do in effect is cut and run.</p>
-<p>Now, the question came up should the Voice be reporting in all this kind of detail these kinds of statements in a situation where we had a lot of Americans still on the ground in Vietnam.  We had a very well equipped Army of the Republic of Vietnam who we were afraid if they got the idea that the Americans were going to leave them and leave them in the lurch, and you may recall this spanned three or four weeks, we could have had a blood bath on our hands over there.  We could have had the ARVN turning on the Americans who were going to leave them to the tender mercies of the Viet Cong.</p>
-<p>So we attempted to tell the Voice that it ought to be careful in its broadcast to that part of the world, that we did not by way of reporting these statements made by individual Congressmen and Senators, which were not United States policy by the way, that we did not create a panic situation.  We caught all manner of criticism for that policy.  I can tell you not only people at the Voice but members of the House and Senate that we had a very difficult time convincing that we were talking about the possibility of saving American lives on the ground over there through this policy.So the Voice for all of its pluses always has been I guess and always will continue to be a management problem for USIA.  Nevertheless, I believe it would be a dreadful mistake to make the Voice an independent entity.  On balance, I think the Voice is an important element of U.S.  activity and U.S. foreign policy.  But that's the major negative I would say.</p>
-<pb facs="0017" n="Page0017"/>
-<p>Beyond that, I would say USIA programs, I used to hear criticisms that maybe we were doing too much impresario kinds of rather than advocacy functions.  I think that's a matter of tone.  I think both are needed.  There are certain parts of the world where the only way we could get access to foreign audiences was through certain cultural activities.  Those were the vehicles that would open up advocacy opportunities.  And therefore, I think you need a mix.</p>
-<p>
-<hi rend="italics">Q:  Very good.  Is that it?</hi>
-</p>
-<p>KOPP:  I guess that's it.  I had made a few notes here in anticipation of what we wanted to cover today and I guess that covers it all.  I have to tell you just by way of concluding that the time at USIA and particularly with Jim Keogh was probably the most satisfying professional experience that I've had, notwithstanding the fact that it was through Watergate and it was through Vietnam problems and all of the trauma that went with that.  I believe that at the end we could fairly look back and say that we had a very good team effort to run an agency that supplemented U.S. foreign policy efforts overseas.  And that in large measure is to the credit of the dedication, style and sound ability of the Director.  And I've never had a better job or boss since.</p>
-<p>
-<hi rend="italics">Q:  Thanks very much, Gene.</hi>
-</p>
-<p>KOPP:  Thank you, Tom.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project Information Series</p>
+                <p>EUGENE KOPP</p>
+                <p>Interviewed by: Tom Tuch </p>
+                <p>Initial interview date: March 7, 1988</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is Tom Tuch interviewing Eugene Kopp, former Deputy
+                        Director of USIA in his office in downtown Washington, today on March 7,
+                        1988.</hi>
+                </p>
+                <p>KOPP: Tom.</p>
+                <p>
+                    <hi rend="italics">Q: Nice to see you.</hi>
+                </p>
+                <p>KOPP: Thank you very much.</p>
+                <p>Coming to USIA</p>
+                <p>
+                    <hi rend="italics">Q: Let's start by talking about your coming into a foreign
+                        affairs agency, USIA, from life as a lawyer, during the Nixon
+                        Administration. How did you decide that you wanted to work in USIA as a
+                        political appointee at that time?</hi>
+                </p>
+                <p>KOPP: Well, let me back up Tom: After I got out of law school in 1961 I served a
+                    year as law clerk for a federal judge, I then went to the Department of Justice
+                    in 1962 as a trial attorney. And by 1968 I felt that I probably ought to be
+                    thinking about something else to do because I didn't think I wanted to say at
+                    Justice for a full career.</p>
+                <p>At that time, a very close friend of mine who had been a close friend and
+                    colleague since undergraduate days at Notre Dame, Richard Allen was serving as
+                    the Director ..of Foreign Policy Research for the Nixon campaign. Dick contacted
+                    me in the summer of '68 and asked what I was thinking about doing. I told him I
+                    was thinking about leaving the Department. He suggested that if they won the
+                    election in November there might be something interesting to do as part of the
+                    Administration.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>So I decided to wait and see what happened. you may remember that Dick [Richard
+                    Allen] was Henry Kissinger's first deputy at the National Security Council. And
+                    from that position in '69 he was influential in putting me in touch with Frank
+                    Shakespeare. The net of it was that in July of '69 I left the Department of
+                    Justice to come into USIA as Deputy General Counsel and Congressional Liaison.
+                    Charley Ablard was then General Counsel. And that's how I started with USIA. And
+                    I served in that job until July of '72.</p>
+                <p>
+                    <hi rend="italics">Q: As Deputy?</hi>
+                </p>
+                <p>Promotion to USIA Assistant Director, Administration</p>
+                <p>KOPP: As Deputy General Counsel. And then in July of '72 Ben Posner, who had been
+                    the Assistant Director for Administration, decided to retire. So Frank asked me
+                    to be Assistant Director for Administration replacing Ben Posner. Right after I
+                    agreed to do that, Charley Ablard left the Agency to go to the Department of
+                    Justice. So for the period of July '72 to December '72, I really covered two
+                    jobs. I was Assistant Director for Administration and Acting General Counsel and
+                    Congressional Liaison.</p>
+                <p>Then in December of '72 the White House sent us a new General Counsel, a young
+                    fellow named Gordon Strachan who had been working at the White House for Bob
+                    Haldeman. I remained as Assistant Director for Administration. Then Frank left,
+                    I think, sometime late in December and Jim Keogh was named Director.</p>
+                <p>Problems Created by Shakespeare's Operating Policies</p>
+                <p>
+                    <hi rend="italics">Q: Before Frank leaves the Agency, tell me about your
+                        relationship with Frank. How did it go? I mean, Frank was a very active USIA
+                        Director. He was a very opinionated, a very strong personality in running
+                        USIA. Yet, he had his major differences, for instance, with the Secretary of
+                        State at the time. How did this work itself out in your relationship with
+                        Frank?</hi>
+                </p>
+                <p>KOPP: Well, I was concerned about two aspects of Frank's approach to the Office,
+                    which concern I later expressed to Jim Keogh because they represented the two
+                    most serious internal problems that Keogh was inheriting. It is true that Frank
+                    was a very active and vocal and high profile Director of USIA. One of my
+                    concerns was that his activity got over into the policymaking area, far beyond
+                    the mandate or charter of USIA. But there was nothing that I could do very much
+                    to dissuade Frank from what he intended to do.</p>
+                <p>
+                    <hi rend="italics">Q: Nobody could.</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>Policy Differences; Strains Between USIA and Department of State</p>
+                <p>KOPP: Yeah, Frank had certain views about administration policy in the East-West
+                    relationship. As a very strong and articulate conservative, he was just bound
+                    and determined that he was going to articulate those views. Now that activity
+                    and high profile over a period of time started to create a very serious strain
+                    in the relationships between USIA and the Department of State and it affected
+                    communications and coordination and cooperation. But there was nothing that I or
+                    anybody else that I knew could do to get Frank off that course. But I would also
+                    say that at all times the relationship was very cordial and friendly even though
+                    on occasion we disagreed about what he ought to be doing and how he ought to be
+                    doing it. You may recall in a similar vein but on a lower level, Frank created a
+                    great stir about how officers were going to be promoted at USIA. He thought that
+                    the selection panel system and the rank order system were offensive to
+                    management. And he directed that our personnel office prepare an alphabetical
+                    listing of officers who had been recommended for promotion so he could pick and
+                    choose rather than go in rank order. And that created a heck of a dispute with
+                    the American Foreign Service Association and the Department of State. In any
+                    event, Frank was a unique and intelligent and articulate individual. But his
+                    whole style and approach to the office created a great deal of problems for
+                    us.</p>
+                <p>Vis a Vis Soviet Union/Detente</p>
+                <p>
+                    <hi rend="italics">Q: I agree. This is really a rather interesting phenomenon
+                        because you had Frank Shakespeare as the head of USIA. And, of course, you
+                        had Bill Rogers as the Secretary of State. And the issue was the tone policy
+                        of the Nixon Administration vis-a-vis the Soviet Union.</hi>
+                </p>
+                <p>On the other hand, you also had a terribly strong national security advisor in
+                    Henry Kissinger during that time. And to me it's always been a question why did
+                    the White House or the National Security Council let Frank Shakespeare get away
+                    with his really completely divergent policy interests vis-a-vis the Soviet
+                    Union. He did not believe in detente.</p>
+                <p>KOPP: No, he didn't. He didn't trust the Soviets and for very good reasons which
+                    I thought were valid then and, not so incidentally, I think are valid now. I
+                    agreed with Frank. But USIA wasn't making the policy—we either had to support it
+                    or resign and then be critical. I viewed detente as nothing more than a tactical
+                    stance the Administration was taking to adjust to short term realities, not a
+                    long term policy shift into naivete—about the communists.</p>
+                <p>But Frank often said, well, if the President doesn't like what I'm doing, he can
+                    call me, and I'll be out. And, of course, that never happened. But what did
+                    happen was that the NSC and the State Department simply got into a practice of
+                    ignoring Frank. And, unfortunately, in some respects ignoring the Agency.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: Did that work to the detriment?</hi>
+                </p>
+                <p>Distrust of Foreign Service</p>
+                <p>KOPP: Yes, it did. When Keogh came in, he naturally started talking to me about
+                    budget matters and other things. And I remember in one of the early
+                    conversations, he asked me what do you think are the one or two major problems
+                    I'm inheriting? And I told him part of Frank's approach had been on the
+                    predicate that the career foreign service was not reliable. In the East-West
+                    dialogue, Frank felt that career foreign service officers just weren't tough
+                    enough about the Soviets. So, he had another personnel policy that no officer
+                    could expect to rise to the senior ranks without having served a tour in the
+                    Soviet Union or Eastern Europe. Frank's approach here was that career officers
+                    who tended to be a little bit hopeful and optimistic about the Soviets needed to
+                    actually live and breathe and smell and see—those would be Frank's words—that
+                    society to understand how dangerous tough they were as adversaries.</p>
+                <p>USIA Geographic Offices Subordinated to Media Offices</p>
+                <p>In any event, Frank's lack of regard for the career foreign service was reflected
+                    in his decision to put the media in the hands of political appointees and shift
+                    substantial amounts of resources from the control of the area offices to the
+                    media offices to produce the hard kind of media product that Frank thought was
+                    necessary to be tough in the East-West situation. I told Keogh the net result
+                    was that we had an agency where the media was operating under one set of
+                    principles, the area offices, mainly directed by the career service, were
+                    operating under another set of attitudes and that we had the potential for a
+                    major problem on our hands, particularly in front of Congress. I said I'm afraid
+                    you're going to find that there are a lot of media products that are being
+                    produced that can't be used in the field because they are not consistent with
+                    U.S. government policy.</p>
+                <p>And so I said the first problem the new Director had to address was getting the
+                    entire Agency, both the career officers and the political appointees, working
+                    together rather than at sword's point. And I said as a supplement to this point
+                    we needed to work very hard to repair the image of the Agency and its Director
+                    as a maverick in the foreign affairs community and to re-establish contacts at
+                    all levels at the Department and at the NSC.</p>
+                <p>I don't remember where you were, this was in early '73, Tom, after the Director
+                    had asked me to be his Deputy.</p>
+                <p>
+                    <hi rend="italics">Q: I was in Brazil.</hi>
+                </p>
+                <p>Kopp Becomes USIA Deputy Director</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>KOPP: You were in Brazil. Well, much to my astonishment and my delight, he asked
+                    me to be his Deputy. And the White House approved that and I was confirmed by
+                    the Senate.</p>
+                <p>Keogh Corrects Policies</p>
+                <p>Then the question came up, and this will give you an idea of the fine touch and
+                    sensitivity Keogh had, of when should I be sworn in. Keogh thought that it might
+                    be a nice touch, as part of this effort to re-establish that we were going to be
+                    working with the Department rather than at odds with the Department, if
+                    Secretary Rogers could come over to USIA and preside at my swearing in.</p>
+                <p>It just happened to be a happy coincidence that Bill Roger's son and Jim Keogh's
+                    son had been classmates at the Harvard Law School. So the Keoghs knew the Rogers
+                    pretty well. Jim said it might involve a delay in my getting sworn in because we
+                    have to accommodate the Secretary's schedule. But that suited me fine.</p>
+                <p>So in due course I recall a very happy occasion when the Secretary came over. We
+                    had all of the senior officers of the Agency there. We had a very nice swearing
+                    in ceremony. Both the Director and the Secretary made very appropriate remarks
+                    about how we were looking to the future and close working relationships. The
+                    Secretary stayed around to meet all the senior officers in the Agency. And that
+                    was just one example of a number of efforts that Keogh made, and I think very
+                    successfully, to address what I told him was one of the two biggest problems
+                    that he was inheriting.</p>
+                <p>
+                    <hi rend="italics">Q: And, of course, the other problem really disappeared with
+                        Shakespeare because you had a new personnel administration and no
+                        interference in the career selection system.</hi>
+                </p>
+                <p>KOPP: Right. That, plus Keogh made some changes in the media. He brought in Bob
+                    Scott as Assistant Director for Motion Pictures and Television. We had very
+                    candid discussions with Bob about what had been the problem before. And Bob
+                    turned out to be just right for that job. And the other thing that helped
+                    address the problem was that Keogh was very much a hands on manager which a lot
+                    of people found hard to believe at first. Jim insisted on seeing media
+                    products.</p>
+                <p>
+                    <hi rend="italics">Q: Being a media man.</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>KOPP: Right. While they were being developed. And the motion picture and
+                    television service had never had a Director go to screenings of raw footage
+                    before it was put together in final and couldn't be changed. But Keogh insisted
+                    on it. And we worked nights and we worked weekends.</p>
+                <p>
+                    <hi rend="italics">Q: Ed Murrow used to do that.</hi>
+                </p>
+                <p>KOPP: Well, I didn't know that. And the other thing Keogh was hands on about
+                    personnel. So he and I would sit down once a week, twice a week, whatever was
+                    appropriate with Mose, Lionel Mosley who was then the Assistant Director for
+                    Personnel. And we'd go over proposed assignments for PAOs, even deputy PAOs and
+                    CAOs in the field as well as the senior levels and the deputy levels in the
+                    agency. So Jim was very much hands on and the officers understood that and
+                    reacted positively to it. I have often said when I look back on it, one
+                    satisfying thing was that the first problem I had identified for Keogh as a
+                    major problem, tension within the Agency and between the Agency and the State
+                    Department and the NSC, had for all significant respects been alleviated by the
+                    time he left.</p>
+                <p>New General Counsel Gordon Strachan as a Problem</p>
+                <p>The other problem that he was inheriting was the gentleman who had been sent over
+                    as our General Counsel and Congressional Liaison, Gordon Strachan. Even in those
+                    early months before we knew how serious Watergate was, Strachan's name had been
+                    mentioned in connection with some questionable practices, in connection with the
+                    1972 campaign. And even if there had been nothing illegal about what he had
+                    done, and at that time we didn't know whether there was anything illegal about
+                    what he had done, we still had a problem with our General Counsel and our chief
+                    Congressional guy being identified with so-called “dirty tricks” in a political
+                    campaign that had just been concluded in '72. As we later learned, however, the
+                    problems with Strachan were much more serious.</p>
+                <p>But we did have in the period from the time Jim got there until the end of April
+                    of '73, when you may recall things were really getting serious with the
+                    Watergate matter, we did have a problem of having Gordon Strachan around and
+                    being the subject of media and Congressional attention and criticism. That
+                    problem was eliminated as far as the Agency was concerned when Strachan resigned
+                    the same day that Haldeman and Ehrlichman resigned from the White House, which I
+                    think was April 30, 1973.</p>
+                <p>
+                    <hi rend="italics">Q: Strachan was succeeded by Ed Hidalgo(?). Is that
+                        correct?</hi>
+                </p>
+                <p>KOPP: I think that's right. There may have been some vacancy. But I don't think
+                    we had anybody else in there. We brought in Ed.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>Problems Confronting Keogh's Explaining Watergate,Vietnam &amp; Congressional
+                    Relations</p>
+                <p>
+                    <hi rend="italics">Q: Tell me about the Keogh Administration, the four years
+                        when Jim Keogh between early '73 and the election of Jimmy Carter when he
+                        was the Director of USIA. What do you think were his main accomplishments or
+                        his main problems while he was Director of the Agency? He was there during
+                        Watergate.</hi>
+                </p>
+                <p>KOPP: Exactly right. I'll mention three serious outside problems the Agency had
+                    during that period. One related to Congress and the other two related to issues.
+                    One was Watergate. How do you explain to foreign audiences what was going on
+                    with Watergate? How much coverage did the Agency give to Watergate when, in its
+                    early stages, it was a lot of innuendo and unnamed sources and a lot of
+                    speculation and very little in the way of facts? And beyond that, how do you
+                    explain to foreign audiences what on earth was going on in this process whereby
+                    a chief executive, a President who was viewed as a very strong leader by foreign
+                    audiences, was from their point of view being savaged for reasons that they had
+                    great difficulty understanding?</p>
+                <p>Then the second major outside problem we had, of course, was Vietnam. The wind
+                    down in Vietnam and then the ultimate collapse of the ARVN and how we played
+                    that story as we were trying to get Americans who were still on the ground out
+                    of there. So I would say those two matters were the most prominent outside
+                    problems we had.</p>
+                <p>As far as relations with Congress, we had for the most part during Keogh's tenure
+                    very excellent relationships with the appropriating and authorizing committees
+                    of the Congress, with the exception of one monumental problem involving the
+                    Chairman of the House Foreign Affairs Subcommittee that controlled
+                    authorizations for USIA and State. And, of course, I'm referring to Congressman
+                    Wayne Hayes. Very early in 1973, Congressman Hayes served notice on us. And
+                    since I don't know who's going to be listening to this tape I will not tell you
+                    the exact language used since it may be a family audience. But he had a friend,
+                    in this case not a female, who had been a Congressman from New York who had been
+                    defeated. And he called the Agency and demanded that we give this former
+                    Congressman a job.</p>
+                <p>As we looked into the matter, it became quite clear that, given the positions
+                    that this former Congressman had taken on issues when he served in the Congress,
+                    that he was exactly the wrong kind of person to be a senior officer in the Nixon
+                    Administration. And we decided we had no choice but to resist the appointment.
+                    And that brought down the full weight of Wayne Hayes' wrath upon Keogh and me
+                    and the Agency.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>What always frustrated me was that we could never get much protection or support
+                    from our friends on the Hill for what was clearly an outrageous case of a
+                    Chairman's excessiveness. But we couldn't. And that was a major problem for us
+                    until Wayne Hayes got into his own problems with Elizabeth Ray. And that was the
+                    end of Wayne Hayes. Not a tear was shed as he left in disgrace.</p>
+                <p>Keogh's Accomplishments</p>
+                <p>
+                    <hi rend="italics">Q: That was in 1974, '75?</hi>
+                </p>
+                <p>KOPP: The Elizabeth Ray thing? I don't remember. But it was while I was Deputy
+                    Director. But outside of that, our relationships with the House and Senate
+                    appropriating committees and the Senate Foreign Relations Committee were much
+                    improved over the relationships of the earlier four years.</p>
+                <p>Jim, as you know, came from the print media. He spent a lot of time on the
+                    Agency's magazine, publication programs, and I believe reduced the number but
+                    improved the quality very noticeably of Agency publications. And, as I've
+                    mentioned earlier, he moved in very skillful ways to alleviate this problem of
+                    communications and coordination, i.e., to make it clear that USIA was not a
+                    policymaking agency in the foreign affairs community and that we intended to
+                    support the administration's policy and if it ever became a moral or
+                    philosophical problem for any officer in the Agency that they couldn't support
+                    detente then the remedy was to resign and not to be a second Department of
+                    State.</p>
+                <p>Agency Difficulties; Watergate</p>
+                <p>
+                    <hi rend="italics">Q: You mentioned the two major issues that obviously USIA, as
+                        the whole nation was involved in, Watergate and Vietnam. Did you get much
+                        flak from either Congress or anyone else certainly from within the
+                        Administration on how we were handling this, for instance, on the Voice of
+                        America?</hi>
+                </p>
+                <p>KOPP: We never got any flak from inside the Administration. In the early stages
+                    of Watergate and let's think back now, Nixon wins the election big in '72 and
+                    really through the end of '72, nobody has any idea that this is going to be
+                    anything other than—who called it a second or a third rate burglary? So we start
+                    getting into 1973 and here are Woodward and Bernstein publishing practically
+                    everyday in the Washington Post. And they obviously have a source. The source
+                    was identified as Deep Throat. They obviously have a source, but they don't
+                    identify that source. And they're publishing some facts that can be documented.
+                    But they're publishing an awful lot of stuff that appeared to be speculation and
+                    innuendo.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>Now, the commercial media at that time, they were running with all this stuff,
+                    repeating it and it was on TV and on radio day after day. And the question came
+                    up, how should the Agency handle this? And particularly, how should the VOA
+                    handle it? Should the VOA simply mimic CBS and NBC and ABC? And the Director
+                    decided that our reporting ought to be limited to the facts that could be
+                    established. And we took some flak about that from people on the Hill and from
+                    people in the commercial media. The allegations were that it was censorship, to
+                    protect the Administration. But Keogh's view was, look, we ought to report the
+                    facts of what's going on to overseas audiences, but not engage in
+                    speculation.</p>
+                <p>Later in 1973 the Watergate hearings started at the Capitol. Now, the Voice could
+                    report: today you had hearings and this witness was there and this witness said
+                    that. Now, we permitted that kind of thing. But Keogh's guidance during that
+                    difficult period was instead of wallowing around in all of this speculation and
+                    innuendo from unidentified sources, I want us to stick to the facts. We'll
+                    report the facts to overseas audiences.</p>
+                <p>Again, we never got any pressure at all from inside the Nixon Administration as
+                    to how we should play this story. But it was just Keogh's instinct that the
+                    nation's information service ought to stick to the facts about</p>
+                <p>
+                    <hi rend="italics">Q: Of course, I came to the Voice somewhat later. But I have
+                        the distinct impression that in many respects the Voice re-established its
+                        reputation as an objective, comprehensive and reliable news organ during
+                        that period. Because we did report the facts straight forward. We didn't
+                        mince any of the factual information. And thereby we I think satisfied our
+                        overseas audiences and lived up to the Voice's responsibility.</hi>
+                </p>
+                <p>VOA Director Ken Giddens and Keogh Differences</p>
+                <p>
+                    <hi rend="italics">Q: Speaking about the Voice, Jim Keogh and the Director of
+                        the Voice, Ken Giddens, developed a distant relationship. Did that start
+                        that way immediately? Or did it come about gradually?</hi>
+                </p>
+                <p>KOPP: It didn't start that way. Of course, Ken had started with Frank
+                    Shakespeare. So he was there when Jim Keogh came aboard. And I don't think that
+                    Keogh and Giddens knew each other before that. I am absolutely certain that
+                    Keogh didn't come in with any particular bias one way or the other about Ken
+                    Giddens. What he expected of the Director of the Voice was what he expected of
+                    every other media and area office director, that they would do a hands on job.
+                    And he expected an assistant director to know what was going on in the area
+                    under his jurisdiction.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>Now, I have to tell you this. Ken Giddens' heart was always in the right place.
+                    Ken was a real patriot. I share a lot of his views about East-West relationships
+                    and that kind of thing. But we got the impression that he was not spending a lot
+                    of time looking after what was going on at the Voice. And I'm not saying that
+                    the Director of the Voice has to know every detail of what's going on. But there
+                    were certain obvious big stories and big issues that the Director of the Voice
+                    should have been on top of almost on a daily basis in connection with his policy
+                    officers and his other operating officers as to how the Voice was playing
+                    certain stories. And we found Ken not vigilant in that regard.</p>
+                <p>The other thing that happened was that I believe that Ken, more than any other
+                    assistant director, got captured by the bureaucracy at the Voice. So that any
+                    suggestions from an ambassador overseas or from the Director or from me that
+                    there might be something in the coverage that could have been handled
+                    differently was deemed to be an attack upon the Voice and our attack upon First
+                    Amendment rights.</p>
+                <p>
+                    <hi rend="italics">Q: An attack?</hi>
+                </p>
+                <p>KOPP: Yes, that's right. So that our every attempt at management of the Voice was
+                    allowed to escalate into some cosmic issue of the independence of the Voice. And
+                    I think that's the result of being captured by the bureaucracy down there.
+                    Management is then done by identifying a common enemy, that is, everyone not
+                    part of VOA's world.</p>
+                <p>So we were concerned that we weren't getting the kind of supervision that we felt
+                    we needed over the key operations of the Voice from Ken Giddens. And that led to
+                    a very serious strain in relationships. Looking back on it I believe that a
+                    change should have been made at the Voice. But we didn't. Go off the record for
+                    a minute.</p>
+                <p>
+                    <hi rend="italics">Q: The reason that I mentioned the problems between Jim Keogh
+                        and Ken Giddens, the reason I know about them is because if you'll remember
+                        in October of '76 Jim called me at the Fletcher School of Law and Diplomacy
+                        where I was at that time the Murrow Fellow and asked me to come down and
+                        become the new Deputy Director of the Voice.</hi>
+                </p>
+                <p>KOPP: Did you succeed Bill Miller?</p>
+                <p>
+                    <hi rend="italics">Q: No, I succeeded Serban Vallimarescu.</hi>
+                </p>
+                <p>KOPP: Oh yeah, Val.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: Val. And told me about the problem and that was one of the
+                        reasons he asked me to take on the job. And I said, well, I don't see how I
+                        can be a loyal deputy director of the Voice and also serve you as the
+                        Director of the Agency. And he at that time said to me don't worry about it
+                        because the elections are in two weeks. I am going to resign no matter who
+                        wins the election. And if the Democrats win the election Ken Giddens will be
+                        out also. So your problem will be solved.</hi>
+                </p>
+                <p>KOPP: Right.</p>
+                <p>
+                    <hi rend="italics">Q: And, of course, the Democrats did win. Jim left. But Ken
+                        Giddens refused to resign from Director of the Voice of America. And I
+                        remember it was in early April. I think it was April 9th to be specific. You
+                        remained as the Acting Director of USIA until John Reinhardt was confirmed.
+                        And you called me on a Friday morning and said could I come over? And I did.
+                        And you said, you know, I have just gotten orders from the White House to
+                        call in Ken Giddens to tell him that this, today, was his last day and that
+                        he was to be out of the Voice by five o'clock this afternoon.</hi>
+                </p>
+                <p>KOPP: Right.</p>
+                <p>
+                    <hi rend="italics">Q: And, of course, by the time I got back to the Voice you
+                        had already told him. And that must have been the most devastating blow that
+                        Ken Giddens ever had in his whole life.</hi>
+                </p>
+                <p>KOPP: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: It shattered him, absolutely shattered him.</hi>
+                </p>
+                <p>KOPP: Well, backing up a little bit, when we recognized we had this problem with
+                    Ken, we decided that we had to try to run the Voice through the Deputy Director
+                    of the Voice. And what you've expressed as a problem earlier, Val, and I forget
+                    who was before Val, expressed the same problem. But in response we said, look,
+                    we've just got to try to get control over the place and we want to do it that
+                    way.</p>
+                <p>Now, your recollection is exactly right. I was asked to stay on until they could
+                    get Reinhardt confirmed. And the Carter Administration misplaced the papers that
+                    were necessary to go up to the Senate Foreign Relations Committee so that John,
+                    who was an absolutely non-controversial appointee for God's sake, didn't get
+                    confirmed until the end of March, I think.</p>
+                <p>
+                    <hi rend="italics">Q: I think you're probably right.</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>KOPP: The end of April or the end of March. Anyway, I was there much longer than
+                    I intended. But throughout all of that I fully expected that they would tell me
+                    to release all political appointees. And I was astonished that they never raised
+                    any political appointees for me to let go except Ken. And I remember very
+                    clearly when I got the word that he should be told that he was going to leave.
+                    And it did appear to me to be a devastating blow to him.</p>
+                <p>
+                    <hi rend="italics">Q: Right. Coming back to Jim Keogh's administration, what we
+                        were talking about, his accomplishments, where he really left his mark on
+                        the Agency, you had in mind a couple of other things.</hi>
+                </p>
+                <p>Keogh's Special Concern with Agency's Foreign Correspondent Centers</p>
+                <p>KOPP: Before I forgot it, I wanted to mention also he placed a great deal of
+                    emphasis and a lot of resources into the foreign correspondent centers here in
+                    the United States. He took a look at that function and thought it was very
+                    important taking care of foreign correspondents who were resident in the United
+                    States. He thought we ought to have some of our very best officers assigned to
+                    those foreign correspondent centers. He put a lot of resources into the
+                    upgrading of the facilities as well as the programs of those centers.</p>
+                <p>And then when it came convention time in 1976, you can imagine the foreign
+                    interest in the presidential conventions, both Democrat and Republican. We had a
+                    major presence at both of those conventions because of Keogh's feeling that
+                    somebody be out there to serve the foreign correspondents and thereby attempt to
+                    influence in a positive way, in a correct way, getting the facts correct, what
+                    it was they were reporting back to their audiences.</p>
+                <p>So that I think the addressing of the problem that I've mentioned to you before
+                    about getting all of the Agency officers to work together and getting the Agency
+                    to work more effectively with State and with the NSC, improving the whole press
+                    and publications operations, making a change in the leadership and therefore the
+                    usefulness of the products at the motion picture and television service and the
+                    foreign correspondent centers, the improvement and the assignment of additional
+                    resources there were all very important highlights of Jim Keogh's tenure.
+                    Finally, he directed some absolutely superb programs in connection with the 1976
+                    U.S. Bicentennial.</p>
+                <p>
+                    <hi rend="italics">Q: Interestingly enough, his relationship with both the White
+                        House and the State Department were primarily institutional rather than
+                        personal. I should ask you, did he have any close personal relationships
+                        with either the President or other people in the White House? He had been
+                        his Chief Speech Writer. But I think the relationships were more
+                        professional than personal. Or am I wrong?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>KOPP: I think that's a fair statement. You may recall that Jim Keogh was the
+                    first biographer of Richard Nixon. But again, I think even Jim would say his
+                    relationship for the most part with Nixon was professional. It certainly wasn't
+                    on the kind of personal level that you have today with the current Director and
+                    President Reagan. And with Secretary Rogers I mentioned the connection because
+                    their sons both went to Harvard and they were good enough acquaintances that
+                    they could talk very candidly about problems.</p>
+                <p>Now, you may recall Keogh left the White House after two years. He had been the
+                    head of the research and writing staff for two years. And then he left midway
+                    through the first term and wrote a book entitled Nixon and the Press and was in
+                    retirement when, after the election in November of '72, they approached him
+                    about coming into USIA. And it was very clear that he was going to play more of
+                    an insider's role as Director of USIA, vis-a-vis the White House and vis-a-vis
+                    the National Security Council than Frank Shakespeare had.</p>
+                <p>As a matter of fact, his tenure started out that way. He was involved. The
+                    President caused him to be involved in a number of things over there that we had
+                    previously been cut out of. And that was a very positive development in my
+                    judgment. But further development of that got caught up in the whole Watergate
+                    mess. And that was the end of it. But there were very hopeful signs at the
+                    beginning of Jim Keogh's tenure that we would have a much more relevant and
+                    influential relationship with the White House and the NSC. And I think we would
+                    have except that the President got into trouble and the White House was almost
+                    totally preoccupied with the weakening of the presidency.</p>
+                <p>
+                    <hi rend="italics">Q: And during the Ford Administration it just continued.</hi>
+                </p>
+                <p>KOPP: It continued along. We had very good relationships at all levels with the
+                    Ford White House. But again, it was certainly on the professional level rather
+                    than personal.</p>
+                <p>
+                    <hi rend="italics">Q: Institutional, yes.</hi>
+                </p>
+                <p>KOPP: Institutional. The state of tension and distrust and view of the Agency as
+                    a maverick had virtually disappeared by then. And that's a very important
+                    achievement for Keogh's administration.</p>
+                <p>Retrospective View of Agency Activities in Recent Years</p>
+                <p>
+                    <hi rend="italics">Q: Let me ask you in retrospect, it's been now—</hi>
+                </p>
+                <p>KOPP: I left in '77.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>
+                    <hi rend="italics">Q: '77. And it's been eleven years. What are your impressions
+                        of the work of the Agency and the overall foreign policy process, what you
+                        think are the good things and also the bad things that it does or has done
+                        or what it might do, etcetera, from your perspective?</hi>
+                </p>
+                <p>KOPP: It's an overall plus. That's my bottom line, a very important plus. I could
+                    not get over, and I wasn't surprised, but I guess I was overwhelmed by the
+                    number of instances over and over during our tenure when American ambassadors
+                    and people at the Department would talk to us about the array of things that
+                    they had to work with. And consistently it would come back to the variety of
+                    USIA programs and services that could be used to help achieve their missions in
+                    different parts of the world. Particularly when we had Agency media products
+                    that were responsive to the needs that had been identified from the field and
+                    tailor made to a particular field post or to a particular area of the world.
+                    That was very satisfying. And I've had many, many ambassadors and senior
+                    officers at the department tell me that U.S. foreign policy would be
+                    significantly damaged if those programs were not in place.</p>
+                <p>Disagreement on Policy Between USIA Management and VOA</p>
+                <p>Now, having said that the Voice, the element at the Voice of America that felt
+                    that it should be nothing other than a mimic of the U.S. commercial broadcasting
+                    services, created some problems for us overseas. And attempts to control and to
+                    manage Voice activities were always viewed and criticized as censorship,
+                    political, partisan censorship, when they really weren't. I guess the role of
+                    the Voice now has been changed by law. But back in those days the Voice was the
+                    official radio arm of the U.S. government and, importantly, whether it was or
+                    whether it wasn't, foreign audiences viewed it that way. Therefore, I always
+                    felt, and Keogh did too, that the people operating at the Voice had to be
+                    sensitive to foreign reaction to what they would hear and also foreign appetites
+                    for what they wanted to hear. It did not necessarily follow that because an
+                    American audience would be interested in a particular news item that might have
+                    come up, that a foreign audience would find that interesting. Therefore, in just
+                    the editorial process of selecting what it was you were going to cover-</p>
+                <p>—</p>
+                <p>Yes, I was saying every time we would try to emphasize the need for that kind of
+                    sensitivity at the Voice, and this mainly involved the coverage of what was
+                    “news,” we would always meet with resistance and sometimes heavy criticism. A
+                    lot of the outside criticism Tom I'm frank to tell you was generated by people
+                    at the Voice. We know that. A lot of the charges of censorship that we got from
+                    the Hill we're pretty sure were generated by people who didn't like the
+                    management and the policies that we wanted followed.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>If we've got another few seconds, let me just give you some specific examples of
+                    what I'm talking about. We've already talked about the policy of how we were
+                    going to cover the news with relationship to Watergate. Let's forget Watergate
+                    and let me give you several examples of what I'm talking about.</p>
+                <p>You may remember the My Lai massacre in Vietnam. The officer who commanded that
+                    platoon was Lieutenant Calley. And, of course, that whole matter was fully
+                    reported at the time the awful thing happened in Vietnam.</p>
+                <p>But you may also recall that months and years later, Calley had been convicted,
+                    but his conviction went up on appeal. And I remember very clearly this had to be
+                    six months to a year after his original conviction. There was some stage in the
+                    appeal when the conviction was either reversed or modified. What happened is
+                    unimportant. The fact is some appellate court did something in connection with
+                    Lieutenant Calley's conviction that became a news item in the United States,
+                    absolutely valid news item, the facts to be reported.</p>
+                <p>What did the Voice do? The first question was were any foreign audiences going to
+                    recognize what Lieutenant Calley's conviction had been and were they going to be
+                    interested in it? But assuming you got over that hurdle, the Voice instead of
+                    simply reporting that Lieutenant Calley who had been convicted X months ago, the
+                    court ruled today and simply give the facts, we found the Voice in its reporting
+                    going back over almost in shot by shot detail the entire My Lai massacre. And
+                    its reporting was indistinguishable from what you were hearing on CBS and NBC
+                    and ABC every night. And we felt that it was not necessary for the Voice to go
+                    as far as the commercial media went with the negatives. It was a matter of
+                    editorial judgment, not censorship.</p>
+                <p>Let me give you another example. At a time when Bill Sullivan, Ambassador
+                    Sullivan, who was the United States Ambassador in the Philippines, was in the
+                    process of renegotiating the leases for the bases at Subic Bay and Clark Air
+                    Base and quite a number of other things over there, not to mention the VOA
+                    installations in the Philippines.</p>
+                <p>
+                    <hi rend="italics">Q: Baguio.</hi>
+                </p>
+                <pb facs="0016" n="Page0016"/>
+                <p>KOPP: Baguio, Poro Point and Tinang. Very important VOA transmitters over there.
+                    And at the time, of course, we had Marcos in power. A leading critic of
+                    President Marcos was in this country on some kind of tour and had been
+                    interviewed on one of the commercial stations. It may have been the NBC Today
+                    show or something. Anyway, the VOA got that interview and put it on the air. And
+                    so we get a rocket in here from Ambassador Sullivan saying, here's the Voice of
+                    America broadcasting back to the Philippines an interview with the leading
+                    critic of President Marcos at a time when we are trying to renegotiate these
+                    important base agreements out here including VOA sites. What in the world is
+                    going on? That was a very valid question. What in the world is going on? When we
+                    got into the discussions with the Voice about it we immediately ran into First
+                    Amendment and this kind of thing. And we tried to impress upon them that maybe
+                    that was an item that need not have been covered in exactly that way. But,
+                    again, if they made the selection for coverage (as the commercials do) it was
+                    valid editorial judgment. If we wanted to suggest another judgment, it became
+                    management censorship.</p>
+                <p>And a final one. When the ARVN was in absolute rout—they started off in retreat
+                    and it turned into a rout in Vietnam. And everyday you had prominent Americans,
+                    particularly members of Congress, of the House and Senate, making public
+                    statements. Well, it's all over in Vietnam. What we ought to do is get our
+                    people out. What we ought to do in effect is cut and run.</p>
+                <p>Now, the question came up should the Voice be reporting in all this kind of
+                    detail these kinds of statements in a situation where we had a lot of Americans
+                    still on the ground in Vietnam. We had a very well equipped Army of the Republic
+                    of Vietnam who we were afraid if they got the idea that the Americans were going
+                    to leave them and leave them in the lurch, and you may recall this spanned three
+                    or four weeks, we could have had a blood bath on our hands over there. We could
+                    have had the ARVN turning on the Americans who were going to leave them to the
+                    tender mercies of the Viet Cong.</p>
+                <p>So we attempted to tell the Voice that it ought to be careful in its broadcast to
+                    that part of the world, that we did not by way of reporting these statements
+                    made by individual Congressmen and Senators, which were not United States policy
+                    by the way, that we did not create a panic situation. We caught all manner of
+                    criticism for that policy. I can tell you not only people at the Voice but
+                    members of the House and Senate that we had a very difficult time convincing
+                    that we were talking about the possibility of saving American lives on the
+                    ground over there through this policy.So the Voice for all of its pluses always
+                    has been I guess and always will continue to be a management problem for USIA.
+                    Nevertheless, I believe it would be a dreadful mistake to make the Voice an
+                    independent entity. On balance, I think the Voice is an important element of
+                    U.S. activity and U.S. foreign policy. But that's the major negative I would
+                    say.</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>Beyond that, I would say USIA programs, I used to hear criticisms that maybe we
+                    were doing too much impresario kinds of rather than advocacy functions. I think
+                    that's a matter of tone. I think both are needed. There are certain parts of the
+                    world where the only way we could get access to foreign audiences was through
+                    certain cultural activities. Those were the vehicles that would open up advocacy
+                    opportunities. And therefore, I think you need a mix.</p>
+                <p>
+                    <hi rend="italics">Q: Very good. Is that it?</hi>
+                </p>
+                <p>KOPP: I guess that's it. I had made a few notes here in anticipation of what we
+                    wanted to cover today and I guess that covers it all. I have to tell you just by
+                    way of concluding that the time at USIA and particularly with Jim Keogh was
+                    probably the most satisfying professional experience that I've had,
+                    notwithstanding the fact that it was through Watergate and it was through
+                    Vietnam problems and all of the trauma that went with that. I believe that at
+                    the end we could fairly look back and say that we had a very good team effort to
+                    run an agency that supplemented U.S. foreign policy efforts overseas. And that
+                    in large measure is to the credit of the dedication, style and sound ability of
+                    the Director. And I've never had a better job or boss since.</p>
+                <p>
+                    <hi rend="italics">Q: Thanks very much, Gene.</hi>
+                </p>
+                <p>KOPP: Thank you, Tom.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

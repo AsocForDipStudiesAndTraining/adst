@@ -1,259 +1,584 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000733">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Kenneth MacCormack </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Kenneth MacCormack </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project Information Series</p>
-<p>KENNETH MACCORMAC</p>
-<p>Interviewed by:  G. Lewis Schmidt </p>
-<p>Initial interview date:  January 5, 1989</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  Ken has had a long career with USIA, and I would like to ask him to start out by giving us a short bio sketch of where he originated, where he came from, what his education was, and then progress to how he got into USIA in the first place.  Ken, will you take it from there, staring with your bio sketch?</hi>
-</p>
-<p>Biosketch</p>
-<p>MACCORMAC:  Thanks, Lew.  I was born in Cordova, Alaska.  It was before Alaska was a state, before it was a territory.  It was only a possession in 1911.  I lived there until I was seven years old, upon my father's death.  My mother being a San Franciscan, we moved back to San Francisco again, and I went to school here.  I went most of my life to Catholic schools, St. Joseph's Academy in Berkeley, then on to Sacred Heart in San Francisco.  After that, the University of San Francisco, where I graduated in 1933.</p>
-<p>After that I went to work for the San Francisco Examiner for a couple of years as a reporter, not a very good one.  In between times, while going to high school, I used to go to sea.  Shipping out of San Francisco in the summertime, I could usually make a couple of round trips to Australia and back, usually getting jobs aboard passenger ships where I would be free in port, and therefore, got to see a good deal of the South Pacific.</p>
-<p>At the outbreak of the war, I was going to graduate school at Columbia University in New York, on leave of absence from the American Red Cross.  I've forgotten to mention Red Cross again.  I had joined the American Pacific Chapter of the American Red Cross in 1939 or '40.  I was on leave of absence from the Red Cross at the time of the outbreak of war in 1941.</p>
-<p>I came back and worked as a field representative in the seven western states, and eventually served as the representative of the American Red Cross in Alaska for a year.</p>
-<p>
-<hi rend="italics">Q:  This was during the war?</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>Army Service During War Years and After 1945,Military Government</p>
-<p>MACCORMAC:  This was during the war.  I was inducted in the Army in 1941 or '42, and after basic training in Monterey and Texas, was shipped overseas to England.  There I was assigned to the special service department of the 67th General Hospital for two or three years.</p>
-<p>At the end of the war, I received orders transferring me from England to APO-742.  I didn't know where it was, but found out it was Berlin.  I was still in the Army, assigned to military government Berlin in the Public Health and Welfare Department.  I became a civilian in Berlin; we were civilianized.  Then I was shipped out, still in the military government, to the Office of Military Government Bavaria, also in the Public Health and Welfare Department.</p>
-<p>When did the State Department take over?</p>
-<p>
-<hi rend="italics">Q:  I think it was around 1949.</hi>
-</p>
-<p>1944: Suddenly MacCormac Is In Department of StateAssigned to HICOGS Education and Culture Division</p>
-<p>MACCORMAC:  I think it was in 1949.  All of a sudden, I found myself working for the State Department.  One day, somewhere in that time, three Foreign Service officers came.  They were looking for people who might be interested in joining the Foreign Service.  I thought, “I might as well take the examination.” My German was pretty good, and I had some college French.  After an interview, I found out I was in State.  (Laughs)</p>
-<p>
-<hi rend="italics">Q:  When you went to State, were you still with HICOG?</hi>
-</p>
-<p>MACCORMAC:  HICOG.  Right.</p>
-<p>
-<hi rend="italics">Q:  Were you still in the health side of it?</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>MACCORMAC:  No.  The department was called Education and Culture Division of HICOG, I guess it was.  HICOG started a program of selecting Germans to go to the United States for the three D's.  What were they?  Democratization, de-nazification, and there was another one.  My job was to work on the selection of Bavarians to go to the United States.  Originally it was a leader's program, people who were known to our government, but had not been outside of Germany for 12 years.  That was a fairly big program.  Then it developed into a university student program, selecting students from the several Bavarian universities to go to America, and also we developed the AFS program, together with that, for young high school students to go live in the United States for a year.  Then a young farm youth program for young Bavarian farm youth to live with American farmer families for a year.  That lasted until 1954.  All of a sudden, I received orders transferring me to Seoul, Korea. (Laughs)</p>
-<p>
-<hi rend="italics">Q:  During this time that you were working with these exchange programs, did you have any occasion to follow up on those who had returned, and find out what their impressions had been?  Did you think the program was successful in its goals?</hi>
-</p>
-<p>MACCORMAC:  We had a big follow-up program.  As a matter of fact, there was one man in the exchange-of-persons office responsible for follow-up.  We kept a good record of who went to the United States, and we saw a lot of them when they came back.  As a matter of fact, there was an association formed in Munich called the Columbus Gasellshaft of returnees from the United States.  It's still going, as a matter of fact.  I was in Munich a couple of years ago, and Columbus Gasellshaft had a luncheon for me with a lot of old-timers who had been in the early exchange programs.</p>
-<p>Then to Korea.</p>
-<p>
-<hi rend="italics">Q:  Did you feel that the program was quite successful?  When the people came back, did they seem to be impressed with America, or did they seem to be somewhat weaned away from the Nazi philosophy, if they had previously been infected by it?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>MACCORMAC:  There was no evidence at all, ever, of their being Nazis.  They were Germans, but they were certainly deeply impressed by the United States, particularly the professional people, doctors, dentists, lawyers, other professionals who had been out of touch with professions in the outside world for over 12 years, during the Nazi time.  The university students also, many of them received advanced degrees in the United States.  Our only loses were some of the young ones who got married, but that was sort of par for the course.  You had to expect that.  We didn't lose too many.  We were always unhappy when we did, because we wanted them back in Germany again.  I'm still in touch with many of them.  As a matter of fact, last September I was a house guest of a university professor at the University of Munich.  This professor was sent to the United States when he was a student at the university in the 1950s.  He was sent to the University of Mississippi.  He had a great experience, finally came back with a doctor's degree, and now is a full professor at the university.  So I'm still in touch with many, many of them, particularly at Christmas time.</p>
-<p>1954 - Assigned to Seoul, Korea</p>
-<p>I arrived in Seoul, Korea, in July of 1954.  Bob Spier was the public affairs officer there, and Ellis Briggs was the ambassador.  Going to a war-torn country after leaving Bavaria, with all its amenities, was sort of a shock.  But actually, Korea was one of the best posts I was ever assigned to, particularly because of my great admiration for the Korean people.</p>
-<p>My job there was in the cultural affairs office, and I was particularly assigned to starting and developing a book translation program.  I forget how many American books we had translated and published while I was there, but it was in the hundreds.  The way it was done was to contract with young Korean professors who had been to the United States, who were interested in making some extra money by translating books, and then we assisted the publishers by making available newsprint to them of which we had quantities in Korea.  As I say, it was a great post.  I made many friends their, enjoyed it very, very much.</p>
-<p>Following Korea, I was assigned to Japan.</p>
-<p>
-<hi rend="italics">Q:  You translated several hundreds of books into Korean from English.  Did you have a wide readership then?  I presume you put these in libraries after that, but did you have a commercial distribution also</hi>
-</p>
-<p>MACCORMAC:  We had a commercial distribution.  That was one of the big problems.  Korea didn't have a book distributing system, but one was developed with the book translation program.  The books went all over Korea and were widely sought after.  As a matter of fact, the ambassador used to pass out translations of American books, histories, biographies, to his Korean colleagues, as well as to other members of government.</p>
-<pb facs="0005" n="Page0005"/>
-<p>I think one of the interesting things about my stay in Korea was my association with (Chang Myon) John M. Chang, as he was known.  He was a cultural leader and educator.  He had a school and was a very prominent Catholic.  He was in opposition to the Korean government.  As a matter of fact, he was elected from the opposition party to be vice president of Korea while I was there.  So Syngman Rhee was president, but his successor was John M. Chang, who eventually became president of Korea, a marvelous man.  I'm afraid he's dead now.  The morning he was elected, he sent a note to me asking me to get him a bulletproof vest.  (Laughs) And I did.  I got one from the other agency.  Eventually, he was shot at.  I don't know if the vest saved him, but he had the vest.</p>
-<p>1956 - One Year Assignment to Japan</p>
-<p>Then on to Japan, which was a one-year tour.  The purpose of it was to develop a follow-up program for the many hundreds of Japanese who had been to the United States.</p>
-<p>
-<hi rend="italics">Q:  What year was it that you went to Japan?  What month, do you remember?  It must have been June or after, because I had been in Japan for four and a half years, and I left at the end of May of '56.</hi>
-</p>
-<p>MACCORMAC:  I remember meeting you in Korea one time when you came over on military.</p>
-<p>
-<hi rend="italics">Q:  That's right, I remember that.</hi>
-</p>
-<p>MACCORMAC:  It must have been the summer of 1956.</p>
-<p>
-<hi rend="italics">Q:  By that time, Johnny McKnight was PAO in Korea, I think.</hi>
-</p>
-<p>MACCORMAC:  That's right.  He was PAO in Korea.  We formed, among other things, a number of American University Alumni Associations in Japan, and I found this was fairly easy to do because the Japanese like to work in groups.  For instance, we had a big alumni group from the University of California, from Stanford, with regular meetings, and then we had regular follow-up meetings of returned Fulbright alumni at Fulbright headquarters.  I had published at that time a newsletter which went out monthly to 3,000 Japanese returnees, and I think it's still going.  As a matter of fact, I have some of the early editions bound and published, and I have them all wrapped up.  I'm going to send them back to the Fulbright Foundation in Japan, because they're an interesting history of the Foundation in those days.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  When you had our meetings, were they primarily social, or were they study groups?  How did they function?</hi>
-</p>
-<p>MACCORMAC:  The meetings were primarily meetings with visiting American scholars, professors, political leaders, and that sort of thing.  We would select and invite Japanese returnees who we thought would be interested in meeting these individuals.</p>
-<p>
-<hi rend="italics">Q:  Did you have fairly sizable meetings?</hi>
-</p>
-<p>MACCORMAC:  Oh yes.  There was a good deal of interest in it, yes.</p>
-<p>
-<hi rend="italics">Q:  Since you don't seem to have very many fruitful memories of Washington, we'll go on to your next assignment.</hi>
-</p>
-<p>1960 - Bangkok, Thailand</p>
-<p>MACCORMAC:  In 1960 I was assigned to Bangkok, Thailand.  I had six months of Thai language training at Foreign Service Institute, and then I continued in Thai language training all the time I was in Thailand.  As you know, it's a difficult language.  Languages are difficult for me, anyway.</p>
-<p>
-<hi rend="italics">Q:  They are for me, too.</hi>
-</p>
-<p>MACCORMAC:  I had to spend a lot of time at it.  But it was worthwhile.  I was assigned as deputy PAO at that time to Bangkok.  The public affairs officer was Howard Garnish, with whom I'm still in contact and look forward to seeing whenever I go to Washington.  He and his wife were very, very kind to me.</p>
-<pb facs="0007" n="Page0007"/>
-<p>One of the interesting things, as far as I'm concerned, in Thailand was my association with the Siam Society.  Through the Siam Society, which is a cultural organization which has been going in Bangkok since 1904, I came in contact and met practically all of the cultural leaders in Thailand, including the king and queen.  This was helpful in many, many ways.  My great and good friend in the Siam Society was Prince Dhani, who was the king's uncle, a delightful man who was then in his sixties.  His grandmother was one of the consorts of King Monqut.  When Prince Dhani was a boy, he was raised in the grand palace and carried around until he was 13.  When he was 13, he was sent to Rugby in England for an education, and stayed in England for many years.  He's was a graduate of Cambridge, and he spoke flawless English in a rather Victorian manner.  He wrote beautifully, a highly educated man.  He had been under the absolute monarchy, at one time the minister of education.  As I say, through Prince Dhani I got to know some of the cultural leaders and, as a matter of fact, some of the cultural leaders became political leaders, among them Kukrit Parmoj.</p>
-<p>A good deal could be done through personal acquaintance with the nobility and aristocracy.  Of course, the king in Thailand is greatly revered, as is his wife.  Among my other acquaintances at that time was Prince Wan, also a delightful man, English educated, of the old school.  When I knew him, he was rector of Tamasat University, and at one time he became prime minister.  Then I remember another time somebody wanted an interview with him, and for some reason or other, I was the only one in the embassy who knew him.</p>
-<p>This was during the time U. Alexis Johnson was the ambassador, and he was followed by Ken Young, ambassador to Thailand.  It was shortly following Ken Young's appointment there that we had the visit of the Vice President, Lyndon Johnson.</p>
-<p>Vice President Lyndon Johnson Visits Bangkok!</p>
-<p>
-<hi rend="italics">Q:  Which I understand was something of a disaster.</hi>
-</p>
-<p>MACCORMAC:  Something of a disaster.  Right.  (Laughs)</p>
-<p>
-<hi rend="italics">Q:  Would you care to make a few remarks about that?  I think it would be very interesting to get your impressions and your report of what happened.</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>MACCORMAC:  I found it was very difficult to deal with the Vice President's party.  We had been planning at that time — “we,” that is USIA.  I was Acting PAO at that time because Howard Garnish was on home leave.  We had been planning a reception at the Erawan Hotel for the Thai Press Association, which was celebrating its 50th anniversary.  We had invitations out, and it was going to be a big gala affair of which we, USIS, were the host.  We did not know at the time that Lyndon Johnson had refused the Thais' offer of one of the palaces in which to live while he was in Bangkok, and he moved into the Erawan Hotel, where we were having our reception.  I thought as long as he was going to be in the hotel, he might like to met the Thai Press Association.  So I phoned to members of his party in Taipei and in Hong Kong, and asked if the Vice President would be willing or interested in meeting with the Thai Press Association in his hotel, and was assured that he would be happy to.  So all was laid on.</p>
-<p>Our party was going on and on and on downstairs, and I was waiting for the Vice President to come down.  The party was half over and he wasn't there, so I asked somebody to go up and get him or see if they could coax him down.  It was Carl Rowan.  Remember Carl Rowan?</p>
-<p>
-<hi rend="italics">Q:  He was the director.</hi>
-</p>
-<p>MACCORMAC:  He was the director of the Agency at that time.  Carl went upstairs.  After a funny story that I can't record, he came down and told the story about the Vice President.  Anyway, the Vice President eventually came down and he stayed about half an hour and talked to the Thai Press.  It was a big success as far as that went.  But I was getting gray hair, wondering if he was coming to the party at all.</p>
-<p>
-<hi rend="italics">Q:  At this point I'd like to ask you why did he refuse to stay in one of the palaces?</hi>
-</p>
-<p>MACCORMAC:  I think he refused to stay in the Phitsanolok House because of security reasons.  That's the story they gave, anyway.  But it took Bangkok a long time to get over the visit of Lyndon Johnson.</p>
-<p>
-<hi rend="italics">Q:  There was one story going around when I got there, which may be apocryphal, said that he moved into the mansion, didn't like the drapes, and asked the imperial household to change the drapes.</hi>
-</p>
-<p>MACCORMAC:  It's a story that could have happened, knowing what he subjected the post to.  But I never heard that story.  I don't know whether it's true or not.  He was a difficult man to please, anyway.  That was 1963.</p>
-<p>
-<pb facs="0009" n="Page0009"/>
-<hi rend="italics">Q:  Your tour was up in 1965.</hi>
-</p>
-<p>Reassignment to Washington: 1965</p>
-<p>MACCORMAC:  Right.  I was reassigned to Washington.  I think it was called IAF, the Far East Division.  My job was to be the desk officer for Thailand, Laos, Burma, and Cambodia.  We had lots of troubles at that time in Laos, particularly.  Of course, the war was going on in Vietnam, but it didn't affect Thailand very much, except Thailand became a great R&amp;R center, rest and recuperation center, for American troops in Vietnam.</p>
-<p>The Washington tour was interesting because having responsibility for these four desks in IAF, I got trips out to the various countries while I was there, which I enjoyed very much.  I'd never been to Burma before.  I think it was at that time that the Burmese government closed the USIA library in Rangoon, an excellent library, much appreciated by the students and people in Rangoon.  But Ne Win, who had become prime minister or president, I guess, didn't want the American influence, though the rest of Burma did.  I remember he closed the library, but asked the embassy to give him the books.  (Laughs) I didn't see any point in that, so the library was closed, and I moved the books to other countries, where they appreciated them.  Zelda Graham, I think her name was.</p>
-<p>
-<hi rend="italics">Q:  She was the long-time librarian there.</hi>
-</p>
-<p>MACCORMAC:  Yes.</p>
-<p>
-<hi rend="italics">Q:  She had virtually built that library.</hi>
-</p>
-<p>MACCORMAC:  She had built the library.</p>
-<p>
-<hi rend="italics">Q:  She was devastated at the...</hi>
-</p>
-<p>MACCORMAC:  Absolutely right.  Zelda Graham had many, many friends in Burma, including Ne Win's wife Kitty, his second wife.  But there was nothing that could be done about it.  All of my colleagues who have known Burma and lived there have loved the Burmese, have many friends there, and even now look forward to the days when Burma will become an open country again instead of a ruined country.</p>
-<p>MacCormac Returns to Thailand: 1967</p>
-<pb facs="0010" n="Page0010"/>
-<p>I was getting old, and I knew that I would have to retire in 1971, so I asked to be returned to Thailand.  An opening came up as the cultural affairs officer, and I was assigned back to Bangkok as cultural affairs officer.</p>
-<p>
-<hi rend="italics">Q:  You replaced Frank Tenny.</hi>
-</p>
-<p>MACCORMAC:  I replaced Frank Tenny.  I met Frank Tenny last week at Greg Henderson's memorial service in Cambridge.</p>
-<p>It was a job I liked, back among old friends.  I got my old house back again.  One of the perks in Bangkok was a beautiful old Chinese house which I had leased when I first got there in 1960, on the same street as the USIA office, and it was a great place for entertaining.  It was wide open, lots of room, lots of space.  I had a number one, which is known as the person in charge of your household, from 1960.  Her name was Foo.  Foo ran his house with an iron hand.</p>
-<p>
-<hi rend="italics">Q:  Was she Chinese?</hi>
-</p>
-<p>MACCORMAC:  Foo was a Vietnamese, totally uneducated, although she could speak five languages, Vietnamese, Lao, French, Thai, and English.  The reason she wanted to work for me, because there was a school nearby she wanted her three children to go to.  This little lady who had never been to school in her life arranged that her children got into this very good school near where I lived, and all three of them went on to the university.  I'm still in touch with her.</p>
-<p>
-<hi rend="italics">Q:  Did they go to the university in Thailand?</hi>
-</p>
-<p>MACCORMAC:  The university in Thailand.  Right.</p>
-<p>
-<hi rend="italics">Q:  Tomasat or Chulalongkorn</hi>
-</p>
-<p>MACCORMAC:  Chulalongkorn.</p>
-<p>
-<hi rend="italics">Q:  Was Phil Damon in Thailand when you were there?  Did he return in 1970 or '71?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>MACCORMAC:  Yes.  Philip Damon, whom I'd known in my German days in Germany, and who had married a delightful French girl who came with the ballet from Nice to Munich, he was in Bangkok when I got there.  Phil and Genevieve Damon were very close to the king and queen.  They were both fluent in French, and Phil was a big, outgoing guy, a great golfer, but sadly enough, he contracted multiple sclerosis, and he was back in Washington when this developed.  He always thought if he could get back to Thailand, he'd get better, but, of course, he didn't.  Through agency help, he was brought back to Thailand as an employee without compensation, I think it was called.  There he had the use of the APO and the commissary.  The king and queen kept him in Chulalongkorn hospital with day and night nurses for the first year he was there, Phil is still living.  I go to see him whenever I go to Bangkok.  He's totally bedridden.  I think he's nearly blind.  His only source of happiness is the books on records which he gets from the Library of Congress.</p>
-<p>
-<hi rend="italics">Q:  Is his association with the king terminated now?</hi>
-</p>
-<p>MACCORMAC:  No.  The associations with the king and queen are still strong.  As a matter of fact, his wife Genevieve, is a great friend of the Queen, and Genevieve is the only non-Thai that I know of who has been given a title by the king.  She's now known as Khun Ying Damon.  She runs a small ballet school, and she's been a marvelous, marvelous wife to Philip Damon, who has had this terrible affliction.  His three daughters are now married and living in Thailand.</p>
-<p>The Huge Cultural Center, AUA (American University Association) Was Given A Grant to Build Present Building.  It is Enormous Success.</p>
-<p>One of the first things I did when I first got to Thailand in 1960, was to deliver a check of $280,000 to the American University Alumni Association, AUA, to build an AUA language center.  All the preparatory work had been done by the people who preceded me, but the check just happened to come when I was there.  To make a long story short, we got crown land on which to build the AUA building, and I still have pictures of it.  It was on three old fish ponds on a very long, long lot, but in a good location.  We moved the AUA center, finally, when it was built, from Sarankom Palace, way down the river on the other side of town, to the new location.  It's been a big and going concern ever since.  When I was last in Thailand, the AUA center was operating from 7:00 in the morning until 9:00 at night, teaching English to Thai.  This is something they want, and AUA knows how to do it.  Small classes, teaching spoken English.  By the time the pupils are through one year of this course, they can really speak English.  As a matter of fact, we moved the USIS library and cultural center from Patpong Road, which had become infamous, to the AUA center, and it's now a USIS center, as well as the American University Alumni Association.</p>
-<p>
-<pb facs="0012" n="Page0012"/>
-<hi rend="italics">Q:  When I was there, we closed the American library and we moved all the books, donated them to the center.  Is that the move to which you are referring?</hi>
-</p>
-<p>MACCORMAC:  That's right, yes.  After the building of the AUA classrooms, another grant was made to build the large library in front of the AUA classroom building, and it's one of the best libraries in Thailand.</p>
-<p>
-<hi rend="italics">Q:  When you said you acquired the crown property, what did we do, pay the crown for it?  Or did they donate it?</hi>
-</p>
-<p>MACCORMAC:  It was on a long-term lease, which is a nominal amount.  I forget the amount which we pay the crown property division every year.</p>
-<p>
-<hi rend="italics">Q:  So all the major grant went to the construction.</hi>
-</p>
-<p>MACCORMAC:  The major grant went to the construction of the building. Right.  There are 35 classrooms, and it's amazing to see them all in use, all the time.  The success, of course, was the use of American teachers.  We used only American teachers, even though those who had never taught before, we taught them how to teach.</p>
-<p>
-<hi rend="italics">Q:  You were teaching English with an American accent and American vocabulary.</hi>
-</p>
-<p>MACCORMAC:  Precisely.  As a matter of fact, some of our colleagues in Australia, New Zealand, and England were sort of miffed that we wouldn't use them, but we always insisted on using Americans.</p>
-<p>Ambassador Johnson was one of the firm backers of the AUA and all of its activities.  I'll always remember him saying, in a country team meeting, “I never put pressure on people to participate in social events, but if there are any events at the AUA center, I want you there.” It was very well attended by Americans.  Usually there was an annual show put on by the AUA membership, to which the king and queen came.  There were lectures, films, big auditoriums.  It's a very impressive and worthwhile institution.</p>
-<p>
-<hi rend="italics">Q:  I've heard people say they think that the AUA, which is, in fact, our cultural center in Bangkok, probably did more for American-Thai relationships than all the rest of the USIS programs.</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>MACCORMAC:  I think there's no question about it.  It's something we know how to do, something the Thai wanted, both in teaching of English, use of the library, and use of the film center, lecture halls, all that sort of thing.</p>
-<p>
-<hi rend="italics">Q:  Who was directing the center during the time you were there as CAO?</hi>
-</p>
-<p>MACCORMAC:  Gordon Schneider was director of the language center when I first got to Bangkok, and he was the one instrumental in the move to the new location.  He was followed by Milton Leavitt, who had two tours as director of AUA.  I remember when we were moving the USIA cultural center to AUA, there was some hesitancy on the part of the board of directors, which was headed by a Thai, Phra Bisal Sukhumvit who is still living.  He didn't want to have an American propaganda institution.  So Leavitt went over all the programs we had at our own cultural center the preceding year, and convinced Phra Bisal that it was not going to be, and never would be, an American “propaganda” center.  The programs we put on there over the years are very, very well received by the Thai.</p>
-<p>1971: MacCormac Retires But Returns in 1978 toDirect Thai Fulbright Foundation</p>
-<p>I retired in July of 1971.  Then in 1977, I received a telephone call from the Thailand Fulbright Foundation, asking me if I'd come back for two years to direct the Fulbright Foundation in Thailand.  I was only too happy to go back, and so I spent '78 and '79 back in Thailand as the director of the Fulbright Foundation, working with a lot of people whom I'd known in the past.  For instance, one of our early grantees, Dr. Qasim, was then rector of Chulalongkorn University.  A lot of the young Thai we'd sent in the early sixties for advanced degrees to the United States had come back and were in very prominent education and cultural positions in Thailand.  So it was easy to deal with them.</p>
-<p>We had good support from the department, not because we were such a good foundation, but because no money could be spent in Burma, Laos, or Cambodia.  So we had extra money for the Fulbright Foundation in Thailand, and we usually sent 30 or 40 graduate students to the United States every year.  Most of them came back with doctorates.</p>
-<p>
-<hi rend="italics">Q:  When you were there on your first tour, I imagine there probably was not much student agitation, but I know that at the time that I was approaching the end of my tour, the students had become quite activist, and a number of them were getting into left-wing organizations.  Did you have much trouble with that during your last tour there?</hi>
-</p>
-<p>MACCORMAC:  I never did at all, no.  I was very much surprised to read and learn about these student riots and uprising after I'd been away from Thailand.  To me, it was so un-Thai to have this open rebellion against authority.  But nothing like that ever happened while I was there.</p>
-<pb facs="0014" n="Page0014"/>
-<p>
-<hi rend="italics">Q:  You mentioned a little earlier that a number of the people who had been patrons and even, perhaps, students at the AUA, subsequently went out and became prominent people not only in the Thai educational scene, but also in the political field.  Can you name a couple of them in the political arena?  Were these the Pramoj brothers?</hi>
-</p>
-<p>MACCORMAC:  The two Pramoj brothers were particularly influential in the political field.  Kukrit became Prime Minister of Thailand.  He is his own man and quite a mercurial man, sometimes a great friend, sometimes a great enemy of the United States, was manager, owner, and publisher of the most prominent newspaper in Thailand.  The Siam Rath, a paper that everyone reads.  He was also the man who played the part of the prime minister in the film, “The Ugly American.” We journeyed to the United States on the same plane one time, and I remember, I think it was during the time when he was doing this film, I addressed him as Mr. Prime Minister, in jest, never thinking he would really be prime minister again one day.  His brother, an older brother, Seni, had been the Thai minister to the United States in Washington at the time of the Japanese invasion of Thailand, at the time when Thailand declared war on the United States.  But we were never at war with Thailand because Seni refused to deliver the Thai declaration to the Government of the United States.</p>
-<p>
-<hi rend="italics">Q:  It's a fascinating country.  You spent much more time there than I did, and I know you loved it.  Do you have anything further that you wish to add, Ken?</hi>
-</p>
-<p>MACCORMAC:  No, Lew.  I guess that about covers it.</p>
-<p>
-<hi rend="italics">Q:  Well, thank you very much, Ken.  I will return the transcript of this interview for editing as soon as possible.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project Information Series</p>
+                <p>KENNETH MACCORMAC</p>
+                <p>Interviewed by: G. Lewis Schmidt </p>
+                <p>Initial interview date: January 5, 1989</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Ken has had a long career with USIA, and I would like to
+                        ask him to start out by giving us a short bio sketch of where he originated,
+                        where he came from, what his education was, and then progress to how he got
+                        into USIA in the first place. Ken, will you take it from there, staring with
+                        your bio sketch?</hi>
+                </p>
+                <p>Biosketch</p>
+                <p>MACCORMAC: Thanks, Lew. I was born in Cordova, Alaska. It was before Alaska was a
+                    state, before it was a territory. It was only a possession in 1911. I lived
+                    there until I was seven years old, upon my father's death. My mother being a San
+                    Franciscan, we moved back to San Francisco again, and I went to school here. I
+                    went most of my life to Catholic schools, St. Joseph's Academy in Berkeley, then
+                    on to Sacred Heart in San Francisco. After that, the University of San
+                    Francisco, where I graduated in 1933.</p>
+                <p>After that I went to work for the San Francisco Examiner for a couple of years as
+                    a reporter, not a very good one. In between times, while going to high school, I
+                    used to go to sea. Shipping out of San Francisco in the summertime, I could
+                    usually make a couple of round trips to Australia and back, usually getting jobs
+                    aboard passenger ships where I would be free in port, and therefore, got to see
+                    a good deal of the South Pacific.</p>
+                <p>At the outbreak of the war, I was going to graduate school at Columbia University
+                    in New York, on leave of absence from the American Red Cross. I've forgotten to
+                    mention Red Cross again. I had joined the American Pacific Chapter of the
+                    American Red Cross in 1939 or '40. I was on leave of absence from the Red Cross
+                    at the time of the outbreak of war in 1941.</p>
+                <p>I came back and worked as a field representative in the seven western states, and
+                    eventually served as the representative of the American Red Cross in Alaska for
+                    a year.</p>
+                <p>
+                    <hi rend="italics">Q: This was during the war?</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>Army Service During War Years and After 1945,Military Government</p>
+                <p>MACCORMAC: This was during the war. I was inducted in the Army in 1941 or '42,
+                    and after basic training in Monterey and Texas, was shipped overseas to England.
+                    There I was assigned to the special service department of the 67th General
+                    Hospital for two or three years.</p>
+                <p>At the end of the war, I received orders transferring me from England to APO-742.
+                    I didn't know where it was, but found out it was Berlin. I was still in the
+                    Army, assigned to military government Berlin in the Public Health and Welfare
+                    Department. I became a civilian in Berlin; we were civilianized. Then I was
+                    shipped out, still in the military government, to the Office of Military
+                    Government Bavaria, also in the Public Health and Welfare Department.</p>
+                <p>When did the State Department take over?</p>
+                <p>
+                    <hi rend="italics">Q: I think it was around 1949.</hi>
+                </p>
+                <p>1944: Suddenly MacCormac Is In Department of StateAssigned to HICOGS Education
+                    and Culture Division</p>
+                <p>MACCORMAC: I think it was in 1949. All of a sudden, I found myself working for
+                    the State Department. One day, somewhere in that time, three Foreign Service
+                    officers came. They were looking for people who might be interested in joining
+                    the Foreign Service. I thought, “I might as well take the examination.” My
+                    German was pretty good, and I had some college French. After an interview, I
+                    found out I was in State. (Laughs)</p>
+                <p>
+                    <hi rend="italics">Q: When you went to State, were you still with HICOG?</hi>
+                </p>
+                <p>MACCORMAC: HICOG. Right.</p>
+                <p>
+                    <hi rend="italics">Q: Were you still in the health side of it?</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>MACCORMAC: No. The department was called Education and Culture Division of HICOG,
+                    I guess it was. HICOG started a program of selecting Germans to go to the United
+                    States for the three D's. What were they? Democratization, de-nazification, and
+                    there was another one. My job was to work on the selection of Bavarians to go to
+                    the United States. Originally it was a leader's program, people who were known
+                    to our government, but had not been outside of Germany for 12 years. That was a
+                    fairly big program. Then it developed into a university student program,
+                    selecting students from the several Bavarian universities to go to America, and
+                    also we developed the AFS program, together with that, for young high school
+                    students to go live in the United States for a year. Then a young farm youth
+                    program for young Bavarian farm youth to live with American farmer families for
+                    a year. That lasted until 1954. All of a sudden, I received orders transferring
+                    me to Seoul, Korea. (Laughs)</p>
+                <p>
+                    <hi rend="italics">Q: During this time that you were working with these exchange
+                        programs, did you have any occasion to follow up on those who had returned,
+                        and find out what their impressions had been? Did you think the program was
+                        successful in its goals?</hi>
+                </p>
+                <p>MACCORMAC: We had a big follow-up program. As a matter of fact, there was one man
+                    in the exchange-of-persons office responsible for follow-up. We kept a good
+                    record of who went to the United States, and we saw a lot of them when they came
+                    back. As a matter of fact, there was an association formed in Munich called the
+                    Columbus Gasellshaft of returnees from the United States. It's still going, as a
+                    matter of fact. I was in Munich a couple of years ago, and Columbus Gasellshaft
+                    had a luncheon for me with a lot of old-timers who had been in the early
+                    exchange programs.</p>
+                <p>Then to Korea.</p>
+                <p>
+                    <hi rend="italics">Q: Did you feel that the program was quite successful? When
+                        the people came back, did they seem to be impressed with America, or did
+                        they seem to be somewhat weaned away from the Nazi philosophy, if they had
+                        previously been infected by it?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>MACCORMAC: There was no evidence at all, ever, of their being Nazis. They were
+                    Germans, but they were certainly deeply impressed by the United States,
+                    particularly the professional people, doctors, dentists, lawyers, other
+                    professionals who had been out of touch with professions in the outside world
+                    for over 12 years, during the Nazi time. The university students also, many of
+                    them received advanced degrees in the United States. Our only loses were some of
+                    the young ones who got married, but that was sort of par for the course. You had
+                    to expect that. We didn't lose too many. We were always unhappy when we did,
+                    because we wanted them back in Germany again. I'm still in touch with many of
+                    them. As a matter of fact, last September I was a house guest of a university
+                    professor at the University of Munich. This professor was sent to the United
+                    States when he was a student at the university in the 1950s. He was sent to the
+                    University of Mississippi. He had a great experience, finally came back with a
+                    doctor's degree, and now is a full professor at the university. So I'm still in
+                    touch with many, many of them, particularly at Christmas time.</p>
+                <p>1954 - Assigned to Seoul, Korea</p>
+                <p>I arrived in Seoul, Korea, in July of 1954. Bob Spier was the public affairs
+                    officer there, and Ellis Briggs was the ambassador. Going to a war-torn country
+                    after leaving Bavaria, with all its amenities, was sort of a shock. But
+                    actually, Korea was one of the best posts I was ever assigned to, particularly
+                    because of my great admiration for the Korean people.</p>
+                <p>My job there was in the cultural affairs office, and I was particularly assigned
+                    to starting and developing a book translation program. I forget how many
+                    American books we had translated and published while I was there, but it was in
+                    the hundreds. The way it was done was to contract with young Korean professors
+                    who had been to the United States, who were interested in making some extra
+                    money by translating books, and then we assisted the publishers by making
+                    available newsprint to them of which we had quantities in Korea. As I say, it
+                    was a great post. I made many friends their, enjoyed it very, very much.</p>
+                <p>Following Korea, I was assigned to Japan.</p>
+                <p>
+                    <hi rend="italics">Q: You translated several hundreds of books into Korean from
+                        English. Did you have a wide readership then? I presume you put these in
+                        libraries after that, but did you have a commercial distribution also</hi>
+                </p>
+                <p>MACCORMAC: We had a commercial distribution. That was one of the big problems.
+                    Korea didn't have a book distributing system, but one was developed with the
+                    book translation program. The books went all over Korea and were widely sought
+                    after. As a matter of fact, the ambassador used to pass out translations of
+                    American books, histories, biographies, to his Korean colleagues, as well as to
+                    other members of government.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>I think one of the interesting things about my stay in Korea was my association
+                    with (Chang Myon) John M. Chang, as he was known. He was a cultural leader and
+                    educator. He had a school and was a very prominent Catholic. He was in
+                    opposition to the Korean government. As a matter of fact, he was elected from
+                    the opposition party to be vice president of Korea while I was there. So Syngman
+                    Rhee was president, but his successor was John M. Chang, who eventually became
+                    president of Korea, a marvelous man. I'm afraid he's dead now. The morning he
+                    was elected, he sent a note to me asking me to get him a bulletproof vest.
+                    (Laughs) And I did. I got one from the other agency. Eventually, he was shot at.
+                    I don't know if the vest saved him, but he had the vest.</p>
+                <p>1956 - One Year Assignment to Japan</p>
+                <p>Then on to Japan, which was a one-year tour. The purpose of it was to develop a
+                    follow-up program for the many hundreds of Japanese who had been to the United
+                    States.</p>
+                <p>
+                    <hi rend="italics">Q: What year was it that you went to Japan? What month, do
+                        you remember? It must have been June or after, because I had been in Japan
+                        for four and a half years, and I left at the end of May of '56.</hi>
+                </p>
+                <p>MACCORMAC: I remember meeting you in Korea one time when you came over on
+                    military.</p>
+                <p>
+                    <hi rend="italics">Q: That's right, I remember that.</hi>
+                </p>
+                <p>MACCORMAC: It must have been the summer of 1956.</p>
+                <p>
+                    <hi rend="italics">Q: By that time, Johnny McKnight was PAO in Korea, I
+                        think.</hi>
+                </p>
+                <p>MACCORMAC: That's right. He was PAO in Korea. We formed, among other things, a
+                    number of American University Alumni Associations in Japan, and I found this was
+                    fairly easy to do because the Japanese like to work in groups. For instance, we
+                    had a big alumni group from the University of California, from Stanford, with
+                    regular meetings, and then we had regular follow-up meetings of returned
+                    Fulbright alumni at Fulbright headquarters. I had published at that time a
+                    newsletter which went out monthly to 3,000 Japanese returnees, and I think it's
+                    still going. As a matter of fact, I have some of the early editions bound and
+                    published, and I have them all wrapped up. I'm going to send them back to the
+                    Fulbright Foundation in Japan, because they're an interesting history of the
+                    Foundation in those days.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: When you had our meetings, were they primarily social, or
+                        were they study groups? How did they function?</hi>
+                </p>
+                <p>MACCORMAC: The meetings were primarily meetings with visiting American scholars,
+                    professors, political leaders, and that sort of thing. We would select and
+                    invite Japanese returnees who we thought would be interested in meeting these
+                    individuals.</p>
+                <p>
+                    <hi rend="italics">Q: Did you have fairly sizable meetings?</hi>
+                </p>
+                <p>MACCORMAC: Oh yes. There was a good deal of interest in it, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Since you don't seem to have very many fruitful memories
+                        of Washington, we'll go on to your next assignment.</hi>
+                </p>
+                <p>1960 - Bangkok, Thailand</p>
+                <p>MACCORMAC: In 1960 I was assigned to Bangkok, Thailand. I had six months of Thai
+                    language training at Foreign Service Institute, and then I continued in Thai
+                    language training all the time I was in Thailand. As you know, it's a difficult
+                    language. Languages are difficult for me, anyway.</p>
+                <p>
+                    <hi rend="italics">Q: They are for me, too.</hi>
+                </p>
+                <p>MACCORMAC: I had to spend a lot of time at it. But it was worthwhile. I was
+                    assigned as deputy PAO at that time to Bangkok. The public affairs officer was
+                    Howard Garnish, with whom I'm still in contact and look forward to seeing
+                    whenever I go to Washington. He and his wife were very, very kind to me.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>One of the interesting things, as far as I'm concerned, in Thailand was my
+                    association with the Siam Society. Through the Siam Society, which is a cultural
+                    organization which has been going in Bangkok since 1904, I came in contact and
+                    met practically all of the cultural leaders in Thailand, including the king and
+                    queen. This was helpful in many, many ways. My great and good friend in the Siam
+                    Society was Prince Dhani, who was the king's uncle, a delightful man who was
+                    then in his sixties. His grandmother was one of the consorts of King Monqut.
+                    When Prince Dhani was a boy, he was raised in the grand palace and carried
+                    around until he was 13. When he was 13, he was sent to Rugby in England for an
+                    education, and stayed in England for many years. He's was a graduate of
+                    Cambridge, and he spoke flawless English in a rather Victorian manner. He wrote
+                    beautifully, a highly educated man. He had been under the absolute monarchy, at
+                    one time the minister of education. As I say, through Prince Dhani I got to know
+                    some of the cultural leaders and, as a matter of fact, some of the cultural
+                    leaders became political leaders, among them Kukrit Parmoj.</p>
+                <p>A good deal could be done through personal acquaintance with the nobility and
+                    aristocracy. Of course, the king in Thailand is greatly revered, as is his wife.
+                    Among my other acquaintances at that time was Prince Wan, also a delightful man,
+                    English educated, of the old school. When I knew him, he was rector of Tamasat
+                    University, and at one time he became prime minister. Then I remember another
+                    time somebody wanted an interview with him, and for some reason or other, I was
+                    the only one in the embassy who knew him.</p>
+                <p>This was during the time U. Alexis Johnson was the ambassador, and he was
+                    followed by Ken Young, ambassador to Thailand. It was shortly following Ken
+                    Young's appointment there that we had the visit of the Vice President, Lyndon
+                    Johnson.</p>
+                <p>Vice President Lyndon Johnson Visits Bangkok!</p>
+                <p>
+                    <hi rend="italics">Q: Which I understand was something of a disaster.</hi>
+                </p>
+                <p>MACCORMAC: Something of a disaster. Right. (Laughs)</p>
+                <p>
+                    <hi rend="italics">Q: Would you care to make a few remarks about that? I think
+                        it would be very interesting to get your impressions and your report of what
+                        happened.</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>MACCORMAC: I found it was very difficult to deal with the Vice President's party.
+                    We had been planning at that time — “we,” that is USIA. I was Acting PAO at that
+                    time because Howard Garnish was on home leave. We had been planning a reception
+                    at the Erawan Hotel for the Thai Press Association, which was celebrating its
+                    50th anniversary. We had invitations out, and it was going to be a big gala
+                    affair of which we, USIS, were the host. We did not know at the time that Lyndon
+                    Johnson had refused the Thais' offer of one of the palaces in which to live
+                    while he was in Bangkok, and he moved into the Erawan Hotel, where we were
+                    having our reception. I thought as long as he was going to be in the hotel, he
+                    might like to met the Thai Press Association. So I phoned to members of his
+                    party in Taipei and in Hong Kong, and asked if the Vice President would be
+                    willing or interested in meeting with the Thai Press Association in his hotel,
+                    and was assured that he would be happy to. So all was laid on.</p>
+                <p>Our party was going on and on and on downstairs, and I was waiting for the Vice
+                    President to come down. The party was half over and he wasn't there, so I asked
+                    somebody to go up and get him or see if they could coax him down. It was Carl
+                    Rowan. Remember Carl Rowan?</p>
+                <p>
+                    <hi rend="italics">Q: He was the director.</hi>
+                </p>
+                <p>MACCORMAC: He was the director of the Agency at that time. Carl went upstairs.
+                    After a funny story that I can't record, he came down and told the story about
+                    the Vice President. Anyway, the Vice President eventually came down and he
+                    stayed about half an hour and talked to the Thai Press. It was a big success as
+                    far as that went. But I was getting gray hair, wondering if he was coming to the
+                    party at all.</p>
+                <p>
+                    <hi rend="italics">Q: At this point I'd like to ask you why did he refuse to
+                        stay in one of the palaces?</hi>
+                </p>
+                <p>MACCORMAC: I think he refused to stay in the Phitsanolok House because of
+                    security reasons. That's the story they gave, anyway. But it took Bangkok a long
+                    time to get over the visit of Lyndon Johnson.</p>
+                <p>
+                    <hi rend="italics">Q: There was one story going around when I got there, which
+                        may be apocryphal, said that he moved into the mansion, didn't like the
+                        drapes, and asked the imperial household to change the drapes.</hi>
+                </p>
+                <p>MACCORMAC: It's a story that could have happened, knowing what he subjected the
+                    post to. But I never heard that story. I don't know whether it's true or not. He
+                    was a difficult man to please, anyway. That was 1963.</p>
+                <p>
+                    <pb facs="0009" n="Page0009"/>
+                    <hi rend="italics">Q: Your tour was up in 1965.</hi>
+                </p>
+                <p>Reassignment to Washington: 1965</p>
+                <p>MACCORMAC: Right. I was reassigned to Washington. I think it was called IAF, the
+                    Far East Division. My job was to be the desk officer for Thailand, Laos, Burma,
+                    and Cambodia. We had lots of troubles at that time in Laos, particularly. Of
+                    course, the war was going on in Vietnam, but it didn't affect Thailand very
+                    much, except Thailand became a great R&amp;R center, rest and recuperation
+                    center, for American troops in Vietnam.</p>
+                <p>The Washington tour was interesting because having responsibility for these four
+                    desks in IAF, I got trips out to the various countries while I was there, which
+                    I enjoyed very much. I'd never been to Burma before. I think it was at that time
+                    that the Burmese government closed the USIA library in Rangoon, an excellent
+                    library, much appreciated by the students and people in Rangoon. But Ne Win, who
+                    had become prime minister or president, I guess, didn't want the American
+                    influence, though the rest of Burma did. I remember he closed the library, but
+                    asked the embassy to give him the books. (Laughs) I didn't see any point in
+                    that, so the library was closed, and I moved the books to other countries, where
+                    they appreciated them. Zelda Graham, I think her name was.</p>
+                <p>
+                    <hi rend="italics">Q: She was the long-time librarian there.</hi>
+                </p>
+                <p>MACCORMAC: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: She had virtually built that library.</hi>
+                </p>
+                <p>MACCORMAC: She had built the library.</p>
+                <p>
+                    <hi rend="italics">Q: She was devastated at the...</hi>
+                </p>
+                <p>MACCORMAC: Absolutely right. Zelda Graham had many, many friends in Burma,
+                    including Ne Win's wife Kitty, his second wife. But there was nothing that could
+                    be done about it. All of my colleagues who have known Burma and lived there have
+                    loved the Burmese, have many friends there, and even now look forward to the
+                    days when Burma will become an open country again instead of a ruined
+                    country.</p>
+                <p>MacCormac Returns to Thailand: 1967</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>I was getting old, and I knew that I would have to retire in 1971, so I asked to
+                    be returned to Thailand. An opening came up as the cultural affairs officer, and
+                    I was assigned back to Bangkok as cultural affairs officer.</p>
+                <p>
+                    <hi rend="italics">Q: You replaced Frank Tenny.</hi>
+                </p>
+                <p>MACCORMAC: I replaced Frank Tenny. I met Frank Tenny last week at Greg
+                    Henderson's memorial service in Cambridge.</p>
+                <p>It was a job I liked, back among old friends. I got my old house back again. One
+                    of the perks in Bangkok was a beautiful old Chinese house which I had leased
+                    when I first got there in 1960, on the same street as the USIA office, and it
+                    was a great place for entertaining. It was wide open, lots of room, lots of
+                    space. I had a number one, which is known as the person in charge of your
+                    household, from 1960. Her name was Foo. Foo ran his house with an iron hand.</p>
+                <p>
+                    <hi rend="italics">Q: Was she Chinese?</hi>
+                </p>
+                <p>MACCORMAC: Foo was a Vietnamese, totally uneducated, although she could speak
+                    five languages, Vietnamese, Lao, French, Thai, and English. The reason she
+                    wanted to work for me, because there was a school nearby she wanted her three
+                    children to go to. This little lady who had never been to school in her life
+                    arranged that her children got into this very good school near where I lived,
+                    and all three of them went on to the university. I'm still in touch with
+                    her.</p>
+                <p>
+                    <hi rend="italics">Q: Did they go to the university in Thailand?</hi>
+                </p>
+                <p>MACCORMAC: The university in Thailand. Right.</p>
+                <p>
+                    <hi rend="italics">Q: Tomasat or Chulalongkorn</hi>
+                </p>
+                <p>MACCORMAC: Chulalongkorn.</p>
+                <p>
+                    <hi rend="italics">Q: Was Phil Damon in Thailand when you were there? Did he
+                        return in 1970 or '71?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>MACCORMAC: Yes. Philip Damon, whom I'd known in my German days in Germany, and
+                    who had married a delightful French girl who came with the ballet from Nice to
+                    Munich, he was in Bangkok when I got there. Phil and Genevieve Damon were very
+                    close to the king and queen. They were both fluent in French, and Phil was a
+                    big, outgoing guy, a great golfer, but sadly enough, he contracted multiple
+                    sclerosis, and he was back in Washington when this developed. He always thought
+                    if he could get back to Thailand, he'd get better, but, of course, he didn't.
+                    Through agency help, he was brought back to Thailand as an employee without
+                    compensation, I think it was called. There he had the use of the APO and the
+                    commissary. The king and queen kept him in Chulalongkorn hospital with day and
+                    night nurses for the first year he was there, Phil is still living. I go to see
+                    him whenever I go to Bangkok. He's totally bedridden. I think he's nearly blind.
+                    His only source of happiness is the books on records which he gets from the
+                    Library of Congress.</p>
+                <p>
+                    <hi rend="italics">Q: Is his association with the king terminated now?</hi>
+                </p>
+                <p>MACCORMAC: No. The associations with the king and queen are still strong. As a
+                    matter of fact, his wife Genevieve, is a great friend of the Queen, and
+                    Genevieve is the only non-Thai that I know of who has been given a title by the
+                    king. She's now known as Khun Ying Damon. She runs a small ballet school, and
+                    she's been a marvelous, marvelous wife to Philip Damon, who has had this
+                    terrible affliction. His three daughters are now married and living in
+                    Thailand.</p>
+                <p>The Huge Cultural Center, AUA (American University Association) Was Given A Grant
+                    to Build Present Building. It is Enormous Success.</p>
+                <p>One of the first things I did when I first got to Thailand in 1960, was to
+                    deliver a check of $280,000 to the American University Alumni Association, AUA,
+                    to build an AUA language center. All the preparatory work had been done by the
+                    people who preceded me, but the check just happened to come when I was there. To
+                    make a long story short, we got crown land on which to build the AUA building,
+                    and I still have pictures of it. It was on three old fish ponds on a very long,
+                    long lot, but in a good location. We moved the AUA center, finally, when it was
+                    built, from Sarankom Palace, way down the river on the other side of town, to
+                    the new location. It's been a big and going concern ever since. When I was last
+                    in Thailand, the AUA center was operating from 7:00 in the morning until 9:00 at
+                    night, teaching English to Thai. This is something they want, and AUA knows how
+                    to do it. Small classes, teaching spoken English. By the time the pupils are
+                    through one year of this course, they can really speak English. As a matter of
+                    fact, we moved the USIS library and cultural center from Patpong Road, which had
+                    become infamous, to the AUA center, and it's now a USIS center, as well as the
+                    American University Alumni Association.</p>
+                <p>
+                    <pb facs="0012" n="Page0012"/>
+                    <hi rend="italics">Q: When I was there, we closed the American library and we
+                        moved all the books, donated them to the center. Is that the move to which
+                        you are referring?</hi>
+                </p>
+                <p>MACCORMAC: That's right, yes. After the building of the AUA classrooms, another
+                    grant was made to build the large library in front of the AUA classroom
+                    building, and it's one of the best libraries in Thailand.</p>
+                <p>
+                    <hi rend="italics">Q: When you said you acquired the crown property, what did we
+                        do, pay the crown for it? Or did they donate it?</hi>
+                </p>
+                <p>MACCORMAC: It was on a long-term lease, which is a nominal amount. I forget the
+                    amount which we pay the crown property division every year.</p>
+                <p>
+                    <hi rend="italics">Q: So all the major grant went to the construction.</hi>
+                </p>
+                <p>MACCORMAC: The major grant went to the construction of the building. Right. There
+                    are 35 classrooms, and it's amazing to see them all in use, all the time. The
+                    success, of course, was the use of American teachers. We used only American
+                    teachers, even though those who had never taught before, we taught them how to
+                    teach.</p>
+                <p>
+                    <hi rend="italics">Q: You were teaching English with an American accent and
+                        American vocabulary.</hi>
+                </p>
+                <p>MACCORMAC: Precisely. As a matter of fact, some of our colleagues in Australia,
+                    New Zealand, and England were sort of miffed that we wouldn't use them, but we
+                    always insisted on using Americans.</p>
+                <p>Ambassador Johnson was one of the firm backers of the AUA and all of its
+                    activities. I'll always remember him saying, in a country team meeting, “I never
+                    put pressure on people to participate in social events, but if there are any
+                    events at the AUA center, I want you there.” It was very well attended by
+                    Americans. Usually there was an annual show put on by the AUA membership, to
+                    which the king and queen came. There were lectures, films, big auditoriums. It's
+                    a very impressive and worthwhile institution.</p>
+                <p>
+                    <hi rend="italics">Q: I've heard people say they think that the AUA, which is,
+                        in fact, our cultural center in Bangkok, probably did more for American-Thai
+                        relationships than all the rest of the USIS programs.</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>MACCORMAC: I think there's no question about it. It's something we know how to
+                    do, something the Thai wanted, both in teaching of English, use of the library,
+                    and use of the film center, lecture halls, all that sort of thing.</p>
+                <p>
+                    <hi rend="italics">Q: Who was directing the center during the time you were
+                        there as CAO?</hi>
+                </p>
+                <p>MACCORMAC: Gordon Schneider was director of the language center when I first got
+                    to Bangkok, and he was the one instrumental in the move to the new location. He
+                    was followed by Milton Leavitt, who had two tours as director of AUA. I remember
+                    when we were moving the USIA cultural center to AUA, there was some hesitancy on
+                    the part of the board of directors, which was headed by a Thai, Phra Bisal
+                    Sukhumvit who is still living. He didn't want to have an American propaganda
+                    institution. So Leavitt went over all the programs we had at our own cultural
+                    center the preceding year, and convinced Phra Bisal that it was not going to be,
+                    and never would be, an American “propaganda” center. The programs we put on
+                    there over the years are very, very well received by the Thai.</p>
+                <p>1971: MacCormac Retires But Returns in 1978 toDirect Thai Fulbright
+                    Foundation</p>
+                <p>I retired in July of 1971. Then in 1977, I received a telephone call from the
+                    Thailand Fulbright Foundation, asking me if I'd come back for two years to
+                    direct the Fulbright Foundation in Thailand. I was only too happy to go back,
+                    and so I spent '78 and '79 back in Thailand as the director of the Fulbright
+                    Foundation, working with a lot of people whom I'd known in the past. For
+                    instance, one of our early grantees, Dr. Qasim, was then rector of Chulalongkorn
+                    University. A lot of the young Thai we'd sent in the early sixties for advanced
+                    degrees to the United States had come back and were in very prominent education
+                    and cultural positions in Thailand. So it was easy to deal with them.</p>
+                <p>We had good support from the department, not because we were such a good
+                    foundation, but because no money could be spent in Burma, Laos, or Cambodia. So
+                    we had extra money for the Fulbright Foundation in Thailand, and we usually sent
+                    30 or 40 graduate students to the United States every year. Most of them came
+                    back with doctorates.</p>
+                <p>
+                    <hi rend="italics">Q: When you were there on your first tour, I imagine there
+                        probably was not much student agitation, but I know that at the time that I
+                        was approaching the end of my tour, the students had become quite activist,
+                        and a number of them were getting into left-wing organizations. Did you have
+                        much trouble with that during your last tour there?</hi>
+                </p>
+                <p>MACCORMAC: I never did at all, no. I was very much surprised to read and learn
+                    about these student riots and uprising after I'd been away from Thailand. To me,
+                    it was so un-Thai to have this open rebellion against authority. But nothing
+                    like that ever happened while I was there.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>
+                    <hi rend="italics">Q: You mentioned a little earlier that a number of the people
+                        who had been patrons and even, perhaps, students at the AUA, subsequently
+                        went out and became prominent people not only in the Thai educational scene,
+                        but also in the political field. Can you name a couple of them in the
+                        political arena? Were these the Pramoj brothers?</hi>
+                </p>
+                <p>MACCORMAC: The two Pramoj brothers were particularly influential in the political
+                    field. Kukrit became Prime Minister of Thailand. He is his own man and quite a
+                    mercurial man, sometimes a great friend, sometimes a great enemy of the United
+                    States, was manager, owner, and publisher of the most prominent newspaper in
+                    Thailand. The Siam Rath, a paper that everyone reads. He was also the man who
+                    played the part of the prime minister in the film, “The Ugly American.” We
+                    journeyed to the United States on the same plane one time, and I remember, I
+                    think it was during the time when he was doing this film, I addressed him as Mr.
+                    Prime Minister, in jest, never thinking he would really be prime minister again
+                    one day. His brother, an older brother, Seni, had been the Thai minister to the
+                    United States in Washington at the time of the Japanese invasion of Thailand, at
+                    the time when Thailand declared war on the United States. But we were never at
+                    war with Thailand because Seni refused to deliver the Thai declaration to the
+                    Government of the United States.</p>
+                <p>
+                    <hi rend="italics">Q: It's a fascinating country. You spent much more time there
+                        than I did, and I know you loved it. Do you have anything further that you
+                        wish to add, Ken?</hi>
+                </p>
+                <p>MACCORMAC: No, Lew. I guess that about covers it.</p>
+                <p>
+                    <hi rend="italics">Q: Well, thank you very much, Ken. I will return the
+                        transcript of this interview for editing as soon as possible.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

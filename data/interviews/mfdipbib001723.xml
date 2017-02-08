@@ -1,385 +1,835 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001723">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Mr. Sejamothopo Motau , 2011: a machine-readable transcription.</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2012</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Mr. Sejamothopo Motau , 2011: a
+                    machine-readable transcription.</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2012</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress</p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2012-06-24"/>
                 <change type="rev" when="2012-06-24"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>SEJAMOTHOPO MOTAU</p>
-<p>Interviewed by: Daniel F. Whitman</p>
-<p>Interview Date: February 19, 2010</p>
-<p>Copyright 2010 ADST</p>
-<p>
-<hi rend="italics">Q: Welcome Sej. We are sitting here in Pretoria. Can you tell us first of all Sej, about where you came from in this complex South African society? Can you tell us what your origins were, a little bit about your family, your early education and what enabled you to follow a career that transcended your community?</hi>
-</p>
-<p>MOTAU: Let me start with the Sej because it is always a topical thing. People wonder how I became 'Sej'. It is actually a name we talked earlier about Andrew Drysdale. He was the editor of the Pretoria News when I first got there for a job interview and they had given me the job and then he said, “What is your byline?” and I said, “Sejamothopo.” He reacted like a typical South African white here at the time and then he caught himself and said, “May I call you 'Sej'?”</p>
-<p>I said, “Yes, on condition you say my full name correctly at least once” and amazingly he just said, “Sejamothopo” and I said, “You see? It is not difficult.”</p>
-<p>
-<hi rend="italics">Q: When was this?</hi>
-</p>
-<p>MOTAU: This was in 1977. I got to the Pretoria News in 1977 and that was in the aftermath of the 1976 Soweto riots, yes. Because at that time most of the newspapers had white staff, especially on the political side and crimes and stuff like that. They had a few black reporters on the spotting side and entertainment side but on the news side, they did not have and I was one of the first, if you will beneficiaries of the Soweto uprising to be employed full time by a mainstream newspaper group. At that time it was the ARGUS Company that owned the Pretoria News.</p>
-<p>What got me there was, as I said, the aftermath of the riots. The reason was very simple. In the black communities there were a lot of things happening since the violence started in June of '76. It just kept on going; it never stopped. There were all the police, the violence, you know, the teargas and the reports that came out were filtered because these were usually from police reports. The police reports filtered really the stories so the bad stuff that happened seldom made the papers.</p>
-<pb facs="0002" n="Page0002"/>
-<p>I remember in our communities, certain community leaders went to the Pretoria News. That was before I worked for the paper and challenged the editor and said, “We saw in your paper the other day the reporting about a funeral”, what we used to call political funerals where the police would kill somebody and there would be a funeral and there would be more killings at the funeral. “But we didn't experience it like this.”</p>
-<p>They said, “The reason this is happening is because A, you get your stories from the police and two, white journalists can't get into the black communities” because whites needed a permit to go into the black communities “so we want you to get information from the sources and the sources are black so get the black guys.”</p>
-<p>That's probably one of the reasons why I and a guy called Kenneth Lebethe who also lived in Atteridgeville were among the first two black people to be employed on the staff of the Pretoria News on a full time basis.</p>
-<p>
-<hi rend="italics">Q: Why you? I think we need to go back earlier.</hi>
-</p>
-<p>MOTAU: Why me? It is another nice story.</p>
-<p>At the time I was working for the municipality, the city council of Pretoria in Atteridgeville. At that time I was editing a publication called Lesedi which simply means 'light'. It was a newsletter which was produced by the municipality for the communities of Atteridgeville and Mamelodi. I was editor, I was journalist, I was photographer, and I was everything wrapped in one newspaper.</p>
-<p>
-<hi rend="italics">Q: We should explain to the reader who is not from South Africa that these are townships in the vicinity of Pretoria.</hi>
-</p>
-<p>MOTAU: Well, Atteridgeville is from Pretoria from an American perspective eight miles west of Pretoria and Mamelodi about 10 or 12 miles east.</p>
-<p>
-<hi rend="italics">Q: In the previous system, the place where the authorities set aside for blacks who were not permitted to live in Pretoria.</hi>
-</p>
-<p>MOTAU: That's right. We had to live in a place that was designated for black people, for colored people, so called, for Indian people and for whites. So I lived in the black township of Atteridgeville.</p>
-<pb facs="0003" n="Page0003"/>
-<p>At that time in 1974 I had decided because of the job I was doing for the municipality editing this paper I wanted to be well informed about journalism and I wanted to go to journalism school which was at the time, Rhodes University. To do that I had to get special permission under the law and I refused to do that so I went instead to UNISA, the University of South Africa which is a correspondence college.</p>
-<p>
-<hi rend="italics">Q: Maybe the largest university in the world.</hi>
-</p>
-<p>MOTAU: Today it is probably the largest in Africa.</p>
-<p>Anyway, I got there and one day I was doing an assignment for a communication course which included journalism and newspapers and that kind of thing. I decided to phone the local newspaper editor and I ended up with the news editor, a guy called Dan van den Heuwel and I told him who I was, what I wanted and I told him I was a student at UNISA. I needed to know something about a journalistic term, 'own correspondent'. What does it mean when you see it in the newspaper and the byline is 'own correspondent'? And so he explained it to me and afterwards said to me, “What work do you do? And I said to him, “Well, I work for the municipality. I edit this publication called 'Lesedi'.”</p>
-<p>He said, “Do you write?”</p>
-<p>I said, “Yes, I write.”</p>
-<p>He said, “Can you show us some of your writings?”</p>
-<p>I said, “Yes” so I went there, showed him some of my writings and the next question was, “Would you like to work for us?”</p>
-<p>At that time I had been in my second year at UNISA by correspondence and I said, “Well, I would like to do that but I think I need to get my university degree first.”</p>
-<p>He said, “No, no. Let's be the judge of that” and he pushed an application form in my face and it said 'application for employment'. A week later I was employed by the Pretoria News.</p>
-<p>The reason that happened was I was working for the municipality and we were covering all these happenings during the violence and many of the stories he had seen, the examples he had asked me to give, outlined in detail some of the stories from the community.</p>
-<p>
-<hi rend="italics">Q: This was a conservative town and the Pretoria News was the mouth piece of . . .</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>MOTAU: Yes. You wouldn't call it a mouthpiece. It was say conservative newspaper of the capital city which covered the administration, the white administration so it was actually a must read for government employees and whatever. The Pretoria News would be kind of center to right. So it was actually a big step for them to have black journalists on the staff.</p>
-<p>That helped me to complete my university degree with UNISA after two years or thereabouts.</p>
-<p>
-<hi rend="italics">Q: So you were writing and also studying?</hi>
-</p>
-<p>MOTAU: Yes. I used to go to a riot meeting or whatever in the township, go to a political funeral and study by night and go to the political rallies or whatever but I passed.</p>
-<p>In '79 I graduated with a BA degree in communication and psychology from UNISA and in '81 I got a BA Honours in communication from UNISA but in '79 something had happened. I was on one of my assignments in Pretoria and they said, “There is something at the American embassy.” They used to invite people and we used to go for jazz sessions at the embassy on Saturdays. They said, “Sej, there's this thing here. Would you be interested in this?”</p>
-<p>I looked and it said, 'Fulbright Scholarship'. “Yes, I would be.”</p>
-<p>So I completed a form and a guy called Bart Rousseve called me.</p>
-<p>
-<hi rend="italics">Q: We are talking about Bart Rousseve, an American from New Orleans who dedicated part of his life to exchanges with African countries and particularly South Africa.</hi>
-</p>
-<p>MOTAU: Indeed. At that time it was a program called 'Operation Crossroads Africa'. That is the one.</p>
-<p>
-<hi rend="italics">Q: So you were OCA?</hi>
-</p>
-<p>MOTAU: Yes, it is amazing.</p>
-<p>
-<hi rend="italics">Q: You were attracted to the embassy because of the Fulbright but you ended up?</hi>
-</p>
-<p>MOTAU: I skipped a step. OCA comes first because it happens in 1979, just after I had completed my junior degree, my BA degree.</p>
-<pb facs="0005" n="Page0005"/>
-<p>I got this thing and the guy who interviewed us among others was Bart. I got it and I spent six weeks in the U.S.</p>
-<p>
-<hi rend="italics">Q: Where was your orientation?</hi>
-</p>
-<p>MOTAU: In Washington.</p>
-<p>
-<hi rend="italics">Q: I was there. I was interpreting French for the francophone partnership. I met you 32 years ago.</hi>
-</p>
-<p>MOTAU: We went from Washington State in Seattle, we went to San Francisco. From San Francisco we went to Texas and to El Paso and Atlanta. Then we went to Washington, DC and we ended up in New York for a debriefing.</p>
-<p>During my stay in California during my OCA visit I obviously visited, they would ask us. I was a practicing journalist then so my contacts were mostly newspapers. I remember going to the San Francisco Chronicle, going to the Oakland Tribune and stuff like that. I went to the journalism school in Berkeley and I liked the place, I just liked it. I said if I ever get a chance to come and study in this country, this is where I would like to be.</p>
-<p>Lo and behold, two years later it happened. That is when I got a Fulbright in '82. I had three choices; I could go to Harvard, I could go to Wisconsin, I could go to Berkeley. I went to Berkeley. That was in '82.</p>
-<p>
-<hi rend="italics">Q: So you were determined when you saw Berkeley in '79, you liked it and three years later, there you were.</hi>
-</p>
-<p>MOTAU: On a Fulbright scholarship to do a master's degree in journalism. That took me two years, graduated the summer of '84 with a master's degree.</p>
-<p>
-<hi rend="italics">Q: Meanwhile the Pretoria News?</hi>
-</p>
-<p>MOTAU: The Pretoria News I had to resign from the Pretoria News to go to school and many people said, “You are crazy. You have a nice job. Why do you want to do that?”</p>
-<p>I said, “Well, I want to do this because I just feel this is something I need to do.” I have said this many times to many people; I think it is a best thing I ever did in my life, to quit my job. I think it was the best investment ever.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q: Tell us why.</hi>
-</p>
-<p>MOTAU: The reason is very, very simple. The experience that I gained, going to Berkeley was the third overseas trip for me. After OCA I went to Germany for a while for a couple of weeks but when I went to the U.S. to study was the third time out and I stayed there for much longer, for two years to study. The exposure, for me I think what I gained in terms of knowledge, learning came in handy every time. When I came back and people would say, “Oh, you are a Fulbright scholar.” To me it never struck me as something huge but I realized for many people it was something great. Even now when you say, “I am a Fulbright scholar” people look at you sort of differently.</p>
-<p>
-<hi rend="italics">Q: It gave entr�e, a certain prestige.</hi>
-</p>
-<p>MOTAU: No question about it.</p>
-<p>
-<hi rend="italics">Q: Beyond that what about practical, pragmatic?</hi>
-</p>
-<p>MOTAU: When I came back for instance, after I graduated I got a call from the editor. At the time the editor was Wilf Nussey. I got a call from John Patten who was his deputy and he said, “Sej, we know you may have other offers but before you go anywhere, please come back to us. Let's talk.” So I didn't even have to look for a job.</p>
-<p>
-<hi rend="italics">Q: They rehired you partly on the strength of the credentials of the Fulbright.</hi>
-</p>
-<p>MOTAU: And the fact that I had worked for the paper but on the basis that now I had the journalism degree, a Fulbright scholar.</p>
-<p>
-<hi rend="italics">Q: So you took a risk but in retrospect it wasn't a risk at all.</hi>
-</p>
-<p>MOTAU: No it wasn't. The Fulbright as you know was a very comprehensive scholarship so it paid for my tuition, paid for everything. When I came back from the U.S. after two years, I even had some pocket money so that was quite nice. I think the Fulbright was really, really an investment.</p>
-<p>When I left the newspaper for instance and went to Anglo American Corporation and later De Beers and later Transnet and later Sasol, it was all on my CV, my name and they see Fulbright, Berkeley, California.</p>
-<pb facs="0007" n="Page0007"/>
-<p>
-<hi rend="italics">Q: This helped you very much in your own professional development. In what way did it help your country?</hi>
-</p>
-<p>MOTAU: I acquired skills and I honed them as a student in the U.S., especially public speaking, writing. I was a journalist. I think many people don't realize this that some of us just went in there, did our jobs, wrote those stories, challenged P W Botha (former South African state president under apartheid) when he couldn't cross the Rubicon and stuff like that, we were actually making that contribution.</p>
-<p>
-<hi rend="italics">Q: You think that whatever it is you acquired at Berkeley enabled you to make that contribution?</hi>
-</p>
-<p>MOTAU: Absolutely.</p>
-<p>
-<hi rend="italics">Q: What was it?</hi>
-</p>
-<p>MOTAU: Confidence. You come back feeling I studied under people like Ben Bagdikian, these guys who did Watergate. When you studied under people like those, you come back and you have to do a story or profile or something like that you feel you can and you do so you are very confident. I have said this before and will say it again; I have no doubt in my mind that Fulbright had a profound impact on my career. Even now, right now I am in parliament. I went to parliament last year with the last elections and people still look at my CV and when then they see the Fulbright. So, yes.</p>
-<p>
-<hi rend="italics">Q: It is not just a name.</hi>
-</p>
-<p>MOTAU: I have come to accept that myself. Most people react to it like that.</p>
-<p>For me the interesting thing is that for a little guy who was born in Lady Selborne, which is like ten miles north of Pretoria which was then declared a black spot which was later demolished which has now been resuscitated, who ends up in Atteridgeville to do primary school education, goes to Hofmeyr High School to get a Matric in the township and goes teaches himself through UNISA to get a BA degree and a BA Hons degree and gets a master's degree out of Berkeley, California, from a family where the father was a laborer, working as a butcher's hand, the mother was a char woman for many people who always insisted, she told us, “Get some education.” The people she worked for always told her, “Whatever you do, make sure your children get an education” and I say that a lot even today. It was, I think, quite something.</p>
-<p>
-<pb facs="0008" n="Page0008"/>
-<hi rend="italics">Q: It was your mother who convinced you that education was the key?</hi>
-</p>
-<p>MOTAU: I don't think she even convinced me. She just planted in me because she always talked about it. I don't think I ever needed convincing. I was one of those lucky guys; I was bright at school. I never failed, I got promotions. I skipped a couple of classes. I sat for my matriculation examination which at the time was a tough exam. They called it Joint Matriculation Board of the University of South Africa which we wrote. I passed it in one sitting with English A as my major subject. I didn't struggle at school. I was actually quite, school was nice for me.</p>
-<p>
-<hi rend="italics">Q: Now you are a member of parliament.</hi>
-</p>
-<p>MOTAU: Yes, now I am a member of parliament and a member of the official opposition in this country. We have what we call the official opposition which we call the Democratic Alliance which comes out of the long history of a party which was the Progressive Federal Party and the Progressive Party and then the United Party way back then. The guys in the United Party split and went to the Progressive Party.</p>
-<p>I never thought I would go into active politics. I have always been very, very politically aware. I can probably tell you more about American politics today than some Americans or some British because I just like doing that. In my work as a journalist I covered politics, I covered labor, and I covered education so it is something I have always believed.</p>
-<p>When I was in the U.S. I used to tell friends, colleagues at school that, guys, I am going back home when I graduate. They would say, “No, no, no. Don't go back home. Those Boers are going to kill you.”</p>
-<p>I said, “No, it's my home. I've got to go there and I've got to go do what I can do.” We came back, was the struggle. It was always going on.</p>
-<p>Once in 1984 I then said to myself something else had to happen. Political liberation is fine but you also need economic liberation and to get that, you need a balance of forces. You need a strong opposition. Obviously the American system had a strong impact on me, where parties vie for power. Every eight years, four years somebody gets kicked out and somebody comes in but they all go in the same direction. They all do it for the country. The American flag is the driving thing and I said to the guys that what we need is a situation like that where we don't have the typical African situation where one party is in power forever and ever, amen and takes the country down the tubes.</p>
-<pb facs="0009" n="Page0009"/>
-<p>Over the years these things have been happening and you look around and you think about yourself. When I came back from the U.S., I had to think about myself. Work hard. I was always lucky, got the big companies, the good jobs, mostly communication, sort of escaped but things then things started happening and you feel, no, this is not right. This is not why we went to war for and then you start moaning.</p>
-<p>
-<hi rend="italics">Q: At what point did you begin to see you had to go in a different direction from the prevailing one party</hi>
-</p>
-<p>MOTAU: Seriously from day one; 1994 and I will explain why. When I went to vote I said to my wife, “I am voting. I am voting for the ANC but I am voting for the ANC of Nelson Mandela.”</p>
-<p>And she said, “Why do you say that?”</p>
-<p>I said, “Because I see that in this party,” there are two parties here, the Nelson Mandela party and the other. At that time it was not well defined. Now we know, of course. It was the only time I ever voted for the ANC. There was a very good reason for it. They would be the only viable party to kick out the Nats, which is the national party. And they did. The next time I voted I voted for the, at that time it was called the Progressive Party. The important thing was right from the beginning my position was very clear; for this country to have a viable democracy you need two parties vying for position.</p>
-<p>
-<hi rend="italics">Q: Now was it partly the American system that gave you this sense or was it also the logic of what was happening in this country?</hi>
-</p>
-<p>MOTAU: Well, partly that but partly because I have always internalized and believed that if you believe in democracy, then you've got to believe in the balance of power, very simple. I still hold that view. For me going to the DA now was the easiest thing to do. It was just a matter of when.</p>
-<p>
-<hi rend="italics">Q: The DA was created relatively recently?</hi>
-</p>
-<p>MOTAU: Yes, after the Progressive Party, it became an alliance and that happened about 7 years ago. It might be ten when they joined with the National Party and the then Progressive Federal Party came together to form what they call the Democratic Alliance. It didn't work. It was a bad decision but some of them are still there and stuff.</p>
-<pb facs="0010" n="Page0010"/>
-<p>For me it was very simply this; after a while you start complaining. No, this is not going right and somebody has to do it and you ask yourself, who? Who is going to form this opposition? One day you wake up and realize if you don't do it, how can you expect other people to do it? That happened about 2008.</p>
-<p>Over the years I have been doing a thing on nation building called 'spirit of nation' and that spirit of nation was a thing that I started formulating about ten years ago when I was asked to address a matric class at Kimberley Boys High School, and I worked for the De Beers at that time. I did not know what I was going to talk to these 15, 16 year olds about and I had several ideas; one was international competition, patriotism and I called it spirit of nation and the reason was very simply that I felt that we needed to forge a South African nation. At that time Desmond Tutu was talking of the 'rainbow nation' and Mandela was talking reconciliation and I thought I would add my voice to that. It was 'spirit of nation'. I used to talk about it and many times I got invited by businesses and other social organizations to talk about this thing. It was purely about international competition, work ethic, patriotism, and the kinds of stuff I say patriotism has nothing to do with your political affiliation. It has to do with love for your country. Because of that, I was invited to talk to the Rotarians in Johannesburg and in the audience was a guy, Mike Moriarty from the Democratic Alliance and my host said, “Sej, I want you to meet this guy” and I met him and we started talking and I said, “We'll get together.”</p>
-<p>Once I decided I wanted to do something, he had given me his business card, I called Mike. I said, “Mike, let's have lunch” so I went and he said, “What's happening?”</p>
-<p>I said, “Well, I am tired of complaining. I need to do something about the strong opposition that everybody seems to talk about but nobody wants to do anything about. I want to join you guys.”</p>
-<p>He said, “OK, well, why don't you pay your ten rands? Where do you live?”</p>
-<p>“Would you be interested in standing for election?”</p>
-<p>Why not? And we went through a very serious, rigorous election process and I made it and got put on the list. That's how I ended up in parliament.</p>
-<p>
-<hi rend="italics">Q: How close is it in this country that a currently splintered opposition might come together? I know there are negotiations.</hi>
-</p>
-<p>MOTAU: Not negotiations. In South Africa they are very careful about how they phrase things. Well, we are talking about talking.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q: From what you said earlier I gather that you believe the best hope for an effective opposition is for the entire opposition to work together.</hi>
-</p>
-<p>MOTAU: No question about it. It is just figuring out how. It is the how that has to be done. The DA is talking to the Independent Democrats and Congress of the People. There is a piece of paper, a document that has been put out.</p>
-<p>
-<hi rend="italics">Q: The DA is in control of only one province.</hi>
-</p>
-<p>MOTAU: Yes.</p>
-<p>
-<hi rend="italics">Q: Is it demographically possible or likely that, you wish, I guess, to become a national party . What are the chances of that happening given the demographics?</hi>
-</p>
-<p>MOTAU: The chances are there but it is going to be a long haul and it's going to be tough.</p>
-<p>I can explain it to you. We think that Gauteng Province is probably our next best bet simply because of the fact that the ruling party in this country is no different from any other ruling party in Africa. Most of the people who support the party are people in the rural areas and in South Africa a lot of the people also in the urban areas. But you are more likely to get somebody in an urban area voting for the Democratic Alliance than you would get from the rural areas for the simple reason that many people still think in racial terms. The Democratic Alliance is a white party, that's what they say. Therefore, you cannot vote for people who previously oppressed you. They will oppress you again because you are not applying your mind to the thing; you are applying your heart. In fact, most of the time you are applying nothing; you are just told, “You vote for the ANC. It was the liberation party so it will liberate you.” What you forget to ask is now that they have this power, how have they used it in my best interest? The score card doesn't look good, doesn't look good and that is why we think we're making some inroads in parliament.</p>
-<p>I can give you some very practical examples. When we got there about nine months ago, it was the in thing for every ANC person to stand up and say, “We decided this, we did this and now we have 12 million people on social grants” and stuff like that and we started very quietly saying to them, “Nobody should be proud that there are 12 million people in this country on welfare grants. It is not something to be proud about. It is not something to be proud about that people are losing their jobs. It is not something to be proud about that people live in shacks.”</p>
-<pb facs="0012" n="Page0012"/>
-<p>We started turning this whole thing around for them to realize you can't boast about the fact that people are on welfare. That's helping. It's changing. Now we are beginning to hear, “Let's work together” from the people who never would have said it a year ago because at that time they had more than two thirds majority in parliament. Now they have just under two thirds and they need us.</p>
-<p>
-<hi rend="italics">Q: They are losing very gradually.</hi>
-</p>
-<p>MOTAU: Of course they are losing gradually. On Wednesday when one of our members took up an issue with the deputy speaker and he was thrown out, we went out. We didn't go out because Dianne Kohler Barnard was kicked out. We went out because our Chief Whip stood up on a point of order. The deputy speaker said, “I don't hear a thing, I will not hear a thing” and we said, “If we parliamentarians in the House cannot exercise freedom of speech, what are we doing in the House? So we walked out.”</p>
-<p>
-<hi rend="italics">Q: So this happened, it was all the opposition, I believe that walked out.</hi>
-</p>
-<p>Explain how this could have happened simultaneously.</p>
-<p>MOTAU: Very simple. When a COPE member was talking, it was in reply to the president's state of nation address, right? Then he made certain statements about the president. He made a general statement that the party but it came across as if he were saying President Zuma is leading this country to a part of lawlessness. So then somebody objected. This was on Monday. Somebody objected to say, “No, you can't say that.” He said 'deliberately'. He said, “No, no. That's not parliamentary. We want him to withdraw.”</p>
-<p>So the deputy speaker wasn't sure what had been said. She said, “I will take this on advisement and I'll come back to you guys.” So we went home.</p>
-<p>The next day she came back and she said, “I have looked at the thing and this is dah, dah, dah.” I thought she did a very nice thing, good homework. “In terms of this I would like to ask the honorable George to withdraw this statement” and George said, “What should I withdraw?”</p>
-<p>I think the deputy speaker made her mistake. Instead of saying to honorable George, “This is what I want you to withdraw”, she says, “You were not listening to me. I have read all this long statement. I am asking you to withdraw.”</p>
-<p>The guy said, “No, no, no. I don't know what to withdraw. What do you want me to withdraw?”</p>
-<pb facs="0013" n="Page0013"/>
-<p>She said, “OK, I will begin again” and she read the section and said, “I want you to withdraw and Honorable George said, “I didn't say that.” They started arguing.</p>
-<p>
-<hi rend="italics">Q: In the session?</hi>
-</p>
-<p>MOTAU: Yes, in the session. The deputy speaker lost control. They started arguing and as they were doing this one of our members, the one who finally got suspended was very agitated because at that time Ian Davidson who is our Chief Whip stood up on a point of order at the same time Shilowa of COPE stood up on a point of order. The deputy speaker said, “I will not hear you. I will not hear anybody except honorable George. Honorable George, do you withdraw this thing or not?”</p>
-<p>George said, “No, I will not withdraw.”</p>
-<p>Said, “Marching orders.”</p>
-<p>
-<hi rend="italics">Q: Then everyone else left too.</hi>
-</p>
-<p>MOTAU: Exactly. As Honorable George walked out, we walked out because our Chief Whip was not allowed to speak. At the time apparently one of our members, Dianne Kohler Barnard had been so agitated that she spoke French. She has been given a week's suspension. But of course, the deputy speaker doesn't do the work. The secretaries do that. She had a very nice prepared document as to step by step. Whether that was right or wrong, to me, it is irrelevant. She gave the impression that she had done some work.</p>
-<p>My problem with her and for the first time history was made on Wednesday night. I agreed for once with a member of the ANC. That's true. People in the ANC are amazing. It doesn't matter what you say. If you are not a member of the ANC, they just disregard what you say. We were on the bus going home and I said, “I think the whole thing went out of kilter because the deputy speaker was weak. She did not handle this thing with the authority that she should have.”</p>
-<p>The woman from the ANC said, “I agree with you.”</p>
-<p>
-<hi rend="italics">Q: So this was the ANC agreeing with you rather than the reverse.</hi>
-</p>
-<p>MOTAU: Yes, for once somebody in the ANC actually agreeing with a DA member about something.</p>
-<p>
-<pb facs="0014" n="Page0014"/>
-<hi rend="italics">Q: But not in public?</hi>
-</p>
-<p>MOTAU: Well, it was in public, not in the House but as we were traveling home. I mean, these guys would deny anything. If you looked outside and said, “Oh, the sun is shining” and you are a member of DA, a member of ANC would probably say, “No it is not shining.”</p>
-<p>
-<hi rend="italics">Q: Does this indicate to you there is a real possibility of an opposition becoming stronger?</hi>
-</p>
-<p>MOTAU: Well, I can assure you . . .</p>
-<p>
-<hi rend="italics">Q: And of eroding the ANC of some of its own members?</hi>
-</p>
-<p>MOTAU: In any normal democracy, Zuma would never have been president; that's number one.</p>
-<p>
-<hi rend="italics">Q: Why?</hi>
-</p>
-<p>MOTAU: Because of many, many things. He was investigated for this, for that, for whatever and he never stood to contest the leadership with anybody so there were many things.</p>
-<p>But the other thing that would not have happened was that Zuma is not, has not been to school. People react as a gut thing very negatively to people who don't have formal education. They admire the fact that Zuma had been self-taught and whatever but they always say, “Wait a minute. She spent 25 years at school to get her PhD. Why should she be sitting here listening to you who didn't do it?” So instinctively people react that way.</p>
-<p>I think just on the flaws, he wouldn't have done it but he did it because here they vote the party.</p>
-<p>From us, from our perspective the challenge is to get the average, and there is no creature like that, but to get the average black South African to realize they have a choice. You have a choice. You have a spectrum of political parties. You can vote for any one of them. It is not a crime not to vote for the ANC. I know that. I have done that. So and so has done that, other people have done that because we think for ourselves. That's the challenge for the opposition.</p>
-<p>
-<pb facs="0015" n="Page0015"/>
-<hi rend="italics">Q: Devil's advocate. Before I was in South Africa I was in Spain. There are some parallels. It is forty million people, it had been in a period of great repression under Franco. It suddenly had great liberation when Franco died in '75 and because of the tumultuous past, there were many Spanish people who would never, ever, ever leave the Socialist Party, even after it became dysfunctional, corrupt, and unable to guide the country. There were many people who felt because of the very violent history of Franco and the Socialists were the republican opposition to Franco evolved into something else. Instinctively they could not leave the party, even no matter how dysfunctional.</hi>
-</p>
-<p>You see why I am mentioning this?</p>
-<p>MOTAU: Oh, yes.</p>
-<p>
-<hi rend="italics">Q: Disprove me.</hi>
-</p>
-<p>MOTAU: No, I am not even going to try to disprove you because you could be right and that's the problem. That is why some of us are so afraid and getting more afraid because what you are saying could be true. I have had people who have told me in my face, “Sej, I agree with what you are saying. The party is going off the rails,” meaning the ANC, “but I am a diehard ANC guy so I am going to stay with the party.”</p>
-<p>So you could be right and that's the problem. The challenge for us in this country is that whatever needs to happen, this intervention that needs to happen to open up the people's heads and minds and brains to say, “This is for my country not for the party.” That's our challenge. It is a tough one, I can assure you. We are there in the trenches. It has gone to the irrational level where people are very irrational about it and as I say, that's the thing that really is worrisome because if we don't do that, if that creature I referred to the average black South African does not wake up to the fact they have a choice, we will end up like Zimbabwe or like anybody else. Seriously, it is possible.</p>
-<p>
-<hi rend="italics">Q: You say they should wake up one day and see that these things are possible. Surely you have a strategy to assist them in waking up?</hi>
-</p>
-<p>MOTAU: I was being flippant but the real thing about strategy is exactly that. The strategy is very simple and it is simple things that work but those are the most difficult things. It doesn't matter how you slice the numbers, why people in this country can make the numbers. For the DA or COPE or any of those parties to win, it must have a black majority so when we from the DA side are talking this is exactly what I am saying. I say, “Look, I am doing what I am doing because I believe first in the vision and principles and whatever of the DA.” I truly do; open opportunities and all those things.</p>
-<pb facs="0016" n="Page0016"/>
-<p>But as a black South African, grew up in a township I do it for another reason; people who grew up with me, came after me can see that a black person can belong to this party and make a difference. If we are really serious about the fact that we want to form a non-racial, non-sexist, democratic South Africa, then we cannot have a party that is made up of exclusively black people or exclusively white people or whatever. We can't do that.</p>
-<p>Right now as we talk it is a statistical fact the Democratic Alliance is the most, most integrated party in this country.</p>
-<p>
-<hi rend="italics">Q: Yes, now they say again, I am the ignorant foreigner here; they say the DA was able to win in the Cape because of Cape coloreds.</hi>
-</p>
-<p>MOTAU: Indeed, that's what they say, yes.</p>
-<p>
-<hi rend="italics">Q: And that it implies a demographic reality so what, do I understand correctly you see that there is a demographic challenge and you are trying to overcome that challenge?</hi>
-</p>
-<p>MOTAU: Yes, because in this country and everyone will tell you that, anybody who denies it is not observing South African politics, we still vote on old racial patterns.</p>
-<p>
-<hi rend="italics">Q: Your task that you want to succeed is to break that pattern. Is that what you are saying?</hi>
-</p>
-<p>MOTAU: Of course, you have to. You have to have a black person voting for a white party and a white person voting for a black party, OK?</p>
-<p>
-<hi rend="italics">Q: It's a tall order.</hi>
-</p>
-<p>MOTAU: It's a very tall order but I am saying that because we claim, the ANC claims that the Freedom Charter upon which they keep on harping when they should be harping about the constitution because our constitution is supposed to have taken all the things we have put them in there. But when you listen to ANC people they keep on talking about the Freedom Charter, the Freedom Charter. The constitution is supposed to supersede every other document we produced during the days of the struggle. That's why we have the Constitution. That's why people came together and said, “What do you have?”</p>
-<p>And they said, “We have a Freedom Charter.”</p>
-<pb facs="0017" n="Page0017"/>
-<p>National Party, what do you have? We have this.</p>
-<p>At that time it was the Progressive Party, what do you have? We have this.</p>
-<p>All of the 19 or so parties, each one brought their thing, put it together, welded it together to form the constitution. Now I am not saying people should not refer to those documents but when you listen to many of the people, they still make them as if the Freedom Charter is above the constitution of this country. That's absolutely not true.</p>
-<p>
-<hi rend="italics">Q: How compatible is Inkatha Freedom Party with DA and COPE?</hi>
-</p>
-<p>MOTAU: In terms of values and principles, I think it is the same. The problem with Inkatha is a very simple one. The problem with Inkatha, it's ethnic. It is perceived as being a Zulu, a party for Zulu speaking people. Of course, the leaders will deny that but mostly, dominantly Zulu.</p>
-<p>
-<hi rend="italics">Q: Do you think they would say the same about the DA?</hi>
-</p>
-<p>MOTAU: They would say that but you see, the DA has this good fortune that statistics deny it. More black people voted for the DA than white people.</p>
-<p>Tutu was at loggerheads with the ANC and for some time Zuma wouldn't talk to him because he was saying exactly the same things to this government that he was saying to the last government because he is walking the straight and narrow. If you walk the straight and narrow, you will be critical of this government, probably even more than so of the previous government because the previous government didn't pretend to be anything democratic. This one declares that it is democratic. So when they do wrong things, you nail them.</p>
-<p>
-<hi rend="italics">Q: Is Zuma Zulu?</hi>
-</p>
-<p>MOTAU: That is the problem and unfortunately, I don't think Zuma can transcend that. What has been encouraging is that many of his strongest supporters, Zulu speaking peoples but he cannot seem to get away. Look at his appointments. Most of his appointments have been sort of leaning toward the Zulu.</p>
-<p>Our leaders need to transcend race and ethnicity. We need to do that. Zuma, in a lot of ways, is trying to do that. The things he says though, his approaches to the Afrikaners and stuff like that but his actions belie that. His most significant appointments have all been leaning towards . . .</p>
-<p>
-<pb facs="0018" n="Page0018"/>
-<hi rend="italics">Q: Do you think you will ever again be a journalist?</hi>
-</p>
-<p>MOTAU: No, no. I've done this, been there and that's been the good thing about me. Once I moved on, many times when I was in business, once I left journalism, I would meet many of my former journalist colleagues and they'd say, “Sej, do you want to come back?”</p>
-<p>I'd say, “No, no, no. You can't even afford me now.”</p>
-<p>But for me I think it was a building block as a journalist, a great experience but I won't go back there.</p>
-<p>
-<hi rend="italics">Q: None of this hurts as valuable experience for a future cabinet portfolio.</hi>
-</p>
-<p>MOTAU: If you think about it I actually have a cabinet portfolio. I am Shadow Minister of Energy. One of my colleagues remarked the other day the party said, “Hey, guys. We need your profiles” for all of us, 77 of us. The leader said, “Some of you guys have not sent your profiles.” I think one of them went to the leader and said, “What do you want me to put in my profile?”</p>
-<p>So he said, “Oh, OK. Let me send you Sej's profile.” She used to be a professor at the University of Pretoria and she saw things and then she meets me in the passage one day and says, “Sej, I feel so small.”</p>
-<p>I said, “What do you mean?”</p>
-<p>“I looked at my CV and your CV and it's like you've done it all.”</p>
-<p>Not all, but yes.</p>
-<p>I think I have been fortunate that I have always been able to move on. Once I have done my stint somewhere I moved on, no regrets and I have always felt that every step that I have taken was a building block for the next step.</p>
-<p>That's also my philosophy in life. I tell the young people that you must always be going somewhere. That means you must always be thinking about where do I want to be next? My life has been a life of coincidences.</p>
-<p>I went to the municipality as my first job because my father had a friend, a church colleague and friend who worked for the municipality. He was a big, big black guy there so I got a job. I didn't have to look for one.</p>
-<pb facs="0019" n="Page0019"/>
-<p>I went to the Pretoria News because I made a phone call as I told you and I went to Operation Crossroads because I had a visit at the embassy and I went to Germany because when I was at an American Embassy function there was the cultural attach� of the German embassy, Mrs. Zenker who was a guest there. In conversation I mentioned I would like to study economics and journalism. “Well, maybe you should go to Bonn and talk to those guys in Bonn.”</p>
-<p>In two weeks a trip to Bonn because I had this thing. When I came back I had a talk with somebody and said I would like you to write a couple of pieces. Wilf Nussey editor of the Pretoria News said, “Sej, I want you to do a piece about the student leaders in the communities” because the Nats used to say the student leaders came from broken families and whatever and we said no. We knew that many of the student leaders came from the middle class black families because they would say the kind of education they were getting they would never compete their parents. So don't talk about it; write it. So I wrote it, a five piece series in the Pretoria News and then John Oxley saw it, John Oxley used to edit Optima. He saw it, said to Wilf Nussey “I like these pieces. Who is this writer?”</p>
-<p>“It is Sej.”</p>
-<p>“I would like him to write this thing for me.”</p>
-<p>“Well, talk to him.”</p>
-<p>We talked and he said, “Sej, would you be interested in doing this series as a magazine piece?”</p>
-<p>I said, “Well, I'll give it a shot.”</p>
-<p>It is published in Optima in 1985 or thereabouts. It is there, “Profile of a Student Leader”. Because of that, Neville Huxham saw this, wanted to talk to me, gave me a job. So everything sort of . . .</p>
-<p>
-<hi rend="italics">Q: One thing led to another.</hi>
-</p>
-<p>Anything to add about the past, the present or the future of your country?</p>
-<p>MOTAU: This thing, I have talked about it, thought about it. When we were in the struggle, we call it the 'struggle' we had common purpose; get rid of apartheid. Many people are now beginning to say it used to be better in the old days when we knew what we all wanted. Now because we have this democracy, the spoils are being shared. Only those in the inner circle are getting them and this has disillusioned a lot of people.</p>
-<pb facs="0020" n="Page0020"/>
-<p>My personal view is that we need to build on what we have; we have to. My last speech in parliament was that this is an exam or test we dare not fail. We've got to build this thing. We've got to make sure that we keep on building this strong opposition.</p>
-<p>It is in the best interest of any ruling party to have a strong opposition party and I tell people, “These things now, I mean the DA, when the DA is in power, I will continue to say them so that somebody else must continue to hold us to account.” You need that. It is not about the DA, it's not about ANC, it's not about COPE, it's about South Africa.</p>
-<p>For me I am a very optimistic person. Absolutely optimistic. I believe we have a long haul but we can do it. Some of the optimism is based on fact. When you have people like Trevor Manuel, the former finance minister and the current finance minister in the party where you have moderates like Kgalema Motlanthe, there is hope because they still hold this thing in balance.</p>
-<p>I think Motlanthe was very presidential.</p>
-<p>There is hope, there is hope but one thing we cannot do, we cannot continue to vote for the same party and expect different outcomes. We just can't. So we in the opposition have a hell of a job to do convincing people that they need to be active in forming or supporting those opposition parties so that responsibility, accountability can become a reality.</p>
-<p>
-<hi rend="italics">Q: Sej Motau, I met you in Seattle in 1979. It is wonderful to see you again 32 years later.</hi>
-</p>
-<p>Thank you very much.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>SEJAMOTHOPO MOTAU</p>
+                <p>Interviewed by: Daniel F. Whitman</p>
+                <p>Interview Date: February 19, 2010</p>
+                <p>Copyright 2010 ADST</p>
+                <p>
+                    <hi rend="italics">Q: Welcome Sej. We are sitting here in Pretoria. Can you tell
+                        us first of all Sej, about where you came from in this complex South African
+                        society? Can you tell us what your origins were, a little bit about your
+                        family, your early education and what enabled you to follow a career that
+                        transcended your community?</hi>
+                </p>
+                <p>MOTAU: Let me start with the Sej because it is always a topical thing. People
+                    wonder how I became 'Sej'. It is actually a name we talked earlier about Andrew
+                    Drysdale. He was the editor of the Pretoria News when I first got there for a
+                    job interview and they had given me the job and then he said, “What is your
+                    byline?” and I said, “Sejamothopo.” He reacted like a typical South African
+                    white here at the time and then he caught himself and said, “May I call you
+                    'Sej'?”</p>
+                <p>I said, “Yes, on condition you say my full name correctly at least once” and
+                    amazingly he just said, “Sejamothopo” and I said, “You see? It is not
+                    difficult.”</p>
+                <p>
+                    <hi rend="italics">Q: When was this?</hi>
+                </p>
+                <p>MOTAU: This was in 1977. I got to the Pretoria News in 1977 and that was in the
+                    aftermath of the 1976 Soweto riots, yes. Because at that time most of the
+                    newspapers had white staff, especially on the political side and crimes and
+                    stuff like that. They had a few black reporters on the spotting side and
+                    entertainment side but on the news side, they did not have and I was one of the
+                    first, if you will beneficiaries of the Soweto uprising to be employed full time
+                    by a mainstream newspaper group. At that time it was the ARGUS Company that
+                    owned the Pretoria News.</p>
+                <p>What got me there was, as I said, the aftermath of the riots. The reason was very
+                    simple. In the black communities there were a lot of things happening since the
+                    violence started in June of '76. It just kept on going; it never stopped. There
+                    were all the police, the violence, you know, the teargas and the reports that
+                    came out were filtered because these were usually from police reports. The
+                    police reports filtered really the stories so the bad stuff that happened seldom
+                    made the papers.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>I remember in our communities, certain community leaders went to the Pretoria
+                    News. That was before I worked for the paper and challenged the editor and said,
+                    “We saw in your paper the other day the reporting about a funeral”, what we used
+                    to call political funerals where the police would kill somebody and there would
+                    be a funeral and there would be more killings at the funeral. “But we didn't
+                    experience it like this.”</p>
+                <p>They said, “The reason this is happening is because A, you get your stories from
+                    the police and two, white journalists can't get into the black communities”
+                    because whites needed a permit to go into the black communities “so we want you
+                    to get information from the sources and the sources are black so get the black
+                    guys.”</p>
+                <p>That's probably one of the reasons why I and a guy called Kenneth Lebethe who
+                    also lived in Atteridgeville were among the first two black people to be
+                    employed on the staff of the Pretoria News on a full time basis.</p>
+                <p>
+                    <hi rend="italics">Q: Why you? I think we need to go back earlier.</hi>
+                </p>
+                <p>MOTAU: Why me? It is another nice story.</p>
+                <p>At the time I was working for the municipality, the city council of Pretoria in
+                    Atteridgeville. At that time I was editing a publication called Lesedi which
+                    simply means 'light'. It was a newsletter which was produced by the municipality
+                    for the communities of Atteridgeville and Mamelodi. I was editor, I was
+                    journalist, I was photographer, and I was everything wrapped in one
+                    newspaper.</p>
+                <p>
+                    <hi rend="italics">Q: We should explain to the reader who is not from South
+                        Africa that these are townships in the vicinity of Pretoria.</hi>
+                </p>
+                <p>MOTAU: Well, Atteridgeville is from Pretoria from an American perspective eight
+                    miles west of Pretoria and Mamelodi about 10 or 12 miles east.</p>
+                <p>
+                    <hi rend="italics">Q: In the previous system, the place where the authorities
+                        set aside for blacks who were not permitted to live in Pretoria.</hi>
+                </p>
+                <p>MOTAU: That's right. We had to live in a place that was designated for black
+                    people, for colored people, so called, for Indian people and for whites. So I
+                    lived in the black township of Atteridgeville.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>At that time in 1974 I had decided because of the job I was doing for the
+                    municipality editing this paper I wanted to be well informed about journalism
+                    and I wanted to go to journalism school which was at the time, Rhodes
+                    University. To do that I had to get special permission under the law and I
+                    refused to do that so I went instead to UNISA, the University of South Africa
+                    which is a correspondence college.</p>
+                <p>
+                    <hi rend="italics">Q: Maybe the largest university in the world.</hi>
+                </p>
+                <p>MOTAU: Today it is probably the largest in Africa.</p>
+                <p>Anyway, I got there and one day I was doing an assignment for a communication
+                    course which included journalism and newspapers and that kind of thing. I
+                    decided to phone the local newspaper editor and I ended up with the news editor,
+                    a guy called Dan van den Heuwel and I told him who I was, what I wanted and I
+                    told him I was a student at UNISA. I needed to know something about a
+                    journalistic term, 'own correspondent'. What does it mean when you see it in the
+                    newspaper and the byline is 'own correspondent'? And so he explained it to me
+                    and afterwards said to me, “What work do you do? And I said to him, “Well, I
+                    work for the municipality. I edit this publication called 'Lesedi'.”</p>
+                <p>He said, “Do you write?”</p>
+                <p>I said, “Yes, I write.”</p>
+                <p>He said, “Can you show us some of your writings?”</p>
+                <p>I said, “Yes” so I went there, showed him some of my writings and the next
+                    question was, “Would you like to work for us?”</p>
+                <p>At that time I had been in my second year at UNISA by correspondence and I said,
+                    “Well, I would like to do that but I think I need to get my university degree
+                    first.”</p>
+                <p>He said, “No, no. Let's be the judge of that” and he pushed an application form
+                    in my face and it said 'application for employment'. A week later I was employed
+                    by the Pretoria News.</p>
+                <p>The reason that happened was I was working for the municipality and we were
+                    covering all these happenings during the violence and many of the stories he had
+                    seen, the examples he had asked me to give, outlined in detail some of the
+                    stories from the community.</p>
+                <p>
+                    <hi rend="italics">Q: This was a conservative town and the Pretoria News was the
+                        mouth piece of . . .</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>MOTAU: Yes. You wouldn't call it a mouthpiece. It was say conservative newspaper
+                    of the capital city which covered the administration, the white administration
+                    so it was actually a must read for government employees and whatever. The
+                    Pretoria News would be kind of center to right. So it was actually a big step
+                    for them to have black journalists on the staff.</p>
+                <p>That helped me to complete my university degree with UNISA after two years or
+                    thereabouts.</p>
+                <p>
+                    <hi rend="italics">Q: So you were writing and also studying?</hi>
+                </p>
+                <p>MOTAU: Yes. I used to go to a riot meeting or whatever in the township, go to a
+                    political funeral and study by night and go to the political rallies or whatever
+                    but I passed.</p>
+                <p>In '79 I graduated with a BA degree in communication and psychology from UNISA
+                    and in '81 I got a BA Honours in communication from UNISA but in '79 something
+                    had happened. I was on one of my assignments in Pretoria and they said, “There
+                    is something at the American embassy.” They used to invite people and we used to
+                    go for jazz sessions at the embassy on Saturdays. They said, “Sej, there's this
+                    thing here. Would you be interested in this?”</p>
+                <p>I looked and it said, 'Fulbright Scholarship'. “Yes, I would be.”</p>
+                <p>So I completed a form and a guy called Bart Rousseve called me.</p>
+                <p>
+                    <hi rend="italics">Q: We are talking about Bart Rousseve, an American from New
+                        Orleans who dedicated part of his life to exchanges with African countries
+                        and particularly South Africa.</hi>
+                </p>
+                <p>MOTAU: Indeed. At that time it was a program called 'Operation Crossroads
+                    Africa'. That is the one.</p>
+                <p>
+                    <hi rend="italics">Q: So you were OCA?</hi>
+                </p>
+                <p>MOTAU: Yes, it is amazing.</p>
+                <p>
+                    <hi rend="italics">Q: You were attracted to the embassy because of the Fulbright
+                        but you ended up?</hi>
+                </p>
+                <p>MOTAU: I skipped a step. OCA comes first because it happens in 1979, just after I
+                    had completed my junior degree, my BA degree.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>I got this thing and the guy who interviewed us among others was Bart. I got it
+                    and I spent six weeks in the U.S.</p>
+                <p>
+                    <hi rend="italics">Q: Where was your orientation?</hi>
+                </p>
+                <p>MOTAU: In Washington.</p>
+                <p>
+                    <hi rend="italics">Q: I was there. I was interpreting French for the francophone
+                        partnership. I met you 32 years ago.</hi>
+                </p>
+                <p>MOTAU: We went from Washington State in Seattle, we went to San Francisco. From
+                    San Francisco we went to Texas and to El Paso and Atlanta. Then we went to
+                    Washington, DC and we ended up in New York for a debriefing.</p>
+                <p>During my stay in California during my OCA visit I obviously visited, they would
+                    ask us. I was a practicing journalist then so my contacts were mostly
+                    newspapers. I remember going to the San Francisco Chronicle, going to the
+                    Oakland Tribune and stuff like that. I went to the journalism school in Berkeley
+                    and I liked the place, I just liked it. I said if I ever get a chance to come
+                    and study in this country, this is where I would like to be.</p>
+                <p>Lo and behold, two years later it happened. That is when I got a Fulbright in
+                    '82. I had three choices; I could go to Harvard, I could go to Wisconsin, I
+                    could go to Berkeley. I went to Berkeley. That was in '82.</p>
+                <p>
+                    <hi rend="italics">Q: So you were determined when you saw Berkeley in '79, you
+                        liked it and three years later, there you were.</hi>
+                </p>
+                <p>MOTAU: On a Fulbright scholarship to do a master's degree in journalism. That
+                    took me two years, graduated the summer of '84 with a master's degree.</p>
+                <p>
+                    <hi rend="italics">Q: Meanwhile the Pretoria News?</hi>
+                </p>
+                <p>MOTAU: The Pretoria News I had to resign from the Pretoria News to go to school
+                    and many people said, “You are crazy. You have a nice job. Why do you want to do
+                    that?”</p>
+                <p>I said, “Well, I want to do this because I just feel this is something I need to
+                    do.” I have said this many times to many people; I think it is a best thing I
+                    ever did in my life, to quit my job. I think it was the best investment
+                    ever.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: Tell us why.</hi>
+                </p>
+                <p>MOTAU: The reason is very, very simple. The experience that I gained, going to
+                    Berkeley was the third overseas trip for me. After OCA I went to Germany for a
+                    while for a couple of weeks but when I went to the U.S. to study was the third
+                    time out and I stayed there for much longer, for two years to study. The
+                    exposure, for me I think what I gained in terms of knowledge, learning came in
+                    handy every time. When I came back and people would say, “Oh, you are a
+                    Fulbright scholar.” To me it never struck me as something huge but I realized
+                    for many people it was something great. Even now when you say, “I am a Fulbright
+                    scholar” people look at you sort of differently.</p>
+                <p>
+                    <hi rend="italics">Q: It gave entr�e, a certain prestige.</hi>
+                </p>
+                <p>MOTAU: No question about it.</p>
+                <p>
+                    <hi rend="italics">Q: Beyond that what about practical, pragmatic?</hi>
+                </p>
+                <p>MOTAU: When I came back for instance, after I graduated I got a call from the
+                    editor. At the time the editor was Wilf Nussey. I got a call from John Patten
+                    who was his deputy and he said, “Sej, we know you may have other offers but
+                    before you go anywhere, please come back to us. Let's talk.” So I didn't even
+                    have to look for a job.</p>
+                <p>
+                    <hi rend="italics">Q: They rehired you partly on the strength of the credentials
+                        of the Fulbright.</hi>
+                </p>
+                <p>MOTAU: And the fact that I had worked for the paper but on the basis that now I
+                    had the journalism degree, a Fulbright scholar.</p>
+                <p>
+                    <hi rend="italics">Q: So you took a risk but in retrospect it wasn't a risk at
+                        all.</hi>
+                </p>
+                <p>MOTAU: No it wasn't. The Fulbright as you know was a very comprehensive
+                    scholarship so it paid for my tuition, paid for everything. When I came back
+                    from the U.S. after two years, I even had some pocket money so that was quite
+                    nice. I think the Fulbright was really, really an investment.</p>
+                <p>When I left the newspaper for instance and went to Anglo American Corporation and
+                    later De Beers and later Transnet and later Sasol, it was all on my CV, my name
+                    and they see Fulbright, Berkeley, California.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>
+                    <hi rend="italics">Q: This helped you very much in your own professional
+                        development. In what way did it help your country?</hi>
+                </p>
+                <p>MOTAU: I acquired skills and I honed them as a student in the U.S., especially
+                    public speaking, writing. I was a journalist. I think many people don't realize
+                    this that some of us just went in there, did our jobs, wrote those stories,
+                    challenged P W Botha (former South African state president under apartheid) when
+                    he couldn't cross the Rubicon and stuff like that, we were actually making that
+                    contribution.</p>
+                <p>
+                    <hi rend="italics">Q: You think that whatever it is you acquired at Berkeley
+                        enabled you to make that contribution?</hi>
+                </p>
+                <p>MOTAU: Absolutely.</p>
+                <p>
+                    <hi rend="italics">Q: What was it?</hi>
+                </p>
+                <p>MOTAU: Confidence. You come back feeling I studied under people like Ben
+                    Bagdikian, these guys who did Watergate. When you studied under people like
+                    those, you come back and you have to do a story or profile or something like
+                    that you feel you can and you do so you are very confident. I have said this
+                    before and will say it again; I have no doubt in my mind that Fulbright had a
+                    profound impact on my career. Even now, right now I am in parliament. I went to
+                    parliament last year with the last elections and people still look at my CV and
+                    when then they see the Fulbright. So, yes.</p>
+                <p>
+                    <hi rend="italics">Q: It is not just a name.</hi>
+                </p>
+                <p>MOTAU: I have come to accept that myself. Most people react to it like that.</p>
+                <p>For me the interesting thing is that for a little guy who was born in Lady
+                    Selborne, which is like ten miles north of Pretoria which was then declared a
+                    black spot which was later demolished which has now been resuscitated, who ends
+                    up in Atteridgeville to do primary school education, goes to Hofmeyr High School
+                    to get a Matric in the township and goes teaches himself through UNISA to get a
+                    BA degree and a BA Hons degree and gets a master's degree out of Berkeley,
+                    California, from a family where the father was a laborer, working as a butcher's
+                    hand, the mother was a char woman for many people who always insisted, she told
+                    us, “Get some education.” The people she worked for always told her, “Whatever
+                    you do, make sure your children get an education” and I say that a lot even
+                    today. It was, I think, quite something.</p>
+                <p>
+                    <pb facs="0008" n="Page0008"/>
+                    <hi rend="italics">Q: It was your mother who convinced you that education was
+                        the key?</hi>
+                </p>
+                <p>MOTAU: I don't think she even convinced me. She just planted in me because she
+                    always talked about it. I don't think I ever needed convincing. I was one of
+                    those lucky guys; I was bright at school. I never failed, I got promotions. I
+                    skipped a couple of classes. I sat for my matriculation examination which at the
+                    time was a tough exam. They called it Joint Matriculation Board of the
+                    University of South Africa which we wrote. I passed it in one sitting with
+                    English A as my major subject. I didn't struggle at school. I was actually
+                    quite, school was nice for me.</p>
+                <p>
+                    <hi rend="italics">Q: Now you are a member of parliament.</hi>
+                </p>
+                <p>MOTAU: Yes, now I am a member of parliament and a member of the official
+                    opposition in this country. We have what we call the official opposition which
+                    we call the Democratic Alliance which comes out of the long history of a party
+                    which was the Progressive Federal Party and the Progressive Party and then the
+                    United Party way back then. The guys in the United Party split and went to the
+                    Progressive Party.</p>
+                <p>I never thought I would go into active politics. I have always been very, very
+                    politically aware. I can probably tell you more about American politics today
+                    than some Americans or some British because I just like doing that. In my work
+                    as a journalist I covered politics, I covered labor, and I covered education so
+                    it is something I have always believed.</p>
+                <p>When I was in the U.S. I used to tell friends, colleagues at school that, guys, I
+                    am going back home when I graduate. They would say, “No, no, no. Don't go back
+                    home. Those Boers are going to kill you.”</p>
+                <p>I said, “No, it's my home. I've got to go there and I've got to go do what I can
+                    do.” We came back, was the struggle. It was always going on.</p>
+                <p>Once in 1984 I then said to myself something else had to happen. Political
+                    liberation is fine but you also need economic liberation and to get that, you
+                    need a balance of forces. You need a strong opposition. Obviously the American
+                    system had a strong impact on me, where parties vie for power. Every eight
+                    years, four years somebody gets kicked out and somebody comes in but they all go
+                    in the same direction. They all do it for the country. The American flag is the
+                    driving thing and I said to the guys that what we need is a situation like that
+                    where we don't have the typical African situation where one party is in power
+                    forever and ever, amen and takes the country down the tubes.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>Over the years these things have been happening and you look around and you think
+                    about yourself. When I came back from the U.S., I had to think about myself.
+                    Work hard. I was always lucky, got the big companies, the good jobs, mostly
+                    communication, sort of escaped but things then things started happening and you
+                    feel, no, this is not right. This is not why we went to war for and then you
+                    start moaning.</p>
+                <p>
+                    <hi rend="italics">Q: At what point did you begin to see you had to go in a
+                        different direction from the prevailing one party</hi>
+                </p>
+                <p>MOTAU: Seriously from day one; 1994 and I will explain why. When I went to vote I
+                    said to my wife, “I am voting. I am voting for the ANC but I am voting for the
+                    ANC of Nelson Mandela.”</p>
+                <p>And she said, “Why do you say that?”</p>
+                <p>I said, “Because I see that in this party,” there are two parties here, the
+                    Nelson Mandela party and the other. At that time it was not well defined. Now we
+                    know, of course. It was the only time I ever voted for the ANC. There was a very
+                    good reason for it. They would be the only viable party to kick out the Nats,
+                    which is the national party. And they did. The next time I voted I voted for
+                    the, at that time it was called the Progressive Party. The important thing was
+                    right from the beginning my position was very clear; for this country to have a
+                    viable democracy you need two parties vying for position.</p>
+                <p>
+                    <hi rend="italics">Q: Now was it partly the American system that gave you this
+                        sense or was it also the logic of what was happening in this country?</hi>
+                </p>
+                <p>MOTAU: Well, partly that but partly because I have always internalized and
+                    believed that if you believe in democracy, then you've got to believe in the
+                    balance of power, very simple. I still hold that view. For me going to the DA
+                    now was the easiest thing to do. It was just a matter of when.</p>
+                <p>
+                    <hi rend="italics">Q: The DA was created relatively recently?</hi>
+                </p>
+                <p>MOTAU: Yes, after the Progressive Party, it became an alliance and that happened
+                    about 7 years ago. It might be ten when they joined with the National Party and
+                    the then Progressive Federal Party came together to form what they call the
+                    Democratic Alliance. It didn't work. It was a bad decision but some of them are
+                    still there and stuff.</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>For me it was very simply this; after a while you start complaining. No, this is
+                    not going right and somebody has to do it and you ask yourself, who? Who is
+                    going to form this opposition? One day you wake up and realize if you don't do
+                    it, how can you expect other people to do it? That happened about 2008.</p>
+                <p>Over the years I have been doing a thing on nation building called 'spirit of
+                    nation' and that spirit of nation was a thing that I started formulating about
+                    ten years ago when I was asked to address a matric class at Kimberley Boys High
+                    School, and I worked for the De Beers at that time. I did not know what I was
+                    going to talk to these 15, 16 year olds about and I had several ideas; one was
+                    international competition, patriotism and I called it spirit of nation and the
+                    reason was very simply that I felt that we needed to forge a South African
+                    nation. At that time Desmond Tutu was talking of the 'rainbow nation' and
+                    Mandela was talking reconciliation and I thought I would add my voice to that.
+                    It was 'spirit of nation'. I used to talk about it and many times I got invited
+                    by businesses and other social organizations to talk about this thing. It was
+                    purely about international competition, work ethic, patriotism, and the kinds of
+                    stuff I say patriotism has nothing to do with your political affiliation. It has
+                    to do with love for your country. Because of that, I was invited to talk to the
+                    Rotarians in Johannesburg and in the audience was a guy, Mike Moriarty from the
+                    Democratic Alliance and my host said, “Sej, I want you to meet this guy” and I
+                    met him and we started talking and I said, “We'll get together.”</p>
+                <p>Once I decided I wanted to do something, he had given me his business card, I
+                    called Mike. I said, “Mike, let's have lunch” so I went and he said, “What's
+                    happening?”</p>
+                <p>I said, “Well, I am tired of complaining. I need to do something about the strong
+                    opposition that everybody seems to talk about but nobody wants to do anything
+                    about. I want to join you guys.”</p>
+                <p>He said, “OK, well, why don't you pay your ten rands? Where do you live?”</p>
+                <p>“Would you be interested in standing for election?”</p>
+                <p>Why not? And we went through a very serious, rigorous election process and I made
+                    it and got put on the list. That's how I ended up in parliament.</p>
+                <p>
+                    <hi rend="italics">Q: How close is it in this country that a currently
+                        splintered opposition might come together? I know there are
+                        negotiations.</hi>
+                </p>
+                <p>MOTAU: Not negotiations. In South Africa they are very careful about how they
+                    phrase things. Well, we are talking about talking.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: From what you said earlier I gather that you believe the
+                        best hope for an effective opposition is for the entire opposition to work
+                        together.</hi>
+                </p>
+                <p>MOTAU: No question about it. It is just figuring out how. It is the how that has
+                    to be done. The DA is talking to the Independent Democrats and Congress of the
+                    People. There is a piece of paper, a document that has been put out.</p>
+                <p>
+                    <hi rend="italics">Q: The DA is in control of only one province.</hi>
+                </p>
+                <p>MOTAU: Yes.</p>
+                <p>
+                    <hi rend="italics">Q: Is it demographically possible or likely that, you wish, I
+                        guess, to become a national party . What are the chances of that happening
+                        given the demographics?</hi>
+                </p>
+                <p>MOTAU: The chances are there but it is going to be a long haul and it's going to
+                    be tough.</p>
+                <p>I can explain it to you. We think that Gauteng Province is probably our next best
+                    bet simply because of the fact that the ruling party in this country is no
+                    different from any other ruling party in Africa. Most of the people who support
+                    the party are people in the rural areas and in South Africa a lot of the people
+                    also in the urban areas. But you are more likely to get somebody in an urban
+                    area voting for the Democratic Alliance than you would get from the rural areas
+                    for the simple reason that many people still think in racial terms. The
+                    Democratic Alliance is a white party, that's what they say. Therefore, you
+                    cannot vote for people who previously oppressed you. They will oppress you again
+                    because you are not applying your mind to the thing; you are applying your
+                    heart. In fact, most of the time you are applying nothing; you are just told,
+                    “You vote for the ANC. It was the liberation party so it will liberate you.”
+                    What you forget to ask is now that they have this power, how have they used it
+                    in my best interest? The score card doesn't look good, doesn't look good and
+                    that is why we think we're making some inroads in parliament.</p>
+                <p>I can give you some very practical examples. When we got there about nine months
+                    ago, it was the in thing for every ANC person to stand up and say, “We decided
+                    this, we did this and now we have 12 million people on social grants” and stuff
+                    like that and we started very quietly saying to them, “Nobody should be proud
+                    that there are 12 million people in this country on welfare grants. It is not
+                    something to be proud about. It is not something to be proud about that people
+                    are losing their jobs. It is not something to be proud about that people live in
+                    shacks.”</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>We started turning this whole thing around for them to realize you can't boast
+                    about the fact that people are on welfare. That's helping. It's changing. Now we
+                    are beginning to hear, “Let's work together” from the people who never would
+                    have said it a year ago because at that time they had more than two thirds
+                    majority in parliament. Now they have just under two thirds and they need
+                    us.</p>
+                <p>
+                    <hi rend="italics">Q: They are losing very gradually.</hi>
+                </p>
+                <p>MOTAU: Of course they are losing gradually. On Wednesday when one of our members
+                    took up an issue with the deputy speaker and he was thrown out, we went out. We
+                    didn't go out because Dianne Kohler Barnard was kicked out. We went out because
+                    our Chief Whip stood up on a point of order. The deputy speaker said, “I don't
+                    hear a thing, I will not hear a thing” and we said, “If we parliamentarians in
+                    the House cannot exercise freedom of speech, what are we doing in the House? So
+                    we walked out.”</p>
+                <p>
+                    <hi rend="italics">Q: So this happened, it was all the opposition, I believe
+                        that walked out.</hi>
+                </p>
+                <p>Explain how this could have happened simultaneously.</p>
+                <p>MOTAU: Very simple. When a COPE member was talking, it was in reply to the
+                    president's state of nation address, right? Then he made certain statements
+                    about the president. He made a general statement that the party but it came
+                    across as if he were saying President Zuma is leading this country to a part of
+                    lawlessness. So then somebody objected. This was on Monday. Somebody objected to
+                    say, “No, you can't say that.” He said 'deliberately'. He said, “No, no. That's
+                    not parliamentary. We want him to withdraw.”</p>
+                <p>So the deputy speaker wasn't sure what had been said. She said, “I will take this
+                    on advisement and I'll come back to you guys.” So we went home.</p>
+                <p>The next day she came back and she said, “I have looked at the thing and this is
+                    dah, dah, dah.” I thought she did a very nice thing, good homework. “In terms of
+                    this I would like to ask the honorable George to withdraw this statement” and
+                    George said, “What should I withdraw?”</p>
+                <p>I think the deputy speaker made her mistake. Instead of saying to honorable
+                    George, “This is what I want you to withdraw”, she says, “You were not listening
+                    to me. I have read all this long statement. I am asking you to withdraw.”</p>
+                <p>The guy said, “No, no, no. I don't know what to withdraw. What do you want me to
+                    withdraw?”</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>She said, “OK, I will begin again” and she read the section and said, “I want you
+                    to withdraw and Honorable George said, “I didn't say that.” They started
+                    arguing.</p>
+                <p>
+                    <hi rend="italics">Q: In the session?</hi>
+                </p>
+                <p>MOTAU: Yes, in the session. The deputy speaker lost control. They started arguing
+                    and as they were doing this one of our members, the one who finally got
+                    suspended was very agitated because at that time Ian Davidson who is our Chief
+                    Whip stood up on a point of order at the same time Shilowa of COPE stood up on a
+                    point of order. The deputy speaker said, “I will not hear you. I will not hear
+                    anybody except honorable George. Honorable George, do you withdraw this thing or
+                    not?”</p>
+                <p>George said, “No, I will not withdraw.”</p>
+                <p>Said, “Marching orders.”</p>
+                <p>
+                    <hi rend="italics">Q: Then everyone else left too.</hi>
+                </p>
+                <p>MOTAU: Exactly. As Honorable George walked out, we walked out because our Chief
+                    Whip was not allowed to speak. At the time apparently one of our members, Dianne
+                    Kohler Barnard had been so agitated that she spoke French. She has been given a
+                    week's suspension. But of course, the deputy speaker doesn't do the work. The
+                    secretaries do that. She had a very nice prepared document as to step by step.
+                    Whether that was right or wrong, to me, it is irrelevant. She gave the
+                    impression that she had done some work.</p>
+                <p>My problem with her and for the first time history was made on Wednesday night. I
+                    agreed for once with a member of the ANC. That's true. People in the ANC are
+                    amazing. It doesn't matter what you say. If you are not a member of the ANC,
+                    they just disregard what you say. We were on the bus going home and I said, “I
+                    think the whole thing went out of kilter because the deputy speaker was weak.
+                    She did not handle this thing with the authority that she should have.”</p>
+                <p>The woman from the ANC said, “I agree with you.”</p>
+                <p>
+                    <hi rend="italics">Q: So this was the ANC agreeing with you rather than the
+                        reverse.</hi>
+                </p>
+                <p>MOTAU: Yes, for once somebody in the ANC actually agreeing with a DA member about
+                    something.</p>
+                <p>
+                    <pb facs="0014" n="Page0014"/>
+                    <hi rend="italics">Q: But not in public?</hi>
+                </p>
+                <p>MOTAU: Well, it was in public, not in the House but as we were traveling home. I
+                    mean, these guys would deny anything. If you looked outside and said, “Oh, the
+                    sun is shining” and you are a member of DA, a member of ANC would probably say,
+                    “No it is not shining.”</p>
+                <p>
+                    <hi rend="italics">Q: Does this indicate to you there is a real possibility of
+                        an opposition becoming stronger?</hi>
+                </p>
+                <p>MOTAU: Well, I can assure you . . .</p>
+                <p>
+                    <hi rend="italics">Q: And of eroding the ANC of some of its own members?</hi>
+                </p>
+                <p>MOTAU: In any normal democracy, Zuma would never have been president; that's
+                    number one.</p>
+                <p>
+                    <hi rend="italics">Q: Why?</hi>
+                </p>
+                <p>MOTAU: Because of many, many things. He was investigated for this, for that, for
+                    whatever and he never stood to contest the leadership with anybody so there were
+                    many things.</p>
+                <p>But the other thing that would not have happened was that Zuma is not, has not
+                    been to school. People react as a gut thing very negatively to people who don't
+                    have formal education. They admire the fact that Zuma had been self-taught and
+                    whatever but they always say, “Wait a minute. She spent 25 years at school to
+                    get her PhD. Why should she be sitting here listening to you who didn't do it?”
+                    So instinctively people react that way.</p>
+                <p>I think just on the flaws, he wouldn't have done it but he did it because here
+                    they vote the party.</p>
+                <p>From us, from our perspective the challenge is to get the average, and there is
+                    no creature like that, but to get the average black South African to realize
+                    they have a choice. You have a choice. You have a spectrum of political parties.
+                    You can vote for any one of them. It is not a crime not to vote for the ANC. I
+                    know that. I have done that. So and so has done that, other people have done
+                    that because we think for ourselves. That's the challenge for the
+                    opposition.</p>
+                <p>
+                    <pb facs="0015" n="Page0015"/>
+                    <hi rend="italics">Q: Devil's advocate. Before I was in South Africa I was in
+                        Spain. There are some parallels. It is forty million people, it had been in
+                        a period of great repression under Franco. It suddenly had great liberation
+                        when Franco died in '75 and because of the tumultuous past, there were many
+                        Spanish people who would never, ever, ever leave the Socialist Party, even
+                        after it became dysfunctional, corrupt, and unable to guide the country.
+                        There were many people who felt because of the very violent history of
+                        Franco and the Socialists were the republican opposition to Franco evolved
+                        into something else. Instinctively they could not leave the party, even no
+                        matter how dysfunctional.</hi>
+                </p>
+                <p>You see why I am mentioning this?</p>
+                <p>MOTAU: Oh, yes.</p>
+                <p>
+                    <hi rend="italics">Q: Disprove me.</hi>
+                </p>
+                <p>MOTAU: No, I am not even going to try to disprove you because you could be right
+                    and that's the problem. That is why some of us are so afraid and getting more
+                    afraid because what you are saying could be true. I have had people who have
+                    told me in my face, “Sej, I agree with what you are saying. The party is going
+                    off the rails,” meaning the ANC, “but I am a diehard ANC guy so I am going to
+                    stay with the party.”</p>
+                <p>So you could be right and that's the problem. The challenge for us in this
+                    country is that whatever needs to happen, this intervention that needs to happen
+                    to open up the people's heads and minds and brains to say, “This is for my
+                    country not for the party.” That's our challenge. It is a tough one, I can
+                    assure you. We are there in the trenches. It has gone to the irrational level
+                    where people are very irrational about it and as I say, that's the thing that
+                    really is worrisome because if we don't do that, if that creature I referred to
+                    the average black South African does not wake up to the fact they have a choice,
+                    we will end up like Zimbabwe or like anybody else. Seriously, it is
+                    possible.</p>
+                <p>
+                    <hi rend="italics">Q: You say they should wake up one day and see that these
+                        things are possible. Surely you have a strategy to assist them in waking
+                        up?</hi>
+                </p>
+                <p>MOTAU: I was being flippant but the real thing about strategy is exactly that.
+                    The strategy is very simple and it is simple things that work but those are the
+                    most difficult things. It doesn't matter how you slice the numbers, why people
+                    in this country can make the numbers. For the DA or COPE or any of those parties
+                    to win, it must have a black majority so when we from the DA side are talking
+                    this is exactly what I am saying. I say, “Look, I am doing what I am doing
+                    because I believe first in the vision and principles and whatever of the DA.” I
+                    truly do; open opportunities and all those things.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>But as a black South African, grew up in a township I do it for another reason;
+                    people who grew up with me, came after me can see that a black person can belong
+                    to this party and make a difference. If we are really serious about the fact
+                    that we want to form a non-racial, non-sexist, democratic South Africa, then we
+                    cannot have a party that is made up of exclusively black people or exclusively
+                    white people or whatever. We can't do that.</p>
+                <p>Right now as we talk it is a statistical fact the Democratic Alliance is the
+                    most, most integrated party in this country.</p>
+                <p>
+                    <hi rend="italics">Q: Yes, now they say again, I am the ignorant foreigner here;
+                        they say the DA was able to win in the Cape because of Cape coloreds.</hi>
+                </p>
+                <p>MOTAU: Indeed, that's what they say, yes.</p>
+                <p>
+                    <hi rend="italics">Q: And that it implies a demographic reality so what, do I
+                        understand correctly you see that there is a demographic challenge and you
+                        are trying to overcome that challenge?</hi>
+                </p>
+                <p>MOTAU: Yes, because in this country and everyone will tell you that, anybody who
+                    denies it is not observing South African politics, we still vote on old racial
+                    patterns.</p>
+                <p>
+                    <hi rend="italics">Q: Your task that you want to succeed is to break that
+                        pattern. Is that what you are saying?</hi>
+                </p>
+                <p>MOTAU: Of course, you have to. You have to have a black person voting for a white
+                    party and a white person voting for a black party, OK?</p>
+                <p>
+                    <hi rend="italics">Q: It's a tall order.</hi>
+                </p>
+                <p>MOTAU: It's a very tall order but I am saying that because we claim, the ANC
+                    claims that the Freedom Charter upon which they keep on harping when they should
+                    be harping about the constitution because our constitution is supposed to have
+                    taken all the things we have put them in there. But when you listen to ANC
+                    people they keep on talking about the Freedom Charter, the Freedom Charter. The
+                    constitution is supposed to supersede every other document we produced during
+                    the days of the struggle. That's why we have the Constitution. That's why people
+                    came together and said, “What do you have?”</p>
+                <p>And they said, “We have a Freedom Charter.”</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>National Party, what do you have? We have this.</p>
+                <p>At that time it was the Progressive Party, what do you have? We have this.</p>
+                <p>All of the 19 or so parties, each one brought their thing, put it together,
+                    welded it together to form the constitution. Now I am not saying people should
+                    not refer to those documents but when you listen to many of the people, they
+                    still make them as if the Freedom Charter is above the constitution of this
+                    country. That's absolutely not true.</p>
+                <p>
+                    <hi rend="italics">Q: How compatible is Inkatha Freedom Party with DA and
+                        COPE?</hi>
+                </p>
+                <p>MOTAU: In terms of values and principles, I think it is the same. The problem
+                    with Inkatha is a very simple one. The problem with Inkatha, it's ethnic. It is
+                    perceived as being a Zulu, a party for Zulu speaking people. Of course, the
+                    leaders will deny that but mostly, dominantly Zulu.</p>
+                <p>
+                    <hi rend="italics">Q: Do you think they would say the same about the DA?</hi>
+                </p>
+                <p>MOTAU: They would say that but you see, the DA has this good fortune that
+                    statistics deny it. More black people voted for the DA than white people.</p>
+                <p>Tutu was at loggerheads with the ANC and for some time Zuma wouldn't talk to him
+                    because he was saying exactly the same things to this government that he was
+                    saying to the last government because he is walking the straight and narrow. If
+                    you walk the straight and narrow, you will be critical of this government,
+                    probably even more than so of the previous government because the previous
+                    government didn't pretend to be anything democratic. This one declares that it
+                    is democratic. So when they do wrong things, you nail them.</p>
+                <p>
+                    <hi rend="italics">Q: Is Zuma Zulu?</hi>
+                </p>
+                <p>MOTAU: That is the problem and unfortunately, I don't think Zuma can transcend
+                    that. What has been encouraging is that many of his strongest supporters, Zulu
+                    speaking peoples but he cannot seem to get away. Look at his appointments. Most
+                    of his appointments have been sort of leaning toward the Zulu.</p>
+                <p>Our leaders need to transcend race and ethnicity. We need to do that. Zuma, in a
+                    lot of ways, is trying to do that. The things he says though, his approaches to
+                    the Afrikaners and stuff like that but his actions belie that. His most
+                    significant appointments have all been leaning towards . . .</p>
+                <p>
+                    <pb facs="0018" n="Page0018"/>
+                    <hi rend="italics">Q: Do you think you will ever again be a journalist?</hi>
+                </p>
+                <p>MOTAU: No, no. I've done this, been there and that's been the good thing about
+                    me. Once I moved on, many times when I was in business, once I left journalism,
+                    I would meet many of my former journalist colleagues and they'd say, “Sej, do
+                    you want to come back?”</p>
+                <p>I'd say, “No, no, no. You can't even afford me now.”</p>
+                <p>But for me I think it was a building block as a journalist, a great experience
+                    but I won't go back there.</p>
+                <p>
+                    <hi rend="italics">Q: None of this hurts as valuable experience for a future
+                        cabinet portfolio.</hi>
+                </p>
+                <p>MOTAU: If you think about it I actually have a cabinet portfolio. I am Shadow
+                    Minister of Energy. One of my colleagues remarked the other day the party said,
+                    “Hey, guys. We need your profiles” for all of us, 77 of us. The leader said,
+                    “Some of you guys have not sent your profiles.” I think one of them went to the
+                    leader and said, “What do you want me to put in my profile?”</p>
+                <p>So he said, “Oh, OK. Let me send you Sej's profile.” She used to be a professor
+                    at the University of Pretoria and she saw things and then she meets me in the
+                    passage one day and says, “Sej, I feel so small.”</p>
+                <p>I said, “What do you mean?”</p>
+                <p>“I looked at my CV and your CV and it's like you've done it all.”</p>
+                <p>Not all, but yes.</p>
+                <p>I think I have been fortunate that I have always been able to move on. Once I
+                    have done my stint somewhere I moved on, no regrets and I have always felt that
+                    every step that I have taken was a building block for the next step.</p>
+                <p>That's also my philosophy in life. I tell the young people that you must always
+                    be going somewhere. That means you must always be thinking about where do I want
+                    to be next? My life has been a life of coincidences.</p>
+                <p>I went to the municipality as my first job because my father had a friend, a
+                    church colleague and friend who worked for the municipality. He was a big, big
+                    black guy there so I got a job. I didn't have to look for one.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>I went to the Pretoria News because I made a phone call as I told you and I went
+                    to Operation Crossroads because I had a visit at the embassy and I went to
+                    Germany because when I was at an American Embassy function there was the
+                    cultural attach� of the German embassy, Mrs. Zenker who was a guest there. In
+                    conversation I mentioned I would like to study economics and journalism. “Well,
+                    maybe you should go to Bonn and talk to those guys in Bonn.”</p>
+                <p>In two weeks a trip to Bonn because I had this thing. When I came back I had a
+                    talk with somebody and said I would like you to write a couple of pieces. Wilf
+                    Nussey editor of the Pretoria News said, “Sej, I want you to do a piece about
+                    the student leaders in the communities” because the Nats used to say the student
+                    leaders came from broken families and whatever and we said no. We knew that many
+                    of the student leaders came from the middle class black families because they
+                    would say the kind of education they were getting they would never compete their
+                    parents. So don't talk about it; write it. So I wrote it, a five piece series in
+                    the Pretoria News and then John Oxley saw it, John Oxley used to edit Optima. He
+                    saw it, said to Wilf Nussey “I like these pieces. Who is this writer?”</p>
+                <p>“It is Sej.”</p>
+                <p>“I would like him to write this thing for me.”</p>
+                <p>“Well, talk to him.”</p>
+                <p>We talked and he said, “Sej, would you be interested in doing this series as a
+                    magazine piece?”</p>
+                <p>I said, “Well, I'll give it a shot.”</p>
+                <p>It is published in Optima in 1985 or thereabouts. It is there, “Profile of a
+                    Student Leader”. Because of that, Neville Huxham saw this, wanted to talk to me,
+                    gave me a job. So everything sort of . . .</p>
+                <p>
+                    <hi rend="italics">Q: One thing led to another.</hi>
+                </p>
+                <p>Anything to add about the past, the present or the future of your country?</p>
+                <p>MOTAU: This thing, I have talked about it, thought about it. When we were in the
+                    struggle, we call it the 'struggle' we had common purpose; get rid of apartheid.
+                    Many people are now beginning to say it used to be better in the old days when
+                    we knew what we all wanted. Now because we have this democracy, the spoils are
+                    being shared. Only those in the inner circle are getting them and this has
+                    disillusioned a lot of people.</p>
+                <pb facs="0020" n="Page0020"/>
+                <p>My personal view is that we need to build on what we have; we have to. My last
+                    speech in parliament was that this is an exam or test we dare not fail. We've
+                    got to build this thing. We've got to make sure that we keep on building this
+                    strong opposition.</p>
+                <p>It is in the best interest of any ruling party to have a strong opposition party
+                    and I tell people, “These things now, I mean the DA, when the DA is in power, I
+                    will continue to say them so that somebody else must continue to hold us to
+                    account.” You need that. It is not about the DA, it's not about ANC, it's not
+                    about COPE, it's about South Africa.</p>
+                <p>For me I am a very optimistic person. Absolutely optimistic. I believe we have a
+                    long haul but we can do it. Some of the optimism is based on fact. When you have
+                    people like Trevor Manuel, the former finance minister and the current finance
+                    minister in the party where you have moderates like Kgalema Motlanthe, there is
+                    hope because they still hold this thing in balance.</p>
+                <p>I think Motlanthe was very presidential.</p>
+                <p>There is hope, there is hope but one thing we cannot do, we cannot continue to
+                    vote for the same party and expect different outcomes. We just can't. So we in
+                    the opposition have a hell of a job to do convincing people that they need to be
+                    active in forming or supporting those opposition parties so that responsibility,
+                    accountability can become a reality.</p>
+                <p>
+                    <hi rend="italics">Q: Sej Motau, I met you in Seattle in 1979. It is wonderful
+                        to see you again 32 years later.</hi>
+                </p>
+                <p>Thank you very much.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

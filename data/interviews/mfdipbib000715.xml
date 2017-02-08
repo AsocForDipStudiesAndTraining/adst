@@ -1,241 +1,1185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000715">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Stephen Low, 1988: a machine-readable transcription.</title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Stephen Low, 1988: a machine-readable
+                    transcription.</title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR STEPHEN LOW</p>
-<p>Interviewed by:  I.W. Zartman </p>
-<p>Initial interview date:  1988</p>
-<p>Copyright 1998 ADST</p>
-<p>Narrator:  We are pleased to present another in our series of interviews with Senior Officers of the Foreign Affairs Agencies.  With us today is Ambassador Stephen Low who has just retired after a long and distinguished career in the United States Foreign Service.  Interviewing him will be Professor I.W. Zartman, Director of African Studies at The School of Advanced International Studies at Johns Hopkins University here in Washington.  With that, I'll turn it over to Ambassador Low and Professor Zartman.</p>
-<p>LOW:  Thank you Gene, thank you very much.</p>
-<p>
-<hi rend="italics">Q:  Steve, maybe we can begin in the beginning and I'll begin by asking how did you get involved in foreign affairs?  Was it an incident?  Was it an evolution ?</hi>
-</p>
-<p>LOW:  No, I can't really describe the moment that I decided to join the Foreign Service?  I always remember reading the “Most Unforgettable Character” series Readers Digest where somebody was usually lying in the hay in a barn and a bolt of lightning struck them and they decided they wanted to devote their lives to one thing or another.  It never happened to me.</p>
-<p>Narrator:  I'm glad that you weren't struck by lightning while lying in the hay, that's very dangerous.</p>
-<p>LOW:  I just gradually gravitated in this direction from finishing my undergraduate degree, more interested in public service than private, but not clear where.  Then I did a graduate degree at Fletcher School and simply gravitated in the direction of foreign affairs; took the Foreign Service exam twice - I didn't pass the first time.  The first time I took it in Paris and the second time I believe in Cincinnati.  By the time I was in it, I guess I was twenty-eight or so.  From that time on I never had a moment's question that that wasn't what I wanted to be doing.</p>
-<p>
-<hi rend="italics">Q:  I think many people preparing themselves would be interested in knowing whether you think the Doctorate was useful.  Would you have done better going in after an A.B. or an M.A.?</hi>
-</p>
-<pb facs="0002" n="Page0002"/>
-<p>LOW:  I've always thought that probably the best training for Foreign Service is a Law degree; whether that's right or not I don't know, not having a law degree I can't prove that.  The Ph.D.  didn't hurt, but it didn't help much. It probably did a certain amount of good in terms of the writing practice and the thinking discipline.  Having a degree is only useful in the sense that you've got a parachute.  At some point in your career; at any point in your career if you decide you don't like it, if your family doesn't like it or something else, you have that security of knowing perhaps you can do something else.  You have at least an entry possibility and I think that's a healthy point of view.  Whether it's worth the two or three years I'm not sure.  I think a Law degree is good because it teaches you to take complex ideas and reduce them to a short brief and put it forward in persuasive literate terms.  I think that's probably the most useful single asset that a Foreign Service Officer can have: an ability to write succinctly, accurately, quickly, and persuasively.</p>
-<p>
-<hi rend="italics">Q:  So generally, would you recommend somebody go in and take the exam after a Master's Degree of after an A.B. degree rather than going on to a Ph.D.</hi>
-</p>
-<p>LOW:  No I don't think so, the average age of entry now is thirty-one.  That may a little bit older than optimal, but I think its good to have done something first, anything.  It may be education, it may be Peace Corps, it may be working in a bank, but I think there is an advantage to having a breadth of experience before you go into the Foreign Service.  Whatever it may be, in my case it was perhaps too many years in school.</p>
-<p>
-<hi rend="italics">Q:  I think in a career pattern of Foreign Service Officers that there comes a point after one or two posts when a lot of people have a decision to make.  I don't know the statistics on this but I think very often that people make a decision at that point to leave.  Then a lot of people go on, that is in their young career there seems to be a turning point.  Did you feel anything like that?  Did you make a - Was there a time when you made a conscious decision to go on?</hi>
-</p>
-<p>LOW:  I've read passages in some of the other recent psychological studies of the course of life and I've always wondered why it doesn't seem to apply to me as it does to other people.  I think my only hesitation all along was, “Was I good enough?” I never, ever had a moment of questioning whether that was what I wanted to do.  I guess I didn't really have time.  I went from one job to the next and each one struck me as more exciting and interesting than the one before and there were so many others that looked fascinating that I really never, never questioned whether this was what I wanted to do; the only question was “Did I really have the what was necessary in terms of the mettle and mental discipline to do it?”</p>
-<p>
-<hi rend="italics">Q:  Can you read into the record what your positions were until you became Ambassador to Zambia, and then to Nigeria.</hi>
-</p>
-<pb facs="0003" n="Page0003"/>
-<p>LOW: Well I had just finished a Ph.D. at the Fletcher School on the American experience in the Philippines and it was part sociological and part political.  I came into the service and low and behold I was assigned to research on the Philippines and Malaysia.  I think that was a great stroke of luck because it enabled me to move in to an area that I knew something about and could speak with some small authority on and I spent a little time on the Philippine desk and so forth.  At that point they began opening African posts and my career really was decided (as many of the crucial decisions in my life were made) in an automobile which I believe is one of the most important policy formation vehicles in the City of Washington, (this is a very well kept secret), that is the car pool.  Car pools have important impacts and in my case the Philippine desk officer was a car pool mate of someone who was going to open an African post and after many, many things occurred I went off to help him open Kampala, Uganda in 1957.  Sue and I left for that assignment with our first son who was ten weeks old.  I always said that it was an ideal Foreign Service assignment, I was DCM in my first post.  There were two officers.  Then we came back.  I served very other tour in the Foreign Service until the last was in Washington.  I spent well over half my career in Washington which is a great benefit I think.  I came back and went out again to Dakar, Senegal where I started off as the Labor Officer for French-speaking West Africa in 1961, and then the Ambassador switched me to be the Political Officer at a post covering the three colonial traditions of Africa; French in Mauritania and Senegal, British in the Gambia, and Portuguese Guinea.  I had an interesting time dealing with the three.  I came back to Washington as desk officer for Guinea and Mali, and then went to work for Alexis Johnson as his Special Assistant, he only had one.  It was a great experience.  Alexis Johnson worked everyday of the year but Christmas Day.  I didn't see a lot of the family, although he did let me have part of Sundays off usually, but it was a fascinating experience and from there I went to the War College.  I discovered I was due to be assigned back to Africa when as a result of another car pool accident, I went into Personnel one day and they said they had me scheduled me for DCM in Guinea.  I said that I really felt I had enough African experience at that point and that I would like to try something else.  He said “How about Brazil?” One thing lead to another and I went as the principal officer in Brasilia for three years which was an absolutely fascinating assignment.  I came back to Washington as Brazilian Country Director, went to the National Security Council as the Senior staff member for Latin America, and then back to Africa as Ambassador to Zambia for three years during the negotiations for the Zimbabwe peace settlement.  The only time I went directly from one foreign assignment to another was when I went to Nigeria as Ambassador.  With the new administration I went to the University of California at Santa Barbara for a year as Diplomat in Residence, and then the last five years as Director of the Foreign Service Institute.</p>
-<p>
-<hi rend="italics">Q:  Can you make a distinction if one looks at the Ambassadorship as the kind of the summit of the career, can you make a distinction between Washington positions and field positions in saying what kind of experience is more useful in preparing one for the end of your career?</hi>
-</p>
-<pb facs="0004" n="Page0004"/>
-<p>LOW:  Well I think you clearly have to have a mix.  A few people have been successful in concentrating on one or the other, but I think those are the exceptions.  I can think of one or two officers who spent their entire career abroad, and I can think of one or two who have spent most of their careers in Washington.  For the most part, it's the mix of the two that is the enriching kind of thing because unless you understand how the Washington bureaucracy works, unless you know how to use it in a sense, how to play it, you can't be effective in the field.  Unless you understand the problems and the kind of challenges that you meet abroad, it's very hard to operate effectively in Washington.  Although, I think of the two, the Washington experience is even more important, you simply have to understand that.</p>
-<p>
-<hi rend="italics">Q:  If one looks at the three countries of which you were Chief of Mission, in Brazil you were in a sense the Chief of Mission in one of the two capitals I guess.  Can we go down each of them what was the most significant accomplishment that you felt you achieved?  Let's talk about Brazil first of all.</hi>
-</p>
-<p>LOW:  I can't really claim anything but a reporting and a coordinating role in Brazil.  I wasn't even Political Counselor, I was a political officer when I went there and as Counselor of Embassy in charge of Brasilia, but really the contribution was a reporting contribution only.</p>
-<p>
-<hi rend="italics">Q:  You opened the post in Brazil, didn't you?</hi>
-</p>
-<p>LOW:  No, it had been opened ten years before.  I was the last of the Principal Officers in Brasilia when I was there.  I was there for two years alone, and then the Ambassador moved to Brasilia and left the DCM in Rio.  It was a very interesting period of a series of crisis.  I really don't feel that I had a policy role or that I exercised an influence on policy.  There may have been one there but I didn't exercise it.  I think it was a management role and a coordination role, and a reporting role which was utterly fascinating.  I don't know that I can single out a contribution that I made that would be of importance or of significance in Brazil.</p>
-<p>
-<hi rend="italics">Q:  Let's go on to Lusaka then?</hi>
-</p>
-<pb facs="0005" n="Page0005"/>
-<p>LOW:  Well Zambia was a very different affair.  I arrived two weeks before Henry Kissinger's second visit, I guess the day before the Assistant Secretary arrived.  I got there in late August - early September and Bill Schaufele the Assistant Secretary arrived within twenty-four hours and we were in the Presidents' Office.  I hadn't presented credentials, he kind of joked about that one a little bit.  He said he was looking forward to meeting the American Ambassador as though I wasn't present, but it was kind of fun to be dealing with significant matters even before I had presented credentials.  Henry Kissinger was through two weeks later and the entire three years was spent involved in the effort to end the war in Rhodesia-Zimbabwe and to find a settlement.  After the first year, I was appointed as the American member of the US - UK Consultative Group with Sir John Graham.  For three years, I was part of every mission.  I don't think there was a US mission that went to or dealt with Rhodesia that I wasn't a member of, and there were some eight or nine of them.  I spent about half my time in Salisbury, now Harare and I think the contribution was a small one, but I think it was a significant one in the process which led to the Lancaster House talks and independence a year after I left.  At least for the two and a half to three years that I was there I was involved in that very interesting period of negotiations with all the countries of Southern Africa and with the four or five Black African organizations.  I think there were moments when I think I personally made a certain contribution to the course of events.</p>
-<p>
-<hi rend="italics">Q:  Let's talk a little bit about the mediation during your time in Lusaka.  In the history of those meditations, there was the period of bilateral mediation or the period you just talked about, and then the British took over in the last part leading up to Lancaster House which brought things to fruition.  Is it possible to carry out a mediation of this kind with two parties coordinating things together, or do things work more easily if there is one party in charge that orchestrates things?</hi>
-</p>
-<p>LOW:  I don't think there is any significant difference, in the nature of it there is no significant difference between the one party mediation and ten party mediation.  If you take Namibia which we were also part of, the Contact Group worked very well some of the time and some of the time didn't.  I think the failure to achieve a settlement there was not related to the coherence of the Contact Group.  We had absolutely no significant differences although we looked at things differently than the British quite frequently.  The British position, I think, was somewhat more manipulative than ours largely because the British had been there, were more familiar, had lived with these people longer than we had and our role was a little different.  There were no significant differences between us and I think it was a very effective collaboration.  We got along very well together.  We got along very well together in no small part because Cy Vance and David Owen got along very well together, there was an understanding and recognition on all levels, and I think it worked very, very effectively.</p>
-<p>
-<pb facs="0006" n="Page0006"/>
-<hi rend="italics">Q:  Do you think the mediation was effective in holding the agenda and in holding mediation as part of that agenda, or was it effective in that three year period in actually moving the solution along?</hi>
-</p>
-<p>LOW:  Both, and other things.  I think that we did move both along.  Lancaster House would not have been possible without what we did.  I don't think that we would have gotten to Lancaster House.  The situation would have been so different at the time of the August, Lusaka Commonwealth conference that there wouldn't have been a chance of that momentary recognition by Margaret Thatcher that she would try once more for a peace settlement.  Had we not had that whole basis in the first place I think the whole history would have been different.  The United States probably would have lifted sanctions, after all we came very close to it in June of 1979.  It was only an action in the House of Representatives that stopped us from lifting sanctions.  Had we lifted sanctions I don't think that Margaret Thatcher would have been able to resist a move by her own party to insist on lifting of sanctions by the British.  Had that been the case, the Commonwealth conference simply could not have come out with another attempt.  She could not have done so, I don't think Lancaster House was possible without this history.  The whole basis for the negotiation had already been established and built.  I don't think there is any question about, “Did we make progress?”</p>
-<p>
-<hi rend="italics">Q:  Or was it just a holding operation while the event itself made progress?</hi>
-</p>
-<p>LOW:  I think there is no question that the event itself was changing and that the ultimate settlement came more from the event than from our timing.  I think that settlement would have been very difficult without this.  But I think further that our own internal policy demands and the British internal policy demands required that we be involved in this operation.  Had we not been, our vulnerability in Africa to criticism, but more than that, our access to friendly African support internationally, bilaterally would have been much damaged had we not been involved in this in Africa.  This was a major focus of our African policy.  The Africans were willing to deal with us in good faith as long as they thought we genuinely were trying to help with what they considered to be their biggest international problem.  It was enormously important from U.S. foreign policy point of view that we be engaged in this.  The process was absolutely necessary.</p>
-<p>
-<hi rend="italics">Q:  Can you talk a little bit about what you did?  What kind of activities did you carry out as part of this mediation?  Were you putting forward plans, were you carrying communications?</hi>
-</p>
-<pb facs="0007" n="Page0007"/>
-<p>LOW:  It was clearly the former; we were putting forward plans.  It was largely travel.  We traveled to them.  Them being every participant.  We simply went around.  We went around in circles for three years talking to all the parties.  We made it a very clear rule that we would talk to everyone, that no one could veto a contact.  We would talk to every person who felt he or she had something to contribute, though I must say that some of the people we talked to, we wondered about.  We talked to every Black African Nationalist group, we talked to the South Africans, we talked to all the front line heads of state, and we would simply go around.  We would first ask them their views on a constitution, we went out first of course with a charter, an understanding that we would work on the constitution first.  We went around to all the front line chiefs, to all the nationalist heads of their organizations, to the South Africans.  We communicated with everybody who had an interest.  We drew up a proposal which we presented on I think September first of 1977.  This was a rather remarkable meeting in which very few people were able to stay awake because the Rhodesians had spent the entire night waiting for the returns of their elections and hadn't slept, and we had been in Nairobi because we didn't want to spend the night in Salisbury.  We stayed in Nairobi where we had some last minute details to clear up with the British which weren't finished up until four a.m. in the morning.  We got up at five a.m. to get on the airplane.  It was remarkable that on such things international relations are based.  It was a very difficult meeting.  I don't think that the fact that we had been up all the night really affected it, but it certainly didn't help it.  It was the occasion in which we announced to the Rhodesians that the Independence army would be based on the liberation forces, which they had not expected and which I think created a major negative impact on them and the South Africans.</p>
-<p>
-<hi rend="italics">Q:  The process was based on that you kept going around again and again?</hi>
-</p>
-<pb facs="0008" n="Page0008"/>
-<p>LOW:  We kept on going around and around and we kept working these proposals, changing them, modifying them.  We had meetings in Malta.  Lord Carver was there at the next mission and we went out to try to explain to them what we meant by “based on the Liberation forces.” We called for a meeting of “all parties;” the African Nationalists came but Smith and his internal group did not come.  We had another meeting after Dar-es-Salaam with Smith.  We would keep changing the formula, and changing the process.  Our effort was to follow one of three tracks in which a settlement was being sought.  Ours was that of international negotiations.  One was by war - a war which began in 1972 and by this time in 1977, was costing a daily loss of life and was really quite serious.  The third was Smith's internal settlement; his attempt to do so by his own means.  He played in each of those three tracks trying to see which way to go, recognizing that a settlement might come out of any one of them, but I think that initially believing firmly that it was a military solution that was by far the most likely to be successful.  I think he was quite confident that he could win militarily.  I think that changed, he was one of the last to recognize that that was not going to happen.  His intelligence and the military realized that long before he did.  Then he tried his internal settlement and it came very close to succeeding.  I don't think that most people now realize how close he came.  Had he himself believed in it, it might have succeeded.  I think if he had had more success with it, we would have had no choice but to accept it.  One of the things that is interesting it seems to me in this whole history, is that it did not have to come out that way.  There was nothing inevitable that it come out the way it did.  At any point it might have come out differently.  I don't think Smith ever could have won a military settlement.  It would have been difficult for the African nationalists to win a military settlement, certainly not this group would have won.  Had it gone to a military conclusion and the Black Africans taken over, it would have been the corporals and the sergeants or perhaps a second lieutenant who would now be in charge.</p>
-<p>
-<hi rend="italics">Q:  Do you think the effect of continued fighting would have been a change in the leadership levels?</hi>
-</p>
-<p>LOW:  Yes, it would have changed the leadership levels so that this group would not have won.  Eventually, Smith was forced to end in this direction, but he might have made his internal settlement work had he recognized that he had to give some evidence of African leadership and success.  I think it could have won and it could have been successful and we would have been presented with a fait accompli which I believe we would have accepted, but the war would not have ended.</p>
-<p>
-<hi rend="italics">Q:  You mentioned the three tracks, one of which was the track on which you worked, the International one.  You never worked on the internal settlement, that is the United States never urged Smith to be true to his own formula?</hi>
-</p>
-<pb facs="0009" n="Page0009"/>
-<p>LOW:  No, we stayed very carefully away from that, this was obviously his and he did not want us to be involved.  He had suggested the possibility early in the game, I would guess in October of 1977.  He said that “I have some people who I can depend on to do this,” and we told him from the beginning that we didn't think it would work.  They did not represent the majority of Africans and we did not think that he could be successful, although we didn't tell him that he shouldn't try.  We just said “that's up to you, but we don't think you will succeed.” I think one of the interesting things was how soon he himself spoiled that possibility.  He announced the internal settlement, I believe, in November of 1977, but it wasn't until March of 1978 that he came to an agreement with the Africans and then he'd won all the arguments.  He left Muzorewa out there without even a fig leaf as far as I could see, or with a lacy fig leaf to coin a phrase.  Then it wasn't until over a year later that he carried out the elections, he gave Muzorewa very little.  In any case we did not advise him.  He had tried a different unilateral settlement when he met with Nkomo and he tried to reverse alliances and meet with Nkomo and work something out.  Again, he told us about this, we listened and there I don't think we said it wouldn't work.  Our view was “Anything which was acceptable to the Africans and was acceptable to the majority of the population of Rhodesia, black and white was acceptable to us.” We were going to work on an internationally recognized settlement, if he could find some other formula - that was acceptable, that was fine.  The meeting with Nkomo was largely the Nigerians and the British; although the British were really only consulted on the side.  It was largely a Nigerian - Zambian initiative, it really didn't have much of a chance.  It was not a good idea and I did think it hurt us more than we realized at the time.  Mozambique in particular felt that we were involved in it and that we had been a party to splitting the nationalists between Nkomo and Mugabe, and freezing Mugabe out of it.  We didn't in fact, we were not part of it.  This was purely Smith and Gaylord's effort, mostly Smith's.  I don't think Gaylord did anything except go along with it (Gaylord was his Chief of Cabinet).  Our focus all along was on an internationally acceptable settlement.</p>
-<p>
-<hi rend="italics">Q:  You said earlier that the British were manipulative and that our approach was a little different, which suggests an element of leverage.  They had leverage as it finally turned out, as the Lusaka to Lancaster House shows us.  We did not, did we?</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>LOW:  I don't think the leverage was that different between us and the British.  I think in a sense that the British had leverage they were using us too.  We all along recognized that the British had the primary role.  I think we both had distant leverage.  I've always seen it as concentric circles, I've mentioned this to you before.  The people who were going to decide it were the people of Rhodesia.  The black and white people of Rhodesia were going to decide this thing.  The people immediately around them, the South Africans, the Mozambicans, the Zambians, the Botswanans had an influence.  They could make it much more difficult or make it much easier.  They could put a lot of pressure on the parties to go this way or that.  But they had less leverage than outsiders credited them with.  Many people thought that at any moment the South Africans could just turn off the spigot and Smith would collapse.  They never had that possibility, this was never within the realm of possibility.  Smith could have appealed over their heads and no South African government, I believe, could have weathered that.  Similarly in Mozambique, the forces of ZANU were stronger than the Mozambicans and certainly the ZAPU forces were stronger than the Zambian military.  I think the commitment was such that neither Kaunda nor Machel could direct things.  They were confined to putting major pressure.  They could encourage, they could influence the margins, but they could not push the button.  In the circle beyond that, the Russians, the Chinese, the British, ourselves had really much more limited leverage and pressure that we could put on.  At moments, we could put a certain amount.  The British had leverage, but it was limited and I think that we helped to supply part of their leverage.  I think the United States played a major role in the Lancaster talks, I think our leverage came in part from the internal situation.  Smith had exhausted the other alternatives and therefore the international settlement really became the only track.  Once it became the only track, the only way you could get it was through the British and the United States.</p>
-<p>
-<hi rend="italics">Q:  Through the United States, or through the British who could convene Lancaster House?  What was the United States' leverage?</hi>
-</p>
-<p>LOW:  I really think that the United States had a significant role as I say.  Six months earlier, had the United States lifted sanctions, the British would have been forced to go along.  They didn't at that point.  A major element in Lancaster was the economic assistance part, and the United States played a role in the assistance part.  I think, of course, as you know, there were elements in the United States acting on their own, strongly advising the British against this course.  Members of the staff of Senator Helms were very active in urging the British to throw their weight to the internal settlement.  The British did not follow that.  The U.S. government on the other hand; I think the support of the U.S. government for the British was a major factor, I really believe that.  Had we taken a different position, the British would have found it very difficult to follow along.  The support which the Carter government gave to the British in this was enormous.</p>
-<p>
-<pb facs="0011" n="Page0011"/>
-<hi rend="italics">Q:  Can we look at the other people in that circle and the other circle?  Is there a role, was there a role, is there a role in this kind of activity for notably the Russians?  Would there have been anything to gain?  Is there anything to gain in a more broader sense?</hi>
-</p>
-<p>LOW:  The Russians certainly played a role.  Their role was exclusively the supply of arms to the Nationalists.  I'm inclined to think that was a very significant role, but that even if they hadn't have done it, the Chinese would have, and if they hadn't done it somebody else would have.  That was the beginning and the end of it.</p>
-<p>
-<hi rend="italics">Q:  How about as an associate in the mediation?</hi>
-</p>
-<pb facs="0012" n="Page0012"/>
-<p>LOW:  Well, I just don't think that they themselves thought they had that much leverage and I don't think they did.  They got as much out of it as they could have, I think they played it very, very badly.  They are probably aware of that themselves.  They fell into the trap of the traditional communist role of picking sides early on and they were so inflexible and their intelligence was so bad that they didn't realize that the situation had changed and that the people they had backed from the beginning were not going to win.  They were unable to switch, and unable to extricate themselves from an impossible position.  It was one of the most clumsy diplomatic efforts I've ever seen.  They got a fair amount out of it however, and something that was very difficult for us to understand in this country.  The State Department understood it, but many in this country did not understand that the Nationalist forces were competing with each other for sympathetic support from the one side that was actively supporting them, the Soviets.  Therefore since their constituency was in Moscow the noise they were making, the public comments they were making were directed at Moscow.  That was where they were running for office, that was their constituency; so when they made a public statement, it was to outflank each other.  We saw the great rivalry between Nkano and Mugabe was fought in Moscow and Nkano won it.  The reason he won it was he said the right things.  He is about as far left as...let me say that he is a very conservative man.  He made all these kinds of comments that were acceptable and welcomed in Moscow because he was the chief recipient of arms from them and he needed to keep that.  He did just enough to keep it.  They straight-armed Mugabe right up to the time he got on the airplane to return to Salisbury. That was the famous incident when he got on the airplane in Maputo and not one member of the Soviet Bloc went out to the airport to see him off.  It was really one of the extraordinary faux pas, it seems to me, of the Rhodesia/Zimbabwe settlement: that the Soviets even after it was all over, were still siding actively with Nkano who was going to lose.  It was that rivalry that was never understood in this country.  People took literally what the nationalists were saying and didn't understand why they were saying it.  It was very hard for us to explain to the newspaper in Kansas and in Seattle and elsewhere that the things they were saying were not directed at America, they were directed to the Soviet Union and did not really reflect the views of the people saying them.  I might say the same thing was true of the other side, Muzorewa's statements of loyalty to western principles were equally profound!  People forgot that when Kissinger went out to see Muzorewa that he couldn't see him because he was in Peking, that was just ignored.</p>
-<p>
-<hi rend="italics">Q:  You don't think the Russians, you don't see in this kind of situation any possibility or any advantage to bringing in Soviet collaborators?</hi>
-</p>
-<pb facs="0013" n="Page0013"/>
-<p>LOW:  I don't think they would have made any contribution on the contrary.  You asked earlier about the effectiveness of a joint mediation.  Joint mediation works when the parties to it are able to coordinate, understand each other and are working in the same direction and so forth.  Everybody works from his own point of view but for the most part we had our differences with the British and some members of our delegations had more difficulties with the British.  There were some areas of extreme, I think you remember some, some of the remarks that were very, very difficult for the British to accept but they were minor.  Vance and Owen were very easy and very cooperative and Graham and I got along very well.  When you are working for opposite results it would be very difficult; I think it would have been disastrous.</p>
-<p>
-<hi rend="italics">Q:  You mentioned the Russian mistake by not seeing them off at the airport.  Did we make mistakes in the process too?</hi>
-</p>
-<pb facs="0014" n="Page0014"/>
-<p>LOW:  Oh I think so.  We were inexperienced in this part of the world and we did not always use the short experience that we had.  When the new administration came in in January 1977 its first actions were not very professional.  Nyerere visited Washington in August of 1977 and President Carter decided that he would make Southern African progress toward the settlement a major concern of his administration.  That was a significant step when you look at the history since then, you realize that this really was an important thing.  He wasn't the first, it was Henry Kissinger in April of the year before in 1976 who said, “For the first time the United States is going to start playing a role there.” That was based on other factions, but it was enormously important and it was important for Carter to have followed that up and said “We're going to do something!” Of course the administration that followed four years later took two months to decide that it needed to play a role, but it finally decided that it had no choice but to do so also.  It had to be pushed by the Europeans, but it did so.  There was no difference between administrations.  Anyway, Nyerere visited in 1977 and had a very brief period alone with the President and being a very persuasive, very charming man convinced the President that the key element was the leadership of the independence army and that the Front Line would go along with the support of the process, if we would make one of the principles that the independence army would be based on the liberation forces.  Well, I don't believe that this idea carried a lot of weight among the Africans.  I don't for a minute believe that this is what either Nkano or Mugabe wanted.  Now they may say that I am wrong, but in their hearts both of those men didn't want to dismantle the very effective military force that was there, they wanted to inherit it.  They knew that if they got power, they could control that force, they didn't need to make this a contingency - a requirement.  So this was kind of Nyerere coming in with a marginal issue.  He talked the President into accepting it alone and when Moose and Brzezinski came in later the President told them what he had agreed to.  After that, they wrote it up and informed the British who were, you might say, surprised and discomfited - that's a great understatement.  We had to live with that albatross.  I think it was what turned the South Africans off completely and it certainly convinced Smith that there was no prospect of further negotiations, that the international agreement was not really worth following seriously.  I think it was a major factor in his turning to the internal settlement, although he might well have done so anyway.</p>
-<p>
-<hi rend="italics">Q:  A milder kind of position would have moved things along more rapidly?</hi>
-</p>
-<p>LOW:  Well it wasn't an issue.  It was an issue which I think Nyerere, in order to assert his own role in the thing, invented.  We took it and completely turned off one of the partners without giving us any credit with the other ones', significant credit.  They were pleased of course.</p>
-<p>
-<hi rend="italics">Q:  But what I want to know is, would we have made progress before the internal settlement was worked out if that mistake hadn't been made?</hi>
-</p>
-<pb facs="0015" n="Page0015"/>
-<p>LOW:  I think we could have, I don't know, it's very hard to say.  Smith would have gone for the internal settlement as long as he thought there was a chance.  You can't say, you can't say whether he would have given the international settlement more effort, whether he would have pushed harder to bring Muzorewa and Chief Chirau into line with us earlier because they were the ones who were refusing.  The next period was the period in which we were working on an “all parties conference” and it was Muzorewa, Sithole, and Chirau's refusal to go to it which stopped us.  Smith said anyway that he was willing to go to it if they could agree on something that was alright.  He wasn't willing to push them very hard.  Had this not been a factor he would have pushed harder and we might have gotten there a year earlier had it not been for that mistake.  The important thing was that we got there when we did and not a year later.  A year later or two years later, I don't believe either Nkomo or Mugabe would have still been in power.</p>
-<p>
-<hi rend="italics">Q:  The United States probably could not have held out on the sanctions issue?</hi>
-</p>
-<p>LOW:  It would have been very difficult and we would have; the likelihood of a prolonged war for a number of years would have been much greater.</p>
-<p>
-<hi rend="italics">Q:  One question that always comes up in an operation of that kind is the following.  Is it best to use an Ambassador that is in post, or is it best to use a special mediator?  You were in effect what?</hi>
-</p>
-<p>LOW:  I was really a special mediator rather than an Ambassador in post because I wasn't assigned to Rhodesia.  I think it worked.  I'm biased.  Kaunda kept saying to me, “This is my most important issue.” This is the thing that is by far more important than anything else in U.S. Zambian relations - go to it!  I think in this case, he was pleased that I was as involved as I was.</p>
-<p>When I left, he said to me “Well you haven't succeeded, but I give you credit for trying.” That was an enormously important statement.  This is what we had to be doing in our relations with Zambia and, I don't think our bilateral relations with Zambia suffered as a result.  I don't think it made any difference.  The Rhodesians were at first suspicious of me because of my relationship with Zambia, but that didn't last two days.  After a while they got to know me as a person and I don't think it made a lot of difference on way or another; but it could have.  It was a unique kind of a situation, I don't think you can generalize very much from that one.  From the point of view of the Rhodesians I was a special emissary, not an Ambassador.  I think the fact that I had Black African experience and had a place in Black Africa helped vis a vis the rest of the front line and helped in Zambia.  Both of us, both John Graham and I had that kind of background which was good.  I think that our access to and our role with both the front line and the Nationalists was better than the British.  Many times I found myself mediating and explaining the British role to the Africans, and I think they respected it.  I think that as it turned out it worked out well.  I had a certain position which was respected in that part of the world.</p>
-<pb facs="0016" n="Page0016"/>
-<p>
-<hi rend="italics">Q:  “You haven't succeeded, but I give you credit for trying,” was the closing line of a chapter that at your Congressional hearing I would read into the record by Ambassador Low and a book on mediation published by Westview Press and I think it should be a part of this interview because it's the most eloquent account that I have seen of the lessons of this kind of interview and I think that you did a fantastic job in that chapter, as well as in the effort itself.</hi>
-</p>
-<p>Can we go on to Nigeria and talk about the same kinds of things?  What was your greatest accomplishment?</p>
-<pb facs="0017" n="Page0017"/>
-<p>LOW:  Well, if Zambia was international political mediation, Nigeria was bilateral economic cooperation.  It couldn't have been more different in that sense.  I went there when Nigeria was the U.S. second most important supplier of petroleum, just barely after the Saudis.  At the time of the oil shocks the Nigerians were our second largest supplier of oil.  We had at that point a nine billion dollar deficit, which today is nothing, but in those days was just barely behind our deficit with Japan, which was about twelve or fifteen billion dollars.  It was a major problem, and I can remember the Vice-President at a reception at the White House saying to me, “Young man you are going to have to do something about the price of oil.” I didn't join up for that purpose, but I did go there with the feeling that we had very little leverage - we had very little purchase.  To us the relationship with Nigeria was very important, but to the Nigerians the relationship with the United States was not very important.  I felt uncomfortable as an Ambassador in that very unbalanced kind of a situation and so my focus was to look around and see how we could make our relationship more important to the Nigerians.  In the first few months I realized the importance they put on agricultural development and the admiration with which they looked at America and its productivity in agriculture.  I made a speech in the Northern part of the country once afterwards and they asked, “What are you going to do for us in agriculture?” I answered, “We're not going to do anything for you.  You decide what you need to do and we will see if we can't cooperate.” I thought that was a nifty answer.  But I went home and I thought that's just not the answer, that isn't going to get us anywhere.  If we continue on that basis we are never going to succeed.  So instead I went back to them and said “Let's get together and establish some kind of an institution within which we can cooperate.” We can't cooperate in a concessional assistance program because, even though it was not a wealthy country, it was not a poor country.  It was relatively less poor than others in the world and with that kind of a U.S. deficit, the Congress would never sit still for a significant concessional assistance program.  It just didn't seem to me that was the way to go; although there was a lot of pressure within the government for us to start up an aid program again which I resisted very strongly.  We did then work it out.  I say “we” which is a bit of a euphemism.  I worked it out together with some people in Washington.  The Nigerians didn't have much to do with it.  When they saw what we had in mind they became more and more interested and we worked out an arrangement which involved a tri-lateral group including non-profit organizations (foundations), the government, and private industry on both sides.  It was an institution which the Nigerians wanted to name.  We said that if they wanted to put a name to it that was fine.  They called it the Joint Agricultural Consultative Commission.  The JACC.  When Vice-President Mondale visited Nigeria we unveiled the project with Nigerian cooperation and the former Secretary of Agriculture, whose name escapes me at the moment (Orville Freeman), agreed to be Director of the American side.  The American JACC group was in Lagos the week before I left there.  President Shagari met with the group for about an hour and a half and he said, “Really I should be over with the Council of State today, it meets twice a year for one day.” This was the highest consultive body in the country, it was made up or the traditional Chiefs and the members of Congress, the governors, and so forth.  It was the leadership of Nigeria.  He took an hour and a half out of that day to visit with the JACC and he said, “I'm here because to me this is the most important thing that is happening in Nigeria today.” Well I felt that something had changed, that there was something in the relationship with the United States that the Nigerians felt was important.  We were able to touch a felt need on their part and to create an institution which in a non-aid sense could help, support, encourage, facilitate what they needed.  This was a private technical assistance program, rather than taking over and clearing large acres of land for American farmers, it was a body that could help private Americans help Nigerians raise the seed they need and to provide the inputs for Nigerians.  This made sense and they I think responded to it.  When I left the U.S. was in the process of setting up four JACCs in four other countries of the world.  It has since been privatized and the JACC as far as I know is still in existence.  I think it is important to figure out ways of institutionalizing help for private cooperation.  In the developing world it's very hard for Americans in private life to compete with the Japanese and the Koreans and the Europeans without some kind of an institutional framework that can nurture, support, encourage and facilitate these kinds of things.  The relationship between these countries and the U.S. shouldn't have to operate in an entirely concessional assistance framework.  There may be other ways of doing it but I think we were moving in the right direction.  I was interested that shortly after I left Nigeria, Assistant Secretary Crocker in a speech in New York to the Council on Foreign Relations said that our relations with Nigeria was a model of the kind of relations that we wanted with other countries in Africa.</p>
-<pb facs="0018" n="Page0018"/>
-<p>
-<hi rend="italics">Q:  Nigeria was the centerpiece of our African policy at that time if I remember correctly?  Is there a difference in operating in a country of that kind than in a Zambia the mediation aspect aside?</hi>
-</p>
-<p>LOW:  Well you know I'm not sure that's the way I would describe our African policy.  I think that we put great importance on our relations with Nigeria, and they were important out of all proportion to anything else in pure self-interest terms.  Nigeria was a significant trading partner and it represented nearly a quarter of the population of black Africa.  In that sense it was important and I think we were willing to make the efforts to pay attention to it.  However, the stage was still set in Southern Africa.  That was where the dynamic of our African position was acted out.  I think that as far as I was concerned personally the Zambian experience was exciting because it involved the President and the Secretary of State and U.S. interests more than Nigeria did.  We listened to Nigeria in a sense but I don't think that the Nigerian views had a major impact on American views as I think some in the Senate believed they had.  It is different and in this sense it is much like Brazil.  A friend of mine, Mike Samuels, had mentioned to me that the relationship between Brazil and the United States in South America is not different from the United States and Nigeria in Africa.  They are both very important to us but still the political dynamic was being acted out elsewhere—in Central American or South Africa.</p>
-<p>
-<hi rend="italics">Q:  It's been, people have often observed that Africa is the least important continent in our relationships and yet you served a lot and worked a lot in Africa.  Is there, do you want to comment on that situation?  Should we be paying more attention to Africa?  Is there a certain way of operating in the field within the continent that is objectively least important?  Are things different there than in the means of operation?  Is there something to correct?</hi>
-</p>
-<p>LOW:  I think we've got it about right.  It's a little bit like when you go to a new post and you have to call on all your diplomatic colleagues.  Obviously your important contacts are with our close allies and our major competitors.  Without any doubt it is the Soviet Ambassador, the Chinese, British, the French, and the Japanese - these are the most important.  However, you ignore or down play others at your peril.  If you don't go out of your way and spend a disproportionate amount of your time in calling on every single one of your colleagues your position in the Diplomatic Corps is affected.  If you do what you need to do, with the whole world, then you are stronger everywhere.  There is something involved with this in our relationships with the third world.  Clearly the amount of effort and attention that we give is disproportionate to the gross national product, to the amount of international trade, to the impact.  If you want to balance it on the basis of those quantitative factors you are going to be in trouble.</p>
-<pb facs="0019" n="Page0019"/>
-<p>We all know that the Fire Department's budget in Westchester County is greater than that of many of the independent countries of Africa, but that isn't an indication of the effort and attention that you have to spend with them.  Without any doubt your ability to handle those relationships smoothly and maturely and effectively contributes a great deal to your relations with the Soviet Union, and China, and our allies.  We have to pay more attention than our quantitative interests might indicate.</p>
-<p>
-<hi rend="italics">Q:  One other general question.  You commented, I guess about five years ago, that “The United States is condemned to mediate many of the problems in the third world.” I think was the way that you phrased it, which I thought was very good.  You were reflecting beyond your experience in Zimbabwe - Rhodesia, Zimbabwe then.  Do you still feel that and do you think this has particular effects on the way we should be operating and will have to be operating in the future?</hi>
-</p>
-<p>LOW:  I do, very strongly, at least as long as we want to cast ourselves as a major player on the international scene.  Were we to withdraw and envision our international relations role as less active and more of a bystander then it wouldn't be so necessary.  As long as we want to play a major role and as long as we see ourselves as a major protagonist vis a vis our friends and our competitors than I think that we have to recognize this.  We are a factor in every dispute measured by our projection of authority.  Each country will use our presence or our absence as a lever in its dispute with its neighbor or rival.  We will be accused of influencing the situation by our presence or by our absence.  Of course South Africa is an example, the war in the western Sahara would be another. Anywhere where those countries with which we have friendly relations are involved, we are a major factor in the dispute and we cannot ignore that we play a role in it.  I think that our experience and our expertise is such that we can play a constructive roles in these, but we have to do it in a mature and in an experienced and trained way.  In South Africa for instance, I think that's a good example.  Every black African is absolutely convinced that South African apartheid continues to exist because of American support.  You and I know that's not really very accurate; that the amount of American involvement is very small; that if we were to cut off all contact with South Africa tomorrow, it wouldn't make that much difference.  They would certainly not abandon their policies.  But the Africans will continue to believe that apartheid could not exist as long as we have a relationship because that is the only way that they can influence the situation there.  They cannot directly influence South Africa.  The only way they can influence South Africa is by putting pressure on us because they know we are somewhat sensitive to pressure, and therefore they will put pressure on us to play a role.  We can ignore that and we can recognize that for what it is; an attempt to gain their ends through their leverage on us, and we can say “We are not going to play that game.  We don't want to have anything to do with it.” That's fine.  But if we do so, then we lose significant leverage and significant influence with black Africa.</p>
-<pb facs="0020" n="Page0020"/>
-<p>Our whole position of authority depends on our ability to use the leverage that we have, the little leverage we have - but use it skillfully.  We don't have that much, we know that.  “Concentric circles” and everything else.  We just don't have in real life that amount of leverage, but there are moments when we can play what little we have effectively.  I think we did so in Rhodesia, I think that sanctions are an example of something that is terribly misunderstood.  Sanctions are both more important and less important than most people think.  Sanctions in South Africa are never going to affect, economically, the situation there.  But psychologically they play a major role.  The same was true in Rhodesia.  The Rhodesians were not seriously hurt economically by the sanctions but they played a role.  If the price of tobacco Rhodesia received was 3 cents or 5 cents less than it might have been had there not been sanctions that was not insignificant.  It wasn't going to change the course of events, but a moment came when Smith had to move in one direction or another.  He made a desperate effort by coming to this country with Muzorewa, Chirau, Sithole and the others to play for the American support.  At that moment the existence of sanctions was a pivot point in the whole situation.  I think one of the most dramatic moments without question was when Congressman Solarz got the House African subcommittee, and then the Foreign Affairs Committee to unanimously oppose the Senate resolution - the Case-Javits amendment.  (I guess actually the Case Javits amendment was passed, this was another resolution to lift sanctions.) The unanimous action of the House was so important that the conference committee couldn't pass the Senate bill.  As I say, it marked the end of that attempt by Smith.  It was an enormously significant moment in history.  Some of us like to think that we played a role, but I think that action by Congressman Solarz was enormously influential in the whole thing.  So, I think we in the U.S. do play a role.  More importantly we have to continue, not to mediate every dispute, but to recognize that the United States' position is very important to “combatants”; that for the most part each of the combatants considers that we have much more leverage than we do, and that's to our advantage with his opponent.  This is a measure by them of our influence and they see us as a means by which to gain their own end diplomatically.  Each side sees that and that gives us; that imbues us with significant international authority.  Similarly, the West sees us in this role, so that this is a major source of world influence.  The significant thing about this is that it is a useful one, it is a constructive one.  If we can play that role, and play it effectively we not only add to our own influence, but we add in a very constructive way to the progress of events in a non-violent direction.  This is what I think we should be doing.</p>
-<p>
-<hi rend="italics">Q:  You were saying that there are moments; I think you said specifically, when we can do things.  You were also saying that we should keep on doing things as you were doing yourself during the Young - Owen period of cooperation.  I understand that you are saying both things; that there are times when one can make a significant jump as it were, but also in between those times one should be attempting to deal with problems and position one's self for further mediation?</hi>
-</p>
-<pb facs="0021" n="Page0021"/>
-<p>LOW:  There's no question that you can't make a general rule that we should offer to mediate every dispute.  One of the missions that I was a member of was the Cledwyn Hughes Mission; a fascinating mission in November - December of 1978 when we came to the conclusion that there was nothing further that we, meaning the British and Americans, could do.  We had to say that.  And I think it was very important to say that; say that until things changed there was no contribution that we could make.  Still the fact of doing that kept open the whole negotiation process.  Every dispute is unique in itself and you have to pick and choose, but in Africa the Rhodesian, the Namibian -South African question is simply too important not to be involved in.  If we don't exercise our position, if we opted out we cease being a major element in African affairs.  Now that's all right.  That's not impossible.  We can do that.  We have to recognize what that says about how we view ourselves internationally.  Since the second world war the United States has viewed itself as a major actor on the scene, we call ourselves the world's number one power and we act as thought we are.  We see ourselves, I believe, as a nation, as the principal opponent to Soviet expansion.  We see ourselves as a major factor in that.  If we want to continue seeing ourselves in that way then we can't say, “Well, we are not going to have anything to do with these major areas.” We have to act that way.  I don't think it costs a lot of money, it takes a lot of training, a lot of skill, a lot of thought, and a lot of the effort of our principal leaders because you can't deal with these things at my level.  I was able to play a role because Cy Vance was interested and Jimmy Carter was interested, and David Owen was interested and Jim Callaghan was interested.  Because that was the level at which it was being pursued.  You can't do that all over the world, but still if you pick and choose and if you decide - if you pick the significant areas of dispute in the world, the United States has a major contribution to make, I think.  The extraordinary thing is that after all the mistakes, after all the starts and stops, we are still viewed with an extraordinary degree of respect.  Our ability to act positively when properly led is highly regarded.</p>
-<p>
-<hi rend="italics">Q:  You've been saying “if,” I suspect more than rhetorically.  Recently you made a statement about isolation and the dangers of that which you see at this time.  You feel that's a real if, that this is a choice to be made?</hi>
-</p>
-<pb facs="0022" n="Page0022"/>
-<p>LOW:  I think so.  I think that an American public which is not led, which is not shown a vision and a path will not be willing to make the sacrifices that are necessary to play the role that it would like to play.  The choices have to be pointed out to it and they are not obvious.  Secretary Shultz has described the present moment as a return to isolationism because of the resources which are being denied the international diplomatic, non-military side of things.  And I think that he feels that this is a turning back into ourselves.  I think there is something to be said for this argument.  His and our effort is an effort to be part of an international community, but an international community of states which recognizes negotiation as the normal means of dealing with each other.  If we see ourselves as acting militarily and unilaterally and unwilling to contribute in fairly important ways in the non-military side of our relations, then we are making a choice.  We are making a choice not to play the role on the international stage that we have played for the last four years.  Maybe that's the direction we are going.  I guess we will have to see.  Certainly it would be a major change in directions from those we've been following.</p>
-<p>
-<hi rend="italics">Q:  The last position you had was as Director of the Foreign Service Institute and maybe we could talk a little about that.  How did you see what kind of challenge did you find in the FSI Directorship?  What did you try to do?</hi>
-</p>
-<pb facs="0023" n="Page0023"/>
-<p>LOW:  That's interesting because it was so different from all the others.  I think it was Larry Eagleburger who described in an article in the Washington Post “Parade” section his experience as Ambassador to Yugoslavia, saying that, “You can preside over relations between two countries for a period of time but nothing really changes.” You may - you really are presiding over a period of time, or you are playing a role - you are participating in a period of time.  Maybe relations get a little better, maybe they get a little worse, maybe U.S. national interests are improved, maybe they suffer.  But the change is a relatively subtle one.  A job like this one here at FSI is very different.  Here you are building institutions and it's completely different.  You may have an opportunity to play a role in an institution that changes it fundamentally, and that's kind of a fun thing to do.  I think that I came here at a time when our society was changing.  And I don't know that the change is completed, I think that it is just beginning.  The role of training as opposed to education is just redefining itself.  Training is now a forty billion dollar industry in the United States.  Its a much bigger industry than the education industry, or at least I think it is.  I think that it rivals the education industry.  Well when you consider the amount of training that the United States armed forces, that the major companies are making, it's absolutely gigantic.  FSI is about a thirty million dollar enterprise if you were to count everything and it's small.  But it is still not that small compared to other institutions.  The need of a complex modern society to produce skilled people is now a cooperative venture between the educational institutions and the training institutions.  We take educated people into the Foreign Service and we give them skills at the Foreign Service Institute.  I came at a time when I think our society is recognizing this.  I didn't have to go up to the Hill for the first two or three years to fight for our budget, it was automatic.  There is a general recognition in our society that training is crucial.  We've been cut back in the last year or so a little bit, but we still have a major training function here and I think it will weather this period.  So it was a most interesting time and I enjoyed it thoroughly.</p>
-<p>
-<hi rend="italics">Q:  What do you see as your biggest accomplishment?</hi>
-</p>
-<pb facs="0024" n="Page0024"/>
-<p>LOW:  Well, I think of FSI as a very important meeting place between the private community and public affairs.  I think that it is much more than a training institution in terms of a place to transfer a certain amount of knowledge from one group to another group.  It had to have, it seemed to me, some kind of a research and study function.  So the first thing we did was to create something called the Center for the Study of Foreign Affairs and that's going on now, it does twenty or thirty symposia a year.  It has, I think, become a recognized forum in which the private community and the public community can consult together and consider the principle issues of foreign affairs.  I think people are comfortable from both sides in this kind of a context, and I think its terribly important to keep this kind of information going back and forth.  Its important to the functioning of the Foreign Service Institute because the students here need to be assured that when they come here, they are not being put out to pasture; that they are not just being put aside.  They need to think that when they are here they're not only learning, but they are on the forefront of what's happening in the world; that if they are studying Russian then they are meeting some of our best scholars on the subject, that they are participating in something.  That's what gives it excitement and interest.  The language instructors, and the area studies instructors, and the professional school instructors have to think that they are involved in the front line of thought, and of change in the training and education area.  So I think that the Center did a lot to bring FSI around.</p>
-<p>Then the second thing was, of course, the decision to try and move for the first time to a permanent location.  Training in the State Department began in 1826 when we started to teach Berber, Arabic, and Turkish.  We added a few languages toward the end of the century.  I think we began to teach Chinese and so forth and then early in this century we began to teach some of the professional subjects: consular affairs, accounting and this kind of thing.  Then in 1924 the Foreign Service Institute was created as the Foreign Service School by Congress, and in 1946 as the Foreign Service Institute.  So we've had many, many years of experience.  Even with the 1980 act, the idea was that we continue in our rented quarters.  When I started in the Foreign Service in 1956, FSI was in an apartment building across the street from the Department, where it had moved from some tempos on the Mall, and then it was in the garage of Arlington Towers.  Then it came here to Key Boulevard in Rosslyn.  These are just two or three office buildings which are unsuited for educational purposes.  The elevators don't work, and the restrooms can't hold the capacity, and the ceilings are all hollow and the noise goes from one class room to another.  It's very unsatisfactory.  I think it says to the professionals in foreign affairs, “you aren't really important,” “your society doesn't consider your training very important.”</p>
-<pb facs="0025" n="Page0025"/>
-<p>So when they came to me one day and said they were going to move us to another office building, I said, “Not me, maybe my successor, but not me.  I don't want to go to another office building, I think it would be a step back.” They said “Well find something else for yourself.” So we went out and we looked around and we came across by luck something that everybody else had said was not available, an Army base - Arlington Hall Station run by Syncan just up the road here.  The story at that time was that it was going to revert to Arlington County.  That was supposed to be in the will or something of the kind.  And it took us six months to find out what the real story was.  It was unbelievable, just to get the information was very difficult.  We did and it developed that Arlington County really would like to have it back for a golf course, but it recognized that the United States government owned it and it wasn't about to give it to anybody for a golf course.  Therefore the Arlington County officials; and I credit the administrative officer at FSI, Frank Ravndal, for this.  He just walked over and asked them, “What do you think?”, and they said “We think it's just hunky-dory, it's terrific getting FSI here, that's the best thing short of having a golf course we can think of.” Then I mentioned this to Ron Spiers who had just come in as Under secretary for Management and he called me in one day and off-handedly said that he wanted me to know that he had made his primary work goal, which he had sent to the Secretary, to get a new location for FSI.  We had help from the Hill, the House Foreign Affairs Committee, Ginny Schlundt had put it in a recommendation, I guess the last report of the Zablocki Committee, that FSI should find itself an appropriate campus and that helped because we could always claim that we were doing what the Congress wanted us to do.  Very shortly we began to hear that the Secretary was interested and he called me in one day and he said that he wanted me to do it, that was his instruction.  He wanted to see it done and he would ask Ed Derwinski the Counselor, to do what he could to help - or maybe it was to see that it was done.  We then had to get the Army aboard and with Ed's help we were able to get the Foreign Affairs Committee to intervene with the House Military Affairs Committee and point out that this army base there was really in bad shape.  The staff of the Armed Services Committee went out to it for the first time to see it and saw that these were temporaries that were built during the War, and they were an awful sight and were appalled by it.  The Army had given up on their attempts to stay there.  The County wasn't going to let them modernize the place.  And so they were willing to go somewhere else.  When they saw that we could help them, they then came to our support.  We had lots of luck and some obstacles.  Senator Paul Trible was elected and appointed right at that crucial moment to the Foreign Relations Committee and he was interested in seeing this project through.  Just at the moment when we had to get the legislation through the Senate, he was able to help us out there, and Senator Warner was able to help us in the Senate Armed Service Committee. Then we got our biggest support from Congressman Frank Wolf whose constituency it is in, and who decided that this would be very helpful to Northern Virginia.  So we began to build a constituency in the Congress which is very difficult to do in Foreign Affairs, but this was a real constituency.  We had some very close calls.  The story is too long to repeat all the details.  We needed two pieces of legislation, one was the Foreign Affairs Authorization bill which permitted us to look for and to build.  It gave us $61 million dollars authorization for that purpose.  The other was the Armed Services Bill which transferred Arlington Hall Station to the State Department upon the removal of the army.  At one point one of the committees just inserted the words “if the Army turned over”, and that simply just threw the whole thing out the window.</p>
-<pb facs="0026" n="Page0026"/>
-<p>We got it passed in the House and it was only a last minute switch in the Conference Committee which Senator Warner was able to accomplish that the perils of Pauline were all over.  We had to stay with it every second, and really we didn't get a lot of help with it from the Department.  It was too busy with its own business.  But Ed Derwinski and I with the strong support of the Secretary whenever it was needed, and of course Ron Spiers were able to get these two pieces of legislation in 1985.  We then had an architectural engineering competition and picked one of the world's leading architects.  it was “blind” because we didn't know who he was, we just liked his design.  I think we were off to a pretty good start.  We've got a lot of problems still to go, but I think it's caught the imagination of a lot of people.  We have the land, we have a design, and it was a very exciting thing to be involved in.</p>
-<p>
-<hi rend="italics">Q:  Then you asked, this is a monologue, I'm sorry.</hi>
-</p>
-<pb facs="0027" n="Page0027"/>
-<p>LOW:  The third thing was to establish a private foundation, called the Association for Diplomatic Studies which I think is sponsoring this interview and which is to be a repository for private funds to supplement what the government gives us to run training in diplomatic affairs.  This will help establish, I hope, a library of significance in research on current Foreign Affairs where people can leave their papers, and where scholars can come to find out where current papers are available in the country.  It will be a library of first resort where people can come and read papers in government files and get some sympathetic assistance.  It will be a place where the record of two-hundred years of diplomacy can be displayed.  We currently have no place in the United States, that I'm aware of, that is devoted to a display of our diplomatic history where there are the statues of the men, or the evidence of the people and the events and the pictures of our diplomatic history.  People will be able to visit as they visit West Point or other places, and they will come and see and be reminded of the fact that we have a rather proud diplomatic history that we can look at with some satisfaction.  Third, our organization can help supplement the academic input by supplying sabbaticals - topping off sabbaticals so that leading academicians can come and spend a little time here doing research and teaching.  We have never given a degree, I felt very strongly that FSI should not give a degree, although there are quite a number of who felt we should.  I've always believed that it is not an educational institution, that if we became another graduate school we would just be number 273, and we should be number one.  In our field and as a training institution, I think we are as good as any there are and probably better in languages.  In some other professional studies and teachings - very good.  I think we should keep that and if we became another graduate school, we would have to diversify our efforts to be first class in fields chosen by others.  I think it can help, the Association can help a great deal to make the new campus not just another training center, but a center of focus for American diplomacy.  It can help build that constituency that we always complain that we don't have; a constituency of Americans who recognize that we've played a role in the world and that we can feel some pride in that.  I think it could play a significant role and that organization is beginning now, I think it's very ably lead by Dick Parker and Gene Bovis.  I think it has now got a fairly significant financial basis and a constituency that recognizes what it can do and is off doing oral histories, working on the library, and working on collecting the mementos of our diplomatic history, I think it's a very important thing.</p>
-<p>
-<hi rend="italics">Q:  One of the big questions within that whole subject area is how much the skills that the diplomats have built up are transmissible and can be taught?  You've written about your experience in conceptual terms, you've been talking about your experiences here, of course you've headed an institution that is dedicated in part to transmitting things.  At what levels can skills be transmitted or taught and what are the limitations on that?</hi>
-</p>
-<pb facs="0028" n="Page0028"/>
-<p>LOW:  Well, that's a terribly important and difficult issue and I'm not sure that I come down with great confidence on one side or the other.  Clearly, there are skills that are recognized that we can teach: language, area studies, and professional subjects.  We can teach somebody how to issue a visa and we have to.  There is no substitute, nobody else can teach someone how to issue an American visa except the Foreign Service Institute.  There are these things then that I think we can teach, and we are the only people who can teach them.  Whether you can transfer experience in negotiation, that this can be taught, I'm really not certain.  Of course, there is the United States Institute of Peace which feels very strongly that these things can be taught.  I believe that dealing with a dispute must be essentially based on the substance of the dispute.  The techniques are more difficult to teach.  Perhaps we can work out simulations (and increasingly we are teaching adults through simulation, through case studies and this kind of thing) that will bring them to a level of sophistication earlier in their career than they might otherwise be.  I think we need to do a great deal more experimentation in this area but I certainly think that we can play a role.  Secretary Shultz has many times said that, “It is the inquiring mind, that makes the difference.” It is the attitude one brings.  Professional development in my view means continued learning and intellectual development from on the job learning, from formal training, and from self-education; those three areas.  On the job learning is probably two-thirds of it, we used to think it was one hundred percent.  We're now recognizing that formal training can play more of a role.  But there is a limit to how much formal training can do.  It can provide certain skills.  But it can do more than it has done in the past, and self-education can also do more.  The important thing that we can do, I think, is to broaden the sense of participation in the mind of a government employee.  The American Foreign Service is large and I think some of our people see themselves as too specialized.  I think that what the Foreign Service Institute has to do much more than it has in the past, to create responsible generalists.</p>
-<pb facs="0029" n="Page0029"/>
-<p>This is what education has done, and I guess it has to play the role of reeducation.  We can go one of two ways.  We can send our people back to school - back to universities and we should do that, and we do do that; so that they can be effective generalists.  Lately we've done it less because of our funding shortages.  I think that we can play more of a role of helping officers to resist becoming too specialized.  Officers in the Foreign Service and in Government must be able to see United States Foreign Policy in its broadest context.  They must be able to talk intelligently on Central America, on South Africa, on Afghanistan, if they are going to represent us effectively abroad.  To a great degree we have become large enough so that people take refuge in a specialty. “I only know consular affairs with Mexico, I can't talk about something else.” Our effectiveness abroad is severely limited by this attitude.  This institute must do more to break down that conception of the job.  It must constantly make people feel comfortable with broader issues.  In that I don't think we've done enough.  I didn't do enough.  It is very difficult to do enough.  We need a little more money than we have because it's in a sense peripheral.  It's not teaching a recognized needed skill like Spanish.  We obviously can't send someone to Bogota unless they speak Spanish.  You can send somebody to Bogota if they don't know anything about South America but you lose.  We have a very able Foreign Service of intelligent, dedicated people.  I think there is a danger that next to the Brazilians and other diplomats who come from much smaller services where they are able to dispute and to discuss world issues, we have a disadvantage.  We are not performing at our best and this is what the Institute's got to devote, I think, a little more time to in the future.</p>
-<p>
-<hi rend="italics">Q:  Thank you very much.</hi>
-</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR STEPHEN LOW</p>
+                <p>Interviewed by: I.W. Zartman </p>
+                <p>Initial interview date: 1988</p>
+                <p>Copyright 1998 ADST</p>
+                <p>Narrator: We are pleased to present another in our series of interviews with
+                    Senior Officers of the Foreign Affairs Agencies. With us today is Ambassador
+                    Stephen Low who has just retired after a long and distinguished career in the
+                    United States Foreign Service. Interviewing him will be Professor I.W. Zartman,
+                    Director of African Studies at The School of Advanced International Studies at
+                    Johns Hopkins University here in Washington. With that, I'll turn it over to
+                    Ambassador Low and Professor Zartman.</p>
+                <p>LOW: Thank you Gene, thank you very much.</p>
+                <p>
+                    <hi rend="italics">Q: Steve, maybe we can begin in the beginning and I'll begin
+                        by asking how did you get involved in foreign affairs? Was it an incident?
+                        Was it an evolution ?</hi>
+                </p>
+                <p>LOW: No, I can't really describe the moment that I decided to join the Foreign
+                    Service? I always remember reading the “Most Unforgettable Character” series
+                    Readers Digest where somebody was usually lying in the hay in a barn and a bolt
+                    of lightning struck them and they decided they wanted to devote their lives to
+                    one thing or another. It never happened to me.</p>
+                <p>Narrator: I'm glad that you weren't struck by lightning while lying in the hay,
+                    that's very dangerous.</p>
+                <p>LOW: I just gradually gravitated in this direction from finishing my
+                    undergraduate degree, more interested in public service than private, but not
+                    clear where. Then I did a graduate degree at Fletcher School and simply
+                    gravitated in the direction of foreign affairs; took the Foreign Service exam
+                    twice - I didn't pass the first time. The first time I took it in Paris and the
+                    second time I believe in Cincinnati. By the time I was in it, I guess I was
+                    twenty-eight or so. From that time on I never had a moment's question that that
+                    wasn't what I wanted to be doing.</p>
+                <p>
+                    <hi rend="italics">Q: I think many people preparing themselves would be
+                        interested in knowing whether you think the Doctorate was useful. Would you
+                        have done better going in after an A.B. or an M.A.?</hi>
+                </p>
+                <pb facs="0002" n="Page0002"/>
+                <p>LOW: I've always thought that probably the best training for Foreign Service is a
+                    Law degree; whether that's right or not I don't know, not having a law degree I
+                    can't prove that. The Ph.D. didn't hurt, but it didn't help much. It probably
+                    did a certain amount of good in terms of the writing practice and the thinking
+                    discipline. Having a degree is only useful in the sense that you've got a
+                    parachute. At some point in your career; at any point in your career if you
+                    decide you don't like it, if your family doesn't like it or something else, you
+                    have that security of knowing perhaps you can do something else. You have at
+                    least an entry possibility and I think that's a healthy point of view. Whether
+                    it's worth the two or three years I'm not sure. I think a Law degree is good
+                    because it teaches you to take complex ideas and reduce them to a short brief
+                    and put it forward in persuasive literate terms. I think that's probably the
+                    most useful single asset that a Foreign Service Officer can have: an ability to
+                    write succinctly, accurately, quickly, and persuasively.</p>
+                <p>
+                    <hi rend="italics">Q: So generally, would you recommend somebody go in and take
+                        the exam after a Master's Degree of after an A.B. degree rather than going
+                        on to a Ph.D.</hi>
+                </p>
+                <p>LOW: No I don't think so, the average age of entry now is thirty-one. That may a
+                    little bit older than optimal, but I think its good to have done something
+                    first, anything. It may be education, it may be Peace Corps, it may be working
+                    in a bank, but I think there is an advantage to having a breadth of experience
+                    before you go into the Foreign Service. Whatever it may be, in my case it was
+                    perhaps too many years in school.</p>
+                <p>
+                    <hi rend="italics">Q: I think in a career pattern of Foreign Service Officers
+                        that there comes a point after one or two posts when a lot of people have a
+                        decision to make. I don't know the statistics on this but I think very often
+                        that people make a decision at that point to leave. Then a lot of people go
+                        on, that is in their young career there seems to be a turning point. Did you
+                        feel anything like that? Did you make a - Was there a time when you made a
+                        conscious decision to go on?</hi>
+                </p>
+                <p>LOW: I've read passages in some of the other recent psychological studies of the
+                    course of life and I've always wondered why it doesn't seem to apply to me as it
+                    does to other people. I think my only hesitation all along was, “Was I good
+                    enough?” I never, ever had a moment of questioning whether that was what I
+                    wanted to do. I guess I didn't really have time. I went from one job to the next
+                    and each one struck me as more exciting and interesting than the one before and
+                    there were so many others that looked fascinating that I really never, never
+                    questioned whether this was what I wanted to do; the only question was “Did I
+                    really have the what was necessary in terms of the mettle and mental discipline
+                    to do it?”</p>
+                <p>
+                    <hi rend="italics">Q: Can you read into the record what your positions were
+                        until you became Ambassador to Zambia, and then to Nigeria.</hi>
+                </p>
+                <pb facs="0003" n="Page0003"/>
+                <p>LOW: Well I had just finished a Ph.D. at the Fletcher School on the American
+                    experience in the Philippines and it was part sociological and part political. I
+                    came into the service and low and behold I was assigned to research on the
+                    Philippines and Malaysia. I think that was a great stroke of luck because it
+                    enabled me to move in to an area that I knew something about and could speak
+                    with some small authority on and I spent a little time on the Philippine desk
+                    and so forth. At that point they began opening African posts and my career
+                    really was decided (as many of the crucial decisions in my life were made) in an
+                    automobile which I believe is one of the most important policy formation
+                    vehicles in the City of Washington, (this is a very well kept secret), that is
+                    the car pool. Car pools have important impacts and in my case the Philippine
+                    desk officer was a car pool mate of someone who was going to open an African
+                    post and after many, many things occurred I went off to help him open Kampala,
+                    Uganda in 1957. Sue and I left for that assignment with our first son who was
+                    ten weeks old. I always said that it was an ideal Foreign Service assignment, I
+                    was DCM in my first post. There were two officers. Then we came back. I served
+                    very other tour in the Foreign Service until the last was in Washington. I spent
+                    well over half my career in Washington which is a great benefit I think. I came
+                    back and went out again to Dakar, Senegal where I started off as the Labor
+                    Officer for French-speaking West Africa in 1961, and then the Ambassador
+                    switched me to be the Political Officer at a post covering the three colonial
+                    traditions of Africa; French in Mauritania and Senegal, British in the Gambia,
+                    and Portuguese Guinea. I had an interesting time dealing with the three. I came
+                    back to Washington as desk officer for Guinea and Mali, and then went to work
+                    for Alexis Johnson as his Special Assistant, he only had one. It was a great
+                    experience. Alexis Johnson worked everyday of the year but Christmas Day. I
+                    didn't see a lot of the family, although he did let me have part of Sundays off
+                    usually, but it was a fascinating experience and from there I went to the War
+                    College. I discovered I was due to be assigned back to Africa when as a result
+                    of another car pool accident, I went into Personnel one day and they said they
+                    had me scheduled me for DCM in Guinea. I said that I really felt I had enough
+                    African experience at that point and that I would like to try something else. He
+                    said “How about Brazil?” One thing lead to another and I went as the principal
+                    officer in Brasilia for three years which was an absolutely fascinating
+                    assignment. I came back to Washington as Brazilian Country Director, went to the
+                    National Security Council as the Senior staff member for Latin America, and then
+                    back to Africa as Ambassador to Zambia for three years during the negotiations
+                    for the Zimbabwe peace settlement. The only time I went directly from one
+                    foreign assignment to another was when I went to Nigeria as Ambassador. With the
+                    new administration I went to the University of California at Santa Barbara for a
+                    year as Diplomat in Residence, and then the last five years as Director of the
+                    Foreign Service Institute.</p>
+                <p>
+                    <hi rend="italics">Q: Can you make a distinction if one looks at the
+                        Ambassadorship as the kind of the summit of the career, can you make a
+                        distinction between Washington positions and field positions in saying what
+                        kind of experience is more useful in preparing one for the end of your
+                        career?</hi>
+                </p>
+                <pb facs="0004" n="Page0004"/>
+                <p>LOW: Well I think you clearly have to have a mix. A few people have been
+                    successful in concentrating on one or the other, but I think those are the
+                    exceptions. I can think of one or two officers who spent their entire career
+                    abroad, and I can think of one or two who have spent most of their careers in
+                    Washington. For the most part, it's the mix of the two that is the enriching
+                    kind of thing because unless you understand how the Washington bureaucracy
+                    works, unless you know how to use it in a sense, how to play it, you can't be
+                    effective in the field. Unless you understand the problems and the kind of
+                    challenges that you meet abroad, it's very hard to operate effectively in
+                    Washington. Although, I think of the two, the Washington experience is even more
+                    important, you simply have to understand that.</p>
+                <p>
+                    <hi rend="italics">Q: If one looks at the three countries of which you were
+                        Chief of Mission, in Brazil you were in a sense the Chief of Mission in one
+                        of the two capitals I guess. Can we go down each of them what was the most
+                        significant accomplishment that you felt you achieved? Let's talk about
+                        Brazil first of all.</hi>
+                </p>
+                <p>LOW: I can't really claim anything but a reporting and a coordinating role in
+                    Brazil. I wasn't even Political Counselor, I was a political officer when I went
+                    there and as Counselor of Embassy in charge of Brasilia, but really the
+                    contribution was a reporting contribution only.</p>
+                <p>
+                    <hi rend="italics">Q: You opened the post in Brazil, didn't you?</hi>
+                </p>
+                <p>LOW: No, it had been opened ten years before. I was the last of the Principal
+                    Officers in Brasilia when I was there. I was there for two years alone, and then
+                    the Ambassador moved to Brasilia and left the DCM in Rio. It was a very
+                    interesting period of a series of crisis. I really don't feel that I had a
+                    policy role or that I exercised an influence on policy. There may have been one
+                    there but I didn't exercise it. I think it was a management role and a
+                    coordination role, and a reporting role which was utterly fascinating. I don't
+                    know that I can single out a contribution that I made that would be of
+                    importance or of significance in Brazil.</p>
+                <p>
+                    <hi rend="italics">Q: Let's go on to Lusaka then?</hi>
+                </p>
+                <pb facs="0005" n="Page0005"/>
+                <p>LOW: Well Zambia was a very different affair. I arrived two weeks before Henry
+                    Kissinger's second visit, I guess the day before the Assistant Secretary
+                    arrived. I got there in late August - early September and Bill Schaufele the
+                    Assistant Secretary arrived within twenty-four hours and we were in the
+                    Presidents' Office. I hadn't presented credentials, he kind of joked about that
+                    one a little bit. He said he was looking forward to meeting the American
+                    Ambassador as though I wasn't present, but it was kind of fun to be dealing with
+                    significant matters even before I had presented credentials. Henry Kissinger was
+                    through two weeks later and the entire three years was spent involved in the
+                    effort to end the war in Rhodesia-Zimbabwe and to find a settlement. After the
+                    first year, I was appointed as the American member of the US - UK Consultative
+                    Group with Sir John Graham. For three years, I was part of every mission. I
+                    don't think there was a US mission that went to or dealt with Rhodesia that I
+                    wasn't a member of, and there were some eight or nine of them. I spent about
+                    half my time in Salisbury, now Harare and I think the contribution was a small
+                    one, but I think it was a significant one in the process which led to the
+                    Lancaster House talks and independence a year after I left. At least for the two
+                    and a half to three years that I was there I was involved in that very
+                    interesting period of negotiations with all the countries of Southern Africa and
+                    with the four or five Black African organizations. I think there were moments
+                    when I think I personally made a certain contribution to the course of
+                    events.</p>
+                <p>
+                    <hi rend="italics">Q: Let's talk a little bit about the mediation during your
+                        time in Lusaka. In the history of those meditations, there was the period of
+                        bilateral mediation or the period you just talked about, and then the
+                        British took over in the last part leading up to Lancaster House which
+                        brought things to fruition. Is it possible to carry out a mediation of this
+                        kind with two parties coordinating things together, or do things work more
+                        easily if there is one party in charge that orchestrates things?</hi>
+                </p>
+                <p>LOW: I don't think there is any significant difference, in the nature of it there
+                    is no significant difference between the one party mediation and ten party
+                    mediation. If you take Namibia which we were also part of, the Contact Group
+                    worked very well some of the time and some of the time didn't. I think the
+                    failure to achieve a settlement there was not related to the coherence of the
+                    Contact Group. We had absolutely no significant differences although we looked
+                    at things differently than the British quite frequently. The British position, I
+                    think, was somewhat more manipulative than ours largely because the British had
+                    been there, were more familiar, had lived with these people longer than we had
+                    and our role was a little different. There were no significant differences
+                    between us and I think it was a very effective collaboration. We got along very
+                    well together. We got along very well together in no small part because Cy Vance
+                    and David Owen got along very well together, there was an understanding and
+                    recognition on all levels, and I think it worked very, very effectively.</p>
+                <p>
+                    <pb facs="0006" n="Page0006"/>
+                    <hi rend="italics">Q: Do you think the mediation was effective in holding the
+                        agenda and in holding mediation as part of that agenda, or was it effective
+                        in that three year period in actually moving the solution along?</hi>
+                </p>
+                <p>LOW: Both, and other things. I think that we did move both along. Lancaster House
+                    would not have been possible without what we did. I don't think that we would
+                    have gotten to Lancaster House. The situation would have been so different at
+                    the time of the August, Lusaka Commonwealth conference that there wouldn't have
+                    been a chance of that momentary recognition by Margaret Thatcher that she would
+                    try once more for a peace settlement. Had we not had that whole basis in the
+                    first place I think the whole history would have been different. The United
+                    States probably would have lifted sanctions, after all we came very close to it
+                    in June of 1979. It was only an action in the House of Representatives that
+                    stopped us from lifting sanctions. Had we lifted sanctions I don't think that
+                    Margaret Thatcher would have been able to resist a move by her own party to
+                    insist on lifting of sanctions by the British. Had that been the case, the
+                    Commonwealth conference simply could not have come out with another attempt. She
+                    could not have done so, I don't think Lancaster House was possible without this
+                    history. The whole basis for the negotiation had already been established and
+                    built. I don't think there is any question about, “Did we make progress?”</p>
+                <p>
+                    <hi rend="italics">Q: Or was it just a holding operation while the event itself
+                        made progress?</hi>
+                </p>
+                <p>LOW: I think there is no question that the event itself was changing and that the
+                    ultimate settlement came more from the event than from our timing. I think that
+                    settlement would have been very difficult without this. But I think further that
+                    our own internal policy demands and the British internal policy demands required
+                    that we be involved in this operation. Had we not been, our vulnerability in
+                    Africa to criticism, but more than that, our access to friendly African support
+                    internationally, bilaterally would have been much damaged had we not been
+                    involved in this in Africa. This was a major focus of our African policy. The
+                    Africans were willing to deal with us in good faith as long as they thought we
+                    genuinely were trying to help with what they considered to be their biggest
+                    international problem. It was enormously important from U.S. foreign policy
+                    point of view that we be engaged in this. The process was absolutely
+                    necessary.</p>
+                <p>
+                    <hi rend="italics">Q: Can you talk a little bit about what you did? What kind of
+                        activities did you carry out as part of this mediation? Were you putting
+                        forward plans, were you carrying communications?</hi>
+                </p>
+                <pb facs="0007" n="Page0007"/>
+                <p>LOW: It was clearly the former; we were putting forward plans. It was largely
+                    travel. We traveled to them. Them being every participant. We simply went
+                    around. We went around in circles for three years talking to all the parties. We
+                    made it a very clear rule that we would talk to everyone, that no one could veto
+                    a contact. We would talk to every person who felt he or she had something to
+                    contribute, though I must say that some of the people we talked to, we wondered
+                    about. We talked to every Black African Nationalist group, we talked to the
+                    South Africans, we talked to all the front line heads of state, and we would
+                    simply go around. We would first ask them their views on a constitution, we went
+                    out first of course with a charter, an understanding that we would work on the
+                    constitution first. We went around to all the front line chiefs, to all the
+                    nationalist heads of their organizations, to the South Africans. We communicated
+                    with everybody who had an interest. We drew up a proposal which we presented on
+                    I think September first of 1977. This was a rather remarkable meeting in which
+                    very few people were able to stay awake because the Rhodesians had spent the
+                    entire night waiting for the returns of their elections and hadn't slept, and we
+                    had been in Nairobi because we didn't want to spend the night in Salisbury. We
+                    stayed in Nairobi where we had some last minute details to clear up with the
+                    British which weren't finished up until four a.m. in the morning. We got up at
+                    five a.m. to get on the airplane. It was remarkable that on such things
+                    international relations are based. It was a very difficult meeting. I don't
+                    think that the fact that we had been up all the night really affected it, but it
+                    certainly didn't help it. It was the occasion in which we announced to the
+                    Rhodesians that the Independence army would be based on the liberation forces,
+                    which they had not expected and which I think created a major negative impact on
+                    them and the South Africans.</p>
+                <p>
+                    <hi rend="italics">Q: The process was based on that you kept going around again
+                        and again?</hi>
+                </p>
+                <pb facs="0008" n="Page0008"/>
+                <p>LOW: We kept on going around and around and we kept working these proposals,
+                    changing them, modifying them. We had meetings in Malta. Lord Carver was there
+                    at the next mission and we went out to try to explain to them what we meant by
+                    “based on the Liberation forces.” We called for a meeting of “all parties;” the
+                    African Nationalists came but Smith and his internal group did not come. We had
+                    another meeting after Dar-es-Salaam with Smith. We would keep changing the
+                    formula, and changing the process. Our effort was to follow one of three tracks
+                    in which a settlement was being sought. Ours was that of international
+                    negotiations. One was by war - a war which began in 1972 and by this time in
+                    1977, was costing a daily loss of life and was really quite serious. The third
+                    was Smith's internal settlement; his attempt to do so by his own means. He
+                    played in each of those three tracks trying to see which way to go, recognizing
+                    that a settlement might come out of any one of them, but I think that initially
+                    believing firmly that it was a military solution that was by far the most likely
+                    to be successful. I think he was quite confident that he could win militarily. I
+                    think that changed, he was one of the last to recognize that that was not going
+                    to happen. His intelligence and the military realized that long before he did.
+                    Then he tried his internal settlement and it came very close to succeeding. I
+                    don't think that most people now realize how close he came. Had he himself
+                    believed in it, it might have succeeded. I think if he had had more success with
+                    it, we would have had no choice but to accept it. One of the things that is
+                    interesting it seems to me in this whole history, is that it did not have to
+                    come out that way. There was nothing inevitable that it come out the way it did.
+                    At any point it might have come out differently. I don't think Smith ever could
+                    have won a military settlement. It would have been difficult for the African
+                    nationalists to win a military settlement, certainly not this group would have
+                    won. Had it gone to a military conclusion and the Black Africans taken over, it
+                    would have been the corporals and the sergeants or perhaps a second lieutenant
+                    who would now be in charge.</p>
+                <p>
+                    <hi rend="italics">Q: Do you think the effect of continued fighting would have
+                        been a change in the leadership levels?</hi>
+                </p>
+                <p>LOW: Yes, it would have changed the leadership levels so that this group would
+                    not have won. Eventually, Smith was forced to end in this direction, but he
+                    might have made his internal settlement work had he recognized that he had to
+                    give some evidence of African leadership and success. I think it could have won
+                    and it could have been successful and we would have been presented with a fait
+                    accompli which I believe we would have accepted, but the war would not have
+                    ended.</p>
+                <p>
+                    <hi rend="italics">Q: You mentioned the three tracks, one of which was the track
+                        on which you worked, the International one. You never worked on the internal
+                        settlement, that is the United States never urged Smith to be true to his
+                        own formula?</hi>
+                </p>
+                <pb facs="0009" n="Page0009"/>
+                <p>LOW: No, we stayed very carefully away from that, this was obviously his and he
+                    did not want us to be involved. He had suggested the possibility early in the
+                    game, I would guess in October of 1977. He said that “I have some people who I
+                    can depend on to do this,” and we told him from the beginning that we didn't
+                    think it would work. They did not represent the majority of Africans and we did
+                    not think that he could be successful, although we didn't tell him that he
+                    shouldn't try. We just said “that's up to you, but we don't think you will
+                    succeed.” I think one of the interesting things was how soon he himself spoiled
+                    that possibility. He announced the internal settlement, I believe, in November
+                    of 1977, but it wasn't until March of 1978 that he came to an agreement with the
+                    Africans and then he'd won all the arguments. He left Muzorewa out there without
+                    even a fig leaf as far as I could see, or with a lacy fig leaf to coin a phrase.
+                    Then it wasn't until over a year later that he carried out the elections, he
+                    gave Muzorewa very little. In any case we did not advise him. He had tried a
+                    different unilateral settlement when he met with Nkomo and he tried to reverse
+                    alliances and meet with Nkomo and work something out. Again, he told us about
+                    this, we listened and there I don't think we said it wouldn't work. Our view was
+                    “Anything which was acceptable to the Africans and was acceptable to the
+                    majority of the population of Rhodesia, black and white was acceptable to us.”
+                    We were going to work on an internationally recognized settlement, if he could
+                    find some other formula - that was acceptable, that was fine. The meeting with
+                    Nkomo was largely the Nigerians and the British; although the British were
+                    really only consulted on the side. It was largely a Nigerian - Zambian
+                    initiative, it really didn't have much of a chance. It was not a good idea and I
+                    did think it hurt us more than we realized at the time. Mozambique in particular
+                    felt that we were involved in it and that we had been a party to splitting the
+                    nationalists between Nkomo and Mugabe, and freezing Mugabe out of it. We didn't
+                    in fact, we were not part of it. This was purely Smith and Gaylord's effort,
+                    mostly Smith's. I don't think Gaylord did anything except go along with it
+                    (Gaylord was his Chief of Cabinet). Our focus all along was on an
+                    internationally acceptable settlement.</p>
+                <p>
+                    <hi rend="italics">Q: You said earlier that the British were manipulative and
+                        that our approach was a little different, which suggests an element of
+                        leverage. They had leverage as it finally turned out, as the Lusaka to
+                        Lancaster House shows us. We did not, did we?</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>LOW: I don't think the leverage was that different between us and the British. I
+                    think in a sense that the British had leverage they were using us too. We all
+                    along recognized that the British had the primary role. I think we both had
+                    distant leverage. I've always seen it as concentric circles, I've mentioned this
+                    to you before. The people who were going to decide it were the people of
+                    Rhodesia. The black and white people of Rhodesia were going to decide this
+                    thing. The people immediately around them, the South Africans, the Mozambicans,
+                    the Zambians, the Botswanans had an influence. They could make it much more
+                    difficult or make it much easier. They could put a lot of pressure on the
+                    parties to go this way or that. But they had less leverage than outsiders
+                    credited them with. Many people thought that at any moment the South Africans
+                    could just turn off the spigot and Smith would collapse. They never had that
+                    possibility, this was never within the realm of possibility. Smith could have
+                    appealed over their heads and no South African government, I believe, could have
+                    weathered that. Similarly in Mozambique, the forces of ZANU were stronger than
+                    the Mozambicans and certainly the ZAPU forces were stronger than the Zambian
+                    military. I think the commitment was such that neither Kaunda nor Machel could
+                    direct things. They were confined to putting major pressure. They could
+                    encourage, they could influence the margins, but they could not push the button.
+                    In the circle beyond that, the Russians, the Chinese, the British, ourselves had
+                    really much more limited leverage and pressure that we could put on. At moments,
+                    we could put a certain amount. The British had leverage, but it was limited and
+                    I think that we helped to supply part of their leverage. I think the United
+                    States played a major role in the Lancaster talks, I think our leverage came in
+                    part from the internal situation. Smith had exhausted the other alternatives and
+                    therefore the international settlement really became the only track. Once it
+                    became the only track, the only way you could get it was through the British and
+                    the United States.</p>
+                <p>
+                    <hi rend="italics">Q: Through the United States, or through the British who
+                        could convene Lancaster House? What was the United States' leverage?</hi>
+                </p>
+                <p>LOW: I really think that the United States had a significant role as I say. Six
+                    months earlier, had the United States lifted sanctions, the British would have
+                    been forced to go along. They didn't at that point. A major element in Lancaster
+                    was the economic assistance part, and the United States played a role in the
+                    assistance part. I think, of course, as you know, there were elements in the
+                    United States acting on their own, strongly advising the British against this
+                    course. Members of the staff of Senator Helms were very active in urging the
+                    British to throw their weight to the internal settlement. The British did not
+                    follow that. The U.S. government on the other hand; I think the support of the
+                    U.S. government for the British was a major factor, I really believe that. Had
+                    we taken a different position, the British would have found it very difficult to
+                    follow along. The support which the Carter government gave to the British in
+                    this was enormous.</p>
+                <p>
+                    <pb facs="0011" n="Page0011"/>
+                    <hi rend="italics">Q: Can we look at the other people in that circle and the
+                        other circle? Is there a role, was there a role, is there a role in this
+                        kind of activity for notably the Russians? Would there have been anything to
+                        gain? Is there anything to gain in a more broader sense?</hi>
+                </p>
+                <p>LOW: The Russians certainly played a role. Their role was exclusively the supply
+                    of arms to the Nationalists. I'm inclined to think that was a very significant
+                    role, but that even if they hadn't have done it, the Chinese would have, and if
+                    they hadn't done it somebody else would have. That was the beginning and the end
+                    of it.</p>
+                <p>
+                    <hi rend="italics">Q: How about as an associate in the mediation?</hi>
+                </p>
+                <pb facs="0012" n="Page0012"/>
+                <p>LOW: Well, I just don't think that they themselves thought they had that much
+                    leverage and I don't think they did. They got as much out of it as they could
+                    have, I think they played it very, very badly. They are probably aware of that
+                    themselves. They fell into the trap of the traditional communist role of picking
+                    sides early on and they were so inflexible and their intelligence was so bad
+                    that they didn't realize that the situation had changed and that the people they
+                    had backed from the beginning were not going to win. They were unable to switch,
+                    and unable to extricate themselves from an impossible position. It was one of
+                    the most clumsy diplomatic efforts I've ever seen. They got a fair amount out of
+                    it however, and something that was very difficult for us to understand in this
+                    country. The State Department understood it, but many in this country did not
+                    understand that the Nationalist forces were competing with each other for
+                    sympathetic support from the one side that was actively supporting them, the
+                    Soviets. Therefore since their constituency was in Moscow the noise they were
+                    making, the public comments they were making were directed at Moscow. That was
+                    where they were running for office, that was their constituency; so when they
+                    made a public statement, it was to outflank each other. We saw the great rivalry
+                    between Nkano and Mugabe was fought in Moscow and Nkano won it. The reason he
+                    won it was he said the right things. He is about as far left as...let me say
+                    that he is a very conservative man. He made all these kinds of comments that
+                    were acceptable and welcomed in Moscow because he was the chief recipient of
+                    arms from them and he needed to keep that. He did just enough to keep it. They
+                    straight-armed Mugabe right up to the time he got on the airplane to return to
+                    Salisbury. That was the famous incident when he got on the airplane in Maputo
+                    and not one member of the Soviet Bloc went out to the airport to see him off. It
+                    was really one of the extraordinary faux pas, it seems to me, of the
+                    Rhodesia/Zimbabwe settlement: that the Soviets even after it was all over, were
+                    still siding actively with Nkano who was going to lose. It was that rivalry that
+                    was never understood in this country. People took literally what the
+                    nationalists were saying and didn't understand why they were saying it. It was
+                    very hard for us to explain to the newspaper in Kansas and in Seattle and
+                    elsewhere that the things they were saying were not directed at America, they
+                    were directed to the Soviet Union and did not really reflect the views of the
+                    people saying them. I might say the same thing was true of the other side,
+                    Muzorewa's statements of loyalty to western principles were equally profound!
+                    People forgot that when Kissinger went out to see Muzorewa that he couldn't see
+                    him because he was in Peking, that was just ignored.</p>
+                <p>
+                    <hi rend="italics">Q: You don't think the Russians, you don't see in this kind
+                        of situation any possibility or any advantage to bringing in Soviet
+                        collaborators?</hi>
+                </p>
+                <pb facs="0013" n="Page0013"/>
+                <p>LOW: I don't think they would have made any contribution on the contrary. You
+                    asked earlier about the effectiveness of a joint mediation. Joint mediation
+                    works when the parties to it are able to coordinate, understand each other and
+                    are working in the same direction and so forth. Everybody works from his own
+                    point of view but for the most part we had our differences with the British and
+                    some members of our delegations had more difficulties with the British. There
+                    were some areas of extreme, I think you remember some, some of the remarks that
+                    were very, very difficult for the British to accept but they were minor. Vance
+                    and Owen were very easy and very cooperative and Graham and I got along very
+                    well. When you are working for opposite results it would be very difficult; I
+                    think it would have been disastrous.</p>
+                <p>
+                    <hi rend="italics">Q: You mentioned the Russian mistake by not seeing them off
+                        at the airport. Did we make mistakes in the process too?</hi>
+                </p>
+                <pb facs="0014" n="Page0014"/>
+                <p>LOW: Oh I think so. We were inexperienced in this part of the world and we did
+                    not always use the short experience that we had. When the new administration
+                    came in in January 1977 its first actions were not very professional. Nyerere
+                    visited Washington in August of 1977 and President Carter decided that he would
+                    make Southern African progress toward the settlement a major concern of his
+                    administration. That was a significant step when you look at the history since
+                    then, you realize that this really was an important thing. He wasn't the first,
+                    it was Henry Kissinger in April of the year before in 1976 who said, “For the
+                    first time the United States is going to start playing a role there.” That was
+                    based on other factions, but it was enormously important and it was important
+                    for Carter to have followed that up and said “We're going to do something!” Of
+                    course the administration that followed four years later took two months to
+                    decide that it needed to play a role, but it finally decided that it had no
+                    choice but to do so also. It had to be pushed by the Europeans, but it did so.
+                    There was no difference between administrations. Anyway, Nyerere visited in 1977
+                    and had a very brief period alone with the President and being a very
+                    persuasive, very charming man convinced the President that the key element was
+                    the leadership of the independence army and that the Front Line would go along
+                    with the support of the process, if we would make one of the principles that the
+                    independence army would be based on the liberation forces. Well, I don't believe
+                    that this idea carried a lot of weight among the Africans. I don't for a minute
+                    believe that this is what either Nkano or Mugabe wanted. Now they may say that I
+                    am wrong, but in their hearts both of those men didn't want to dismantle the
+                    very effective military force that was there, they wanted to inherit it. They
+                    knew that if they got power, they could control that force, they didn't need to
+                    make this a contingency - a requirement. So this was kind of Nyerere coming in
+                    with a marginal issue. He talked the President into accepting it alone and when
+                    Moose and Brzezinski came in later the President told them what he had agreed
+                    to. After that, they wrote it up and informed the British who were, you might
+                    say, surprised and discomfited - that's a great understatement. We had to live
+                    with that albatross. I think it was what turned the South Africans off
+                    completely and it certainly convinced Smith that there was no prospect of
+                    further negotiations, that the international agreement was not really worth
+                    following seriously. I think it was a major factor in his turning to the
+                    internal settlement, although he might well have done so anyway.</p>
+                <p>
+                    <hi rend="italics">Q: A milder kind of position would have moved things along
+                        more rapidly?</hi>
+                </p>
+                <p>LOW: Well it wasn't an issue. It was an issue which I think Nyerere, in order to
+                    assert his own role in the thing, invented. We took it and completely turned off
+                    one of the partners without giving us any credit with the other ones',
+                    significant credit. They were pleased of course.</p>
+                <p>
+                    <hi rend="italics">Q: But what I want to know is, would we have made progress
+                        before the internal settlement was worked out if that mistake hadn't been
+                        made?</hi>
+                </p>
+                <pb facs="0015" n="Page0015"/>
+                <p>LOW: I think we could have, I don't know, it's very hard to say. Smith would have
+                    gone for the internal settlement as long as he thought there was a chance. You
+                    can't say, you can't say whether he would have given the international
+                    settlement more effort, whether he would have pushed harder to bring Muzorewa
+                    and Chief Chirau into line with us earlier because they were the ones who were
+                    refusing. The next period was the period in which we were working on an “all
+                    parties conference” and it was Muzorewa, Sithole, and Chirau's refusal to go to
+                    it which stopped us. Smith said anyway that he was willing to go to it if they
+                    could agree on something that was alright. He wasn't willing to push them very
+                    hard. Had this not been a factor he would have pushed harder and we might have
+                    gotten there a year earlier had it not been for that mistake. The important
+                    thing was that we got there when we did and not a year later. A year later or
+                    two years later, I don't believe either Nkomo or Mugabe would have still been in
+                    power.</p>
+                <p>
+                    <hi rend="italics">Q: The United States probably could not have held out on the
+                        sanctions issue?</hi>
+                </p>
+                <p>LOW: It would have been very difficult and we would have; the likelihood of a
+                    prolonged war for a number of years would have been much greater.</p>
+                <p>
+                    <hi rend="italics">Q: One question that always comes up in an operation of that
+                        kind is the following. Is it best to use an Ambassador that is in post, or
+                        is it best to use a special mediator? You were in effect what?</hi>
+                </p>
+                <p>LOW: I was really a special mediator rather than an Ambassador in post because I
+                    wasn't assigned to Rhodesia. I think it worked. I'm biased. Kaunda kept saying
+                    to me, “This is my most important issue.” This is the thing that is by far more
+                    important than anything else in U.S. Zambian relations - go to it! I think in
+                    this case, he was pleased that I was as involved as I was.</p>
+                <p>When I left, he said to me “Well you haven't succeeded, but I give you credit for
+                    trying.” That was an enormously important statement. This is what we had to be
+                    doing in our relations with Zambia and, I don't think our bilateral relations
+                    with Zambia suffered as a result. I don't think it made any difference. The
+                    Rhodesians were at first suspicious of me because of my relationship with
+                    Zambia, but that didn't last two days. After a while they got to know me as a
+                    person and I don't think it made a lot of difference on way or another; but it
+                    could have. It was a unique kind of a situation, I don't think you can
+                    generalize very much from that one. From the point of view of the Rhodesians I
+                    was a special emissary, not an Ambassador. I think the fact that I had Black
+                    African experience and had a place in Black Africa helped vis a vis the rest of
+                    the front line and helped in Zambia. Both of us, both John Graham and I had that
+                    kind of background which was good. I think that our access to and our role with
+                    both the front line and the Nationalists was better than the British. Many times
+                    I found myself mediating and explaining the British role to the Africans, and I
+                    think they respected it. I think that as it turned out it worked out well. I had
+                    a certain position which was respected in that part of the world.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>
+                    <hi rend="italics">Q: “You haven't succeeded, but I give you credit for trying,”
+                        was the closing line of a chapter that at your Congressional hearing I would
+                        read into the record by Ambassador Low and a book on mediation published by
+                        Westview Press and I think it should be a part of this interview because
+                        it's the most eloquent account that I have seen of the lessons of this kind
+                        of interview and I think that you did a fantastic job in that chapter, as
+                        well as in the effort itself.</hi>
+                </p>
+                <p>Can we go on to Nigeria and talk about the same kinds of things? What was your
+                    greatest accomplishment?</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>LOW: Well, if Zambia was international political mediation, Nigeria was bilateral
+                    economic cooperation. It couldn't have been more different in that sense. I went
+                    there when Nigeria was the U.S. second most important supplier of petroleum,
+                    just barely after the Saudis. At the time of the oil shocks the Nigerians were
+                    our second largest supplier of oil. We had at that point a nine billion dollar
+                    deficit, which today is nothing, but in those days was just barely behind our
+                    deficit with Japan, which was about twelve or fifteen billion dollars. It was a
+                    major problem, and I can remember the Vice-President at a reception at the White
+                    House saying to me, “Young man you are going to have to do something about the
+                    price of oil.” I didn't join up for that purpose, but I did go there with the
+                    feeling that we had very little leverage - we had very little purchase. To us
+                    the relationship with Nigeria was very important, but to the Nigerians the
+                    relationship with the United States was not very important. I felt uncomfortable
+                    as an Ambassador in that very unbalanced kind of a situation and so my focus was
+                    to look around and see how we could make our relationship more important to the
+                    Nigerians. In the first few months I realized the importance they put on
+                    agricultural development and the admiration with which they looked at America
+                    and its productivity in agriculture. I made a speech in the Northern part of the
+                    country once afterwards and they asked, “What are you going to do for us in
+                    agriculture?” I answered, “We're not going to do anything for you. You decide
+                    what you need to do and we will see if we can't cooperate.” I thought that was a
+                    nifty answer. But I went home and I thought that's just not the answer, that
+                    isn't going to get us anywhere. If we continue on that basis we are never going
+                    to succeed. So instead I went back to them and said “Let's get together and
+                    establish some kind of an institution within which we can cooperate.” We can't
+                    cooperate in a concessional assistance program because, even though it was not a
+                    wealthy country, it was not a poor country. It was relatively less poor than
+                    others in the world and with that kind of a U.S. deficit, the Congress would
+                    never sit still for a significant concessional assistance program. It just
+                    didn't seem to me that was the way to go; although there was a lot of pressure
+                    within the government for us to start up an aid program again which I resisted
+                    very strongly. We did then work it out. I say “we” which is a bit of a
+                    euphemism. I worked it out together with some people in Washington. The
+                    Nigerians didn't have much to do with it. When they saw what we had in mind they
+                    became more and more interested and we worked out an arrangement which involved
+                    a tri-lateral group including non-profit organizations (foundations), the
+                    government, and private industry on both sides. It was an institution which the
+                    Nigerians wanted to name. We said that if they wanted to put a name to it that
+                    was fine. They called it the Joint Agricultural Consultative Commission. The
+                    JACC. When Vice-President Mondale visited Nigeria we unveiled the project with
+                    Nigerian cooperation and the former Secretary of Agriculture, whose name escapes
+                    me at the moment (Orville Freeman), agreed to be Director of the American side.
+                    The American JACC group was in Lagos the week before I left there. President
+                    Shagari met with the group for about an hour and a half and he said, “Really I
+                    should be over with the Council of State today, it meets twice a year for one
+                    day.” This was the highest consultive body in the country, it was made up or the
+                    traditional Chiefs and the members of Congress, the governors, and so forth. It
+                    was the leadership of Nigeria. He took an hour and a half out of that day to
+                    visit with the JACC and he said, “I'm here because to me this is the most
+                    important thing that is happening in Nigeria today.” Well I felt that something
+                    had changed, that there was something in the relationship with the United States
+                    that the Nigerians felt was important. We were able to touch a felt need on
+                    their part and to create an institution which in a non-aid sense could help,
+                    support, encourage, facilitate what they needed. This was a private technical
+                    assistance program, rather than taking over and clearing large acres of land for
+                    American farmers, it was a body that could help private Americans help Nigerians
+                    raise the seed they need and to provide the inputs for Nigerians. This made
+                    sense and they I think responded to it. When I left the U.S. was in the process
+                    of setting up four JACCs in four other countries of the world. It has since been
+                    privatized and the JACC as far as I know is still in existence. I think it is
+                    important to figure out ways of institutionalizing help for private cooperation.
+                    In the developing world it's very hard for Americans in private life to compete
+                    with the Japanese and the Koreans and the Europeans without some kind of an
+                    institutional framework that can nurture, support, encourage and facilitate
+                    these kinds of things. The relationship between these countries and the U.S.
+                    shouldn't have to operate in an entirely concessional assistance framework.
+                    There may be other ways of doing it but I think we were moving in the right
+                    direction. I was interested that shortly after I left Nigeria, Assistant
+                    Secretary Crocker in a speech in New York to the Council on Foreign Relations
+                    said that our relations with Nigeria was a model of the kind of relations that
+                    we wanted with other countries in Africa.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>
+                    <hi rend="italics">Q: Nigeria was the centerpiece of our African policy at that
+                        time if I remember correctly? Is there a difference in operating in a
+                        country of that kind than in a Zambia the mediation aspect aside?</hi>
+                </p>
+                <p>LOW: Well you know I'm not sure that's the way I would describe our African
+                    policy. I think that we put great importance on our relations with Nigeria, and
+                    they were important out of all proportion to anything else in pure self-interest
+                    terms. Nigeria was a significant trading partner and it represented nearly a
+                    quarter of the population of black Africa. In that sense it was important and I
+                    think we were willing to make the efforts to pay attention to it. However, the
+                    stage was still set in Southern Africa. That was where the dynamic of our
+                    African position was acted out. I think that as far as I was concerned
+                    personally the Zambian experience was exciting because it involved the President
+                    and the Secretary of State and U.S. interests more than Nigeria did. We listened
+                    to Nigeria in a sense but I don't think that the Nigerian views had a major
+                    impact on American views as I think some in the Senate believed they had. It is
+                    different and in this sense it is much like Brazil. A friend of mine, Mike
+                    Samuels, had mentioned to me that the relationship between Brazil and the United
+                    States in South America is not different from the United States and Nigeria in
+                    Africa. They are both very important to us but still the political dynamic was
+                    being acted out elsewhere—in Central American or South Africa.</p>
+                <p>
+                    <hi rend="italics">Q: It's been, people have often observed that Africa is the
+                        least important continent in our relationships and yet you served a lot and
+                        worked a lot in Africa. Is there, do you want to comment on that situation?
+                        Should we be paying more attention to Africa? Is there a certain way of
+                        operating in the field within the continent that is objectively least
+                        important? Are things different there than in the means of operation? Is
+                        there something to correct?</hi>
+                </p>
+                <p>LOW: I think we've got it about right. It's a little bit like when you go to a
+                    new post and you have to call on all your diplomatic colleagues. Obviously your
+                    important contacts are with our close allies and our major competitors. Without
+                    any doubt it is the Soviet Ambassador, the Chinese, British, the French, and the
+                    Japanese - these are the most important. However, you ignore or down play others
+                    at your peril. If you don't go out of your way and spend a disproportionate
+                    amount of your time in calling on every single one of your colleagues your
+                    position in the Diplomatic Corps is affected. If you do what you need to do,
+                    with the whole world, then you are stronger everywhere. There is something
+                    involved with this in our relationships with the third world. Clearly the amount
+                    of effort and attention that we give is disproportionate to the gross national
+                    product, to the amount of international trade, to the impact. If you want to
+                    balance it on the basis of those quantitative factors you are going to be in
+                    trouble.</p>
+                <pb facs="0019" n="Page0019"/>
+                <p>We all know that the Fire Department's budget in Westchester County is greater
+                    than that of many of the independent countries of Africa, but that isn't an
+                    indication of the effort and attention that you have to spend with them. Without
+                    any doubt your ability to handle those relationships smoothly and maturely and
+                    effectively contributes a great deal to your relations with the Soviet Union,
+                    and China, and our allies. We have to pay more attention than our quantitative
+                    interests might indicate.</p>
+                <p>
+                    <hi rend="italics">Q: One other general question. You commented, I guess about
+                        five years ago, that “The United States is condemned to mediate many of the
+                        problems in the third world.” I think was the way that you phrased it, which
+                        I thought was very good. You were reflecting beyond your experience in
+                        Zimbabwe - Rhodesia, Zimbabwe then. Do you still feel that and do you think
+                        this has particular effects on the way we should be operating and will have
+                        to be operating in the future?</hi>
+                </p>
+                <p>LOW: I do, very strongly, at least as long as we want to cast ourselves as a
+                    major player on the international scene. Were we to withdraw and envision our
+                    international relations role as less active and more of a bystander then it
+                    wouldn't be so necessary. As long as we want to play a major role and as long as
+                    we see ourselves as a major protagonist vis a vis our friends and our
+                    competitors than I think that we have to recognize this. We are a factor in
+                    every dispute measured by our projection of authority. Each country will use our
+                    presence or our absence as a lever in its dispute with its neighbor or rival. We
+                    will be accused of influencing the situation by our presence or by our absence.
+                    Of course South Africa is an example, the war in the western Sahara would be
+                    another. Anywhere where those countries with which we have friendly relations
+                    are involved, we are a major factor in the dispute and we cannot ignore that we
+                    play a role in it. I think that our experience and our expertise is such that we
+                    can play a constructive roles in these, but we have to do it in a mature and in
+                    an experienced and trained way. In South Africa for instance, I think that's a
+                    good example. Every black African is absolutely convinced that South African
+                    apartheid continues to exist because of American support. You and I know that's
+                    not really very accurate; that the amount of American involvement is very small;
+                    that if we were to cut off all contact with South Africa tomorrow, it wouldn't
+                    make that much difference. They would certainly not abandon their policies. But
+                    the Africans will continue to believe that apartheid could not exist as long as
+                    we have a relationship because that is the only way that they can influence the
+                    situation there. They cannot directly influence South Africa. The only way they
+                    can influence South Africa is by putting pressure on us because they know we are
+                    somewhat sensitive to pressure, and therefore they will put pressure on us to
+                    play a role. We can ignore that and we can recognize that for what it is; an
+                    attempt to gain their ends through their leverage on us, and we can say “We are
+                    not going to play that game. We don't want to have anything to do with it.”
+                    That's fine. But if we do so, then we lose significant leverage and significant
+                    influence with black Africa.</p>
+                <pb facs="0020" n="Page0020"/>
+                <p>Our whole position of authority depends on our ability to use the leverage that
+                    we have, the little leverage we have - but use it skillfully. We don't have that
+                    much, we know that. “Concentric circles” and everything else. We just don't have
+                    in real life that amount of leverage, but there are moments when we can play
+                    what little we have effectively. I think we did so in Rhodesia, I think that
+                    sanctions are an example of something that is terribly misunderstood. Sanctions
+                    are both more important and less important than most people think. Sanctions in
+                    South Africa are never going to affect, economically, the situation there. But
+                    psychologically they play a major role. The same was true in Rhodesia. The
+                    Rhodesians were not seriously hurt economically by the sanctions but they played
+                    a role. If the price of tobacco Rhodesia received was 3 cents or 5 cents less
+                    than it might have been had there not been sanctions that was not insignificant.
+                    It wasn't going to change the course of events, but a moment came when Smith had
+                    to move in one direction or another. He made a desperate effort by coming to
+                    this country with Muzorewa, Chirau, Sithole and the others to play for the
+                    American support. At that moment the existence of sanctions was a pivot point in
+                    the whole situation. I think one of the most dramatic moments without question
+                    was when Congressman Solarz got the House African subcommittee, and then the
+                    Foreign Affairs Committee to unanimously oppose the Senate resolution - the
+                    Case-Javits amendment. (I guess actually the Case Javits amendment was passed,
+                    this was another resolution to lift sanctions.) The unanimous action of the
+                    House was so important that the conference committee couldn't pass the Senate
+                    bill. As I say, it marked the end of that attempt by Smith. It was an enormously
+                    significant moment in history. Some of us like to think that we played a role,
+                    but I think that action by Congressman Solarz was enormously influential in the
+                    whole thing. So, I think we in the U.S. do play a role. More importantly we have
+                    to continue, not to mediate every dispute, but to recognize that the United
+                    States' position is very important to “combatants”; that for the most part each
+                    of the combatants considers that we have much more leverage than we do, and
+                    that's to our advantage with his opponent. This is a measure by them of our
+                    influence and they see us as a means by which to gain their own end
+                    diplomatically. Each side sees that and that gives us; that imbues us with
+                    significant international authority. Similarly, the West sees us in this role,
+                    so that this is a major source of world influence. The significant thing about
+                    this is that it is a useful one, it is a constructive one. If we can play that
+                    role, and play it effectively we not only add to our own influence, but we add
+                    in a very constructive way to the progress of events in a non-violent direction.
+                    This is what I think we should be doing.</p>
+                <p>
+                    <hi rend="italics">Q: You were saying that there are moments; I think you said
+                        specifically, when we can do things. You were also saying that we should
+                        keep on doing things as you were doing yourself during the Young - Owen
+                        period of cooperation. I understand that you are saying both things; that
+                        there are times when one can make a significant jump as it were, but also in
+                        between those times one should be attempting to deal with problems and
+                        position one's self for further mediation?</hi>
+                </p>
+                <pb facs="0021" n="Page0021"/>
+                <p>LOW: There's no question that you can't make a general rule that we should offer
+                    to mediate every dispute. One of the missions that I was a member of was the
+                    Cledwyn Hughes Mission; a fascinating mission in November - December of 1978
+                    when we came to the conclusion that there was nothing further that we, meaning
+                    the British and Americans, could do. We had to say that. And I think it was very
+                    important to say that; say that until things changed there was no contribution
+                    that we could make. Still the fact of doing that kept open the whole negotiation
+                    process. Every dispute is unique in itself and you have to pick and choose, but
+                    in Africa the Rhodesian, the Namibian -South African question is simply too
+                    important not to be involved in. If we don't exercise our position, if we opted
+                    out we cease being a major element in African affairs. Now that's all right.
+                    That's not impossible. We can do that. We have to recognize what that says about
+                    how we view ourselves internationally. Since the second world war the United
+                    States has viewed itself as a major actor on the scene, we call ourselves the
+                    world's number one power and we act as thought we are. We see ourselves, I
+                    believe, as a nation, as the principal opponent to Soviet expansion. We see
+                    ourselves as a major factor in that. If we want to continue seeing ourselves in
+                    that way then we can't say, “Well, we are not going to have anything to do with
+                    these major areas.” We have to act that way. I don't think it costs a lot of
+                    money, it takes a lot of training, a lot of skill, a lot of thought, and a lot
+                    of the effort of our principal leaders because you can't deal with these things
+                    at my level. I was able to play a role because Cy Vance was interested and Jimmy
+                    Carter was interested, and David Owen was interested and Jim Callaghan was
+                    interested. Because that was the level at which it was being pursued. You can't
+                    do that all over the world, but still if you pick and choose and if you decide -
+                    if you pick the significant areas of dispute in the world, the United States has
+                    a major contribution to make, I think. The extraordinary thing is that after all
+                    the mistakes, after all the starts and stops, we are still viewed with an
+                    extraordinary degree of respect. Our ability to act positively when properly led
+                    is highly regarded.</p>
+                <p>
+                    <hi rend="italics">Q: You've been saying “if,” I suspect more than rhetorically.
+                        Recently you made a statement about isolation and the dangers of that which
+                        you see at this time. You feel that's a real if, that this is a choice to be
+                        made?</hi>
+                </p>
+                <pb facs="0022" n="Page0022"/>
+                <p>LOW: I think so. I think that an American public which is not led, which is not
+                    shown a vision and a path will not be willing to make the sacrifices that are
+                    necessary to play the role that it would like to play. The choices have to be
+                    pointed out to it and they are not obvious. Secretary Shultz has described the
+                    present moment as a return to isolationism because of the resources which are
+                    being denied the international diplomatic, non-military side of things. And I
+                    think that he feels that this is a turning back into ourselves. I think there is
+                    something to be said for this argument. His and our effort is an effort to be
+                    part of an international community, but an international community of states
+                    which recognizes negotiation as the normal means of dealing with each other. If
+                    we see ourselves as acting militarily and unilaterally and unwilling to
+                    contribute in fairly important ways in the non-military side of our relations,
+                    then we are making a choice. We are making a choice not to play the role on the
+                    international stage that we have played for the last four years. Maybe that's
+                    the direction we are going. I guess we will have to see. Certainly it would be a
+                    major change in directions from those we've been following.</p>
+                <p>
+                    <hi rend="italics">Q: The last position you had was as Director of the Foreign
+                        Service Institute and maybe we could talk a little about that. How did you
+                        see what kind of challenge did you find in the FSI Directorship? What did
+                        you try to do?</hi>
+                </p>
+                <pb facs="0023" n="Page0023"/>
+                <p>LOW: That's interesting because it was so different from all the others. I think
+                    it was Larry Eagleburger who described in an article in the Washington Post
+                    “Parade” section his experience as Ambassador to Yugoslavia, saying that, “You
+                    can preside over relations between two countries for a period of time but
+                    nothing really changes.” You may - you really are presiding over a period of
+                    time, or you are playing a role - you are participating in a period of time.
+                    Maybe relations get a little better, maybe they get a little worse, maybe U.S.
+                    national interests are improved, maybe they suffer. But the change is a
+                    relatively subtle one. A job like this one here at FSI is very different. Here
+                    you are building institutions and it's completely different. You may have an
+                    opportunity to play a role in an institution that changes it fundamentally, and
+                    that's kind of a fun thing to do. I think that I came here at a time when our
+                    society was changing. And I don't know that the change is completed, I think
+                    that it is just beginning. The role of training as opposed to education is just
+                    redefining itself. Training is now a forty billion dollar industry in the United
+                    States. Its a much bigger industry than the education industry, or at least I
+                    think it is. I think that it rivals the education industry. Well when you
+                    consider the amount of training that the United States armed forces, that the
+                    major companies are making, it's absolutely gigantic. FSI is about a thirty
+                    million dollar enterprise if you were to count everything and it's small. But it
+                    is still not that small compared to other institutions. The need of a complex
+                    modern society to produce skilled people is now a cooperative venture between
+                    the educational institutions and the training institutions. We take educated
+                    people into the Foreign Service and we give them skills at the Foreign Service
+                    Institute. I came at a time when I think our society is recognizing this. I
+                    didn't have to go up to the Hill for the first two or three years to fight for
+                    our budget, it was automatic. There is a general recognition in our society that
+                    training is crucial. We've been cut back in the last year or so a little bit,
+                    but we still have a major training function here and I think it will weather
+                    this period. So it was a most interesting time and I enjoyed it thoroughly.</p>
+                <p>
+                    <hi rend="italics">Q: What do you see as your biggest accomplishment?</hi>
+                </p>
+                <pb facs="0024" n="Page0024"/>
+                <p>LOW: Well, I think of FSI as a very important meeting place between the private
+                    community and public affairs. I think that it is much more than a training
+                    institution in terms of a place to transfer a certain amount of knowledge from
+                    one group to another group. It had to have, it seemed to me, some kind of a
+                    research and study function. So the first thing we did was to create something
+                    called the Center for the Study of Foreign Affairs and that's going on now, it
+                    does twenty or thirty symposia a year. It has, I think, become a recognized
+                    forum in which the private community and the public community can consult
+                    together and consider the principle issues of foreign affairs. I think people
+                    are comfortable from both sides in this kind of a context, and I think its
+                    terribly important to keep this kind of information going back and forth. Its
+                    important to the functioning of the Foreign Service Institute because the
+                    students here need to be assured that when they come here, they are not being
+                    put out to pasture; that they are not just being put aside. They need to think
+                    that when they are here they're not only learning, but they are on the forefront
+                    of what's happening in the world; that if they are studying Russian then they
+                    are meeting some of our best scholars on the subject, that they are
+                    participating in something. That's what gives it excitement and interest. The
+                    language instructors, and the area studies instructors, and the professional
+                    school instructors have to think that they are involved in the front line of
+                    thought, and of change in the training and education area. So I think that the
+                    Center did a lot to bring FSI around.</p>
+                <p>Then the second thing was, of course, the decision to try and move for the first
+                    time to a permanent location. Training in the State Department began in 1826
+                    when we started to teach Berber, Arabic, and Turkish. We added a few languages
+                    toward the end of the century. I think we began to teach Chinese and so forth
+                    and then early in this century we began to teach some of the professional
+                    subjects: consular affairs, accounting and this kind of thing. Then in 1924 the
+                    Foreign Service Institute was created as the Foreign Service School by Congress,
+                    and in 1946 as the Foreign Service Institute. So we've had many, many years of
+                    experience. Even with the 1980 act, the idea was that we continue in our rented
+                    quarters. When I started in the Foreign Service in 1956, FSI was in an apartment
+                    building across the street from the Department, where it had moved from some
+                    tempos on the Mall, and then it was in the garage of Arlington Towers. Then it
+                    came here to Key Boulevard in Rosslyn. These are just two or three office
+                    buildings which are unsuited for educational purposes. The elevators don't work,
+                    and the restrooms can't hold the capacity, and the ceilings are all hollow and
+                    the noise goes from one class room to another. It's very unsatisfactory. I think
+                    it says to the professionals in foreign affairs, “you aren't really important,”
+                    “your society doesn't consider your training very important.”</p>
+                <pb facs="0025" n="Page0025"/>
+                <p>So when they came to me one day and said they were going to move us to another
+                    office building, I said, “Not me, maybe my successor, but not me. I don't want
+                    to go to another office building, I think it would be a step back.” They said
+                    “Well find something else for yourself.” So we went out and we looked around and
+                    we came across by luck something that everybody else had said was not available,
+                    an Army base - Arlington Hall Station run by Syncan just up the road here. The
+                    story at that time was that it was going to revert to Arlington County. That was
+                    supposed to be in the will or something of the kind. And it took us six months
+                    to find out what the real story was. It was unbelievable, just to get the
+                    information was very difficult. We did and it developed that Arlington County
+                    really would like to have it back for a golf course, but it recognized that the
+                    United States government owned it and it wasn't about to give it to anybody for
+                    a golf course. Therefore the Arlington County officials; and I credit the
+                    administrative officer at FSI, Frank Ravndal, for this. He just walked over and
+                    asked them, “What do you think?”, and they said “We think it's just hunky-dory,
+                    it's terrific getting FSI here, that's the best thing short of having a golf
+                    course we can think of.” Then I mentioned this to Ron Spiers who had just come
+                    in as Under secretary for Management and he called me in one day and
+                    off-handedly said that he wanted me to know that he had made his primary work
+                    goal, which he had sent to the Secretary, to get a new location for FSI. We had
+                    help from the Hill, the House Foreign Affairs Committee, Ginny Schlundt had put
+                    it in a recommendation, I guess the last report of the Zablocki Committee, that
+                    FSI should find itself an appropriate campus and that helped because we could
+                    always claim that we were doing what the Congress wanted us to do. Very shortly
+                    we began to hear that the Secretary was interested and he called me in one day
+                    and he said that he wanted me to do it, that was his instruction. He wanted to
+                    see it done and he would ask Ed Derwinski the Counselor, to do what he could to
+                    help - or maybe it was to see that it was done. We then had to get the Army
+                    aboard and with Ed's help we were able to get the Foreign Affairs Committee to
+                    intervene with the House Military Affairs Committee and point out that this army
+                    base there was really in bad shape. The staff of the Armed Services Committee
+                    went out to it for the first time to see it and saw that these were temporaries
+                    that were built during the War, and they were an awful sight and were appalled
+                    by it. The Army had given up on their attempts to stay there. The County wasn't
+                    going to let them modernize the place. And so they were willing to go somewhere
+                    else. When they saw that we could help them, they then came to our support. We
+                    had lots of luck and some obstacles. Senator Paul Trible was elected and
+                    appointed right at that crucial moment to the Foreign Relations Committee and he
+                    was interested in seeing this project through. Just at the moment when we had to
+                    get the legislation through the Senate, he was able to help us out there, and
+                    Senator Warner was able to help us in the Senate Armed Service Committee. Then
+                    we got our biggest support from Congressman Frank Wolf whose constituency it is
+                    in, and who decided that this would be very helpful to Northern Virginia. So we
+                    began to build a constituency in the Congress which is very difficult to do in
+                    Foreign Affairs, but this was a real constituency. We had some very close calls.
+                    The story is too long to repeat all the details. We needed two pieces of
+                    legislation, one was the Foreign Affairs Authorization bill which permitted us
+                    to look for and to build. It gave us $61 million dollars authorization for that
+                    purpose. The other was the Armed Services Bill which transferred Arlington Hall
+                    Station to the State Department upon the removal of the army. At one point one
+                    of the committees just inserted the words “if the Army turned over”, and that
+                    simply just threw the whole thing out the window.</p>
+                <pb facs="0026" n="Page0026"/>
+                <p>We got it passed in the House and it was only a last minute switch in the
+                    Conference Committee which Senator Warner was able to accomplish that the perils
+                    of Pauline were all over. We had to stay with it every second, and really we
+                    didn't get a lot of help with it from the Department. It was too busy with its
+                    own business. But Ed Derwinski and I with the strong support of the Secretary
+                    whenever it was needed, and of course Ron Spiers were able to get these two
+                    pieces of legislation in 1985. We then had an architectural engineering
+                    competition and picked one of the world's leading architects. it was “blind”
+                    because we didn't know who he was, we just liked his design. I think we were off
+                    to a pretty good start. We've got a lot of problems still to go, but I think
+                    it's caught the imagination of a lot of people. We have the land, we have a
+                    design, and it was a very exciting thing to be involved in.</p>
+                <p>
+                    <hi rend="italics">Q: Then you asked, this is a monologue, I'm sorry.</hi>
+                </p>
+                <pb facs="0027" n="Page0027"/>
+                <p>LOW: The third thing was to establish a private foundation, called the
+                    Association for Diplomatic Studies which I think is sponsoring this interview
+                    and which is to be a repository for private funds to supplement what the
+                    government gives us to run training in diplomatic affairs. This will help
+                    establish, I hope, a library of significance in research on current Foreign
+                    Affairs where people can leave their papers, and where scholars can come to find
+                    out where current papers are available in the country. It will be a library of
+                    first resort where people can come and read papers in government files and get
+                    some sympathetic assistance. It will be a place where the record of two-hundred
+                    years of diplomacy can be displayed. We currently have no place in the United
+                    States, that I'm aware of, that is devoted to a display of our diplomatic
+                    history where there are the statues of the men, or the evidence of the people
+                    and the events and the pictures of our diplomatic history. People will be able
+                    to visit as they visit West Point or other places, and they will come and see
+                    and be reminded of the fact that we have a rather proud diplomatic history that
+                    we can look at with some satisfaction. Third, our organization can help
+                    supplement the academic input by supplying sabbaticals - topping off sabbaticals
+                    so that leading academicians can come and spend a little time here doing
+                    research and teaching. We have never given a degree, I felt very strongly that
+                    FSI should not give a degree, although there are quite a number of who felt we
+                    should. I've always believed that it is not an educational institution, that if
+                    we became another graduate school we would just be number 273, and we should be
+                    number one. In our field and as a training institution, I think we are as good
+                    as any there are and probably better in languages. In some other professional
+                    studies and teachings - very good. I think we should keep that and if we became
+                    another graduate school, we would have to diversify our efforts to be first
+                    class in fields chosen by others. I think it can help, the Association can help
+                    a great deal to make the new campus not just another training center, but a
+                    center of focus for American diplomacy. It can help build that constituency that
+                    we always complain that we don't have; a constituency of Americans who recognize
+                    that we've played a role in the world and that we can feel some pride in that. I
+                    think it could play a significant role and that organization is beginning now, I
+                    think it's very ably lead by Dick Parker and Gene Bovis. I think it has now got
+                    a fairly significant financial basis and a constituency that recognizes what it
+                    can do and is off doing oral histories, working on the library, and working on
+                    collecting the mementos of our diplomatic history, I think it's a very important
+                    thing.</p>
+                <p>
+                    <hi rend="italics">Q: One of the big questions within that whole subject area is
+                        how much the skills that the diplomats have built up are transmissible and
+                        can be taught? You've written about your experience in conceptual terms,
+                        you've been talking about your experiences here, of course you've headed an
+                        institution that is dedicated in part to transmitting things. At what levels
+                        can skills be transmitted or taught and what are the limitations on
+                        that?</hi>
+                </p>
+                <pb facs="0028" n="Page0028"/>
+                <p>LOW: Well, that's a terribly important and difficult issue and I'm not sure that
+                    I come down with great confidence on one side or the other. Clearly, there are
+                    skills that are recognized that we can teach: language, area studies, and
+                    professional subjects. We can teach somebody how to issue a visa and we have to.
+                    There is no substitute, nobody else can teach someone how to issue an American
+                    visa except the Foreign Service Institute. There are these things then that I
+                    think we can teach, and we are the only people who can teach them. Whether you
+                    can transfer experience in negotiation, that this can be taught, I'm really not
+                    certain. Of course, there is the United States Institute of Peace which feels
+                    very strongly that these things can be taught. I believe that dealing with a
+                    dispute must be essentially based on the substance of the dispute. The
+                    techniques are more difficult to teach. Perhaps we can work out simulations (and
+                    increasingly we are teaching adults through simulation, through case studies and
+                    this kind of thing) that will bring them to a level of sophistication earlier in
+                    their career than they might otherwise be. I think we need to do a great deal
+                    more experimentation in this area but I certainly think that we can play a role.
+                    Secretary Shultz has many times said that, “It is the inquiring mind, that makes
+                    the difference.” It is the attitude one brings. Professional development in my
+                    view means continued learning and intellectual development from on the job
+                    learning, from formal training, and from self-education; those three areas. On
+                    the job learning is probably two-thirds of it, we used to think it was one
+                    hundred percent. We're now recognizing that formal training can play more of a
+                    role. But there is a limit to how much formal training can do. It can provide
+                    certain skills. But it can do more than it has done in the past, and
+                    self-education can also do more. The important thing that we can do, I think, is
+                    to broaden the sense of participation in the mind of a government employee. The
+                    American Foreign Service is large and I think some of our people see themselves
+                    as too specialized. I think that what the Foreign Service Institute has to do
+                    much more than it has in the past, to create responsible generalists.</p>
+                <pb facs="0029" n="Page0029"/>
+                <p>This is what education has done, and I guess it has to play the role of
+                    reeducation. We can go one of two ways. We can send our people back to school -
+                    back to universities and we should do that, and we do do that; so that they can
+                    be effective generalists. Lately we've done it less because of our funding
+                    shortages. I think that we can play more of a role of helping officers to resist
+                    becoming too specialized. Officers in the Foreign Service and in Government must
+                    be able to see United States Foreign Policy in its broadest context. They must
+                    be able to talk intelligently on Central America, on South Africa, on
+                    Afghanistan, if they are going to represent us effectively abroad. To a great
+                    degree we have become large enough so that people take refuge in a specialty. “I
+                    only know consular affairs with Mexico, I can't talk about something else.” Our
+                    effectiveness abroad is severely limited by this attitude. This institute must
+                    do more to break down that conception of the job. It must constantly make people
+                    feel comfortable with broader issues. In that I don't think we've done enough. I
+                    didn't do enough. It is very difficult to do enough. We need a little more money
+                    than we have because it's in a sense peripheral. It's not teaching a recognized
+                    needed skill like Spanish. We obviously can't send someone to Bogota unless they
+                    speak Spanish. You can send somebody to Bogota if they don't know anything about
+                    South America but you lose. We have a very able Foreign Service of intelligent,
+                    dedicated people. I think there is a danger that next to the Brazilians and
+                    other diplomats who come from much smaller services where they are able to
+                    dispute and to discuss world issues, we have a disadvantage. We are not
+                    performing at our best and this is what the Institute's got to devote, I think,
+                    a little more time to in the future.</p>
+                <p>
+                    <hi rend="italics">Q: Thank you very much.</hi>
+                </p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

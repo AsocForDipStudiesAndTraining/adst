@@ -1,193 +1,510 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib000628">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Ridgway B. Knight </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2006</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Ridgway B. Knight </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2006</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress </p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2006-02-01"/>
                 <change type="rev" when="2006-02-01"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>AMBASSADOR RIDGWAY B. KNIGHT</p>
-<p>Interviewed by:  Kirstin Hamblin </p>
-<p>Initial interview date:  October 23, 1993</p>
-<p>Copyright 1998 ADST</p>
-<p>
-<hi rend="italics">Q:  This is an interview with Ambassador Ridgway B. Knight on behalf of the Association for Diplomatic Studies.  Today is October 23, 1993, and I am Kirstin Hamblin.  Ambassador Knight, I'd like to begin with a little bit about your background, such as where you were born, where you were educated, and the types of subjects that you studied in school?</hi>
-</p>
-<p>KNIGHT:  Well, I was born in Paris, of American parents.  I went back to New York City very young, went to school in New York until I was about nine years old, came back to France where my father liked to paint.  He was a well-known landscape painter as well as was my grandfather Ridgway Knight.  So I went to secondary school here, and I obtained my two baccalaureates in Paris, then I went back to the Harvard Business School from where I graduated in 1931.</p>
-<p>
-<hi rend="italics">Q:  What chain of events led you to join the Foreign Service?</hi>
-</p>
-<p>KNIGHT:  It's a very, very long story because I was always interested in foreign affairs but when I came out of business school, I felt that I didn't have the financial resources to lead an interesting, and successful Foreign Service life.  Because in those days the Foreign Service was not what it is today.  In fact, you could not get along on your salary.  One had none of the allowances and special facilities such as help for educating one's children, housing allowances, commissaries, etc...  So I decided to go into business and make some money.  With great luck I was able to do so and thus to constitute a small nest egg which, in due course, did a great deal to make my Foreign Service career more pleasant.  In partnership with a friend we bought out an old family firm of wine merchants after the repeal of Prohibition, Bellows and Company, which went back to 1830.  Several years later we had made it into one of the foremost importing firms of wines and spirits in America.  However, my partner, Frederick S. Wildman and I were deeply interested in the European situation and both of us believed that France and England's war against Nazi Germany was our war as well.  Having decided to participate in the war effort, we sold our firm to National Distillers.</p>
-<pb facs="0002" n="Page0002"/>
-<p>Looking back on what I did, it may sound a little crazy to-day.  I was married and the father of three fine small boys.  However, and fortunately, my wife's financial situation was adequate and I felt a compelling duty to do what I could personally.</p>
-<p>Reasoning that the first branch of the service to be engaged would be the Air Force, I learned how to fly and presented myself at the Air Force's downtown recruiting office in New York...only to be laughed at!  Indeed, it turned out that I was quite color-blind, something which I had never suspected.  Thinking that the next outfit to see active duty would be the Marines, I went to Governor's Island where I was turned down for the same reason, plus a trick knee dating back to schoolboy athletics.  However, the Marine officer who had interviewed me was kind enough to add that he liked my spirit and that he might be able to get me a commission for limited duty, such as recruiting.  Clearly, that was not the kind of involvement I was after.</p>
-<p>Somehow my two applications, plus one to the Navy Department, found their way to the State Department, which was working on an intelligence mission to French North Africa, together with the War and Navy Departments.  Much has been written about this operation, commonly referred to as the “Murphy Mission”.  In a few words, President Roosevelt, with his global view of world affairs, had realized as soon as the WWII had started, that French North Africa provided an excellent launching platform for a possible attack against Southern Europe.  He had inquired what intelligence we had on the area and it turned out that we did not even have the telephone books of the major cities!  So, very much under F.D.R.'s personal direction, Robert D. Murphy, then Counselor of Embassy in Vichy, had negotiated an agreement in Algiers with General Maxime Weygand, the Vichy Government's “pro-consul” for all of French North Africa.  On the one hand, the United States would provide certain civilian goods, essential for keeping the native populations quiet; such as sugar, green tea, powdered coffee, flour and cotton cloth - to clothe the living and bury the dead - and a very small quantity of POL products.  On the other hand, the French would accept 12 “Vice-Consuls and Technical Advisers” to supervise the handling of these products to make certain that they would not find their way across the Mediterranean, where they might fall into German hands.  Of course, this was a cover for our real mission, i.e. the gathering of intelligence.</p>
-<p>Well, as time passed, and once we had come into the war, our intelligence work turned into the preparation of a possible landing.  We worked very actively with local elements who were opposed to the Germans.  And I think that our efforts resulted in minimal resistance when finally the Americans, and British in American uniforms, landed on November 8th, 1942.</p>
-<pb facs="0003" n="Page0003"/>
-<p>You asked me how I came into the Foreign Service, that wasn't the reason.  Actually, after the North African landings I went into the Army, and after landing in Italy at Salerno, seeing duty on the Anzio beachhead and working as liaison officer between General Clark commanding the Fifth Army, and General Juin commanding the French Expositionary Corps, I was, as a favor, assigned to an outfit which was to land in southern France on August 15, 1944.  Strange as it may seem, that is how I came into the Foreign Service!  As we made our way up through southern France, politically interested as I was, I wrote a memorandum on political conditions as I observed them.  By a miracle of efficiency, which I'm sure has not been often repeated, my memo was amongst the papers given to Ambassador Caffery when he took his plane in October of 1944 to join his post in Paris.  My paper happened to be the only paper written on conditions south of the Loire, and he said, “I want that Major on my staff.” And that is how I came into the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  And so you were then?</hi>
-</p>
-<p>KNIGHT:  Then I became a special assistant to the Ambassador, and also of his successor Ambassador David Bruce until I went back to Washington in January of '50.  Finally, in 1946, I was integrated into the Foreign Service as a Class 4 officer under the Manpower Act.</p>
-<p>
-<hi rend="italics">Q:  And what specifically did you do as special assistant to both of these ambassadors?</hi>
-</p>
-<p>KNIGHT:  I had two titles, I was special assistant to the Ambassador, and I was a full-fledged member of the Political Section.  I was responsible for dealing with several of the French political parties, and I reported on the French colonies.</p>
-<p>
-<hi rend="italics">Q:  What sort of involvement did you have in post World War II negotiations?</hi>
-</p>
-<p>KNIGHT:  I was one of the two American Commissioners handling the rectification of the Franco-Italian border.  The other one was Freddie Reinhardt.</p>
-<p>
-<hi rend="italics">Q:  We can go on to the next question.  After Paris, you went back to Washington and you were the Deputy Director of European Regional Affairs.</hi>
-</p>
-<p>KNIGHT:  Yes, I was Deputy Director for European Regional Affairs which handled NATO, the budding European movement, in other words what we would today call multinational diplomacy.  After two years, I was for one year Deputy Director of Western European Affairs, and then for a second year, Director of Western European Affairs.</p>
-<p>
-<pb facs="0004" n="Page0004"/>
-<hi rend="italics">Q:  What exactly did you do in this job?  I mean as far as running the office...</hi>
-</p>
-<p>KNIGHT:  I don't understand the question.</p>
-<p>
-<hi rend="italics">Q:  You were Director of the program, I mean you managed the office and...</hi>
-</p>
-<p>KNIGHT:  No, as a desk officer...you handle the entire relationship with the countries you are responsible for.  It's so broad that it's a little difficult to answer.  I would say that we follow carefully the developments, political and economic, I would say all kinds, consular as well as anything else in the area of your responsibility.  I'm talking about Western Europe, this was my field.  You also formulate recommendations as to what should be our policy toward these areas.  You also give instructions to embassies as to how they should conduct themselves on this, or on that.  It's so very broad, it's the whole life of the country that you're dealing with of an area.</p>
-<p>
-<hi rend="italics">Q:  What major events did you have to deal with during that time being director.</hi>
-</p>
-<p>KNIGHT:  Again, it's so extraordinarily broad.  From the point of view of the first job, European Regional Affairs, I would say that...it was also political-military, not just regional, but political-military.  As a matter of fact, it's amusing to think that that area which was condensed in one office then, is now handled by a couple of Assistant Secretaries of State.  I would say the main development that claimed my attention, was the development of NATO which was still a very fledgling and new organization.  And another problem which took up a good deal of time, was French Indochina, and the French war in Indochina, which is all but forgotten.  At that time we helped the French as much as we could with arms, and economic assistance.</p>
-<p>If I refer to the two following 1952 and 1953 years, I would say that NATO continued to be very important because most of my client states were members of NATO.  And also Indochina wasn't finished, so I would say that continued.  Another broad area which took up a good deal of time was the budding European movement.  Even though I was rather junior in those days, I did participate in a number of conversations and discussions as to where our interest lay.  Was it to our advantage to have a united Europe, which would be a powerful political body which could help us militarily, vis-a-vis the Soviet threat, and more generally share a part of our worldwide burden?  Or should commercial disadvantages take precedence?  Because we were sure that a united Europe would be a much more dangerous competitor for the United States.  At that time it was decided that the political advantages, and the military advantages of having a strong Europe which would help us assume our world responsibilities, and contain the Soviet Union should take precedence.  I can only observe somewhat wryly that our optimism at the moment was, I'm afraid a little bit exaggerated.  Indeed, while the economic threat has developed, we have not yet derived any of the political and military benefits which we had hoped for.</p>
-<pb facs="0005" n="Page0005"/>
-<p>
-<hi rend="italics">Q:  At that time how did you deal with the threat of communism?  I mean in what specific ways were you working against that in western Europe?</hi>
-</p>
-<p>KNIGHT:  Well, that's a matter of public knowledge.  It was building up the NATO forces which would be powerful enough to contain a Soviet attack, and therefore to deter it.  I'm glad to say that it worked out.  We did deter aggression.  We also fostered the economic rebirth of Western Europe which was just as important in dealing with the Soviet threat.</p>
-<p>
-<hi rend="italics">Q:  After this in 1955, you became the political adviser to...</hi>
-</p>
-<p>KNIGHT:  We're jumping from '54 to '65?</p>
-<p>
-<hi rend="italics">Q:  No, no.  This was 1955—Deputy Assistant High Commissioner for Germany.</hi>
-</p>
-<p>KNIGHT:  Well, responsibility for Berlin.  Mr. Dulles had the idea that it would encourage the Berliners to think that we were returning to normalcy should the number one American in Berlin be a civilian, instead of the General commanding the garrison.  Well, it took me about three weeks after arriving in Berlin to discover that the only real concern of the Berliners was the Russian threat.  They were only interested in the protection of our armed forces, and Mr. Dulles' brilliant idea was a non-starter.  Hence I recommended that the position be abolished, that we revert to the preceding situation, i.e. the American General, being the number one American in Berlin.  This took about a year.  Anyhow, the position was also to disappear with the end of the occupation status.  That time coincided with the entrance of Germany into NATO in 1955.  General Gruenther, who was Supreme Allied Commander Europe, asked for me as his political advisor, in part because I had worked for him in Italy during the war.  So I was lucky enough to be named to that position.  I was Political Advisor to General Gruenther for a year and a half, and to his successor, General Norstad, for another year and a half.</p>
-<p>Then at that time I was sent to Pakistan as number two, as Minister Counselor, which was my only unhappy job in the Foreign Service.</p>
-<p>
-<hi rend="italics">Q:  Why was that?</hi>
-</p>
-<pb facs="0006" n="Page0006"/>
-<p>KNIGHT:  Well because I happened to disagree with U.S. policy.  I happened to feel that the Pakistanis were taking us to the cleaners.  The entire aid which we were giving them was being used for developing NATO type, military formations—which could only be used against India, which was not an enemy of the United States.  The Pakistani war effort was not going into developing mountain brigades, the type of units which could be used against the Soviet Union, which was our concern.  But when I made these views known to the Secretary of Defense visiting Pakistan, they were not particularly welcomed.</p>
-<p>Another aspect of my tour in Pakistan which made it my only unhappy experience in the Foreign Service, is that I had to deal with extensive black marketing going on in the U.S. Mission to Pakistan, and in which the military were very prominent.  And it had to be stopped and I was told so in the Department when leaving Washington.  The military were cashing in the local rupees into dollars at the official rate, including the Commanding General of the outfit, General Truman.  When I refused continuing to do so I became persona non grata from the Pentagon.  That nearly ended my career.  Fortunately, luck was on my side.</p>
-<p>
-<hi rend="italics">Q:  What happened?</hi>
-</p>
-<p>KNIGHT:  I was named to a non-job at the White House, Deputy Director of the Operations Coordinating Board.  It was an outfit created under President Eisenhower.  The idea was to take the decisions of the National Security Council, and translate these into detailed directives which would govern the operations of the various governmental Departments in Washington.  On paper it's fine, but no Secretary of Defense, or Secretary of the Treasury, is going to be governed by a piece of paper coming out of such a junior body.  At least it gave me a perch, shall I say, of something that looks not too bad on your curriculum vitae.</p>
-<p>
-<hi rend="italics">Q:  So after that you were sent to Syria.</hi>
-</p>
-<p>KNIGHT:  That was where luck came in.</p>
-<p>
-<hi rend="italics">Q:  How did it come in?</hi>
-</p>
-<p>KNIGHT:  Well, at that time Syria was an explosive place.  It seemed to be not a particularly good assignment.  It was part of the United Arab Republic, and not many people wanted it.  When I was asked if I wanted to go to Damascus, I said, “With pleasure.” And eight months later Syria broke away.  As a matter of fact, if I accepted with such alacrity, it was because I believed that the United Arab Republic was not going to last very long.  I had no other insight except my own opinion.  So don't ask me how I knew.  So I went in October of '60, and in September of '61 Syria broke away, and I was fortunate enough to be named Ambassador.</p>
-<pb facs="0007" n="Page0007"/>
-<p>
-<hi rend="italics">Q:  Did you have a hard time dealing and negotiating for the United States with Syria at that time because they had such a turbulent government?</hi>
-</p>
-<p>KNIGHT:  Well, I don't know that it was a hard time, but I had a successful time.  Because after my five years in Syria...I forget the name of the award, but it's the State Department's top award, Assistant Secretary Talbot made the comment that at no time during my years in Syria had I needed any instructions from the Department.</p>
-<p>
-<hi rend="italics">Q:  I have one more question about that.  Did our relationship with Israel affect our relationship with Syria?</hi>
-</p>
-<p>KNIGHT:  What's that?</p>
-<p>
-<hi rend="italics">Q:  Did the United States' relation with Israel...</hi>
-</p>
-<p>KNIGHT:  Of course.  That's the heart of the problem.</p>
-<p>
-<hi rend="italics">Q:  So that was what made it difficult?  After Syria...</hi>
-</p>
-<p>KNIGHT:  That's the heart of the problem.  You know perfectly well that the creation of Israel, and our relationship with Israel, has been...it isn't the only one, but it's been at the heart of an explosive situation in the Middle East ever since.  I survived only because I'm the first one to know that the Arabs are so intensely individualistic that even without Israel you can be pretty sure that we have some kind of turmoil in the Arab world.  Of course, the interesting thing about the assignment to Syria, and to any Arab country, is the challenge, it's the difficulty of the problem.  Because on the one side you have a depth of feeling on the part of the Arabs which is very difficult to appreciate for one who has not lived there.  It's cockeyed, it's unjustified, but it's there.  And this is one of the reasons why I never felt that the Arab-Israeli problem can be solved by a single piece of paper, by a nice neat plan.  The Arab-Israeli problem can only be solved by time, step by step, little by little, preventing explosions, and I think that with time this is what's happening now.  Arafat's position, and the recent initiative leading to the Gaza-Jericho suggestion is not going to solve the whole problem.  It's the result of the fact that when we made the proposal, Arafat had no other place else to go, he'd used all his other cards, all his other weapons.  He had to try this peace line.  It's a great step forward, and I welcome it, but it is only a step toward better relations.  But once again I repeat, I don't think the Arab-Israeli problem is going to be solved by any single plan, or one piece of paper.  It's still going to take a lot of time to work out.</p>
-<pb facs="0008" n="Page0008"/>
-<p>
-<hi rend="italics">Q:  After Syria, you went to Belgium.  This was in 1965.</hi>
-</p>
-<p>KNIGHT:  Yes.  Belgium was very peaceful after Damascus.  I forgot to say that during my stay in Damascus, I went through four revolutions, and if I count all the changes in governments, in those five years, I had dealt with sixteen different governments.  So, as I say, Belgium was very peaceful.  But I did have two major problems to deal with during my four years in Brussels.  One was the expulsion of NATO from France by General de Gaulle, and helping convince the Belgians to accept NATO as an institution in their country.  The Belgians were very happy to welcome the civilian institutions of NATO.  But the Belgians are internationally timid, being such a small country.  Even though they're no longer neutral, the spirit of neutrality is still in the country up to a point.  They feel that to live happily, if you live a little hidden and out of the limelight, it's much better.  Therefore they were most reluctant to accept the military headquarters.  And it required a certain amount of cajoling to induce them to do so, but it was done in a friendly spirit.  At a farewell official dinner when I left Belgium, Foreign Minister Harwell stressed that at no time had I sought to twist their arm, or to use the might of United States to intimidate them.  The transfer was successful.  As you know the NATO military headquarters are just near Mons alongside the French frontier.  I might point out, just as far away from Brussels as they could possibly locate.</p>
-<p>The other major problem I had to deal with was an uprising against the central government in Zaire, the old Belgian Congo.  And as you know, there are many, many Belgian residents in Zaire.  I recommended to Washington that we help the Belgians with air transport planes to get them out.  I have a recollection of one of my friends from the Department coming out to see me in Brussels and saying, “Ridgway, we're going to accept your recommendation.  But if something goes wrong, there has to be a scapegoat, and you know who its got to be.” As a matter of fact, I think that's all right.  I think that if you're in a policy job, in a policy making job, I think it's quite right that you rise or fall by the policy recommendations.  Some of my Foreign Service colleagues think that they should have the right to make foreign policy recommendations, but be held blameless afterwards.</p>
-<p>
-<hi rend="italics">Q:  Were you happy with your time in Belgium?  You certainly accomplished a lot.</hi>
-</p>
-<p>KNIGHT:  I was happy.  Speaking particularly of my next assignment in Portugal, the people say, “You must have loved it, the beaches are so fine.” People forget that most of us in the Foreign Service go into it for the work to be done, and for the challenges to be overcome.  I know very few of them who go into it, excepting non-professional people, for the lush side of the career.  The social whirl is quite secondary.  That's why from the point of view of the professional challenge, I was more stimulated by my assignment to Syria, than I was by any other.</p>
-<pb facs="0009" n="Page0009"/>
-<p>
-<hi rend="italics">Q:  How was Portugal?</hi>
-</p>
-<p>KNIGHT:  Portugal, I was very fond of.  The Portuguese are a very strange people.  They're not at all Mediterranean.  They're rather dour.  There's a quality of sincerity about the Portuguese that I like.  They take a long time to know, and they take a long time to know you.  But when they do they're very faithful friends.  There I had four interesting, as well as pleasant, years.  You better ask me about my main problems.</p>
-<p>The ongoing challenges, of course, were the African colonial wars in Angola and Mozambique.  There isn't much you can do in such a situation.  Of course we did what we could.  We tried to encourage the Portuguese towards a peaceful solution of the problem.  During my stay there I went down on two long...</p>
-<p>I visited all the local provincial capitals in both colonies.  The truth is usually between the extremes.  On the one hand I was able to appreciate the work which the Portuguese had done and also appreciate their exaggeration thereof in their propaganda.  But I must say that when you look at the condition of those colonies now, and I have visited Angola since independence, they were heaven compared to what they are today.  I say that because, for example, of their claim that blacks and whites were treated equally.  But I visited enough factories, and I spoke with enough people, to be quite sure the blacks were being paid considerably less than the whites were for the same work.  But this did not interfere with the fact that there were many local blacks who identified themselves with Portugal.  It was not perfect, but on the whole pretty good.  I would say somewhat better than the relations between the French and the indigenous African tribes.  But that's ancient history now.</p>
-<p>The other challenge which I had to deal with was renegotiating the Azores base agreement.  We had been there for years without an agreement, on sufferance.  I was fortunate enough to be able to negotiate an agreement.  Now we send down a special negotiator from Washington to handle such things.  The Department was satisfied at that time to let the local ambassador handle it.  Fortunately in this case he was able to handle it successfully.</p>
-<p>
-<hi rend="italics">Q:  Is there anything else about your ambassadorship to Portugal?</hi>
-</p>
-<p>KNIGHT:  Oh, I might recount an amusing incident.</p>
-<p>
-<hi rend="italics">Q:  That would be great.</hi>
-</p>
-<pb facs="0010" n="Page0010"/>
-<p>KNIGHT:  I forget what the issue was, but I was instructed by the Department to make a foreign policy point, publicly.  It happened that I was going up to make a speech in Oporto.  It was a significant local event, and in my speech, which was quite serious, I made the points which I'd been instructed to make by the State Department.  However, in the introduction, I said, “I belong to a wine-loving family, and since the age of fifteen I have appreciated vintage port.” Well somewhat to my chagrin, the papers the next morning barely mentioned the policy point I'd made, but they all stressed that the American Ambassador appreciated vintage port since he was...”</p>
-<p>
-<hi rend="italics">Q:  Oh, no.  Why you'd think they'd take into account that you were born in Paris.  I guess not.  How did your diplomatic career end after your ambassadorship?</hi>
-</p>
-<p>KNIGHT:  Well, I'd had three embassies, and two quasi-ambassadorial jobs, and the only embassy that interested me was Paris.  And the day that Paris went to someone else, I resigned.  I was asked by my old friend David Rockefeller to take on a new job, that of Director of International Relations of the Chase Manhattan Bank.  I thought that this was more interesting than taking on another embassy.</p>
-<p>
-<hi rend="italics">Q:  Do you have anything in your career that you consider to be your greatest accomplishment?</hi>
-</p>
-<p>KNIGHT:  Those things are for others to judge.  What's been written up most is the secret conference between General Clark, and four members of his staff, who came by submarine to meet with some of the resistance leaders near Algiers.  The word was not used then, now its become fashionable.  The meeting was with the key people with whom we were working and took place three weeks before the landings in North Africa.  It happened that Ambassador Murphy had asked me to organize the meeting.  It nearly became a catastrophe when the Vichy police got wind that something was going on, and a section of Vichy troops closed in on us in a farm house along the coast.  There was a lot of difficult moments getting our visitors out safely.  This episode has been written up a lot.  It's not the most important, but the most spectacular.</p>
-<p>
-<hi rend="italics">Q:  Ambassador Knight, do you have anything that you consider to be your greatest frustration, or disappointment, with your diplomatic life?</hi>
-</p>
-<pb facs="0011" n="Page0011"/>
-<p>KNIGHT:  No, I was very lucky.  I was very fortunate.  I think I can only tell you what I told a couple of Senators who were visiting me at one of my posts.  One of them said, “Ambassador Knight, what can we do to help the Foreign Service?” And I said, “I think the best thing you can do is to leave it alone for ten years.” I think the Service suffers with these constant reorganizations.  And I think there is a non-recognition, the quality of any race, any color, and any religion.  But I'm completely against making mandatory the admission of certain fixed percentages.  I think it's just as stupid as if the Ford Motor Car Company said its sales force would have to be composed of a fixed percentage of all its workers from the sweepers on the shop floor to the top office.  I'm for taking in people of quality, with character, and of any and all races of the best people.  Not because they're white, or wasps, black, yellow, Hispanic.  I know this is not the mood of the day, but I feel very strongly about it.  We need our very best people to sell our country, and to represent it abroad.</p>
-<p>This must be said, I'm one of the lucky ones, I never suffered from this.</p>
-<p>
-<hi rend="italics">Q:  Well, in retrospect, what do you think of your life now?</hi>
-</p>
-<p>KNIGHT:  I loved my years in the Foreign Service, and I still miss them.  My wife says, “If you were asked to go back to Syria tomorrow, you'd go like a shot.” And I think it's so.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>The Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>AMBASSADOR RIDGWAY B. KNIGHT</p>
+                <p>Interviewed by: Kirstin Hamblin </p>
+                <p>Initial interview date: October 23, 1993</p>
+                <p>Copyright 1998 ADST</p>
+                <p>
+                    <hi rend="italics">Q: This is an interview with Ambassador Ridgway B. Knight on
+                        behalf of the Association for Diplomatic Studies. Today is October 23, 1993,
+                        and I am Kirstin Hamblin. Ambassador Knight, I'd like to begin with a little
+                        bit about your background, such as where you were born, where you were
+                        educated, and the types of subjects that you studied in school?</hi>
+                </p>
+                <p>KNIGHT: Well, I was born in Paris, of American parents. I went back to New York
+                    City very young, went to school in New York until I was about nine years old,
+                    came back to France where my father liked to paint. He was a well-known
+                    landscape painter as well as was my grandfather Ridgway Knight. So I went to
+                    secondary school here, and I obtained my two baccalaureates in Paris, then I
+                    went back to the Harvard Business School from where I graduated in 1931.</p>
+                <p>
+                    <hi rend="italics">Q: What chain of events led you to join the Foreign
+                        Service?</hi>
+                </p>
+                <p>KNIGHT: It's a very, very long story because I was always interested in foreign
+                    affairs but when I came out of business school, I felt that I didn't have the
+                    financial resources to lead an interesting, and successful Foreign Service life.
+                    Because in those days the Foreign Service was not what it is today. In fact, you
+                    could not get along on your salary. One had none of the allowances and special
+                    facilities such as help for educating one's children, housing allowances,
+                    commissaries, etc... So I decided to go into business and make some money. With
+                    great luck I was able to do so and thus to constitute a small nest egg which, in
+                    due course, did a great deal to make my Foreign Service career more pleasant. In
+                    partnership with a friend we bought out an old family firm of wine merchants
+                    after the repeal of Prohibition, Bellows and Company, which went back to 1830.
+                    Several years later we had made it into one of the foremost importing firms of
+                    wines and spirits in America. However, my partner, Frederick S. Wildman and I
+                    were deeply interested in the European situation and both of us believed that
+                    France and England's war against Nazi Germany was our war as well. Having
+                    decided to participate in the war effort, we sold our firm to National
+                    Distillers.</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>Looking back on what I did, it may sound a little crazy to-day. I was married and
+                    the father of three fine small boys. However, and fortunately, my wife's
+                    financial situation was adequate and I felt a compelling duty to do what I could
+                    personally.</p>
+                <p>Reasoning that the first branch of the service to be engaged would be the Air
+                    Force, I learned how to fly and presented myself at the Air Force's downtown
+                    recruiting office in New York...only to be laughed at! Indeed, it turned out
+                    that I was quite color-blind, something which I had never suspected. Thinking
+                    that the next outfit to see active duty would be the Marines, I went to
+                    Governor's Island where I was turned down for the same reason, plus a trick knee
+                    dating back to schoolboy athletics. However, the Marine officer who had
+                    interviewed me was kind enough to add that he liked my spirit and that he might
+                    be able to get me a commission for limited duty, such as recruiting. Clearly,
+                    that was not the kind of involvement I was after.</p>
+                <p>Somehow my two applications, plus one to the Navy Department, found their way to
+                    the State Department, which was working on an intelligence mission to French
+                    North Africa, together with the War and Navy Departments. Much has been written
+                    about this operation, commonly referred to as the “Murphy Mission”. In a few
+                    words, President Roosevelt, with his global view of world affairs, had realized
+                    as soon as the WWII had started, that French North Africa provided an excellent
+                    launching platform for a possible attack against Southern Europe. He had
+                    inquired what intelligence we had on the area and it turned out that we did not
+                    even have the telephone books of the major cities! So, very much under F.D.R.'s
+                    personal direction, Robert D. Murphy, then Counselor of Embassy in Vichy, had
+                    negotiated an agreement in Algiers with General Maxime Weygand, the Vichy
+                    Government's “pro-consul” for all of French North Africa. On the one hand, the
+                    United States would provide certain civilian goods, essential for keeping the
+                    native populations quiet; such as sugar, green tea, powdered coffee, flour and
+                    cotton cloth - to clothe the living and bury the dead - and a very small
+                    quantity of POL products. On the other hand, the French would accept 12
+                    “Vice-Consuls and Technical Advisers” to supervise the handling of these
+                    products to make certain that they would not find their way across the
+                    Mediterranean, where they might fall into German hands. Of course, this was a
+                    cover for our real mission, i.e. the gathering of intelligence.</p>
+                <p>Well, as time passed, and once we had come into the war, our intelligence work
+                    turned into the preparation of a possible landing. We worked very actively with
+                    local elements who were opposed to the Germans. And I think that our efforts
+                    resulted in minimal resistance when finally the Americans, and British in
+                    American uniforms, landed on November 8th, 1942.</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>You asked me how I came into the Foreign Service, that wasn't the reason.
+                    Actually, after the North African landings I went into the Army, and after
+                    landing in Italy at Salerno, seeing duty on the Anzio beachhead and working as
+                    liaison officer between General Clark commanding the Fifth Army, and General
+                    Juin commanding the French Expositionary Corps, I was, as a favor, assigned to
+                    an outfit which was to land in southern France on August 15, 1944. Strange as it
+                    may seem, that is how I came into the Foreign Service! As we made our way up
+                    through southern France, politically interested as I was, I wrote a memorandum
+                    on political conditions as I observed them. By a miracle of efficiency, which
+                    I'm sure has not been often repeated, my memo was amongst the papers given to
+                    Ambassador Caffery when he took his plane in October of 1944 to join his post in
+                    Paris. My paper happened to be the only paper written on conditions south of the
+                    Loire, and he said, “I want that Major on my staff.” And that is how I came into
+                    the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: And so you were then?</hi>
+                </p>
+                <p>KNIGHT: Then I became a special assistant to the Ambassador, and also of his
+                    successor Ambassador David Bruce until I went back to Washington in January of
+                    '50. Finally, in 1946, I was integrated into the Foreign Service as a Class 4
+                    officer under the Manpower Act.</p>
+                <p>
+                    <hi rend="italics">Q: And what specifically did you do as special assistant to
+                        both of these ambassadors?</hi>
+                </p>
+                <p>KNIGHT: I had two titles, I was special assistant to the Ambassador, and I was a
+                    full-fledged member of the Political Section. I was responsible for dealing with
+                    several of the French political parties, and I reported on the French
+                    colonies.</p>
+                <p>
+                    <hi rend="italics">Q: What sort of involvement did you have in post World War II
+                        negotiations?</hi>
+                </p>
+                <p>KNIGHT: I was one of the two American Commissioners handling the rectification of
+                    the Franco-Italian border. The other one was Freddie Reinhardt.</p>
+                <p>
+                    <hi rend="italics">Q: We can go on to the next question. After Paris, you went
+                        back to Washington and you were the Deputy Director of European Regional
+                        Affairs.</hi>
+                </p>
+                <p>KNIGHT: Yes, I was Deputy Director for European Regional Affairs which handled
+                    NATO, the budding European movement, in other words what we would today call
+                    multinational diplomacy. After two years, I was for one year Deputy Director of
+                    Western European Affairs, and then for a second year, Director of Western
+                    European Affairs.</p>
+                <p>
+                    <pb facs="0004" n="Page0004"/>
+                    <hi rend="italics">Q: What exactly did you do in this job? I mean as far as
+                        running the office...</hi>
+                </p>
+                <p>KNIGHT: I don't understand the question.</p>
+                <p>
+                    <hi rend="italics">Q: You were Director of the program, I mean you managed the
+                        office and...</hi>
+                </p>
+                <p>KNIGHT: No, as a desk officer...you handle the entire relationship with the
+                    countries you are responsible for. It's so broad that it's a little difficult to
+                    answer. I would say that we follow carefully the developments, political and
+                    economic, I would say all kinds, consular as well as anything else in the area
+                    of your responsibility. I'm talking about Western Europe, this was my field. You
+                    also formulate recommendations as to what should be our policy toward these
+                    areas. You also give instructions to embassies as to how they should conduct
+                    themselves on this, or on that. It's so very broad, it's the whole life of the
+                    country that you're dealing with of an area.</p>
+                <p>
+                    <hi rend="italics">Q: What major events did you have to deal with during that
+                        time being director.</hi>
+                </p>
+                <p>KNIGHT: Again, it's so extraordinarily broad. From the point of view of the first
+                    job, European Regional Affairs, I would say that...it was also
+                    political-military, not just regional, but political-military. As a matter of
+                    fact, it's amusing to think that that area which was condensed in one office
+                    then, is now handled by a couple of Assistant Secretaries of State. I would say
+                    the main development that claimed my attention, was the development of NATO
+                    which was still a very fledgling and new organization. And another problem which
+                    took up a good deal of time, was French Indochina, and the French war in
+                    Indochina, which is all but forgotten. At that time we helped the French as much
+                    as we could with arms, and economic assistance.</p>
+                <p>If I refer to the two following 1952 and 1953 years, I would say that NATO
+                    continued to be very important because most of my client states were members of
+                    NATO. And also Indochina wasn't finished, so I would say that continued. Another
+                    broad area which took up a good deal of time was the budding European movement.
+                    Even though I was rather junior in those days, I did participate in a number of
+                    conversations and discussions as to where our interest lay. Was it to our
+                    advantage to have a united Europe, which would be a powerful political body
+                    which could help us militarily, vis-a-vis the Soviet threat, and more generally
+                    share a part of our worldwide burden? Or should commercial disadvantages take
+                    precedence? Because we were sure that a united Europe would be a much more
+                    dangerous competitor for the United States. At that time it was decided that the
+                    political advantages, and the military advantages of having a strong Europe
+                    which would help us assume our world responsibilities, and contain the Soviet
+                    Union should take precedence. I can only observe somewhat wryly that our
+                    optimism at the moment was, I'm afraid a little bit exaggerated. Indeed, while
+                    the economic threat has developed, we have not yet derived any of the political
+                    and military benefits which we had hoped for.</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>
+                    <hi rend="italics">Q: At that time how did you deal with the threat of
+                        communism? I mean in what specific ways were you working against that in
+                        western Europe?</hi>
+                </p>
+                <p>KNIGHT: Well, that's a matter of public knowledge. It was building up the NATO
+                    forces which would be powerful enough to contain a Soviet attack, and therefore
+                    to deter it. I'm glad to say that it worked out. We did deter aggression. We
+                    also fostered the economic rebirth of Western Europe which was just as important
+                    in dealing with the Soviet threat.</p>
+                <p>
+                    <hi rend="italics">Q: After this in 1955, you became the political adviser
+                        to...</hi>
+                </p>
+                <p>KNIGHT: We're jumping from '54 to '65?</p>
+                <p>
+                    <hi rend="italics">Q: No, no. This was 1955—Deputy Assistant High Commissioner
+                        for Germany.</hi>
+                </p>
+                <p>KNIGHT: Well, responsibility for Berlin. Mr. Dulles had the idea that it would
+                    encourage the Berliners to think that we were returning to normalcy should the
+                    number one American in Berlin be a civilian, instead of the General commanding
+                    the garrison. Well, it took me about three weeks after arriving in Berlin to
+                    discover that the only real concern of the Berliners was the Russian threat.
+                    They were only interested in the protection of our armed forces, and Mr. Dulles'
+                    brilliant idea was a non-starter. Hence I recommended that the position be
+                    abolished, that we revert to the preceding situation, i.e. the American General,
+                    being the number one American in Berlin. This took about a year. Anyhow, the
+                    position was also to disappear with the end of the occupation status. That time
+                    coincided with the entrance of Germany into NATO in 1955. General Gruenther, who
+                    was Supreme Allied Commander Europe, asked for me as his political advisor, in
+                    part because I had worked for him in Italy during the war. So I was lucky enough
+                    to be named to that position. I was Political Advisor to General Gruenther for a
+                    year and a half, and to his successor, General Norstad, for another year and a
+                    half.</p>
+                <p>Then at that time I was sent to Pakistan as number two, as Minister Counselor,
+                    which was my only unhappy job in the Foreign Service.</p>
+                <p>
+                    <hi rend="italics">Q: Why was that?</hi>
+                </p>
+                <pb facs="0006" n="Page0006"/>
+                <p>KNIGHT: Well because I happened to disagree with U.S. policy. I happened to feel
+                    that the Pakistanis were taking us to the cleaners. The entire aid which we were
+                    giving them was being used for developing NATO type, military formations—which
+                    could only be used against India, which was not an enemy of the United States.
+                    The Pakistani war effort was not going into developing mountain brigades, the
+                    type of units which could be used against the Soviet Union, which was our
+                    concern. But when I made these views known to the Secretary of Defense visiting
+                    Pakistan, they were not particularly welcomed.</p>
+                <p>Another aspect of my tour in Pakistan which made it my only unhappy experience in
+                    the Foreign Service, is that I had to deal with extensive black marketing going
+                    on in the U.S. Mission to Pakistan, and in which the military were very
+                    prominent. And it had to be stopped and I was told so in the Department when
+                    leaving Washington. The military were cashing in the local rupees into dollars
+                    at the official rate, including the Commanding General of the outfit, General
+                    Truman. When I refused continuing to do so I became persona non grata from the
+                    Pentagon. That nearly ended my career. Fortunately, luck was on my side.</p>
+                <p>
+                    <hi rend="italics">Q: What happened?</hi>
+                </p>
+                <p>KNIGHT: I was named to a non-job at the White House, Deputy Director of the
+                    Operations Coordinating Board. It was an outfit created under President
+                    Eisenhower. The idea was to take the decisions of the National Security Council,
+                    and translate these into detailed directives which would govern the operations
+                    of the various governmental Departments in Washington. On paper it's fine, but
+                    no Secretary of Defense, or Secretary of the Treasury, is going to be governed
+                    by a piece of paper coming out of such a junior body. At least it gave me a
+                    perch, shall I say, of something that looks not too bad on your curriculum
+                    vitae.</p>
+                <p>
+                    <hi rend="italics">Q: So after that you were sent to Syria.</hi>
+                </p>
+                <p>KNIGHT: That was where luck came in.</p>
+                <p>
+                    <hi rend="italics">Q: How did it come in?</hi>
+                </p>
+                <p>KNIGHT: Well, at that time Syria was an explosive place. It seemed to be not a
+                    particularly good assignment. It was part of the United Arab Republic, and not
+                    many people wanted it. When I was asked if I wanted to go to Damascus, I said,
+                    “With pleasure.” And eight months later Syria broke away. As a matter of fact,
+                    if I accepted with such alacrity, it was because I believed that the United Arab
+                    Republic was not going to last very long. I had no other insight except my own
+                    opinion. So don't ask me how I knew. So I went in October of '60, and in
+                    September of '61 Syria broke away, and I was fortunate enough to be named
+                    Ambassador.</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>
+                    <hi rend="italics">Q: Did you have a hard time dealing and negotiating for the
+                        United States with Syria at that time because they had such a turbulent
+                        government?</hi>
+                </p>
+                <p>KNIGHT: Well, I don't know that it was a hard time, but I had a successful time.
+                    Because after my five years in Syria...I forget the name of the award, but it's
+                    the State Department's top award, Assistant Secretary Talbot made the comment
+                    that at no time during my years in Syria had I needed any instructions from the
+                    Department.</p>
+                <p>
+                    <hi rend="italics">Q: I have one more question about that. Did our relationship
+                        with Israel affect our relationship with Syria?</hi>
+                </p>
+                <p>KNIGHT: What's that?</p>
+                <p>
+                    <hi rend="italics">Q: Did the United States' relation with Israel...</hi>
+                </p>
+                <p>KNIGHT: Of course. That's the heart of the problem.</p>
+                <p>
+                    <hi rend="italics">Q: So that was what made it difficult? After Syria...</hi>
+                </p>
+                <p>KNIGHT: That's the heart of the problem. You know perfectly well that the
+                    creation of Israel, and our relationship with Israel, has been...it isn't the
+                    only one, but it's been at the heart of an explosive situation in the Middle
+                    East ever since. I survived only because I'm the first one to know that the
+                    Arabs are so intensely individualistic that even without Israel you can be
+                    pretty sure that we have some kind of turmoil in the Arab world. Of course, the
+                    interesting thing about the assignment to Syria, and to any Arab country, is the
+                    challenge, it's the difficulty of the problem. Because on the one side you have
+                    a depth of feeling on the part of the Arabs which is very difficult to
+                    appreciate for one who has not lived there. It's cockeyed, it's unjustified, but
+                    it's there. And this is one of the reasons why I never felt that the
+                    Arab-Israeli problem can be solved by a single piece of paper, by a nice neat
+                    plan. The Arab-Israeli problem can only be solved by time, step by step, little
+                    by little, preventing explosions, and I think that with time this is what's
+                    happening now. Arafat's position, and the recent initiative leading to the
+                    Gaza-Jericho suggestion is not going to solve the whole problem. It's the result
+                    of the fact that when we made the proposal, Arafat had no other place else to
+                    go, he'd used all his other cards, all his other weapons. He had to try this
+                    peace line. It's a great step forward, and I welcome it, but it is only a step
+                    toward better relations. But once again I repeat, I don't think the Arab-Israeli
+                    problem is going to be solved by any single plan, or one piece of paper. It's
+                    still going to take a lot of time to work out.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>
+                    <hi rend="italics">Q: After Syria, you went to Belgium. This was in 1965.</hi>
+                </p>
+                <p>KNIGHT: Yes. Belgium was very peaceful after Damascus. I forgot to say that
+                    during my stay in Damascus, I went through four revolutions, and if I count all
+                    the changes in governments, in those five years, I had dealt with sixteen
+                    different governments. So, as I say, Belgium was very peaceful. But I did have
+                    two major problems to deal with during my four years in Brussels. One was the
+                    expulsion of NATO from France by General de Gaulle, and helping convince the
+                    Belgians to accept NATO as an institution in their country. The Belgians were
+                    very happy to welcome the civilian institutions of NATO. But the Belgians are
+                    internationally timid, being such a small country. Even though they're no longer
+                    neutral, the spirit of neutrality is still in the country up to a point. They
+                    feel that to live happily, if you live a little hidden and out of the limelight,
+                    it's much better. Therefore they were most reluctant to accept the military
+                    headquarters. And it required a certain amount of cajoling to induce them to do
+                    so, but it was done in a friendly spirit. At a farewell official dinner when I
+                    left Belgium, Foreign Minister Harwell stressed that at no time had I sought to
+                    twist their arm, or to use the might of United States to intimidate them. The
+                    transfer was successful. As you know the NATO military headquarters are just
+                    near Mons alongside the French frontier. I might point out, just as far away
+                    from Brussels as they could possibly locate.</p>
+                <p>The other major problem I had to deal with was an uprising against the central
+                    government in Zaire, the old Belgian Congo. And as you know, there are many,
+                    many Belgian residents in Zaire. I recommended to Washington that we help the
+                    Belgians with air transport planes to get them out. I have a recollection of one
+                    of my friends from the Department coming out to see me in Brussels and saying,
+                    “Ridgway, we're going to accept your recommendation. But if something goes
+                    wrong, there has to be a scapegoat, and you know who its got to be.” As a matter
+                    of fact, I think that's all right. I think that if you're in a policy job, in a
+                    policy making job, I think it's quite right that you rise or fall by the policy
+                    recommendations. Some of my Foreign Service colleagues think that they should
+                    have the right to make foreign policy recommendations, but be held blameless
+                    afterwards.</p>
+                <p>
+                    <hi rend="italics">Q: Were you happy with your time in Belgium? You certainly
+                        accomplished a lot.</hi>
+                </p>
+                <p>KNIGHT: I was happy. Speaking particularly of my next assignment in Portugal, the
+                    people say, “You must have loved it, the beaches are so fine.” People forget
+                    that most of us in the Foreign Service go into it for the work to be done, and
+                    for the challenges to be overcome. I know very few of them who go into it,
+                    excepting non-professional people, for the lush side of the career. The social
+                    whirl is quite secondary. That's why from the point of view of the professional
+                    challenge, I was more stimulated by my assignment to Syria, than I was by any
+                    other.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>
+                    <hi rend="italics">Q: How was Portugal?</hi>
+                </p>
+                <p>KNIGHT: Portugal, I was very fond of. The Portuguese are a very strange people.
+                    They're not at all Mediterranean. They're rather dour. There's a quality of
+                    sincerity about the Portuguese that I like. They take a long time to know, and
+                    they take a long time to know you. But when they do they're very faithful
+                    friends. There I had four interesting, as well as pleasant, years. You better
+                    ask me about my main problems.</p>
+                <p>The ongoing challenges, of course, were the African colonial wars in Angola and
+                    Mozambique. There isn't much you can do in such a situation. Of course we did
+                    what we could. We tried to encourage the Portuguese towards a peaceful solution
+                    of the problem. During my stay there I went down on two long...</p>
+                <p>I visited all the local provincial capitals in both colonies. The truth is
+                    usually between the extremes. On the one hand I was able to appreciate the work
+                    which the Portuguese had done and also appreciate their exaggeration thereof in
+                    their propaganda. But I must say that when you look at the condition of those
+                    colonies now, and I have visited Angola since independence, they were heaven
+                    compared to what they are today. I say that because, for example, of their claim
+                    that blacks and whites were treated equally. But I visited enough factories, and
+                    I spoke with enough people, to be quite sure the blacks were being paid
+                    considerably less than the whites were for the same work. But this did not
+                    interfere with the fact that there were many local blacks who identified
+                    themselves with Portugal. It was not perfect, but on the whole pretty good. I
+                    would say somewhat better than the relations between the French and the
+                    indigenous African tribes. But that's ancient history now.</p>
+                <p>The other challenge which I had to deal with was renegotiating the Azores base
+                    agreement. We had been there for years without an agreement, on sufferance. I
+                    was fortunate enough to be able to negotiate an agreement. Now we send down a
+                    special negotiator from Washington to handle such things. The Department was
+                    satisfied at that time to let the local ambassador handle it. Fortunately in
+                    this case he was able to handle it successfully.</p>
+                <p>
+                    <hi rend="italics">Q: Is there anything else about your ambassadorship to
+                        Portugal?</hi>
+                </p>
+                <p>KNIGHT: Oh, I might recount an amusing incident.</p>
+                <p>
+                    <hi rend="italics">Q: That would be great.</hi>
+                </p>
+                <pb facs="0010" n="Page0010"/>
+                <p>KNIGHT: I forget what the issue was, but I was instructed by the Department to
+                    make a foreign policy point, publicly. It happened that I was going up to make a
+                    speech in Oporto. It was a significant local event, and in my speech, which was
+                    quite serious, I made the points which I'd been instructed to make by the State
+                    Department. However, in the introduction, I said, “I belong to a wine-loving
+                    family, and since the age of fifteen I have appreciated vintage port.” Well
+                    somewhat to my chagrin, the papers the next morning barely mentioned the policy
+                    point I'd made, but they all stressed that the American Ambassador appreciated
+                    vintage port since he was...”</p>
+                <p>
+                    <hi rend="italics">Q: Oh, no. Why you'd think they'd take into account that you
+                        were born in Paris. I guess not. How did your diplomatic career end after
+                        your ambassadorship?</hi>
+                </p>
+                <p>KNIGHT: Well, I'd had three embassies, and two quasi-ambassadorial jobs, and the
+                    only embassy that interested me was Paris. And the day that Paris went to
+                    someone else, I resigned. I was asked by my old friend David Rockefeller to take
+                    on a new job, that of Director of International Relations of the Chase Manhattan
+                    Bank. I thought that this was more interesting than taking on another
+                    embassy.</p>
+                <p>
+                    <hi rend="italics">Q: Do you have anything in your career that you consider to
+                        be your greatest accomplishment?</hi>
+                </p>
+                <p>KNIGHT: Those things are for others to judge. What's been written up most is the
+                    secret conference between General Clark, and four members of his staff, who came
+                    by submarine to meet with some of the resistance leaders near Algiers. The word
+                    was not used then, now its become fashionable. The meeting was with the key
+                    people with whom we were working and took place three weeks before the landings
+                    in North Africa. It happened that Ambassador Murphy had asked me to organize the
+                    meeting. It nearly became a catastrophe when the Vichy police got wind that
+                    something was going on, and a section of Vichy troops closed in on us in a farm
+                    house along the coast. There was a lot of difficult moments getting our visitors
+                    out safely. This episode has been written up a lot. It's not the most important,
+                    but the most spectacular.</p>
+                <p>
+                    <hi rend="italics">Q: Ambassador Knight, do you have anything that you consider
+                        to be your greatest frustration, or disappointment, with your diplomatic
+                        life?</hi>
+                </p>
+                <pb facs="0011" n="Page0011"/>
+                <p>KNIGHT: No, I was very lucky. I was very fortunate. I think I can only tell you
+                    what I told a couple of Senators who were visiting me at one of my posts. One of
+                    them said, “Ambassador Knight, what can we do to help the Foreign Service?” And
+                    I said, “I think the best thing you can do is to leave it alone for ten years.”
+                    I think the Service suffers with these constant reorganizations. And I think
+                    there is a non-recognition, the quality of any race, any color, and any
+                    religion. But I'm completely against making mandatory the admission of certain
+                    fixed percentages. I think it's just as stupid as if the Ford Motor Car Company
+                    said its sales force would have to be composed of a fixed percentage of all its
+                    workers from the sweepers on the shop floor to the top office. I'm for taking in
+                    people of quality, with character, and of any and all races of the best people.
+                    Not because they're white, or wasps, black, yellow, Hispanic. I know this is not
+                    the mood of the day, but I feel very strongly about it. We need our very best
+                    people to sell our country, and to represent it abroad.</p>
+                <p>This must be said, I'm one of the lucky ones, I never suffered from this.</p>
+                <p>
+                    <hi rend="italics">Q: Well, in retrospect, what do you think of your life
+                        now?</hi>
+                </p>
+                <p>KNIGHT: I loved my years in the Foreign Service, and I still miss them. My wife
+                    says, “If you were asked to go back to Syria tomorrow, you'd go like a shot.”
+                    And I think it's so.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>

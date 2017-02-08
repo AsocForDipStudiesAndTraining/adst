@@ -1,144 +1,737 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mfdipbib001522">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-
-<title type="interview">Interview with Dr. Robert R. Bowie </title>
-<title type="series">The Foreign Affairs Oral History Collection of the Association for Diplomatic Studies and Training</title>
-<respStmt>
-<resp>Selected and converted.</resp>
-<name>American Memory, Library of Congress</name>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<p>Washington, D.C., 2010</p>
-</publicationStmt>
-<sourceDesc>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="interview">Interview with Dr. Robert R. Bowie </title>
+                <title type="series">The Foreign Affairs Oral History Collection of the Association
+                    for Diplomatic Studies and Training</title>
+                <respStmt>
+                    <resp>Selected and converted.</resp>
+                    <name>American Memory, Library of Congress</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Washington, D.C., 2010</p>
+            </publicationStmt>
+            <sourceDesc>
                 <p type="lccn"/>
                 <p type="sourcecol">Manuscript Division, Library of Congress</p>
-                <p type="copyright">Copyright status not determined; refer to accompanying matter.</p>
+                <p type="copyright">Copyright status not determined; refer to accompanying
+                    matter.</p>
             </sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The Library of Congress makes digitized historical materials available for education and scholarship.</p>
-</projectDesc>
-<editorialDecl>
-<p>This transcription is intended to have an accuracy rate of 99.95 percent or greater.</p>
-</editorialDecl>
-
-
-</encodingDesc>
-<revisionDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The Library of Congress makes digitized historical materials available for
+                    education and scholarship.</p>
+            </projectDesc>
+            <editorialDecl>
+                <p>This transcription is intended to have an accuracy rate of 99.95 percent or
+                    greater.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <revisionDesc>
             <listChange>
                 <change type="encoding" when="2010-03-16"/>
                 <change type="rev" when="2010-03-16"/>
-                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from AMMEM2.DTD to basic TEI P5</change>
+                <change type="rev" when="2017-02-07" who="WicentowskiJC@state.gov">Migrate from
+                    AMMEM2.DTD to basic TEI P5</change>
             </listChange>
         </revisionDesc>
     </teiHeader>
-<text>
-<pb facs="0001" n="Page0001"/>
-<body>
-<div>
-<p>Association for Diplomatic Studies and Training Foreign Affairs Oral History Project</p>
-<p>DR. ROBERT R. BOWIE</p>
-<p>Interviewed by: Robert Gerald Livingston, Philipp Gassert, Richard Immerman,
-Paul Steege, Charles Stuart Kennedy and a public audience at the German Historical Institute, Washington, DC</p>
-<p>Initial interview date: February 19, 2008</p>
-<p>Copyright 2008 ADST</p>
-<p>Q-Gassert: Dr. Bowie, welcome to the Institute. My name is Philipp Gassert, and I'm the Deputy Director here. We're really pleased that this event worked out today. Thanks to Gerry for taking the initiative and bringing such an interesting panel together. We are not only in the business of studying history, but we also create history, for example, in oral history interviews, so we're really glad we can host this event. It is, I think, part of a long lineage and series of bringing in former decision-makers who have been involved in making history now in order to have a discussion, to have conversations, with historians who were studying past events. That's all I have to say. Most of us here know the institute and also know those who are presenting. We tried to keep this group small so that we would have more of the benefit of the taping for those who want to hear the questions of the historians. Without further ado, I would like then to turn over the panel to Gerry Livingston, and I would also like to thank you once again for taking the initiative and organizing this wonderful event.</p>
-<p>Q-Livingston: Pleasure, thank you, Philipp. Actually, this goes back, Bob, to a dinner you were at in the Fogg Museum at Harvard a few months ago at the fiftieth anniversary of the Center for International Affairs there, which Bob founded in 1958. And, Karl Kaiser was there and was very impressed with his conversation. Let me just very briefly, because we want to get started, introduce everybody at the table one after the other. In the middle is Charles Stuart Kennedy, Stu Kennedy, who is director of the Foreign Affairs Oral History Project, which we're linking up with here for the purpose of this discussion. He founded it twenty years ago, and he's interviewed, what, 200, 300 diplomats?</p>
-<p>Q-Kennedy: Oh, we've got about 1700 so far.</p>
-<p>Q-Livingston: 1700 diplomats!</p>
-<p>Q-Kennedy: ...so far. It's not just me. We have others doing it. But 1700...the first thousand are on the Internet.</p>
-<p>Q-Livingston: The project is archived at the Library of Congress. He was a diplomat himself for 30 years and served in Frankfurt and Dhahran and Saigon, Athens and Seoul, and I guess as a final nice gesture you served in Naples, right?</p>
-<pb facs="0002" n="Page0002"/>
-<p>Q-Kennedy: Just in time for an earthquake. (laughter)</p>
-<p>Q-Livingston: Good time at the end! (Pause) Then right to my immediate left is Bob Bowie, the star of today, and let me just quote. That's all I have to do is quote what Thomas Schwartz, who submitted some of the questions that are on the list you have, wrote in his book America's Germany about McCloy in Germany. This is a quote: “Razor-sharp mind and skill in negotiation made him, Bowie, McCloy's most important and influential advisor, especially in matters relating to European integration.” Bob comes from an old Maryland family and started as a lawyer in Baltimore, where we picked him up today, or just outside of Baltimore. Served in the army in the Pentagon and worked under General Lucius Clay there. 1945 to 46 he went with General Clay to Germany, then taught law at Harvard and, with a leave of absence from 1950 to 1952, went to serve in Germany with McCloy as legal advisor. Then he became director of the policy-planning staff in the Department of State under President Eisenhower from 1953 to 1957 succeeding Paul Nitze. Later, he became counselor of the State Department in the 1960s and Deputy Director of the Central Intelligence Agency from 1977 to 1979. Way on my left is a colleague of Bob's. Bob published three books, and among them was a book published in 2000 with Richard Immerman from Temple University on how Eisenhower shaped Cold War policy, the enduring Cold War policy. It's called Waging Peace: How Eisenhower Shaped an Enduring Cold War Strategy. Second from the left is Paul Steege of Villanova, an historian of Berlin in the postwar years. His most recent book is Black Market, Cold War: Everyday Life in Berlin, 19461949. It's just been published, and there was an event at the Woodrow Wilson Center that some of you may have been at a few days ago. I'm going to ask Stu to start with the very first question. This is all being taped. When we address Bob, please speak right at him, speak loudly, and if you don't speak loudly enough, I'll yell at him (laughter). So we hope after we go around with some introductory questions, we'll throw the floor open to your questions, and away we go. [To Kennedy]: Stu Kennedy.</p>
-<p>Q-Kennedy: Yes, it's nice to be back here after our last conversation, which was twenty years ago! Bob, talking about the time when you went out to Berlin for the first time with Clay: could you speak a little bit about how well you and your colleagues were prepared to deal with the immense problems of reconstructing Germany?</p>
-<pb facs="0003" n="Page0003"/>
-<p>BOWIE: Let me just say before I start that I'm as deaf as a post and I have a hard time hearing in a room like this, which has terrible echoes, and so I may have to ask for repetition. But anyway, I have this one. I would say that in terms of how well prepared we were for doing what the job was was nil (laughter). I had no background whatever with respect to Germany except having traveled there when I was an undergraduate in college, and I went abroad frequently in the summertime. I had traveled there then. But it did not in any way prepare me for any duties with respect to Germany. Really, Clay, if you looked at his record, had very few special qualifications for dealing with Germany. He didn't speak German, his wartime experience had been entirely in the Pentagon, in charge of the procurement for the war. He did spend just a few days, I think, on a special assignment in Germany, but that was about it. And he did not have any background that would specially have qualified him. So I would say that he made a point of getting some very excellent experts, especially from the academic world, who knew all about Germany, and he was one of the most intelligent, brightest men that I've ever worked with. We had all sorts of materials that had been prepared particularly by the British with respect to Germany, and certainly I studied those very hard just as soon as I knew I was coming to Germany, but this was really book-learning, and I think Clay also had done some of that sort of thing. But again, he had to learn on the job of what his assignment would be. But as I say, he was a man who really was one of the most impressive intellects. And he also thought very much strategically. So by the time he'd gotten there and surveyed the situation and had read 1067, he began to formulate in his own mind what his strategy would be and how he would try to achieve it. Gerry said I was an advisor to Clay. I was a personal assistant to Clay; I was not formally an advisor, but he was a man who was impressive in the sense that he was a general and I was a major, and what he wanted from an assistant was for you to speak up to him and tell him what you thought and argue with him. And he would argue back, just forget all about rank. It was just like a really intellectual talk, or real discussion, and he expected you to speak up and say what you thought. Of course, civilly, and with proper personal relationship. It was a wonderful assignment. There was one other man who was in the same role, and when something was on Clay's mind and he wanted to know more about it, he would give us an assignment and expect us to come back with a report of maybe 10 or 12, 15 pages. And he would read the report almost as fast as you could turn the pages and by the time he finished with it, he would turn to you and he'd ask the most penetrating questions about what you had said, and he would almost always hit the real point which was worth talking about. As I say, what he wanted you to do was to give and take. So it was a very satisfying kind of role.</p>
-<p>Q-Kennedy: All right. Thank you. I'm going to switch seats now and let you two gentlemen move over [to Steege and Immerman].</p>
-<p>Q-Livingston: So, Paul, why don't you move over, and we'll let you go on. And see if we, in this first phase, stay with General Clay, if we can. Richard, you want to move over a little closer? So pull the microphone close to you and also talk directly to Bob.</p>
-<pb facs="0004" n="Page0004"/>
-<p>Q-Steege: Well, first off, thank you very much for this opportunity. It's a real pleasure to be able to engage in this conversation with you. Building on this notion of Clay and Clay on the ground, as it were, in Germany, one of the things that really strikes me about your experiences is the ways in which you were going back and forth. So you were in Berlin in 1945 and 1946, then back in the States, in Germany from 1949 into the early 50s and then back in the United States. And I was wondering if you could talk a little bit about the different perspectives—how Berlin looked from Berlin; how Berlin and Germany looked from the United States. One foreign service veteran talked to me once about Clay and others—and particularly on lower levels within the military government in Germany—being afflicted by localitis—that they were too invested in the situation there and that things looked different to them than they did from the United States. So for you as somebody who was going back and forth, did the way in which Germany looked change? Did it look different in the United States? Was there a gap in terms of what people saw or understood from your perspective?</p>
-<pb facs="0005" n="Page0005"/>
-<p>BOWIE: Well, I'm not sure I can answer it well, but anyway. When you were in Germany at that time, right after the war, you found it hard to believe the degree of disorganization and destruction and chaos. You'd go out on the street, you'd see the rubble, and you were aware that there was no transportation, no communication, no mail, no telephone, and you drove up the Autobahn, the roadway was normally in place, but every time you got to a bridge it had been blown out. So you had to go down into the valley, come up again on very improvised roads, and similarly, whenever you came across a little town, it was being run by a small detachment of maybe four or five soldiers from the Bronx, some of whom had some German. But they were running the place, and they would mobilize enough of the talent in the town to be able to try to make things go to some degree. But bear in mind, the water supply had probably been broken by the bombing, there was no collection of the garbage, no sewage, and no government, of course, and so there was a real sense of chaos everywhere. I think probably back in Washington, they didn't have any very clear picture of this. The initial directive for the military government did not seem to reflect these conditions (Clay had no part in drafting it), and it was fairly draconian. It was nowhere near as bad as the Morgenthau Plan, which had been temporarily approved by Roosevelt and was really later described as the pasturalization of Germany, really wiping out the industrial base. But Stimson and others had said to Roosevelt, he just couldn't do that, and then they adopted 1067, which was intermediate. But even that was pretty draconian, and it called for no effort at reconstruction of Germany and nothing should be done in that direction except to prevent starvation, or such a degree of difficulty that it threatened the occupation itself. So anyway, in Germany, you were keenly aware of this situation as I described. The people in Washington, I think, had a hard time visualizing this, such that to some considerable degree, you had bifurcation. There were other complications regarding policy. One was the dual source of instructions. As Deputy Military Governor, Clay reported to the Defense Department. And at the same time, he was getting instructions from the State Department. And this often created a considerable amount of tension. And the second thing that affected policy was the Potsdam meeting which was held not long after the end of the war. That was a three-power meeting, because the French were not yet included in the occupation. And the Potsdam protocol was somewhat more tempered than 1067. It provided that the recovery of Germany should not be allowed to go further than would give the Germans a standard of living comparable or similar to that of the rest of Europe, which was not very high either at that time. But nevertheless, it wasn't anywhere near so rigid or strict as 1067. The other thing which was later very important was that the Potsdam agreement or protocol called for treating Germany as a unit, as a single economic entity, because the original plans had provided for separate zones within Germany for each of the occupying powers, and each of the military governors was in charge of that sector of Germany. And the Potsdam agreement also provided that there should be German administrative organizations, agencies, for the various necessary functions, which would treat Germany as a whole. There would be no German government, but these various agencies would be jointly supervised by the Control Council of the various governors. So they would be in control in the end, but they would use these German agencies as the means of carrying them out. Very early on, Clay concluded that his objective was to end up with a Germany which would be peaceful and not threatening, and that in order to do that, it was necessary that it be sufficiently prosperous to at least be able to have a decent living, and that there should be a great emphasis on quickly restoring democracy, which would ultimately make it possible to turn over to the Germans the governing of the country. So he felt that 1067 was too constraining. And so he early started to try to restore economic life as best he could because he thought that Germany could not possibly be peace-loving and stable if it was down on its knees. And secondly, he wanted to start right away to give Germans some experience with democracy, and so he was eager to get a framework that he could use for proceeding rapidly with both those. He tried to, in effect, interpret the instructions by writing an outline himself of what he was doing with respect to early stages in the governing of Germany, and tried to get it approved and put out. The State Department and Defense Departments said no. [To Steege] Do you want me to go on now? [Steege nods.]</p>
-<pb facs="0006" n="Page0006"/>
-<p>Because they would not accept any modification of 1067, so he took another route. He knew Jimmy Brynes—he had worked for some months before coming to Germany, when Byrnes was in charge of war mobilization, in the White House, and had now become Secretary of State. So he arranged with Byrnes to come to Germany and essentially wrote him a speech which incorporated his conception of what ought to be the policy. And Byrnes made that speech in Stuttgart in September 1946. Essentially Clay used that as the basis for saying this is what our policy is. So he really just circumvented the two departments back home. And, of course, in my opinion, he was the one who had a rational and coherent policy which was addressing both the early stages of democracy and the early stages of trying to get some degree of economic revival.</p>
-<p>Q-Steege: Could I just follow up on that a little bit... I was really struck by your comment about Clay and his manipulation of the Stuttgart speech by Byrnes and wondered about how you would kind of map out causation, especially with the relationship between Clay and Germans and particularly German politicians—to what extent did they stimulate Clay in particular ways, or were they something that Clay also used to pursue his ends? How would you explain that relationship?</p>
-<p>BOWIE: You mean, his relationship with the Germans?</p>
-<p>Q-Steege: Yes, and the ways in which that then shaped his relationship with his superiors.</p>
-<p>BOWIE: Well, Clay was a genuine democrat. He really believed in democracy. His father had been a senator, and he had been a pageboy in the Senate at one point. So he had a very good political instinct. So, early on, within a few months after he took over, he decided that he was going to name minister-presidents for each of the L�nder (states) of his area. He named as minister-presidents people who had been in the resistance or had not been tarred with the Nazi regime. And he created a Council called the L�nderrat, composed of the minister-presidents, which met regularly. He attended to give them instructions and for discussion about conditions and problems. And he formed a fairly congenial relationship because he insisted on give-and-take there, too. I mean, he sought their advice, their information, and they became very cooperative. And he also instituted having regular press conferences, where he encouraged the German press people, to their amazement, to ask hard questions about things that they really wanted to know. This was all demonstrating, as he was trying to do, what he thought they ought to remember about democracy. When we moved to Berlin, he got to know Reuter who had been a communist but who was anti-communist now, and formed a high respect for him</p>
-<pb facs="0007" n="Page0007"/>
-<p>I think Clay was committed to carrying out the various requirements which had been set out in 1067 and also in Potsdam. Essentially there were four D's: there was denazification, demilitarization, the destruction of war-making potential, and then a deconcentration of the large enterprises, particularly in the Ruhr. And he was quite prepared to carry out those policies, but he wanted to do so in a fashion which would return some degree of understanding of democracy and also, as I say, restore a viable living standard, because the living standards were terrible. In addition to the environment which I described, there was a severe shortage, as there was in much of Europe, of food. The theoretical ration for the people was twelve hundred calories, and that was often not fulfilled because the farmers who had some grain on their farms didn't want to part with that because there was nothing to buy and the currency was no good. So it was a very tight problem with respect to food, and it was necessary to import a great deal of the food from the United States.</p>
-<p>But coming back to the relations between Clay and the Germans, it was, I think, a very cooperative one, in which he tried to give the feeling that he respected them and that they were expected to respond, and they did.</p>
-<p>Q-Livingston: Let's stay with the Clay period. Richard, do you have any particular questions on the Clay period? I think if we could stay, do, divide in that way, stick with one period...</p>
-<p>Q-Immerman: Well, if you want to talk about Clay—I don't want to talk about the Clay period, so, in other words, you can go on. As I said, I actually wanted to build on that and move forward chronologically, but if you want to...</p>
-<p>Q-Livingston: Sure, sure! Go ahead.</p>
-<pb facs="0008" n="Page0008"/>
-<p>Q-Immerman: Well, I'm curious, building on what you just said...But first let me say how nice it is to see you again. In fact, I believe Bob and I were together last at George Kennan's hundredth birthday party, which says something about something. You've just provided us with an extremely detailed assessment of what was going on on the ground in Germany in 1946, 47, the origins of the Cold War. In 1953, you're back in Washington, and—now the biography should be corrected because I think that's important. Bob was not only director of the policy planning staff; he was the State Department representative on the Planning Board of the National Security Council, the board that was working on policy. One of these questions has to do with Solarium and things like that, and Bob was directly involved. This is a period, basically transition from the Stalin note to the elections in Germany in 1953; the proposal to establish the European Defense Community; statements about agonizing reappraisal and other things that are all going on during this period. So my question is, when you come back to Washington, to what extent does your experience in Germany, your expertise in Germany, and for that matter, anybody else's expertise in Germany, directly influence policy as it is being evolved. And I particularly will put this in the context of, let's say, the relationship between Eisenhower, who had direct experience in Germany, and, let's say, Dulles, whose experience was much more peripheral. So here you are now in the center of things. How much difference, do you think, it makes that you actually arrive in that position having been involved in what happened earlier with the negotiations over the European Coal and Steel? I mean, you're right in the middle of everything. Does the administration exploit your expertise?</p>
-<p>BOWIE: By early in 1953, when I joined the Eisenhower administration, the basic policies toward Germany had been settled and were in progress. The Marshall Plan had recognized that German revival was essential for European recovery. A democratic government had been established with Adenauer as Chancellor. The transition from occupation to sovereignty was underway. The European Coal and Steel Community was to integrate Germany with Western Europe and reconcile Germany and France. Adenauer solidly supported this course. He believed it would lead to stable peace in Europe. And he was convinced it was the best way to achieve ultimate reunification with Eastern Germany.</p>
-<p>The SPD, led by Schumaker, strongly anti-communist, opposed this policy. Instead, with the millions of refugees from the East, he supported making reunification the primary goal and rejected integration with the West as impeding it.</p>
-<p>Still unsettled was the critical issue of Germany's role in defense. Adenauer had raised this question after the invasion of South Korea from the North, and reports of Soviet military buildup in East Germany. Deeply concerned about Germany's vulnerability, he insisted that the Germans should be able in some way to contribute to their defense. NATO had only limited conventional forces, depending heavily on U.S. nuclear forces for deterrence.</p>
-<pb facs="0009" n="Page0009"/>
-<p>After debating various alternatives, a consensus developed to negotiate a treaty, based on a French proposal prepared by Monnet, for a European Defense Community. That was now up for ratification. Dulles and Eisenhower, who strongly favored European unity, sought to encourage its adoption but without success.</p>
-<p>To return to Richard's question: I was involved in the process of completing the German policy, especially the EDC, and an alternative after its failure. But my primary activity as Director of Policy Planning and member of the NSC Planning Board was in drafting Eisenhower's Cold War strategy.</p>
-<p>Q-Livingston: Paul, do you have any more questions on the earlier period? Or?</p>
-<p>Q-Steege: [to Immerman] Did you want to follow up on that? [Immerman shakes his head]. The question I'd just ask, so, in 1953 the uprising in East Germany and, what has come to light since 1989 certainly is the ways in which it was not just in East Berlin but across all of East Germany, in hundreds of towns, and that this really was a massive scale—was that something that was known to you and to the Eisenhower administration at the time, this massive scale of the uprising, and, does that matter, or not? Was that a transformative moment, in terms of understanding either Germany or as a way of understanding the global strategic situation in which the United States found itself?</p>
-<pb facs="0010" n="Page0010"/>
-<p>BOWIE: Well, this was obviously something which was a very great concern because of two reasons: 1) the Eisenhower campaign had been urging more attention to the liberation of Eastern Europe, and Dulles was particularly eager to do this, to appeal to the votes which would be attracted by the idea of the liberation of Eastern Europe. And one time during the campaign he made a speech which was rather strong about how it was going to get these people free, and Eisenhower called him and said, Look, you're perfectly free to argue for our concern about Eastern Europe, but you must say always that any liberation would be by peaceful means. So, I mean, Eisenhower had no question about this. He was not going to have any idea that the United States was going to use force to get freedom for East Europe. One of the other basic tenets of Eisenhower was that a nuclear war would be an absolute suicidal disaster for both sides, and that therefore one of his key purposes was to see to it that our effort to contain the Soviets not lead to the possibility of direct conflict between the forces, because he felt that if you had a real conflict between the two, it would almost surely escalate, and be highly likely to go on until it got up into using nuclear weapons. And, as I say, he thought that would be suicidal for both sides. He was absolutely convinced that by threatening retaliation he could deter the Soviets from using nuclear weapons and even from a large-scale attack. Earlier, when it was discovered that the Soviets surprisingly had developed nuclear weapons much sooner than expected, Truman had approved NSC 68. This was an analysis of what this implied and concluded that when they got an adequate inventory of nuclear weapons (by 1954), they would be tempted to use them to annihilate the United States. And Eisenhower rejected this and was convinced that we could deter the Soviet Union if we made them understand the consequences of any such event. Nevertheless, he was fearful that if their regime or empire was really threatened, then it might very well cause the happening of military conflict.</p>
-<p>So, coming back now the uprising in Germany, certain people like C. D. Jackson said, Oh, this is now a wonderful opportunity; we'll just exploit this to the full. And some people were urging that we make weapons available to the people who were carrying on the uprising. Eisenhower was opposed to this. He said, We cannot create a situation in which they think their empire is threatened and we cause actual, direct conflict between the two sides. That was also his attitude even with the Hungarian problem; it was terrible to sit by and not do something, and there were people who said we should at least take some effort to give them weapons and support, but he said, No, he was not going to jeopardize the possibility of peace, of any real conflict, that, agonizing as it was to see the Russians overrunning Hungary, for example, or the putting down of the uprising in Berlin and elsewhere in 1953, that was simply too risky, in his opinion, for the longer term, for the maintenance of deterrence.</p>
-<p>Q-Livingston: Could I ask, Bob, at this point, what about the intermediate stage? What were Eisenhower's views, your own views, about covert action operations such as Frank Wisner and others were running against Eastern Europe?</p>
-<pb facs="0011" n="Page0011"/>
-<p>BOWIE: Under Truman, the CIA with the cooperation of the Policy Planning Staff led by Kennan had carried on a number of covert actions with respect to Eastern Europe. They dropped agents into Eastern Europe and similar activities with the purpose of trying to create trouble. By the end of the Truman administration, the CIA wrote a report saying—contrary to what had been the premise—that we don't have the instruments and we don't have the means of carrying out any such covert actions effectively, and it was foolish to keep on doing them. Eisenhower's attitude was consistent with what I have said. He didn't see any sense in using such covert activities; he didn't think they would work. At the same time, he was quite prepared to use covert action on our side of the line where he felt that governments were being subverted, and so, in various places, he did use these, and sometimes it was rather doubtful wisdom, but nevertheless, that was fundamentally his policy. So he wasn't opposed to using covert action, but he didn't believe it was a useful way to deal directly with the Soviets, but it was a way to deal with the threat of Soviet subversion on our side of the line. (pause) Is that it?</p>
-<p>Q-Livingston: That's it. (laughter) OK, Richard.</p>
-<p>Q-Immerman: I want to go back to that period, first of all, in the aftermath of the Berlin uprisings in 1953, which, in a way, you indicated, were sort of a non-event, that if anything had reinforced the predisposition of the administration before that not to take any sort of aggressive or risky behavior to support indigenous movements, and in this case, I think it was an indigenous movement...but, I'm still trying to locate the space in which policy was, to some extent, in flux. You mentioned earlier the difficulty of reconciling the integration of Germany into the Western alliance, while at the same time supporting, to some extent, the eventual unification of Germany and keeping that, which, I think we can agree, was a very difficult balancing act for decades. I wonder if you can comment, though, that just at this time in 1953, we have Kennan, for the first time, explicitly proposing the potential demilitarization of Germany, or the United States's withdrawal of Germany, in part as a way of forcing the Soviets to reciprocate, and therefore moving the Soviet forces from his view farther to the east, and that's followed almost immediately by Dulles proposing similarly a withdrawal of both Western and Soviet troops on the premise that the United States might, the West might never again be in as strong a position as it is then to basically compel some type of settlement through the middle of Europe. So I guess my question is, to what extent was there still debate in Washington as to a) the sort of deployment of US troops or NATO troops in Germany for the foreseeable future, or some sort of effort at that point to either withdraw troops, neutralize Germany, some other solution other than the one that turned out to be what was followed, and many would argue was successful?</p>
-<pb facs="0012" n="Page0012"/>
-<p>BOWIE: Well, I think that the view of those who had been arguing that the way to deal with Germany was to integrate it was that if you tried to create a Germany which was theoretically or really neutral, there was a real likelihood that the Soviets by subversion would be able ultimately to become dominant in that whole area. After all, of course, you'd had the whole period after the war of seeing how the Soviets, when they got any real opportunity to do so, had been able to really put the screws on each of the Eastern European members of its empire. And so it was really the belief that a Germany which was neutral would play games, would try to play both sides of the street, and that, under those circumstances, it was likely to end up with Soviet domination rather than real independence, real neutrality. And so, I think Eisenhower, for example, had no interest whatever in trying to have a neutralized Germany, because hbelieved it would be a source of instability. So that notion was really rejected by the administration.</p>
-<p>Q-Livingston: We've got about another half an hour, and I'd like to open it up, if the panelists are willing, to chances from the audience, let me say if you have questions, please...</p>
-<p>BOWIE: Now, let me just tell you so you won't be misled that after you ask the question, I will not have understood it because of all the echoes, and Livingston's going to translate for me.</p>
-<p>Q-Livingston: Right, and there are certain subjects that Bob can't address because he just simply wasn't there, for the time of the airlift, for example. So, please stand up, and, we have a microphone, don't we? And put your question directly to Bob and move forward if you want to, Peter, and make it as clear as you can.</p>
-<p>Peter Quint: My name's Peter Quint, and I'd like to go back to McCloy and ask about the release of convicted war criminals by McCloy and ask to what extent was this a decision of his, and to what extent was this a decision that came from the higher echelons of the government? And, what did he...was this an agonizing, a difficult decision for him, or was it something that he thought was clearly correct?</p>
-<p>Q-Livingston: [repeating for Bowie]: The question of the war criminals—what was McCloy's attitude toward that. Was it his decision, the decisions to release, pardon the war criminals, [did it] come from higher echelons of the government? Was it hard for him to do this? [To Quint] You didn't ask this but, [To Bowie]: What sort of pressures was he under to bring about these pardons? [To audience]: Bob was intimately involved in this.</p>
-<pb facs="0013" n="Page0013"/>
-<p>BOWIE: Well, he inherited this from Clay. Clay had said he would like to deal with it, but he never got around to finishing it off. And so there were something like a hundred of these people of various sorts who had been convicted with sentences of all sorts, high, up and down: ten years on one end and death penalty on the other. And McCloy, as the military governor, had to deal with these. The pressures from the Germans to mitigate or deal with these in various ways were just horrendous. It was unbelievable! The churches urged that there be clemency or that the sentences be changed, particularly with respect to the death penalties, which were I think about a dozen or so, and they cited the fact that the Basic Law which they had adopted outlawed death penalties. And, as I say, many of the high church people were pressing very hard and some of Germans, particularly military types, tried to create the impression that he should mitigate these sentences if he expected Germany to contribute to defense. Acheson, essentially, I think, took the view that it was entirely up to McCloy. There was no instruction, as far as I know, from headquarters to McCloy. And McCloy told Acheson that he wanted to have an independent committee that would advise him on what to do with respect to these various sentences. And he got a committee of three people, I think it was three. One of them was a distinguished New York judge named Peck. The second one was a man, a New Yorker, who was in charge of paroles and modifying sentences in the New York system. And the third person was a man named Snow who had been and still was, I think, a legal advisor in the State Department. So these three people were convened to review all the sentences and to give their advice to McCloy. They studied these records. They were not supposed to go back over the testimony, but they were supposed to consider all the other aspects of the sentences. One of them did a study during the summer, and the three of them got together for about six weeks and went over all the records and came up with a report.</p>
-<p>The report recommended that many of the sentences be modified. With respect to the death penalties, I think it was something like a half of them which they thought should be reduced to life sentences, and then with respect to the lesser sentences, they proposed a very large number be reduced somewhat. The principle reason for many of these was the disparity among the different sentences for similar offenses that had been heard by different judges, and second, that there was a general tendency for the sentences given in the early stages to be more severe than those given in the later cases. So they tried, I think, to more or less equalize them. And in the case of a number of the death penalties, they decided that it was excessive, in view of the facts found by the court on which the sentence was based.</p>
-<pb facs="0014" n="Page0014"/>
-<p>After McCloy had had a chance to study the report and talk to the committee, he did reduce a number of the sentences in accordance with their proposals. And also changed, I guess, about half or a significant part of the death penalties. One of the sentences which was changed, which later caused a lot of press coverage and protests, was about Krupp. Krupp was the son. The father had been indicted, but it was found that he was not capable of having a trial. He was ill or something. So they simply took his son who had had a relatively minor position in the Krupp enterprise—I think he was a member of the Board of Directors or something like that. Most of these cases had involved slave labor; that was the charge. And, anyway, McCloy apparently was somewhat affected by the idea that they had simply substituted the son because they couldn't get the father. So I think that was one case where it was influenced by that condition. But otherwise, he'd largely followed the advice of the committee.</p>
-<p>Q-Livingston: Your advice. You advised on this too, did you not?</p>
-<p>BOWIE: I didn't advise him on the individual cases. I reviewed the Board Report, and I gave him my general impression that they had been somewhat lenient. But I think he felt the board had been conscientious, they were men of integrity, and that they had done their best. The later charges that he made his decisions to placate the Germans, in the sense that they were not based on the merits, I think is absolutely false. I think he really did his very level best as a lawyer to do what he felt was just or fair in light of all the circumstances.</p>
-<p>Q-Livingston: Any more questions from the floor, please, would you take a microphone and get as close to Bob as you can.</p>
-<p>Speaker: Mr. Bowie, this is about Clay and the currency reform. Did Clay have to battle tooth and nail with Washington to get the authority to execute the currency reform, or did he have to simply outfox Washington in the way that you described earlier today?</p>
-<p>Q-Livingston: [repeating for Bowie]: The currency reform, which is, of course, after your time. Did Clay have difficulties with Washington on trying to get the currency reform put through? Did he have to outfox Washington in order to get it put through? This was the currency reform of 1948.</p>
-<p>BOWIE: I just honestly don't know. I can't remember a thing about that. This was, I think, after you had the merger of the three zones for the purpose of administration, and they decided that it would be necessary and desirable to have a currency reform. I think the initiative for some of these things came from Erhard, and I simply don't remember a thing about whether or not Washington intervened. He did, I think, have various arguments from time to time about economic policy, which the State Department argued for, and he had a different policy. And I think there was a feeling on the part of the State Department that he was kind of difficult to deal with. But, I can't answer your question.</p>
-<pb facs="0015" n="Page0015"/>
-<p>Q-Livingston: Do we have anything more from the floor? At all? I have a couple of questions, but, Paul and Richard? We've got about fifteen minutes left. (Pause). Well, I wanted to ask you to talk a little about something we talked about in the car coming down, Bob, which I think is perhaps not given sufficient attention. And that is, in this period of the transition from the Allied Control Council to the bizonal and trizonal, the obstacles that the French put up. I remember you were saying the other day on the phone that in some regards, the French were more difficult in the early years than even the Soviets were, in terms of four-power administration. Could you say a little bit about that?</p>
-<p>BOWIE: Well, I don't know that I'd say that they were more difficult than the Soviets, but the French had lively memories of the German occupation, and they had more historic memories of other fights with the Germans. And so they were inclined to resist anything which had a tendency to build up the power of Germany even in a small way. And so, in the very early stages in particular, when the Control Council began to meet and tried to keep Germany as a whole and tried to enact certain provisions that had the effect of reviving the power or strength of Germany, even in a mild way, they tended to take the initiative in opposing the decisions by the Control Council. It was pretty clear that the Soviets were letting them carry the onus of being the bad boy because as long as the French were blocking it, the Soviets didn't need to. But sooner or later, it became clear that they were at least as strong in opposing many of these actions as were the Soviets. I should say at the very beginning, Clay considered that one of his implicit instructions was to try to see if they couldn't continue the cooperation which they had had more or less during the war with the Soviets. In other words, there was a real effort to try to have friendly or cooperative relations with the Soviets. And, in fact, this was actually successful in a certain mild, human way in the first year or two. I remember, for example, in the first New Year's, we had a four-power ball, and each country provided part of the entertainment. We had some kind of a jazz contribution, and I think the French had a well-known chanteuse. The Russians, I think, had a Russian chorus. But, in any event, Bill Draper, who was the economic man for Clay, took the little group of four and took me along because I was living with him to the rest-and-relaxation facilities that the army had acquired in the Riviera. And so we spent a weekend in the Riviera. And on the way back home, the French representative had us stop in Paris, and he took us to a show at one of the caf�...places, and the older Russian, who was rather puritanical, was horrified at the displays, the nudity. The young man who was his assistant obviously had a somewhat different reaction. (laughter) But what I'm trying to illustrate is that we were really making an effort to have a nice relation with the Russians, it was more or less reciprocal. Because many of these people had been recruited for some of these posts from academic or other places, that is, they were not strictly party types. But after about two or three years, it began to be clear that the Soviets were not going to be cooperative. But it took the French some years before they began to recognize the desirability of trying to seek reconciliation, before they were willing, for example, to join in on the tripartite arrangements, to try to treat Germany, as provided in the Potsdam protocol, as a unit in order to make it possible for recovery. But even so, they were sensitive about the rearming of Germany. That was quite a different thing.</p>
-<pb facs="0016" n="Page0016"/>
-<p>Q-Livingston: I've got one more thing I'd like to ask before we break unless either of you do [to Steege and Immerman] and that is to describe—which is well described in the book that you and Richard Immerman wrote together—the Solarium exercise. What that was, you know, and what brought it on, and what was the outcome.</p>
-<p>BOWIE: Well, it started with a meeting that was held by Eisenhower very shortly after he took office, and the meeting included people like Alan Dulles, and somebody from the Defense Department, and Eisenhower himself, and Humphrey from Treasury. Anyway, they were talking generally about what the situation was vis-�-vis the Russians. And Dulles expressed some rather pessimistic views—more or less that the Russians were doing better than we were in terms of how they were conducting their policy, and simply raised the question about whether or not we were having the right stance with respect to the Russians. So, Eisenhower said, Well, why don't we have a real exploration of this? And he said, I think we ought to have three small groups composed of qualified people from the CIA, the Defense and State Departments, I mean, diplomats, or people who knew about diplomacy, policy-making, and ask each of them to take a particular policy possibility. There will be three of them: there will be continuation of containment; drawing the line, as it was described, in which you said to the Soviets, if you use any method of getting beyond your present area, you're going to have a fight. We'll resist it very strongly; and finally, rollback. And each of the three groups was given about six weeks to make a study, and they were told to make the best case they could for this point of view, this policy, in each case. And then, they did this, each of them made a written report, but then they had a meeting in the White House for almost a whole day, in which they made their presentations, and they were supposed to explain what it was that you would do, what would be the risks and costs, what would be the likelihood of success, and so on, and particularly, the risk of war. And, so each of them made their written report, and then each of them made their oral presentation. And you had the people from the Planning Board, the members of the NSC itself, and Eisenhower, and the Cabinet. And, at the end, Eisenhower gave about a 45-minute reaction or summary of his impression of the whole thing. And amazingly, Kennan once said essentially that Eisenhower showed his intellectual ascendancy over any man in the room, and everybody was astounded; that included himself. (laughter)</p>
-<pb facs="0017" n="Page0017"/>
-<p>Anyway, the Solarium Exercise was treated only as an input to making the strategy. Eisenhower asked the NSC adviser Cutler to put together with the help of the members of the groups the gist of what had been said and to give it to the Planning Board to use as one input in preparing the first NSC strategy paper. And this caused a little problem because when Cutler put it together, he framed it as a directive, and the Planning Board took the view that he was not supposed to be a policy-maker, and that it was not appropriate for him to be trying to dictate or suggest that this was an instruction. In fact, anticipating this, Dulles wrote me a little note saying, We did not intend what was prepared by Cutler to be an instruction. It was only intended to be an input. I expect you and the other members of the Planning Board to give us your judgment of what you feel should be the right policy. Anyway, it was only treated as an input. But Eisenhower himself told Goodpasture, who he put on the rollback panel, that he was putting him on because he wanted to be sure that somebody had good sense. (laughter)</p>
-<p>Q-Livingston: Do we have any other questions at all here in the audience? Well, thank you all very much. Thank you, Paul; thank you, Richard; thank you, Stu; and thank you, Bob, most of all, for answering all the questions that you said you couldn't answer! Including many more. (laughter) Philipp, we're about to break up, but if you have any other questions?</p>
-<p>Q-Gassert: Did anyone ask the Berlin Airlift question? How did it impact the political scene in this country?</p>
-<p>Q-Livingston: He wants to ask you about the Berlin Airlift. How did it impact the political scene in this country? You were back here then.</p>
-<p>BOWIE: Well, the way in which the Berliners endured this and stuck with it I think impressed the public back here. It was a plus from the point of view of sympathy for the Berliners. The public was outraged by the blockading the food and all the rest. And there was considerable pride in the fact that the airlift had outdone the Soviets, and I think a considerable amount spilled over into admiration for the way in which the Germans had lived through it and helped with it.</p>
-<p>Q-Gassert: So, it really changed the image of Germany, I guess.</p>
-<p>BOWIE: This was one of the things also that enormously impressed Clay with respect to Reuter because when he was starting this, it wasn't altogether clear just how well it was going to work, or how much he was going to be able to ship. They were able to ship much more than they had expected, especially after he got the larger planes. I think Clay had said to Reuter, Do you think the people of Berlin will be able to manage this if we try, and he assured him absolutely that they would, and Reuter's leadership apparently was very important in making sure that the people stood staunchly with it.</p>
-<pb facs="0018" n="Page0018"/>
-<p>Q-Livingston: Paul, do you want to ask, it was your period for your book—does that fit more or less with your impression?</p>
-<p>Q-Steege: Well, I think that the relationship between Reuter and Clay is really important, but I think the thing that I would underscore is the ways in which Berliners played an absolutely vital role in sustaining themselves, and that the airlift never brought in all that people needed to survive. One of the interesting things is the ways in which the blockade was never total and the airlift was never total, and that Berliners played a very important role in shaping how that event operated. But I think the ways in which Clay and Reuter were very astute at creating impressions about what was going on and also of elaborating the solidarity were absolutely central to that moment.</p>
-<p>Q-Livingston: Well, that's where your Alltagsgeschichte really does play a role. And I think the other factor about Berlin, of course, was—and that was true right to the end—it attracted the media, even though, for all sorts of reasons, and I mean, the best American reporters were in Berlin during the time—Maggie Higgins and all these people, reporting extensively, and that made a difference.</p>
-<p>BOWIE: And, you know, it was a real success. And it was a sort of achievement by technological means and peaceful means—it made a good impression.</p>
-<p>Q-Livingston: Well, let me thank you again for all your participation, and I guess we have little something in the other room, right?</p>
-<p>Q-Gassert: Yes, we would like to invite you over to the next room. We have a lunch there, so please stay here and continue our discussions over lunch.</p>
-<p>Q-Livingston: Thank you.</p>
-<p>Q-Gassert: Thanks again.</p>
-<p>End of interview</p>
-</div>
-</body>
-</text>
+    <text>
+        <pb facs="0001" n="Page0001"/>
+        <body>
+            <div>
+                <p>Association for Diplomatic Studies and Training Foreign Affairs Oral History
+                    Project</p>
+                <p>DR. ROBERT R. BOWIE</p>
+                <p>Interviewed by: Robert Gerald Livingston, Philipp Gassert, Richard Immerman, Paul
+                    Steege, Charles Stuart Kennedy and a public audience at the German Historical
+                    Institute, Washington, DC</p>
+                <p>Initial interview date: February 19, 2008</p>
+                <p>Copyright 2008 ADST</p>
+                <p>Q-Gassert: Dr. Bowie, welcome to the Institute. My name is Philipp Gassert, and
+                    I'm the Deputy Director here. We're really pleased that this event worked out
+                    today. Thanks to Gerry for taking the initiative and bringing such an
+                    interesting panel together. We are not only in the business of studying history,
+                    but we also create history, for example, in oral history interviews, so we're
+                    really glad we can host this event. It is, I think, part of a long lineage and
+                    series of bringing in former decision-makers who have been involved in making
+                    history now in order to have a discussion, to have conversations, with
+                    historians who were studying past events. That's all I have to say. Most of us
+                    here know the institute and also know those who are presenting. We tried to keep
+                    this group small so that we would have more of the benefit of the taping for
+                    those who want to hear the questions of the historians. Without further ado, I
+                    would like then to turn over the panel to Gerry Livingston, and I would also
+                    like to thank you once again for taking the initiative and organizing this
+                    wonderful event.</p>
+                <p>Q-Livingston: Pleasure, thank you, Philipp. Actually, this goes back, Bob, to a
+                    dinner you were at in the Fogg Museum at Harvard a few months ago at the
+                    fiftieth anniversary of the Center for International Affairs there, which Bob
+                    founded in 1958. And, Karl Kaiser was there and was very impressed with his
+                    conversation. Let me just very briefly, because we want to get started,
+                    introduce everybody at the table one after the other. In the middle is Charles
+                    Stuart Kennedy, Stu Kennedy, who is director of the Foreign Affairs Oral History
+                    Project, which we're linking up with here for the purpose of this discussion. He
+                    founded it twenty years ago, and he's interviewed, what, 200, 300 diplomats?</p>
+                <p>Q-Kennedy: Oh, we've got about 1700 so far.</p>
+                <p>Q-Livingston: 1700 diplomats!</p>
+                <p>Q-Kennedy: ...so far. It's not just me. We have others doing it. But 1700...the
+                    first thousand are on the Internet.</p>
+                <p>Q-Livingston: The project is archived at the Library of Congress. He was a
+                    diplomat himself for 30 years and served in Frankfurt and Dhahran and Saigon,
+                    Athens and Seoul, and I guess as a final nice gesture you served in Naples,
+                    right?</p>
+                <pb facs="0002" n="Page0002"/>
+                <p>Q-Kennedy: Just in time for an earthquake. (laughter)</p>
+                <p>Q-Livingston: Good time at the end! (Pause) Then right to my immediate left is
+                    Bob Bowie, the star of today, and let me just quote. That's all I have to do is
+                    quote what Thomas Schwartz, who submitted some of the questions that are on the
+                    list you have, wrote in his book America's Germany about McCloy in Germany. This
+                    is a quote: “Razor-sharp mind and skill in negotiation made him, Bowie, McCloy's
+                    most important and influential advisor, especially in matters relating to
+                    European integration.” Bob comes from an old Maryland family and started as a
+                    lawyer in Baltimore, where we picked him up today, or just outside of Baltimore.
+                    Served in the army in the Pentagon and worked under General Lucius Clay there.
+                    1945 to 46 he went with General Clay to Germany, then taught law at Harvard and,
+                    with a leave of absence from 1950 to 1952, went to serve in Germany with McCloy
+                    as legal advisor. Then he became director of the policy-planning staff in the
+                    Department of State under President Eisenhower from 1953 to 1957 succeeding Paul
+                    Nitze. Later, he became counselor of the State Department in the 1960s and
+                    Deputy Director of the Central Intelligence Agency from 1977 to 1979. Way on my
+                    left is a colleague of Bob's. Bob published three books, and among them was a
+                    book published in 2000 with Richard Immerman from Temple University on how
+                    Eisenhower shaped Cold War policy, the enduring Cold War policy. It's called
+                    Waging Peace: How Eisenhower Shaped an Enduring Cold War Strategy. Second from
+                    the left is Paul Steege of Villanova, an historian of Berlin in the postwar
+                    years. His most recent book is Black Market, Cold War: Everyday Life in Berlin,
+                    19461949. It's just been published, and there was an event at the Woodrow Wilson
+                    Center that some of you may have been at a few days ago. I'm going to ask Stu to
+                    start with the very first question. This is all being taped. When we address
+                    Bob, please speak right at him, speak loudly, and if you don't speak loudly
+                    enough, I'll yell at him (laughter). So we hope after we go around with some
+                    introductory questions, we'll throw the floor open to your questions, and away
+                    we go. [To Kennedy]: Stu Kennedy.</p>
+                <p>Q-Kennedy: Yes, it's nice to be back here after our last conversation, which was
+                    twenty years ago! Bob, talking about the time when you went out to Berlin for
+                    the first time with Clay: could you speak a little bit about how well you and
+                    your colleagues were prepared to deal with the immense problems of
+                    reconstructing Germany?</p>
+                <pb facs="0003" n="Page0003"/>
+                <p>BOWIE: Let me just say before I start that I'm as deaf as a post and I have a
+                    hard time hearing in a room like this, which has terrible echoes, and so I may
+                    have to ask for repetition. But anyway, I have this one. I would say that in
+                    terms of how well prepared we were for doing what the job was was nil
+                    (laughter). I had no background whatever with respect to Germany except having
+                    traveled there when I was an undergraduate in college, and I went abroad
+                    frequently in the summertime. I had traveled there then. But it did not in any
+                    way prepare me for any duties with respect to Germany. Really, Clay, if you
+                    looked at his record, had very few special qualifications for dealing with
+                    Germany. He didn't speak German, his wartime experience had been entirely in the
+                    Pentagon, in charge of the procurement for the war. He did spend just a few
+                    days, I think, on a special assignment in Germany, but that was about it. And he
+                    did not have any background that would specially have qualified him. So I would
+                    say that he made a point of getting some very excellent experts, especially from
+                    the academic world, who knew all about Germany, and he was one of the most
+                    intelligent, brightest men that I've ever worked with. We had all sorts of
+                    materials that had been prepared particularly by the British with respect to
+                    Germany, and certainly I studied those very hard just as soon as I knew I was
+                    coming to Germany, but this was really book-learning, and I think Clay also had
+                    done some of that sort of thing. But again, he had to learn on the job of what
+                    his assignment would be. But as I say, he was a man who really was one of the
+                    most impressive intellects. And he also thought very much strategically. So by
+                    the time he'd gotten there and surveyed the situation and had read 1067, he
+                    began to formulate in his own mind what his strategy would be and how he would
+                    try to achieve it. Gerry said I was an advisor to Clay. I was a personal
+                    assistant to Clay; I was not formally an advisor, but he was a man who was
+                    impressive in the sense that he was a general and I was a major, and what he
+                    wanted from an assistant was for you to speak up to him and tell him what you
+                    thought and argue with him. And he would argue back, just forget all about rank.
+                    It was just like a really intellectual talk, or real discussion, and he expected
+                    you to speak up and say what you thought. Of course, civilly, and with proper
+                    personal relationship. It was a wonderful assignment. There was one other man
+                    who was in the same role, and when something was on Clay's mind and he wanted to
+                    know more about it, he would give us an assignment and expect us to come back
+                    with a report of maybe 10 or 12, 15 pages. And he would read the report almost
+                    as fast as you could turn the pages and by the time he finished with it, he
+                    would turn to you and he'd ask the most penetrating questions about what you had
+                    said, and he would almost always hit the real point which was worth talking
+                    about. As I say, what he wanted you to do was to give and take. So it was a very
+                    satisfying kind of role.</p>
+                <p>Q-Kennedy: All right. Thank you. I'm going to switch seats now and let you two
+                    gentlemen move over [to Steege and Immerman].</p>
+                <p>Q-Livingston: So, Paul, why don't you move over, and we'll let you go on. And see
+                    if we, in this first phase, stay with General Clay, if we can. Richard, you want
+                    to move over a little closer? So pull the microphone close to you and also talk
+                    directly to Bob.</p>
+                <pb facs="0004" n="Page0004"/>
+                <p>Q-Steege: Well, first off, thank you very much for this opportunity. It's a real
+                    pleasure to be able to engage in this conversation with you. Building on this
+                    notion of Clay and Clay on the ground, as it were, in Germany, one of the things
+                    that really strikes me about your experiences is the ways in which you were
+                    going back and forth. So you were in Berlin in 1945 and 1946, then back in the
+                    States, in Germany from 1949 into the early 50s and then back in the United
+                    States. And I was wondering if you could talk a little bit about the different
+                    perspectives—how Berlin looked from Berlin; how Berlin and Germany looked from
+                    the United States. One foreign service veteran talked to me once about Clay and
+                    others—and particularly on lower levels within the military government in
+                    Germany—being afflicted by localitis—that they were too invested in the
+                    situation there and that things looked different to them than they did from the
+                    United States. So for you as somebody who was going back and forth, did the way
+                    in which Germany looked change? Did it look different in the United States? Was
+                    there a gap in terms of what people saw or understood from your perspective?</p>
+                <pb facs="0005" n="Page0005"/>
+                <p>BOWIE: Well, I'm not sure I can answer it well, but anyway. When you were in
+                    Germany at that time, right after the war, you found it hard to believe the
+                    degree of disorganization and destruction and chaos. You'd go out on the street,
+                    you'd see the rubble, and you were aware that there was no transportation, no
+                    communication, no mail, no telephone, and you drove up the Autobahn, the roadway
+                    was normally in place, but every time you got to a bridge it had been blown out.
+                    So you had to go down into the valley, come up again on very improvised roads,
+                    and similarly, whenever you came across a little town, it was being run by a
+                    small detachment of maybe four or five soldiers from the Bronx, some of whom had
+                    some German. But they were running the place, and they would mobilize enough of
+                    the talent in the town to be able to try to make things go to some degree. But
+                    bear in mind, the water supply had probably been broken by the bombing, there
+                    was no collection of the garbage, no sewage, and no government, of course, and
+                    so there was a real sense of chaos everywhere. I think probably back in
+                    Washington, they didn't have any very clear picture of this. The initial
+                    directive for the military government did not seem to reflect these conditions
+                    (Clay had no part in drafting it), and it was fairly draconian. It was nowhere
+                    near as bad as the Morgenthau Plan, which had been temporarily approved by
+                    Roosevelt and was really later described as the pasturalization of Germany,
+                    really wiping out the industrial base. But Stimson and others had said to
+                    Roosevelt, he just couldn't do that, and then they adopted 1067, which was
+                    intermediate. But even that was pretty draconian, and it called for no effort at
+                    reconstruction of Germany and nothing should be done in that direction except to
+                    prevent starvation, or such a degree of difficulty that it threatened the
+                    occupation itself. So anyway, in Germany, you were keenly aware of this
+                    situation as I described. The people in Washington, I think, had a hard time
+                    visualizing this, such that to some considerable degree, you had bifurcation.
+                    There were other complications regarding policy. One was the dual source of
+                    instructions. As Deputy Military Governor, Clay reported to the Defense
+                    Department. And at the same time, he was getting instructions from the State
+                    Department. And this often created a considerable amount of tension. And the
+                    second thing that affected policy was the Potsdam meeting which was held not
+                    long after the end of the war. That was a three-power meeting, because the
+                    French were not yet included in the occupation. And the Potsdam protocol was
+                    somewhat more tempered than 1067. It provided that the recovery of Germany
+                    should not be allowed to go further than would give the Germans a standard of
+                    living comparable or similar to that of the rest of Europe, which was not very
+                    high either at that time. But nevertheless, it wasn't anywhere near so rigid or
+                    strict as 1067. The other thing which was later very important was that the
+                    Potsdam agreement or protocol called for treating Germany as a unit, as a single
+                    economic entity, because the original plans had provided for separate zones
+                    within Germany for each of the occupying powers, and each of the military
+                    governors was in charge of that sector of Germany. And the Potsdam agreement
+                    also provided that there should be German administrative organizations,
+                    agencies, for the various necessary functions, which would treat Germany as a
+                    whole. There would be no German government, but these various agencies would be
+                    jointly supervised by the Control Council of the various governors. So they
+                    would be in control in the end, but they would use these German agencies as the
+                    means of carrying them out. Very early on, Clay concluded that his objective was
+                    to end up with a Germany which would be peaceful and not threatening, and that
+                    in order to do that, it was necessary that it be sufficiently prosperous to at
+                    least be able to have a decent living, and that there should be a great emphasis
+                    on quickly restoring democracy, which would ultimately make it possible to turn
+                    over to the Germans the governing of the country. So he felt that 1067 was too
+                    constraining. And so he early started to try to restore economic life as best he
+                    could because he thought that Germany could not possibly be peace-loving and
+                    stable if it was down on its knees. And secondly, he wanted to start right away
+                    to give Germans some experience with democracy, and so he was eager to get a
+                    framework that he could use for proceeding rapidly with both those. He tried to,
+                    in effect, interpret the instructions by writing an outline himself of what he
+                    was doing with respect to early stages in the governing of Germany, and tried to
+                    get it approved and put out. The State Department and Defense Departments said
+                    no. [To Steege] Do you want me to go on now? [Steege nods.]</p>
+                <pb facs="0006" n="Page0006"/>
+                <p>Because they would not accept any modification of 1067, so he took another route.
+                    He knew Jimmy Brynes—he had worked for some months before coming to Germany,
+                    when Byrnes was in charge of war mobilization, in the White House, and had now
+                    become Secretary of State. So he arranged with Byrnes to come to Germany and
+                    essentially wrote him a speech which incorporated his conception of what ought
+                    to be the policy. And Byrnes made that speech in Stuttgart in September 1946.
+                    Essentially Clay used that as the basis for saying this is what our policy is.
+                    So he really just circumvented the two departments back home. And, of course, in
+                    my opinion, he was the one who had a rational and coherent policy which was
+                    addressing both the early stages of democracy and the early stages of trying to
+                    get some degree of economic revival.</p>
+                <p>Q-Steege: Could I just follow up on that a little bit... I was really struck by
+                    your comment about Clay and his manipulation of the Stuttgart speech by Byrnes
+                    and wondered about how you would kind of map out causation, especially with the
+                    relationship between Clay and Germans and particularly German politicians—to
+                    what extent did they stimulate Clay in particular ways, or were they something
+                    that Clay also used to pursue his ends? How would you explain that
+                    relationship?</p>
+                <p>BOWIE: You mean, his relationship with the Germans?</p>
+                <p>Q-Steege: Yes, and the ways in which that then shaped his relationship with his
+                    superiors.</p>
+                <p>BOWIE: Well, Clay was a genuine democrat. He really believed in democracy. His
+                    father had been a senator, and he had been a pageboy in the Senate at one point.
+                    So he had a very good political instinct. So, early on, within a few months
+                    after he took over, he decided that he was going to name minister-presidents for
+                    each of the L�nder (states) of his area. He named as minister-presidents people
+                    who had been in the resistance or had not been tarred with the Nazi regime. And
+                    he created a Council called the L�nderrat, composed of the minister-presidents,
+                    which met regularly. He attended to give them instructions and for discussion
+                    about conditions and problems. And he formed a fairly congenial relationship
+                    because he insisted on give-and-take there, too. I mean, he sought their advice,
+                    their information, and they became very cooperative. And he also instituted
+                    having regular press conferences, where he encouraged the German press people,
+                    to their amazement, to ask hard questions about things that they really wanted
+                    to know. This was all demonstrating, as he was trying to do, what he thought
+                    they ought to remember about democracy. When we moved to Berlin, he got to know
+                    Reuter who had been a communist but who was anti-communist now, and formed a
+                    high respect for him</p>
+                <pb facs="0007" n="Page0007"/>
+                <p>I think Clay was committed to carrying out the various requirements which had
+                    been set out in 1067 and also in Potsdam. Essentially there were four D's: there
+                    was denazification, demilitarization, the destruction of war-making potential,
+                    and then a deconcentration of the large enterprises, particularly in the Ruhr.
+                    And he was quite prepared to carry out those policies, but he wanted to do so in
+                    a fashion which would return some degree of understanding of democracy and also,
+                    as I say, restore a viable living standard, because the living standards were
+                    terrible. In addition to the environment which I described, there was a severe
+                    shortage, as there was in much of Europe, of food. The theoretical ration for
+                    the people was twelve hundred calories, and that was often not fulfilled because
+                    the farmers who had some grain on their farms didn't want to part with that
+                    because there was nothing to buy and the currency was no good. So it was a very
+                    tight problem with respect to food, and it was necessary to import a great deal
+                    of the food from the United States.</p>
+                <p>But coming back to the relations between Clay and the Germans, it was, I think, a
+                    very cooperative one, in which he tried to give the feeling that he respected
+                    them and that they were expected to respond, and they did.</p>
+                <p>Q-Livingston: Let's stay with the Clay period. Richard, do you have any
+                    particular questions on the Clay period? I think if we could stay, do, divide in
+                    that way, stick with one period...</p>
+                <p>Q-Immerman: Well, if you want to talk about Clay—I don't want to talk about the
+                    Clay period, so, in other words, you can go on. As I said, I actually wanted to
+                    build on that and move forward chronologically, but if you want to...</p>
+                <p>Q-Livingston: Sure, sure! Go ahead.</p>
+                <pb facs="0008" n="Page0008"/>
+                <p>Q-Immerman: Well, I'm curious, building on what you just said...But first let me
+                    say how nice it is to see you again. In fact, I believe Bob and I were together
+                    last at George Kennan's hundredth birthday party, which says something about
+                    something. You've just provided us with an extremely detailed assessment of what
+                    was going on on the ground in Germany in 1946, 47, the origins of the Cold War.
+                    In 1953, you're back in Washington, and—now the biography should be corrected
+                    because I think that's important. Bob was not only director of the policy
+                    planning staff; he was the State Department representative on the Planning Board
+                    of the National Security Council, the board that was working on policy. One of
+                    these questions has to do with Solarium and things like that, and Bob was
+                    directly involved. This is a period, basically transition from the Stalin note
+                    to the elections in Germany in 1953; the proposal to establish the European
+                    Defense Community; statements about agonizing reappraisal and other things that
+                    are all going on during this period. So my question is, when you come back to
+                    Washington, to what extent does your experience in Germany, your expertise in
+                    Germany, and for that matter, anybody else's expertise in Germany, directly
+                    influence policy as it is being evolved. And I particularly will put this in the
+                    context of, let's say, the relationship between Eisenhower, who had direct
+                    experience in Germany, and, let's say, Dulles, whose experience was much more
+                    peripheral. So here you are now in the center of things. How much difference, do
+                    you think, it makes that you actually arrive in that position having been
+                    involved in what happened earlier with the negotiations over the European Coal
+                    and Steel? I mean, you're right in the middle of everything. Does the
+                    administration exploit your expertise?</p>
+                <p>BOWIE: By early in 1953, when I joined the Eisenhower administration, the basic
+                    policies toward Germany had been settled and were in progress. The Marshall Plan
+                    had recognized that German revival was essential for European recovery. A
+                    democratic government had been established with Adenauer as Chancellor. The
+                    transition from occupation to sovereignty was underway. The European Coal and
+                    Steel Community was to integrate Germany with Western Europe and reconcile
+                    Germany and France. Adenauer solidly supported this course. He believed it would
+                    lead to stable peace in Europe. And he was convinced it was the best way to
+                    achieve ultimate reunification with Eastern Germany.</p>
+                <p>The SPD, led by Schumaker, strongly anti-communist, opposed this policy. Instead,
+                    with the millions of refugees from the East, he supported making reunification
+                    the primary goal and rejected integration with the West as impeding it.</p>
+                <p>Still unsettled was the critical issue of Germany's role in defense. Adenauer had
+                    raised this question after the invasion of South Korea from the North, and
+                    reports of Soviet military buildup in East Germany. Deeply concerned about
+                    Germany's vulnerability, he insisted that the Germans should be able in some way
+                    to contribute to their defense. NATO had only limited conventional forces,
+                    depending heavily on U.S. nuclear forces for deterrence.</p>
+                <pb facs="0009" n="Page0009"/>
+                <p>After debating various alternatives, a consensus developed to negotiate a treaty,
+                    based on a French proposal prepared by Monnet, for a European Defense Community.
+                    That was now up for ratification. Dulles and Eisenhower, who strongly favored
+                    European unity, sought to encourage its adoption but without success.</p>
+                <p>To return to Richard's question: I was involved in the process of completing the
+                    German policy, especially the EDC, and an alternative after its failure. But my
+                    primary activity as Director of Policy Planning and member of the NSC Planning
+                    Board was in drafting Eisenhower's Cold War strategy.</p>
+                <p>Q-Livingston: Paul, do you have any more questions on the earlier period? Or?</p>
+                <p>Q-Steege: [to Immerman] Did you want to follow up on that? [Immerman shakes his
+                    head]. The question I'd just ask, so, in 1953 the uprising in East Germany and,
+                    what has come to light since 1989 certainly is the ways in which it was not just
+                    in East Berlin but across all of East Germany, in hundreds of towns, and that
+                    this really was a massive scale—was that something that was known to you and to
+                    the Eisenhower administration at the time, this massive scale of the uprising,
+                    and, does that matter, or not? Was that a transformative moment, in terms of
+                    understanding either Germany or as a way of understanding the global strategic
+                    situation in which the United States found itself?</p>
+                <pb facs="0010" n="Page0010"/>
+                <p>BOWIE: Well, this was obviously something which was a very great concern because
+                    of two reasons: 1) the Eisenhower campaign had been urging more attention to the
+                    liberation of Eastern Europe, and Dulles was particularly eager to do this, to
+                    appeal to the votes which would be attracted by the idea of the liberation of
+                    Eastern Europe. And one time during the campaign he made a speech which was
+                    rather strong about how it was going to get these people free, and Eisenhower
+                    called him and said, Look, you're perfectly free to argue for our concern about
+                    Eastern Europe, but you must say always that any liberation would be by peaceful
+                    means. So, I mean, Eisenhower had no question about this. He was not going to
+                    have any idea that the United States was going to use force to get freedom for
+                    East Europe. One of the other basic tenets of Eisenhower was that a nuclear war
+                    would be an absolute suicidal disaster for both sides, and that therefore one of
+                    his key purposes was to see to it that our effort to contain the Soviets not
+                    lead to the possibility of direct conflict between the forces, because he felt
+                    that if you had a real conflict between the two, it would almost surely
+                    escalate, and be highly likely to go on until it got up into using nuclear
+                    weapons. And, as I say, he thought that would be suicidal for both sides. He was
+                    absolutely convinced that by threatening retaliation he could deter the Soviets
+                    from using nuclear weapons and even from a large-scale attack. Earlier, when it
+                    was discovered that the Soviets surprisingly had developed nuclear weapons much
+                    sooner than expected, Truman had approved NSC 68. This was an analysis of what
+                    this implied and concluded that when they got an adequate inventory of nuclear
+                    weapons (by 1954), they would be tempted to use them to annihilate the United
+                    States. And Eisenhower rejected this and was convinced that we could deter the
+                    Soviet Union if we made them understand the consequences of any such event.
+                    Nevertheless, he was fearful that if their regime or empire was really
+                    threatened, then it might very well cause the happening of military
+                    conflict.</p>
+                <p>So, coming back now the uprising in Germany, certain people like C. D. Jackson
+                    said, Oh, this is now a wonderful opportunity; we'll just exploit this to the
+                    full. And some people were urging that we make weapons available to the people
+                    who were carrying on the uprising. Eisenhower was opposed to this. He said, We
+                    cannot create a situation in which they think their empire is threatened and we
+                    cause actual, direct conflict between the two sides. That was also his attitude
+                    even with the Hungarian problem; it was terrible to sit by and not do something,
+                    and there were people who said we should at least take some effort to give them
+                    weapons and support, but he said, No, he was not going to jeopardize the
+                    possibility of peace, of any real conflict, that, agonizing as it was to see the
+                    Russians overrunning Hungary, for example, or the putting down of the uprising
+                    in Berlin and elsewhere in 1953, that was simply too risky, in his opinion, for
+                    the longer term, for the maintenance of deterrence.</p>
+                <p>Q-Livingston: Could I ask, Bob, at this point, what about the intermediate stage?
+                    What were Eisenhower's views, your own views, about covert action operations
+                    such as Frank Wisner and others were running against Eastern Europe?</p>
+                <pb facs="0011" n="Page0011"/>
+                <p>BOWIE: Under Truman, the CIA with the cooperation of the Policy Planning Staff
+                    led by Kennan had carried on a number of covert actions with respect to Eastern
+                    Europe. They dropped agents into Eastern Europe and similar activities with the
+                    purpose of trying to create trouble. By the end of the Truman administration,
+                    the CIA wrote a report saying—contrary to what had been the premise—that we
+                    don't have the instruments and we don't have the means of carrying out any such
+                    covert actions effectively, and it was foolish to keep on doing them.
+                    Eisenhower's attitude was consistent with what I have said. He didn't see any
+                    sense in using such covert activities; he didn't think they would work. At the
+                    same time, he was quite prepared to use covert action on our side of the line
+                    where he felt that governments were being subverted, and so, in various places,
+                    he did use these, and sometimes it was rather doubtful wisdom, but nevertheless,
+                    that was fundamentally his policy. So he wasn't opposed to using covert action,
+                    but he didn't believe it was a useful way to deal directly with the Soviets, but
+                    it was a way to deal with the threat of Soviet subversion on our side of the
+                    line. (pause) Is that it?</p>
+                <p>Q-Livingston: That's it. (laughter) OK, Richard.</p>
+                <p>Q-Immerman: I want to go back to that period, first of all, in the aftermath of
+                    the Berlin uprisings in 1953, which, in a way, you indicated, were sort of a
+                    non-event, that if anything had reinforced the predisposition of the
+                    administration before that not to take any sort of aggressive or risky behavior
+                    to support indigenous movements, and in this case, I think it was an indigenous
+                    movement...but, I'm still trying to locate the space in which policy was, to
+                    some extent, in flux. You mentioned earlier the difficulty of reconciling the
+                    integration of Germany into the Western alliance, while at the same time
+                    supporting, to some extent, the eventual unification of Germany and keeping
+                    that, which, I think we can agree, was a very difficult balancing act for
+                    decades. I wonder if you can comment, though, that just at this time in 1953, we
+                    have Kennan, for the first time, explicitly proposing the potential
+                    demilitarization of Germany, or the United States's withdrawal of Germany, in
+                    part as a way of forcing the Soviets to reciprocate, and therefore moving the
+                    Soviet forces from his view farther to the east, and that's followed almost
+                    immediately by Dulles proposing similarly a withdrawal of both Western and
+                    Soviet troops on the premise that the United States might, the West might never
+                    again be in as strong a position as it is then to basically compel some type of
+                    settlement through the middle of Europe. So I guess my question is, to what
+                    extent was there still debate in Washington as to a) the sort of deployment of
+                    US troops or NATO troops in Germany for the foreseeable future, or some sort of
+                    effort at that point to either withdraw troops, neutralize Germany, some other
+                    solution other than the one that turned out to be what was followed, and many
+                    would argue was successful?</p>
+                <pb facs="0012" n="Page0012"/>
+                <p>BOWIE: Well, I think that the view of those who had been arguing that the way to
+                    deal with Germany was to integrate it was that if you tried to create a Germany
+                    which was theoretically or really neutral, there was a real likelihood that the
+                    Soviets by subversion would be able ultimately to become dominant in that whole
+                    area. After all, of course, you'd had the whole period after the war of seeing
+                    how the Soviets, when they got any real opportunity to do so, had been able to
+                    really put the screws on each of the Eastern European members of its empire. And
+                    so it was really the belief that a Germany which was neutral would play games,
+                    would try to play both sides of the street, and that, under those circumstances,
+                    it was likely to end up with Soviet domination rather than real independence,
+                    real neutrality. And so, I think Eisenhower, for example, had no interest
+                    whatever in trying to have a neutralized Germany, because hbelieved it would be
+                    a source of instability. So that notion was really rejected by the
+                    administration.</p>
+                <p>Q-Livingston: We've got about another half an hour, and I'd like to open it up,
+                    if the panelists are willing, to chances from the audience, let me say if you
+                    have questions, please...</p>
+                <p>BOWIE: Now, let me just tell you so you won't be misled that after you ask the
+                    question, I will not have understood it because of all the echoes, and
+                    Livingston's going to translate for me.</p>
+                <p>Q-Livingston: Right, and there are certain subjects that Bob can't address
+                    because he just simply wasn't there, for the time of the airlift, for example.
+                    So, please stand up, and, we have a microphone, don't we? And put your question
+                    directly to Bob and move forward if you want to, Peter, and make it as clear as
+                    you can.</p>
+                <p>Peter Quint: My name's Peter Quint, and I'd like to go back to McCloy and ask
+                    about the release of convicted war criminals by McCloy and ask to what extent
+                    was this a decision of his, and to what extent was this a decision that came
+                    from the higher echelons of the government? And, what did he...was this an
+                    agonizing, a difficult decision for him, or was it something that he thought was
+                    clearly correct?</p>
+                <p>Q-Livingston: [repeating for Bowie]: The question of the war criminals—what was
+                    McCloy's attitude toward that. Was it his decision, the decisions to release,
+                    pardon the war criminals, [did it] come from higher echelons of the government?
+                    Was it hard for him to do this? [To Quint] You didn't ask this but, [To Bowie]:
+                    What sort of pressures was he under to bring about these pardons? [To audience]:
+                    Bob was intimately involved in this.</p>
+                <pb facs="0013" n="Page0013"/>
+                <p>BOWIE: Well, he inherited this from Clay. Clay had said he would like to deal
+                    with it, but he never got around to finishing it off. And so there were
+                    something like a hundred of these people of various sorts who had been convicted
+                    with sentences of all sorts, high, up and down: ten years on one end and death
+                    penalty on the other. And McCloy, as the military governor, had to deal with
+                    these. The pressures from the Germans to mitigate or deal with these in various
+                    ways were just horrendous. It was unbelievable! The churches urged that there be
+                    clemency or that the sentences be changed, particularly with respect to the
+                    death penalties, which were I think about a dozen or so, and they cited the fact
+                    that the Basic Law which they had adopted outlawed death penalties. And, as I
+                    say, many of the high church people were pressing very hard and some of Germans,
+                    particularly military types, tried to create the impression that he should
+                    mitigate these sentences if he expected Germany to contribute to defense.
+                    Acheson, essentially, I think, took the view that it was entirely up to McCloy.
+                    There was no instruction, as far as I know, from headquarters to McCloy. And
+                    McCloy told Acheson that he wanted to have an independent committee that would
+                    advise him on what to do with respect to these various sentences. And he got a
+                    committee of three people, I think it was three. One of them was a distinguished
+                    New York judge named Peck. The second one was a man, a New Yorker, who was in
+                    charge of paroles and modifying sentences in the New York system. And the third
+                    person was a man named Snow who had been and still was, I think, a legal advisor
+                    in the State Department. So these three people were convened to review all the
+                    sentences and to give their advice to McCloy. They studied these records. They
+                    were not supposed to go back over the testimony, but they were supposed to
+                    consider all the other aspects of the sentences. One of them did a study during
+                    the summer, and the three of them got together for about six weeks and went over
+                    all the records and came up with a report.</p>
+                <p>The report recommended that many of the sentences be modified. With respect to
+                    the death penalties, I think it was something like a half of them which they
+                    thought should be reduced to life sentences, and then with respect to the lesser
+                    sentences, they proposed a very large number be reduced somewhat. The principle
+                    reason for many of these was the disparity among the different sentences for
+                    similar offenses that had been heard by different judges, and second, that there
+                    was a general tendency for the sentences given in the early stages to be more
+                    severe than those given in the later cases. So they tried, I think, to more or
+                    less equalize them. And in the case of a number of the death penalties, they
+                    decided that it was excessive, in view of the facts found by the court on which
+                    the sentence was based.</p>
+                <pb facs="0014" n="Page0014"/>
+                <p>After McCloy had had a chance to study the report and talk to the committee, he
+                    did reduce a number of the sentences in accordance with their proposals. And
+                    also changed, I guess, about half or a significant part of the death penalties.
+                    One of the sentences which was changed, which later caused a lot of press
+                    coverage and protests, was about Krupp. Krupp was the son. The father had been
+                    indicted, but it was found that he was not capable of having a trial. He was ill
+                    or something. So they simply took his son who had had a relatively minor
+                    position in the Krupp enterprise—I think he was a member of the Board of
+                    Directors or something like that. Most of these cases had involved slave labor;
+                    that was the charge. And, anyway, McCloy apparently was somewhat affected by the
+                    idea that they had simply substituted the son because they couldn't get the
+                    father. So I think that was one case where it was influenced by that condition.
+                    But otherwise, he'd largely followed the advice of the committee.</p>
+                <p>Q-Livingston: Your advice. You advised on this too, did you not?</p>
+                <p>BOWIE: I didn't advise him on the individual cases. I reviewed the Board Report,
+                    and I gave him my general impression that they had been somewhat lenient. But I
+                    think he felt the board had been conscientious, they were men of integrity, and
+                    that they had done their best. The later charges that he made his decisions to
+                    placate the Germans, in the sense that they were not based on the merits, I
+                    think is absolutely false. I think he really did his very level best as a lawyer
+                    to do what he felt was just or fair in light of all the circumstances.</p>
+                <p>Q-Livingston: Any more questions from the floor, please, would you take a
+                    microphone and get as close to Bob as you can.</p>
+                <p>Speaker: Mr. Bowie, this is about Clay and the currency reform. Did Clay have to
+                    battle tooth and nail with Washington to get the authority to execute the
+                    currency reform, or did he have to simply outfox Washington in the way that you
+                    described earlier today?</p>
+                <p>Q-Livingston: [repeating for Bowie]: The currency reform, which is, of course,
+                    after your time. Did Clay have difficulties with Washington on trying to get the
+                    currency reform put through? Did he have to outfox Washington in order to get it
+                    put through? This was the currency reform of 1948.</p>
+                <p>BOWIE: I just honestly don't know. I can't remember a thing about that. This was,
+                    I think, after you had the merger of the three zones for the purpose of
+                    administration, and they decided that it would be necessary and desirable to
+                    have a currency reform. I think the initiative for some of these things came
+                    from Erhard, and I simply don't remember a thing about whether or not Washington
+                    intervened. He did, I think, have various arguments from time to time about
+                    economic policy, which the State Department argued for, and he had a different
+                    policy. And I think there was a feeling on the part of the State Department that
+                    he was kind of difficult to deal with. But, I can't answer your question.</p>
+                <pb facs="0015" n="Page0015"/>
+                <p>Q-Livingston: Do we have anything more from the floor? At all? I have a couple of
+                    questions, but, Paul and Richard? We've got about fifteen minutes left. (Pause).
+                    Well, I wanted to ask you to talk a little about something we talked about in
+                    the car coming down, Bob, which I think is perhaps not given sufficient
+                    attention. And that is, in this period of the transition from the Allied Control
+                    Council to the bizonal and trizonal, the obstacles that the French put up. I
+                    remember you were saying the other day on the phone that in some regards, the
+                    French were more difficult in the early years than even the Soviets were, in
+                    terms of four-power administration. Could you say a little bit about that?</p>
+                <p>BOWIE: Well, I don't know that I'd say that they were more difficult than the
+                    Soviets, but the French had lively memories of the German occupation, and they
+                    had more historic memories of other fights with the Germans. And so they were
+                    inclined to resist anything which had a tendency to build up the power of
+                    Germany even in a small way. And so, in the very early stages in particular,
+                    when the Control Council began to meet and tried to keep Germany as a whole and
+                    tried to enact certain provisions that had the effect of reviving the power or
+                    strength of Germany, even in a mild way, they tended to take the initiative in
+                    opposing the decisions by the Control Council. It was pretty clear that the
+                    Soviets were letting them carry the onus of being the bad boy because as long as
+                    the French were blocking it, the Soviets didn't need to. But sooner or later, it
+                    became clear that they were at least as strong in opposing many of these actions
+                    as were the Soviets. I should say at the very beginning, Clay considered that
+                    one of his implicit instructions was to try to see if they couldn't continue the
+                    cooperation which they had had more or less during the war with the Soviets. In
+                    other words, there was a real effort to try to have friendly or cooperative
+                    relations with the Soviets. And, in fact, this was actually successful in a
+                    certain mild, human way in the first year or two. I remember, for example, in
+                    the first New Year's, we had a four-power ball, and each country provided part
+                    of the entertainment. We had some kind of a jazz contribution, and I think the
+                    French had a well-known chanteuse. The Russians, I think, had a Russian chorus.
+                    But, in any event, Bill Draper, who was the economic man for Clay, took the
+                    little group of four and took me along because I was living with him to the
+                    rest-and-relaxation facilities that the army had acquired in the Riviera. And so
+                    we spent a weekend in the Riviera. And on the way back home, the French
+                    representative had us stop in Paris, and he took us to a show at one of the
+                    caf�...places, and the older Russian, who was rather puritanical, was horrified
+                    at the displays, the nudity. The young man who was his assistant obviously had a
+                    somewhat different reaction. (laughter) But what I'm trying to illustrate is
+                    that we were really making an effort to have a nice relation with the Russians,
+                    it was more or less reciprocal. Because many of these people had been recruited
+                    for some of these posts from academic or other places, that is, they were not
+                    strictly party types. But after about two or three years, it began to be clear
+                    that the Soviets were not going to be cooperative. But it took the French some
+                    years before they began to recognize the desirability of trying to seek
+                    reconciliation, before they were willing, for example, to join in on the
+                    tripartite arrangements, to try to treat Germany, as provided in the Potsdam
+                    protocol, as a unit in order to make it possible for recovery. But even so, they
+                    were sensitive about the rearming of Germany. That was quite a different
+                    thing.</p>
+                <pb facs="0016" n="Page0016"/>
+                <p>Q-Livingston: I've got one more thing I'd like to ask before we break unless
+                    either of you do [to Steege and Immerman] and that is to describe—which is well
+                    described in the book that you and Richard Immerman wrote together—the Solarium
+                    exercise. What that was, you know, and what brought it on, and what was the
+                    outcome.</p>
+                <p>BOWIE: Well, it started with a meeting that was held by Eisenhower very shortly
+                    after he took office, and the meeting included people like Alan Dulles, and
+                    somebody from the Defense Department, and Eisenhower himself, and Humphrey from
+                    Treasury. Anyway, they were talking generally about what the situation was
+                    vis-�-vis the Russians. And Dulles expressed some rather pessimistic views—more
+                    or less that the Russians were doing better than we were in terms of how they
+                    were conducting their policy, and simply raised the question about whether or
+                    not we were having the right stance with respect to the Russians. So, Eisenhower
+                    said, Well, why don't we have a real exploration of this? And he said, I think
+                    we ought to have three small groups composed of qualified people from the CIA,
+                    the Defense and State Departments, I mean, diplomats, or people who knew about
+                    diplomacy, policy-making, and ask each of them to take a particular policy
+                    possibility. There will be three of them: there will be continuation of
+                    containment; drawing the line, as it was described, in which you said to the
+                    Soviets, if you use any method of getting beyond your present area, you're going
+                    to have a fight. We'll resist it very strongly; and finally, rollback. And each
+                    of the three groups was given about six weeks to make a study, and they were
+                    told to make the best case they could for this point of view, this policy, in
+                    each case. And then, they did this, each of them made a written report, but then
+                    they had a meeting in the White House for almost a whole day, in which they made
+                    their presentations, and they were supposed to explain what it was that you
+                    would do, what would be the risks and costs, what would be the likelihood of
+                    success, and so on, and particularly, the risk of war. And, so each of them made
+                    their written report, and then each of them made their oral presentation. And
+                    you had the people from the Planning Board, the members of the NSC itself, and
+                    Eisenhower, and the Cabinet. And, at the end, Eisenhower gave about a 45-minute
+                    reaction or summary of his impression of the whole thing. And amazingly, Kennan
+                    once said essentially that Eisenhower showed his intellectual ascendancy over
+                    any man in the room, and everybody was astounded; that included himself.
+                    (laughter)</p>
+                <pb facs="0017" n="Page0017"/>
+                <p>Anyway, the Solarium Exercise was treated only as an input to making the
+                    strategy. Eisenhower asked the NSC adviser Cutler to put together with the help
+                    of the members of the groups the gist of what had been said and to give it to
+                    the Planning Board to use as one input in preparing the first NSC strategy
+                    paper. And this caused a little problem because when Cutler put it together, he
+                    framed it as a directive, and the Planning Board took the view that he was not
+                    supposed to be a policy-maker, and that it was not appropriate for him to be
+                    trying to dictate or suggest that this was an instruction. In fact, anticipating
+                    this, Dulles wrote me a little note saying, We did not intend what was prepared
+                    by Cutler to be an instruction. It was only intended to be an input. I expect
+                    you and the other members of the Planning Board to give us your judgment of what
+                    you feel should be the right policy. Anyway, it was only treated as an input.
+                    But Eisenhower himself told Goodpasture, who he put on the rollback panel, that
+                    he was putting him on because he wanted to be sure that somebody had good sense.
+                    (laughter)</p>
+                <p>Q-Livingston: Do we have any other questions at all here in the audience? Well,
+                    thank you all very much. Thank you, Paul; thank you, Richard; thank you, Stu;
+                    and thank you, Bob, most of all, for answering all the questions that you said
+                    you couldn't answer! Including many more. (laughter) Philipp, we're about to
+                    break up, but if you have any other questions?</p>
+                <p>Q-Gassert: Did anyone ask the Berlin Airlift question? How did it impact the
+                    political scene in this country?</p>
+                <p>Q-Livingston: He wants to ask you about the Berlin Airlift. How did it impact the
+                    political scene in this country? You were back here then.</p>
+                <p>BOWIE: Well, the way in which the Berliners endured this and stuck with it I
+                    think impressed the public back here. It was a plus from the point of view of
+                    sympathy for the Berliners. The public was outraged by the blockading the food
+                    and all the rest. And there was considerable pride in the fact that the airlift
+                    had outdone the Soviets, and I think a considerable amount spilled over into
+                    admiration for the way in which the Germans had lived through it and helped with
+                    it.</p>
+                <p>Q-Gassert: So, it really changed the image of Germany, I guess.</p>
+                <p>BOWIE: This was one of the things also that enormously impressed Clay with
+                    respect to Reuter because when he was starting this, it wasn't altogether clear
+                    just how well it was going to work, or how much he was going to be able to ship.
+                    They were able to ship much more than they had expected, especially after he got
+                    the larger planes. I think Clay had said to Reuter, Do you think the people of
+                    Berlin will be able to manage this if we try, and he assured him absolutely that
+                    they would, and Reuter's leadership apparently was very important in making sure
+                    that the people stood staunchly with it.</p>
+                <pb facs="0018" n="Page0018"/>
+                <p>Q-Livingston: Paul, do you want to ask, it was your period for your book—does
+                    that fit more or less with your impression?</p>
+                <p>Q-Steege: Well, I think that the relationship between Reuter and Clay is really
+                    important, but I think the thing that I would underscore is the ways in which
+                    Berliners played an absolutely vital role in sustaining themselves, and that the
+                    airlift never brought in all that people needed to survive. One of the
+                    interesting things is the ways in which the blockade was never total and the
+                    airlift was never total, and that Berliners played a very important role in
+                    shaping how that event operated. But I think the ways in which Clay and Reuter
+                    were very astute at creating impressions about what was going on and also of
+                    elaborating the solidarity were absolutely central to that moment.</p>
+                <p>Q-Livingston: Well, that's where your Alltagsgeschichte really does play a role.
+                    And I think the other factor about Berlin, of course, was—and that was true
+                    right to the end—it attracted the media, even though, for all sorts of reasons,
+                    and I mean, the best American reporters were in Berlin during the time—Maggie
+                    Higgins and all these people, reporting extensively, and that made a
+                    difference.</p>
+                <p>BOWIE: And, you know, it was a real success. And it was a sort of achievement by
+                    technological means and peaceful means—it made a good impression.</p>
+                <p>Q-Livingston: Well, let me thank you again for all your participation, and I
+                    guess we have little something in the other room, right?</p>
+                <p>Q-Gassert: Yes, we would like to invite you over to the next room. We have a
+                    lunch there, so please stay here and continue our discussions over lunch.</p>
+                <p>Q-Livingston: Thank you.</p>
+                <p>Q-Gassert: Thanks again.</p>
+                <p>End of interview</p>
+            </div>
+        </body>
+    </text>
 </TEI>
