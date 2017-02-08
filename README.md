@@ -5,7 +5,7 @@ A prototype app for browsing and searching Association for Diplomatic Studies an
 ## Current status
 
 - [x] Obtain all 1,724 interviews (text and metadata) from https://www.loc.gov/collections/foreign-affairs-oral-history/about-this-collection/
-    - [x] Download source XML and JSON data (see XQuery scripts in the `import-scripts` directory)
+    - [x] Download source XML and JSON data. For example, for the [Interview with L. Bruce Laingen](https://www.loc.gov/item/mfdipbib000651), see its original [XML source data](https://cdn.loc.gov/service/mss/mfdip/2004/2004lai01/2004lai01.xml) and [JSON-encoded metadata](https://www.loc.gov/item/mfdipbib000651?fo=json). The XQuery scripts used to download the data are in the `import-scripts` directory)
     - [x] Place JSON-encoded metadata in `data/metadata`
     - [x] Place full text XML-encoded interviews in `data/interviews`
     - [x] Convert LOC's P4(?)-era TEI XML to P5-conformant TEI XML (referencing American Memory DTD documentation at https://memory.loc.gov/ammem/amdtd.html; see XQuery scripts in `import-scripts`)
