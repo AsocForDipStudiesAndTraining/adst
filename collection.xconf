@@ -5,6 +5,7 @@
         <lucene>
             <text qname="tei:body"/>
             <text qname="tei:head"/>
+            <text qname="tei:p"/>
             <text match="//tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>
             <text match="//tei:fileDesc/tei:titleStmt/tei:title"/>
         </lucene>
