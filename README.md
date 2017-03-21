@@ -35,13 +35,13 @@ For example, the LOC makes the ADST [Interview with L. Bruce Laingen](https://ww
 
 ## Dependencies
 
-- eXist-db 3.0.3 (required for TEI Publisher libraries)
-- Apache Ant
+- eXist-db 3.1.0+ (required for TEI Publisher libraries)
+- Apache Ant (required to build a package from source code)
 
 ## Installation
 
-- Call `ant` to build an application package (deposited in the `build` directory)
-- Install the package via eXist Dashboard > Package Manager
+- Download the latest release via <https://github.com/joewiz/adst/releases>, or clone this repository and build an installer package by calling `ant` to build an application package (deposited in the `build` directory)
+- Install the package (the .xar file that you download or build) via eXist Dashboard > Package Manager
 - Access via <http://localhost:8080/exist/apps/adst/>
 
 ## Screenshots
